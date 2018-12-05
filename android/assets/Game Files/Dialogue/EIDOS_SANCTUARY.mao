@@ -1869,34 +1869,34 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.4010!FENRIR!]
 		||
-		*"The weave of time's skein invisible remains until it fully woven be. To view it or ignore, to hate it or embrace, this alone can we choose."*
+		*"Time's skein invisible remains until fully woven. Chaos the weaver be, and none can beyond its tapestry glance."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.4011!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.4010!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.4011!FENRIR!]
 		||
-		*"Yet, why dwell upon what we cannot divine, when much remains we can do? To start, I can you aid, if leaving this chamber your will be..."*
+		*"Though, why dwell upon what we cannot affect, when much remains we can? To start, I can you aid, if leaving this chamber your will be..."*
 		(A#"I'm listening..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
 		(B#"I see no benefit in continuing this conversation."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.4011!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.501!FENRIR!]
 		||
-		*"A cage you see, yet if true, one of ill make. Any of these doors may yield if you so wish it. Or perhaps you refer to the prison of your Self?"*
+		*"A cage you see, yet if true, one of ill make. Any of these doors may at your will yield. Or perhaps to the prison of your Self you refer?"*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.5010!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.501!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.5010!FENRIR!]
 		||
-		*"Though it may be your limits are fixed, you have done little to explore them."*
+		*"Though your limits fixed may be, little have you to explore them attempted."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.5011!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.5010!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.5011!FENRIR!]
 		||
-		*"Aiding your leave from this chamber, that you may explore, this is within my ken. Though freely given is my help, yours is the choice to accept."*
-		(A#"Tell me of this 'aid' and we shall see."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
-		(B#"I do not trust you."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
+		*"Aiding your leave from this chamber, that you may explore, this can I do. Though freely given my help be, acceptance with you lies."*
+		(A#"Tell me of this 'aid' and we shall see..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
+		(B#"I have no reason to trust some mangy beast."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.5011!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X502!FENRIR!]
@@ -1908,44 +1908,56 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.000!FENRIR!]
 		||
-		*"Many have I in my hunger consumed. Some bore Glyphs, their etched thoughts now carved into my Trueflesh."*
+		*"Many have I in my hunger consumed. Some bore Glyphs, their etched thoughts now into my Trueflesh carved."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.000!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!]
 		||
-		*"Though mine is neither to read nor write the Glyphs, a use these symbols will have cast as Sigils for you."*
+		*"Though neither can I the Glyphs read nor write, a use these symbols cast as Sigils will for you have."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.002!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.002!FENRIR!]
 		||
-		*"To teach you of their nature lacks meaning. Glyphs are known through their use and not their reading."*
+		*"Glyphs through their use, not their reading, known be. Sigils as reader act, so that without knowing you may the Glyphs use."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.003!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.002!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.003!FENRIR!]
 		||
-		*"But to grant one fleeting Sigil now to you, my ken allows..."*
+		*"Granting one fleeting Sigil now unto you, my ken allows..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.004!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.003!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.004!FENRIR!]
 		||
-		*"Speak your truth! What reason have you to the Awakening Chamber leave?"*
-		(A#"To meet and understand all folk."){A:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
+		*"Your truth speak! What reason have you to the Awakening Chamber leave?"*
+		(A#"To meet and understand others."){A:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
 		(B#"To seek and know the truth."){B:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
 		(C#"To exist is enough; leaving is immaterial."){C:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
-		(D#"To live according to my will."){D:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
-		(E#"To become more than what I am."){E:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
-		(F#"To uncover the gremlin conspiracy..."){F:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
+		(D#"To live without fear."){D:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
+		(E#"To exceed my limits."){E:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
+		(F#"To uncover the gremlin conspiracy!"){F:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.0050!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.004!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!]
 		||
-		*"No loremaster of thoughtcraft am I, but with your essence - moreso than any motivation to word translated - yes, with your Trueflesh more strongly did one symbol resonate..."*
+		*"Though I no loremaster of thoughtcraft be, with your nature - more than with any motivation to word translated - yes, with your Trueflesh more strongly did one symbol resonate..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.006!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!/]
+
+    [/KABU!SANCTUARY!AWAKENING CHAMBER!1.0050!FENRIR!]
+		||
+		*"...in truth?"*
+		(F#"Well, can't really unsay it, so let's go with that!"){F:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.0051!FENRIR!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.0050!FENRIR!/]
+
+    [/KABU!SANCTUARY!AWAKENING CHAMBER!1.0051!FENRIR!]
+		||
+		*"Perhaps you beyond aid be... But I shall still attempt..."*
+		(F#"TALLY HO!"){F:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.0051!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.006!FENRIR!]
 		||
@@ -1958,81 +1970,88 @@ FENRIR
 		(F#LOO){F:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12403-2!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.006!FENRIR!/]
 
+
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.001!FENRIR!]
 		||
-		*"Chosen are you by the Glyph of Farcasting."*
+		*"The Glyph of Farcasting."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!2.0010!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.001!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0010!FENRIR!]
 		||
-		*"Outward is your mind directed, to the minds and thoughts of those beyond yourself; the metal seal, your path to meet them."*
+		*"Outward your mind points. Knowing others your desire be. The metal seal, your path to them meet."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0010!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.002!FENRIR!]
 		||
-		*"Chosen are you by the Glyph of Awareness."*
+		*"The Glyph of Awareness."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!2.0020!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.002!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0020!FENRIR!]
 		||
-		*"To meaning and reason your mind is drawn, to understanding what is; with this Glyph, knowledge envied by the learned is yours."*
+		*"To meaning and reason your mind flocks, to understanding, to learning. This Glyph, a key to the world hidden beneath the superficial be."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0020!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.003!FENRIR!]
 		||
-		*"Chosen are you by the Glyph of Disicpline."*
+		*"The Glyph of Disicpline."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!2.0030!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.003!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0030!FENRIR!]
 		||
-		*"Unwavering is your mind and thought; you would be apart from those who would seek to make you as they."*
+		*"In mind and thought unwavering, though in aim malleable. Path unknown, possibilities boundless, you proceed."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0030!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.004!FENRIR!]
 		||
-		*"Chosen are you by the Glyph of Awareness."*
+		*"The Glyph of Awareness."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!2.0040!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.004!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0040!FENRIR!]
 		||
-		*"Your mind a world of threats sees; with this Glyph, your survival can be guarded."*
+		*"Your mind a world of threats sees. With this Glyph, you can the unknown come to know."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0040!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.005!FENRIR!]
 		||
-		*"Chosen are you by the Glyph of Discipline."*
+		*"The Glyph of Discipline."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!2.0050!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.005!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0050!FENRIR!]
 		||
-		*"Freedom from bonds is your purpose; others have thought as you do, their legacy carved in this Glyph."*
+		*"Freedom from bonds your aim be. Others have your aim shared, their legacy in this Glyph etched."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0050!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.006!FENRIR!]
 		||
-		*"Chosen by the Glyph of Farcasting you are."*
+		*"The Glyph of Farcasting."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!2.0060!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.006!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0060!FENRIR!]
 		||
-		*"Yours a vision of chaos and levity is; let it by this Glyph unbound be."*
-		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!}
+		*"Yours a vision of chaos and levity may be, pushed to far to lunacy swells..."*
+		(F#"Is it the good kind of swelling or the bad?"){F:0,KABU!SANCTUARY!AWAKENING CHAMBER!2.0061!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0060!FENRIR!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0061!FENRIR!]
+		||
+		*"Some hot prefer, some cold. Either extreme can harmful be."*
+		(F#"Fine, mom. I'll be careful... Sheesh!"){F:0,KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0061!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!]
 		|@:KABU!SANCTUARY!AWAKENING CHAMBER!10.X000!FENRIR!|
-		*"Your Sigil bears the Glyph's mark and now our parting comes. Till we meet anew, daughter of Viracocha..."*
+		*"Your Sigil now the Glyph's mark bears. Our parting nears. Till we meet anew, daughter of Viracocha..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9999.X9999!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!/]
 
@@ -2065,7 +2084,7 @@ Eidos fucked up dialogue
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!11.001!FENRIR!]
 		||
-		*"A meagre feast for me, for only in the Grays lurks my prey."*
+		*"A meager feast for me, for only in the Grays does my final prey lurk."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!11.002!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!11.001!FENRIR!/]
 
@@ -2077,13 +2096,13 @@ Eidos fucked up dialogue
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!11.003!FENRIR!]
 		||
-		*"Still, not just death comes for you today, daughter of Viracocha."*
+		*"But, Death alone does not your company seek, daughter of Viracocha."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!11.004!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!11.003!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!11.004!FENRIR!]
 		||
-		*"The end your company seeks..."*
+		*"The end your company desires... Never again shall we meet."*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!11.004!FENRIR!/]
 
@@ -2091,19 +2110,19 @@ Eidos fucked up dialogue
 Event 20000 is true from previous files
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.000!FENRIR!]
 		||
-		*"You awaken... Good."*
+		*"Awake at last... Eyes open, but be they yet with sight?"*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!20.001!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.000!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.001!FENRIR!]
 		||
-		*"But an unfitting dwelling is this Sanctuary for ones such as we."*
+		*"The darkness of this Sanctuary blinds, an unfitting dwelling for our ilk."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!20.002!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.001!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.002!FENRIR!]
 		||
-		*"To leave this room is your aim; this I foretell, if akin to mine is your nature."*
+		*"To leave this room you aim. Certain truth, as akin to mine your nature be."*
 		(A#"Fenrir, it's me Eidos. Don't you remember?"){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.100!FENRIR!}
 		(B#"Why is this happening again?"){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.200!FENRIR!}
 		(C#"I cannot trust you."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.300!FENRIR!}
@@ -2114,23 +2133,23 @@ Event 20000 is true from previous files
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.100!FENRIR!]
 		||
-		*"How can I remember one who I have but now just met?"*
+		*"Remember? Memory, the domain of finished events be... We have only now just met, an event unfinished, barely yet begun. Memory of it impossible be."*
 		(A#"Fenrir, a man named Nargund ordered you to consume me."){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
-		(B#"So you have no recollection of the last time we met?"){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
+		(B#"So you have no memory of the last time we met?"){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 		(E#"Don't lie to me, cur! You and the old man tried to kill me!"){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.100!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.200!FENRIR!]
 		||
-		*"Again? Never before have we spoken, to my memory."*
+		*"Again? Never before have we met, to my memory. That an event may twice happen, it must first once occur."*
 		(A#"So you have no recollection of the last time we met?"){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
-		(B#"Then your recollection is flawed."){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
-		(C#"It's not impossible; we have met."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
+		(B#"Then your memory is flawed."){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
+		(C#"This has happened before."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.200!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.300!FENRIR!]
 		||
-		*"Trust is won, likewise is distrust; if knowledge of my trustworthiness is not with you, why distrust so readily?"*
+		*"Trust must earned be, likewise distrust... If we only now just met, why distrust so readily?"*
 		(B#"Your Father commanded you to 'consume' me."){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 		(C#"I distrust you because of our previous encounter."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 		(D#"Am I to trust every wolf who should randomly appear before me?"){D:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
@@ -2138,7 +2157,7 @@ Event 20000 is true from previous files
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.400!FENRIR!]
 		||
-		*"You do not guess, for the truth is with you - though this knowledge was not yet yours to have..."*
+		*"You do not guess, for the truth from your mouth springs - though this knowledge not yet yours should be..."*
 		(C#"We've met before."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 		(D#"I'm hurt you don't remember me... I must've been unpalatable."){D:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 		(E#"You're bold to offer knowledge when you forget people so easily, dog."){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
@@ -2146,7 +2165,7 @@ Event 20000 is true from previous files
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.500!FENRIR!]
 		||
-		*"...If Father thus commanded, I would obey - though this command has not been given..."*
+		*"...If Father thus commanded, I would obey - though this command he has not given..."*
 		(A#"We've met previously, cur. Now summon him!"){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 		(D#"What a well-behaved mutt..."){D:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
 		(E#"The old man called for my death; now I call for his."){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
@@ -2154,7 +2173,7 @@ Event 20000 is true from previous files
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.600!FENRIR!]
 		||
-		*"None, Eidos."*
+		*"...None, Eidos."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!20.6000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.600!FENRIR!/]
 
@@ -2166,39 +2185,39 @@ Event 20000 is true from previous files
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.6001!FENRIR!]
 		||
-		*"Though knowledge to aid in your departure is with me, should learning it be your will."*
+		*"Though knowledge to aid in your departure I can offer, should learning it your will be."*
 		(F#"No thanks, last time you tried to eat me!"){F:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.6002!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.6001!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.6002!FENRIR!]
 		||
-		*"Last time? But Eidos, this is when first we meet..."*
-		(F#"You callin' me crazy? Your old man told you to eat me!"){F:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
+		*"Last time? But Eidos, we have only now just met..."*
+		(F#"You callin' me crazy, foo?!"){F:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.6003!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.6002!FENRIR!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.6003!FENRIR!]
+		||
+		*"No, I simply cannot such an unremembered past fathom."*
+		(F#"Well, you're smart for a dog, but I guess my genius is far beyond your feeble mind!"){F:1,KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!20.6003!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!]
 		||
-		*"Perhaps truth is as you speak; a mere slayer am I, by hunger bound and by instinct set. But yours is a nature that shall know these truths beyond mere sight."*
+		*"Perhaps truth you speak. A mere slayer I be, by hunger bound and by instinct set. But you such bonds lack. You can these truths beyond mere sight see."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!20.1010!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.101!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.1010!FENRIR!]
 		||
-		*"Father spoke true, it will ever be thus. Our natures' fullness is from us hidden; only in the eyes of others beheld."*
+		*"Father spoke true, it will ever thus be. Our natures' fullness from us hidden be, and only in the eyes of others beheld."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!20.1011!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.1010!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.1011!FENRIR!]
 		||
-		*"The Sigil of Farcasting is yours by nature; with it, yet more eyes will your fullness see."*
+		*"The Sigil of Farcasting does you serve; with it, yet more eyes will your fullness see."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12403-3!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.1011!FENRIR!/]
-
-	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.1012!FENRIR!]
-		||
-		*"Your Sigil bears the mark and now our parting comes. Till we meet anew, daughter of Viracocha..."*
-		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9999.X9999!FENRIR!}
-	[KABU!SANCTUARY!AWAKENING CHAMBER!20.1012!FENRIR!/]
 
 
 
@@ -2229,7 +2248,7 @@ NARGUND
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.200!NARGUND!]
 		||
-		*"Your path, seeking but blind; your mind a mere parody of a learned wisdom; half seeks the truth, the other seeks nothing..."*
+		*"Your path, seeking but blind; your mind a mere parody of a learned wisdom; half seeks the truth, the other seeking chaos..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.2000!NARGUND!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.200!NARGUND!/]
 
@@ -2247,7 +2266,7 @@ NARGUND
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.3000!NARGUND!]
 		||
-		*"Was this the great vision of 'Biracul'?"*
+		*"Was the 'wise' Viracocha's great vision?"*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.700!NARGUND!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.3000!NARGUND!/]
 
@@ -2284,13 +2303,13 @@ NARGUND
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.6000!NARGUND!]
 		||
 		*"Overwhelmed by circumstances, did you succumb to lunacy?"*
-		(F#"Succumb? It was totally intentional, bro."){F:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.700!NARGUND!}
+		(F#"Lunacy? At least I'm not the one cosplaying as a wizard..."){F:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.700!NARGUND!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.6000!NARGUND!/]
 
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.700!NARGUND!]
 		||
-		*"Yet it matters not; for in the end, you sealed off all exits, burned all bridges. Much was set up for you here, yet you managed to destroy it all..."*
+		*"It matters not; for in the end, you sealed off all exits, burned all bridges. Much was set up for you here, yet you managed to destroy it all..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.7000!NARGUND!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.700!NARGUND!/]
 
@@ -2345,9 +2364,21 @@ NARGUND
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.001!NARGUND!]
 		||
-		*"Consume her Trueflesh; leave not a shred for Conscientia to resurrect."*
-		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9999.X0000!NARGUND!}
+		*"Consume her Trueflesh; leave not a shred for Conscientia to resurrect!"*
+		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.002!NARGUND!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.001!NARGUND!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.002!NARGUND!]
+		||
+		*"We're done with this experiment, Viracocha. Eidos will be erased from space and time!"*
+		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.003!NARGUND!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.002!NARGUND!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.003!NARGUND!]
+		||
+		*"Conscientia... has won..."*
+		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9999.X0000!NARGUND!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.003!NARGUND!/]
 
 
 
@@ -4985,7 +5016,7 @@ EVENT WRITERS
 	[KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-3!FENRIR!]
-		|12900:KABU!SANCTUARY!AWAKENING CHAMBER!20.1012!FENRIR!|
+		|12900:KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!|
 		*EVENT WRITER - Met Fenrir*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-3!FENRIR!/]

@@ -1577,37 +1577,37 @@ FENRIR
 >>>Have introspection (14002)<<<
 	[/MIND!MINDSCAPE!GRAYLANDS!0.X000!FENRIR!]
 		|^14002:MIND!MINDSCAPE!GRAYLANDS!1.000!FENRIR!|
-		*"Earned must be the right to wander the Grays. Introspection, part of your nature will become, but as skill it must be learned..."* 
+		*"The right to wander the Grays to those who earned it belongs. Introspection may someday part of your nature become, but not today."*
 		(A#"..."){A:0,MIND!MINDSCAPE!GRAYLANDS!0.0000!FENRIR!}
 	[MIND!MINDSCAPE!GRAYLANDS!0.X000!FENRIR!/]
 
 	[/MIND!MINDSCAPE!GRAYLANDS!0.0000!FENRIR!]
 		||
-		*"Tarry not in here, for becoming lost in the tumult of souls and forgetting to recognize your own awaits. Begone!"*
+		*"Do not in here linger! For becoming lost in the tumult of Trueflesh, you will your own forget. Begone!"*
 		(A#"..."){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.X103!DESCRIPTION!}
 	[MIND!MINDSCAPE!GRAYLANDS!0.0000!FENRIR!/]
 
 	[/MIND!MINDSCAPE!GRAYLANDS!1.000!FENRIR!]
 		||
-		*"Why is it you come here not of your own will, but by happenstance?"*
+		*"Why come you not by desire, but by happenstance?"*
 		(A#"..."){A:0,MIND!MINDSCAPE!GRAYLANDS!1.0000!FENRIR!}
 	[MIND!MINDSCAPE!GRAYLANDS!1.000!FENRIR!/]
 
 	[/MIND!MINDSCAPE!GRAYLANDS!1.0000!FENRIR!]
 		||
-		*"A being beyond you may be, but nothing beyond nature is!"*
+		*"Though as a being beyond you stand, nothing beyond nature be!"*
 		(A#"..."){A:0,MIND!MINDSCAPE!GRAYLANDS!1.0001!FENRIR!}
 	[MIND!MINDSCAPE!GRAYLANDS!1.0000!FENRIR!/]
 
 	[/MIND!MINDSCAPE!GRAYLANDS!1.0001!FENRIR!]
 		||
-		*"Tarry long in here without proper understanding of why you come, and you will be lost in the tumult of souls."*
+		*"Tarry long and lost in the tumult of Trueflesh you will become. Those lost, their own Trueflesh forget."*
 		(A#"..."){A:0,MIND!MINDSCAPE!GRAYLANDS!1.0002!FENRIR!}
 	[MIND!MINDSCAPE!GRAYLANDS!1.0001!FENRIR!/]
 
 	[/MIND!MINDSCAPE!GRAYLANDS!1.0002!FENRIR!]
 		||
-		*"Steel your will and only return of your own volition!"*
+		*"Steel your will and only of your own volition return!"*
 		(A#"..."){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.X103!DESCRIPTION!}
 	[MIND!MINDSCAPE!GRAYLANDS!1.0002!FENRIR!/]
 
@@ -3025,7 +3025,7 @@ FENNY
 >>>Met Fenrir (12900)<<<
 	[/MIND!MINDSCAPE!MISTY WOOD!0.X000!FENRIR!]
 		|^12900:MIND!MINDSCAPE!MISTY WOOD!0.000!FENRIR!|
-		*"Your way to my home you have found. Does this fill your hunger to know of me?"*
+		*"The way to my home you have found. Does this your hunger to know of me fill?"*
 		(A#"Who are you?"){A:1,MIND!MINDSCAPE!MISTY WOOD!0.X100!FENRIR!}
 		(B#"What is this place?"){B:1,MIND!MINDSCAPE!MISTY WOOD!0.X200!FENRIR!}
 		(C#"I do not hunger."){C:1,MIND!MINDSCAPE!MISTY WOOD!0.X300!FENRIR!}
@@ -3036,7 +3036,7 @@ FENNY
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0.000!FENRIR!]
 		||
-		*"Your way to my home you have found. Does this fill your hunger to know of me?"*
+		*"The way to my home you have found. Does this your hunger to know of me fill?"*
 		(A#"Why do we meet here, Fenrir?"){A:1,MIND!MINDSCAPE!MISTY WOOD!0.X100!FENRIR!}
 		(B#"What is this place?"){B:1,MIND!MINDSCAPE!MISTY WOOD!0.X200!FENRIR!}
 		(C#"I do not hunger."){C:1,MIND!MINDSCAPE!MISTY WOOD!0.X300!FENRIR!}
@@ -3048,54 +3048,54 @@ FENNY
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0.X100!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!|
-		*"Your friend am I. Wherever you go, be with you shall I, stalking you even through this Misty Wood."*
+		*"As companion I abide. Wherever you go, so shall I, stalking you even through this Misty Wood."*
 		(A#"I had felt myself alone since first awakening."){A:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
-		(B#"How did you speak to me within the Awakening Chamber from this forest?"){B:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
-		(E#"Hunting is not all. You also spy upon me."){E:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(B#"How did you speak to me when we met in the Sanctuary?"){B:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(E#"Hunting is not all... You also spy on me, then?"){E:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X100!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0.X200!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!|
-		*"The Misty Wood you walk, a place that has ever been my home. A born native to the Graylands am I, a nature bestowed upon me by my father. But whether you walk here or not, your friend am I."*
+		*"The Misty Wood you walk, a place that has ever been my home. A born native to the Grays, a nature by my father bestowed. You, the link between our worlds be. I, your companion as you between them travel."*
 		(A#"I had felt myself alone since first awakening."){A:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
-		(B#"How did you speak to me within the Awakening Chamber from this forest?"){B:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(B#"How did you speak to me when we met in the Sanctuary?"){B:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 		(C#"I wish to return to my own world."){C:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X200!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0.X300!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!|
-		*"Yet I do. Ever stalking this wood for prey am I, yet no satisfaction I find."*
-		(B#"How did you speak to me within the Awakening Chamber from this forest?"){B:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		*"Yet I do. Ever stalking this wood for my final prey, yet no satisfaction with an unseen prey can I find."*
+		(B#"How did you speak to me when we met in the Sanctuary?"){B:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 		(C#"I wish to return to my own world."){C:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 		(D#"Yet you can leave at will."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X300!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0.X400!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!|
-		*"Ever stalking this wood for prey am I, yet no satisfaction I find."*
+		*"Ever stalking this wood for my final prey, yet no satisfaction with an unseen prey can I find."*
 		(C#"I wish to return to my own world."){C:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 		(D#"Yet you can leave at will."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
-		(E#"Hunting is not all. You also spy upon me."){E:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(E#"Hunting is not all you do... You also spy on me, I see."){E:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X400!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0.X500!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!|
-		*"Does you the shape of your friend displease? In me a mere beast you see. Perhaps I am, though within the Graylands dwells the prey I stalk."*
+		*"Does you the shape of your companion displease? In me a mere beast you see. Perhaps I may be, though within the Graylands dwells the final prey I stalk."*
 		(A#"I had felt myself alone since first awakening."){A:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 		(D#"Yet you can leave at will."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
-		(E#"How is it you spy upon me?"){E:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(E#"How is it you spy on me?"){E:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X500!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0.X600!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!|
-		*"No, you hunger as I do. Ever stalking this wood for prey am I, yet no satisfaction I find."*
-		(F#"Since you know so much about me, can you tell me what's up with this rash?"){F:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		*"Not so, you hunger as I do. For linked our natures be..."*
+		(F#"Really? I guess I haven't really eaten anything since I first woke up..."){F:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X600!FENRIR!/]
 
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!]
 		||
-		*"Of your beginnings you think and so now, upon them you look. The stuff of thought are the Graylands."*
+		*"Of your beginnings you think and so now, upon them you look. The stuff of thought the Graylands be."*
 		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.0000!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!/]
 
@@ -3113,91 +3113,105 @@ FENNY
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.100!FENRIR!]
 		||
-		*"Food I seek; for creatures I may eat I ever hunger..."*
+		*"The end of hunger, the Endbringer I seek..."*
 		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X101!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.100!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.X101!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!2.000!FENRIR!|
-		*"Yet, though I starve, warn you must I of the game I devour. The might and will to destroy you is held by some eaten souls in the Graylands dwelling. Beware."*
+		*"Yet, though I now starve, you one day will to it lead and hunger will sated be."*
 		(A#Leave the Mindscape){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
 		(B#Explore the Mindscape){B:0,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.X101!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.200!FENRIR!]
 		||
-		*"A dream? I know not. Yet, that dreams disappear upon waking I have heard."*
+		*"A dream? I know not..."*
 		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.201!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.200!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.201!FENRIR!]
 		||
-		*"Here I abided long before you were aware."*
+		*"Here I abided long before you aware became."*
 		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X202!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.201!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.X202!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!2.000!FENRIR!|
-		*"But truly no dream is that twined are the mights to kill and sway, and some residing within the Graylands can slay you. Beware."*
+		*"But truly no dream can be known until you from it wake... Will you wake?"*
 		(A#Leave the Mindscape){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
 		(B#Explore the Mindscape){B:0,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.X202!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.300!FENRIR!]
 		||
-		*"So you may, though here I abided long before you were aware, and long after I shall abide."*
+		*"Certain truth. These lands dangers hold for the unaware."*
 		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X301!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.300!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.X301!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!2.000!FENRIR!|
-		*"Though well you would do to remember. The might and will to destroy you is held by some eaten souls in the Graylands dwelling. Beware."*
+		*"Some who here lurk would your end seek... Tarry not long and stray not far."*
 		(A#Leave the Mindscape){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
 		(B#Explore the Mindscape){B:0,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.X301!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.400!FENRIR!]
 		||
-		*"How can you trust what you cannot control? How to enter the Graylands you now know, but their master you are yet not."*
+		*"Trust with time comes, not with words. The most convincing truth with awareness comes, and awareness only with experience comes."*
 		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X401!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.400!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.X401!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!2.000!FENRIR!|
-		*"Remember, the power to destroy is the power to control, and there may be some here who are capable of destroying you. Beware."*
+		*"But give not your trust too readily to those in the Grays. Though devoured they be, their will intact remains. Tarry not long and stray not far."*
 		(A#Leave the Mindscape){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
 		(B#Explore the Mindscape){B:0,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.X401!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.500!FENRIR!]
 		||
-		*"Then my speech and words do you sway? My wanderings through the wood? How to enter the Graylands you now know, but their master you are yet not."*
-		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X501!FENRIR!}
+		*"In asking, you answer. If you my master be, then command..."*
+        (A#"Tell me what you know about me."){A:1,MIND!MINDSCAPE!MISTY WOOD!1.5000!FENRIR!}
+        (D#"I command you to be my weapon!"){D:1,MIND!MINDSCAPE!MISTY WOOD!1.5000!FENRIR!}
+        (E#"Fine. Shut your trap before I shut it for you!"){E:1,MIND!MINDSCAPE!MISTY WOOD!1.5000!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.500!FENRIR!/]
+
+	[/MIND!MINDSCAPE!MISTY WOOD!1.5000!FENRIR!]
+		||
+		*"I refuse."*
+        (A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.5001!FENRIR!}
+	[MIND!MINDSCAPE!MISTY WOOD!1.5000!FENRIR!/]
+
+    [/MIND!MINDSCAPE!MISTY WOOD!1.5001!FENRIR!]
+		||
+        *"Though the path to the Grays you now know, their master you have not become."*
+		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X501!FENRIR!}
+	[MIND!MINDSCAPE!MISTY WOOD!1.5001!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.X501!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!2.000!FENRIR!|
-		*"Remember, the might and will to destroy you is held by some eaten souls in the Graylands dwelling. Beware."*
+		*"Others here dwelling can similarly your commands deny. Consumption does not control equal. Tarry not long and stray not far."*
 		(A#Leave the Mindscape){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
 		(B#Explore the Mindscape){B:0,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.X501!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.600!FENRIR!]
 		||
-		*"But quick is my anger. For more game I will await you here."*
-		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X601!FENRIR!}
+		*"Damaged, your mind, ever festering..."*
+		(A#"Yeah, I've fallen pretty low if I'm talking to anthropomorphic hounds..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X601!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.600!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.X601!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!2.000!FENRIR!|
-		*"Remember, the might and will to destroy you is held by some eaten souls in the Graylands dwelling. Beware."*
+		*"But whole or not, we will the Endbringer find and to it bring its end!"*
 		(A#Leave the Mindscape){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
-		(B#"So I eat them and then they want to destroy me? What ingrates!"){B:0,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(B#"TALLY HO! Let's give it a taste of its own medicine!"){B:0,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.X601!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!2.000!FENRIR!]
 		||
-		*"Still, I hunger. Life I must eat, lest too starved my hunger grow. Dangerous for us both it would be..."*
+		*"Still, I hunger. I must feed, lest too starved my hunger grow. Dangerous for us both it would be..."*
 		(A#Leave the Mindscape){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
 		(B#Explore the Mindscape){B:0,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!2.000!FENRIR!/]

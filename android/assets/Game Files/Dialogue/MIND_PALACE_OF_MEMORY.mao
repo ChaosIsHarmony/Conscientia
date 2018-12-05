@@ -436,7 +436,7 @@ vovkos leaves
 		
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00254!DESCRIPTION!]
 		||
-		*Vovkos the oarsman, both sated and disappointed, turns to leave. He walks, aimlessly, casting back a single questioning glance, one answered only with silence.*
+		*Vovkos the oarsman, both sated and disappointed, turns to leave. He staggers away uncertainly, casting back a single questioning glance, one answered only with silence.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00255!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00254!DESCRIPTION!/]
 	
@@ -853,7 +853,7 @@ JORMUNGUND
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.001!JORMUNGUND!]
 		||
-		*"Yet your speech reaches me and mine you?"*
+		*"Yet your speech I hear and mine you perceive?"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.001!JORMUNGUND!/]
 
@@ -894,25 +894,19 @@ Can name Thetian as successor
 Continued after Fen first
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.001!JORMUNGUND!]
 		||
-		*"Father's ploy? Aware am I of but one solid truth: to bind the All-Seer is my task, yet here am bound!"* 
+		*"Father's ploy? To bind the Endbringer, that alone my task be, yet here bound by Its servant I suffer!"* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0010!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.001!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0010!JORMUNGUND!]
 		||
-		*"As Sister Hel is, so too am I."*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0011!JORMUNGUND!}
-	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0010!JORMUNGUND!/]
-
-	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0011!JORMUNGUND!]
-		||
-		*"Though failure is not yet our destined end..."*
+		*"As Sister Hel does, so too do I rot imprisoned."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.X002!JORMUNGUND!}
-	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0011!JORMUNGUND!/]
+	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0010!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.X002!JORMUNGUND!]
 		|@:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.003!JORMUNGUND!|
-		*"Come you then to free me, Brother Fenrir?"*
+		*"Come you then to these bonds shatter, Brother Fenrir?"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0000!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.X002!JORMUNGUND!/]
 
@@ -926,7 +920,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004!JORMUNGUND!]
 		||
-		*"Now courageous lamb, what has the servant of the Loathsome One to 'offer' his captive?"*
+		*"Now courageous lamb, what has the servant of the Loathsome One to his captive 'offer'?"*
 		(A#"I too am a prisoner, Jormungund."){A:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00401!JORMUNGUND!}
 		(B#"Who is the Loathsome One?"){B:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00402!JORMUNGUND!}
 		(C#"I don't think I've anything worth offering."){C:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00403!JORMUNGUND!}
@@ -937,7 +931,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00401!JORMUNGUND!]
 		||
-		*"Then akin are we, though different Masters we may serve."*
+		*"Then akin we be, though different Masters we serve."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0041!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00401!JORMUNGUND!/]
 
@@ -949,38 +943,38 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00403!JORMUNGUND!]
 		||
-		*"If to enter in pact we are, a price must be paid!"*
+		*"A pact a price demands!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0041!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00403!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00404!JORMUNGUND!]
 		||
-		*"To bind is my desire, the wretched Spiral in a knot so unfathomably complex wrapped that even the Enemy cannot unravel it!"*
+		*"To bind my nature be, to bind the wretched Spiral in a knot so unfathomably complex not even the Enemy could it unravel!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0041!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00404!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00405!JORMUNGUND!]
 		||
-		*"The fetid stench of weakness rides on the wind of your breath!"*
+		*"The fetid stench of weakness on the wind of your breath rides!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004050!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00405!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004050!JORMUNGUND!]
 		||
-		*"Though bound I may be, I hear not a fool's commands!"*
+		*"Though bound I may be, a fool's commands I heed not!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0041!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004050!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00406!JORMUNGUND!]
 		||
-		*"Then freedom I offer you, if we are to give what we lack..."*
+		*"Then freedom I offer, since we give what we lack..."*
 		(F#"Great! ...Hey, wait a minute!"){F:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00416!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00406!JORMUNGUND!/]
 
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0041!JORMUNGUND!]
 		||
-		*"Now remains the question: are you the key to my shackles?"*
+		*"Now the question remains: be you the key to my shackles?"*
 		(A#"I am none but the very Voice of Biracul! His Prophetess!"){A:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004130!JORMUNGUND!}
 		(B#"I am Torma the Wayfarer."){B:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00412!JORMUNGUND!}
 		(C#"I am what I am; nothing more, nothing less."){C:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00413!JORMUNGUND!}
@@ -1002,7 +996,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004130!JORMUNGUND!]
 		||
-		*"Lamb! As Prophetess I see you! The Voice of the Loathsome One through you rings."*
+		*"A Prophetess I see! The Voice of the Loathsome One through you rings."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0051!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004130!JORMUNGUND!/]
 
@@ -1020,13 +1014,13 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00416!JORMUNGUND!]
 		||
-		*"Now the question remains: are you the key to my shackles?"*
+		*"Now the question remains: be you the key to my shackles?"*
 		(F#"Likely; otherwise I wouldn't be here, right?"){F:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004160!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00416!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004160!JORMUNGUND!]
 		||
-		*"Truth is with you!"*
+		*"Truth from your mouth springs!"*
 		(F#"TALLY HO!"){F:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004130!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.004160!JORMUNGUND!/]
 
@@ -1039,19 +1033,19 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00510!JORMUNGUND!]
 		||
-		*"Speak and let your words be true, for uttered once, not even Father Skyl could this name retrieve!"*
+		*"Speak and let your words be true, for once uttered, even Father Skyl could not this name retrieve!"*
 		(A#"Thetian."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2051!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00510!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009!JORMUNGUND!]
 		||
-		*"As they should be, so all things are!"*
+		*"As they should, so all things stand!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0090!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0090!JORMUNGUND!]
 		||
-		*"Yet to this pact seal, a sacrifice of blood due is..."*
+		*"Yet only a sacrifice of blood can this pact seal..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00900!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0090!JORMUNGUND!/]
 
@@ -1068,33 +1062,27 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0091!JORMUNGUND!]
 		||
-		*"Senseless martyr! Then the sacrifice well received is."*
+		*"Senseless martyr! Then let it be!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00910!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0091!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00910!JORMUNGUND!]
 		||
-		*"Your Trueflesh our pact seals and to Thetian am I bound!"*
+		*"Your Trueflesh our pact seals and to Thetian my bonds latch!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00911!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00910!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00911!JORMUNGUND!]
 		||
-		*"Unto the Monad he will me guide, and I will it bind!"*
+		*"Unto the Endbringer he will me guide, and I will it bind!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00912!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00911!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00912!JORMUNGUND!]
 		||
-		*"Now follow into the quicksilvered Hydrargyrum Sea!"*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00913!JORMUNGUND!}
-	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00912!JORMUNGUND!/]
-
-	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00913!JORMUNGUND!]
-		||
-		*"It done is!"*
+		*"Now into the quicksilvered Hydrargyrum Sea you dive!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2052!JORMUNGUND!}
-	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00913!JORMUNGUND!/]
+	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00912!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0092!JORMUNGUND!]
 		||
@@ -1104,7 +1092,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00920!JORMUNGUND!]
 		||
-		*"To great deeds achieve, great sacrifice demands, human."*
+		*"Great deeds, great sacrifice demands, human."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00921!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00920!JORMUNGUND!/]
 
@@ -1125,7 +1113,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00930!JORMUNGUND!]
 		||
-		*"Your god your death demands and you rejoice?!"*
+		*"Your god your death demands and yet you rejoice?!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00931!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00930!JORMUNGUND!/]
 
@@ -1151,19 +1139,19 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00941!JORMUNGUND!]
 		||
-		*"Then the sacrifice well received is!"*
+		*"Then the sacrifice the pact seals!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009410!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00941!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009410!JORMUNGUND!]
 		||
-		*"Their blood shall my sea feed and strength for the vessel Thetian I shall gather!"*
+		*"Their blood shall my sea feed and strength for the vessel Thetian shall I gather!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009411!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009410!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009411!JORMUNGUND!]
 		||
-		*"My guide to the Monad he shall be!"*
+		*"My guide to the Endbringer he shall be!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2053!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009411!JORMUNGUND!/]
 
@@ -1189,7 +1177,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00943!JORMUNGUND!]
 		||
-		*"Your tongue as Brother Luin's edge lashes! A trait I am not unfond of!"*
+		*"Your tongue as Brother Luin's edge lashes! A trait I do not loathe!"*
 		(C#"..."){C:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00941!JORMUNGUND!}
 		(D#"Well, does this sacrifice slake your thirst?"){D:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00941!JORMUNGUND!}
 		(E#"Now accept the sacrifice and get on with it!"){E:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00941!JORMUNGUND!}
@@ -1197,7 +1185,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0095!JORMUNGUND!]
 		||
-		*"Your demands are as silence, human; no ears for them remain..."*
+		*"Your demands quiet as silence be, human. None will to the cries of a whipped pup listen!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00950!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.0095!JORMUNGUND!/]
 
@@ -1236,7 +1224,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00960!JORMUNGUND!]
 		||
-		*"To great deeds achieve, great sacrifice demands, human."*
+		*"Great deeds, great sacrifice demands, human."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00961!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00960!JORMUNGUND!/]
 
@@ -1257,13 +1245,13 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00963!JORMUNGUND!]
 		||
-		*"For your riddles am I unprepared... but now awareness dawns."*
+		*"For your riddles I unprepared be... but now awareness dawns."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00964!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00963!JORMUNGUND!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00964!JORMUNGUND!]
 		||
-		*"To sacrifice those who you here put, your answer must be."*
+		*"To sacrifice those who you here put, your answer must be!"*
 		(C#"..."){C:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00941!JORMUNGUND!}
 		(D#"Yes, clearly..."){D:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00941!JORMUNGUND!}
 		(F#"No, you idiot! You have it all wrong!"){F:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00965!JORMUNGUND!}
@@ -1285,7 +1273,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00967!JORMUNGUND!]
 		||
-		*"...Your blood, corrupted; I cannot my sea with it tarnish..."*
+		*"...Your blood, corrupted; I cannot my sea with it poison..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00968!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.00967!JORMUNGUND!/]
 
@@ -1315,7 +1303,7 @@ Continued after Fen second
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009692!JORMUNGUND!]
 		||
-		*"Thetian shall my guide unto the Monad be, and it I shall bind!"*
+		*"Thetian shall my guide unto the Endbringer be, and it I shall bind!"*
 		(F#"TALLY HO!"){F:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2053!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!1.009692!JORMUNGUND!/]
 
@@ -1365,7 +1353,7 @@ Already made a pact <<<<<<<POSSIBLE????>>>>>>>>>>
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.007!JORMUNGUND!]
 		||
-		*"May our desires with the Monad's essence quenched be!"*
+		*"May our desires with the Endbringers' essence quenched be!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X9999!JORMUNGUND!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.007!JORMUNGUND!/]
 
@@ -1373,56 +1361,56 @@ Already made a pact <<<<<<<POSSIBLE????>>>>>>>>>>
 FENRIR
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X000!FENRIR!]
 		|^2051:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.000!FENRIR!|
-		*"As Brother I see you, Jormungund."*
+		*"Brother, kin of Father's forge, at last we meet."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0000!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X000!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0000!FENRIR!]
 		|@:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.001!FENRIR!|
-		*"Though yet unborn to you am I, Father Skyl's ploy this meeting allows."*
+		*"Though yet unborn to you I be, Father Skyl's ploy this meeting fated."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0015!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0000!FENRIR!/]
 
 Continued after Jor's reply	
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.001!FENRIR!]
 		||
-		*"Alas, I too am by duty bound and great hunger likewise consumes me."*
+		*"Alas, I too by duty bound to Eidos be, and great hunger likewise as chains act."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0010!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.001!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0010!FENRIR!]
 		||
-		*"Only in the Monad finding, will this famished state end for us."*
+		*"Only in the Monad finding, will this famished state for us end."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0010!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002!FENRIR!]
 		||
-		*"Your freedom I cannot offer, for powerless I am."*
+		*"Your freedom I cannot offer, for powerless I be."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0020!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0020!FENRIR!]
 		||
-		*"This shell containing me, is a key, but not the key you seek."*
+		*"This shell containing me, though a key, cannot the key you seek be."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0021!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0020!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0021!FENRIR!]
 		||
-		*"A name and sacrifice you will get, but nothing more from it."*
+		*"A name and sacrifice you will get, but from it nothing more."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.003!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0021!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.003!FENRIR!]
 		||
-		*"For now, with the Wayfarer's offering you must be content; your reins it will loosen; your strength, it will raise."*
+		*"For now, the Wayfarer's offering must suffice. Your reins it will loosen; your strength, it will raise."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.003!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004!FENRIR!]
 		||
-		*"When again we meet, in the Empyrean with our prey then caught it shall be!"*
+		*"When again we meet, in the Empyrean with our final prey then caught it shall be!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0040!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.004!FENRIR!/]
 
@@ -1436,31 +1424,31 @@ Continued after Jor's reply
 Have pact already <<<<<<<POSSIBLE????>>>>>>>>>>
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.000!FENRIR!]
 		||
-		*"Your pact set is, though it you cannot recall - nor can I, but thus it is."*
+		*"Your pact set be, though it neither you nor I recall."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.X001!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.000!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.X001!FENRIR!]
 		|@:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.002!FENRIR!|
-		*"As it should be, all is."*
+		*"As it should, all stands."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0015!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.X001!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.002!FENRIR!]
 		||
-		*"Of Father Skyl's forge was I too birthed, kin we are."*
+		*"Of Father Skyl's forge I too breathed life; kin we be."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.003!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.002!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.003!FENRIR!]
 		||
-		*"Our meetings will proceed, until the Monad our vessels locate."*
+		*"Our meetings will proceed, until the Endbringer our vessels find."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.004!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.003!FENRIR!/]
 
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.004!FENRIR!]
 		||
-		*"But suffice it to speak thus: the Wayfarer no key can provide; only silence should you her give."*
+		*"But the Wayfarer now no key can provide; only silence should you her give."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X0015!FENRIR!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!10.004!FENRIR!/]
 

@@ -3115,7 +3115,7 @@ HEYAR
 		(C#"I will do my best."){C:1,KABU!DAWN FORTRESS!COURTYARD!90.300!HEYAR!}
 		(D#"Why do you speak of exile?"){D:1,KABU!DAWN FORTRESS!COURTYARD!90.400!HEYAR!}
 		(E#"You presume much... You have no idea who I am."){E:1,KABU!DAWN FORTRESS!COURTYARD!90.500!HEYAR!}
-		(F#"Oh goody! I've always wanted a pet!"){F:1,KABU!DAWN FORTRESS!COURTYARD!90.600!HEYAR!}		
+		(F#"Why would they exile me? Everyone loves me!"){F:1,KABU!DAWN FORTRESS!COURTYARD!90.6005!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.0014!HEYAR!/]
 
 	[/KABU!DAWN FORTRESS!COURTYARD!90.100!HEYAR!]
@@ -3277,6 +3277,30 @@ HEYAR
 		*"You're as jinn-struck as that itinerant Prophet, I dare say!"*
 		(F#"Though this is the first I've seen a talking rooster..."){F:1,KABU!DAWN FORTRESS!COURTYARD!90.601!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.6001!HEYAR!/]
+
+    [/KABU!DAWN FORTRESS!COURTYARD!90.6005!HEYAR!]
+		||
+		*"Love you?! Ha ha! It seems you've been labeled the harbinger of slaughter!"*
+		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.60050!HEYAR!}
+	[KABU!DAWN FORTRESS!COURTYARD!90.6005!HEYAR!/]
+
+	[/KABU!DAWN FORTRESS!COURTYARD!90.60050!HEYAR!]
+		||
+		*"Apparently, you arrived on a tide of poisoned water and they assume there was some causal link..."*
+		(F#"I bring them water and they exile me? What ingrates!"){F:1,KABU!DAWN FORTRESS!COURTYARD!90.60051!HEYAR!}
+	[KABU!DAWN FORTRESS!COURTYARD!90.60050!HEYAR!/]
+
+	[/KABU!DAWN FORTRESS!COURTYARD!90.60051!HEYAR!]
+		||
+		*"I suppose they took exception to the fact you spiked it with poison... Ha ha!"*
+		(F#"These people are so picky... Seesh!"){F:1,KABU!DAWN FORTRESS!COURTYARD!90.60051!HEYAR!}
+	[KABU!DAWN FORTRESS!COURTYARD!90.60051!HEYAR!/]
+    
+    [/KABU!DAWN FORTRESS!COURTYARD!90.60052!HEYAR!]
+		||
+		*"You seem fun enough! Ha ha! Just remind me never to ask you for water! Ho ho!"*
+		(F#"A good idea! Because poison wasn't the only other addition to the water!"){F:1,KABU!DAWN FORTRESS!COURTYARD!9999.X9999!HEYAR!}
+	[KABU!DAWN FORTRESS!COURTYARD!90.60052!HEYAR!/]
 
 
 	[/KABU!DAWN FORTRESS!COURTYARD!90.101!HEYAR!]
