@@ -1668,19 +1668,19 @@ FENRIR
 >>>Fenrir consumes you (20000)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!FENRIR!]
 		|^20000:KABU!SANCTUARY!AWAKENING CHAMBER!10.X000!FENRIR!|
-		*"You awaken... Good."*
+		*"Awake at last... Eyes open, but be they yet with sight?"*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.001!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.001!FENRIR!]
 		||
-		*"But an unfitting dwelling is this Sanctuary for ones such as we."*
+		*"The darkness of this Sanctuary blinds, an unfitting dwelling for our ilk."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.002!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.001!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.002!FENRIR!]
 		||
-		*"To leave this room is your aim; this I foretell, if akin to mine is your nature."*
+		*"To leave this room you aim. Certain truth, as akin to mine your nature be."*
 		(A#"Who are you?"){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.100!FENRIR!}
 		(B#"Who am I?"){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.200!FENRIR!}
 		(C#"Where am I?"){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.300!FENRIR!}
@@ -1691,13 +1691,13 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.100!FENRIR!]
 		||
-		*"Fenrir, I was called by those who had need of it. The Son of Vanargand I was named by others. The Ravenous and the Brother of Death were used by some. All-Seersbane, Seeker, Everhungry and still more besides..."*
+		*"Fenrir, some claim. Vanargand's Fourth others say. The Ravenous and Helkin, too. All-Seersbane, Seeker, Everhungry and still more besides..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.1000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.100!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.1000!FENRIR!]
 		||
-		*"No name do I have for myself but 'I'."*
+		*"No name for myself needed be, save 'I'."*
 		(A#"What are you?"){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.101!FENRIR!}
 		(B#"Where are you?"){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.201!FENRIR!}
 		(E#"How are you involved in my captivity?"){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.501!FENRIR!}
@@ -1705,13 +1705,13 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.200!FENRIR!]
 		||
-		*"Eidos, you are named, though nothing but a pact between speakers is a name - and who but I, here to seal a pact with?"*
+		*"Eidos, for now, though naught but a pact between speakers a name be..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.2000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.200!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.2000!FENRIR!]
 		||
-		*"Stay here and no need for a name will you have. Leave and perhaps more names you will gather... Three doors lend themselves to the task."*
+		*"Linger here and no need for a name will you find. Linger not and perhaps more names will you gather... Three doors the task of leaving aid. Through one step and the journey begins."*
 		(A#"What are you?"){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.101!FENRIR!}
 		(B#"Where are you?"){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.201!FENRIR!}
 		(C#"Three doors? I count only two."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.301!FENRIR!}
@@ -1719,19 +1719,19 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.300!FENRIR!]
 		||
-		*"Known to me is the chamber in which you stand. Within the Sanctuary it lies. But now more questions arise..."* 
+		*"Known to me this chamber be, within the Sanctuary lying. But now more questions arise..."* 
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.3000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.300!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.3000!FENRIR!]
 		||
-		*"For only in kinship to all its brother rooms is the nature of a single room known, to say nothing of the house in which they dwell, the land where it stands and all else besides."*
+		*"For only in kinship to its brother rooms can one room known be. These brothers too in a single Sanctuary dwell. Their dwelling, in turn, upon the Jenowin Plain rests. But all this little means... absent awareness."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.3001!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.3000!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.3001!FENRIR!]
 		||
-		*"In leaving through one of three doors can you find the true answer to your question."*
+		*"And yet, only in first moving through one of three doors can you your question's true answer find."*
 		(B#"Where are you?"){B:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.201!FENRIR!}
 		(C#"Three doors? I count only two."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.301!FENRIR!}
 		(D#"Perhaps we can be allies..."){D:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.401!FENRIR!}
@@ -1739,19 +1739,13 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.400!FENRIR!]
 		||
-		*"Not the Master of the dark glass am I; awareness of you was mine only when you looked into it..."*
+		*"The Master of the dark glass I be not. Awareness of you came only when into it you looked..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.4000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.400!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.4000!FENRIR!]
 		||
-		*"What you see, I too see from its surface: a simple chamber with but three doors."*
-		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.4001!FENRIR!}
-	[KABU!SANCTUARY!AWAKENING CHAMBER!0.4000!FENRIR!/]
-
-	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.4001!FENRIR!]
-		||
-		*"What happened here before, I cannot say."*
+		*"What you see, I too from its surface witness: a simple chamber with but three doors. Who can events before awareness know? Not I, at least."*
 		(C#"Three doors? I count only two."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.301!FENRIR!}
 		(D#"Perhaps we can be allies..."){D:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.401!FENRIR!}
 		(E#"How are you involved in my captivity?"){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.501!FENRIR!}
@@ -1759,13 +1753,13 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.500!FENRIR!]
 		||
-		*"Known to me is the chamber in which you stand; within the Sanctuary it lies. Safe from harm are you while here you stay."*
+		*"Known to me this chamber be, within the Sanctuary lying. Safe from harm you remain, so long as in this place you linger."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.5000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.500!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.5000!FENRIR!]
 		||
-		*"That you would be protected until you wished otherwise, is what has been willed upon you."*
+		*"Protection until wished otherwise... The will of those who you here brought."*
 		(A#"What are you?"){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.101!FENRIR!}
 		(D#"Perhaps we can be allies."){D:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.401!FENRIR!}
 		(E#"How are you involved in my captivity?"){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.501!FENRIR!}
@@ -1774,13 +1768,13 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.101!FENRIR!]
 		||
-		*"Many things have I been to many folk - just as a son may also be a brother, or a slayer a victim."*
+		*"Many things have I to many folk been - just as a son may also a brother be, or one's foe someone's ally be."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.1010!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.101!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.1010!FENRIR!]
 		||
-		*"But these are still not what I am. Beneath it all, within me unchanging, only one thing remains..."*
+		*"But others' desires do not truth affect. My truth unchanging, my core, my essence only one thing be..."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.1011!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.1010!FENRIR!/]
 
@@ -1792,96 +1786,96 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.1012!FENRIR!]
 		||
-		*"Many have been my deeds in life. More tasks yet lie before me, and aiding your leave from this chamber is one such deed that I may work..."*
+		*"But awareness of another's core does not you profit. No, to your own essence know, you must this chamber leave... a task I can aid..."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.1013!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.1012!FENRIR!/]
 	
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.1013!FENRIR!]
 		||
-		*"Though freely given is my help, yours is the choice to accept."*
-		(A#"I will accept your help, Fenrir."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
-		(B#"Then I do not want your help."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
+		*"Though my help freely given be, to accept or not on your instinct alone depends."*
+		(A#"I'll gladly accept your help, Fenrir."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
+		(B#"Perhaps another time. I'll find my own way for now."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.1013!FENRIR!/]
 	
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.201!FENRIR!]
 		||
-		*"Far from here, my home in the Misty Wood I walk. The prey my grasp ever eludes, my nose ever filled with its scent."*
+		*"Far from the Sanctuary, my home in the Misty Wood I walk. The prey my grasp ever eludes, my snout with its scent ever filled."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X2010!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.201!FENRIR!/]
 
 >>>Entered the Mindscape for the first time (19004)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X2010!FENRIR!]
 		|^19004:KABU!SANCTUARY!AWAKENING CHAMBER!0.20100!FENRIR!|
-		*"Perhaps this dwelling you shall find in time. But only with a first step does every journey begin..."*
+		*"Perhaps in time this dwelling you shall find. But only with a first step can any journey begin..."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.2011!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X2010!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.20100!FENRIR!]
 		||
-		*"But your Trueflesh bears the mark of the Grays; that you ask of my place is disingenuous when already the answer is known..."*
+		*"But upon your Trueflesh the mark of the Grays lingers. Why ask of my home when already the answer known be..."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.20110!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.20100!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.2011!FENRIR!]
 		||
-		*"Remote as I am, aiding your leave from this chamber is within my ability."*
+		*"Be it your desire, that first step can I abet."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.2012!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.2011!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.20110!FENRIR!]
 		||
-		*"Yet, your motives will not my hunger sate. Only in leaving this chamber will my prey be caught."*
+		*"Yet, your answers will not my hunger sate. Only in leaving this chamber can my prey be caught."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.20120!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.20110!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.2012!FENRIR!]
 		||
-		*"Though freely given is my help, yours is the choice to accept."*
-		(A#"Share your knowledge with me."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
-		(B#"I do not want your help."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
+		*"Though my help freely given be, to accept or not solely on your instinct depends."*
+		(A#"By all means, share your knowledge with me."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
+		(B#"Well, instinct tells me not to trust a creature I just met."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.2012!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.20120!FENRIR!]
 		||
-		*"Thus, my question, daughter of Viracocha. Seek you my aid in departing?"*
-		(A#"Share your knowledge with me."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
-		(B#"I do not want your help."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
+		*"Thus, my question, daughter of Viracocha: seek you my aid in departing?"*
+		(A#"By all means, share your knowledge with me."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
+		(B#"Perhaps it's best if I go it alone for now."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.20120!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.301!FENRIR!]
 		||
-		*"A hole in a boundary is every door. From this knowledge, aware am I of a third you perhaps see not..."*
+		*"A hole in a boundary, from this place to that leading. Three such objects in this chamber lie. Though, perhaps one your ken eludes..."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.3010!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.301!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.3010!FENRIR!]
 		||
-		*"The metal seal upon the floor, essence casts from form to form far between. A break in walls of space and void it must be."*
+		*"The metal seal upon the floor, essence from form to form casts - some near, some far. A break in walls of space and void."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.3011!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.3010!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.3011!FENRIR!]
 		||
-		*"If your will to leave be, freely given is my aid."*
-		(A#"I will find my own way."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
-		(B#"Then I accept your aid."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
+		*"If your nature with it resonates, perhaps its key I can you give. Though freely given this help be, on your instinct alone does its acceptance depend."*
+		(A#"My instinct tells me to find my own way."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
+		(B#"Sure, I'll accept your help. Why not?"){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.3011!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.401!FENRIR!]
 		||
-		*"For now, the same path we walk. But as unlike are our beginnings, so too may be our ends."*
+		*"Upon the same path we now walk. But as our beginnings differ, so too may our ends."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.4010!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.401!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.4010!FENRIR!]
 		||
-		*"The weave of time's skein is not ours to know until fully it is woven. Ours is simply the choice to view or to ignore, to hate or to embrace."*
+		*"The weave of time's skein invisible remains until it fully woven be. To view it or ignore, to hate it or embrace, this alone can we choose."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.4011!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.4010!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.4011!FENRIR!]
 		||
-		*"Yet, why dwell upon what we cannot divine, when within my ken is to aid in your departure from this chamber?"*
+		*"Yet, why dwell upon what we cannot divine, when much remains we can do? To start, I can you aid, if leaving this chamber your will be..."*
 		(A#"I'm listening..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
 		(B#"I see no benefit in continuing this conversation."){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.4011!FENRIR!/]

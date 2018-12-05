@@ -1,6 +1,6 @@
 [/0]
-"All shadows shall be illuminated by the 
-sight that brings forth the light of Awareness."
+"All shadows are cast by the light of Awareness;
+and so too by its light are they banished."
 
 - The Biraculian Verses: C 0-0
 [0/]
@@ -9,7 +9,7 @@ sight that brings forth the light of Awareness."
 "Tragedy is but the shadow cast by comedy,
 lies that of truths, and sorrow that of joy;
 for when one attempts to obfuscate true light,
-what awaits but the opposing force?"
+what awaits but its nemesis?"
 
 - The Biraculian Verses: O 0-1
 [1/]
@@ -22,9 +22,9 @@ and shadows disappear..."
 [2/]
 
 [/3]
-"You are not my subjects and I am not your 
-master; you are the very heart that gives my 
-life-blood motion."
+"You are not my subjects, nor I your 
+master; you are the very heart that 
+gives my life-blood motion."
 
 - The Biraculian Verses: S 1-1
 [3/]
@@ -52,7 +52,7 @@ you shall see beyond it."
 [/6]
 "Though one be confronted with the hordes of 
 the Graylands, through me you will see through 
-the unblinking inner Eye and know the truth 
+the unblinking Inner Eye and know the truth 
 within the illusion."
 
 - The Biraculian Verses: E 0-0
@@ -86,35 +86,35 @@ purpose of giving his labor unto the fruits?"
 
 [/10]
 "Man was gifted more ears than mouths, yet 
-he speaks and do not listen. Hearken children!
+he speaks and does not listen. Hearken children!
 Listen! Listen to the song of the heavens; 
-pay no heed to the whistles of man."
+heed not the whistles of man."
 
 - The Biraculian Verses: A 1-0
 [10/]
 
 [/11]
-"The Falseflesh is weak, and subject to change 
+"The Falseflesh is weak, subject to change 
 and decay; but the Trueflesh can never be 
-destroyed."
+undone."
 
 - The Biraculian Verses: I 0-0
 [11/]
 
 [/12]
-"Ownership is materiality and materiality 
-is illusion. Do not be swayed by the shadows 
-of objects or you will never see the nature 
-within and throughout it."
+"Ownership is materiality; materiality,
+mere illusion. Be not swayed by the shadows 
+of objects or never will you see the nature 
+within and throughout them."
 
 - The Biraculian Verses: S 1-0
 [12/]
 
 [/13]
 "If the eye dislikes the world it sees, 
-is it not easier to lose the eye than the whole world? 
-When rains come, turn your scorn from the clouds 
-and towards your own house. 
+is it not easier to lose the eye than the
+whole world? When rains come, turn your scorn
+from the clouds towards your decaying house!
 All things are as they should be."
 
 - The Biraculian Verses: U 0-1
@@ -122,8 +122,8 @@ All things are as they should be."
 
 [/14]
 "Though alone you may scale the highest peaks,
-you will not reach the midnight stars!
-In truth, Awareness is the stairway to Heaven!"
+never will you reach the midnight stars!
+Awareness alone is the stairway to Heaven!"
 
 - The Biraculian Verses: O 1-1
 [14/]
@@ -145,8 +145,8 @@ Beware the Emerald spawn, daughter!"
 [16/]
 
 [/17]
-"True is the flesh that does not wither.
-Truth that is pure does not fester.
+"True is the flesh that does not wither!
+Pure are the deeds that do not fester!
 You are as I am, and I as you."
 
 - The Biraculian Verses: S 0-1
@@ -161,7 +161,7 @@ by the hubris of Vanquished hands!"
 [18/]
 
 [/19]
-"I have failed you all and in creation
+"I have failed you all. In the creation
 of the Ataraxia do I plan to make amends.
 Join with me brothers and sisters, to rebuild
 that which It stole from us!"
