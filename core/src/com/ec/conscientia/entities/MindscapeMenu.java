@@ -14,18 +14,18 @@ import com.badlogic.gdx.scenes.scene2d.ui.Window;
 import com.badlogic.gdx.scenes.scene2d.ui.ImageButton.ImageButtonStyle;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.Align;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 
 public class MindscapeMenu {
 	private Window mindscapeNPCWindow;
 	private MainGameScreen mgScr;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 
 	public MindscapeMenu(Skin skin, final MainGameScreen mgScr, final PauseMenu pauseMenu) {
 		this.mgScr = mgScr;
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 
 		mindscapeNPCWindow = new Window("", skin, "no_bg");
 		mindscapeNPCWindow.setMovable(false);

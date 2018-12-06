@@ -7,15 +7,16 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.files.FileHandle;
 import com.ec.conscientia.dialogue.DialogueFileReaderWriter;
 import com.ec.conscientia.entities.NPC;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 import com.ec.conscientia.variables.CommonVar;
 
 public class Tests {
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 	private Conscientia consc;
 
 	public Tests(Conscientia consc) {
-		fileRW = new FileReaderWriter(consc);
+		fileRW = new FileIOManager(consc);
 		this.consc = consc;
 	}
 

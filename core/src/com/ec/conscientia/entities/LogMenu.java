@@ -14,16 +14,16 @@ import com.badlogic.gdx.scenes.scene2d.ui.Window;
 import com.badlogic.gdx.scenes.scene2d.ui.ImageButton.ImageButtonStyle;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.Align;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 
 public class LogMenu {
 	private Window logWindow;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 
 	public LogMenu(Skin skin, final MainGameScreen mgScr, final PauseMenu pauseMenu) {
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 
 		logWindow = new Window("", skin, "no_bg");
 		logWindow.setMovable(false);

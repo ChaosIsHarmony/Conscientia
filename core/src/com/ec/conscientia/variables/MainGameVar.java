@@ -14,7 +14,6 @@ import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
 import com.badlogic.gdx.scenes.scene2d.ui.Window;
 import com.ec.conscientia.Conscientia;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
 import com.ec.conscientia.dialogue.Dialogue;
 import com.ec.conscientia.entities.Acquirable;
@@ -22,6 +21,7 @@ import com.ec.conscientia.entities.CombatMenu;
 import com.ec.conscientia.entities.NPC;
 import com.ec.conscientia.entities.PauseMenu;
 import com.ec.conscientia.entities.Player;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.ingameoperations.CheckUniqueEvent;
 import com.ec.conscientia.ingameoperations.MusicManager;
 import com.ec.conscientia.screens.MainGameScreen;
@@ -34,7 +34,7 @@ public class MainGameVar {
 	public Skin skin;
 	public Conscientia conscientia;
 	public Sprite bg, locName;
-	public FileReaderWriter fileRW;
+	public FileIOManager fileRW;
 	public MusicManager musicManager;
 	public SoundManager soundManager;
 

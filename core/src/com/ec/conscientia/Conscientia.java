@@ -1,7 +1,7 @@
 package com.ec.conscientia;
 
 import com.badlogic.gdx.Game;
-import com.ec.conscientia.FileReaderWriter;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.EndCreditsScreen;
 import com.ec.conscientia.screens.LoadScreen;
 import com.ec.conscientia.screens.MainGameScreen;
@@ -12,14 +12,14 @@ import com.ec.conscientia.variables.ConscientiaVar;
 public class Conscientia extends Game {
 
 	private SoundManager soundManager;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 	private boolean useAltFont = false;
 	private ConscientiaVar conscientiaVar;
 
 	@Override
 	public void create() {
 		soundManager = new SoundManager();
-		fileRW = new FileReaderWriter(this);
+		fileRW = new FileIOManager(this);
 		conscientiaVar = new ConscientiaVar();
 		
 		// Testing suite

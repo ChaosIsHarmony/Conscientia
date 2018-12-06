@@ -23,10 +23,10 @@ import com.badlogic.gdx.utils.Align;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.ec.conscientia.Conscientia;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
 import com.ec.conscientia.entities.Book;
 import com.ec.conscientia.entities.SavedGame;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.variables.CommonVar;
 
 /*
@@ -35,7 +35,7 @@ import com.ec.conscientia.variables.CommonVar;
 
 public class LoadScreen implements Screen {
 	private Conscientia conscientia;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 	private SoundManager soundManager;
 	private OrthographicCamera camera;
 	private Viewport viewport;
@@ -56,7 +56,7 @@ public class LoadScreen implements Screen {
 	private Sprite logoSymbol, logoWords, bg;
 
 	public LoadScreen(final SoundManager soundManager, final Conscientia conscientia) {
-		fileRW = new FileReaderWriter(conscientia);
+		fileRW = new FileIOManager(conscientia);
 
 		setNormalCursor();
 

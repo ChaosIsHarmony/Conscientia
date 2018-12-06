@@ -17,15 +17,15 @@ import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.ec.conscientia.Conscientia;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.variables.CommonVar;
 
 public class EndCreditsScreen implements Screen {
 	private SpriteBatch batch;
 	private SoundManager soundManager;
 	private Conscientia conscientia;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 	private OrthographicCamera camera;
 	private Viewport viewport;
 	private Stage stage;
@@ -52,7 +52,7 @@ public class EndCreditsScreen implements Screen {
 		// Gdx.input.setCursorCatched(true);
 
 		this.batch = new SpriteBatch();
-		this.fileRW = new FileReaderWriter(conscientia);
+		this.fileRW = new FileIOManager(conscientia);
 		this.soundManager = soundMan;
 		this.conscientia = conscientia;
 		this.camera = new OrthographicCamera();

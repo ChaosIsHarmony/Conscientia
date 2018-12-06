@@ -1,10 +1,9 @@
 package com.ec.conscientia.dialogue;
 
 import com.badlogic.gdx.Gdx;
-
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.entities.Address;
 import com.ec.conscientia.entities.Response;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 
 public class DialogueFileReaderWriter {
@@ -12,18 +11,21 @@ public class DialogueFileReaderWriter {
 	private String dialogueFileContents;
 	private String currentDialogueFile;
 	private MainGameScreen mgScr;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 
 	/*
 	 * For test suite
 	 */
 	public DialogueFileReaderWriter() {
-		this.fileRW = new FileReaderWriter();
+		this.fileRW = new FileIOManager();
 	}
 
+	/*
+	 * For actual game
+	 */
 	public DialogueFileReaderWriter(MainGameScreen mgScr) {
 		this.mgScr = mgScr;
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 	}
 
 	public void setDialogueFile(String currentAddress) {
@@ -76,8 +78,6 @@ public class DialogueFileReaderWriter {
 		dialogueFileContents = Gdx.files.internal("Game Files/Dialogue/DialogueMaster.mao").readString();
 
 		String tempLoc1 = "";
-		// if the address is null, it just resets it to the default address
-		// for the area
 		try {
 
 			tempLoc1 = currentAddress.substring(0, currentAddress.indexOf('!'));
@@ -287,6 +287,7 @@ public class DialogueFileReaderWriter {
 				return true;
 		} catch (Exception e) {
 			// these are still valid addresses, theoretically
+			// For game endings, multicheckers, and fights
 			if (targetNewAddress.contains("!END!") || targetNewAddress.contains("NO ADDRESS")
 					|| targetNewAddress.contains("FIGHT") || targetNewAddress.equals("a")
 					|| targetNewAddress.equals("b") || targetNewAddress.equals("c") || targetNewAddress.equals("d")

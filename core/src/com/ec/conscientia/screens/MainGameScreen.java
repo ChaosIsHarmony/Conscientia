@@ -25,6 +25,7 @@ import com.ec.conscientia.entities.Log;
 import com.ec.conscientia.entities.NPC;
 import com.ec.conscientia.dialogue.Dialogue;
 import com.ec.conscientia.entities.Player;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.ingameoperations.CheckUniqueEvent;
 import com.ec.conscientia.ingameoperations.GenerateDisplayWin;
 import com.ec.conscientia.ingameoperations.LoadingUtils;
@@ -34,7 +35,6 @@ import com.ec.conscientia.ingameoperations.TriggeredEvents;
 import com.ec.conscientia.variables.MainGameVar;
 import com.ec.conscientia.variables.CommonVar;
 import com.ec.conscientia.Conscientia;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
 
 public class MainGameScreen implements Screen {
@@ -74,7 +74,7 @@ public class MainGameScreen implements Screen {
 		mgVar.mgScr = this;
 		mgVar.conscientia = consc;
 		mgVar.uniqueEvent = new CheckUniqueEvent(this);
-		mgVar.fileRW = new FileReaderWriter(consc, this);
+		mgVar.fileRW = new FileIOManager(consc, this);
 		mgVar.soundManager = sound;
 		mgVar.musicManager = new MusicManager(consc, this); // must go here or
 															// else soundManger

@@ -23,9 +23,9 @@ import com.badlogic.gdx.utils.Align;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.ec.conscientia.Conscientia;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
 import com.ec.conscientia.entities.Book;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.variables.CommonVar;
 
 public class MainMenuScreen implements Screen {
@@ -39,7 +39,7 @@ public class MainMenuScreen implements Screen {
 	private static final int LOGO_WORDS_HEIGHT = (int) (CommonVar.GAME_HEIGHT / 1.01);
 
 	private Conscientia conscientia;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 	private SoundManager soundManager;
 
 	private Sprite logoSymbol, logoWords, bg;
@@ -55,7 +55,7 @@ public class MainMenuScreen implements Screen {
 
 	public MainMenuScreen(boolean fade, SoundManager soundMan, Conscientia consc) {
 		conscientia = consc;
-		fileRW = new FileReaderWriter(consc);
+		fileRW = new FileIOManager(consc);
 		soundManager = soundMan;
 
 		// if fade is true the fades in

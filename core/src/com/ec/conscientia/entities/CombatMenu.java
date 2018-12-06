@@ -11,8 +11,8 @@ import com.badlogic.gdx.scenes.scene2d.ui.TextField;
 import com.badlogic.gdx.scenes.scene2d.ui.Window;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.Align;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 import com.ec.conscientia.variables.CommonVar;
 
@@ -26,11 +26,11 @@ public class CombatMenu {
 	private String battleOutcome;
 	private TextButton proceed;
 	private MainGameScreen mgScr;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 
 	public CombatMenu(final Skin skin, int npc, MainGameScreen mgScr) {
 		this.mgScr = mgScr;
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia());
+		this.fileRW = new FileIOManager(mgScr.getConscientia());
 
 		battleOutcome = "";
 

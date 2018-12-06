@@ -2,17 +2,17 @@ package com.ec.conscientia.entities;
 
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
-import com.ec.conscientia.FileReaderWriter;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 
 public class Log extends Acquirable {
 	private int ID;
 	private String title, explanationText, listTitle, imgPathway;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 
 	public Log(int id, MainGameScreen mgScr) {
 		this.ID = id;
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 	}
 
 	public int getID() {

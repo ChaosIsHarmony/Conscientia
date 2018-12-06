@@ -15,17 +15,17 @@ import com.badlogic.gdx.scenes.scene2d.ui.Window;
 import com.badlogic.gdx.scenes.scene2d.ui.ImageButton.ImageButtonStyle;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.Align;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 
 public class GlyphMenu {
 
 	private Window glyphWindow;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 
 	public GlyphMenu(Skin skin, final MainGameScreen mgScr, final PauseMenu pauseMenu) {
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 
 		glyphWindow = new Window("", skin, "no_bg");
 		glyphWindow.setMovable(false);

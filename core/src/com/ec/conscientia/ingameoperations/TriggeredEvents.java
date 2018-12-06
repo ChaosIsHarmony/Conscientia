@@ -3,14 +3,14 @@ package com.ec.conscientia.ingameoperations;
 import java.util.HashMap;
 
 import com.ec.conscientia.Conscientia;
-import com.ec.conscientia.FileReaderWriter;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 
 public class TriggeredEvents {
 	public HashMap<Integer, Boolean> triggeredEvents;
 
 	public TriggeredEvents(Conscientia consc, MainGameScreen mgScr) {
-		FileReaderWriter fileRW = new FileReaderWriter(consc, mgScr);
+		FileIOManager fileRW = new FileIOManager(consc, mgScr);
 		triggeredEvents = fileRW.loadTriggeredEvents();
 	}
 

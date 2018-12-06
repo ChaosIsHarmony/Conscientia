@@ -1674,7 +1674,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.001!FENRIR!]
 		||
-		*"The darkness of this Sanctuary blinds, an unfitting dwelling for our ilk."*
+		*"The darkness of this Sanctuary blinds, such an unfitting dwelling for our ilk."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.002!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.001!FENRIR!/]
 
@@ -1950,7 +1950,7 @@ FENRIR
     [/KABU!SANCTUARY!AWAKENING CHAMBER!1.0050!FENRIR!]
 		||
 		*"...in truth?"*
-		(F#"Well, can't really unsay it, so let's go with that!"){F:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.0051!FENRIR!}
+		(F#"Well, can't really unsay it, so let's just roll with it!"){F:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.0051!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.0050!FENRIR!/]
 
     [/KABU!SANCTUARY!AWAKENING CHAMBER!1.0051!FENRIR!]
@@ -2039,7 +2039,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0060!FENRIR!]
 		||
-		*"Yours a vision of chaos and levity may be, pushed to far to lunacy swells..."*
+		*"A vision of chaos and levity pushed too far to lunacy swells..."*
 		(F#"Is it the good kind of swelling or the bad?"){F:0,KABU!SANCTUARY!AWAKENING CHAMBER!2.0061!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0060!FENRIR!/]
 
@@ -2116,7 +2116,7 @@ Event 20000 is true from previous files
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!20.001!FENRIR!]
 		||
-		*"The darkness of this Sanctuary blinds, an unfitting dwelling for our ilk."*
+		*"The darkness of this Sanctuary blinds, such an unfitting dwelling for our ilk."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!20.002!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!20.001!FENRIR!/]
 

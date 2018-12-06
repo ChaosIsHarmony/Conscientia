@@ -10,18 +10,18 @@ import com.badlogic.gdx.scenes.scene2d.ui.Window;
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.Align;
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 import com.ec.conscientia.screens.MainMenuScreen;
 
 public class OptionsMenu {
 
 	private Window optionsWindow;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 
 	public OptionsMenu(Skin skin, final MainGameScreen mgScr, final PauseMenu pauseMenu) {
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 
 		optionsWindow = new Window("", skin);
 		optionsWindow.setMovable(false);
@@ -80,15 +80,15 @@ public class OptionsMenu {
 		});
 
 		// whiner's font
-		final CheckBox whinersFontCB;
+		final CheckBox altFontCB;
 		if (mgScr.getConscientia().isUseAltFont())
-			whinersFontCB = new CheckBox(" Change Font", skin, "whiners_default");
+			altFontCB = new CheckBox(" Change Font", skin, "whiners_default");
 		else
-			whinersFontCB = new CheckBox(" Change Font", skin);
-		whinersFontCB.addListener(new ClickListener() {
+			altFontCB = new CheckBox(" Change Font", skin);
+		altFontCB.addListener(new ClickListener() {
 			public void clicked(InputEvent event, float x, float y) {
-				mgScr.getConscientia().setUseWhinersFont(whinersFontCB.isChecked());
-				fileRW.setUseWhinersFont(whinersFontCB.isChecked());
+				mgScr.getConscientia().setUseWhinersFont(altFontCB.isChecked());
+				fileRW.setUseAltFont(altFontCB.isChecked());
 				mgScr.genDispWin.setDialogueLabels();
 				mgScr.genDispWin.setResponseAreaLabels();
 				// plays click sound
@@ -96,7 +96,7 @@ public class OptionsMenu {
 				pauseMenu.setDisplayWindow(PauseMenu.RESET_OPTIONS_WINDOW);
 			}
 		});
-		whinersFontCB.setChecked(mgScr.getConscientia().isUseAltFont());
+		altFontCB.setChecked(mgScr.getConscientia().isUseAltFont());
 
 		TextButton returnToMainMenu;
 		if (mgScr.getConscientia().isUseAltFont())
@@ -134,7 +134,7 @@ public class OptionsMenu {
 				.size(optionsWindow.getWidth() * .75f, optionsWindow.getHeight() / 10).row();
 		optionsWindow.add(bgmSlider).align(Align.center)
 				.size(optionsWindow.getWidth() * .75f, optionsWindow.getHeight() / 10).row();
-		optionsWindow.add(whinersFontCB).align(Align.center).size(optionsWindow.getWidth() * .75f,
+		optionsWindow.add(altFontCB).align(Align.center).size(optionsWindow.getWidth() * .75f,
 				optionsWindow.getHeight() / 10);
 	}
 

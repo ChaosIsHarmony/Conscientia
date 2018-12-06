@@ -1,10 +1,10 @@
 package com.ec.conscientia.dialogue;
 
-import com.ec.conscientia.FileReaderWriter;
 import com.ec.conscientia.SoundManager;
 import com.ec.conscientia.entities.Address;
 import com.ec.conscientia.entities.NPC;
 import com.ec.conscientia.entities.Response;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 import com.ec.conscientia.variables.CommonVar;
 
@@ -13,7 +13,7 @@ public class Dialogue {
 	private NPC currentNpc;
 	private int switchedToNPC;
 	private DialogueFileReaderWriter dialogueFileRW;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 	private Address[] addresses;
 
 	private Response[] responses, responsesOrdered;
@@ -31,7 +31,7 @@ public class Dialogue {
 
 	public Dialogue(MainGameScreen mgScr) {
 		this.mgScr = mgScr;
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 		this.dialogueFileRW = new DialogueFileReaderWriter(mgScr);
 	}
 
@@ -386,11 +386,11 @@ public class Dialogue {
 		mgScr.setCurrentNPC(currentNpc.getIDnum());
 
 		// targeted saves
-		fileRW.loadFile(FileReaderWriter.SAVE_FILE, false);
+		fileRW.loadFile(FileIOManager.SAVE_FILE, false);
 		fileRW.updateCurrentNPC();
 		fileRW.updateCurrentLocation();
 		fileRW.updateTriggeredEvents();
-		fileRW.writeToFile(FileReaderWriter.SAVE_FILE);
+		fileRW.writeToFile(FileIOManager.SAVE_FILE);
 
 		// Ends game
 		if (currentAddress.contains("END GAME!")) {

@@ -1,4 +1,4 @@
-package com.ec.conscientia;
+package com.ec.conscientia.filerw;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,6 +6,7 @@ import java.util.Random;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.files.FileHandle;
+import com.ec.conscientia.Conscientia;
 import com.ec.conscientia.entities.Acquirable;
 import com.ec.conscientia.entities.Book;
 import com.ec.conscientia.entities.Glyph;
@@ -17,7 +18,7 @@ import com.ec.conscientia.entities.SavedGame;
 import com.ec.conscientia.screens.MainGameScreen;
 import com.ec.conscientia.variables.CommonVar;
 
-public class FileReaderWriter {
+public class FileIOManager {
 	private String currentSavedGameFile, NPCFile, uniSaveFile;
 	public final static int SAVE_FILE = 0, NPC_FILE = 1, UNI_FILE = 3, NUM_BIRACULIAN_VERSES = 20;
 
@@ -28,16 +29,19 @@ public class FileReaderWriter {
 	private MainGameScreen mgScr;
 
 	/*
-	 * Used for test suite
+	 * For test suite
 	 */
-	public FileReaderWriter() {
+	public FileIOManager() {
 	}
 
-	public FileReaderWriter(Conscientia conscientia) {
+	/*
+	 * For actual game
+	 */
+	public FileIOManager(Conscientia conscientia) {
 		this.conscientia = conscientia;
 	}
 
-	public FileReaderWriter(Conscientia conscientia, MainGameScreen mainGameScr) {
+	public FileIOManager(Conscientia conscientia, MainGameScreen mainGameScr) {
 		this.conscientia = conscientia;
 		this.mgScr = mainGameScr;
 	}
@@ -53,7 +57,7 @@ public class FileReaderWriter {
 
 				// adds 0 in front of current game num if less than 10
 				lessThanTen = (conscientia.getConscVar().currentSavedGameNum < 10) ? "0" : "";
-				// indexes for current saved game portion
+				// assigns indexes for current saved game portion
 				SBStartInd = file.readString()
 						.indexOf("%" + lessThanTen + conscientia.getConscVar().currentSavedGameNum);
 				SBEndInd = file.readString().indexOf(lessThanTen + conscientia.getConscVar().currentSavedGameNum + "%")
@@ -63,8 +67,7 @@ public class FileReaderWriter {
 
 				if (updatePersistents) {
 					// checks to see if more triggered events have been added in
-					// the
-					// defaultSave file upon loading a saved game
+					// the defaultSave file upon loading a saved game
 					writeNewEvents();
 					updatePersistents();
 				}
@@ -1770,9 +1773,9 @@ public class FileReaderWriter {
 		}
 	}
 
-	public void setUseWhinersFont(boolean useWhinersFont) {
+	public void setUseAltFont(boolean useAltFont) {
 		loadFile(UNI_FILE, false);
-		uniSaveFile = uniSaveFile.substring(0, uniSaveFile.indexOf("[/FONT]") + 7) + ((useWhinersFont) ? "1" : "0")
+		uniSaveFile = uniSaveFile.substring(0, uniSaveFile.indexOf("[/FONT]") + 7) + ((useAltFont) ? "1" : "0")
 				+ uniSaveFile.substring(uniSaveFile.indexOf("[FONT/]"));
 		writeToFile(UNI_FILE);
 	}

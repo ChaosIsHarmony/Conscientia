@@ -7,7 +7,7 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.scenes.scene2d.utils.Drawable;
 import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
-import com.ec.conscientia.FileReaderWriter;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 import com.ec.conscientia.variables.CommonVar;
 import com.ec.conscientia.variables.ConscientiaVar;
@@ -27,11 +27,11 @@ public class NPC {
 	protected int idNum;
 	protected Drawable img;
 
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 	private ConscientiaVar conscVar;
 
 	public NPC(int idNum, MainGameScreen mgScr) {
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 		this.conscVar = mgScr.getConscientia().getConscVar();
 
 		this.idNum = idNum;

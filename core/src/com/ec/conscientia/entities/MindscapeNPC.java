@@ -2,7 +2,7 @@ package com.ec.conscientia.entities;
 
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
-import com.ec.conscientia.FileReaderWriter;
+import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
 
 public class MindscapeNPC extends Acquirable {
@@ -10,11 +10,11 @@ public class MindscapeNPC extends Acquirable {
 	private String lastLocation, title, explanationText, listTitle, imgPathway;
 
 	private MainGameScreen mgScr;
-	private FileReaderWriter fileRW;
+	private FileIOManager fileRW;
 
 	public MindscapeNPC(int ID, MainGameScreen mgScr) {
 		this.mgScr = mgScr;
-		this.fileRW = new FileReaderWriter(mgScr.getConscientia(), mgScr);
+		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 
 		this.ID = ID;
 		this.lastLocation = mgScr.getCurrentLocation();
