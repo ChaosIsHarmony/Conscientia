@@ -1503,7 +1503,7 @@ no pact for Thetian
 lied to him about being sent by Uraklian
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002!VOVKOS!]
 		||
-		*"Wayfarer! You said it wasn't so, but for the love of Biracul tell me true! Is what I sense in you His will, His light? If you're the Voice, the Eidos, then speak my true name!"*
+		*"Wayfarer! You said it wasn't so, but for the love of Biracul speak it true! Is what I sense in you His will, His light? If you're the Voice, the Eidos, then speak my true name!"*
 		(A#"Oarsman Vovkos, as brother I see you!"){A:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2054-2!VOVKOS!}
 		(B#"Your true name? Is it not Vovkos?"){B:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2054-2!VOVKOS!}
 		(C#"I don't think I know your true name."){C:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X9999!VOVKOS!}
@@ -1512,9 +1512,9 @@ lied to him about being sent by Uraklian
 		(F#"Vovkos! Buddy! I knew you'd come to save me!"){F:1,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9990.X2054-2!VOVKOS!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.002!VOVKOS!/]
 
->>>Torma offers herself as sacrifice (2052)<<<
+>>>Torma offers others as sacrifice (2053)<<<
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0020!VOVKOS!]
-		|^2052:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0010!VOVKOS!|
+		|^2053:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0010!VOVKOS!|
 		*"Then faith is finally repaid..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0021!VOVKOS!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X0020!VOVKOS!/]
@@ -1527,9 +1527,9 @@ lied to him about being sent by Uraklian
 
 
 already Spoke Vovkos secret name
->>> Told Jormungund would sacrifice self (2052)<<<
+>>> Offered others as sacrifice (2053)<<<
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X003!VOVKOS!]
-		|^2052:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0030!VOVKOS!|
+		|^2053:MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0030!VOVKOS!|
 		*"Prophetess! There's no time to waste! We must..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!9999.X9999!VOVKOS!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.X003!VOVKOS!/]
@@ -1559,7 +1559,7 @@ ISLE OF THE WYRM
 Jer Memory
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!DESCRIPTION!]
 		||
-		*And to Jer returned is my Self. Though the memory of arriving once more eludes me. Clear it is now that we crawl through the waves as the oarsman directs our craft into the impregnable fog - so white as to be the perfect inversion of the Void whence my Trueflesh came.*
+		*And to Jer my Self returns. Though the memory of arriving once more eludes me. Clear it is now that we crawl through the waves as the oarsman directs our craft into the impregnable fog - so white as to be the perfect inversion of the Void whence my Trueflesh came.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!DESCRIPTION!/]
 	
@@ -1577,43 +1577,44 @@ Jer Memory
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0001!DESCRIPTION!]
 		||
-		*Fortunately, robbed of sight as we are, blind we are not. Our ally, the deft oarsman, heeds not the illusions of the eyes, guided instead by the wailing winds. He listens to the music of the waves echoing off the seabed's crusty fingers, off the stony claws reaching out from the waters at our craft and threatening to drag us under to the destruction of the Falseflesh.*
+		*Robbed of sight as we are, blind we are not. Our ally, the deft oarsman, heeds not the illusions of the eyes, guided instead by the wailing winds. He listens Nature's song, to the waves echoing off the seabed's crusty fingers, off the stony claws reaching out from the waters and threatening to drag us under to the destruction of the Falseflesh.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0001!DESCRIPTION!/]
-???
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0002!DESCRIPTION!]
 		||
-		*And yet no measure of fear wavers my faith in the Shining One and His mission. Tasked to here find Vovkos, guide to the Thought Wheel of the Beginning. And more than this, prophecies or memories - for what are prophecies but memories of the future? - indeed, according to memories told from other lives, other journeys, it is here that we finally meet.*
+		*And yet no measure of fear wavers my faith in the Shining One and His mission. Tasked to here find Vovkos, guide to the Thought Wheel of the Beginning. And more than this, prophecies, nay, memories - for what are prophecies but memories of the future? - indeed, according to memories told from other lives, other journeys, it is here that we finally meet.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0002!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0003!DESCRIPTION!]
 		||
-		*Yet it is not without apprehension that my Self proceeds, for the group of occult wizards with whom my company is now shared, seem fallen, eyes closed to the light of the All-Seer. Although my Self knows Biracul has touched this place with his wisdom in times now passed, a sense of fear that it has been corrupted by the Blood-Drinkers lingers.*
+		*Yet it is not without apprehension that my Self proceeds, for the group of occult wizards who now share my company, seem fallen, eyes closed to the light of the All-Seer. Although my Self knows Biracul has touched this place with his wisdom in times now passed, a sense of fear that it has been corrupted by the Blood-Drinkers lingers.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0003!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X001!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0010!DESCRIPTION!|
-		*But all these thoughts scatter at the sombre and heavy tone of the mystic High Priest...*
+		*But all these thoughts scatter at the somber and heavy tone of the mystic High Priest...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X1101!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X001!DESCRIPTION!/]
-	
+
+After Caito speaks
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0010!DESCRIPTION!]
 		||
-		*An emphatic crack punctuates with echoing finality his last words, and our boat docks into the archaic peer. This island appears to house numerous structures from the era of the Vanquished, as evidenced by the docking port, fashioned with a precision and cunning beyond even the treacherous Thiudan's capabilities.*
+		*An emphatic crack punctuates with echoing finality his last words, and our boat docks into the archaic peer. This island appears to house numerous structures from Vanquished eras, the dock among them, fashioned with a precision and cunning beyond even the treacherous Thiudan's capabilities. Seamless stones fitted together and unmoved for uncounted spans of forgotten time, as though yet awaiting their cruel masters' return. The winds and waters in alliance for centuries have failed to so much as chip the edges of these docks. Clearly the All-Seer will not allow his servants to soon forget the hubris of their sinful ancestors...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00100!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0010!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00100!DESCRIPTION!]
 		||
-		*Further evidence comes in the form of a sweeping beam of intense light, cutting through the very fog and showing us the way through the craggy and perilous shore, where one misstep would mean certain death. What work of witchcraft is it that chases fog from the very air which spawned it? Such an ominous Techne does much to make one ill-at-ease in this wretched land.*
+		*But more memories of the fallen come in the form of a sweeping beam of intense light. It cuts through the very fog and illuminates the path through the craggy and perilous shore like some false Biracul! Though one misstep here would mean certain death, should we sinners not trust in the All-Seer's plan? What work of witchcraft is it that causes false light to chase fog from the very air which spawned it? Such an ominous Techne does much to make one ill-at-ease in this wretched land.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0011!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00100!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0011!DESCRIPTION!]
 		||
-		*Leaving no time for musing, the shady High Priest intrepidly advances as the fog appears to consume his form. However, my Self remains still, seeking the guidance of Biracul.*
+		*Leaving no time for musing, the impure High Priest recklessly advances as the fog appears to consume his form. My Self, however, remains still, seeking the guidance of Biracul.*
 		(A#Quickly follow){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0012!DESCRIPTION!}
 		(B#Wait){B:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0013!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0011!DESCRIPTION!/]
@@ -1626,27 +1627,39 @@ Jer Memory
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00120!DESCRIPTION!]
 		||
-		*Shining One watch over me...*
+		*Shining One! Watch over me...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00120!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0013!DESCRIPTION!]
 		||
-		*And as always, guidance arrives. Now it is clear as a virgin spring that He demands stillness, inaction.*
+		*And as always, guidance arrives. Now it is clear as a virgin spring that He demands stillness, inaction, stasis.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00130!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0013!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00130!DESCRIPTION!]
 		||
-		*But, swallowed up in the crafty fog, simply shifting my weight causes my Self to lose footing and slip to what would be a certain and ignoble death.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00131!DESCRIPTION!}
+		*But, swallowed up in the crafty fog, a mere shift in my footing causes a wobble, the wobble a lurch, and the lurch a slip.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00131!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00130!DESCRIPTION!/]
 	
-	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00131!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00131!DESCRIPTION!]
+		||
+        *It is inevitable... It is His will.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00132!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00131!DESCRIPTION!/]
+	
+	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00132!DESCRIPTION!]
+		||
+        *Here ends the Falseflesh... Here ends Torma.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00133!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00132!DESCRIPTION!/]
+	
+	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00133!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X0014!DESCRIPTION!|	
-		*Yet Biracul's judgment is unerring and destiny calls; for loyal Vovkos appears with lantern in hand gripping my wrist firmly and pulling me from Brother Death's clutches.*
+		*Yet Biracul's judgment is unerring and destiny calls; for loyal Vovkos appears with lantern in hand gripping my wrist firmly and pulling me from Brother Death's clutches. Not today, Death. Not today.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X1102!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00131!DESCRIPTION!/]
+	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X00133!DESCRIPTION!/]
 	
 	
 	
@@ -1657,22 +1670,22 @@ Jer Memory
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.X0014!DESCRIPTION!/]
 	
 	
-	
+After talking to Vovkos
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0020!DESCRIPTION!]
 		||
-		*The oarsman then walks forward, using his keen sense of Nature's musical language to guide him. My Self begins to follow his bobbing latern quickly, but cautiously, forging my path toward the pit of fallen wizards.*
+		*The oarsman then walks forward, using his keen sense of Nature's song to guide him. My Self begins to follow his bobbing latern quickly, though cautiously, forging a path toward the pit of fallen wizards.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00200!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0020!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00200!DESCRIPTION!]
 		||
-		*Shining One watch over me...*
+		*Shining One! Watch over me...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00200!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0021!DESCRIPTION!]
 		||
-		*As Biracul wills it, my alliance with Vovkos is forged. Without sensing the need to remain, we return to his watercraft and we begin our travels to the Thought Wheel of the Beginning, to my ultimate destiny...*
+		*As Biracul wills it, my alliance with Vovkos is forged. Without sensing the need to remain, we return to his watercraft and begin our travels to the Thought Wheel of the Beginning, to my ultimate destiny...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00210!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0021!DESCRIPTION!/]
 	
@@ -1690,7 +1703,7 @@ Jer Memory
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00212!DESCRIPTION!]
 		||
-		*All sounds wind down.*
+		*All sounds vanish into the distance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00213!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00212!DESCRIPTION!/]
 	
@@ -1702,17 +1715,17 @@ Jer Memory
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0022!DESCRIPTION!]
 		||
-		*As Biracul wills it, my alliance with Vovkos is forged. Now with even greater strength of will, my Self dares to see once more the cursed mirage of the Wyrm, to make with it that fated pact which only unborn Thetian can consummate. Sacred and necessary though this action may be, to me its meaning is utterly inscrutable...*
+		*As Biracul wills it, my alliance with Vovkos is forged. Now with even greater strength of will, my Self dares to see once more the cursed mirage of the Wyrm, to make with it that fated pact which only unborn Thetian can consummate. Sacred and necessary though this action may be, to my Self its meaning is utterly inscrutable...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00220!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0022!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00220!DESCRIPTION!]
 		||
-		*Do not of the All-Seer request understanding, rather pray for the strength to accomplish Its great will!*
+		*Do not of the All-Seer demand understanding, rather pray for the strength to unerringly follow! For how could the ant ever understand man? How could man ever understand God?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.00220!DESCRIPTION!/]
-	
-	
+
+
 
 CAITO
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!CAITO!]
@@ -1723,70 +1736,70 @@ CAITO
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.001!CAITO!]
 		||
-		*"We shall soon bear witness as to whether you are more than what the many pretenders to the title of Prophetess were..."*
+		*"Soon we bear witness to His will. To His judgment!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.001!CAITO!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!CAITO!]
 		||
-		*"Though, experience casts the odds most firmly against you."*
+		*"Many before you have claimed the title of Prophetess, yet our Order still seeks..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.003!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!CAITO!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.003!CAITO!]
 		||
-		*"You see, a test of faith awaits you, upon your arrival."*
+		*"I hope you understand what this means."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.003!CAITO!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!CAITO!]
 		||
-		*"A test none have yet passed."*
+		*"The Shining One loves and spurns in equal measure. The righteous he showers in ecstasy, the deceitful in agony."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!CAITO!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!CAITO!]
 		||
-		*"Prepare yourself, 'Prophetess'."*
+		*"Prepare yourself, 'Prophetess'. Your Final Catechism nears."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!CAITO!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!CAITO!/]
-	
-	
-	
+
+
+
 VOVKOS
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!VOVKOS!]
 		||
 		*"Would not a 'Prophetess' have foreseen such a perilous course as inadvisable?"*
 		(A#"Thank you for saving me, Vovkos."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2054-2!VOVKOS!}
-		(B#"Prophecy is not omniscience."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!VOVKOS!}
+		(B#"Prophecy isn't omniscience."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!VOVKOS!}
 		(C#"I suppose that means I'm no Prophetess."){C:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2044!VOVKOS!}
-		(D#"Could it not just be that I knew you would be lurking about?"){D:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!VOVKOS!}
-		(E#"Is the price of your aid paid in suffering insults, scum?"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!VOVKOS!}
+		(D#"Perhaps I knew you'd be lurking about to save me..."){D:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!VOVKOS!}
+		(E#"Is the price of your aid paid for in suffering insults?"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!VOVKOS!}
 		(F#"Vovkos! Buddy! Long time no see!"){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.006!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.001!VOVKOS!]
 		||
 		*"...How is it you know this name?"*
 		(A#"Is that not what you are called, oarsman?"){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.011!VOVKOS!}
-		(B#"All names are known to me innately."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.011!VOVKOS!}
+		(B#"All names are known to me, innately."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.011!VOVKOS!}
 		(E#"I owe you no explanations."){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.011!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.001!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!VOVKOS!]
 		||
 		*"It is as you say..."*
 		(A#"In any case, thank you for saving me, Vovkos."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2054-2!VOVKOS!}
-		(B#"Besides, I never claimed to be a Prophetess."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2044!VOVKOS!}
+		(B#"Besides, I'm here to find out if I really am the Prophetess."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2044!VOVKOS!}
 		(C#"Perhaps we should follow Caito..."){C:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2044!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.002!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!VOVKOS!]
 		||
-		*"Yes... Just ready to save the supposed Prophetess when she is danger..."* 
+		*"Yes... Just ready to save the supposed Prophetess when she's danger..."* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0040!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.004!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0040!VOVKOS!]
 		||
 		*"Is that how the Wayfarer has survived on all of her excursions? Depending solely on chance rather than skill...?"*
@@ -1794,7 +1807,7 @@ VOVKOS
 		(D#"I'm afraid I cannot reveal trade secrets!"){D:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2044!VOVKOS!}
 		(E#"My accomplishments speak for themselves. What have you done, scum?"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0040!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!VOVKOS!]
 		||
 		*"We could stay and trade insults here, but little would that profit either of us."*
@@ -1802,7 +1815,7 @@ VOVKOS
 		(D#"Ah, I was just getting warmed up..."){D:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2044!VOVKOS!}
 		(E#"I see your tail is now firmly between your legs."){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2044!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.005!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.006!VOVKOS!]
 		||
 		*"...How is it you know this name?"*
@@ -1824,48 +1837,42 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0111!VOVKOS!]
 		||
-		*"You see... it is only known to Biracul..."*
+		*"Biracul gave this name to me, told me to guard it jealously, to speak it to no one..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0112!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0111!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0112!VOVKOS!]
 		||
-		*"So this is the proof He promised would come!"*
+		*"But now you've come... The Prophetess has finally come..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0113!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0112!VOVKOS!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0113!VOVKOS!]
 		||
-		*"I must say, I did not expect you to be her, and..."*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0114!VOVKOS!}
-	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0113!VOVKOS!/]
-	
-	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0114!VOVKOS!]
-		||
-		*"Well, honestly, I almost started to believe that my vision of the Shining One was but a trick of memory..."*
+		*"Honestly, I nearly started to doubt my vision of the Shining One, to think it just a trick of memory..."*
 		(A#"Well, that's quite a revelation..."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.021!VOVKOS!}
 		(B#"A vision? Then your evidence is unreliable."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.022!VOVKOS!}
 		(E#"You're just as deluded as that idiot priest Caito."){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.025!VOVKOS!}
-	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0114!VOVKOS!/]
+	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0113!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.016!VOVKOS!]
 		||
-		*"Then you are the Prophetess! The Eidos!"*
-		(F#"The 'Stalphos', actually. And bad news, but you die in the wastes... Sorry!"){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.026!VOVKOS!}
+		*"Then... you're the Prophetess! The Eidos!"*
+		(F#"The 'Stalphos', actually. And, spoiler alert, you die in the wastes... Sorry!"){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.026!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.016!VOVKOS!/]
-	
-	
+
+
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.021!VOVKOS!]
 		||
-		*"Come now! We must depart from this wretched isle while Caito still walks toward the temple!"*
+		*"Come now! We must depart from this wretched isle! Before Caito grows suspicious!"*
 		(A#"Our meeting must be Biracul's will; I will go."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
-		(B#"It will have to wait; I have business with the Wyrm."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
+		(B#"It'll have to wait; I have business with the Wyrm."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
 		(E#"I am the sole arbiter of my destiny! I will not go!"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.021!VOVKOS!/]
 		
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.022!VOVKOS!]
 		||
-		*"But I have never spoken this name before! As was my pact with the Shining One when I was but an apprentice!"*
+		*"But I've never spoken this name before! As was my pact with the Shining One when I was but an apprentice!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0220!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.022!VOVKOS!/]
 	
@@ -1877,15 +1884,15 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.025!VOVKOS!]
 		||
-		*"I will bear your insults gladly, but for now we must depart from this wretched isle!"*
+		*"I'll gladly suffer your insults, but for now we must depart from this wretched isle!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0250!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.025!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0250!VOVKOS!]
 		||
-		*"Quickly! While Caito still walks toward the temple!"*
+		*"Quickly! Before Caito grows suspicious!"*
 		(A#"Our meeting must be Biracul's will; I will go."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
-		(D#"It will have to wait; I have business to attend to on this isle."){D:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
+		(D#"It'll have to wait; I have business to attend to on this isle."){D:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
 		(E#"I am the sole arbiter of my destiny! I will not go!"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.031!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0250!VOVKOS!/]
 	
@@ -1903,7 +1910,7 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0261!VOVKOS!]
 		||
-		*"Your knowledge of the name he gave unto me is proof beyond all doubt!"*
+		*"Your knowledge of the name he gave me is proof beyond all doubt!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2054-1!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0261!VOVKOS!/]
 	
@@ -1915,7 +1922,7 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.02620!VOVKOS!]
 		||
-		*"Quickly! While Caito still walks toward the temple!"*
+		*"Quickly! Before Caito grows suspicious!"*
 		(A#"But, I have to enter into a convenant with the Wyrm..."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0263!VOVKOS!}
 		(F#"Okay, let's make like a teenage boy and beat it."){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.02620!VOVKOS!/]
@@ -1928,13 +1935,13 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0264!VOVKOS!]
 		||
-		*"You know not of the depravity of these fallen servants of Biracul!"*
+		*"You know not of the depravity of these fallen 'servants' of Biracul!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0264!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!]
 		||
-		*"Now they are but vacant shells; their reverence for the Shining One having evaporated from so long a wait..."*
+		*"Now they are but vacant shells! Their reverence for the Shining One has faded from so long a wait..."*
 		(A#"No, I must insist. For this too is part of His plan."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-1!VOVKOS!}
 		(F#"Yeesh! You're annoying. Fine, let's go. The Wyrm thing can wait till next time."){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!/]
@@ -1948,14 +1955,14 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0310!VOVKOS!]
 		||
-		*"You know not of the depravity of these fallen servants of Biracul!"*
+		*"You know not of the depravity of these fallen 'servants' of Biracul!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0311!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0310!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0311!VOVKOS!]
 		||
-		*"Now they are but vacant shells; their reverence for the Shining One having evaporated from so long a wait..."*
-		(A#"Then I will defer to your judgment... I am ready to leave."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
+		*"Now they are but vacant shells! Their reverence for the Shining One has faded from so long a wait..."*
+		(A#"Then I'll defer to your judgment... I'm ready to leave."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
 		(B#"No, I must insist. I need to see the Wyrm."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-2!VOVKOS!}
 		(E#"I will not be deterred!"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-2!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0311!VOVKOS!/]
@@ -1968,7 +1975,7 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0313!VOVKOS!]
 		||
-		*"If this is your desire... then I am left with little choice."*
+		*"If this is your desire... then I'm left with little choice."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0314!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0313!VOVKOS!/]
 	
@@ -1986,7 +1993,7 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0315!VOVKOS!]
 		||
-		*"When you are satisfied that this place has long been bereft of faith, we can depart immediately."*
+		*"When you're satisfied that this place has long been bereft of faith, we can depart immediately."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0316!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0315!VOVKOS!/]
 	
@@ -2004,7 +2011,7 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0360!VOVKOS!]
 		||
-		*"If this is your desire... then I am left with little choice."*
+		*"If this is your desire... then I'm left with little choice."*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0361!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0360!VOVKOS!/]
 	
@@ -2022,7 +2029,7 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0363!VOVKOS!]
 		||
-		*"When you are satisfied that this place has long been bereft of faith, we can depart immediately."*
+		*"When you're satisfied that this place has long been bereft of faith, we can depart immediately."*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0364!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0363!VOVKOS!/]
 	
@@ -2042,7 +2049,7 @@ leaving isle
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.001!VOVKOS!]
 		||
-		*"I will make sure you arrive safely in Kavu; you can trust in me!"*
+		*"I'll make sure you arrive safely in Kavu! I swear it in His name!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.002!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.001!VOVKOS!/]
 	
@@ -2062,19 +2069,19 @@ said not Prophetess
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.001!VOVKOS!]
 		||
-		*"I'll lead you up the path to where Caito now heads"*
+		*"I'll lead you up the path to the temple."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.002!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.001!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.002!VOVKOS!]
 		||
-		*"May the light of Awareness guide you to the Shining One, Wayfarer."*
+		*"May the light of Awareness guide your Trueflesh to the Shining One, Wayfarer... whatever it may do with the False."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.002!VOVKOS!/]
-	
-	
-	
-	
+
+
+
+
 _____________________________________
 TEMPLE OF THE VOICE
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!]

@@ -22,7 +22,7 @@ _________GLYPHS_________
 	$Glyphs/Luin Sword.png$
 	#Luin manifests itself as a sword at will. Once bound to a host, it will remain with the Trueflesh for the rest of their existence. 
 	
-	A being pure in form and thought, there is nothing that it cannot cleave and no craft that can delude it into betrayal. Yet, its simple nature can do no harm to foes that lack material substance. 
+	A being pure in form and thought, there is nothing that it cannot cleave and no craft that can delude it into betrayal. Yet, its simple nature means it can do no harm to foes energetic and incorporeal.
 	
 	Luin is the Blade of Vanargand, the Emerald Architect. One of the finest weapons of his craft, but neither the first nor the last.#
 [2/]
@@ -34,7 +34,7 @@ _________GLYPHS_________
 	dt. Primeval Era*
 	@Glyph of Luin: Armor@
 	$Glyphs/Luin Armor.png$
-	#Luin slumbers within the host's Falseflesh and marrow, augmenting their strength so that their structure is symetrical, durable and resilient. Once bound to a host, it will remain with the Trueflesh for the rest of their existence.  
+	#Luin slumbers within the host's Falseflesh and marrow, augmenting their strength so that their structure is symetrical, durable and resilient. Once bound to a host, Luin intermingles with its Trueflesh in perpetuity.
 	
 	As craftsman of the Masters, Vanargand labored to ensure that every device of his making would become an extension of the user. In spite of - or perhaps because of - the mercurial nature of these instruments, their possession has moved entire cultures to war.#
 [3/]
@@ -46,9 +46,9 @@ _________GLYPHS_________
 	dt. Primordial Era*
 	@Glyph of Eidos@
 	$Glyphs/Eidos Glyph.png$
-	#The Glyph of Eidos, daughter of Viracocha, this Glyph enables the Techne of Soulgrafting, making the form of one's ghost so persistent as to express itself in materiality even after the destruction of the body. Like all Glyphs born from Awareness, its function extends beyond what can be known, and its full implication remains obscured. This Glyph establishes the knower as Archon of the Sanctuary, giving them mastery over its powers and secrets. 
+	#The Glyph of Eidos, daughter of Viracocha, this Glyph enables the Techne of Soulgrafting, making the form of one's ghost so persistent as to express itself in materiality even after the obliteration of the Falseflesh. Like all Glyphs born from Awareness, its function extends beyond what can be known, and its full implication remains obscured. This Glyph establishes the knower as Archon of the Sanctuary, giving them mastery over its powers and secrets. 
 	
-	Eidos may be a entity beyond time, yet all beings are bound by limitations they are powerless to perceive.#
+	Eidos may be a entity beyond time, yet even she is bound by limitations beyond perception.#
 [4/]
 
 [/5]
@@ -58,13 +58,13 @@ _________GLYPHS_________
 	dt. Era of Awakening*
 	@Sigil of Awareness@
 	$Glyphs/Awareness Glyph.png$
-	#The Glyph of Awareness opens the mind to that which lies beyond itself. However, its Sigil is as volatile as the Falseflesh it brands. 
+	#The Glyph of Awareness opens the mind to what lies beyond itself. However, in Sigil form, it is as transient as the Falseflesh it brands. 
 	
-	Many works were built in the light of Awareness, though their presence remains hidden to those lacking knowledge of this Glyph. 
+	Many works were built in the light of Awareness, their presence hidden in the shadows of ignorance. 
 	
 	Said by many to be Biracul's gift to the first magi of Kabu, it is associated with order and the One from which this order sprung. Yet, such appearances can be misleading. Extending thought into the infinite gulf of externality, this Glyph is a window into chaos. There is no telling what the consequences of its use may be. 
 	
-	Appearing at the dawn of the Great Awakening, what was it that the Vanquished saw in its depths?#
+	Appearing at the dawn of the Great Awakening, what did the Vanquished saw in its depths?#
 [5/]
 
 [/6]
@@ -74,13 +74,13 @@ _________GLYPHS_________
 	dt. Vanquished Era*
 	@Sigil of Discipline@
 	$Glyphs/Discipline Glyph.png$
-	#The Glyph of Discipline grants mastery of the Self, creating order and stability for the Falseflesh it brands, though the Sigil bearing it is itself volatile and unstable.
+	#The Glyph of Discipline grants mastery of the Self, creating order and stability for the Falseflesh it brands. Yet the Sigil bearing it is itself transient and unstable.
 	
-	A Glyph of limitation, it was used to cleave and contain forms and thoughts so that they would be known. Such craft inevitably led to occult practice, and those who have achieved Discipline can perceive that which has been obscured by its Technocraft.
+	A Glyph of limitation, it was used to cleave and contain forms and thoughts so that they could become known. Such craft inevitably led to occult practices, deep in the shadows of forgotten enclaves. Only those who achieve Discipline perceive the thoughts obscured by its Technocraft.
 	
-	Such secrecy is prohibited by the edicts of Biracul, and the identities of those employing this power remain obscure. However, tales of a shadowy Master-slaying folk have spread from the Bladed Mountains to many southern lands.
+	Such secrecy is prohibited by the edicts of Biracul, and the identities of those still employing this power remain obscure. However, tales of an arcane, Master-slaying folk have spread from the Bladed Mountains to many southern lands. All outsiders know of them is their absolute mastery of Discipline.
 	
-	This Glyph is ancient, perhaps dating to a time before the Great Awakening. It is associated with Skyl, a god whose identity and worship is now all but forgotten.#
+	An ancient Glyph, perhaps even dating to a time before the Great Awakening, it is associated with Skyl, a god whose identity and worship is now all but forgotten.#
 [6/]
 
 [/7]
@@ -90,11 +90,11 @@ _________GLYPHS_________
 	dt. Punishing Wars*
 	@Sigil of Farcasting@
 	$Glyphs/Farcasting Glyph.png$
-	#The Glyph of Farcasting permits its branded Falseflesh entry into the Garden of the Nether Edge, a place fashioned long before the Great Awakening. When this Glyph interacts with metallic discs bearing its facsimile, no distance can stand in the user's way.
+	#The Glyph of Farcasting permits its Reader entry into the Garden of the Nether Edge, a place fashioned long before the Great Awakening. When this Glyph interacts with the metallic discs bearing its facsimile, spatial distance becomes immaterial.
 	
 	While the Garden itself is ancient beyond measure, this Glyph is not. Dating to the Time of the Punishing Wars, it was used by those eager to fight as well as those desperate to escape. Though once common, its use has been made rare. So disastrous were the wars that many folk sacrificed their magi in the hope of ending the power of the Farcaster Seals. It was said that even the Garden itself was scorched by the fires of both the Vanquished and their enemy.
 	
-	Though the Glyph persists, the Sigil upon which it is now etched is fragile and transient.#
+	Though the Glyph persists in perpetuity, the Sigil upon which it is now etched is fragile and transient.#
 [7/]
 
 [/8]
@@ -104,7 +104,7 @@ _________GLYPHS_________
 	dt. Modern Era*
 	@Glyph of the Occult@
 	$Glyphs/Occult Glyph.png$
-	#The Glyph of the Occult, etched by Ormenos of Thanenheim into the Trueflesh of its bearers, this Glyph aids in concealing one's presence with the Techne of Hidden Mind. However, its function can only be manifested by the form of action. If one attempts to seek the company of others and either conversation or conflict, the Glyph will have no effect. 
+	#The Glyph of the Occult, etched by Ormenos of Thanenheim into the Trueflesh of its bearers, this Glyph aids in concealing one's presence from the Eyes with the Techne of Hidden Mind. However, its function can only be manifested through conscious action. If one attempts to seek the company of others, the Glyph will have no effect.
 	
 	The product of Ormenos' sojourn into the Wasteland, he sought to emulate the inscrutable nature of the Pariah banished to the Lost City. Though this Glyph only represents a partial success, perhaps it might yet be perfected...#
 [8/]
@@ -118,7 +118,7 @@ _________GLYPHS_________
 	$Glyphs/Resurrection Glyph.png$
 	#The Glyph of Resurrection, repesenting the height of Vanquished achievement, the Techne contained within allows the branded Trueflesh to distill their living essence and impart it to a crystalline structure.
 	
-	The glassy material of old was dubbed 'ghel' by its creators. Spun from the mind, made form by the will, it was an attempt to create perfect realisations of physicality. Though deemed illusory by some and heretical by others, its utility could not be denied. This Techne may be ostensibly used to heal, yet so horrific were the deeds of certain crystal architecture that their rebirth was anything but benevolent.
+	The glassy material of old was dubbed 'ghel' by its creators. Spun from the mind, made form by the will, it was an attempt to create perfect realizations of physicality. Though deemed illusory by some and heretical by others, its utility could not be denied. This Techne may be ostensibly used to heal, yet so horrific were the deeds of certain crystal architecture that their rebirth was anything but benevolent.
 	
 	This particular Glyph is a facsimile distilled from the soul of Famlicus, the Ruby Illusionist. The exact properties of the original have been lost to time and indifference.#
 [9/]
@@ -132,7 +132,7 @@ _________GLYPHS_________
 	$Glyphs/Purification Glyph.png$
 	#The Glyph of Purification, capable of transforming poisons of both body and mind, this allows its branded Trueflesh to be perserver of life and health. 
 	
-	Just as the poison becomes a cure, so too was this Glyph derived as an antecedent to its destructive twin. The relationship between Corruption and Purification was discovered within the Red Tower, yet the Vanquished lacked the Awareness to understand this duality. It was thus that the construction of the Empyrean's crucible began.#
+	This Glyph derived as an antecedent to its destructive twin, a foil to its corrupt effects. The relationship between Corruption and Purification was discovered within the Red Tower, yet the Vanquished lacked the Awareness to understand this duality. It was thus that the construction of the Empyrean's crucible began.#
 [10/]
 
 [/13]
@@ -154,9 +154,9 @@ _________GLYPHS_________
 	dt. Vanquished Era*
 	@Glyph of Corruption@
 	$Glyphs/Corruption Glyph.png$
-	#The Glyph of Corruption decomposes the very essence of matter, in such a way so that even the smallest mote of life can become a bane to its fellows. The Falseflesh of any creature born of womb will be annihilated by the Trueflesh bearing this Glyph, should they wish it.  
+	#The Glyph of Corruption decomposes the very essence of matter, in such a way that even the smallest mote of life can become a bane to its fellows. The Falseflesh of any creature born of womb will be annihilated by the Trueflesh bearing this Glyph, should they wish it.  
 	
-	Such was the cunning of the Vanquished that it is said they once fashioned a simulacrum of life that could bear the poison of this Glyph without succumbing to its effects - a sheath to an otherwise hostile blade.
+	Such was the cunning of the Vanquished that it is said they once fashioned a simulacrum of life that could bear the poison of this Glyph without succumbing to its effects - a sheath to an otherwise hostile blade. But most can only ever use its power indirectly.
 	
 	The fated combination of Corruption with its twinned Glyph led to unexpected complications for the Vanquished - complications ultimately inducing their inevitable demise.#
 [14/]
@@ -168,7 +168,7 @@ _________GLYPHS_________
 	dt. Primeval Era*
 	@Glyph of Nearcasting@
 	$Glyphs/Farcasting Glyph.png$
-	#The Glyph of Nearcasting is a humble precursor to its more potent descendant, yet its greatest advantage lies in its stability - for unlike its volatile successor, it is seared into the Trueflesh. Though in principle they operate in a similar fashion, casting objects across a room and across a continent is akin to walking said distances.
+	#The Glyph of Nearcasting is a humble precursor to its more potent descendant, yet its greatest advantage lies in its stability - for unlike its volatile successor, it is seared into the Trueflesh. Though in principle they operate in a similar fashion, casting objects across a room and across a continent is as different as walking said distances.
 	
 	While no mean feat is it to cast without a Nether Edge nexus, it is ultimately unsustainable. Once the Nether Edge was carved from the Mindscape, all other forms of casting became obsolete and fell into disuse.#
 [15/]

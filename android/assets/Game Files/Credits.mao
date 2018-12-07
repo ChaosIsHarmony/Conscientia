@@ -123,7 +123,7 @@ Lunacy Theme:
 "The End of Sanity"
 
 Lunacy Battle Theme:
-"Crushed by the Weght of Feathers"
+"Crushed by the Weight of Feathers"
 
 Ormenos' Theme:
 "Solemne"
@@ -219,10 +219,10 @@ OpenGameArt.org
 
 
 
-"It only ends when you have lost the will
- to continue. For the willing, the end is 
- only the beginning. But we must endeavour
- to find what lies beyond."
+"All ends only when the will to continue
+ wanes. 'Will' simply sees an end as
+ a new beginning. But what lies beyond
+ this tireless loop?"
 
 - The Biraculian Verses: AO 0-0
 
