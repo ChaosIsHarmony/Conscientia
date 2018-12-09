@@ -97,7 +97,7 @@ public class Tests {
 		// Special Event Cues
 		HashMap<String, ArrayList<String>> cues;
 		// loads special event cues
-		cues = fileRW.getEventCues();
+		cues = fileRW.reader.getEventCues();
 		cuesVsMulti(cues);
 
 		for (String fn : filesToCheck) {

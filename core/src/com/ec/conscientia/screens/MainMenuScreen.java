@@ -107,7 +107,7 @@ public class MainMenuScreen implements Screen {
 		title.setTouchable(Touchable.disabled);
 
 		bookList = new List<Book>(skin);
-		bookList.setItems(fileRW.loadBookList());
+		bookList.setItems(fileRW.reader.loadBookList());
 
 		final ScrollPane listPane = new ScrollPane(bookList, skin);
 
@@ -160,7 +160,7 @@ public class MainMenuScreen implements Screen {
 
 		// Grabs a random quote from the book of biracul
 		bookOfBiraculQuote = new Label("", skin);
-		bookOfBiraculQuote.setText(fileRW.loadSplashQuote());
+		bookOfBiraculQuote.setText(fileRW.reader.loadSplashQuote());
 		bookOfBiraculQuote.setPosition(stage.getWidth() / 3.5f, stage.getHeight() / 2);
 		bookOfBiraculQuote.setColor(1, 1, 1, 0);
 
@@ -335,7 +335,7 @@ public class MainMenuScreen implements Screen {
 		// switches to load screen
 		if (loadGame) {
 			// checks to see if there are any saved games
-			if (fileRW.loadScreenList()[0] != null) {
+			if (fileRW.reader.loadScreenList()[0] != null) {
 				// plays click sound
 				soundManager.playSFX(SoundManager.SFX_CLICK_POSITIVE);
 				conscientia.changeScreen(CommonVar.LOAD_SCREEN, false, 0);

@@ -84,7 +84,7 @@ public class MindscapeMenu {
 			if (i > MindscapeNPC.MAX_LOG && i <= MindscapeNPC.MAX_MINDSCAPE_NPC)
 				tempList.add(new MindscapeNPC(i, mgScr));
 
-		MindscapeNPC[] mindscapeNPCsList = fileRW.loadMindscapeNPCs(tempList);
+		MindscapeNPC[] mindscapeNPCsList = fileRW.reader.loadMindscapeNPCs(tempList);
 		mindscapeNPCsList = sortList(tempList);
 		// there was a crash because of a null pointer exception once, but I
 		// cannot replicate it right now so it remains unfixed
@@ -139,7 +139,7 @@ public class MindscapeMenu {
 					mgScr.mgVar.lastNPCBeforeMindEntry = mgScr.getCurrentNPC();
 
 					// saves currentLocation and currentNPC
-					fileRW.mindscapeSave();
+					fileRW.writer.mindscapeSave();
 
 					// sets new loc and NPC
 					// if player was already in the mindscape, they get

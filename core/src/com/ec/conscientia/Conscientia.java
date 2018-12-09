@@ -58,7 +58,7 @@ public class Conscientia extends Game {
 	}
 
 	private void actBook(int book) {
-		fileRW.actBook(book);
+		fileRW.writer.actBook(book);
 	}
 
 	@Override
@@ -70,7 +70,7 @@ public class Conscientia extends Game {
 		return useAltFont;
 	}
 
-	public void setUseWhinersFont(boolean tORf) {
+	public void setUseAltFont(boolean tORf) {
 		useAltFont = tORf;
 	}
 

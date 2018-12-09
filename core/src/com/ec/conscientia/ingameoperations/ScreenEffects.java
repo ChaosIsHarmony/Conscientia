@@ -106,7 +106,7 @@ public class ScreenEffects {
 			if (mgScr.mgVar.locChanged) {
 				mgScr.mgVar.soundManager.setBGMTransitionVolume(0);
 				// saves stats and current dialogue address for NPC
-				mgScr.mgVar.fileRW.gameSave();
+				mgScr.mgVar.fileRW.writer.gameSave();
 			}
 			mgScr.mgVar.fadeComplete = true;
 			mgScr.mgVar.fadeSpeed = 0;

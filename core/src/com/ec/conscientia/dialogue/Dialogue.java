@@ -60,7 +60,7 @@ public class Dialogue {
 				// dialogue and change area in Main class
 				if (!getCurrentLocAddress(3).equals(getCurrentMainLocAddress(3))) {
 					// updates locations visited
-					fileRW.addMapLocation(mgScr.getConscientia().getConscVar().bookID,
+					fileRW.writer.addMapLocation(mgScr.getConscientia().getConscVar().bookID,
 							getBroaderAreaName(getCurrentLocAddress(3)), getAreaName(getCurrentLocAddress(3)));
 					// resets fade speed
 					mgScr.setFadeSpeed(0);
@@ -98,7 +98,7 @@ public class Dialogue {
 					// saves new address for a NPC other than DESCRIPTION
 					if (currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("DESCRIPTION")
 							&& currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("FARCASTER"))
-						fileRW.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
 					// update the NPC dialogue address for current location
 					updateDialogue();
 				}
@@ -144,21 +144,21 @@ public class Dialogue {
 						// area
 						if (currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("DESCRIPTION")
 								&& currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("FARCASTER"))
-							fileRW.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
+							fileRW.writer.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
 						update();
 					} else {
 						// save current address as default address for given
 						// area
 						if (currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("DESCRIPTION")
 								&& currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("FARCASTER"))
-							fileRW.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
+							fileRW.writer.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
 						updateDialogue();
 					}
 				} catch (Exception e) {
 					// save current address as default address for given area
 					if (currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("DESCRIPTION")
 							&& currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("FARCASTER"))
-						fileRW.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
 					updateDialogue();
 				}
 			} // used when switch between Description and NPCs in a room
@@ -168,7 +168,7 @@ public class Dialogue {
 				endDialogue();
 			} else if (event[0].contains("@")) {
 				// save current address as default address for given area
-				fileRW.saveNPCstats(currentNpc.getName(), event[1], mgScr.getCurrentLocation());
+				fileRW.writer.saveNPCstats(currentNpc.getName(), event[1], mgScr.getCurrentLocation());
 				dialogueForceEnacted = true;
 				updateDialogue();
 			} else if (!event[0].equals("")) {
@@ -184,7 +184,7 @@ public class Dialogue {
 				// save current address as default address for given area
 				if (currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("DESCRIPTION")
 						&& currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("FARCASTER"))
-					fileRW.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
+					fileRW.writer.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
 
 				update();
 			}
@@ -341,13 +341,13 @@ public class Dialogue {
 			// saves address prior to npcSwitcher as last address/default
 			// address, unless previously forced
 			if (currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("FARCASTER"))
-				fileRW.saveNPCstats(currentNpc.getName(), oldAddress, mgScr.getCurrentLocation());
+				fileRW.writer.saveNPCstats(currentNpc.getName(), oldAddress, mgScr.getCurrentLocation());
 		} else if (overrideSwitchedToNPC) {
 			// used when switching to the mindscape to save previous NPCs last
 			// dialogue
 			NPC prevNPC = new NPC(lastNPC, mgScr);
 			if (currentNpc.getIDnum() != mgScr.mgVar.NPCbyNum.get("FARCASTER"))
-				fileRW.saveNPCstats(prevNPC.getName(), oldAddress, lastLoc);
+				fileRW.writer.saveNPCstats(prevNPC.getName(), oldAddress, lastLoc);
 		}
 
 		// change location
@@ -366,7 +366,7 @@ public class Dialogue {
 		// checks to see if switching rooms, if so, uses the currentAddress (the
 		// one JUST selected to guide the description to the proper address
 		else if (roomSwitch && !switchFromMindscape) {
-			fileRW.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
+			fileRW.writer.saveNPCstats(currentNpc.getName(), currentAddress, mgScr.getCurrentLocation());
 			currentNpc.setDialogueAddress(currentAddress, mgScr.getCurrentLocation());
 		} else if (switchFromMindscape) {
 			currentNpc.setDialogueAddress(currentNpc.getDialogueAddress(lastLoc), lastLoc);
@@ -386,11 +386,11 @@ public class Dialogue {
 		mgScr.setCurrentNPC(currentNpc.getIDnum());
 
 		// targeted saves
-		fileRW.loadFile(FileIOManager.SAVE_FILE, false);
-		fileRW.updateCurrentNPC();
-		fileRW.updateCurrentLocation();
-		fileRW.updateTriggeredEvents();
-		fileRW.writeToFile(FileIOManager.SAVE_FILE);
+		fileRW.reader.loadFile(CommonVar.SAVE_FILE, false);
+		fileRW.writer.updateCurrentNPC();
+		fileRW.writer.updateCurrentLocation();
+		fileRW.writer.updateTriggeredEvents();
+		fileRW.writer.writeToFile(CommonVar.SAVE_FILE);
 
 		// Ends game
 		if (currentAddress.contains("END GAME!")) {

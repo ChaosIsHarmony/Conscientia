@@ -160,7 +160,7 @@ public class CombatMenu {
 					}
 					// need to save here or it will take you to the last
 					// address before combat
-					fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+					fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					return dialogueReset();
 				case Enemy.ARK:
 					if (playerVictorious) {
@@ -176,7 +176,7 @@ public class CombatMenu {
 						combatEndAddress = "KABU!UR'RUK!DUNGEON OF THE VOID!100.X000!DESCRIPTION!";
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					} else
 						combatEndAddress = mgScr.getCues().get("DRAUG END").get(0);
 					return dialogueReset();
@@ -190,7 +190,7 @@ public class CombatMenu {
 					combatEndAddress = mgScr.getCues().get("ADARIN DEATH").get(0);
 					// need to save here or it will take you to the last
 					// address before combat
-					fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+					fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					return dialogueReset();
 
 				// DAZIR NPCs
@@ -246,7 +246,7 @@ public class CombatMenu {
 						}
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 						// Khaa is dead
 						mgScr.getConscientia().getConscVar().triggeredEvents.put(10999, true);
 					} else {
@@ -283,7 +283,7 @@ public class CombatMenu {
 						}
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					} else {
 						if (mgScr.getCurrentLocation().contains("THRONE ROOM"))
 							combatEndAddress = "KABU!WELLSPRING!THRONE ROOM!50.000!DESCRIPTION!";
@@ -294,7 +294,7 @@ public class CombatMenu {
 					}
 					// need to save here or it will take you to the last
 					// address before combat
-					fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+					fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					return dialogueReset();
 
 				case Enemy.MERT:
@@ -348,7 +348,7 @@ public class CombatMenu {
 						}
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					}
 					// or if, for some bizarre reason, the NPC killed you
 					else
@@ -362,7 +362,7 @@ public class CombatMenu {
 							: mgScr.getCues().get("DEATH").get(0);
 					// need to save here or it will take you to the last
 					// address before combat
-					fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+					fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					return dialogueReset();
 
 				// TAMBUL NPCs
@@ -410,7 +410,7 @@ public class CombatMenu {
 						}
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 						// Pak is dead
 						mgScr.getConscientia().getConscVar().triggeredEvents.put(13999, true);
 					} else {
@@ -472,7 +472,7 @@ public class CombatMenu {
 						}
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					} else
 						// or if, for some bizarre reason, the NPC killed you
 						combatEndAddress = mgScr.getCues().get("DEATH").get(0);
@@ -506,7 +506,7 @@ public class CombatMenu {
 						}
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					} else
 						// or if, for some bizarre reason, the NPC killed you
 						combatEndAddress = (mgScr.getCurrentLocation().contains("UR'RUK"))
@@ -561,7 +561,7 @@ public class CombatMenu {
 						}
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 						// Khlutt is dead
 						mgScr.getConscientia().getConscVar().triggeredEvents.put(15999, true);
 					} else {
@@ -580,7 +580,7 @@ public class CombatMenu {
 								: "MIND!NETHER EDGE!ATELIER!0.X000!DESCRIPTION!";
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 						return dialogueReset();
 					}
 				case Enemy.RUHI:
@@ -622,7 +622,7 @@ public class CombatMenu {
 						}
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					} else
 						// or if, for some bizarre reason, the NPC killed you
 						combatEndAddress = mgScr.getCues().get("DEATH").get(0);
@@ -645,7 +645,7 @@ public class CombatMenu {
 
 					// need to save here or it will take you to the last
 					// address before combat
-					fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+					fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					return dialogueReset();
 				case Enemy.ADARIK:
 				case Enemy.BISHRA:
@@ -670,7 +670,7 @@ public class CombatMenu {
 								: "MIND!NETHER EDGE!ATELIER!0.X000!DESCRIPTION!";
 					// need to save here or it will take you to the last
 					// address before combat
-					fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+					fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					return dialogueReset();
 				case Enemy.ASSALA:
 				case Enemy.HUBBIYH:
@@ -681,7 +681,7 @@ public class CombatMenu {
 						combatEndAddress = "KABU!CANYON!VALLEY OF BONES!90.001!DESCRIPTION!";
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					} else {
 						// fought guards and lost
 						mgScr.getConscientia().getConscVar().triggeredEvents.put(14413, true);
@@ -723,7 +723,7 @@ public class CombatMenu {
 					}
 					// need to save here or it will take you to the last
 					// address before combat
-					fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+					fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					return dialogueReset();
 
 				// MISC NPCs
@@ -758,14 +758,14 @@ public class CombatMenu {
 						playerVictorious = true;
 						// need to save here or it will take you to the last
 						// address before combat
-						fileRW.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
+						fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());
 					}
 					return dialogueReset();
 				case Enemy.MATHELIAN:
 					// put here so that there is white in, respawn flash
 					playerVictorious = false;
 					combatEndAddress = mgScr.getCues().get("DEATH").get(CommonVar.EIDOS_DEATH_RESPAWN);
-					fileRW.saveNPCstats("MATHELIAN", "KABU!WELLSPRING!REFECTORY OF THE VALVORTHR!0.X000!MATHELIAN!",
+					fileRW.writer.saveNPCstats("MATHELIAN", "KABU!WELLSPRING!REFECTORY OF THE VALVORTHR!0.X000!MATHELIAN!",
 							mgScr.getCurrentLocation());
 					return dialogueReset();
 				case Enemy.RIKHARR:
@@ -847,7 +847,7 @@ public class CombatMenu {
 			}
 		}
 		// describes battle depending on win or loss
-		battleOutcome = fileRW.getCombatDescription(enemy.getID(), playerVictorious, ability) + battleOutcome;
+		battleOutcome = fileRW.reader.getCombatDescription(enemy.getID(), playerVictorious, ability) + battleOutcome;
 		updateBattleLogLabel();
 	}
 

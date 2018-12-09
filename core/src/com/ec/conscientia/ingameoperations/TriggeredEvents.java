@@ -11,7 +11,7 @@ public class TriggeredEvents {
 
 	public TriggeredEvents(Conscientia consc, MainGameScreen mgScr) {
 		FileIOManager fileRW = new FileIOManager(consc, mgScr);
-		triggeredEvents = fileRW.loadTriggeredEvents();
+		triggeredEvents = fileRW.reader.loadTriggeredEvents();
 	}
 
 	public boolean get(Integer event) {

@@ -6,7 +6,7 @@ MAPS
 
 [/1]
 	{KABU}
-	(CANYON,0,false,1,4,4,2)
+	(CANYON,0,true,1,4,4,2)
 	(DAWN FORTRESS,1,false,1,1,5,2)
 	(DAZIR,2,false,1,1,2,2)
 	(SANCTUARY,3,true,1,1,2,4)

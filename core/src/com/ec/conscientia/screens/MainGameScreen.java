@@ -101,14 +101,14 @@ public class MainGameScreen implements Screen {
 		// new game
 		if (newOrLoadGame.equals("new game")) {
 			// writes new game files
-			mgVar.fileRW.writeNewGameFiles(mgVar.conscientia.getConscVar().bookID);
+			mgVar.fileRW.writer.writeNewGameFiles(mgVar.conscientia.getConscVar().bookID);
 			// sets current location
-			setCurrentLocation(mgVar.fileRW.loadCurrentLocationFromSavedGameFiles());
+			setCurrentLocation(mgVar.fileRW.reader.loadCurrentLocationFromSavedGameFiles());
 		} else if (newOrLoadGame.equals("load game")) {
 			// load
-			mgVar.fileRW.loadSavedGameFiles();
+			mgVar.fileRW.reader.loadSavedGameFiles();
 			// sets current location
-			setCurrentLocation(mgVar.fileRW.loadCurrentLocationFromSavedGameFiles());
+			setCurrentLocation(mgVar.fileRW.reader.loadCurrentLocationFromSavedGameFiles());
 			// for mindscape potentiality
 			setMindscapeStuff();
 		}
@@ -118,7 +118,7 @@ public class MainGameScreen implements Screen {
 
 		// Player
 		mgVar.player = new Player();
-		mgVar.fileRW.setPlayerStats();
+		mgVar.fileRW.reader.setPlayerStats();
 
 		// to see if Mindscape or logs should be displayed
 		for (Integer i : mgVar.player.getItemsAcquired()) {
@@ -150,17 +150,17 @@ public class MainGameScreen implements Screen {
 		if (mgVar.conscientia.getConscVar().triggeredEvents.get(0))
 			mgVar.hasMaps = true;
 		// sets currentNPC
-		mgVar.currentNPC = mgVar.fileRW.getCurrentNPC();
+		mgVar.currentNPC = mgVar.fileRW.reader.getCurrentNPC();
 
 		// loads special event cues
-		mgVar.cues = mgVar.fileRW.getEventCues();
+		mgVar.cues = mgVar.fileRW.reader.getEventCues();
 
 		// loads all NPCs key = name, value = idNum
-		mgVar.NPCbyNum = mgVar.fileRW.getNPCsbyNumHashMap();
+		mgVar.NPCbyNum = mgVar.fileRW.reader.getNPCsbyNumHashMap();
 
 		// load NPCs
 		mgVar.currentAreaNPCs = new ArrayList<NPC>();
-		for (int id : mgVar.fileRW.getNPCs(mgVar.currentLocation)) {
+		for (int id : mgVar.fileRW.reader.getNPCs(mgVar.currentLocation)) {
 			if (id != -1)
 				mgVar.currentAreaNPCs.add(new NPC(id, this));
 		}
@@ -191,7 +191,7 @@ public class MainGameScreen implements Screen {
 	// loads mindscape variables in case player closed out of game while in
 	// mindscape
 	private void setMindscapeStuff() {
-		String[] mindscapeStuff = mgVar.fileRW.loadMindscapeStuff();
+		String[] mindscapeStuff = mgVar.fileRW.reader.loadMindscapeStuff();
 		mgVar.lastAddBeforeMindEntry = mindscapeStuff[0];
 		mgVar.lastNPCBeforeMindEntry = Integer.parseInt(mindscapeStuff[1]);
 	}
@@ -653,19 +653,19 @@ public class MainGameScreen implements Screen {
 	public void multichecker(String address) {
 		// checks first part of address to determine which file it's in
 		if (address.substring(0, address.indexOf("!")).equals("KABU"))
-			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.mutlichecker(address, CommonVar.EID));
+			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.reader.mutlichecker(address, CommonVar.EID));
 		else if (address.substring(0, address.indexOf("!")).equals("KAVU"))
-			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.mutlichecker(address, CommonVar.RIK));
+			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.reader.mutlichecker(address, CommonVar.RIK));
 		else if (address.substring(0, address.indexOf("!")).equals("ENCLAVE"))
-			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.mutlichecker(address, CommonVar.TOR));
+			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.reader.mutlichecker(address, CommonVar.TOR));
 		else if (address.substring(0, address.indexOf("!")).equals("JER"))
-			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.mutlichecker(address, CommonVar.THE));
+			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.reader.mutlichecker(address, CommonVar.THE));
 		else if (address.substring(0, address.indexOf("!")).equals("THIUDA"))
-			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.mutlichecker(address, CommonVar.WUL));
+			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.reader.mutlichecker(address, CommonVar.WUL));
 		else if (address.substring(0, address.indexOf("!")).equals("URUGH"))
-			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.mutlichecker(address, CommonVar.BIR));
+			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.reader.mutlichecker(address, CommonVar.BIR));
 		else // Mindscape and Nether Edge
-			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.mutlichecker(address, -1));
+			mgVar.dialogue.setCurrentAddress(mgVar.fileRW.reader.mutlichecker(address, -1));
 
 		mgVar.dialogue.update();
 	}

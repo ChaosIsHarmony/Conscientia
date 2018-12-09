@@ -35,10 +35,10 @@ public class NPC {
 		this.conscVar = mgScr.getConscientia().getConscVar();
 
 		this.idNum = idNum;
-		this.name = fileRW.getNPCsbyNum(idNum);
-		this.stats = fileRW.getNPCsStats(this.name);
-		this.combatAbilities = fileRW.getNPCsCombatStats(this.name);
-		this.locToDialogueAdd = fileRW.getNPCsDialogueAdds(this.name);
+		this.name = fileRW.reader.getNPCsbyNum(idNum);
+		this.stats = fileRW.reader.getNPCsStats(this.name);
+		this.combatAbilities = fileRW.reader.getNPCsCombatStats(this.name);
+		this.locToDialogueAdd = fileRW.reader.getNPCsDialogueAdds(this.name);
 		// if not DESCRIPTION
 		if (idNum != 9999) {
 			String bookFolder = "";

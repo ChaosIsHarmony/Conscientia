@@ -83,7 +83,7 @@ public class LogMenu {
 			if (i > Log.MAX_GLYPH && i <= Log.MAX_LOG)
 				tempList.add(new Log(i, mgScr));
 
-		Log[] logsList = fileRW.loadLogs(tempList);
+		Log[] logsList = fileRW.reader.loadLogs(tempList);
 		logsList = sortList(tempList);
 		list.setItems(logsList);
 

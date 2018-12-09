@@ -86,10 +86,10 @@ public class LoadScreen implements Screen {
 		table.setFillParent(true);
 
 		bookList = new List<Book>(skin);
-		bookList.setItems(fileRW.loadBookList());
+		bookList.setItems(fileRW.reader.loadBookList());
 
 		allSavedGamesList = new ArrayList<SavedGame>();
-		for (SavedGame sg : fileRW.loadScreenList())
+		for (SavedGame sg : fileRW.reader.loadScreenList())
 			allSavedGamesList.add(sg);
 
 		savedGameList = new List<SavedGame>(skin);
@@ -167,7 +167,7 @@ public class LoadScreen implements Screen {
 					// plays click sound
 					soundManager.playSFX(SoundManager.SFX_CLICK_POSITIVE);
 					// delete file
-					fileRW.deleteSelectedSaveFile(savedGameList.getSelected());
+					fileRW.writer.deleteSelectedSaveFile(savedGameList.getSelected());
 					saveFileWindow.clear();
 
 					populateSavedGameList();
@@ -215,7 +215,7 @@ public class LoadScreen implements Screen {
 
 	public void populateSavedGameList() {
 		allSavedGamesList = new ArrayList<SavedGame>();
-		for (SavedGame sg : fileRW.loadScreenList())
+		for (SavedGame sg : fileRW.reader.loadScreenList())
 			allSavedGamesList.add(sg);
 		savedGameList.setItems(setSavedList());
 	}

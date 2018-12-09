@@ -87,8 +87,8 @@ public class OptionsMenu {
 			altFontCB = new CheckBox(" Change Font", skin);
 		altFontCB.addListener(new ClickListener() {
 			public void clicked(InputEvent event, float x, float y) {
-				mgScr.getConscientia().setUseWhinersFont(altFontCB.isChecked());
-				fileRW.setUseAltFont(altFontCB.isChecked());
+				mgScr.getConscientia().setUseAltFont(altFontCB.isChecked());
+				fileRW.writer.setUseAltFont(altFontCB.isChecked());
 				mgScr.genDispWin.setDialogueLabels();
 				mgScr.genDispWin.setResponseAreaLabels();
 				// plays click sound
@@ -112,7 +112,7 @@ public class OptionsMenu {
 				mgScr.getSoundManager().setBGMVolume(.3f);
 				// plays click sound
 				mgScr.getSoundManager().playSFX(SoundManager.SFX_CLICK_POSITIVE);
-				fileRW.gameSave();
+				fileRW.writer.gameSave();
 				mgScr.getConscientia()
 						.setScreen(new MainMenuScreen(true, mgScr.getSoundManager(), mgScr.getConscientia()));
 			}

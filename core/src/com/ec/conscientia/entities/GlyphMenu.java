@@ -91,7 +91,7 @@ public class GlyphMenu {
 					tempList.add(new Glyph(i, mgScr));
 			}
 
-		Glyph[] glyphList = fileRW.loadGlyphs(tempList);
+		Glyph[] glyphList = fileRW.reader.loadGlyphs(tempList);
 		glyphList = sortList(tempList);
 		list.setItems(glyphList);
 

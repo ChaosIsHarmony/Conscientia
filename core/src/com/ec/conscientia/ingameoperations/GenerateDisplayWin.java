@@ -392,7 +392,7 @@ public class GenerateDisplayWin {
 		// Map window
 		final Window mapWin = new Window("", mgScr.mgVar.skin);
 		mapWin.setMovable(false);
-		ArrayList<Location> tempList = mgScr.mgVar.fileRW.getMapLocation(mgScr.mgVar.conscientia.getConscVar().bookID,
+		ArrayList<Location> tempList = mgScr.mgVar.fileRW.reader.getMapLocation(mgScr.mgVar.conscientia.getConscVar().bookID,
 				areaNameStr);
 		final TextButton[] areaButtonList = new TextButton[tempList.size()];
 		int[] coordX = new int[tempList.size()];

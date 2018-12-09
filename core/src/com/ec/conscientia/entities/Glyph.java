@@ -45,7 +45,7 @@ public class Glyph extends Acquirable {
 	}
 
 	public String acqToString() {
-		return fileRW.getAcquirableListString(this.ID);
+		return fileRW.reader.getAcquirableListString(this.ID);
 	}
 
 	public String getImgPathway() {
@@ -61,6 +61,6 @@ public class Glyph extends Acquirable {
 	}
 
 	public Image acqGetImg() {
-		return new Image(new Texture(fileRW.getAcquirableImage(this.ID)));
+		return new Image(new Texture(fileRW.reader.getAcquirableImage(this.ID)));
 	}
 }

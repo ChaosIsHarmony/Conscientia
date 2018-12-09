@@ -84,7 +84,7 @@ public class EndCreditsScreen implements Screen {
 		creditsY = 0f;
 
 		// Loads credit file contents to label for scrolling
-		scrollPane = new ScrollPane(new Label(fileRW.loadCredits(), skin), skin, "no_bg_no_bar");
+		scrollPane = new ScrollPane(new Label(fileRW.reader.loadCredits(), skin), skin, "no_bg_no_bar");
 		scrollPane.setScrollPercentY(creditsY);
 
 		table.add().width((2 * CommonVar.GAME_WIDTH) / 9);

@@ -3,11 +3,17 @@ package com.ec.conscientia.variables;
 import com.ec.conscientia.entities.Acquirable;
 
 public class CommonVar {
+	// Screen Dims
 	public final static int GAME_WIDTH = 1280, GAME_HEIGHT = 720;
 
+	// Screen IDs
 	public final static int MAIN_MENU = 0, END_CREDITS = 1, MAIN_GAME = 2, LOAD_SCREEN = 3;
 
+	// Book IDs
 	public static final int BIR = 0, EID = 1, RIK = 2, THE = 3, TOR = 4, WUL = 5;
+
+	// File IO
+	public final static int SAVE_FILE = 0, NPC_FILE = 1, UNI_FILE = 3, NUM_BIRACULIAN_VERSES = 20;
 
 	// Persistent across playthroughs
 	public final static int[] persistentAcquirables = new int[] {

@@ -290,22 +290,22 @@ public class CheckUniqueEvent {
 				if (address.contains(mgScr.mgVar.dialogue.getCurrentAddress())) {
 					mgScr.scrFX.resetWhiteIn();
 					if (address.contains("KABU") || address.contains("EIDOS")) {
-						mgScr.mgVar.fileRW.setBook(CommonVar.EID);
+						mgScr.mgVar.fileRW.writer.setBook(CommonVar.EID);
 						mgScr.mgVar.conscientia.getConscVar().bookID = CommonVar.EID;
 					} else if (address.contains("KAVU") || address.contains("RIKHARR")) {
-						mgScr.mgVar.fileRW.setBook(CommonVar.RIK);
+						mgScr.mgVar.fileRW.writer.setBook(CommonVar.RIK);
 						mgScr.mgVar.conscientia.getConscVar().bookID = CommonVar.RIK;
 					} else if (address.contains("THIUDA") || address.contains("WULFIAS")) {
-						mgScr.mgVar.fileRW.setBook(CommonVar.WUL);
+						mgScr.mgVar.fileRW.writer.setBook(CommonVar.WUL);
 						mgScr.mgVar.conscientia.getConscVar().bookID = CommonVar.WUL;
 					} else if (address.contains("EMPYREAN") || address.contains("BIRACUL")) {
-						mgScr.mgVar.fileRW.setBook(CommonVar.BIR);
+						mgScr.mgVar.fileRW.writer.setBook(CommonVar.BIR);
 						mgScr.mgVar.conscientia.getConscVar().bookID = CommonVar.BIR;
 					} else if (address.contains("JER") || address.contains("THETIAN")) {
-						mgScr.mgVar.fileRW.setBook(CommonVar.THE);
+						mgScr.mgVar.fileRW.writer.setBook(CommonVar.THE);
 						mgScr.mgVar.conscientia.getConscVar().bookID = CommonVar.THE;
 					} else if (address.contains("ENCLAVE") || address.contains("TORMA")) {
-						mgScr.mgVar.fileRW.setBook(CommonVar.TOR);
+						mgScr.mgVar.fileRW.writer.setBook(CommonVar.TOR);
 						mgScr.mgVar.conscientia.getConscVar().bookID = CommonVar.TOR;
 					}
 				}
@@ -381,7 +381,7 @@ public class CheckUniqueEvent {
 			break;
 		}
 
-		mgScr.mgVar.fileRW.gameSave();
+		mgScr.mgVar.fileRW.writer.gameSave();
 	}
 
 	private void activateMaps() {

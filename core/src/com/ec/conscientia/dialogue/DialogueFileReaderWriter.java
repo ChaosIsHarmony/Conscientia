@@ -61,14 +61,14 @@ public class DialogueFileReaderWriter {
 				String resetAddress = "";
 				for (String npc : mgScr.mgVar.NPCbyNum.keySet())
 					if (mgScr.mgVar.NPCbyNum.get(npc) == mgScr.getCurrentNPC())
-						resetAddress = fileRW.resetFaultyAddress(npc, mgScr.getCurrentLocation());
+						resetAddress = fileRW.writer.resetFaultyAddress(npc, mgScr.getCurrentLocation());
 				mgScr.getDialogue().setCurrentAddress(resetAddress);
 				setDialogueFile(resetAddress);
 			}
 		} else {
 			for (String npc : mgScr.mgVar.NPCbyNum.keySet())
 				if (mgScr.mgVar.NPCbyNum.get(npc) == mgScr.getCurrentNPC())
-					tempLoc1 = fileRW.resetFaultyAddress(npc, mgScr.getCurrentLocation());
+					tempLoc1 = fileRW.writer.resetFaultyAddress(npc, mgScr.getCurrentLocation());
 			mgScr.getDialogue().setCurrentAddress(tempLoc1);
 			setDialogueFile(tempLoc1);
 		}
