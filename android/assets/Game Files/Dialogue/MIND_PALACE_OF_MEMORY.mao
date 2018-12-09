@@ -2075,7 +2075,7 @@ said not Prophetess
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.002!VOVKOS!]
 		||
-		*"May the light of Awareness guide your Trueflesh to the Shining One, Wayfarer... whatever it may do with the False."*
+		*"The light of Awareness guide your Trueflesh, Wayfarer... whatever It's about to do with the False."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!2.002!VOVKOS!/]
 
@@ -2086,104 +2086,104 @@ _____________________________________
 TEMPLE OF THE VOICE
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!]
 		||
-		*Sometimes memories ring as clear as a mountain spring - paradoxically, most so when they are utterly revolting.*
+		*Sometimes memories are clear as a mountain spring - most so when they are utterly revolting.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!]
 		||
-		*Walking into the haze-filled room of debauchery, rank of bodily fluids, screams of pain and ecstasy intermixed, littered with the drugs and potions of malignant wizards, my already disquieted nerves find the inevitable corroboration of their qualms.*
+		*Walking into that haze-filled room of debauchery, rank of bodily fluids, screams of pain and ecstasy intermixed, littered with the drugs and potions of malignant wizards, my already disquieted nerves find the tragic confirmation of their fears.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!DESCRIPTION!]
 		||
 		*Acts of torture, acts of gluttony, acts of sloth and lust, all too gut-churning for a simple Zhilian to witness, let alone comprehend.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!DESCRIPTION!]
 		||
-		*Consummate madness, nothing more, nothing less.*
+		*Consummate madness, spreading like the Sa'Ma, nothing more, nothing less.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!DESCRIPTION!]
 		||
-		*These fallen followers hide their loss of faith among the sea of hedonism. This one anonymously and without consequence peels skin at a blade's edge from a slave; the other inhales his poison deeply, getting lost in the dense cloud. Still more engage in an unnatural intercourse of the many, while others drown in potent and intoxicating libations.*
+		*These fallen followers hide their loss of faith among the sea of hedonism. This one anonymously and without consequence peels skin at a blade's edge from a slave; the other inhales his poisons deeply, getting lost in the dense, mind-dulling cloud. Still more engage in an unnatural intercourse of the many, while others drown in potent and intoxicating brews.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!DESCRIPTION!]
 		||
-		*These are no servants of Biracul; these are the bastards of Blood-Drinkers and the righteous.*
+		*These are no servants of Biracul! For how could they serve him when they do such disservice to their Selves?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!DESCRIPTION!]
 		||
-		*These are not the actions of the faithful; these are the actions of those who lost faith long ago.* 
+		*These are not the actions of the faithful! These misdeeds betray a faith lost long ago - if ever had at all!* 
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.007!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.007!DESCRIPTION!]
 		||
-		*As my Self looks upon the writhing Falsefleshes - naked, drenched, exhuasted, and desperate - the mystery of their purpose becomes the unasked question plaguing my consciousness. In truth, never did Biracul claim that hedonism is unholy, but clear to see is that this is nothing but short-sighted; the Shining One would never have let such decadence fall upon his faithful.*
+		*As my Self looks upon the writhing Falsefleshes - naked, drenched, exhuasted, desperate - the mystery of their purpose becomes the unasked question plaguing my consciousness. In truth, never did Biracul claim hedonism unholy, but clear as cloudless skies, this is nothing but short-sighted! The Shining One would never have let such decadence fall upon his faithful!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.008!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.007!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.008!DESCRIPTION!]
 		||
-		*What trick of Hamlik could have led to such a sorrowful fate?*
+		*What trick of scheming Hamlik could have led to such a red-tinged fate?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.X009!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.008!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.X009!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.010!DESCRIPTION!|
-		*Then my thoughts are interrupted by the instigator, the sheperd of these lost sheep - he who now sits surrounded by several Neverborn sentries, upon a silver throne. Thunderously cracking through the all-consuming din, he speaks in that tenebrous and guttural growl of his.*
+		*But soon my thoughts are interrupted by their instigator, the sheperd of these lost sheep. He sits upon a silver throne, flanked by rows of Neverborn sentries. His voice, a guttural growl, is thunder cracking through the all-consuming din.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X1101!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.X009!DESCRIPTION!/]
-	
-	
+
+post-caito convo
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.010!DESCRIPTION!]
 		||
-		*Resigned to his fate as an enemy of the Shining One, Caito commands his fiendish Neverborn to incarcerate my Self. All that awaits me is an execution at the hands of these heathens.*
+		*Resigned to his fate as an enemy of the Shining One, Caito commands his ill-gotten Neverborn to action. Calmly is my Self taken to await an execution at the hands of these heathens.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.011!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.010!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.011!DESCRIPTION!]
 		||
 		*Faith undisturbed, but questions abound.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.011!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.012!DESCRIPTION!]
 		||
-		*Where does this fit into His plan?*
+		*How does this fit into His plan?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.013!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.012!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.013!DESCRIPTION!]
 		||
 		*What part does the Wyrm play?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.014!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.013!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.014!DESCRIPTION!]
 		||
-		*When will these miscreants meet their justice in the fires of the All-Seer's wrath?*
+		*When will these miscreants meet their justice in Hel's abyss?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.015!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.014!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.015!DESCRIPTION!]
 		||
-		*Though clear is it to my Trueflesh that no answers are needed - for will not faith provide them in time?*
+		*Though clear is it no answers are needed - for will not faith provide them in time?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.016!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.015!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.016!DESCRIPTION!]
 		||
-		*In truth, thought is the sworn enemy of faith.*
+		*In truth, thought is the sworn enemy of faith!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.017!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.016!DESCRIPTION!/]
 	
@@ -2193,21 +2193,21 @@ TEMPLE OF THE VOICE
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.017!DESCRIPTION!/]
 
-	
-	
+
+
 CAITO
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.X000!CAITO!]
 		||
-		*"I cannot help but notice that the 'Prophetess' seems displeased with our ways..."* 
+		*"Is the 'Prophetess' displeased with our ways..?"* 
 		(A#"Your 'methods' are indeed foreign to my own worship of Biracul..."){A:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!CAITO!}
-		(B#"You glorify hedonism but see not beyond it."){B:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!CAITO!}
+		(B#"You glorify hedonism, but see not beyond it."){B:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!CAITO!}
 		(C#"Biracul never spoke against it, so I guess it's fine."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!}
-		(D#"How could you tell? I thought I hid my disgust quite well..."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!CAITO!}
-		(E#"You are beyond help; only death can save you now."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
+		(D#"And here I thought I had hid my disgust so well..."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!CAITO!}
+		(E#"Unless it somehow involves your death, I am displeased."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
 		(F#"You guys are really burning the candle at both ends! Looks like fun!"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.X000!CAITO!/]
-	
-	
+
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!CAITO!]
 		||
 		*"I assure you that only the 'truly' faithful would act as we."*
@@ -2216,53 +2216,53 @@ CAITO
 	
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0010!CAITO!]
 		||
-		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse."* 
+		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse, Wayfarer."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0011!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0010!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0011!CAITO!]
 		||
-		*"Thus it is that we intoxicate ourselves with the basest and most destructive pleasures of the Falseflesh, so as to burn away all evils in the fires of desire and reach the purest state of our Trueflesh!"*
+		*"Thus, we intoxicate ourselves with the basest and most destructive pleasures of the Falseflesh! We burn away all evils in the fires of desire!"*
+        (A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0012!CAITO!}
+	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0011!CAITO!/]
+
+	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0012!CAITO!]
+		||
+        *"And in so doing, we reach the purest state of our Trueflesh!"*
 		(A#"Your extremism will only lead to unhappiness, Caito."){A:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.001!CAITO!}
 		(B#"In corrupting the vessel, does the content not also spoil?"){B:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.002!CAITO!}
-		(E#"You are beyond help; only death can save you now."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
-	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0011!CAITO!/]
-	
+		(E#"Destructive pleasures are a sure path to death, you foolish man."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
+	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0012!CAITO!/]
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!CAITO!]
 		||
-		*"Oh no, I assure you that only the 'truly' faithful would act as we."*
+		*"Oh no, Wayfarer, I assure you that only the 'truly' faithful would act as we do."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0020!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0020!CAITO!]
 		||
-		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse."* 
+		*"For condemnation of the Falseflesh as impermanent and foul is expressed in its utmost through its abuse!"* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0021!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0020!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0021!CAITO!]
 		||
-		*"Thus it is that we intoxicate ourselves with the basest and most destructive pleasures of the Falseflesh, so as to burn away all evils in the fires of desire!"*
+		*"Thus, we intoxicate ourselves with the basest and most destructive pleasures of the Falseflesh! We burn away all evils in the fires of desire!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0022!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0021!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0022!CAITO!]
 		||
-		*"To reach a purer state!"*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0023!CAITO!}
-	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0022!CAITO!/]
-	
-	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0023!CAITO!]
-		||
-		*"To reach the Beyond!"*
+		*"And in so doing, we reach the purest state of our Trueflesh!"*
 		(A#"Your extremism will only lead to unhappiness, Caito."){A:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.001!CAITO!}
 		(B#"In corrupting the vessel, does the content not also spoil?"){B:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.002!CAITO!}
 		(C#"Well, Biracul never said it was wrong, I guess."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!}
-	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0023!CAITO!/]
+	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0022!CAITO!/]
 	
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!]
 		||
-		*"How magnanimous of you!"*
+		*"How magnanimous of you, oh great 'Prophetess'!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0030!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!/]
 	
@@ -2275,7 +2275,7 @@ CAITO
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0031!CAITO!]
 		||
 		*"Bah! Your equivocation is unbecoming of one supposedly so devout!"*
-		(B#"Not tolerant, ambivalent."){B:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.002!CAITO!}
+		(B#"Not tolerant, just ambivalent."){B:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.002!CAITO!}
 		(C#"Judgment comes from the Wyrm, not you."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.003!CAITO!}
 		(D#"Oh, and filling all 'voids' is somehow more righteous?"){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.004!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0031!CAITO!/]
@@ -2294,227 +2294,239 @@ CAITO
 	
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0041!CAITO!]
 		||
-		*"Thus it is that we intoxicate ourselves with the basest and most destructive pleasures of the Falseflesh, so as to burn away all evils in the fires of desire and reach the purest state, to reach beyond!"*
+		*"Thus, we intoxicate ourselves with the basest and most destructive pleasures of the Falseflesh! We burn away all evils in the fires of desire!"*
+		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0042!CAITO!}
+	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0041!CAITO!/]
+
+	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0042!CAITO!]
+		||
+		*"And in so doing, we reach the purest state of our Trueflesh!"*
 		(C#"Well, Biracul never said it was wrong, I guess."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!}
-		(D#"So you cure your illness by getting more diseases..? Great idea."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.004!CAITO!}
-		(E#"You are beyond help; only death can save you now."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
+		(D#"So your cure for poison is more posion? Genius..."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.004!CAITO!}
+		(E#"I'm afraid the only cure for stupidity is death, my friend."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0041!CAITO!/]
 	
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!]
 		||
-		*"Indeed and we await the moment of death anxiously as we wear away the layers of accumulated sin our ancestors have bequeathed us!"*
+		*"Oh, we await the glorious moment of our deaths anxiously! But not before we wear away the layers of accumulated sin our ancestors bequeathed!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0050!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0050!CAITO!]
 		||
 		*"By the time we meet the All-Seer in the Eternal Spiral, we shall be purified to our undistilled, primal essence!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0051!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0050!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0051!CAITO!]
 		||
-		*"You, on the other hand, will merely be consumed by your own hubris as you face the judgment of the Wyrm."*
+		*"You, on the other hand, will merely be consumed by your own hubris as you face the judgment of the Wyrm..."*
 		(A#"Your extremism will only lead to unhappiness, Caito."){A:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.001!CAITO!}
-		(D#"Any end is preferable to remaining among your ilk..."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!}
-		(E#"You will all succumb within the hour! As food for the Wyrm!"){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.005!CAITO!}
+		(D#"A gruesome death sounds preferable to being around you."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!}
+		(E#"The strong consume the weak; I'm poor feed for the Wyrm, you however..."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.005!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0051!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!CAITO!]
 		||
 		*"Yes, I knew you hated us, but... wait, fun?"*
 		(F#"Sure! Debauchery ain't a spectator sport!"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.016!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.016!CAITO!]
 		||
 		*"Well... indeed, one must practice if purification of the Falseflesh is desired..."*
 		(F#"Yeah! Bust out the whips and chains! And someone get this guy a ball-gag!"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.026!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.016!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.026!CAITO!]
 		||
 		*"I find your... 'enthusiasm'... suspicious."*
 		(C#"Don't judge me! Only the Wyrm can do that."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.003!CAITO!}
 		(D#"If I were as ugly as you, I would too."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!}
-		(F#"And I find your... 'suspicion'... suspicious?"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.036!CAITO!}
+		(F#"And I find your... 'suspicion'... suspicious."){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.036!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.026!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.036!CAITO!]
 		||
-		*"...At this point I don't know whether you're being facetious or are simply a lunatic."*
+		*"...At this point I don't know whether you are being facetious or are simply a lunatic."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0360!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.036!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0360!CAITO!]
 		||
 		*"Though I will assume the latter."*
 		(F#"Bingo!"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.046!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0360!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.046!CAITO!]
 		||
-		*"Sentries, take her to the Hydrargyrum Keep!"*
+		*"Sentries, take her to the Hydrargyrum Keep! Her trial begins now!"*
 		(F#"Sentries! Kill this gremlin whoreson!"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.056!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.046!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.056!CAITO!]
 		||
 		*"..."*
-		(F#"...Abracadabra!"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.066!CAITO!}
+		(F#"...Abracadabra?"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.066!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.056!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.066!CAITO!]
 		||
-		*"You know they only respond to the commands of a mage in possession of their Command Glyph, right?"*
+		*"You know they only respond to the commands of a mage in possession of their Command Sigil, do you not?"*
 		(F#"Worth a shot! TALLY HO!"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X9999!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.066!CAITO!/]
-	
-	
+
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.002!CAITO!]
 		||
-		*"You poor, misguided child... A pot sat upon flames purifies the water within; the vessel conducts the cleansing force of the flame without feeling its effects."*
+		*"You poor, misguided child... A pot sat upon flames purifies the water within; the vessel conducts the cleansing force of the flame without feeling its effects!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0020!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.002!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0020!CAITO!]
 		||
 		*"You would do well to remember that."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0021!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0020!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0021!CAITO!]
 		||
 		*"But as you find us contemptible, I can now clearly see that you speak not the words of the Shining One."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0022!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0021!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0022!CAITO!]
 		||
 		*"And as such, we are done here; you are no Eidos; your death will merely be a vindication from Biracul to His faithful!"* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0023!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0022!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0023!CAITO!]
-		||
-		*"The time of your trial draws near!"*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0024!CAITO!}
-	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0023!CAITO!/]
-	
-	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0024!CAITO!]
 		||
 		*"The Wyrm shall cast its mighty judgment upon you and bind your Trueflesh!"* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0012!CAITO!}
-	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0024!CAITO!/]
-	
+	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0023!CAITO!/]
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.004!CAITO!]
 		||
-		*"Would that we could cure that festering open wound you call a mouth..."*
+		*"I would very much like to cure that festering, open wound you call a mouth..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0040!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.004!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0040!CAITO!]
 		||
 		*"But soon enough your false doctrines and unholy dogma shall be laid bare before the Wyrm!"*
 		(C#"My judgment comes from the Wyrm, not you."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.003!CAITO!}
-		(D#"Any end is preferable to remaining among your ilk..."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!}
-		(E#"The only cure for your ailments is death."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
+		(D#"A gruesome death sounds preferable to being around you."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!}
+		(E#"Maybe you should all just kill yourselves instead."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.0040!CAITO!/]
-	
-	
+
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.002!CAITO!]
 		||
-		*"...We shall see how long your arrogance lasts before the Wyrm."*
+		*"...We shall see how long your arrogance lasts when you kneel before the Wyrm."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0020!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.002!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0020!CAITO!]
 		||
-		*"Our very own Seer, endured but an instant before succumbing and you clearly lack her strength of character!"* 
+		*"The last pretender - that vain Seer wench! - she succumbed instantly, and you clearly lack what little strength of character she possessed."* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0021!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0020!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0021!CAITO!]
 		||
-		*"You will beg for its mercy, as all other impostors have before you!"* 
+		*"You will beg for its mercy, as all other impostors have before you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0022!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0021!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0022!CAITO!]
 		||
 		*"Yes, Biracul's captured prize will crush into pulp the foolhardy ego you bring it to feast upon!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0022!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.003!CAITO!]
 		||
-		*"Of all the senseless lies you have poisoned our ears with, at last one truth escapes your lips!"*
+		*"Of all the senseless lies you have poisoned our ears with, at last one truth escapes your wicked lips!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0030!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.003!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0030!CAITO!]
 		||
-		*"But we have seen the confidence of many impostors squelched!"*
+		*"But our Order has seen the unbridled arrogance of many impostors squelched!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0021!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0030!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.004!CAITO!]
 		||
-		*"...We shall see how long your 'sense of humor' lasts before the Wyrm, how long you can maintain your bravado."*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0030!CAITO!}
+		*"...We shall see how long your 'optimism' lasts when you kneel before the Wyrm."*
+        (A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0040!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.004!CAITO!/]
-	
-	
+
+	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0040!CAITO!]
+		||
+        *"I wonder just how long you can maintain your bravado, Wayfarer..."*
+        (A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0041!CAITO!}
+	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0040!CAITO!/]
+
+	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0041!CAITO!]
+		||
+        *"You do appear to think very highly of yourself... So very full of pride..."*
+		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0030!CAITO!}
+	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0041!CAITO!/]
+
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.001!CAITO!]
 		||
-		*"And your truth-blindness leads only to the binding of your Trueflesh to a corrupt Falseflesh."*
+		*"And your truth-blindness leads only to the corruption of your Trueflesh!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.001!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!]
 		||
-		*"Nonetheless, we are done here; you are no Eidos; and your death will merely be a vindication from Biracul to His faithful!"* 
+		*"Nonetheless, we are done here. You are no Eidos, and your death will merely be a vindication from Biracul to His faithful!"* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0011!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0011!CAITO!]
 		||
 		*"We will execute our sacred mission regardless of the frauds who darken our doorstep!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0012!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0011!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0012!CAITO!]
 		||
-		*"Sentries, take her to the Hydrargyrum Keep!"*
+		*"Sentries, take her to the Hydrargyrum Keep! Her trial begins now!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X9999!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0012!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!]
 		||
 		*"...I have my doubts that your words will be so cutting when faced with the Wyrm."* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.005!CAITO!]
 		||
-		*"In truth? Then you must be the Eidos, the true Voice, to be so powerful!"*
+		*"In truth?! Then you must be the Eidos, the true Voice, to be so powerful!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0050!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.005!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0050!CAITO!]
 		||
-		*"Hah! Your blasphemous threats toward the Shining One's people will not sit well with the Wyrm."*
+		*"Hah! Your blasphemous threats toward the Shining One's people will not sit well with the Wyrm, foolish girl!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0051!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0050!CAITO!/]
-	
+
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0051!CAITO!]
 		||
-		*"It will gnaw away at your Trueflesh in absolute silence; even our own Seer was not immune to its judgment, and now she spends eternity in its grip!"*
+		*"It will gnaw away at your Trueflesh in absolute silence! You will soon be good company for that arrogant Uraklian!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0051!CAITO!/]
-	
-	
-	
+
+
+
 
 _____________________________________
 URUGH
