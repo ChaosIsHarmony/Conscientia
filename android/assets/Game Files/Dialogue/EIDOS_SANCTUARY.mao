@@ -1491,7 +1491,7 @@ AWAKENING CHAMBER
 >>>Met Fenrir (12900)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!]
 		|^12900:KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!|
-		*The twinkle of reflecting light off the dark glass sparks her curiosity, pulling her ever closer. Like a hole pierced in space, the circular pane, framed in a copper green with age, offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage. Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed, and soon replaced with an unsettling apparition...*
+		*The twinkle of reflecting light off the dark glass sparks her curiosity, drawing her ever nearer. Like a hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage. Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon her warping image is replaced with an unsettling apparition...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X051!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!/]
 

@@ -111,7 +111,7 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!]
 		||
-		*Attention now turning from the woods and towards the babbling stream, her Self observes as it empties itself into a deep pool over a miniature waterfall. Dragonflies hover above lillies floating heedlessly at the waterside. Toads croak their atonal chorus. But soon, another sound enters her Self's awareness, that of the rhythmic snipping sound of shears...*
+		*Attention now turning from the woods and towards the babbling stream, her Self observes the flow as it empties itself into a deep pool over a diminutive waterfall. Dragonflies hover above lillies floating heedlessly at the waterside. Toads croak their atonal chorus. But soon, another sound enters her Self's awareness, that of the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!/]
 
@@ -179,7 +179,7 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!10.0003!DESCRIPTION!]
 		||
-		*Attention now turning from the woods and towards the babbling stream, her Self observes as it empties itself into a deep pool over a miniature waterfall. Dragonflies hover above lillies floating heedlessly at the waterside. Toads croak their atonal chorus. But soon, another sound enters her Self's awareness, that of the rhythmic snipping sound of shears...*
+		*Attention now turning from the woods and towards the babbling stream, her Self observes the flow as it empties itself into a deep pool over a diminutive waterfall. Dragonflies hover above lillies floating heedlessly at the waterside. Toads croak their atonal chorus. But soon, another sound enters her Self's awareness, that of the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!10.0004!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!10.0003!DESCRIPTION!/]
 

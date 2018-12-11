@@ -6,7 +6,7 @@ _________GLYPHS_________
 	dt. Modern Era*
 	@Glyph of Fenrir@
 	$Glyphs/Extraction Glyph.png$
-	#Imparting the Techne of Extraction, this Glyph is used to consume living thought. With this ability, external energies both simple and complex can be internalized and contained.
+	#Imparting the Techne of Extraction, this Glyph is used to consume living thought. With this ability, external energies both simple and complex are internalized and contained.
 	
 	Dating to a time long after the Great Awakening, it represents an unprecedented advancement. While the mastery of single Glyph might ordinarily take a lifetime of study, such acquisition is a trivial affair for a devouring mind - though perhaps its reach extends further.
 	
