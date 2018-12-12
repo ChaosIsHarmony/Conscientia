@@ -2729,7 +2729,7 @@ BAHADUR
 NIYOOSH
 	[/KABU!TAMBUL!ATRIUM!0.000!NIYOOSH!]
 		||
-		*"Hello there! Care for a drink, stranger? It can be thirsty work travellin' the desert alone!"* 
+		*"Hello there, stranger! Care for a drink? It can be thirsty work travelin' the desert alone!"* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.0000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.000!NIYOOSH!/]
 
@@ -2740,43 +2740,43 @@ NIYOOSH
 		(B#"Where do you get this water?"){B:1,KABU!TAMBUL!ATRIUM!0.200!NIYOOSH!}
 		(C#"No need."){B:1,KABU!TAMBUL!ATRIUM!0.300!NIYOOSH!}
 		(D#"...And how much would this cost?"){D:1,KABU!TAMBUL!ATRIUM!0.400!NIYOOSH!}
-		(E#"What would a mere water vendor know about travelling the desert?"){E:1,KABU!TAMBUL!ATRIUM!0.500!NIYOOSH!}
+		(E#"What would a mere peddler know about traveling the desert?"){E:1,KABU!TAMBUL!ATRIUM!0.500!NIYOOSH!}
 		(F#"Indeed! 'The Hero of Tomorrow' must first stay hydrated today!"){F:1,KABU!TAMBUL!ATRIUM!0.600!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.0000!NIYOOSH!/]
 	
 	
 	[/KABU!TAMBUL!ATRIUM!0.100!NIYOOSH!]
 		||
-		*"It's rare that we get visitors that've traversed the desert as you've done..."*
+		*"It's rare we get visitors that've crossed the desert..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.100!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.1000!NIYOOSH!]
 		||
-		*"Do you have any news from distant lands you'd care to share with me? Perhaps we can exchange information..."*
-		(A#"Indeed, I do."){A:1,KABU!TAMBUL!ATRIUM!0.101!NIYOOSH!}
-		(B#"I'm more interested in stories of the past than the present."){B:1,KABU!TAMBUL!ATRIUM!0.201!NIYOOSH!}
-		(E#"You'll tell me what you know; that's an order."){E:1,KABU!TAMBUL!ATRIUM!0.501!NIYOOSH!}
+		*"Have any news from distant lands you'd care to share with me? Perhaps we can exchange information..."*
+		(A#"Indeed, I do!"){A:1,KABU!TAMBUL!ATRIUM!0.101!NIYOOSH!}
+		(B#"Actually, I'm more interested in history than current events."){B:1,KABU!TAMBUL!ATRIUM!0.201!NIYOOSH!}
+		(E#"No, but you'll tell me everything I want to know."){E:1,KABU!TAMBUL!ATRIUM!0.501!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.1000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.200!NIYOOSH!]
 		||
-		*"Water's plentiful here, all thanks to the aqueduct! Flowin' in from the ancient Wellsprin' in the Duskfangs above Dazir - though, you'd have a hard time seein' it now, as Khaa's closed the gates."*
+		*"Water's plentiful here, all thanks to the aqueduct! Flowin' in from the Wellsprin' up in the Duskfangs - though, you'd have a hard time seein' it now, since Khaa's closed the gates and all."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.2000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.200!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.2000!NIYOOSH!]
 		||
-		*"We've had fewer travelers of late due to the troubles here..."*
+		*"We've had fewer visits from our neighbors of late, due to recent troubles."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.2001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.2000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.2001!NIYOOSH!]
 		||
 		*"But enough about us, perhaps you carry some brighter news from other lands?"*
-		(A#"Indeed, I do."){A:1,KABU!TAMBUL!ATRIUM!0.101!NIYOOSH!}
-		(B#"I'm more interested in stories of the past than the present."){C:1,KABU!TAMBUL!ATRIUM!0.201!NIYOOSH!}
-		(C#"I'm not interested in exchanging anything."){C:1,KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!}
+		(A#"Indeed, I do!"){A:1,KABU!TAMBUL!ATRIUM!0.101!NIYOOSH!}
+		(B#"Actually, I'm more interested in history than current events."){C:1,KABU!TAMBUL!ATRIUM!0.201!NIYOOSH!}
+		(C#"..."){C:1,KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.2001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.300!NIYOOSH!]
@@ -2793,33 +2793,27 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.3001!NIYOOSH!]
 		||
-		*"Perhaps you'd be more thirsty for information..."*
+		*"Perhaps you'd be more thirsty for some... information."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.3002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.3001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.3002!NIYOOSH!]
 		||
-		*"I know I certainly am!"*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.3003!NIYOOSH!}
+		*"If you've any news to tell, I'd be happy to make a trade..."*
+		(B#"Actually, I'm more interested in history than current events."){C:1,KABU!TAMBUL!ATRIUM!0.201!NIYOOSH!}
+		(C#"..."){C:1,KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!}
+		(D#"I suppose that depends on how good your news is..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.3002!NIYOOSH!/]
-
-	[/KABU!TAMBUL!ATRIUM!0.3003!NIYOOSH!]
-		||
-		*"If you've any news or tales to tell, I'd be happy to make a trade..."*
-		(B#"I'm more interested in stories of the past than the present."){C:1,KABU!TAMBUL!ATRIUM!0.201!NIYOOSH!}
-		(C#"I'm not interested."){C:1,KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!}
-		(D#"Only if you tell me your news first..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!0.3003!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.400!NIYOOSH!]
 		||
-		*"Cost? Ha! You must be as confused as those travelin' folk from years back. Came in a big floatin' contraption, they did - filled with hot air, they say. Pretty sure it was just some Vanquished relic, though."*
+		*"Cost? Ha! You must be as confused as those travelin' folk from years back. Came in a big floatin' contraption, filled with hot air, they said - pretty sure it was just some jinn-lickin' Vanquished trickery, though. Pardon my language."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.400!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.4000!NIYOOSH!]
 		||
-		*"Well, in any case, they couldn't believe we had no gold, or coins, or whatever it was they wanted in exchange for their trinkets. Good folk, they were, deep down. But savages who didn't walk the Path of Awareness nonetheless. No offense."*
+		*"Well, in any case, they couldn't believe we had no gold, or coins, or whatever it was they wanted to trade for their trinkets. Good folk, they were, deep down. But savages ignorant of the Path of Awareness nonetheless. No offense."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.4000!NIYOOSH!/]
 
@@ -2831,15 +2825,15 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.4002!NIYOOSH!]
 		||
-		*"Though, me personally, I was more interested in news from whatever corner of the world they came from than their company. Say, if you've got some story from beyond these walls, I'd be interested in hearin' it - even willin' to respond in kind..."*
+		*"Though, me personally, I was more interested in news from whatever corner of the world they came from than their company, always have been one to keep up to date. Say, if you've got some whispers from beyond these walls, I'd be interested in hearin' them - even willin' to respond in kind..."*
 		(C#"I'm not interested."){C:1,KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!}
-		(D#"Only if you tell me your news first..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
+		(D#"I suppose that depends on how good your news is..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
 		(E#"You will tell me what you know, now!"){E:1,KABU!TAMBUL!ATRIUM!0.501!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.4002!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.500!NIYOOSH!]
 		||
-		*"Quite a lot actually, seein' as how I assisted Torma the Venturer..."*
+		*"Quite a lot actually, seein' as how I assisted Torma the Venturer on some of his travels..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.500!NIYOOSH!/]
 
@@ -2853,8 +2847,8 @@ NIYOOSH
 		||
 		*"Perhaps I could tell you of it, if you didn't mind givin' me some news of your travels in return..."*
 		(A#"I'll share what I know with you."){A:1,KABU!TAMBUL!ATRIUM!0.101!NIYOOSH!}
-		(D#"Tell me your news first..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
-		(E#"New of my travels? How 'bout I pay you with violence instead?"){E:1,KABU!TAMBUL!ATRIUM!0.501!NIYOOSH!}
+		(D#"Depends entirely on how good your information is..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
+		(E#"New of my travels? Do you accept payments in violence instead?"){E:1,KABU!TAMBUL!ATRIUM!0.501!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.5001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.600!NIYOOSH!]
@@ -2865,13 +2859,13 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.6000!NIYOOSH!]
 		||
-		*"I'd be most interested in hearin' what you've seen and encountered."*
+		*"I'd be most interested in hearin' what you've seen out there - a bit of an aspirin' loremaster myself!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.6001!NIYOOSH!]
 		||
-		*"Tell me of your exploits and I'll repay you in kind."*
+		*"Tell me about your exploits and I'll repay you in kind!"*
 		(F#"Oh, I've got plenty of news..."){F:1,KABU!TAMBUL!ATRIUM!0.601!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6001!NIYOOSH!/]
 
@@ -2905,12 +2899,24 @@ NIYOOSH
 		*"Ol' Famlaz features prominently in tales from the past, but I think the Ruby Jinn has been hauntin' the Jenowin Plain since before the Great Awakenin'!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1014!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.1013!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!0.1014!NIYOOSH!]
 		||
-		*"I'll tell you this much, the ruins of Old Tacriba out on the edge of the Jenowin used to be bustlin' with activity, but were abandoned right around the time a rust-colored foreign mage came and killed their Muninn..."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.X000!NIYOOSH!}
+		*"I'll tell you this much, the ruins of Old Tacriba out on the edge of the Jenowin used to be bustlin' with activity, but were abandoned right around the time a rust-colored foreign mage came and killed their Muninn."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1015!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.1014!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!0.1015!NIYOOSH!]
+		||
+        *"Now a foreign mage named Mifas'cul has shown up in Kabu, dressed in a blood-colored cloak. Been talkin' to mage Pakahron and Khaa from Dazir..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1016!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!0.1015!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!0.1016!NIYOOSH!]
+		||
+        *"Sounds mighty suspicious, if you ask me!"*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.X000!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!0.1016!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.201!NIYOOSH!]
 		||
@@ -2929,7 +2935,7 @@ NIYOOSH
 		*"What do you say to an exchange of information?"*
 		(B#"Alright, I'll tell you what I know."){B:1,KABU!TAMBUL!ATRIUM!0.1012!NIYOOSH!}
 		(C#"I'd still rather not."){C:1,KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!}
-		(D#"Only if you tell me your news first..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
+		(D#"Well, that depends entirely on how good you information is..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.2011!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!]
@@ -2940,7 +2946,7 @@ NIYOOSH
 	
 	[/KABU!TAMBUL!ATRIUM!0.X3010!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.899!NIYOOSH!|	
-		*"Well that's fine, I s'pose; come back if you change your mind!"*
+		*"Well that's fine, I s'pose. But do come back if you change your mind, kid!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.X3010!NIYOOSH!/]
 
@@ -2958,7 +2964,7 @@ NIYOOSH
 	
 	[/KABU!TAMBUL!ATRIUM!0.5010!NIYOOSH!]
 		||
-		*"Everyone knows that he's a blood-thirsty savage, walkin' in the skin of a desert wolf by night and the guise of a man by day..."*
+		*"Everyone knows he's a blood-thirsty savage, walkin' in the skin of a desert wolf by night and the guise of a man by day..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.5011!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.5010!NIYOOSH!/]
 	
@@ -2976,7 +2982,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.895!NIYOOSH!|
-		*"Now, if you'll excuse me, I've got some water to disburse!"*
+		*"Now, if you'll excuse me, I've got some water to attend to!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!/]	
 	
@@ -2988,13 +2994,13 @@ NIYOOSH
 	
 	[/KABU!TAMBUL!ATRIUM!0.602!NIYOOSH!]
 		||
-		*"Is that so..?"*
+		*"Is that... so..?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6020!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.602!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!0.6020!NIYOOSH!]
 		||
-		*"Well, your story certainly is interestin', and I'd be a liar if I didn't share somethin' equally useful with you."*
+		*"Well, your story certainly is interestin', and I'd be a ruby-tongued liar if I didn't share somethin' equally useful with you!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6021!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6020!NIYOOSH!/]
 	
@@ -3006,25 +3012,25 @@ NIYOOSH
 	
 	[/KABU!TAMBUL!ATRIUM!0.6022!NIYOOSH!]
 		||
-		*"He's said to walk amon' us in secret in the guise of a chicken, his form cloaked from all but those who've walked the Path of Awareness to its furthest reaches..."*
+		*"He's said to walk amon' us in secret in the guise of a chicken! His form cloaked from all but the ones who've walked the Path of Awareness to its furthest reaches..."*
 		(F#"Oh, you mean Roostor?"){F:1,KABU!TAMBUL!ATRIUM!0.603!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6022!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.603!NIYOOSH!]
 		||
-		*"Ha ha! You're certainly a humorous one!"*
+		*"Ha ha! What a jokester! You've got a little bit of the rubied Jinn in you - just make sure you don't let it go too far, kid!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6030!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.603!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.6030!NIYOOSH!]
 		||
-		*"However, I'd caution you and say that foreign jocularity might not translate so well in Kabu - bunch of backwards draug-brains with sticks up their arses this lot, myself the rare exception to the rule!"*
+		*"Biggest problem, though, is that you foreign jocularity might not translate so well in Kabu... bunch of backwards draug-brains with sticks up their arses this lot - myself the rare exception to the rule!"*
 		(F#"Are these sticks free? I'm asking for a friend..."){F:1,KABU!TAMBUL!ATRIUM!0.X6031!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6030!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.X6031!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.894!NIYOOSH!|
-		*"Anyway, it was nice chattin' with you, but perhaps you'd like to talk to that guard over there?"*
+		*"Ha! Good one! Anyway, it was nice chattin' with you, but perhaps you'd like to talk to that guard over there?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.X6031!NIYOOSH!/]
 
@@ -3040,7 +3046,8 @@ NIYOOSH
 		(A#"Yes."){A:0,KABU!TAMBUL!ATRIUM!4.X000!NIYOOSH!}
 		(B#"No."){B:0,KABU!TAMBUL!ATRIUM!3.003!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.891!NIYOOSH!/]
-	
+
+NIYOOSH disappears after this?????
 	[/KABU!TAMBUL!ATRIUM!0.892!NIYOOSH!]
 		||
 		*"Now if you'll excuse me, I need to go tell Pakahron about that jinnstruck Tacribian's plans!"*
@@ -3067,13 +3074,13 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.894!NIYOOSH!]
 		||
-		*"Greetings! I hope you've learned some reliable news in your travels."*
+		*"Greetings! I hope you've learned some more 'reliable' news in your travels."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.8940!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.894!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!0.8940!NIYOOSH!]
 		||
-		*"I'd love to chat, but I'm busier than a rooster in a henhouse!"*
+		*"Biracul's beard! I'd love to chat, but seems I'm busier than a rooster in a henhouse!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X8941!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.8940!NIYOOSH!/]
 	
@@ -3091,16 +3098,16 @@ NIYOOSH
 	
 	[/KABU!TAMBUL!ATRIUM!0.X8950!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!|
-		*"I'd love to chat, but I'm busier than a Suyuti in a goat pen!"*
+		*"By Biracul's beard! I'd love to chat, but seems I'm busier than a Suyuti in a goat pen!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.X8950!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.899!NIYOOSH!]
 		||
 		*"So, you're back! Change your mind, did you?"*
-		(B#"I'm more interested in stories of the past than the present."){C:1,KABU!TAMBUL!ATRIUM!0.201!NIYOOSH!}
-		(C#"Nope."){C:1,KABU!TAMBUL!ATRIUM!0.301!NIYOOSH!}
-		(D#"How about you tell me your news first..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
+		(B#"Actually, I'd like to ask something about your town."){C:1,KABU!TAMBUL!ATRIUM!5.000!NIYOOSH!}
+		(C#"Nope."){C:1,KABU!TAMBUL!ATRIUM!0.X3010!NIYOOSH!}
+		(D#"Maybe, that is if you're information is any good..."){D:1,KABU!TAMBUL!ATRIUM!0.401!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.899!NIYOOSH!/]
 
 >>>Been to the Dawn Fortress (15000)<<<
@@ -3847,6 +3854,323 @@ NIYOOSH
 		*"I'd be able to sell them a vacation house out in the Wasteland if they believe that tripe!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.X9990!NIYOOSH!/]
+
+ask about the town
+    [/KABU!TAMBUL!ATRIUM!5.000!NIYOOSH!]
+		||
+		*"About Tambul? The least interesting place in all Kabu?!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.000!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!]
+		||
+        *"If you had even a scrap o' news about some other place, ANY other place than this borin' dung heap, I'd be on it like a Suyuti on a goat!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.000!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!]
+		||
+        *"Well, whatever sows your fields, I guess. Ask away, kid!"*
+		(A#"Do you have any inns or taverns where people gather?"){A:1,KABU!TAMBUL!ATRIUM!5.100!NIYOOSH!}
+        (B#"How did Tambul first come to exist?"){B:1,KABU!TAMBUL!ATRIUM!5.200!NIYOOSH!}
+        (C#"On second thought, maybe I should just go."){C:1,KABU!TAMBUL!ATRIUM!5.300!NIYOOSH!}
+        (D#"Any dangerous characters I should steer clear of?"){D:1,KABU!TAMBUL!ATRIUM!5.400!NIYOOSH!}
+        (E#"Boring dung heap? That answers everything I need to know."){E:1,KABU!TAMBUL!ATRIUM!5.500!NIYOOSH!}
+        (F#"Well, there's an obvious cure to 'spice' things up! You in?"){F:1,KABU!TAMBUL!ATRIUM!5.600!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!/]
+
+
+    [/KABU!TAMBUL!ATRIUM!5.100!NIYOOSH!]
+		||
+		*"An inn? A tavern? What in Biracul's name are those?"*
+        (A#"Oh, well, they're places where out-of-towners can mix with locals."){A:1,KABU!TAMBUL!ATRIUM!5.101!NIYOOSH!}
+        (B#"It's a place where foreigners can stay."){B:1,KABU!TAMBUL!ATRIUM!5.120!NIYOOSH!}
+        (E#"I should've known better than to ask the blind for directions..."){E:1,KABU!TAMBUL!ATRIUM!5.150!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.100!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.101!NIYOOSH!]
+		||
+		*"Oh! If that's the case, the Atrium is the best place for that! Silly girls ask silly questions, I s'pose."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.101!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.120!NIYOOSH!]
+		||
+		*"Now that you mention it, I think I heard the village fool, Akkeber, mention that in one of his 'performances'... Said he read it in some old tome that foreign towns have places like those..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.121!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.120!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.121!NIYOOSH!]
+		||
+        *"And here I thought he was just channelin' his inner idiot to come up with such nonsense. Turns out the joke's on me! Oh, well, guess we can all be Vanargands, eh?"*
+        (B#"Why don't people travel to Kabu?"){B:1,KABU!TAMBUL!ATRIUM!5.122!NIYOOSH!}
+        (C#"So I take it there are no inns, then."){C:1,KABU!TAMBUL!ATRIUM!5.130!NIYOOSH!}
+        (D#"I guess 'village idiot' is a now shared title, then..."){D:1,KABU!TAMBUL!ATRIUM!5.140!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.121!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.122!NIYOOSH!]
+		||
+        *"You jokin', kid? Kabu is sky-high on some cliff with impassable mountains at its back! That's why the last people to visit us had to fly up here in some bizarre Vanquished airship!"*
+        (B#"Have any other people come to Kabu before?"){B:1,KABU!TAMBUL!ATRIUM!5.123!NIYOOSH!}
+        (C#"Ah, well that makes sense."){C:1,KABU!TAMBUL!ATRIUM!5.130!NIYOOSH!}
+        (D#"Maybe Biracul isolated you from the world to curb the spread of stupidity..."){D:1,KABU!TAMBUL!ATRIUM!5.141!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.122!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.123!NIYOOSH!]
+		||
+        *"In recent memory, I guess there's been a handful of 'em..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.123!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!]
+		||
+        *"That famous 'Prophet' came with the airship, but those jinn-lickin' sons of a goat left him here! Not sure where that damned fellow wandered off to now, but all that jinnstruck nonsense about great calamities ahead really shook some folk up. Kabu still hasn't recovered from that..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!]
+		||
+        *"But the last people to come before that was Archma... Oh, I mean, Kambesh. And along with him that jinntouched horror, Ormenos. Glad that one's dancing with the Jinns! What a creep he was..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.126!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.126!NIYOOSH!]
+		||
+        *"Oh, and they brought with them a sweet little thin', oh what was his name? Theskian? Somethin' like that. It was a long time ago and I was just a youth back then - not that I'm passed my prime now, mind you!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.127!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.126!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.127!NIYOOSH!]
+		||
+        *"But look at me, yappin' away and not knowin' when to shut my trap like some Daziran Artisan!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.127!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.130!NIYOOSH!]
+		||
+		*"So, yeah, no inns, no travelers, nothin' of note in this miserable little town!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.131!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.130!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.131!NIYOOSH!]
+		||
+        *"Biracul's balls, it's depressin' talkin' to you, kid! I'm constantly reminded of how dull this place is!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.132!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.131!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.132!NIYOOSH!]
+		||
+        *"It's probably best if you're on your way. I'd tell you to enjoy the town, but I'm not it's possible to!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.133!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.132!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.133!NIYOOSH!]
+		||
+        *"It's time I got back to my soul crushin' duties!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.133!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.140!NIYOOSH!]
+		||
+		*"Well, we'll let Akkeber know you're not good at sharin', then. Congrats, it's all yours now!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.140!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.141!NIYOOSH!]
+		||
+		*"Certainly not! Biracul doesn't make mistakes, and with you runnin' rampant out there wouldn't it mean he failed to stop the spread?"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.141!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.150!NIYOOSH!]
+		||
+		*"Without a doubt! Maybe you should go make friends with Akkeber out in the Residence District. He also likes live in a world of make believe..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.150!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.200!NIYOOSH!]
+		||
+		*"So you want a history lesson, do you? Well, you asked the right person! I'm probably the only one in Tambul to know the true origins of Kabu - save Pakahron..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.201!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.200!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.201!NIYOOSH!]
+		||
+		*"So everyone knows that Biracul was the founder of Kabu, set up the townships, divided the labors and all such stuff. But!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.202!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.201!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.202!NIYOOSH!]
+		||
+        *"I found out, not long ago, that the two remaining Muninn trees in Kabu both came from the same source, far across the Jenowin Plain in abandoned Tacriba!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.203!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.202!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.203!NIYOOSH!]
+		||
+        *"Back before the Tacribians forsook their role in the Biraculian system and migrated out to the Dawn Fortress, they were actually responsible for mining raw materials - stuff the Dazirans would later use for building and whatnot."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.204!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.203!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.204!NIYOOSH!]
+		||
+        *"In any case, they were also responsible for something else..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.205!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.204!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.205!NIYOOSH!]
+		||
+        *"They were Kabu's original loremasters!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.206!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.205!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.206!NIYOOSH!]
+		||
+        *"And apparently the Muninn they let the rust-colored mage kill was the original Muninn, first in the world!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.207!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.206!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.207!NIYOOSH!]
+		||
+        *"Turns out, some of its memories remain in the Muninn over in Dazir!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.208!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.207!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.208!NIYOOSH!]
+		||
+        *"Well, why bring this up? Because before Kabu was Kabu, it was something... bigger. Something more important!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.209!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.208!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.209!NIYOOSH!]
+		||
+        *"The final thing my source over in Dazir said was that something 'unprecedented' happened out at the edge of the wastes... something leading to 'the Great Awakening'..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.127!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.209!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.300!NIYOOSH!]
+		||
+		*"Riiight... Okay, well, best be on your way than, kid!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.X002!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.300!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.400!NIYOOSH!]
+		||
+		*"Dangerous? Kid, this is the least dangerous place in the world!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.400!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!]
+		||
+        *"Maybe if this were Dazir, you'd have to worry about some backstabbin' lout. Or if it were the Dawn Fortress you could look out for draugs, but here..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.402!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.402!NIYOOSH!]
+		||
+        *"Well, hold on, I can think of one person I'd tell you steer clear of..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.403!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.402!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.403!NIYOOSH!]
+		||
+        *"If you ever happen to meet a man named Dysmas, don't trust him..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.403!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!]
+		||
+        *"But look at me and my jinnwhisperin' mouth! I should get back to work, I should!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.500!NIYOOSH!]
+		||
+		*"You don't know the half of it, kid! Let me tell you..."*
+        (A#"Well, boring and peaceful is better than war-torn and chaotic, right?"){A:1,KABU!TAMBUL!ATRIUM!5.510!NIYOOSH!}
+        (D#"You complain, an awful lot..."){D:1,KABU!TAMBUL!ATRIUM!5.540!NIYOOSH!}
+        (E#"I already know what I need to. I don't care about the rest."){E:1,KABU!TAMBUL!ATRIUM!5.550!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.500!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.510!NIYOOSH!]
+		||
+		*"Well, when you put it that way... I guess you're right. Huh."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.511!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.510!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.511!NIYOOSH!]
+		||
+        *"The Shining One always talked about how a change in perspective could cause the awakenin' of Awareness. I guess I finally see what he meant..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X8941!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.511!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.540!NIYOOSH!]
+		||
+		*"And you give unsolicited opinions. Guess we both have some character flaws to work on then, eh?"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.131!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.540!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.550!NIYOOSH!]
+		||
+		*"Riight... You realize the only Jinn anyone respects is the Emerald one, right? And I can tell you it ain't because of his ignorance..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.551!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.550!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.551!NIYOOSH!]
+		||
+        *"But what am I sayin'? You don't care! Why am I castin' pearls before a swine?"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.551!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.600!NIYOOSH!]
+		||
+		*"This civil servant has been around too long to agree to some scheme before hearin' what it's about first!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.601!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.600!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.601!NIYOOSH!]
+		||
+        *"So go on! What's this red-tinged plot of yours, you little jinn-lickin' rascal you!"*
+        (F#"Well, you see, we'd... -wishper, whisper, whisper-"){F:1,KABU!TAMBUL!ATRIUM!5.602!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.601!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.602!NIYOOSH!]
+		||
+        *"Huh? Look, kid, just sayin' 'whisper, whisper, whisper' doesn't count as covertly sharin' your plan with me!"*
+        (F#"Oh by Roostor's Comb, do I have to spell it out for you?!"){F:1,KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.602!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!]
+		||
+        *"Why, yes you do! I'm not inside that jinnstruck skull of yours! How else would I know what you meant when you said we could 'spice' this boring dung heap up?"*
+        (F#"Okay, fine! All we've gotta do is... -hmmm, psst, cough, psst-"){F:1,KABU!TAMBUL!ATRIUM!5.604!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.604!NIYOOSH!]
+		||
+        *"..."*
+        (A#"I should probably go now, huh?"){A:1,KABU!TAMBUL!ATRIUM!0.8922!NIYOOSH!}
+        (F#"Got it? Good! We start recruiting tomorrow at the crack of dawn!"){F:1,KABU!TAMBUL!ATRIUM!5.605!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.604!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.605!NIYOOSH!]
+		||
+        *"..."*
+        (A#"I'm sorry... I don't know what's wrong with me..."){A:1,KABU!TAMBUL!ATRIUM!0.8922!NIYOOSH!}
+        (F#"Operation Spice Girls we'll call it!"){F:1,KABU!TAMBUL!ATRIUM!5.606!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.605!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.606!NIYOOSH!]
+		||
+        *"..."*
+        (F#"Move over, Akkeber! There's a new act in town!"){F:1,KABU!TAMBUL!ATRIUM!5.607!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.606!NIYOOSH!/]
+
+    [/KABU!TAMBUL!ATRIUM!5.607!NIYOOSH!]
+		||
+        *"..."*
+        (F#"Hey! You've been awfully quite since you turned around!"){F:1,KABU!TAMBUL!ATRIUM!0.8922!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.607!NIYOOSH!/]
 
 
 	[/KABU!TAMBUL!ATRIUM!9.000!NIYOOSH!]
@@ -6290,7 +6614,7 @@ NOURI
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X601!NOURI!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!0.X899!NOURI!|
-		*"That is not the sort of attire common in these parts. However, perhaps some can be obtained from a travelling merchant."*
+		*"That is not the sort of attire common in these parts. However, perhaps some can be obtained from a traveling merchant."*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.X601!NOURI!/]
 
