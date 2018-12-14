@@ -1331,7 +1331,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.050!DESCRIPTION!]
 		||
-		*Eidos frantically casts her gaze about. The ill-lit surroundings afford her only glimpses of blurred shapes twisting and merging, all framed in halos of scattering light. Slowly, forms sharpen, light focuses, and gradually, distinct images emerge from the stew of colors and shadows. Intently, she scans, ever vigilant, observing no motion save her own, hearing no sound save her own. By all appearances, she is alone and safe.*
+		*Eidos frantically casts her gaze about. Her ill-lit surroundings afford only glimpses of blurred shapes twisting and merging, all framed in halos of scattering light. Slowly, forms sharpen, light focuses, and gradually, distinct images emerge from the stew of colors and shadows. Intently, she scans, ever vigilant, observing no motion save her own, hearing no sound save her own. By all appearances, she is alone and safe.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.050!DESCRIPTION!/]	
 
@@ -1373,7 +1373,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.010!DESCRIPTION!]
 		||
-		*Eidos stands at the center of an octagonal room. The pale amber illumination comes not from windows, but from dully shining crystalline sconces adorning the eight corners of the chamber. Though subdued, the light is sufficient to render her surroundings nearly shadowless.*
+		*Eidos stands at the center of an octagonal room. The pale amber illumination comes not from windows, but from dully shining crystalline sconces adorning the eight corners of the chamber. Though subdued, the light is sufficient to chase away most shadows.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0100!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.010!DESCRIPTION!/]
 
