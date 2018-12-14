@@ -3286,19 +3286,19 @@ HEYAR
 
 	[/KABU!DAWN FORTRESS!COURTYARD!90.60050!HEYAR!]
 		||
-		*"Apparently, you arrived on a tide of poisoned water and they assume there was some causal link..."*
+		*"Apparently, you arrived on a tide of poisoned water and they assumed there was some causal link..."*
 		(F#"I bring them water and they exile me? What ingrates!"){F:1,KABU!DAWN FORTRESS!COURTYARD!90.60051!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.60050!HEYAR!/]
 
 	[/KABU!DAWN FORTRESS!COURTYARD!90.60051!HEYAR!]
 		||
 		*"I suppose they took exception to the fact you spiked it with poison... Ha ha!"*
-		(F#"These people are so picky... Seesh!"){F:1,KABU!DAWN FORTRESS!COURTYARD!90.60051!HEYAR!}
+		(F#"Picky, picky, picky! Oh well, more for us!"){F:1,KABU!DAWN FORTRESS!COURTYARD!90.60052!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.60051!HEYAR!/]
     
     [/KABU!DAWN FORTRESS!COURTYARD!90.60052!HEYAR!]
 		||
-		*"You seem fun enough! Ha ha! Just remind me never to ask you for water! Ho ho!"*
+		*"Well, you seem fun enough! Ha ha! Just remind me never to ask you for water! Ho ho!"*
 		(F#"A good idea! Because poison wasn't the only other addition to the water!"){F:1,KABU!DAWN FORTRESS!COURTYARD!9999.X9999!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.60052!HEYAR!/]
 

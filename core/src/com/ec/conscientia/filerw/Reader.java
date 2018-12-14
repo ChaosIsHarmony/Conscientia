@@ -22,7 +22,7 @@ public class Reader {
 	public Reader(FileIOManager fileMan) {
 		this.fileMan = fileMan;
 	}
-	
+
 	public String loadSplashQuote() {
 		// loads bookOfBiracul file
 		FileHandle file = Gdx.files.internal("Game Files/BookOfBiracul.mao");
@@ -36,7 +36,6 @@ public class Reader {
 		return quoteStr;
 	}
 
-	
 	public String getNPCsbyNum(int NPCnum) {
 		FileHandle file = Gdx.files.internal("Game Files/NPCsbyNum.mao");
 		String npcsByNumFile = file.readString();
@@ -83,6 +82,7 @@ public class Reader {
 
 		return creditsStr;
 	}
+
 	void setStartAdd(int bookID) {
 		// set starting address for given book
 		loadFile(CommonVar.UNI_FILE, false);
@@ -182,11 +182,17 @@ public class Reader {
 	}
 
 	// loads NPC stats to a string array and then returns the array
-	public String[] getNPCsStats(String id) {
+	public String[] getNPCsStats(String id, boolean testing) {
 		String[] tempArray = new String[NPC.STATS_ARRAY_LENGTH];
 
 		// loads NPC save file
-		loadFile(CommonVar.NPC_FILE, false);
+		if (!testing)
+			loadFile(CommonVar.NPC_FILE, false);
+		// for testing
+		else {
+			FileHandle file = Gdx.files.internal("Game Files/NPCs.mao");
+			fileMan.NPCFile = file.readString();
+		}
 
 		try {
 			// trims to relevant NPC as determined by id
@@ -219,14 +225,21 @@ public class Reader {
 				+ fileMan.NPCFile.substring(fileMan.NPCFile.indexOf("[/DESCRIPTION]"));
 	}
 
-	public int[] getNPCsCombatStats(String id) {
+	public int[] getNPCsCombatStats(String id, boolean testing) {
 		ArrayList<Integer> tempArray = new ArrayList<Integer>();
 
 		// loads NPC save file
-		loadFile(CommonVar.NPC_FILE, false);
+		if (!testing)
+			loadFile(CommonVar.NPC_FILE, false);
+		// for testing
+		else {
+			FileHandle file = Gdx.files.internal("Game Files/NPCs.mao");
+			fileMan.NPCFile = file.readString();
+		}
 
 		// trims to relevant NPC as determined by id
-		String tempStats = fileMan.NPCFile.substring(fileMan.NPCFile.indexOf("[/" + id + "]"), fileMan.NPCFile.indexOf("[" + id + "/]"));
+		String tempStats = fileMan.NPCFile.substring(fileMan.NPCFile.indexOf("[/" + id + "]"),
+				fileMan.NPCFile.indexOf("[" + id + "/]"));
 		// trims only to stats array in file
 		tempStats = tempStats.substring(tempStats.indexOf('*') + 1, tempStats.lastIndexOf('*'));
 
@@ -245,14 +258,21 @@ public class Reader {
 		return combatStats;
 	}
 
-	public HashMap<String, String> getNPCsDialogueAdds(String id) {
+	public HashMap<String, String> getNPCsDialogueAdds(String id, boolean testing) {
 		HashMap<String, String> tempMap = new HashMap<String, String>();
 
 		// loads NPC save file
-		loadFile(CommonVar.NPC_FILE, false);
+		if (!testing)
+			loadFile(CommonVar.NPC_FILE, false);
+		// for testing
+		else {
+			FileHandle file = Gdx.files.internal("Game Files/NPCs.mao");
+			fileMan.NPCFile = file.readString();
+		}
 
 		// trims to relevant NPC as determined by id
-		String tempAdds = fileMan.NPCFile.substring(fileMan.NPCFile.indexOf("[/" + id + "]"), fileMan.NPCFile.indexOf("[" + id + "/]"));
+		String tempAdds = fileMan.NPCFile.substring(fileMan.NPCFile.indexOf("[/" + id + "]"),
+				fileMan.NPCFile.indexOf("[" + id + "/]"));
 		// trims only to stats array in file
 		tempAdds = tempAdds.substring(tempAdds.indexOf('(') + 1, tempAdds.indexOf(')'));
 
@@ -287,37 +307,44 @@ public class Reader {
 
 	private void loadCurrentLocation() {
 		if (fileMan.mgScr.getCurrentLocation() == null)
-			fileMan.mgScr.setCurrentLocation(
-					fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("currentLocation:") + 16,
-							fileMan.currentSavedGameFile.indexOf(',', fileMan.currentSavedGameFile.indexOf("currentLocation:"))));
+			fileMan.mgScr.setCurrentLocation(fileMan.currentSavedGameFile.substring(
+					fileMan.currentSavedGameFile.indexOf("currentLocation:") + 16, fileMan.currentSavedGameFile
+							.indexOf(',', fileMan.currentSavedGameFile.indexOf("currentLocation:"))));
 	}
 
 	private void loadPersonalityAffinity() {
 		// loads personality stats
 		fileMan.mgScr.getPlayer()
-				.setDiplomat(Integer.parseInt(fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("A:") + 2,
+				.setDiplomat(Integer.parseInt(fileMan.currentSavedGameFile.substring(
+						fileMan.currentSavedGameFile.indexOf("A:") + 2,
 						fileMan.currentSavedGameFile.indexOf(',', fileMan.currentSavedGameFile.indexOf("A:")))));
 		fileMan.mgScr.getPlayer()
-				.setTruthseeker(Integer.parseInt(fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("B:") + 2,
+				.setTruthseeker(Integer.parseInt(fileMan.currentSavedGameFile.substring(
+						fileMan.currentSavedGameFile.indexOf("B:") + 2,
 						fileMan.currentSavedGameFile.indexOf(',', fileMan.currentSavedGameFile.indexOf("B:")))));
 		fileMan.mgScr.getPlayer()
-				.setNeutral(Integer.parseInt(fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("C:") + 2,
+				.setNeutral(Integer.parseInt(fileMan.currentSavedGameFile.substring(
+						fileMan.currentSavedGameFile.indexOf("C:") + 2,
 						fileMan.currentSavedGameFile.indexOf(',', fileMan.currentSavedGameFile.indexOf("C:")))));
 		fileMan.mgScr.getPlayer()
-				.setSurvivalist(Integer.parseInt(fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("D:") + 2,
+				.setSurvivalist(Integer.parseInt(fileMan.currentSavedGameFile.substring(
+						fileMan.currentSavedGameFile.indexOf("D:") + 2,
 						fileMan.currentSavedGameFile.indexOf(',', fileMan.currentSavedGameFile.indexOf("D:")))));
 		fileMan.mgScr.getPlayer()
-				.setTyrant(Integer.parseInt(fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("E:") + 2,
+				.setTyrant(Integer.parseInt(fileMan.currentSavedGameFile.substring(
+						fileMan.currentSavedGameFile.indexOf("E:") + 2,
 						fileMan.currentSavedGameFile.indexOf(',', fileMan.currentSavedGameFile.indexOf("E:")))));
 		fileMan.mgScr.getPlayer()
-				.setLoon(Integer.parseInt(fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("F:") + 2,
+				.setLoon(Integer.parseInt(fileMan.currentSavedGameFile.substring(
+						fileMan.currentSavedGameFile.indexOf("F:") + 2,
 						fileMan.currentSavedGameFile.indexOf(',', fileMan.currentSavedGameFile.indexOf("F:")))));
 	}
 
 	private void loadItemsAcquired() {
 		// loads glyphs, abilities and logs
 		loadFile(CommonVar.SAVE_FILE, false);
-		String tempItemList = fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("{ACQUIRABLE}"),
+		String tempItemList = fileMan.currentSavedGameFile.substring(
+				fileMan.currentSavedGameFile.indexOf("{ACQUIRABLE}"),
 				fileMan.currentSavedGameFile.lastIndexOf("{ACQUIRABLE}"));
 		while (tempItemList.contains("|")) {
 			fileMan.mgScr.getPlayer().getItemsAcquired().add(
@@ -334,8 +361,10 @@ public class Reader {
 	private void loadAwareness() {
 		// loads glyphs, abilities and logs
 		loadFile(CommonVar.SAVE_FILE, false);
-		String awareness = fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("{AWARENESS}") + 11,
-				fileMan.currentSavedGameFile.lastIndexOf("{AWARENESS}")).trim();
+		String awareness = fileMan.currentSavedGameFile
+				.substring(fileMan.currentSavedGameFile.indexOf("{AWARENESS}") + 11,
+						fileMan.currentSavedGameFile.lastIndexOf("{AWARENESS}"))
+				.trim();
 		fileMan.mgScr.setAwareness(Integer.parseInt(awareness));
 	}
 
@@ -457,7 +486,7 @@ public class Reader {
 
 		return savedGameListReal;
 	}
-	
+
 	private String getLocation(String tempFile, int end) {
 		String location = "";
 		// parse out location
@@ -468,7 +497,6 @@ public class Reader {
 
 		return location;
 	}
-
 
 	private int getBookID(String tempSaveFileStr, int end) {
 		int start = tempSaveFileStr.indexOf("{BOOK ID}", end) + 9;
@@ -654,7 +682,7 @@ public class Reader {
 		else
 			return address;
 	}
-	
+
 	public int getCurrentNPC() {
 		// loads save file
 		loadFile(CommonVar.SAVE_FILE, false);
@@ -667,8 +695,6 @@ public class Reader {
 		return currentNpc;
 	}
 
-
-	
 	public void loadSavedGameFiles() {
 		// loads save file
 		loadFile(CommonVar.SAVE_FILE, true);
@@ -680,7 +706,8 @@ public class Reader {
 		loadFile(CommonVar.UNI_FILE, false);
 		try {
 			fileMan.conscientia.setUseAltFont(fileMan.uniSaveFile
-					.substring(fileMan.uniSaveFile.indexOf("[/FONT]") + 7, fileMan.uniSaveFile.indexOf("[FONT/]")).equals("1"));
+					.substring(fileMan.uniSaveFile.indexOf("[/FONT]") + 7, fileMan.uniSaveFile.indexOf("[FONT/]"))
+					.equals("1"));
 		} catch (Exception e) {
 			fileMan.conscientia.setUseAltFont(false);
 			fileMan.uniSaveFile += "[/FONT]0[FONT/]";
@@ -692,7 +719,8 @@ public class Reader {
 		// loads save file
 		loadFile(CommonVar.SAVE_FILE, false);
 
-		String currentLocation = fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("currentLocation:") + 16,
+		String currentLocation = fileMan.currentSavedGameFile.substring(
+				fileMan.currentSavedGameFile.indexOf("currentLocation:") + 16,
 				fileMan.currentSavedGameFile.indexOf(","));
 
 		return currentLocation;
@@ -702,7 +730,8 @@ public class Reader {
 		// loads save file
 		loadFile(CommonVar.SAVE_FILE, false);
 
-		String relevantArea = fileMan.currentSavedGameFile.substring(fileMan.currentSavedGameFile.indexOf("{MINDSCAPE}") + 11,
+		String relevantArea = fileMan.currentSavedGameFile.substring(
+				fileMan.currentSavedGameFile.indexOf("{MINDSCAPE}") + 11,
 				fileMan.currentSavedGameFile.lastIndexOf("{MINDSCAPE}"));
 
 		String lastAdd = relevantArea.substring(1, relevantArea.indexOf(":"));
@@ -737,8 +766,7 @@ public class Reader {
 
 		return cues;
 	}
-	
-	
+
 	/*
 	 * MAPS
 	 */
@@ -789,7 +817,7 @@ public class Reader {
 
 		return list;
 	}
-	
+
 	/*
 	 * SUB MENUS
 	 */
@@ -928,7 +956,6 @@ public class Reader {
 		}
 		return mindscapeNPCList;
 	}
-
 
 	public void loadFile(int fileType, boolean updatePersistents) {
 		FileHandle file;

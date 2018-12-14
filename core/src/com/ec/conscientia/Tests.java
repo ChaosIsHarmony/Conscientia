@@ -8,7 +8,6 @@ import com.badlogic.gdx.files.FileHandle;
 import com.ec.conscientia.dialogue.DialogueFileReaderWriter;
 import com.ec.conscientia.entities.NPC;
 import com.ec.conscientia.filerw.FileIOManager;
-import com.ec.conscientia.screens.MainGameScreen;
 import com.ec.conscientia.variables.CommonVar;
 
 public class Tests {
@@ -391,12 +390,12 @@ public class Tests {
 				if (cue.contains(multiCue))
 					// trim to specific address
 					if (!checkerFile.contains(cue)) {
-					boolean printOut = true;
-					for (String s : exceptionList)
-					if (s.equals("CUE: " + cue))
-					printOut = false;
-					if (printOut)
-					System.out.println("CUE: " + cue);
+						boolean printOut = true;
+						for (String s : exceptionList)
+							if (s.equals("CUE: " + cue))
+								printOut = false;
+						if (printOut)
+							System.out.println("CUE: " + cue);
 					}
 			}
 		}
@@ -562,7 +561,7 @@ public class Tests {
 			if (ind < 0)
 				break;
 			String add = fileStr.substring(ind + 2, fileStr.indexOf("]", ind));
-			// System.out.println("BEFORE CRASH: " + add);
+//			System.out.println("BEFORE CRASH: " + add);
 			String block = fileStr.substring(fileStr.indexOf("[/" + add), fileStr.indexOf(add + "/]") + add.length());
 			// look at top
 			add = block.substring(block.indexOf("[/") + 2, block.indexOf("]"));
@@ -731,7 +730,6 @@ public class Tests {
 		ArrayList<Integer> checkedNPCs = new ArrayList<Integer>();
 		int start = 0, end = 0;
 		Integer currNPC = 0;
-		MainGameScreen mgScr = new MainGameScreen(this.consc);
 
 		while (npcLocString.contains("|")) {
 			start = npcLocString.indexOf("|") + 1;
@@ -743,8 +741,7 @@ public class Tests {
 				if (!checkedNPCs.contains(currNPC)) {
 					checkedNPCs.add(currNPC);
 					// loads NPC
-					System.out.println(currNPC);
-					NPC npc = new NPC(currNPC, mgScr);
+					NPC npc = new NPC(currNPC);
 				}
 				listToCheck = listToCheck.substring(listToCheck.indexOf(",") + 1);
 			}
@@ -833,8 +830,8 @@ public class Tests {
 	}
 
 	public void loadAllNPCS() {
-		int[] npcs = new int[150];
-		int cnt = 0, start = 0;
+		ArrayList<Integer> npcs = new ArrayList<Integer>();
+		int start = 0;
 		FileHandle file = Gdx.files.internal("Game Files/NPCsbyNum.mao");
 		String npc_file_str = file.readString();
 		while (true) {
@@ -842,15 +839,48 @@ public class Tests {
 			if (start < 1)
 				break;
 			npc_file_str = npc_file_str.substring(start);
-			npcs[cnt++] = Integer
-					.parseInt(npc_file_str.substring(npc_file_str.indexOf(":") + 1, npc_file_str.indexOf(",")));
+			npcs.add(
+					Integer.parseInt(npc_file_str.substring(npc_file_str.indexOf(":") + 1, npc_file_str.indexOf(","))));
 		}
+
+		// try instantiating all npcs from the file
 		for (int i : npcs) {
 			try {
-				NPC noob = new NPC(i, null);
+				NPC noob = new NPC(i);
 			} catch (Exception e) {
 				System.out.println(i);
 			}
 		}
+
+		// check to make sure all NPCs listed in the NPCListByLocation file exist
+		file = Gdx.files.internal("Game Files/NPCListByLocation.mao");
+		npc_file_str = file.readString();
+		int end = 0;
+		ArrayList<Integer> nums = new ArrayList<Integer>();
+
+		// parse out numbers
+		while (true) {
+			start = npc_file_str.indexOf("|") + 1;
+			end = npc_file_str.indexOf("|", start);
+			if (start < 1)
+				break;
+			// parse out from specific location
+			String tmp_str = npc_file_str.substring(start, end);
+			while (tmp_str.contains(",")) {
+				nums.add(Integer.parseInt(tmp_str.substring(0, tmp_str.indexOf(","))));
+				tmp_str = tmp_str.substring(tmp_str.indexOf(",") + 1);
+			}
+			npc_file_str = npc_file_str.substring(end + 1);
+		}
+
+		// try instantiating all npcs from the file
+		for (int i : nums) {
+			try {
+				NPC noob = new NPC(i);
+			} catch (Exception e) {
+				System.out.println(i);
+			}
+		}
+
 	}
 }

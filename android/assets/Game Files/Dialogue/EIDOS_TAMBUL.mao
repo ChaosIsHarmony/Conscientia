@@ -2759,7 +2759,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.1001!NIYOOSH!]
 		||
-        *"The only thing you'll find here is boredom and sand!"
+        *"The only thing you'll find here is boredom and sand!"*
    		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.1001!NIYOOSH!/]
 
@@ -3903,10 +3903,10 @@ ask about the town
     [/KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!]
 		||
         *"If you had even a scrap o' news about some other place, ANY other place than this borin' dung heap, I'd be on it like a Suyuti on a goat!"*
-        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!5.000!NIYOOSH!/]
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.002!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!/]
 
-    [/KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!]
+    [/KABU!TAMBUL!ATRIUM!5.002!NIYOOSH!]
 		||
         *"Well, whatever sows your fields, I guess. Ask away, kid!"*
 		(A#"Do you have any inns or taverns where people gather?"){A:1,KABU!TAMBUL!ATRIUM!5.100!NIYOOSH!}
@@ -3915,7 +3915,7 @@ ask about the town
         (D#"Any dangerous characters I should steer clear of?"){D:1,KABU!TAMBUL!ATRIUM!5.400!NIYOOSH!}
         (E#"Boring dung heap? That answers everything I need to know."){E:1,KABU!TAMBUL!ATRIUM!5.500!NIYOOSH!}
         (F#"Well, there's an obvious cure to 'spice' things up! You in?"){F:1,KABU!TAMBUL!ATRIUM!5.600!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!/]
+	[KABU!TAMBUL!ATRIUM!5.002!NIYOOSH!/]
 
 
     [/KABU!TAMBUL!ATRIUM!5.100!NIYOOSH!]

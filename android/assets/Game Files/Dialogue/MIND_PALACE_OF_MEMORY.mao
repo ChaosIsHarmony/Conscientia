@@ -2304,7 +2304,7 @@ CAITO
 		(C#"Well, Biracul never said it was wrong, I guess."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!}
 		(D#"So your cure for poison is more posion? Genius..."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.004!CAITO!}
 		(E#"I'm afraid the only cure for stupidity is death, my friend."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
-	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0041!CAITO!/]
+	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0042!CAITO!/]
 	
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!]
 		||

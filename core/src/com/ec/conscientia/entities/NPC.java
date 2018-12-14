@@ -30,15 +30,27 @@ public class NPC {
 	private FileIOManager fileRW;
 	private ConscientiaVar conscVar;
 
+	/*
+	 * Tests constructor
+	 */
+	public NPC(int idNum) {
+		this.fileRW = new FileIOManager();
+		this.idNum = idNum;
+		this.name = fileRW.reader.getNPCsbyNum(idNum);
+		this.stats = fileRW.reader.getNPCsStats(this.name, true);
+		this.combatAbilities = fileRW.reader.getNPCsCombatStats(this.name, true);
+		this.locToDialogueAdd = fileRW.reader.getNPCsDialogueAdds(this.name, true);
+	}
+
 	public NPC(int idNum, MainGameScreen mgScr) {
 		this.fileRW = new FileIOManager(mgScr.getConscientia(), mgScr);
 		this.conscVar = mgScr.getConscientia().getConscVar();
 
 		this.idNum = idNum;
 		this.name = fileRW.reader.getNPCsbyNum(idNum);
-		this.stats = fileRW.reader.getNPCsStats(this.name);
-		this.combatAbilities = fileRW.reader.getNPCsCombatStats(this.name);
-		this.locToDialogueAdd = fileRW.reader.getNPCsDialogueAdds(this.name);
+		this.stats = fileRW.reader.getNPCsStats(this.name, false);
+		this.combatAbilities = fileRW.reader.getNPCsCombatStats(this.name, false);
+		this.locToDialogueAdd = fileRW.reader.getNPCsDialogueAdds(this.name, false);
 		// if not DESCRIPTION
 		if (idNum != 9999) {
 			String bookFolder = "";

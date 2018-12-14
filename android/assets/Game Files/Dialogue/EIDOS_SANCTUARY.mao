@@ -1745,11 +1745,11 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.4000!FENRIR!]
 		||
-		*"What you see, I too from its surface witness: a simple chamber with but three doors. Who can events before awareness know? Not I, at least."*
+		*"What you see, I too from its surface witness. A simple chamber, no more than three doors within. Who can events before awareness know? Not I, at least."*
 		(C#"Three doors? I count only two."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.301!FENRIR!}
 		(D#"Perhaps we can be allies..."){D:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.401!FENRIR!}
 		(E#"How are you involved in my captivity?"){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.501!FENRIR!}
-	[KABU!SANCTUARY!AWAKENING CHAMBER!0.4001!FENRIR!/]
+	[KABU!SANCTUARY!AWAKENING CHAMBER!0.4000!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.500!FENRIR!]
 		||
