@@ -16,13 +16,13 @@ BIRACUL
 EIDOS
 	[/MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!]
 		||
-		*"If time is but a loop, repeated ad nauseum, chipping away at the incorporeal; if time records events destined and unchanged in perpetuity; if time cannot begin, pause or end, why then burden oneself with the weight of being?
+		*"They claimed Time was but a loop, repeated ad nauseum, chipping away at the incorporeal, recording events destined and unchanged in perpetuity...
 		
 		No. Time is not thus! It is as the Spiral! The illusion of circularity, repetition, and cycles all arise by but a lack of proper perspective! The Spiral from above seems but a circle. Yet from the side it undulates, wrapping itself around a void pillar. Be the Spiral deep enough, it metamorphoses into concentric circles and recedes into a Singularity.
 		
-		Knowing this we ask:  What further truths then do other dimensions obscure? What other angles would grant us a fuller view?
+		This truth, hidden in plain sight, in the dimension beyond the plane... What then do other dimensions obscure? What other angles would grant us a fuller view?
 		
-		We will no longer be caught in false circles! We will no longer be fooled by the limitation of or vision! For what the eye cannot see, the light of intellect will illuminate. We will extricate orselves from the illusory loop and take or place among the Gods!"
+		No longer will we be caught in false circles! No longer can we be fooled by the limitation of or vision! For what the eye cannot see, the light of intellect will illuminate. We will extricate orselves from the illusory loop and take or place among the Gods!"
 		
 		Mind of the Spiral, Vol. I*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!}

@@ -1171,7 +1171,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.2021!LOGIRA!]
 		||
-		*"Moreover, his mental defences are much stronger than the other magi of the region, leaving his plans as inscrutable as even the Pariah."*
+		*"Moreover, his mental defences are much stronger than the other magi of the region, leaving his plans as inscrutable as even the Unseen."*
 		(A#"Is there no one he will answer to?"){A:1,KABU!DAWN FORTRESS!ARCHIVES!1.103!LOGIRA!}
 		(B#"Why is Khlutt like this?"){B:1,KABU!DAWN FORTRESS!ARCHIVES!1.103!LOGIRA!}
 		(D#"How can I become a master of such power?"){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.403!LOGIRA!}
@@ -1185,7 +1185,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.4020!LOGIRA!]
 		||
-		*"Moreover, his mental defences are much stronger than the other magi of the region, leaving his inner thoughts as inscrutable as even the Pariah."*
+		*"Moreover, his mental defences are much stronger than the other magi of the region, leaving his inner thoughts as inscrutable as even the Unseen."*
 		(B#"Why is Khlutt like this?"){B:1,KABU!DAWN FORTRESS!ARCHIVES!1.103!LOGIRA!}
 		(D#"Such power! How did he master these skills?"){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.403!LOGIRA!}
 		(E#"If you had courage, you would challenge Khlutt."){E:1,KABU!DAWN FORTRESS!ARCHIVES!1.503!LOGIRA!}		
@@ -2245,7 +2245,7 @@ Approaching caverns from Archives
 
 __________________________________
 COURTYARD
->>>Deemed as Pariah and exiled (20004)<<<
+>>>Deemed as Unseen and exiled (20004)<<<
 >>>Came w/ Assala (20003)<<<
 >>>Helped the guards catch Dysmas (13115)<<<
 	>>>Met Heyar (15005)<<<
@@ -2596,14 +2596,14 @@ trial stuff
 	[KABU!DAWN FORTRESS!COURTYARD!94.000!DESCRIPTION!/]
 
 
-Deemed as Pariah and exiled
+Deemed as Unseen and exiled
 	[/KABU!DAWN FORTRESS!COURTYARD!100.X000!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!COURTYARD!100.001!DESCRIPTION!|
 		*A sudden rush of radiance flooding Eidos' eyes suggests that the burlap sack covering her head has been indelicately removed.*
 		
 		*Tears drown out all images as her eyes adjust to the biting brightness of the desert sun. Blurry forms sharpen and before long Eidos can see once more.*
 		
-		*Before her stands a stately old mage who seems to be more preoccupied with affairs of an urgency beyond any trouble Eidos could possibly bring him. After a several minutes, the old mage, muscular and spry despite the innumerable summers he has seen pass, turns to look at the unclean natural Pariah his people have brought before him.*
+		*Before her stands a stately old mage who seems to be more preoccupied with affairs of an urgency beyond any trouble Eidos could possibly bring him. After a several minutes, the old mage, muscular and spry despite the innumerable summers he has seen pass, turns to look at the unclean natural pariah his people have brought before him.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0014!DESCRIPTION!}		
 	[KABU!DAWN FORTRESS!COURTYARD!100.X000!DESCRIPTION!/]
 	
@@ -3097,7 +3097,7 @@ HEYAR
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!90.0012!HEYAR!]
 		||
-		*"In fact, he was given the highest form of punishment: the brand of the Inscrutable..."*
+		*"In fact, he was given the highest form of punishment: the brand of the Unseen..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.0013!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.0012!HEYAR!/]
 	
@@ -3612,7 +3612,7 @@ HEYAR
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!91.0013!HEYAR!]
 		||
-		*"He was given the highest form of punishment: the curse of the Inscrutable..."*
+		*"He was given the highest form of punishment: the curse of the Unseen..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!91.0014!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!91.0013!HEYAR!/]
 	
@@ -3965,7 +3965,7 @@ ISSAM
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!0.1011!ISSAM!]
 		||
-		*"After all, better to die of thirst than to be rent apart by the draugnir, or eaten alive by the cursed Pariah."*
+		*"After all, better to die of thirst than to be rent apart by the draugnir, or eaten alive by the cursed Unseen."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!0.X1012!ISSAM!}
 	[KABU!DAWN FORTRESS!COURTYARD!0.1011!ISSAM!/]
 	
@@ -4099,7 +4099,7 @@ ISSAM
 	
 
 KHLUTT
->>>Deemed as Pariah and exiled (20004)<<<
+>>>Deemed as Unseen and exiled (20004)<<<
 >>>used hidden mind, but did wellspring stuff (15009)<<<
 >>>came w/ Assala (20003)<<<
 	[/KABU!DAWN FORTRESS!COURTYARD!0.X000!KHLUTT!]
@@ -4380,7 +4380,7 @@ have hidden mind, but did wellspring stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.100!KHLUTT!]
 		||
-		*"Then she is as the stained Pariah?!"*
+		*"Then she is stained!? Stained as the Unseen!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.101!KHLUTT!}	
 	[KABU!DAWN FORTRESS!COURTYARD!96.100!KHLUTT!/]
 	
@@ -4433,7 +4433,7 @@ have hidden mind, but did wellspring stuff
 	[KABU!DAWN FORTRESS!COURTYARD!96.108!KHLUTT!/]	
 
 	
-kicked out as pariah from other township
+kicked out as Unseen from other township
 	[/KABU!DAWN FORTRESS!COURTYARD!100.000!KHLUTT!]
 		||
 		*"Even in our darkest hour, on the very brink of thrist, those fools still see it fit to send me their criminals..."*
@@ -4631,7 +4631,7 @@ LOGIRA
 have hidden mind
 	[/KABU!DAWN FORTRESS!COURTYARD!95.000!LOGIRA!]
 		||
-		*"...Her mind... it's inscrutable!"*
+		*"...Her mind... it's inscrutable..!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!95.001!LOGIRA!}
 	[KABU!DAWN FORTRESS!COURTYARD!95.000!LOGIRA!/]
 	
@@ -5653,7 +5653,7 @@ Have an agreement w Khaa
 have hidden mind
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!10.000!KHLUTT!]
 		||
-		*"Your mind is stained! You Pariah scum!"*
+		*"Your mind is stained! You Unseen scum!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!10.001!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!10.000!KHLUTT!/]
 	
@@ -6856,7 +6856,7 @@ YARMAK
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.X1013!YARMAK!]
 		|@:KABU!DAWN FORTRESS!PROVING GROUNDS!0.899!YARMAK!|
-		*"And hopefully they'll not rise again like the draugnir from the Pariah.."*
+		*"And hopefully they'll not rise again like the draugnir from the Unseen.."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9999.X9999!YARMAK!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.X1013!YARMAK!/]
 	
@@ -6868,7 +6868,7 @@ YARMAK
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.2010!YARMAK!]
 		||
-		*"We've yet to uncover their origins, but it is whispered that they're fallen Pariah, risen from the Black Pit and come to take their vengeance upon the living."*
+		*"We've yet to uncover their origins, but it is whispered that they're fallen Unseen, risen from the Black Pit and come to take their vengeance upon the living."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.2011!YARMAK!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.2010!YARMAK!/]
 

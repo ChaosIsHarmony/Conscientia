@@ -956,7 +956,7 @@ PERSONALITY ANALYSIS
 
 	[/MIND!NETHER EDGE!GARDEN!1.1570!NARGUND!]
 		||
-		*"Special? All but the Inscrutables are capable of learning such 'special' abilities. Besides, power is meaningless without the knowledge of how to wield it - even the sword you wield is a mystery to you."*
+		*"Special? All but the Unseen are capable of learning such 'special' abilities. Besides, power is meaningless without the knowledge of how to wield it - even the sword you wield is a mystery to you."*
 		(A#"..."){A:0,MIND!NETHER EDGE!GARDEN!1.15700!NARGUND!}
 	[MIND!NETHER EDGE!GARDEN!1.1570!NARGUND!/]
 
@@ -968,13 +968,13 @@ PERSONALITY ANALYSIS
 
 	[/MIND!NETHER EDGE!GARDEN!1.1571!NARGUND!]
 		||
-		*"Special? All but the Inscrutables are capable of learning such 'special' abilities. Besides, power is meaningless without the knowledge of how to wield it. Even your armor is a mystery to you."*
+		*"Special? All but the Unseen are capable of learning such 'special' abilities. Besides, power is meaningless without the knowledge of how to wield it. Even your armor is a mystery to you."*
 		(A#"..."){A:0,MIND!NETHER EDGE!GARDEN!1.15700!NARGUND!}
 	[MIND!NETHER EDGE!GARDEN!1.1571!NARGUND!/]
 
 	[/MIND!NETHER EDGE!GARDEN!1.1572!NARGUND!]
 		||
-		*"Special? All but the Inscrutables are capable of learning such 'special' abilities. Besides, power is meaningless without the knowledge of how to wield it - and you are far from powerful at the moment in any case."*
+		*"Special? All but the Unseen are capable of learning such 'special' abilities. Besides, power is meaningless without the knowledge of how to wield it - and you are far from powerful at the moment in any case."*
 		(A#"..."){A:0,MIND!NETHER EDGE!GARDEN!1.15720!NARGUND!}
 	[MIND!NETHER EDGE!GARDEN!1.1572!NARGUND!/]
 

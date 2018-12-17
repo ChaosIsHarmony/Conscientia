@@ -1559,7 +1559,7 @@ ISLE OF THE WYRM
 Jer Memory
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!DESCRIPTION!]
 		||
-		*And to Jer my Self returns. Though the memory of arriving once more eludes me. Clear it is now that we crawl through the waves as the oarsman directs our craft into the impregnable fog - so white as to be the perfect inversion of the Void whence my Trueflesh came.*
+		*And to Jer my Self returns. Though the memory of arriving once more eludes me. Clear it is now that we crawl through the waves as the oarsman directs our craft into the impregnable fog - so white, so pure, the perfect inversion of the Void.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!DESCRIPTION!/]
 	
@@ -2086,7 +2086,7 @@ _____________________________________
 TEMPLE OF THE VOICE
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!]
 		||
-		*Sometimes memories are clear as a mountain spring - most so when they are utterly revolting.*
+		*Sometimes memories are clear as a mountain spring. Most so, it seems, when they scar the mind, like some vile Thiudan brand, etching its taint upon our very core...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!/]
 

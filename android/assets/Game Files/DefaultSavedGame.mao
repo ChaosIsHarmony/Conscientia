@@ -572,7 +572,7 @@ wasteland + urruk
 |16013:false, Seen Ormenos' Altar (per)
 |16014:false, Came from tower of wisdom
 |16015:false, Spoke w/ Ark
-|16016:false, Spoke w/ Pariah twins
+|16016:false, Spoke w/ Unseen twins
 |16017:false, Refused entry into Ur'Ruk
 |16018:false, Opened tower
 |16019:false, Killed Drauglord Ormenos (per)
@@ -663,7 +663,7 @@ wildcards
 |20001:false, Tacribian invasion moon tower version
 |20002:false, Revive Duchalion
 |20003:false, Assala takes you to Dawn Fortress
-|20004:false, Deemed as Pariah and exiled
+|20004:false, Deemed as Unseen and exiled
 |20005:false, Tacribian invasion star bridge version
 |20006:false, Exiled to the Wasteland after opening star bridge
 

@@ -4,7 +4,7 @@
     android:versionCode="71"
     android:versionName="2.21" >
 
-    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="26" />
+    <uses-sdk android:targetSdkVersion="26" />
 
     <application
         android:allowBackup="true"

@@ -1365,7 +1365,7 @@ COOK DING
 	
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01100!COOK DING!]
 		||
-		*"Ma mind was changed to the Pariah mind! And into the was'es they exiled me!"*
+		*"Ma mind was changed to the Unseen mind! And into the was'es they exiled me!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01101!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01100!COOK DING!/]
 	

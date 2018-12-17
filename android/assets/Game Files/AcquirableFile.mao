@@ -106,7 +106,7 @@ _________GLYPHS_________
 	$Glyphs/Occult Glyph.png$
 	#The Glyph of the Occult, etched by Ormenos of Thanenheim into the Trueflesh of its bearers, this Glyph aids in concealing one's presence from the Eyes with the Techne of Hidden Mind. However, its function can only be manifested through conscious action. If one attempts to seek the company of others, the Glyph will have no effect.
 	
-	The product of Ormenos' sojourn into the Wasteland, he sought to emulate the inscrutable nature of the Pariah banished to the Lost City. Though this Glyph only represents a partial success, perhaps it might yet be perfected...#
+	The product of Ormenos' sojourn into the Wasteland, he sought to emulate the inscrutable nature of the Unseen banished to the Lost City. Though this Glyph only represents a partial success, perhaps it might yet be perfected...#
 [8/]
 
 [/9]
@@ -248,7 +248,7 @@ _________TOMES_________
 	
 	First, be the Arclights, women said to have lain with the Vanquished and cursed to servitude by them. These creatures will only obey the commands of those carrying the Glyph of Wulfias. This Glyph has been entrusted to the magi of Dazir, making of us masters of the Wellspring since our ancestors conquered it from the Heathen. However, care must be taken when holding or moving the shards that serve as their prisons, given that the Trueflesh of the Arclights within will burn even those loved by Biracul until they stand by his side within the Eye.
 	
-	The glory of the New Work is attested in what we have learned from the Neverborn unearthed from the excavation. These spawn of Famlicus are crafted in the avian form of their progenitor, with the beak of a hawk, taloned feet and clawed hands. Kushkucu has failed in his attempts to perceive their minds, though it may be that the Ruby Jinn has bestowed them with the gift of the Occult Mind of the loathsome Pariah. Thus, I fear these beings will not respond to the Glyph of Wulfias.
+	The glory of the New Work is attested in what we have learned from the Neverborn unearthed from the excavation. These spawn of Famlicus are crafted in the avian form of their progenitor, with the beak of a hawk, taloned feet and clawed hands. Kushkucu has failed in his attempts to perceive their minds, though it may be that the Ruby Jinn has bestowed them with the gift of the Occult Mind of the loathsome Unseen. Thus, I fear these beings will not respond to the Glyph of Wulfias.
 	
 	They bear a resemblance to the idols that are housed within the accursed temple. As, the wisdom of Khaa has unearthed this evil, I beg for his wisdom in guiding us in how to proceed with this new Awareness. I only pray that our people have not been watched with the smouldering eyes of the Enemy all these long years.#
 [54/]
@@ -355,7 +355,7 @@ _________TOMES_________
 	$Tomes/Tome.jpg$
 	#	Before retreat, I a confession leave for the daughter of Biracul. I her warn of the deception and conniving, but more than this, the danger of Kaban politics. I, Thetian, a mage freed from Enclave restrictions by the grace of Biracul himself, confess.
 	
-	Ormenos, as master led me to Kabu in search of Urrugh, ancient site of legend. I to aid him in research as he traversed the Wastes came, but the effects of the wraithglow nearly of my agency robbed me. Had the Tacribian rangers not returned me to the healers, I one of the foul abominations corrupting the Stilled Sand Crater would have become. Thus, I in Dazir with Brother Entropy Stayer remained... with Kambesh. Ormenos from the Wastes returned and was changed in purpose - frightened, desperate, raving! He human subjects demanded for some perverse venture to render the mind unassailable. All eyes now us viewed with suspicion and disgust. My master was to the wastes banished, robbed of Techne, turned Pariah - as only the foulest criminals here are. Yet, Kambesh on me took pity and kept me as mentor to his Librarian, Khaa.
+	Ormenos, as master led me to Kabu in search of Urrugh, ancient site of legend. I to aid him in research as he traversed the Wastes came, but the effects of the wraithglow nearly of my agency robbed me. Had the Tacribian rangers not returned me to the healers, I one of the foul abominations corrupting the Stilled Sand Crater would have become. Thus, I in Dazir with Brother Entropy Stayer remained... with Kambesh. Ormenos from the Wastes returned and was changed in purpose - frightened, desperate, raving! He human subjects demanded for some perverse venture to render the mind unassailable. All eyes now us viewed with suspicion and disgust. My master was to the wastes banished, robbed of Techne, turned Unseen - as only the foulest criminals here are. Yet, Kambesh on me took pity and kept me as mentor to his Librarian, Khaa.
 	
 	Khaa and Tambulan Librarian Pakahron as magi showed great promise, though the latter moreso. I with them shared the secret knowledge of Kambesh: twinned Glyphs of Purification and Corruption. My wish to teach them of the balance the universe desires in creating pairs was, to show how the whole greater than the sum of its parts is. But this their grasp eluded, for they these secrets coveted not for the love of knowledge.
 	

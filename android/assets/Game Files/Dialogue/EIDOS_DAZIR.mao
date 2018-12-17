@@ -1194,7 +1194,7 @@ KHAA
 	
 	[/KABU!DAZIR!ARBORETUM!00.7002!KHAA!]
 		||
-		*"Are you pariah?!"*
+		*"Are you an Unseen?!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!00.7003!KHAA!}
 	[KABU!DAZIR!ARBORETUM!00.7002!KHAA!/]
 	
@@ -2646,7 +2646,7 @@ EGIMEN
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.4010!EGIMEN!]
 		||
-		*"What's more is that their minds cannot be touched by those of the mages, like the branded Pariah - only cure for the draugnir is the destruction of their Falseflesh."*
+		*"What's more is that their minds cannot be touched by those of the mages, like the branded Unseen - only cure for the draugnir is the destruction of their Falseflesh."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!0.1012!EGIMEN!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.4010!EGIMEN!/]
 
@@ -5767,7 +5767,7 @@ killed khaa or pak
 	
 	
 Kicked out
->>>Player deemed pariah and exiled (20004)<<<
+>>>Player deemed Unseen and exiled (20004)<<<
 	[/KABU!DAZIR!GATES OF DAZIR!9.X000!DESCRIPTION!]
 		||
 		*MULTICHECKER*
@@ -5798,7 +5798,7 @@ Kicked out
 		(B#Go south toward the Sanctuary){B:0,KABU!DAZIR!GATES OF DAZIR!9990.X10004!DESCRIPTION!}
 	[KABU!DAZIR!GATES OF DAZIR!9.000!DESCRIPTION!/]
 	
-kicked out as Pariah
+kicked out as Unseen
 	[/KABU!DAZIR!GATES OF DAZIR!10.000!DESCRIPTION!]
 		||
 		*At the gates, the guards bind Eidos' hands behind her back, then covering her head with a burlap sack. She hears whispering townfolk murmur scattered words and phrases.*
@@ -5807,7 +5807,7 @@ kicked out as Pariah
 	
 	[/KABU!DAZIR!GATES OF DAZIR!10.001!DESCRIPTION!]
 		||
-		*"Pariah... Wasteland..."*
+		*"Unseen... Wasteland..."*
 		(A#...){A:0,KABU!DAZIR!GATES OF DAZIR!10.002!DESCRIPTION!}
 	[KABU!DAZIR!GATES OF DAZIR!10.001!DESCRIPTION!/]
 	
@@ -9112,7 +9112,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.300!BEHIYE!]
 		||
-		*"Ha! Perhaps it isn't... that is, if you intend to live out in the Wasteland like a Pariah!"*
+		*"Ha! Perhaps it isn't... that is, if you intend to live out in the Wasteland like a jinn-licking Unseen! Pardon the curse."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.3000!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.300!BEHIYE!/]
 	
@@ -9717,7 +9717,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.1001!CETIN!]
 		||
-		*"Those who transgress the laws of Biracul - who violate the peace of the One! - are blinded to the Eye, untouchable by the Technocrafts; they are pariah to us, lacking in Trueflesh, blind even when basking the light of Awareness."*
+		*"Those who transgress the laws of Biracul - who violate the peace of the One! - are blinded to the Eye, untouchable by the Technocrafts. Those Unseen to the Eye are pariah, lacking in Trueflesh, blind even when basking the light of Awareness."*
 		(A#"What becomes of such people?"){A:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.101!CETIN!}
 		(B#"How is it that some minds are resistant to Techne?"){B:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.201!CETIN!}
 		(E#"You're a cowardly township indeed, to see enemies at every turn."){E:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.501!CETIN!}
@@ -9739,13 +9739,13 @@ CETIN
 
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.300!CETIN!]
 		||
-		*"Indeed, he did. You could have been an Inscrutable!"*
+		*"Indeed, he did. You could have been one of the Unseen!"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.3000!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.300!CETIN!/]
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.3000!CETIN!]
 		||
-		*"Surely you know of the accursed pariah, whose warped minds cannot be subjected to the mystic eye of magesight?"*
+		*"Surely you know of the accursed Unseen, whose warped minds cannot be subjected to the mystic eye of magesight?"*
 		(B#"Not entirely. How is it that some minds are resistant to Techne?"){B:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.201!CETIN!}
 		(C#"I know of them now."){C:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.301!CETIN!}
 		(D#"Of course I know of them, and despise them as much as you..."){D:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.401!CETIN!}
@@ -9759,7 +9759,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.4000!CETIN!]
 		||
-		*"It's far more likely he wished to ensure that you were no jinn-cursed Pariah come to escape punishment - or else, a jinnspawn of Rikharr come to slay us with his mind-venom!"*
+		*"It's far more likely he wished to ensure that you were no jinn-cursed Unseen come to escape punishment - or else, a jinnspawn of Rikharr come to slay us with his mind-venom!"*
 		(C#"Perhaps it's as you say."){C:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.301!CETIN!}	
 		(D#"You wrong me to say that I'm anything akin to those freaks!"){D:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.401!CETIN!}
 		(E#"You're a paranoid township indeed, to see enemies at every turn."){E:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.501!CETIN!}
@@ -9773,7 +9773,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.5000!CETIN!]
 		||
-		*"In fact, it would concern all of us if you walked among us as one of the accursed Inscrutables."*
+		*"In fact, it would concern all of us if you walked among us as one of the accursed Unseen."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.5001!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.5000!CETIN!/]
 	
@@ -9800,7 +9800,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.101!CETIN!]
 		||
-		*"The Inscrutables are criminals, murderers and other such enemies of civilization."*
+		*"The Unseen are criminals, murderers and other such enemies of civilization."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.1010!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.101!CETIN!/]
 	
@@ -9830,13 +9830,13 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.2011!CETIN!]
 		||
-		*"But civilization will always have enemies, enemies such as the Inscrutables who cannot live within society!"*
+		*"But civilization will always have enemies, enemies such as the Unseen who cannot live within society!"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.X2012!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.2011!CETIN!/]
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.X2012!CETIN!]
 		|@:KABU!DAZIR!WORKSHOP EXTERIOR!0.X102!CETIN!|
-		*"No, Only gods and monsters can live outside of the city, and the Inscrutables are no gods!"*
+		*"No, Only gods and monsters can live outside of the city, and the Unseen are no gods!"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!9999.X9999!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.X2012!CETIN!/]
 	
@@ -9848,7 +9848,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.X3010!CETIN!]
 		|@:KABU!DAZIR!WORKSHOP EXTERIOR!0.402!CETIN!|
-		*"Any you meet that cannot be touched by magesight are Inscrutable and are best avoided... or destroyed."*
+		*"Any you meet that cannot be touched by magesight are Unseen and are best avoided... or destroyed."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!9999.X9999!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.X3010!CETIN!/]
 	
@@ -9890,7 +9890,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.X5012!CETIN!]
 		|@:KABU!DAZIR!WORKSHOP EXTERIOR!0.X502!CETIN!|
-		*"Be on your guard against the Inscrutables, foreigner."*
+		*"Be on your guard against the Unseen, foreigner."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!9999.X9999!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.X5012!CETIN!/]
 
@@ -9915,13 +9915,13 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.X102!CETIN!]
 		|@:KABU!DAZIR!WORKSHOP EXTERIOR!1.000!CETIN!|
-		*"Keep an eye out for potential Inscrutables, foreigner; and stay far away from the Wastelands east of the Dawn Fortress, lest you run into the draugified Inscrutables!"*
+		*"Keep an eye out for potential Unseen, foreigner; and stay far away from the Wastelands east of the Dawn Fortress, lest you run into the only thing worse than an Unseen! A draugified Unseen!"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!9999.X9999!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.X102!CETIN!/]
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.402!CETIN!]
 		||
-		*"Keep an eye out for potential Inscrutables, foreigner!"*
+		*"Keep an eye out for potential Unseen, foreigner!"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.X4020!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.402!CETIN!/]
 	
@@ -9933,7 +9933,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.X502!CETIN!]
 		|@:KABU!DAZIR!WORKSHOP EXTERIOR!1.000!CETIN!|
-		*"You've already been warned about the Inscrutables, now off you go."*
+		*"You've already been warned about the Unseen, now off you go."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!9999.X9999!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.X502!CETIN!/]
 	
@@ -10312,7 +10312,7 @@ EVENT WRITERS
 	
 	[/KABU!DAZIR!ARBORETUM!9990.X20004!KHAA!]
 		|20004:KABU!DAZIR!ARBORETUM!9990.X10103-1!KHAA!|
-		*EVENT WRITER - Deemed as Pariah and exiled*
+		*EVENT WRITER - Deemed as Unseen and exiled*
 		(A#WRITER){A:0,NO ADDRESS}		
 	[KABU!DAZIR!ARBORETUM!9990.X20004!KHAA!/]
 

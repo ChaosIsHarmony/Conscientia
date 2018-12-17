@@ -238,6 +238,8 @@ public class Reader {
 		}
 
 		// trims to relevant NPC as determined by id
+		// TODO crashes, throwing NullPointerException
+		// id? NPCFile?
 		String tempStats = fileMan.NPCFile.substring(fileMan.NPCFile.indexOf("[/" + id + "]"),
 				fileMan.NPCFile.indexOf("[" + id + "/]"));
 		// trims only to stats array in file

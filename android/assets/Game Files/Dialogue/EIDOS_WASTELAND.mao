@@ -262,7 +262,7 @@ killed heyar
 
 
 ADARIK
->>>Deemed as Pariah and exiled<<<
+>>>Deemed as Unseen and exiled<<<
 	[/KABU!WASTELAND!ARK'S BEACON!0.X000!ADARIK!]
 		|^20004:KABU!WASTELAND!ARK'S BEACON!10.000!ADARIK!|
 		*"You're an odd one, aren't you? No one 'cept a Tacribian would pass through the Dawn Gate willingly..."*
@@ -559,7 +559,7 @@ ADARIK
 
 	[/KABU!WASTELAND!ARK'S BEACON!10.000!ADARIK!]
 		||
-		*"So you're the natural-born Inscrutable..."*
+		*"So you're the natural-born Unseen..."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!10.001!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!10.000!ADARIK!/]
 
@@ -2228,7 +2228,7 @@ HEYAR
 KARRA
 	[/KABU!WASTELAND!CRESCENT CANYON!0.000!KARRA!]
 		||
-		*"The Waste is but a path and I am a mere traveler on that path! I'll not fear the pariah of the Waste for their deaths brin' glory to the brothers of Biracul!"*
+		*"The Waste is but a path and I am a mere traveler on that path! I'll not fear the Unseen of the Waste for their deaths brin' glory to the brothers of Biracul!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.0000!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.000!KARRA!/]
 
@@ -2269,7 +2269,7 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.100!KARRA!]
 		||
-		*"Hmmm? Unless you be the Jinnwraith reborn, I think you no draugnir. Does a pariah stand before me as yet untaken by the breath of nightmare?"*
+		*"Hmmm? Unless you be the Jinnwraith reborn, I think you no draugnir. Does an Unseen stand before me as yet untaken by the breath of nightmare?"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.1000!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.100!KARRA!/]
 
@@ -2311,7 +2311,7 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.400!KARRA!]
 		||
-		*"Hmmm? Unless you be the Jinnwraith reborn, I think you no draugnir. Does a pariah stand before me as yet untaken by the breath of nightmare?"*
+		*"Hmmm? Unless you be the Jinnwraith reborn, I think you no draugnir. Does an Unseen stand before me as yet untaken by the breath of nightmare?"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.4000!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.400!KARRA!/]
 
@@ -2325,7 +2325,7 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.500!KARRA!]
 		||
-		*"Hmmm? Unless you be the Jinnwraith reborn, I think you no draugnir. Does a pariah stand before me as yet untaken by the breath of nightmare?"*
+		*"Hmmm? Unless you be the Jinnwraith reborn, I think you no draugnir. Does an Unseen stand before me as yet untaken by the breath of nightmare?"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.5000!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.500!KARRA!/]
 
@@ -2339,7 +2339,7 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.600!KARRA!]
 		||
-		*"Hmmm? Unless you be the Jinnwraith reborn, I think you no draugnir. Does a pariah stand before me as yet untaken by the breath of nightmare?"*
+		*"Hmmm? Unless you be the Jinnwraith reborn, I think you no draugnir. Does an Unseen stand before me as yet untaken by the breath of nightmare?"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.6000!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.600!KARRA!/]
 

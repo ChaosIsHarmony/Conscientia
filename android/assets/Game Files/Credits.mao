@@ -219,8 +219,8 @@ OpenGameArt.org
 
 
 
-"All ends only when the will to continue
- wanes. 'Will' simply sees an end as
+"All stops only when the will to continue
+ wanes. Yes, 'will' sees an end simply as
  a new beginning. But what lies beyond
  this tireless loop?"
 

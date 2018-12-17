@@ -1318,7 +1318,7 @@ mathelian
 	
 	To Eidos' dismay, Luin's impenetrable shield cannot keep her brain from getting concussed repeatedly. Eventually, her optic nerve severs and the pain from all the blunt force trauma only disappears as her ghost escapes her falseflesh.3*
 	*14:
-	Eidos calls the Glyph of Corruption to mind, but she cannot direct it towards their trueflesh. Then memory of the fact that draug and Pariah are immune to the effects of Techne hits her along with the first blows of the Valvorthr. 
+	Eidos calls the Glyph of Corruption to mind, but she cannot direct it towards their trueflesh. Then memory of the fact that draug and Unseen are immune to the effects of Techne hits her along with the first blows of the Valvorthr. 
 	
 	They do not stop beating her until her brain is a mushy pulp incapable of sustaining consciousness, upon which Eidos' ghost departs from her falseflesh.14*
 	@
@@ -1340,7 +1340,7 @@ valvorthr
 	
 	To Eidos' dismay, Luin's impenetrable shield cannot keep her brain from getting concussed repeatedly. Eventually, her optic nerve severs and the pain from all the blunt force trauma only disappears as her ghost escapes her falseflesh.3*
 	*14:
-	Eidos calls the Glyph of Corruption to mind, but she cannot direct it towards their trueflesh. Then memory of the fact that draug and Pariah are immune to the effects of Techne hits her along with the first blows of the Valvorthr. 
+	Eidos calls the Glyph of Corruption to mind, but she cannot direct it towards their trueflesh. Then memory of the fact that draug and Unseen are immune to the effects of Techne hits her along with the first blows of the Valvorthr. 
 	
 	They do not stop beating her until her brain is a mushy pulp incapable of sustaining consciousness, upon which Eidos' ghost departs from her falseflesh.14*
 	@
@@ -1363,7 +1363,7 @@ kaleko
 [/601]
 	*--impossible to kill--*
 	@
-	As Eidos steps forward to menace the filthy, ancient savage, the others move to defend Kaleko. Despite Eidos' fury, she can do nothing to combat the combined will of the many pariah that descend upon her. 
+	As Eidos steps forward to menace the filthy, ancient savage, the others move to defend Kaleko. Despite Eidos' fury, she can do nothing to combat the combined will of the many Unseen that descend upon her. 
 	
 	As a cohesive unit, they restrain her with shoddy nets.@
 [601/]
@@ -1372,7 +1372,7 @@ egimesh
 [/602]
 	*--impossible to kill--*
 	@
-	As Eidos steps forward to menace the filthy, ancient savage, the others move to defend Egimesh. Despite Eidos' fury, she can do nothing to combat the combined will of the many pariah that descend upon her. 
+	As Eidos steps forward to menace the filthy, ancient savage, the others move to defend Egimesh. Despite Eidos' fury, she can do nothing to combat the combined will of the many Unseen that descend upon her. 
 	
 	As a cohesive unit, they restrain her with shoddy nets.@
 [602/]
@@ -1381,7 +1381,7 @@ arkash
 [/603]
 	*--impossible to kill--*
 	@
-	As Eidos steps forward to menace the filthy youth, the others move to defend Arkash. Despite Eidos' fury, she can do nothing to combat the combined will of the many pariah that descend upon her. 
+	As Eidos steps forward to menace the filthy youth, the others move to defend Arkash. Despite Eidos' fury, she can do nothing to combat the combined will of the many Unseen that descend upon her. 
 	
 	As a cohesive unit, they restrain her with shoddy nets.@
 [603/]
@@ -1390,7 +1390,7 @@ birarkul
 [/604]
 	*--impossible to kill--*
 	@
-	As Eidos steps forward to menace the filthy youth, the others move to defend Birarkul. Despite Eidos' fury, she can do nothing to combat the combined will of the many pariah that descend upon her. 
+	As Eidos steps forward to menace the filthy youth, the others move to defend Birarkul. Despite Eidos' fury, she can do nothing to combat the combined will of the many Unseen that descend upon her. 
 	
 	As a cohesive unit, they restrain her with shoddy nets.@
 [604/]
@@ -1401,7 +1401,7 @@ radan
 	@
 	As Eidos steps forward to menace the filthy, old savage, he regretfully accepts his fate. Onlookers gather to watch as Eidos beats the old man to death, slamming his head against the emerald font. The eyes that look upon the scene the deadened He seems to have had no friends among the people here.
 	
-	Then at Hazanna's command, the others move to detain Eidos for her unwarranted murder. Despite Eidos' fury, she can do nothing to combat the combined will of the many pariah that descend upon her. 
+	Then at Hazanna's command, the others move to detain Eidos for her unwarranted murder. Despite Eidos' fury, she can do nothing to combat the combined will of the many Unseen that descend upon her. 
 	
 	As a cohesive unit, they restrain her with shoddy nets.@
 [605/]

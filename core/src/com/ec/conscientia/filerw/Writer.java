@@ -865,6 +865,8 @@ public class Writer {
 		start = mapString.indexOf("(" + broaderAreaName, start);
 		start = mapString.indexOf(",", mapString.indexOf(",", start) + 1) + 1;
 		int end = mapString.indexOf(",", start);
+		// TODO crashes, throwing IndexOutOfBoundsException
+		// start < 0 || end > mapString.length || end < start
 		if (!Boolean.parseBoolean(mapString.substring(start, end)))
 			mapString = mapString.substring(0, start) + "true" + mapString.substring(end);
 		// isolate specific area

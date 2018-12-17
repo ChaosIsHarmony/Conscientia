@@ -1364,7 +1364,7 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1131!RADAN!]
 		||
-		*"But our transformation as pariah was absolute and rendered us invisible to their magesight."*
+		*"But our transformation as Unseen was absolute and rendered us invisible to their magesight."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.114!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1131!RADAN!/]
 
@@ -1420,7 +1420,7 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.116!RADAN!]
 		||
-		*"But since that day, none here have had ears nor eyes for old Radan; I'm just a pariah among pariah."*
+		*"But since that day, none here have had ears nor eyes for old Radan. I'm just a pariah, even among pariah."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1160!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.116!RADAN!/]
 
@@ -1895,7 +1895,7 @@ EGIMESH
 
 	[/KABU!UR'RUK!GREENHOUSE!0.103!EGIMESH!]
 		||
-		*"Those of us who stood against Pakahron and Khaa - on account of their inexperience, ya see - were then cast away as dissidents and Inscrutables!"*
+		*"Those of us who stood against Pakahron and Khaa - on account of their inexperience, ya see - were then cast away as dissidents and Unseen!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.1030!EGIMESH!}
 	[KABU!UR'RUK!GREENHOUSE!0.103!EGIMESH!/]
 
@@ -2332,7 +2332,7 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.2010!NAKARA!]
 		||
-		*"If you succumb to the jinn's embrace, you'll become as the pariah Radan. Many of the others blame him and shun him from our fellowship and family."* 
+		*"If you succumb to the jinn's embrace, you'll become as the pariah, Radan. Many of the others blame him and shun him from our fellowship and family."* 
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.2011!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.2010!NAKARA!/]
 
@@ -2422,7 +2422,7 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!2.011!NAKARA!]
 		||
-		*"Gapa came to me recently and told me that you're spreading dissension among the Inscrutables against Hazanna."* 
+		*"Gapa came to me recently and told me that you're spreading dissension among the Unseen against Hazanna."* 
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!2.012!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!2.011!NAKARA!/]
 
@@ -3633,7 +3633,7 @@ MAGDA
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.200!MAGDA!]
 		||
-		*"We Inscrutables don't have our deeds berne upon the Wheel of Thought, like most do - not e'en the jinns know of our passin' anymer!"*
+		*"We Unseen don't have our deeds borne upon the Wheel of Thought, like most do - not e'en the jinns know of our passin' anymer!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.2000!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.200!MAGDA!/]
 
@@ -3658,7 +3658,7 @@ MAGDA
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.4000!MAGDA!]
 		||
-		*"'Cause we Inscrutables don't have our deeds berne upon the Wheel of Thought, like most do - not e'en the jinns know of our passin' anymer!"*
+		*"'Cause we Unseen don't have our deeds borne upon the Wheel of Thought, like most do - not e'en the jinns know of our passin' anymer!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.4001!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.4000!MAGDA!/]
 
@@ -4803,7 +4803,7 @@ STONE CIRCLE
 
 	[/KABU!UR'RUK!STONE CIRCLE!7.X001!DESCRIPTION!]
 		||
-		*Their shame shared and self-loathing reaffirmed, the Inscrutables file out of the Stone Circle, meek as ever. All return to the dismal task of living because another commands it so, each fighting harder than the last to hold on to the fantasy of the Form, of Aizos.*
+		*Their shame shared and self-loathing reaffirmed, the Unseen file out of the Stone Circle, meek as ever. All return to the dismal task of living because another commands it so, each fighting harder than the last to hold on to the fantasy of the Form, of Aizos.*
 		(A#Leave){A:0,KABU!UR'RUK!STONE CIRCLE!0.001!DESCRIPTION!}
 		(B#Examine the stones){B:0,KABU!UR'RUK!STONE CIRCLE!0.X002!DESCRIPTION!}
 	[KABU!UR'RUK!STONE CIRCLE!7.X001!DESCRIPTION!/]
@@ -5908,7 +5908,7 @@ EVENT WRITER
 	
 	[/KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!]
 		|16016:KABU!UR'RUK!LIVING QUARTERS!9999.X9999!ARKASH!|
-		*EVENT WRITER - Spoke with Pariah twins*
+		*EVENT WRITER - Spoke with Unseen twins*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!/]	
 

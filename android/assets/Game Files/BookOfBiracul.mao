@@ -23,7 +23,7 @@ and shadows disappear..."
 
 [/3]
 "You are not my subjects, nor I your 
-master; you are the very heart that 
+master. You are the very heart that 
 gives my life-blood motion."
 
 - The Biraculian Verses: S 1-1
@@ -95,33 +95,33 @@ heed not the whistles of man."
 
 [/11]
 "The Falseflesh is weak, subject to change 
-and decay; but the Trueflesh can never be 
-undone."
+and decay. The True, though, is as imperishable 
+as the One, for of the One it is."
 
 - The Biraculian Verses: I 0-0
 [11/]
 
 [/12]
-"Ownership is materiality; materiality,
+"Ownership is materiality, and materiality,
 mere illusion. Be not swayed by the shadows 
-of objects or never will you see the nature 
-within and throughout them."
+of objects, or never will you see the nature 
+within them."
 
 - The Biraculian Verses: S 1-0
 [12/]
 
 [/13]
 "If the eye dislikes the world it sees, 
-is it not easier to lose the eye than the
-whole world? When rains come, turn your scorn
+is it not easier to lose the eye than the 
+world? When rains come, turn your scorn
 from the clouds towards your decaying house!
-All things are as they should be."
+All things are as they should be!"
 
 - The Biraculian Verses: U 0-1
 [13/]
 
 [/14]
-"Though alone you may scale the highest peaks,
+"Though blind you may scale the highest peaks,
 never will you reach the midnight stars!
 Awareness alone is the stairway to Heaven!"
 
@@ -129,9 +129,9 @@ Awareness alone is the stairway to Heaven!"
 [14/]
 
 [/15]
-"May that my daughter give rise to the opening,
-to the Great Awakening! Through her actions all
-is born!"
+"May that my daughter give rise to the Eye's 
+opening! To the Great Awakening! Through her 
+actions all is born!"
 
 - The Biraculian Verses: R 0-0
 [15/]
@@ -139,7 +139,7 @@ is born!"
 [/16]
 "A beast to bind, a beast to grind, 
 and one to decimate the mind.
-Beware the Emerald spawn, daughter!"
+Beware the Emerald spawn, my child!"
 
 - The Biraculian Verses: I 1-0
 [16/]
@@ -161,9 +161,9 @@ by the hubris of Vanquished hands!"
 [18/]
 
 [/19]
-"I have failed you all. In the creation
-of the Ataraxia do I plan to make amends.
-Join with me brothers and sisters, to rebuild
+"I have failed you all. Only in the creation
+of the Ataraxia can I make amends.
+Join with me children! To rebuild
 that which It stole from us!"
 
 - The Biraculian Verses: T 0-0

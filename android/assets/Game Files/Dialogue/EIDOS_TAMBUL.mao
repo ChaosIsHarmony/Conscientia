@@ -1318,7 +1318,7 @@ KALEKI
 
 	[/KABU!TAMBUL!ARCHIVES!2.4001!KALEKI!]
 		||
-		*"Readers are plentiful and all but the Inscrutables can learn to read Glyphs. The only catch is that it sometimes takes decades to learn to read a single Glyph... Shall I proceed?"*
+		*"Readers are plentiful and all but the Unseen can learn to read Glyphs. The only catch is that it sometimes takes decades to learn to read a single Glyph... Shall I proceed?"*
 		(B#"Yes, please."){B:1,KABU!TAMBUL!ARCHIVES!2.4002!KALEKI!}
 		(C#"No, thanks. I'll be on my way."){C:1,KABU!TAMBUL!ARCHIVES!2.300!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!2.4001!KALEKI!/]
@@ -3078,12 +3078,12 @@ NIYOOSH
 	
 	[/KABU!TAMBUL!ATRIUM!0.891!NIYOOSH!]
 		||
-		*"So, you're back! Any information stranger?"*
+		*"So, you're back! Any news from you, stranger?"*
 		(A#"Yes."){A:0,KABU!TAMBUL!ATRIUM!4.X000!NIYOOSH!}
 		(B#"No."){B:0,KABU!TAMBUL!ATRIUM!3.003!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.891!NIYOOSH!/]
 
-NIYOOSH disappears after this?????
+Maybe NIYOOSH should disappear after this?????
 	[/KABU!TAMBUL!ATRIUM!0.892!NIYOOSH!]
 		||
 		*"Now if you'll excuse me, I need to go tell Pakahron about that jinnstruck Tacribian's plans!"*
@@ -3160,7 +3160,7 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!1.0000!NIYOOSH!]
 		||
-		*"Now, tell me, have you been to the Dawn Fortress?"*
+		*"So, tell me, you been to the Dawn Fortress lately?"*
 		(A#"Maybe, I'm not sure."){A:1,KABU!TAMBUL!ATRIUM!1.001!NIYOOSH!}
 		(B#"Yes, I have."){B:1,KABU!TAMBUL!ATRIUM!1.100!NIYOOSH!}
 		(D#"Why do you ask?"){D:1,KABU!TAMBUL!ATRIUM!1.005!NIYOOSH!}
@@ -3168,13 +3168,13 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!1.001!NIYOOSH!]
 		||
-		*"A pity. I'd dearly love to know more of Khlutt's plans..."*
+		*"A pity. I'd dance with a Jinn to know more of Khlutt's plans..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.X000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!1.002!NIYOOSH!]
 		||
-		*"It's the settlement across the canyon to the east of here, past the Moon Tower over yonder."*
+		*"It's the settlement across the Crescent Canyon, past the Moon Tower over yonder."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.0020!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.002!NIYOOSH!/]
 
@@ -3186,7 +3186,7 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!1.004!NIYOOSH!]
 		||
-		*"Oh? What news from the Tacribians?!"*
+		*"Seriously? What news from the Tacribians?!"*
 		(A#"Everything is fine."){A:0,KABU!TAMBUL!ATRIUM!1.0040!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.004!NIYOOSH!/]
 
@@ -3198,32 +3198,32 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!1.0041!NIYOOSH!]
 		||
-		*"It's almost as if they weren't worried about dyin' of thirst from the horrible water crisis or somethin'..."*
+		*"Y'know, it's almost as if they weren't even worried about dyin' of thirst or somethin'..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9.000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.0041!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!1.005!NIYOOSH!]
 		||
-		*"News of this place would be of interest to all, not the least because of recent... unpleasantness."*
+		*"Well, what happens there in the next few days will sculpt the future of Kabu itself. Either they succeed and Dazir falls or the other way around..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.X000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.005!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!1.100!NIYOOSH!]
 		||
-		*"Excellent! Though it's a wonder you made it back here; quite the adventure that must've been!"*
+		*"Seriously?! It's a wonder you even made it back here - quite the adventure that must've been!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.100!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!1.1000!NIYOOSH!]
 		||
-		*"What news of Khlutt and his people?"*
+		*"What news of Khlutt and his people?!"*
 		(A#"Khlutt wants to cross the bridge."){A:1,KABU!TAMBUL!ATRIUM!1.101!NIYOOSH!}
 		(D#"...Khlutt plans not only to raze Dazir, but Tambul as well!"){D:1,KABU!TAMBUL!ATRIUM!1.401!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.1000!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!1.101!NIYOOSH!]
 		||
-		*"Is that so?! I take it you refused to help! Gotta thank you for your prudence, stranger!"*
+		*"You don't say... I take it you refused to help! Gotta thank you for your prudence, stranger!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.101!NIYOOSH!/]
 
@@ -3235,67 +3235,68 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!1.401!NIYOOSH!]
 		||
-		*"Is that so?! Then I should be tellin' our mage-leader about this!"*
+		*"Well, screw me sideways with a toothpick! Pardon the language. I really gotta go tell our mage-leader!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.401!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!1.4010!NIYOOSH!]
 		||
-		*"But first, lemme share somethin' with you - as per our agreement."*
+		*"But first, lemme share somethin' with you - so you don't think me a ruby-tongued deceiver!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.1020!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.4010!NIYOOSH!/]	
 
 	[/KABU!TAMBUL!ATRIUM!1.102!NIYOOSH!]
 		||
-		*"Quangjo of Dazir was seen wanderin' the Valley of Bones a few days ago, but he hasn't been seen since - and given how inhospitable that place can be, next he's seen, he'll probably be fit to join the Bone Pile..."*
+		*"Dazir's Librarian was seen wanderin' the Valley of Bones a few days ago, but hasn't been seen since... and given how that place is about as welcomin' of people as a Daziran is of criticism, next he's seen, he'll probably be fit to join the Bone Pile..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.X000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.102!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!1.1020!NIYOOSH!]
 		||
-		*"Quangjo of Dazir was seen wanderin' the Valley of Bones a few days ago, but he hasn't been seen since - and given how inhospitable that place can be, next he's seen, he'll probably be fit to join the Bone Pile..."*
+		*"Dazir's Librarian was seen wanderin' the Valley of Bones a few days ago, but hasn't been seen since... and given how that place is about as welcomin' of people as a Daziran is of criticism, next he's seen, he'll probably be fit to join the Bone Pile..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.892!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.1020!NIYOOSH!/]
+
 
 >>>Been to Dazir (10000)<<<	
 	[/KABU!TAMBUL!ATRIUM!2.X000!NIYOOSH!]
 		|^10000:KABU!TAMBUL!ATRIUM!2.0000!NIYOOSH!|
-		*"But, no matter. You haven't been to Dazir, have you?"*
+		*"Thought as much... What about Dazir then, been there? Before they closed the gates, that is."*
 		(A#"No."){A:1,KABU!TAMBUL!ATRIUM!2.001!NIYOOSH!}
 		(B#"What's Dazir?"){B:1,KABU!TAMBUL!ATRIUM!2.002!NIYOOSH!}
-		(D#"...Yes, I have."){D:1,KABU!TAMBUL!ATRIUM!2.004!NIYOOSH!}	
-		(E#"What's so special about Dazir?"){E:1,KABU!TAMBUL!ATRIUM!2.005!NIYOOSH!}		
+		(D#"...Yes, I have."){D:1,KABU!TAMBUL!ATRIUM!2.004!NIYOOSH!}
+		(E#"What's so special about Dazir?"){E:1,KABU!TAMBUL!ATRIUM!2.005!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.X000!NIYOOSH!/]
-	
+
 	[/KABU!TAMBUL!ATRIUM!2.0000!NIYOOSH!]
 		||
-		*"But, no matter. You haven't been to Dazir, have you?"*
+		*"Thought as much... What about Dazir then, been there? Before they closed the gates, that is."*
 		(A#"Yes, I have."){A:1,KABU!TAMBUL!ATRIUM!2.100!NIYOOSH!}
-		(D#"...No, I haven't."){D:1,KABU!TAMBUL!ATRIUM!2.001!NIYOOSH!}	
-		(E#"Why do you ask?"){E:1,KABU!TAMBUL!ATRIUM!2.005!NIYOOSH!}		
+		(D#"...No, I haven't."){D:1,KABU!TAMBUL!ATRIUM!2.001!NIYOOSH!}
+		(E#"Why do you ask?"){E:1,KABU!TAMBUL!ATRIUM!2.005!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.0000!NIYOOSH!/]	
 	
 	[/KABU!TAMBUL!ATRIUM!2.001!NIYOOSH!]
 		||
-		*"Unfortunate, but understandable, since Khaa has closed their gates to all after the water fiasco with Tacriba."*
+		*"Unfortunate, but understandable - y'know, since Khaa closed their gates after the Wellspring mishap."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!2.002!NIYOOSH!]
 		||
-		*"They're the settlement at the foot of the Duskfang mountains to the west of here; they're also in charge of keepin' our water flowin'."*
+		*"They're the settlement at the foot of the Duskfangs, out west of here. They're the ones in charge of keepin' our water flowin' - not doin' such a great job lately, though!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.002!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!2.004!NIYOOSH!]
 		||
-		*"Really? I wonder what caused Khaa to make an exception in your case..."*
+		*"Really? Huh... wonder why Khaa made an exception in your case..."*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!2.0040!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.004!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!2.0040!NIYOOSH!]
 		||
-		*"What can you tell me of the Dazirans?"*
+		*"Well, what of the Dazirans? What's goin' on in there?"*
 		(A#"Everything is fine."){A:0,KABU!TAMBUL!ATRIUM!2.0041!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.0040!NIYOOSH!/]
 
@@ -3307,25 +3308,25 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!2.0042!NIYOOSH!]
 		||
-		*"It's almost as if they weren't even concerned about Tacribian retribution for the horrible water crisis or somethin'..."*
+		*"Almost as if they weren't even worried about their upcomin' date with the pointy ends of the Tacribians' spears..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9.000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.0042!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!2.005!NIYOOSH!]
 		||
-		*"Well, Khaa has closed their gates to all - probably fearin' a Tacribian reprisal for cuttin' off the water - so we seldom get news of them."*
+		*"Well, Khaa's closed their gates - fearin' a Tacribian reprisal for cuttin' off the water. Which means, they've been as silent as Melinoe the last few days."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.005!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!2.100!NIYOOSH!]
 		||
-		*"Really? I wonder what caused Khaa to make an exception in your case..."*
+		*"Really? Well, you must be special for Khaa to have made an exception in your case..."*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!2.1000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.100!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!2.1000!NIYOOSH!]
 		||
-		*"What can you tell me of the Dazirans?"*
+		*"Well, what of the Dazirans? What's goin' on in there?"*
 		(A#"Khaa asked me restore the flow of water to the Dawn Fortress."){A:1,KABU!TAMBUL!ATRIUM!2.101!NIYOOSH!}
 		(D#"...Khaa seeks to blame the situation on Tambul!"){D:1,KABU!TAMBUL!ATRIUM!2.401!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1000!NIYOOSH!/]
@@ -3338,19 +3339,31 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!2.1010!NIYOOSH!]
 		||
-		*"Thank you, stranger! Now let me share somethin' with you - fair is fair, after all!"*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.102!NIYOOSH!}
+		*"...If it works..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1011!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1010!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!2.1011!NIYOOSH!]
+		||
+        *"I'm convinced the crusty ol' jinnkisser is up to somethin'! Thousands of years and not once has the water ever stopped flowin'..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1012!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!2.1011!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!2.1012!NIYOOSH!]
+		||
+        *"Well, in any case, thank you, stranger! You upheld your end of the bargain. So how 'bout I let you in on somethin' else I heard recently?"*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.102!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!2.1012!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!2.401!NIYOOSH!]
 		||
-		*"I'd only be less surprised if you told me he was ol' Famlaz in disguise! That guileful bastard'll get what's comin' to him!"*
+		*"I'd only be less surprised if you told me he was ol' Famlaz in disguise! That guileful jinnkisser'll get what's comin' to him!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.401!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!2.4010!NIYOOSH!]
 		||
-		*"I thank you for this information, stranger! Now let me share somethin' with you - fair is fair, after all!"*
+		*"I gotta thank you for this news, stranger! So now let me share somethin' with you - fair is fair, after all!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.102!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.4010!NIYOOSH!/]
 
@@ -3374,25 +3387,25 @@ NIYOOSH disappears after this?????
 	
 	[/KABU!TAMBUL!ATRIUM!2.1022!NIYOOSH!]
 		||
-		*"He's said to be able to pass through walls and to exist in many places at once - among other terrifyin' feats of Technocraft."*
+		*"He's said to be able to pass through walls... Oh! And to exist in many places at once! All that and an amethyst load of other terrifyin' feats of Technocraft."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1023!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1022!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!2.1023!NIYOOSH!]
 		||
-		*"Khaa wishes very much that such knowledge were his, and I'd wager my weight in Jinn-Liquor that this is the reason for his attempt to kill the Tacribians!"*
+		*"Khaa'd love to have half that knowledge even, and I'd wager my weight in Jinn-Liquor that it's what led to this Wellspring situation! Probably a botched threat."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1023!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!]
 		||
-		*"Well, I must say, time flies by doesn't it?"*
+		*"Well, gotta say, time flies by doesn't it?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!3.001!NIYOOSH!]
 		||
-		*"I'm afraid I must get back to my work! I'm busier than a bunny in sprin', if you catch my drift!"*
+		*"Should be gettin' back to my work! I'm busier than a bunny in sprin' - if you catch my drift! Ha!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.X002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!3.001!NIYOOSH!/]
 
@@ -3404,7 +3417,7 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!3.003!NIYOOSH!]
 		||
-		*"Well, come back if you see anythin' that might be of interest!"*
+		*"Well, come back if you see anythin' interestin'!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.X002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!3.003!NIYOOSH!/]
 
@@ -3420,70 +3433,82 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!40.000!NIYOOSH!]
 		||
-		*"Oh? Where have you ventured recently?"*
-		(A#"To your fine township: Tambul!"){A:0,KABU!TAMBUL!ATRIUM!40.001!NIYOOSH!}
+		*"Oh? Where've you been explorin' then, Torma Jr.?"*
+		(A#"For one, your fine township!"){A:0,KABU!TAMBUL!ATRIUM!40.001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!40.000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!40.001!NIYOOSH!]
 		||
-		*"Ha, I'm honored! However, I'm already much appraised of the goin's on here."* 
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!40.0010!NIYOOSH!}
+		*"Ha! Fine compared to a pimple on Famlaz's ruby arse!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!40.0010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!40.001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!40.0010!NIYOOSH!]
 		||
-		*"Come back when you've seen some of the wider world and I'd be happy to speak more with you."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!40.X0011!NIYOOSH!}
+        *"Most borin' place in all of Kabu!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!40.0011!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!40.0010!NIYOOSH!/]
 
-	[/KABU!TAMBUL!ATRIUM!40.X0011!NIYOOSH!]
+	[/KABU!TAMBUL!ATRIUM!40.0011!NIYOOSH!]
+		||
+        *"Besides, I'm already up-to-date of the goin's on here - doubt Pakahron can even take a piss with me knowin' about it!"*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!40.0012!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!40.0011!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!40.0012!NIYOOSH!]
+		||
+		*"So, just come back when you've seen some of the wider world. I'd be happy to speak more with you then."*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!40.X0013!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!40.0012!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!40.X0013!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.891!NIYOOSH!|
-		*"Until then, Biracul watch over you, stranger!"*
+		*"Until then, Biracul guide you, kid!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!40.X0011!NIYOOSH!/]
+	[KABU!TAMBUL!ATRIUM!40.X0013!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!41.000!NIYOOSH!]
 		||
-		*"Oh? Where've you ventured recently?"*
+		*"Oh? Where've you been explorin' then, Torma Jr.?"*
 		(A#"I've been to the Dawn Fortress."){A:0,KABU!TAMBUL!ATRIUM!1.100!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!41.000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!42.000!NIYOOSH!]
 		||
-		*"Oh? Where've you ventured recently?"*
+		*"Oh? Where've you been explorin' then, Torma Jr.?"*
 		(A#"To the township of Dazir."){A:0,KABU!TAMBUL!ATRIUM!2.100!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!42.000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!43.000!NIYOOSH!]
 		||
-		*"Oh? Where've you ventured recently?"*
+		*"Oh? Where've you been explorin' then, Torma Jr.?"*
 		(A#"Across the Wasteland, to the city of Ur'Ruk."){A:0,KABU!TAMBUL!ATRIUM!4.X001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!43.000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!412.000!NIYOOSH!]
 		||
-		*"Oh? Where've you ventured recently?"*
+		*"Oh? Where've you been explorin' then, Torma Jr.?"*
 		(A#"I've been to the Dawn Fortress."){A:0,KABU!TAMBUL!ATRIUM!1.100!NIYOOSH!}
 		(B#"To the township of Dazir."){B:0,KABU!TAMBUL!ATRIUM!2.100!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!412.000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!413.000!NIYOOSH!]
 		||
-		*"Oh? Where have you ventured recently?"*
+		*"Oh? Where've you been explorin' then, Torma Jr.?"*
 		(A#"I've been to the Dawn Fortress."){A:0,KABU!TAMBUL!ATRIUM!1.100!NIYOOSH!}
 		(B#"Across the Wasteland, to the city of Ur'Ruk."){B:0,KABU!TAMBUL!ATRIUM!4.X001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!413.000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!423.000!NIYOOSH!]
 		||
-		*"Oh? Where have you ventured recently?"*
+		*"Oh? Where've you been explorin' then, Torma Jr.?"*
 		(A#"To the township of Dazir."){A:0,KABU!TAMBUL!ATRIUM!2.100!NIYOOSH!}
 		(B#"Across the Wasteland, to the city of Ur'Ruk."){B:0,KABU!TAMBUL!ATRIUM!4.X001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!423.000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4123.000!NIYOOSH!]
 		||
-		*"Oh? Where have you ventured recently?"*
+		*"Oh? Where've you been explorin' then, Torma Jr.?"*
 		(A#"I've traversed the Dawn Fortress."){A:0,KABU!TAMBUL!ATRIUM!1.100!NIYOOSH!}
 		(B#"To the township of Dazir."){B:0,KABU!TAMBUL!ATRIUM!2.100!NIYOOSH!}
 		(C#"Across the Wasteland, to the city of Ur'Ruk."){C:0,KABU!TAMBUL!ATRIUM!4.X001!NIYOOSH!}
@@ -3501,272 +3526,259 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.001!NIYOOSH!]
 		||
-		*"Do you take me for a draug-brained, Tacrib..?"*
+		*"Our village idiot... er... 'poet' is over in the Residence District, kid. He'd be about the only one to believe a tale like that!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.0010!NIYOOSH!]
 		||
-		*"Not even the Ruby Jinn could cross the Wasteland and live to tell the tale!"*
+		*"Not even a Jinn'd cross the Wasteland, much less some Torma wannabe!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0011!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0010!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.0011!NIYOOSH!]
 		||
-		*"The Wasteland is known to consume all who enter it with dust and draugnir!"*
-		(A#"There were folk living there."){A:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
-		(B#"Why would you say that?"){B:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
-		(C#"I did."){C:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
+		*"Even our 'poet' knows that out in the Wastes you got one of two choices: die or go draug - and even though you're not much to look at, can't say you're fit to marry a draug... or that you're ready for ol' Boz neither!"*
+		(A#"But, there were people living out there!"){A:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
+		(B#"You're obviously not as well-informed as you think you are."){B:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
+		(C#"Well, I went."){C:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
 		(D#"Then I suppose my information will be quite valuble..."){D:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
-		(E#"What would a coward know about it?"){E:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
-		(F#"Are you trying your water sales pitch again?"){F:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
+		(E#"Nothing new. I routinely do the impossible."){E:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
+		(F#"The draugs aren't interested in marriage. Trust me."){F:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0011!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.011!NIYOOSH!]
 		||
-		*"Do you take me for a draug-brained, Tacrib..?"*
+		*"Our village idiot... er... 'poet' is over in the Residence District, kid. He'd be about the only one to believe a tale like that!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0110!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.011!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.0110!NIYOOSH!]
 		||
-		*"Not even the Ruby Jinn could cross the Wasteland and live to tell the tale!"*
+		*"Not even a Jinn'd cross the Wasteland, much less some Torma wannabe!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0111!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0110!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.0111!NIYOOSH!]
 		||
-		*"The Wasteland is known to consume all who enter it with dust and draugnir!"*
-		(A#"I spoke with their leader, Hazanna."){A:1,KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!}
-		(B#"Is it true the Inscrutables were exiled by Pakahron?"){B:1,KABU!TAMBUL!ATRIUM!4.200!NIYOOSH!}
-		(C#"I did. And so did Hazanna and the others."){C:1,KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!}
-		(D#"Then my information of the Inscrutables is quite valuble..."){D:1,KABU!TAMBUL!ATRIUM!4.400!NIYOOSH!}
-		(E#"Apparently, Hazanna isn't as weak as you."){E:1,KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!}
-		(F#"Are you trying your water sales pitch again? Hazanna didn't need it."){F:1,KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!}
+		*"Even our 'poet' knows that out in the Wastes you got one of two choices: die or go draug - and even though you're not much to look at, can't say you're fit to marry a draug... or that you're ready for ol' Boz neither!"*
+		(A#"Well, I spoke with their leader, Hazanna."){A:1,KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!}
+		(B#"Did Pakahron really exile the Unseen to Ur'Ruk?"){B:1,KABU!TAMBUL!ATRIUM!4.200!NIYOOSH!}
+		(C#"Well, then tell Hazanna and the others it's impossible."){C:1,KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!}
+		(D#"Then my information of the Unseen in Ur'Ruk is quite valuble..."){D:1,KABU!TAMBUL!ATRIUM!4.400!NIYOOSH!}
+		(E#"Apparently, Hazanna isn't as weak as you lot."){E:1,KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!}
+		(F#"Draugs aren't very good lovers. Trust me."){F:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0111!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!]
 		||
-		*"Biracul, save us from the jinns! Did you say 'Hazanna'?!"* 
+		*"Biracul balls! Did you say 'Hazanna'?!"* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0120!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.012!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!4.0120!NIYOOSH!]
 		||
-		*"She's still alive? I didn't think it'd be possible..."* 
+		*"She's still alive?! I didn't think it'd be possible..."* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0120!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!]
 		||
-		*"But perhaps it's as you say... After all, it's said that in their curse, even the Graylands would reject the Inscrutables."*
+		*"But maybe she did it after all, that jinnkisser! Ha!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0122!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.0122!NIYOOSH!]
 		||
-		*"Tell me, what's become of them?"*
-		(A#"They live under Hazanna's iron fist."){A:1,KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!}
-		(D#"I'm not at liberty to say - at least, not without 'incentive'..."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
-		(E#"Their rage boils and they're now plotting their revenge."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
+        *"The magi did always say that with their curse, even the Graylands would reject the Unseen, so..."*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0123!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0122!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!4.0123!NIYOOSH!]
+		||
+		*"But nevermind that! Go on! Tell me, what's become of the exiled!?"*
+		(A#"They live under Hazanna's iron fist."){A:1,KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!}
+		(D#"I'm not at liberty to say... at least, not without 'incentive'."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
+		(E#"You think the Tacribians are dangerous? Wait ‘til the Unseen come knocking."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.0123!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.111!NIYOOSH!]
 		||
-		*"Do you take me for a draug-brained, Tacrib..?"*
+		*"Our village idiot... er... 'poet' is over in the Residence District, kid. He'd be about the only one to believe a tale like that!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1110!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.111!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.1110!NIYOOSH!]
 		||
-		*"Not even the Ruby Jinn could cross the Wasteland and live to tell the tale!"* 
+		*"Not even a Jinn'd cross the Wasteland, much less some Torma wannabe!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1111!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1110!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.1111!NIYOOSH!]
 		||
-		*"The Wasteland is known to consume all who enter it with dust and draugnir!"*
-		(A#"I spoke with a man named Radan."){A:1,KABU!TAMBUL!ATRIUM!4.100!NIYOOSH!}
-		(B#"Is it true the Inscrutables were exiled by Pakahron?"){B:1,KABU!TAMBUL!ATRIUM!4.200!NIYOOSH!}
-		(C#"I did. And so did Radan and the others."){C:1,KABU!TAMBUL!ATRIUM!4.300!NIYOOSH!}
-		(D#"Then my information of the Inscrutables is quite valuble..."){D:1,KABU!TAMBUL!ATRIUM!4.400!NIYOOSH!}
+		*"Even our 'poet' knows that out in the Wastes you got one of two choices: die or go draug - and even though you're not much to look at, can't say you're fit to marry a draug... or that you're ready for ol' Boz neither!"*
+		(A#"I spoke with a man named Radan there."){A:1,KABU!TAMBUL!ATRIUM!4.100!NIYOOSH!}
+		(B#"Did Pakahron really exile the Unseen to Ur'Ruk?"){B:1,KABU!TAMBUL!ATRIUM!4.200!NIYOOSH!}
+		(C#"Well, the tell Radan and the others it's impossible."){C:1,KABU!TAMBUL!ATRIUM!4.300!NIYOOSH!}
+		(D#"Then my information of the Unseen living in Ur'Ruk is quite valuble..."){D:1,KABU!TAMBUL!ATRIUM!4.400!NIYOOSH!}
 		(E#"Apparently, Hazanna isn't as weak as you."){E:1,KABU!TAMBUL!ATRIUM!4.500!NIYOOSH!}
-		(F#"Are you trying your water sales pitch again? Hazanna didn't need it."){F:1,KABU!TAMBUL!ATRIUM!4.600!NIYOOSH!}
+		(F#"Draugs aren't very good lovers. Trust me."){F:1,KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1111!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.100!NIYOOSH!]
 		||
-		*"Biracul, save us from the jinns! Radan still lives?!"*
+		*"Biracul balls! Did you say Radan?!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.100!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.1000!NIYOOSH!]
 		||
-		*"I would not have thought it possible..."*
+		*"That means that jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.1001!NIYOOSH!]
 		||
-		*"But perhaps it's as you say... since it's said that in their curse, even the Graylands would reject the Inscrutables."*
+		*"The magi did always say that with their curse, even the Graylands would reject the Unseen, so..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.1002!NIYOOSH!]
 		||
-		*"Tell me, what is become of them?"*
+		*"But nevermind that! Go on! Tell me, what's become of the exiled!?"*
 		(A#"They live under the yolk of Hazanna."){A:1,KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!}
-		(B#"I hear they became victims of a dark mage named Ormenos."){B:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
-		(C#"They reside in the ruins of the Vanquished."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
-		(D#"I'm not at liberty to say -  at least, not without 'incentive'..."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
-		(E#"Their rage boils and they're now plotting their revenge."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
+		(B#"They said they were victims of a dark mage named Ormenos."){B:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
+		(C#"They reside in the Vanquished ruins at the edge of the Wastes."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
+		(D#"I'm not at liberty to say... at least, not without 'incentive'."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
+		(E#"You think the Tacribians are dangerous? Wait ‘til the Unseen come knocking."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1002!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.200!NIYOOSH!]
 		||
-		*"Biracul, save us from the jinns! Did you say 'the Inscrutables'?!"* 
+		*"Biracul balls! Did you say the Unseen are in Ur'Ruk?!"* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.2000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.200!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.2000!NIYOOSH!]
 		||
-		*"They still live? I wouldn't've thought it possible..."* 
+		*"They're still alive?! I wouldn't've thought it possible..."* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.2001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.2000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.2001!NIYOOSH!]
 		||
-		*"But perhaps it's as you say... after all, it's said that in their curse, even the Graylands would reject the Inscrutables."*
+		*"The magi did always say that with their curse, even the Graylands would reject the Unseen, so..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.2002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.2001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.2002!NIYOOSH!]
 		||
-		*"Tell me, what's become of them?"*
+		*"But nevermind that! Go on! Tell me, what's become of the exiled!?"*
 		(A#"They live under the yolk of Hazanna."){A:1,KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!}
-		(B#"I hear they became victims of a dark mage named Ormenos."){B:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
-		(C#"They reside in the ruins of the Vanquished."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}	
+		(B#"They said they were victims of a dark mage named Ormenos."){B:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
+		(C#"They reside in the Vanquished ruins at the edge of the Wastes."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.2002!NIYOOSH!/]	
 	
 	[/KABU!TAMBUL!ATRIUM!4.300!NIYOOSH!]
 		||
-		*"Biracul, save us from the jinns! Radan still lives?!"*
+		*"Biracul balls! Did you say Radan?!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.3000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.300!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.3000!NIYOOSH!]
 		||
-		*"I wouldn't've thought it possible..."* 
+		*"That means that jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.3001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.3000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.3001!NIYOOSH!]
 		||
-		*"But perhaps it's as you say... after all, it's said that in their curse, even the Graylands would reject the Inscrutables."*
+		*"The magi did always say that with their curse, even the Graylands would reject the Unseen, so..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.3002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.3001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.3002!NIYOOSH!]
 		||
-		*"Tell me, what is become of them?"*
-		(B#"I hear they became victims of a dark mage named Ormenos."){B:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
-		(C#"They reside in the ruins of the Vanquished."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
-		(D#"I'm not at liberty to say - at least, not without 'incentive'..."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
+		*"But nevermind that! Go on! Tell me, what's become of the exiled!?"*
+		(B#"They said they were victims of a dark mage named Ormenos."){B:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
+		(C#"They reside in the Vanquished ruins at the edge of the Wastes."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
+		(D#"I'm not at liberty to say... at least, not without 'incentive'."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.3002!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.400!NIYOOSH!]
 		||
-		*"Biracul, save us from the jinns! Did you say 'the Inscrutables'?!"*
+		*"Biracul balls! Did you say the Unseen are in Ur'Ruk?!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.400!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.4000!NIYOOSH!]
 		||
-		*"They still live? I wouldn't've thought it possible..."*
+		*"Then they're still alive? I wouldn't've thought it possible..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.4000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.4001!NIYOOSH!]
 		||
-		*"But perhaps it's as you say... after all, it's said that in their curse, even the Graylands would reject the Inscrutables."*
+		*"The magi did always say that with their curse, even the Graylands would reject the Unseen, so..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.4001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.4002!NIYOOSH!]
 		||
-		*"Tell me, what's become of them?"*
-		(C#"They reside in the ruins of the Vanquished."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
-		(D#"I'm not at liberty to say - at least, not without 'incentive'..."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
-		(E#"Their rage boils and they're now plotting their revenge."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
+		*"But nevermind that! Go on! Tell me, what's become of the exiled!?"*
+		(C#"They reside in the Vanquished ruins at the edge of the Wastes."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
+		(D#"I'm not at liberty to say... at least, not without 'incentive'."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
+		(E#"You think the Tacribians are dangerous? Wait ‘til the Unseen come knocking."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.4002!NIYOOSH!/]	
 
 	[/KABU!TAMBUL!ATRIUM!4.500!NIYOOSH!]
 		||
-		*"Biracul, save us from the jinns! Did you say 'Hazanna'?!"* 
+		*"Biracul balls! Did you say 'Hazanna'?!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.500!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.5000!NIYOOSH!]
 		||
-		*"She still lives? I wouldn't've thought it possible..."* 
+		*"She still lives?! I wouldn't've thought it possible..."* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.5000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.5001!NIYOOSH!]
 		||
-		*"But perhaps it's as you say... after all, it's said that in their curse, even the Graylands would reject the Inscrutables."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5002!NIYOOSH!}
+		*"But maybe she did it after all, that jinnkisser! Ha!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.5001!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.5002!NIYOOSH!]
 		||
-		*"Tell me, what's become of them?"*
-		(A#"They live under Hazanna's iron fist as dogs."){A:1,KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!}
-		(D#"I'm not at liberty to say - at least, not without 'incentive'..."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
-		(E#"Their rage boils and they're now plotting their revenge."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
+        *"The magi did always say that with their curse, even the Graylands would reject the Unseen, so..."*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5003!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.5002!NIYOOSH!/]
 
-	[/KABU!TAMBUL!ATRIUM!4.600!NIYOOSH!]
+	[/KABU!TAMBUL!ATRIUM!4.5003!NIYOOSH!]
 		||
-		*"Biracul, save us from the jinns! Did you say 'Hazanna'?!"* 
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.6000!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!4.600!NIYOOSH!/]
+		*"But nevermind that! Go on! Tell me, what's become of the exiled!?"*
+		(A#"They live like whipped dogs, licking Hazanna's boots."){A:1,KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!}
+        (D#"I'm not at liberty to say... at least, not without 'incentive'."){D:1,KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!}
+		(E#"You think the Tacribians are dangerous? Wait ‘til the Unseen come knocking."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.5003!NIYOOSH!/]
 
-	[/KABU!TAMBUL!ATRIUM!4.6000!NIYOOSH!]
-		||
-		*"She still lives? I wouldn't've thought it possible..."* 
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.6001!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!4.6000!NIYOOSH!/]
-
-	[/KABU!TAMBUL!ATRIUM!4.6001!NIYOOSH!]
-		||
-		*"But perhaps it's as you say... after all, it's said that in their curse, even the Graylands would reject the Inscrutables."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.6002!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!4.6001!NIYOOSH!/]
-
-	[/KABU!TAMBUL!ATRIUM!4.6002!NIYOOSH!]
-		||
-		*"Tell me, what's become of them?"*
-		(B#"I hear they became victims of a dark mage named Ormenos."){B:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
-		(E#"Their rage boils and they're now plotting their revenge."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
-		(F#"Basically, your run-of-the-mill dystopia."){F:1,KABU!TAMBUL!ATRIUM!4.601!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!4.6002!NIYOOSH!/]
-
+	
 	[/KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!]
 		||
-		*"So, Pakahron was right in sayin' that without the Trueflesh, the Wasteland strips away the mind until its unknown even to itself."*
+		*"So, I guess Pakahron wasn't kiddin'... Without the Trueflesh, the Wasteland strips away the mind until its unknown even to itself..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.101!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!4.1010!NIYOOSH!]
 		||
-		*"Hazanna was a meek and mild idealist back when we were young, back when I knew her..."*
+		*"Hazanna was a meek and mild idealist back when we were young; back when I knew her..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1010!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!]
 		||
-		*"So, Khaa was right in sayin' that not even the lowest of us would envy the Inscrutables."*
+		*"So, Khaa was right in sayin' not even the lowest of us would envy the Unseen..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!/]
 	
@@ -3778,7 +3790,7 @@ NIYOOSH disappears after this?????
 	
 	[/KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!]
 		||
-		*"What a nightmare the Wasteland must be if it drove them to such a place."*
+		*"What a nightmare the Wastes must be if it drove them there..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.3010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!/]
 
@@ -3790,29 +3802,36 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!]
 		||
-		*"Then I shall share a secret you may be interested in: an Tambulan-born agent of Khaa has returned to this city - Dysmas, the chucklin' jinnspawn. No tellin' what his purpose here is, but he's never to be trusted, you hear?"*
+		*"Oh, all right, you little jinnkisser! Listen up, now!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!]
 		||
-		*"Now, tell me about the Inscrutables and their new home."*
-		(C#"They reside in the ruins of the Vanquished."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
-		(D#"I hear they became victims of a dark mage named Ormenos."){D:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
-		(E#"Their rage boils and they're now plotting their revenge."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
+        *"A Tambulan-born agent of Khaa has returned to this city - Dysmas, the chucklin' jinnspawn. No tellin' what his purpose here is, but he's never to be trusted, you hear?"*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4011!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!4.4011!NIYOOSH!]
+		||
+		*"Now, it's your turn, kid! Share what you know of the Unseen!"*
+		(C#"They reside in the Vanquished ruins at the edge of the Wastes."){C:1,KABU!TAMBUL!ATRIUM!4.301!NIYOOSH!}
+		(D#"I hear they became victims of a dark mage named Ormenos."){D:1,KABU!TAMBUL!ATRIUM!4.201!NIYOOSH!}
+		(E#"You think the Tacribians are dangerous? Wait ‘til the Unseen come knocking."){E:1,KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.4011!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!]
 		||
-		*"So, Pakahron was right in sayin' that without the Trueflesh, the Wasteland strips away the mind until its unknown even to itself..."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!}
+		*"So, I guess Pakahron wasn't kiddin'... Without the Trueflesh, the Wasteland strips away the mind until its unknown even to itself..."*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.501!NIYOOSH!/]
 
-	[/KABU!TAMBUL!ATRIUM!4.601!NIYOOSH!]
+	[/KABU!TAMBUL!ATRIUM!4.5010!NIYOOSH!]
 		||
-		*"So, Pakahron was right in sayin' that without the Trueflesh, the Wasteland strips away the mind until its unknown even to itself..."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!4.601!NIYOOSH!/]
+		*"But I doubt you got ears for the past."*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.802!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.5010!NIYOOSH!/]
+
 
 	[/KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!]
 		||
@@ -3828,70 +3847,101 @@ NIYOOSH disappears after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.802!NIYOOSH!]
 		||
-		*"Now I shall tell you something that may interest you..."*
+		*"I'll throw in an extra piece of news for you... so old it's already expired, but you might like it nonetheless."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.803!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.802!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.803!NIYOOSH!]
 		||
-		*"It's true that the Inscrutables were exiled for their conspiracy theories involvin' Khaa and Pakahron's roles in Kambesh's death, but there're many more Kabans who long for the era of the Archmage that haven't been cast out..."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.804!NIYOOSH!}
+		*"It's true the Unseen were exiled. Everyone knows why, too. They stirred up all sorts of trouble with their conspiracy theories involvin' Khaa and Pakahron's roles in Kambesh's death after all..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.804!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.803!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.804!NIYOOSH!]
 		||
-		*"They are the Tacribians."*
+        *"But there're still many more Kabans who long for the era of the Archmage that weren't cast out..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.805!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.804!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.805!NIYOOSH!]
-		||	
-		*"And this is the true reason for their animosity towards the Kabans this side of the Crescent Canyon."*
+		||
+		*"The Tacribians."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.806!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.805!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.806!NIYOOSH!]
-		||
-		*"Kambesh pledged to unify all of the townships and fulfill the Ark's covenant after the deafeat of the Jinnwraith; but that hope died along with Kambesh."*
-		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.X807!NIYOOSH!}
+		||	
+		*"And I'll tell you what, this is the true reason for their animosity towards the Kabans this side of the canyon."*
+		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.807!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.806!NIYOOSH!/]
 
-	[/KABU!TAMBUL!ATRIUM!4.X807!NIYOOSH!]
+	[/KABU!TAMBUL!ATRIUM!4.807!NIYOOSH!]
+		||
+		*"Not that they don't got a right to be upset, mind you. You see, Kambesh pledged to unify all of the townships and fulfill the 'Ark's Covenant' after the deafeat of the Jinnwraith..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.808!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.807!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!4.808!NIYOOSH!]
+		||
+        *"But now that hope rests in the Bone Pile alongside Kambesh."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.809!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.808!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!4.809!NIYOOSH!]
+		||
+		*"In any case, kid, it's none too safe to speak about this under the watchful eye of our mage. So you take care you don't run afoul of Biracul's favor by confrontin' him!"*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.810!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.809!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!4.810!NIYOOSH!]
+		||
+        *"Pakahron's a sheperd to his flock, but a hunter to the wolves. He ever sees you as a threat, and you might be the first to envy the Unseen..."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.811!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.810!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!4.811!NIYOOSH!]
+		||
+        *"But you didn't hear that from me."*
+        (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.X812!NIYOOSH!}
+	[KABU!TAMBUL!ATRIUM!4.811!NIYOOSH!/]
+
+	[/KABU!TAMBUL!ATRIUM!4.X810!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!4.991!NIYOOSH!|
-		*"It's none too safe to speak of such matters under the watchful eye of our mage. So take care that you don't run afoul of Biracul's favor by confrontin' him; he's truly a dangerous man."*
+        *"Now if you'll excuse me, I got some water to attend to! Biracul guide you, kid!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
-	[KABU!TAMBUL!ATRIUM!4.X807!NIYOOSH!/]
+	[KABU!TAMBUL!ATRIUM!4.X810!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!]
 		||
-		*"If all you have to speak are lies, I see no reason to listen further."*
+		*"If all you've to share are lies, then can't see a reason to listen further."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.X901!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.900!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.X901!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!4.999!NIYOOSH!|
-		*"Go peddle your jinn's whispers to the children on the street, outlander."*
+		*"Go peddle your jinn's whispers to the children on the street, outlander!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.X901!NIYOOSH!/]
 
 
 	[/KABU!TAMBUL!ATRIUM!4.991!NIYOOSH!]
 		||
-		*"Hello, outlander... I'm afraid I'm all out of news, but there's still plenty of water."*
+		*"Biracul smile on you, kid... I'm afraid I'm all out of news, but there's still plenty of water."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.991!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.999!NIYOOSH!]
 		||
-		*"Do you have any more jinn's tales for me?"*
+		*"Come with more jinn's tales?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.X9990!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.999!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!4.X9990!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.894!NIYOOSH!|
-		*"I'd be able to sell them a vacation house out in the Wasteland if they believe that tripe!"*
+		*"Next thing you know you'll be tryin' to tell me Biracul's been sleepin' with Famlaz..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.X9990!NIYOOSH!/]
+
 
 ask about the town
     [/KABU!TAMBUL!ATRIUM!5.000!NIYOOSH!]
@@ -3902,13 +3952,13 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!]
 		||
-        *"If you had even a scrap o' news about some other place, ANY other place than this borin' dung heap, I'd be on it like a Suyuti on a goat!"*
+        *"If you had even a scrap of news about some other place - ANY place other than this borin' dung heap - well, then I'd be on it like a Suyuti on a goat!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.001!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.002!NIYOOSH!]
 		||
-        *"Well, whatever sows your fields, I guess. Ask away, kid!"*
+        *"But, whatever sows your fields, I guess. Ask away, kid!"*
 		(A#"Do you have any inns or taverns where people gather?"){A:1,KABU!TAMBUL!ATRIUM!5.100!NIYOOSH!}
         (B#"How did Tambul first come to exist?"){B:1,KABU!TAMBUL!ATRIUM!5.200!NIYOOSH!}
         (C#"On second thought, maybe I should just go."){C:1,KABU!TAMBUL!ATRIUM!5.300!NIYOOSH!}
@@ -3923,7 +3973,7 @@ ask about the town
 		*"An inn? A tavern? What in Biracul's name are those?"*
         (A#"Oh, well, they're places where out-of-towners can mix with locals."){A:1,KABU!TAMBUL!ATRIUM!5.101!NIYOOSH!}
         (B#"It's a place where foreigners can stay."){B:1,KABU!TAMBUL!ATRIUM!5.120!NIYOOSH!}
-        (E#"I should've known better than to ask the blind for directions..."){E:1,KABU!TAMBUL!ATRIUM!5.150!NIYOOSH!}
+        (E#"I should've known better than to ask the blind for sight..."){E:1,KABU!TAMBUL!ATRIUM!5.150!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.100!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.101!NIYOOSH!]
@@ -3934,22 +3984,22 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.120!NIYOOSH!]
 		||
-		*"Now that you mention it, I think I heard the village fool, Akkeber, mention that in one of his 'performances'... Said he read it in some old tome that foreign towns have places like those..."*
+		*"Now that you mention it, I think I heard the village fool... er... 'poet', mention that in one of his 'performances'... Said he read it in some old tome, said that foreign towns had places like those..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.121!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.120!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.121!NIYOOSH!]
 		||
-        *"And here I thought he was just channelin' his inner idiot to come up with such nonsense. Turns out the joke's on me! Oh, well, guess we can all be Vanargands, eh?"*
-        (B#"Why don't people travel to Kabu?"){B:1,KABU!TAMBUL!ATRIUM!5.122!NIYOOSH!}
+        *"And here I thought he was just channelin' his inner idiot to come up with nonsense. Turns out the joke's on me! Oh, well, guess we can all be Vanargands, eh?"*
+        (B#"Well, why don't people travel to Kabu?"){B:1,KABU!TAMBUL!ATRIUM!5.122!NIYOOSH!}
         (C#"So I take it there are no inns, then."){C:1,KABU!TAMBUL!ATRIUM!5.130!NIYOOSH!}
         (D#"I guess 'village idiot' is a now shared title, then..."){D:1,KABU!TAMBUL!ATRIUM!5.140!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.121!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.122!NIYOOSH!]
 		||
-        *"You jokin', kid? Kabu is sky-high on some cliff with impassable mountains at its back! That's why the last people to visit us had to fly up here in some bizarre Vanquished airship!"*
-        (B#"Have any other people come to Kabu before?"){B:1,KABU!TAMBUL!ATRIUM!5.123!NIYOOSH!}
+        *"You jokin', kid? Kabu is sky-high on some plateau with the Duskfangs at its back! The last people to visit had to fly up here in some bizarre Vanquished airship!"*
+        (B#"Who else has come to Kabu?"){B:1,KABU!TAMBUL!ATRIUM!5.123!NIYOOSH!}
         (C#"Ah, well that makes sense."){C:1,KABU!TAMBUL!ATRIUM!5.130!NIYOOSH!}
         (D#"Maybe Biracul isolated you from the world to curb the spread of stupidity..."){D:1,KABU!TAMBUL!ATRIUM!5.141!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.122!NIYOOSH!/]
@@ -3962,25 +4012,25 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!]
 		||
-        *"That famous 'Prophet' came with the airship, but those jinn-lickin' sons of a goat left him here! Not sure where that damned fellow wandered off to now, but all that jinnstruck nonsense about great calamities ahead really shook some folk up. Kabu still hasn't recovered from that..."*
+        *"That famous 'Prophet' came with the airship years back, but those jinn-lickin' sons goats left him here! Not sure where that damned fellow wandered off to now, but all that jinnstruck nonsense about great calamities ahead really shook some folks up. Kabu still hasn't really recovered from that, to be honest."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!]
 		||
-        *"But the last people to come before that was Archma... Oh, I mean, Kambesh. And along with him that jinntouched horror, Ormenos. Glad that one's dancing with the Jinns! What a creep he was..."*
+        *"But the last people to come before that was Archma... uh... Kambesh. And along with him that jinntouched horror, Ormenos - gotta say, I'm glad that one's dancing with the Jinns! What a creep he was..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.126!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.126!NIYOOSH!]
 		||
-        *"Oh, and they brought with them a sweet little thin', oh what was his name? Theskian? Somethin' like that. It was a long time ago and I was just a youth back then - not that I'm passed my prime now, mind you!"*
+        *"Oh, and they brought that gorgeous boy with 'em, oh what was his name? Theskian..? Well, somethin' like that. It was a long time ago, back when I was just bloomin' - not that I'm passed my prime now, mind you!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.127!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.126!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.127!NIYOOSH!]
 		||
-        *"But look at me, yappin' away and not knowin' when to shut my trap like some Daziran Artisan!"*
+        *"But look at me, yappin' away, not knowin' when to shut my trap like some Daziran Artisan!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.000!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.127!NIYOOSH!/]
 
@@ -3992,25 +4042,25 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.131!NIYOOSH!]
 		||
-        *"Biracul's balls, it's depressin' talkin' to you, kid! I'm constantly reminded of how dull this place is!"*
+        *"Biracul's balls, it's depressin' talkin' to you, kid! Bein' constantly reminded of how dull this place is!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.132!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.131!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.132!NIYOOSH!]
 		||
-        *"It's probably best if you're on your way. I'd tell you to enjoy the town, but I'm not it's possible to!"*
+        *"Probably best if you're on your way. I'd tell you to enjoy the town, but I don't it's possible to!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.133!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.132!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.133!NIYOOSH!]
 		||
-        *"It's time I got back to my soul crushin' duties!"*
+        *"High time I got back to my soul crushin' duties!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.133!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.140!NIYOOSH!]
 		||
-		*"Well, we'll let Akkeber know you're not good at sharin', then. Congrats, it's all yours now!"*
+		*"Well, we'll let Akkeber know you're not good at sharin', then. Congrats, the title's all yours now!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X5013!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.140!NIYOOSH!/]
 
@@ -4028,31 +4078,31 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.200!NIYOOSH!]
 		||
-		*"So you want a history lesson, do you? Well, you asked the right person! I'm probably the only one in Tambul to know the true origins of Kabu - save Pakahron..."*
+		*"So you want a history lesson, do you? Well, you asked the right person! I'm probably the only one in Tambul to know the true origins of Kabu!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.201!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.200!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.201!NIYOOSH!]
 		||
-		*"So everyone knows that Biracul was the founder of Kabu, set up the townships, divided the labors and all such stuff. But!"*
+		*"Right, so everyone knows that Biracul was the founder of Kabu, set up the townships, divided the labors and all such stuff. But!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.202!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.201!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.202!NIYOOSH!]
 		||
-        *"I found out, not long ago, that the two remaining Muninn trees in Kabu both came from the same source, far across the Jenowin Plain in abandoned Tacriba!"*
+        *"I found out, not long ago, that the two remainin' Muninn trees in Kabu both came from the same source, far across the Jenowin Plain in abandoned Tacriba!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.203!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.202!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.203!NIYOOSH!]
 		||
-        *"Back before the Tacribians forsook their role in the Biraculian system and migrated out to the Dawn Fortress, they were actually responsible for mining raw materials - stuff the Dazirans would later use for building and whatnot."*
+        *"Back before the Tacribians abandoned their role in the Biraculian system and migrated out to the Dawn Fortress. Y'know, they actually used to be responsible for minin' raw materials - stuff the Dazirans would later use for buildin' and whatnot."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.204!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.203!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.204!NIYOOSH!]
 		||
-        *"In any case, they were also responsible for something else..."*
+        *"In any case, they were also responsible for somethin' else..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.205!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.204!NIYOOSH!/]
 
@@ -4076,19 +4126,19 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.208!NIYOOSH!]
 		||
-        *"Well, why bring this up? Because before Kabu was Kabu, it was something... bigger. Something more important!"*
+        *"Well, why bring it up? Because before Kabu was Kabu, it was somethin'... bigger. Something more important!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.209!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.208!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.209!NIYOOSH!]
 		||
-        *"The final thing my source over in Dazir said was that something 'unprecedented' happened out at the edge of the wastes... something leading to 'the Great Awakening'..."*
+        *"The final thing my source over in Dazir said was that somethin' 'unprecedented' happened out at the edge of the wastes... somethin' leadin' to the Great Awakenin' itself..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.127!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.209!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.300!NIYOOSH!]
 		||
-		*"Riiight... Okay, well, best be on your way than, kid!"*
+		*"Riiight... Okay, well, best be on your way then, kid!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.X002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.300!NIYOOSH!/]
 
@@ -4100,7 +4150,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!]
 		||
-        *"Maybe if this were Dazir, you'd have to worry about some backstabbin' lout. Or if it were the Dawn Fortress you could look out for draugs, but here..."*
+        *"Maybe if this were Dazir, you'd have to worry about some backstabbin' jinnkisser. Or if it were the Dawn Fortress you'd have to look out for draugs, but here..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.402!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!/]
 
@@ -4118,7 +4168,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!]
 		||
-        *"But look at me and my jinnwhisperin' mouth! I should get back to work, I should!"*
+        *"But look at me and my jinnwhisperin' mouth! I should get back to work!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!/]
 
@@ -4138,13 +4188,13 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.511!NIYOOSH!]
 		||
-        *"The Shining One always talked about how a change in perspective could cause the awakenin' of Awareness. I guess I finally see what he meant..."*
+        *"The Shining One always talked about how a change in perspective could cause the awakenin' of Awareness. I guess this is what He meant..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.X8941!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.511!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.540!NIYOOSH!]
 		||
-		*"And you give unsolicited opinions. Guess we both have some character flaws to work on then, eh?"*
+		*"And you give silly, unsolicited opinions. Guess we both have some character flaws to work on then, eh?"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.131!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.540!NIYOOSH!/]
 
@@ -4180,7 +4230,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!]
 		||
-        *"Why, yes you do! I'm not inside that jinnstruck skull of yours! How else would I know what you meant when you said we could 'spice' this boring dung heap up?"*
+        *"Why, yes you do! I'm not inside that jinnstruck skull of yours! How else would I know what you meant when you said we could 'spice' this borin' dung heap up?"*
         (F#"Okay, fine! All we've gotta do is... -hmmm, psst, cough, psst-"){F:1,KABU!TAMBUL!ATRIUM!5.604!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!/]
 
@@ -4195,7 +4245,7 @@ ask about the town
 		||
         *"..."*
         (A#"I'm sorry... I don't know what's wrong with me..."){A:1,KABU!TAMBUL!ATRIUM!0.8922!NIYOOSH!}
-        (F#"Operation Spice Girls we'll call it!"){F:1,KABU!TAMBUL!ATRIUM!5.606!NIYOOSH!}
+        (F#"Operation 'Spice Girls' we'll call it!"){F:1,KABU!TAMBUL!ATRIUM!5.606!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.605!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.606!NIYOOSH!]
@@ -4219,7 +4269,7 @@ ask about the town
 	
 	[/KABU!TAMBUL!ATRIUM!9.X001!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!0.894!NIYOOSH!|
-		*"I'm afraid I must get back to my work, but enjoy your time in Tambul, stranger."*
+		*"Afraid I gotta get back to my work! Biracul guide you, stranger."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!9.X001!NIYOOSH!/]
 
