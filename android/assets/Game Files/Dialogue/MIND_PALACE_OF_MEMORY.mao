@@ -1849,7 +1849,7 @@ VOVKOS
 
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0113!VOVKOS!]
 		||
-		*"Honestly, I nearly started to doubt my vision of the Shining One, to think it just a trick of memory..."*
+		*"Honestly, I nearly started to doubt my vision from the Shining One, to think it just a trick of memory..."*
 		(A#"Well, that's quite a revelation..."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.021!VOVKOS!}
 		(B#"A vision? Then your evidence is unreliable."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.022!VOVKOS!}
 		(E#"You're just as deluded as that idiot priest Caito."){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.025!VOVKOS!}
@@ -1935,13 +1935,13 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0264!VOVKOS!]
 		||
-		*"You know not of the depravity of these fallen 'servants' of Biracul!"*
+		*"You don't know of the depravity of these fallen 'servants' of Biracul!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0264!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!]
 		||
-		*"Now they are but vacant shells! Their reverence for the Shining One has faded from so long a wait..."*
+		*"Now they're just vacant shells! Their reverence for the Shining One has faded from so long a wait..."*
 		(A#"No, I must insist. For this too is part of His plan."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-1!VOVKOS!}
 		(F#"Yeesh! You're annoying. Fine, let's go. The Wyrm thing can wait till next time."){F:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0265!VOVKOS!/]
@@ -1955,13 +1955,13 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0310!VOVKOS!]
 		||
-		*"You know not of the depravity of these fallen 'servants' of Biracul!"*
+		*"You don't know of the depravity of these fallen 'servants' of Biracul!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0311!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0310!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0311!VOVKOS!]
 		||
-		*"Now they are but vacant shells! Their reverence for the Shining One has faded from so long a wait..."*
+		*"Now they're just vacant shells! Their reverence for the Shining One has faded from so long a wait..."*
 		(A#"Then I'll defer to your judgment... I'm ready to leave."){A:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.000!VOVKOS!}
 		(B#"No, I must insist. I need to see the Wyrm."){B:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-2!VOVKOS!}
 		(E#"I will not be deterred!"){E:1,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9990.X2055-2!VOVKOS!}
@@ -1987,13 +1987,13 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.03140!VOVKOS!]
 		||
-		*"I give you my oath, in Biracul's name, I will allow no harm to befall you!"*
+		*"I give you my oath, in Biracul's name, no harm will befall you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0315!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.03140!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0315!VOVKOS!]
 		||
-		*"When you're satisfied that this place has long been bereft of faith, we can depart immediately."*
+		*"When you're satisfied this place has long been bereft of faith, we'll leave."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0316!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0315!VOVKOS!/]
 	
@@ -2017,19 +2017,19 @@ VOVKOS
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0361!VOVKOS!]
 		||
-		*"Prophetess, I will guard you from the shadows!"*
+		*"Prophetess, I'll guard you from the shadows!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0362!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0361!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0362!VOVKOS!]
 		||
-		*"I give you my oath, in Biracul's name, I will allow no harm to befall you!"*
+		*"I give you my oath, in Biracul's name, no harm will befall you!"*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0363!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0362!VOVKOS!/]
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0363!VOVKOS!]
 		||
-		*"When you're satisfied that this place has long been bereft of faith, we can depart immediately."*
+		*"When you're satisfied this place has long been bereft of faith, we'll leave."*
 		(F#"..."){F:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0364!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0363!VOVKOS!/]
 	
@@ -2055,7 +2055,7 @@ leaving isle
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.002!VOVKOS!]
 		||
-		*"Quickly now! We must make haste!"*
+		*"Quickly now!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!9999.X9999!VOVKOS!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!1.002!VOVKOS!/]
 	
@@ -2086,7 +2086,7 @@ _____________________________________
 TEMPLE OF THE VOICE
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!]
 		||
-		*Sometimes memories are clear as a mountain spring. Most so, it seems, when they scar the mind, like some vile Thiudan brand, etching its taint upon our very core...*
+		*Sometimes memories are clear as a mountain spring. Most so, it seems, when they savagely scar the mind, like some vile Thiudan brand, etching its taint upon our very core...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!/]
 

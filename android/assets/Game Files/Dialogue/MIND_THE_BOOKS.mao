@@ -16,13 +16,13 @@ BIRACUL
 EIDOS
 	[/MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!]
 		||
-		*"They claimed Time was but a loop, repeated ad nauseum, chipping away at the incorporeal, recording events destined and unchanged in perpetuity...
+		*"They claimed Time was but a loop, infinitely repeating, endlessly recording events destined and unchanged in perpetuity. But Time has never been just a closed circle. No, it has forever been a Spiral!
 		
-		No. Time is not thus! It is as the Spiral! The illusion of circularity, repetition, and cycles all arise by but a lack of proper perspective! The Spiral from above seems but a circle. Yet from the side it undulates, wrapping itself around a void pillar. Be the Spiral deep enough, it metamorphoses into concentric circles and recedes into a Singularity.
+		The illusion of cylces arises by but a lack of proper perspective! The Spiral from above seems a mere ring. Yet from the side, it wraps itself around a void pillar. Be the Spiral deep enough, it metamorphoses into concentric circles, receding into an unreachable Singularity.
 		
-		This truth, hidden in plain sight, in the dimension beyond the plane... What then do other dimensions obscure? What other angles would grant us a fuller view?
+		This truth was hidden in plain sight, in the dimension beyond the plane. What then do other dimensions obscure? What other angles would grant us a fuller view? We must	no longer fall prey to false circles! No longer be fooled by the limitation of or vision! For what the eye cannot see, the light of intellect will illuminate!
 		
-		No longer will we be caught in false circles! No longer can we be fooled by the limitation of or vision! For what the eye cannot see, the light of intellect will illuminate. We will extricate orselves from the illusory loop and take or place among the Gods!"
+		We will extricate orselves from the illusory loop and take or place among the Gods!"
 		
 		Mind of the Spiral, Vol. I*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!}
@@ -53,9 +53,9 @@ TORMA
 
 	[/MIND!THE BOOK OF TORMA!THE BEGINNING!1.000!DESCRIPTION!]
 		||
-		*"If time is but another dimension to traverse, a simple stroll into the past or future becomes more geographical than temporal.
+		*"If Time is but another dimension to traverse, a simple stroll into the past or future becomes trivial.
 		
-		Thus, in pursuit of or purpose, to the path of the singularity or feet are directed, a place where origin and terminus are one, a closed loop encompassing all within an immeasurable unit."
+		Thus, in pursuit of our purpose, to the path of the Singularity our feet are directed. We go to a place where origin and terminus are one, a genuine closed loop encompassing All within an immeasurable unit."
 		
 		Mind of the Spiral, Vol. II*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2101!DESCRIPTION!}
