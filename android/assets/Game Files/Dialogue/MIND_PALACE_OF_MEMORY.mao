@@ -2086,7 +2086,7 @@ _____________________________________
 TEMPLE OF THE VOICE
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!]
 		||
-		*Sometimes memories are clear as a mountain spring. Most so, it seems, when they savagely scar the mind, like some vile Thiudan brand, etching its taint upon our very core...*
+		*Sometimes memories are clear as a mountain spring... most so, it seems, when they savagely scar the mind, like a vile Thiudan brand, etching its taint upon our very core.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!/]
 
@@ -2098,7 +2098,7 @@ TEMPLE OF THE VOICE
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!DESCRIPTION!]
 		||
-		*Acts of torture, acts of gluttony, acts of sloth and lust, all too gut-churning for a simple Zhilian to witness, let alone comprehend.*
+		*Acts of torture, of gluttony, of sloth and of lust, all too gut-churning for a simple Zhilian to witness, let alone comprehend.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!DESCRIPTION!/]
 
@@ -2110,7 +2110,7 @@ TEMPLE OF THE VOICE
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!DESCRIPTION!]
 		||
-		*These fallen followers hide their loss of faith among the sea of hedonism. This one anonymously and without consequence peels skin at a blade's edge from a slave; the other inhales his poisons deeply, getting lost in the dense, mind-dulling cloud. Still more engage in an unnatural intercourse of the many, while others drown in potent and intoxicating brews.*
+		*These fallen followers hide their loss of faith among a sea of hedonism. This one peels skin from a slave at a blade's edge; the other inhales his poisons deeply, getting lost in the dense, mind-dulling cloud; others engage in an unnatural intercourse of the many, while some drown in potent and intoxicating brews.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.004!DESCRIPTION!/]
 
@@ -2128,7 +2128,7 @@ TEMPLE OF THE VOICE
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.007!DESCRIPTION!]
 		||
-		*As my Self looks upon the writhing Falsefleshes - naked, drenched, exhuasted, desperate - the mystery of their purpose becomes the unasked question plaguing my consciousness. In truth, never did Biracul claim hedonism unholy, but clear as cloudless skies, this is nothing but short-sighted! The Shining One would never have let such decadence fall upon his faithful!*
+		*As my Self looks upon the writhing Falsefleshes - naked, drenched, exhuasted, desperate - the mystery of their purpose becomes the unasked question plaguing my conscious mind. In truth, never did Biracul claim hedonism unholy, but clear as cloudless skies, this is nothing but short-sighted! The Shining One would never have let such decadence fall upon his faithful! Never would He let them thus destroy their Falseflesh!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.008!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.007!DESCRIPTION!/]
 
@@ -2140,7 +2140,7 @@ TEMPLE OF THE VOICE
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.X009!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.010!DESCRIPTION!|
-		*But soon my thoughts are interrupted by their instigator, the sheperd of these lost sheep. He sits upon a silver throne, flanked by rows of Neverborn sentries. His voice, a guttural growl, is thunder cracking through the all-consuming din.*
+		*But soon my thoughts are interrupted by their instigator, the sheperd of these lost sheep. There he sits, upon a silver throne, flanked by rows of Neverborn sentries. His voice, a guttural growl, is thunder cracking through the all-consuming din.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X1101!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.X009!DESCRIPTION!/]
 
@@ -2301,7 +2301,7 @@ CAITO
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0042!CAITO!]
 		||
 		*"And in so doing, we reach the purest state of our Trueflesh!"*
-		(C#"Well, Biracul never said it was wrong, I guess."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!}
+		(C#"Well, Biracul never said it was wrong..."){C:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.003!CAITO!}
 		(D#"So your cure for poison is more posion? Genius..."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!1.004!CAITO!}
 		(E#"I'm afraid the only cure for stupidity is death, my friend."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.005!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0042!CAITO!/]
@@ -2323,7 +2323,7 @@ CAITO
 		*"You, on the other hand, will merely be consumed by your own hubris as you face the judgment of the Wyrm..."*
 		(A#"Your extremism will only lead to unhappiness, Caito."){A:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.001!CAITO!}
 		(D#"A gruesome death sounds preferable to being around you."){D:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!}
-		(E#"The strong consume the weak; I'm poor feed for the Wyrm, you however..."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.005!CAITO!}
+		(E#"Strong consumes weak, I'm poor feed for the Wyrm; you however..."){E:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.005!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0051!CAITO!/]
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.006!CAITO!]
@@ -2348,7 +2348,7 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.036!CAITO!]
 		||
-		*"...At this point I don't know whether you are being facetious or are simply a lunatic."*
+		*"...At this point I can't tell whether you're being facetious or are simply a lunatic."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.0360!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.036!CAITO!/]
 
@@ -2372,7 +2372,7 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.066!CAITO!]
 		||
-		*"You know they only respond to the commands of a mage in possession of their Command Sigil, do you not?"*
+		*"You do know they only respond to the commands of a mage in possession of their Command Sigil, right?"*
 		(F#"Worth a shot! TALLY HO!"){F:1,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!9999.X9999!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.066!CAITO!/]
 
@@ -2503,7 +2503,7 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!]
 		||
-		*"...I have my doubts that your words will be so cutting when faced with the Wyrm."* 
+		*"...I've my doubts that your words will be so cutting when faced with the Wyrm."* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.0010!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!3.004!CAITO!/]
 
@@ -2532,45 +2532,45 @@ _____________________________________
 URUGH
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.000!DESCRIPTION!]
 		||
-		*And as such, my feet to ancient Urugh shift, or at least, to what remains of it. It is a desolate city, whole swaths of it remarkably untouched by the cruel and indiscriminate hands of Brother Time, yet still as lifeless as the wastes surrounding it.
+		*And as such, my feet to ancient Urugh shift, or at least, to what remains of it. A desolate city, whole swaths of it remarkably untouched by the cruel and indiscriminate hands of Brother Time, yet still it stands as lifeless as the wastes surrounding it.
         
-        As if a demon summoned by the thought of its name, the wastes breathe their foul breath at my back, kicking up spiraling clouds of dust. The spirals dance toward the open gate, as unwanted guides urging a reluctant visitor. Remembering all too well what awaits, feet step those fateful steps across the threshold.*
+        As if a demon summoned by the thought of its name, the wastes wheeze their foul breath at my back, kicking up spiraling clouds of dust. The spirals dance toward the open gate - unwanted guides urging on a reluctant visitor. Remembering all too well what awaits, these feet still walk those fateful steps across the threshold.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.000!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0000!DESCRIPTION!]
 		||
-		*The gates, imposing, domineering, stare derisively as Biracul's humble servant enters. These sinful towers call to memory another Kavan feature, brothers torn apart by an ancient calamity. So similar in construction, yet so utterly contrasting in magnitude are they to the pride of Tambul, that wicked Vanquished relic they call the Gate of Celestial Judgment. Indeed, as Brother Mountain is to a common boulder, so too is this gate to that of the Tambulans; even inviting comparison may be deemed injurious.*
+		*The gates, imposing, domineering, stare derisively as Biracul's humble servant enters. These sinful towers call to memory another Kavan feature, brothers torn apart by an ancient calamity. So similar in make, yet so utterly contrasting in magnitude are they, these abhorrent Gates of Awakening and that wicked Vanquished relic called the Gate of Celestial Judgment. Indeed, as Brother Mountain is to a common boulder, so too is this gate to that of the Tambulans; even inviting comparison almost seems undue.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0000!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0001!DESCRIPTION!]
 		||
-		*Though ominous it may be, a now dead gate is as powerless as the dead who built it. It cannot bar my passage! It cannot stop His plan! Now all it can do is wait to rot and crumble as its sinful makers did!*
+		*Though ominous it may be, a now dead gate is as powerless as the dead who built it. Yes, it cannot bar my passage! It will not stop His plan! Now all it can do is rot and crumble as its sinful makers did!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00010!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0001!DESCRIPTION!/]
 
     [/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00010!DESCRIPTION!]
 		||
-		*But no cause has this humble servant to linger on matters long since settled. The foolish Vanquished punishment received, forgotten are, and soon shall disappear completely. His will demands it and his servant obeys!*
+		*But no cause has Biracul's humble servant to linger on matters long settled. The foolish Vanquished punishment received, forgotten are, and soon shall completely disappear. His will demands it and his servants obey!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00010!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0002!DESCRIPTION!]
 		||
-		*And then duty calls the Trueflesh back to its pursuit. Thus is my Self returned to the present - to its present. As my mind's eye scans the hazy horizons of memory, to the north a massive fountain appears, shimmering green in a dying afternoon sun. Taller than the hawk can fly, louder than the desert winds, sweeter than the Spring's new flowers, it blocks out all else, as though some perceptual storm blinding all awareness. Waters cascade down its emerald flanks from heights unseen, hidden in a thick fog of their own making. It alone is alive and well in this lifeless city, a skyward crawling vine among a pile of bones.*
+		*Duty calls the Trueflesh back to its pursuit. Thus is my Self returned to the present - to its current present. As my mind's eye scans the hazy horizons of memory, to the north a massive fountain appears, shimmering green in a dying afternoon sun. Taller than the hawk can fly, louder than the desert winds, sweeter than the Spring's new flowers, it blocks out all else, as though some perceptual storm blinding all awareness. Waters cascade down its emerald flanks from heights unseen, hidden in a thick fog of their own making. It alone is alive and well in this lifeless city, a skyward-crawling vine among a pile of bones.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00020!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0002!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00020!DESCRIPTION!]
 		||
-        *But the spell soon breaks, when eyes fall upon the tragic stones atop a northeastern hill. Those gorgeous white pillars, all so carefully arranged in tightening circles... Tears well up and overflow - a mirror of the living fountain. Does it also weep? If so, hope compels that it remembers why... long now has my Self forgotten the reason for its own tears.*
+        *But the spell soon breaks, when eyes fall upon the tragic stones atop a hill northeast. Those gorgeous white pillars, all so carefully arranged in tightening circles... Tears well up and overflow - a mirror of the living fountain. Does it also weep? If so, hope compels that it remembers why... long now has my Self forgotten the reason for its own tears at this sight. But sure as Brother Sun does rise, so too do these tears fall whenever I chance upon the stone circle...*
    		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00021!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00020!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00021!DESCRIPTION!]
 		||
-		*Standing there in silent contemplation, this humble servant simply waits. Searching for the sound guidance. For the Voice.*
+		*Standing there in silent contemplation, this humble servant simply waits. Searching for sound guidance. For the Voice.*
 		(A#Head north toward the massive emerald fountain){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X001!DESCRIPTION!}
 		(B#Head northeast to the Stone Circle){B:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00021!DESCRIPTION!/]
@@ -2578,25 +2578,25 @@ URUGH
 >>>Saw statues of the Jinetes at the Emerald Font (2057)<<<
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X001!DESCRIPTION!]
 		|^2057:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00110!DESCRIPTION!|
-		*My feet drift as though upon a river's current toward the emerald font, destination ever drawing nearer...*
+		*Feet drift as though upon a river's current toward the emerald font, destination ever drawing nearer...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00100!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X001!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00100!DESCRIPTION!]
 		||
-		*It is then that my Self steps into the decaying shell of a once proud structure. The gray light of the Wasteland sky filters through gaping holes in a high-vaulted ceiling, illuminating motes of dust as they swirl like snowflakes in a windless fall.
+		*It is then my Self steps into the decaying shell of a once proud structure. The gray light of the Wasteland sky filters through gaping holes in a high-vaulted ceiling, illuminating motes of dust as they swirl like snowflakes in a windless fall.
 		
-		But the path is known to me now, as it was to me then, and it is into the waterways that my Self must descend.*
+		But the path is known to me now, as it was to me then. It is now and ever has been as it should be. A descent into the waterways, and a final birth from its canals await.*
 		(B#Descend into the waterways){B:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!}
 		(C#Look around){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00101!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00100!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00101!DESCRIPTION!]
 		||	
-		*It looks as though this place may once have mirrored the entrance hall at the city's origin. Alcoves line the walls where statues once stood, where partially misshapen stumps of rock now stand. Awareness calls like distant thunder as the mind counts the statues. Their number coincides with the number of Thiudan Blood-Drinkers... The eyes stare, searing those abominable, half-erroded visages forever into memory. These were the Masters of the Vanquishers! The malcontents who crushed humanity under the weight of their avarice! Their faces, into my Trueflesh burned, cannot be forgotten.*
+		*This place... it may once have mirrored the entrance hall at the city's origin. Alcoves line the walls where statues once stood, where partially misshapen stumps of rock now stand. Awareness calls like distant thunder as the mind counts the statues. Their number coincides with the number of Thiudan Blood-Drinkers... Eyes stare unbidden, searing those abominable, half-erroded visages forever into memory. These were the Masters of the Vanquishers! The malcontents who crushed humanity under the weight of their avarice! Their faces, into my Trueflesh burned, have never been forgotten.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2057!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00101!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00102!DESCRIPTION!]
 		||
 		*Though with dread filled, my eyes remain unaverted, transfixed upon the twisted countenances of Mother's enemies. Staring ever more intensely, until it feels as though the statues will reach out from the past to corrupt the very essence of my present.*
@@ -2605,26 +2605,26 @@ URUGH
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00103!DESCRIPTION!]
 		||
-		*Stumbling, my Self collapses, seated on the edge of the font, with only the sound of the crashing water to alleviate. This, the sole piece of Mother yet still allowed within this prison of man. Its call renews my focus, casting the haze of recollection back into sharp relief.*
+		*Stumbling, my form collapses at the edge of the font. The soothing sound of water crashing heals wounds unseen. This, the sole piece of Mother still allowed within this prison of man. Its call renews focus, casting the haze of recollection back into sharp relief.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00104!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00103!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00104!DESCRIPTION!]
 		||
-		*Now clear to see is the hatch leading down into the waterways of ancient Urugh, behind the emerald font. Yet, my Self awaits Its command before recklessly rushing in where ghosts fear to tread.*
+		*Now clear to see is the hatch leading down into the waterways of ancient Urugh, behind the emerald font. Yet, my Self awaits Its command before recklessly rushing in where ghosts fear tread.*
 		(B#Go to the Stone Circle){B:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!}
 		(C#Descend into the waterways){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00104!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00110!DESCRIPTION!]
 		||
-		*And back to the font drift my feet as though upon a river's current. There goes my Self to be the in company of the grotesque statues lying in desecration at Mother's hands, a fit punishment for the hubris of the fallen, the belly-slithering Blood-Drinkers of Thiuda...*
+		*And back to the font feet drift, as though riding Sister River's flow. The destination, none but the undesired company of the grotesque statues laid ruin by Mother's hand - a fit punishment for the hubris of the belly-slithering Blood-Drinkers of Thiuda...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00111!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00110!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00111!DESCRIPTION!]
 		||
-		*The hatch leading down into the waterways of ancient Urugh remains. Yet, my Self still awaits Its command before recklessly rushing in where ghosts fear to tread. Having arrived back here, though, it seems that this place holds some significance...*
+		*The hatch into the waterways of ancient Urugh remains. Yet, my Self still awaits Its command before recklessly rushing in where ghosts fear tread.*
 		(A#Descend into the waterways){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!}
 		(B#Go to the Stone Circle){B:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00111!DESCRIPTION!/]
@@ -2632,38 +2632,38 @@ URUGH
 >>>Saw the Stone Circle (2058)<<<
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!]
 		|^2058:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0014!DESCRIPTION!|
-		*Through these forlorn and forgotten streets shift my feet; to the spiraling Glyph of the Stone Circle, my Trueflesh is directed.*
+		*Through these forlorn and forgotten streets feet shift. To the spiraling Glyph of the Stone Circle, my Trueflesh is directed.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00120!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00120!DESCRIPTION!]
 		||
-		*The massive blocks here, though unmistakably wrought by the hand of man, give off a rare air of Mother's touch; it's almost as if they were a naturally eroded sculpture, perfected by Brother Time's chisel. They are arranged in what looks to be concentric circles with the bone-white husk of a dead tree at its centre.*
+		*The massive blocks here, though unmistakably wrought by man's hand, emit a rare air of Mother's touch; almost as if they were a naturally eroded sculpture, perfected by Brother Time's chisel. They are arranged in what looks to be concentric circles, ever tightening, all with the bone-white husk of a dead tree at their center.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00121!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00120!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00121!DESCRIPTION!]
 		||
-		*Standing among the ancient stones, no sickening and unholy communion with the damned Vanquished ails me. Odd as it is these heathens whose tool this once must have been. Greater still my confusion becomes when an intense pull from the dizzying labyrinth of lines making up the Glyph on the circle's floor overwhelms my Trueflesh. An unmistakable connection with the Shining One flows through my very core!*
+		*Standing among the ancient stones, no sickening and unholy resonance with the damned Vanquished ails me. Odd, as it is these heathens whose tools must have once crafted this place. Greater still my confusion grows when an intense pull from the dizzying labyrinth of lines upon the circle's floor begins to overwhelms the Trueflesh. An unmistakable connection with the Shining One seems to flow through my very core!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00122!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00121!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00122!DESCRIPTION!]
 		||
-		*Though ultimately an ineffable connection it remains, as clarity of purpose eludes me...*
+		*Though with it, a connection both undeniable and ineffable in equal parts remains, clarity of its purpose yet eludes me...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2058!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.00122!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0013!DESCRIPTION!]
 		||
-		*From this vantage point, it is clear to see the path which brought me here and the emerald font on the other end of the forked path. Yet some other seemingly innocuous sight catches my Self's gaze: the crumbling red bricks of structure beyond this hill...*
+		*From this site eyes see the path leading here as well as the emerald font at the forked path's end. Yet some other seemingly innocuous sight catches the mind. Beyond this hill, the crumbling red bricks of structure abide...*
 		(A#Head west to the massive emerald font){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X001!DESCRIPTION!}
 		(B#Go inspect the crumbling remains){B:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X00015!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0013!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0014!DESCRIPTION!]
 		||
-		*To the Stone Circle returns my Self and the connection with the Shining One pours to the forefront of memory. Yet as hazy as youthful memory is, it remains as incomplete as the nearby fallen bricks of the rust-colored structure.*
+		*To the Stone Circle my form returns and the connection with the Shining One pours to the forefront of memory. Yet as hazy as youthful memory is, it remains incomplete, and fragmented as the coppery, fallen bricks of the nearby structure.*
 		(A#Head west to the massive emerald font){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X001!DESCRIPTION!}
 		(B#Go back to inspect the crumbling remains){B:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X00015!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0014!DESCRIPTION!/]
@@ -2671,10 +2671,12 @@ URUGH
 >>>Saw the Red Tower ruins (2059)<<<
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X00015!DESCRIPTION!]
 		||
-		*The crumbling reddish sandstone is clearly in the process of returning to the dust whence it came. Yet behind remains the walls of what once must have been an imposing tower. Within the walls, surprisingly, is an absence, a darkened pit, bottomless at my best estimates, though this somehow fails to convey its true depth... There must have been some powerful magic at play here long ago.*
+		*The crumbling reddish sandstone now returns to the dust whence it came. Ancient beyond measure, this place has not the stains of a Vanquished hand. The fallen bricks outline the walls a once imposing tower. Its contents... only absence, a darkened pit, bottomless at best estimates - though, this still somehow fails to convey its true depth. An erasure so thorough its original existence now seems just a forgotten tale.
+		
+		But whatever the tragic fate of this tower may have been, all is as it should be.*
 		(A#Back to the Stone Circle){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X00015!DESCRIPTION!/]	
-	~~~~>	Maybe eventually have a point of access to the final Red Tower here if 30000 == true
+	~~~~>	Maybe eventually have a point of access to the final Red Tower here if 30000 == true???
 
 	
 To the tubes
