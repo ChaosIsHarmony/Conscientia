@@ -2682,14 +2682,16 @@ URUGH
 To the tubes
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!]
 		||
-		*My Self is led thus to the subterranean tubules connecting the city from beneath, down the ladder descending and into the tubes vanishing. Yet to my surprise, halfway down, the rungs give way to corrosion and my body falls into the hard but smooth floor of the waterway. Clear as a summer's sky that this means there is no return.*
+		*The city's veins, fittingly filled with the filth of man even after all this time, its stench warns the righteous of their unnatural birth. Yet down the ladder descending and into the tubes vanishing my Self goes. His will be done. All is as it should be.
+		
+		But surprise awaits halfway down, where the rungs give way to corrosion and my body falls into a pile of refuse, soft with rot. Clear as Summer's sky this is the final task of Biracul's Eidos, return no longer possible. Weakness of the Falseflesh conjures emotions of fear and regret. Strength of the True dispells them.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!/]
 	
 >>>Widened crack (2102)<<<
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!]
 		|^2102:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.010!DESCRIPTION!|
-		*But my Self arises and wanders, awaiting a sign. Only when a faint trickle of water leaving through a crack in the bottom of the tube collides with my mind's ear, does my Self stop to truly listen to my surroundings.*
+		*Thus my form arises and wanders, awaiting a sign in the darkness of this corpse's veins. Only when a faint trickle of water leaving through a crack in the bottom of the tube collides with my mind's ear, does my Self stop to truly listen to my surroundings.*
 		(C#Keep moving forward){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!}
 		(E#Widen the crack to see below){E:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2102!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!/]

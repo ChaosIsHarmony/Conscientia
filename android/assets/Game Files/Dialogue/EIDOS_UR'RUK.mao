@@ -194,10 +194,94 @@ CESS PIT
 >>>Widened crack in Torma (2102)<<<
 	[/KABU!UR'RUK!CESS PIT!2.X001!DESCRIPTION!]
 		|^2102:KABU!UR'RUK!CESS PIT!2.002!DESCRIPTION!|	
-		*After some time - minutes or hours, for time disguises itself well in this hellscape - she begins to hear fluid dripping onto a solid floor, one clearly well below the passage she now walks through. Reaching around with her foot, Eidos feels the edge of an opening spanning the width of the tube and of an indeterminable length. She peers down into the pitch blackness, but sees nothing. From the echo, though, she can tell that the floor is within safe jumping distance - that is if it is ever indeed safe to leap into darkness...*
-		(A#Go back toward light){A:0,KABU!UR'RUK!CESS PIT!1.000!DESCRIPTION!}
-		(B#Jump down){B:0,KABU!UR'RUK!DUNGEON OF THE VOID!0.X000!DESCRIPTION!}
+		*After some time - minutes or hours, for time disguises itself well in this hellscape - she begins to hear the sound of approaching splashes.*
+		(B#Find their source){B:1,KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!}
+		(D#Stop and listen){D:1,KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.X001!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!]
+		||
+		*She stops, as do they. She kills her breath and centers focus on her ears, her only useful ally at the moment...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.X001!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!]
+		||
+		*Nothing.*
+		(A#Move forward){A:1,KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!}
+		(F#Stay still){F:1,KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!]
+		||
+		*Nothing... until, suddenly something grows from the ether. A ever-brightening vision, both terrible and grand... Colorful plummage... A golden beak... the rays of a thousand suns... and then...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!/]
+
+	[/KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!]
+		||
+		*A resonant caw! The most exquisite sound to ever caress her ears!*
+		(A#Address the being.){A:1,KABU!UR'RUK!CESS PIT!2.001011!DESCRIPTION!}
+		(B#Observe until the end!){B:1,KABU!UR'RUK!CESS PIT!2.001012!DESCRIPTION!)
+		(C#Snap out of it.){C:1,KABU!UR'RUK!CESS PIT!2.001013!DESCRIPTION!)
+		(D#Run from the beast!){D:1,KABU!UR'RUK!CESS PIT!2.001014!DESCRIPTION!)
+		(E#Attack!){E:1,KABU!UR'RUK!CESS PIT!2.001015!DESCRIPTION!)
+		(F#Praise this magnificent creature!){F:1,KABU!UR'RUK!CESS PIT!2.001016!DESCRIPTION!)
+	[KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.001011!DESCRIPTION!]
+		||
+		*Eidos attempts to hail this shade-born vision, but finds confusion where she had hoped for communication, for the being has vanished... Not a trace of its visit remains, save the melodious call yet ringing in her ears...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0010110!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001011!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.0010110!DESCRIPTION!]
+		||
+		*Eidos shifts her feet in the muck, stumbling on a rare solid artifact among the refuse. Her hands fly out to cushion her fall. What they find instead of floor is wall, the tunnel's end. Her touch causes the cold surface to warm, then to glow, revealing a Glyph - unknown to her, or forgotten. Though, its light soon dies as it returns to a watchful slumber.*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.0010110!DESCRIPTION!/]
+
+	[/KABU!UR'RUK!CESS PIT!2.001012!DESCRIPTION!]
+		||
+		*...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001012!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.001013!DESCRIPTION!]
+		||
+		*...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001013!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.001014!DESCRIPTION!]
+		||
+		*...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001014!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.001015!DESCRIPTION!]
+		||
+		*...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001015!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.001016!DESCRIPTION!]
+		||
+		*...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001016!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!]
+		||
+		*She moves again and the splashing begins anew. She hesitates, but soon continues. Stumbling on a rare solid artifact among the muck, her hands fly out to cushion her fall. What they find instead of floor is wall, the tunnel's end. Her touch causes the cold surface to warm, then to glow, revealing a Glyph - unknown to her, or forgotten. Though, its light soon dies as it returns to a watchful slumber.*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!/]
+	
+	[/KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!]
+		||
+		*Passage blocked, she has but a single choice - no choice at all, it could be said.*
+		(A#Go back toward light){A:0,KABU!UR'RUK!CESS PIT!1.000!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.0013!DESCRIPTION!/]
 	
 	[/KABU!UR'RUK!CESS PIT!2.002!DESCRIPTION!]
 		||
