@@ -2691,86 +2691,156 @@ To the tubes
 >>>Widened crack (2102)<<<
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!]
 		|^2102:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.010!DESCRIPTION!|
-		*Thus my form arises and wanders, awaiting a sign in the darkness of this corpse's veins. The echoes of faint trickle of water demand attention. Massive, amplified artificially by the tube. Tracing a foot along the floor, it seems a crack beneath grants escape to the city's lifeblood. Perhaps it will thus meet its demise! The wretched bastard child hemorrhaging the filth its wicked fathers imbued it with!*
+		*Thus my form arises and wanders, awaiting a sign in the darkness of this corpse's veins. The echoes of faint trickle of water demand attention. Massive, amplified artificially by the tube. Tracing a foot along the floor, it seems a crack beneath grants escape to the city's lifeblood. Perhaps it will thus meet its demise! The wretched bastard child hemorrhaging the filth its wicked fathers imbued in it!*
 		(C#Keep moving forward){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!}
 		(E#Widen the crack to hasten the process){E:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2102!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.010!DESCRIPTION!]
 		||
-		*Thus my form arises and wanders, awaiting a sign in the darkness of this corpse's veins. The echoes of faint trickle of water demand attention. Massive, amplified artificially by the tube. Tracing a foot along the floor, it seems a crack beneath grants escape to the city's lifeblood... Then, as of habit, pounding fists and stomping feet splinter, pulverize and otherwise erase from existence the fissure, sending it into the realm of memory. Below this vein, another layer holds. Yet the damage is done and Brother Time will surely finish Biracul's work.*
-		(A#Move forward){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!}
+		*Thus my form arises and wanders, awaiting a sign in the darkness of this corpse's veins. The echoes of faint trickle of water demand attention. Massive, amplified artificially by the tube. Tracing a foot along the floor, it seems a crack beneath grants escape to the city's lifeblood...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0100!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.010!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0100!DESCRIPTION!]
+		||		
+		*Without warning, my form moves. As of habit, pounding fists and stomping feet splinter, pulverize and otherwise erase from existence the fissure, sending it into the realm of memory. Below this vein, another layer holds. Yet the damage is done and Brother Time will surely finish Biracul's work.*
+		(A#Move forward){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0100!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.011!DESCRIPTION!]
 		||
-		*With no tools at my disposal other than what Mother gifted me, my Self moves to widen the crack. Pounding fists and stomping feet splinter, pulverize and otherwise erase from existence the fissure, sending it into the realm of memory. Below this vein, another layer holds. Yet the damage is done and Brother Time will surely finish Biracul's work.
-		
-		Suddenly, strongly felt is another connection to He whose Voice rings through me. Benevolent Biracul's hand must, too have reached this forsaken prison of man. Was He preparing my journey's path, so that success was guaranteed? Such thoughts warm my ghost to the core!*
-		(A#Keep moving forward){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!}
+		*With no tools to use but those which Mother gifted, my Self resolves to widen the crack. Pounding fists and stomping feet splinter, pulverize and otherwise erase from existence the fissure, casting it deep into the realm of memory. However, below this vein, another layer holds, tenuously shielding the echoing cavern beneath it. Yet the damage is done and Brother Time will surely finish Biracul's work...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0110!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.011!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0110!DESCRIPTION!]
+		||
+		*Suddenly, passionate waves of Awareness wash over the mind. A connection to He whose Voice rings through me... Yes! Benevolent Biracul's hand must too have touched this forsaken prison of man! Was He preparing the journey's path? Hope compels me to believe it so! Such thoughts warm my ghost to the core!*
+		(A#Keep moving forward){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0110!DESCRIPTION!/]
 
 
 Require some Glyph to pass through here, one the can be used in BoE when she's in the Cess Pit, one acquired in BoR, BoTh, or BoW???
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!]
 		||
-		*The Voice compels me! Move forward into the darkness of the unknown! Blindly stumbling, with none but faith as trusted guide, feet drive me onward. The journey ends upon collision with a portal, sealed through some weakened magic. A dead end?*
+		*As the Voice commands, the Flesh obeys! Onward into the darkness of the unknown! Blindly stumbling, with none but faith as trusted guide, feet drive me ever forward. Though the trek soon ends upon collision with a portal, sealed through some weakened magic. A dead end..? Or...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0120!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.012!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0120!DESCRIPTION!]
 		||
-		*Brother Time leaves none untouched and memory is no exception. Past the portal my Self did travel, yet how it was accomplished again eludes recall.*
+		*Recollection eludes the mind... Brother Time leaves none untouched. As His feet in solemn march step absently upon our carefully crafted sandcastles, so too do His fingers smudge the ink of Memory as it dries.
+		
+		Clear as cloudless skies did my Self past the portal travel, yet how it was accomplished... certainty to mystery returns. All is as it should be.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0121!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0120!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0121!DESCRIPTION!]
 		||
-		*The spiral stairwell thus reached, my Self plunges further into the bowels of the structure. There my long-sought prize lies! The Thought Wheel of the Beginning, the Birthplace of the All-Seer!*
+		*The spiral stairwell thus reached, deeper into the bowels of the structure my form plunges. Deeper, deeper, ever-deeper. Converging to where my long-sought prize lies in restless slumber! The Thought Wheel of the Beginning, the Birthplace of the All-Seer!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.013!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0121!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.013!DESCRIPTION!]
 		||
-		*Passing through ghostly portals - here now and gone in the space of a thought - my Self stands in a room bathed in eldritch light. An enclosed chamber where nearly all space is occupied by blasphemous works of artifice poisons the eyes! Five profane thrones of silver curse the chamber. Arranged around a shining, circular seal, each faces inward and toward the others. A closer look at the thrones soon reveals the charred shadows of figures burned onto the smooth metal seats. What diabolical misdeeds were done in this unholy space?! Perhaps it is a question best left unasked.*
-		(B#Look around){B:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0130!DESCRIPTION!}
-		(C#Examine the Farcaster seal){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!}
+		*Passing through ghostly portals - here now, then gone - feet drift among the chambers in utter darkness. Floating in the shade, the eyes soon bathe in eldritch light. Not far ahead, the floor yawns, vomitting a ghoulish glow through the shattered teeth of its gaping maw. Peering down its throat, eyes now see into its empty belly; long has it gone hungry. But today it breaks the fast, swallowing my form as it leaps to the room below.* 
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0130!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.013!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0130!DESCRIPTION!]
-		||	
-		*Looking around, there is a man-made aperture in one of the walls peering out into a gargantuan cavern, which is illuminated by a greenish phosphorescence lining the walls. As my mind's eye scans the cavern, a horrific realization dawns upon me as the five spheres of absolute darkness hovering mid-air come into view: this could be none other than the very seat of the Blood-Drinkers!
-
-		To this day it eludes my ken how such lowly beasts could have ever managed to reach the sacred Empyrean. Nor will my Self ever even be capable of understanding why, truly...*
-		(B#Look at the spheres){B:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.014!DESCRIPTION!}
+		||
+		*A resonant slap of feet echoes sharply through the lengthy hall. Here nearly all space is occupied by blasphemous works of artifice - poison to the mind! Five profane thrones of silver curse the chamber. Arranged around a shining, circular seal, each faces inward and toward the others. A closer look at the thrones soon reveals the charred shadows of figures burned onto the smooth metal seats. What diabolical misdeeds were done in this unholy space?! A question perhaps best left unasked.*
+		(B#Look around){B:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0131!DESCRIPTION!}
 		(C#Examine the Farcaster seal){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0130!DESCRIPTION!/]
 
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0131!DESCRIPTION!]
+		||	
+		*Eyes wander, soon falling upon a break in the eight walls, upon a window peering out into a gargantuan cavern. The area's luminescence springs from the unnatural emerald sludge coating the cavern walls.
+		
+		But the cavern holds secrets far more profane, far more wicked than this! Five spheres of darkness absolute hover mid-air, staring out like a corpse's sightless eyes. Oh, curse those wretched, truth-blind eyes of the Blood-Drinkers! When they gazed upon the Empyrean, the All-Seer must have burned brilliantly, casting eternal shadows on the arrogant fools who came uninvited!*
+		(B#Look at the spheres){B:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.014!DESCRIPTION!}
+		(C#Examine the seal the thrones surround){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0131!DESCRIPTION!/]
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.014!DESCRIPTION!]
 		||
-		*Gazing intently once more at the spheres, their visual appearance is rather peculiar, it's almost as if they were not blackened objects, but rather the utter absence of any matter whatsoever. Indeed, this renders any attempt to discern whether they are truly convex spheres or simply concave dimples in the fabric of space absolutely futile.
-
-		Though it pains me to say so, the Thought Wheel is indeed astonishingly beautiful with its forbbiden geometries and impossible scale. The crime of this thought yet weighs heavy upon my memory.*
-		(A#Examine the Farcaster seal){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!}
+		*The more the eyes fixate upon the dark orbs, the more abhorrent they become! Rage fills the heart at the mere sight of them! Silent and unmoving, they are the utter absence of form, holes pierced into the very fabric of space...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0140!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.014!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0140!DESCRIPTION!]
+		||
+		*The blasphemous mockery of His Eye!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0141!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0140!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0141!DESCRIPTION!]
+		||
+		*Fools! What could possibly compare?!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0142!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0141!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0142!DESCRIPTION!]
+		||
+		*Not these forbbiden geometries!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0143!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0142!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0143!DESCRIPTION!]
+		||
+		*Not this irreverent toy!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0144!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0143!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0144!DESCRIPTION!]
+		||
+		*You Blood-Drinkers needed five to even glimpse what He sees with one!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0145!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0144!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0145!DESCRIPTION!]
+		||
+		*And what becomes of those who play God when they meet Him?*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0146!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0145!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0146!DESCRIPTION!]
+		||
+		*Ha ha! Yes! What have you to say now, Blood-Drinkers?!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0147!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0146!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0147!DESCRIPTION!]
+		||
+		*The only remedy for hubris is the bitter draught of death! And now you have drunk your fill!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0148!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0147!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0148!DESCRIPTION!]
+		||
+		*All is as it should be!*
+		(A#Examine the seal the thrones surround){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0148!DESCRIPTION!/]
 
 >>>Wrote torma's final words (2103)<<<
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!]
 		|^2103:MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0155!DESCRIPTION!|
-		*Turning my mind's eye to the seal, the memory of the Empyrean floods my thoughts, leaving no space for anything but the ecstasy of the holy mission entrusted to me.*
+		*The seal... Yes, the seal! Memories of the Empyrean now flood my thoughts, the All-Seer's warm embrace, the unbounded ecstasy of the holy mission entrusted to me!*
 		(A#Record final words){A:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!9990.X2103!DESCRIPTION!}
 		(C#Step upon the seal){C:1,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X015!DESCRIPTION!/]
 		
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0150!DESCRIPTION!]
 		||
-		*Then a sudden revelation instills in me the need to record some parting words. A loosened stone my pen, the Shining One my muse, and out flow the words that will be my last on this seemingly interminable journey...*
+		*Then a sudden revelation instills in me the need to record some parting words... A loosened stone my pen, the Shining One my muse, and out flow the words that will be my last on this seemingly interminable journey...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0151!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0150!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0151!DESCRIPTION!]
 		||
-		*SUCCESS! THE ORIGIN OF THE MONAD IS FOUND!
+		*SUCCESS! THE ORIGIN OF THE MONAD FOUND IS!
 		DEMONS THE VANQUISHED WERE IF SUCH A THOUGHT WHEEL HERE TURNS,
 		A COUNTER WHEEL IN RESPONSE TO THE REVOLUTION OF OUR WORLD.
 		LIES THE EMPYREAN BEYOND THIS PLANE?
@@ -2783,37 +2853,67 @@ Require some Glyph to pass through here, one the can be used in BoE when she's i
 		
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0152!DESCRIPTION!]
 		||
-		*Thought to word translated, as incomplete as essence to thought first rendered. An emptiness my Trueflesh had always felt in trying to express both in thought and in word the sublime nature of my Biraculian connection to the Monad, to the name my Trueflesh now dares to utter...*
+		*Thought to word translated, as incomplete as essence to thought first rendered... An emptiness my Trueflesh had always felt in trying to express both in thought and word the sublime nature of my Biraculian connection to the Monad, to the name my Trueflesh now dares to utter...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0153!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0152!DESCRIPTION!/]
 		
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0153!DESCRIPTION!]
 		||
-		*Conscientia.*
+		*To Conscientia.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0154!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0153!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0154!DESCRIPTION!]
 		||
-		*Thus named, thus verbalized, all potency of its essence evaporates. For though words may possess strong magic, nothing compares to the essence from which they derive their power. It is at this point that my Self thought it would no longer need the conceit of thought or word to simply 'be'.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!}
+		*Thus named, thus to word transformed, all potency of its essence evanesces, like a moth finally attaining the flame. For though words may possess strong magic, nothing compares to the essence from which their power flows!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01540!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0154!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01540!DESCRIPTION!]
+		||
+		*My mission near completion, perhaps no longer will the mind need the conceit of thought or word...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01541!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01540!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01541!DESCRIPTION!]
+		||
+		*Perhaps 'I' can simply 'be'...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01541!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0155!DESCRIPTION!]
 		||
-		*Turning my mind's eye to the seal, the memory of the Empyrean floods my thoughts, leaving no space for anything but the ecstasy of the holy mission entrusted to me. Then giving one final glance to those fateful words my hand once etched into the stony floor so long ago, my Self once more steps upon the Farcaster seal.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!}
+		*The seal... Yes, the seal! Memories of the Empyrean now flood my thoughts, the All-Seer's warm embrace, the unbounded ecstasy of the holy mission entrusted to me!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01550!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0155!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01550!DESCRIPTION!]
+		||
+		*Gifting one final glance to those fateful words my hand once etched into the stony floor so long ago, my Self once more steps upon the Farcaster seal.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01550!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!]
-		||	
-		*Thus, with the anticipation of a lifetime of travel and searching, my Trueflesh arrives at the endpoint of my destiny. Finally stepping upon the seal, the Thought Wheel begins to spin, its activation signalling the fulfillment of my oath.*
-		(A#Begin){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.000!DESCRIPTION!}
+		||
+		*A lifetime of travel and searching, a lifetime of dedication and servitude... The culmination of His plan. It is finally upon us! Whatever deeds you demand of my Trueflesh now, willingly are they done! A foot upon the seal, soon accompanied by its twin, the Thought Wheel begins to spin, its activation signalling the fulfillment of my oath.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.030!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.03!DESCRIPTION!/]
 
-	
-	
-	
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.030!DESCRIPTION!]
+		||
+		*All is as it should be.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.031!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.030!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.031!DESCRIPTION!]
+		||
+		*Then again, never could it have been otherwise.*
+		(A#Begin){A:0,MIND!PALACE OF MEMORY!THE EMPYREAN!0.000!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.031!DESCRIPTION!/]
+
+
+
+
 _____________________________________
 WASTELAND
 Kavu Memory
