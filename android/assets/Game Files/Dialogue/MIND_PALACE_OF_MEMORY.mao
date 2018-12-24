@@ -2790,7 +2790,7 @@ Require some Glyph to pass through here, one the can be used in BoE when she's i
 
 	[/MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0143!DESCRIPTION!]
 		||
-		*Not this irreverent toy!*
+		*Not these irreverent, child's toys!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0144!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.0143!DESCRIPTION!/]
 
@@ -2953,7 +2953,7 @@ Kavu Memory
 		||
 		*Sudden movement draws the eye. The crater's ebon skin now crawls with pearlescent pustules, writhing in agony, taking on some demonic form. Blood-Drinkers' spawn! Deniers of Truth! They are all the Monad is not! Wicked mirrors relaying shadows! The absence of all Self! The...
 		
-		Odd... From the depths of memory, a forgotten Glyph resonates, begging communion...*
+		Odd... From the depths of memory, a forgotten Glyph resonates. Its throbbing pulse whispers... thoughts... no, words! Words begging communion...*
 		(C#Ignore the call){C:1,MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!}
 		(D#__Use the Glyph of the Occult__){D:1,MIND!PALACE OF MEMORY!WASTELAND!1.501!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0011!DESCRIPTION!/]
@@ -3009,7 +3009,7 @@ Kavu Memory
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!]
 		||
-		*Without warning, a strange sensations bubbles up from within memory. The emtional tug of Wulfias...*
+		*Without warning, a strange sensations bubbles up from within memory. The emotional tug of Wulfias...*
 		(A#Resist the pull){A:1,MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!}
 		(C#Acquiesce to the pull){C:1,MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!/]
@@ -3025,17 +3025,49 @@ Kavu Memory
 		*As the Voice commands, so does this servant obey. Strong the pull may be, but stronger is faith! The mind is a storm at sea, waves breaking, crashing, drowning out all thought. Faith are my chains! Bound is my Self to His will! Tied to the sacrificial altar, the surging waters and bellowing winds strip the Trueflesh from the mind, carrying it off into the infinite. Awareness wanes as slumber falls upon the Falseflesh like the Final Night. All is as it should be...*
 		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!]
 		||
-		*Just then, as if to wake me from this dream, Vovkos up the dune strides my name carried on the wind of his voice. Wordlessly he soothes me with his fatherly hand gripping my shoulder, into his embrace pulling. Tears cut through our dust-caked faces and my resolve is once more restored.
-		
-		Though divine intervention my flight must have been, as to the Salt Forest it leads. These crystalline pillars sprout forth from the upper lip of the blackened pit, and proffer some degree of isolation from the inexorable despair of the light-abhorring crater. 
-		
-		And thus it is into this forest of salt we plunge.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.004!DESCRIPTION!}
+		*Just then, as if to wake me from this dream, Vovkos up the dune strides my name carried on the wind of his voice. Wordlessly he soothes me with his fatherly hand, into his embrace drawing. Tears cut through our dust-caked faces...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0030!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!/]
-	
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0030!DESCRIPTION!]
+		||
+        *Memory compresses Time forcing it into unnatural folds. What may have once taken half day's lengthy sunlight, now simply needs epiphany's instantaneous flash. The beginning of forget is to remember.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0031!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0030!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0031!DESCRIPTION!]
+		||
+        *Is this the Shining One's mercy or His punishment? Does He keep us from the pain of the unremembered? Or is sin relived in perpetuity?*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0032!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0031!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0032!DESCRIPTION!]
+		||
+		*But answers would be meaningless - for how could an ant understand the will of man, much less a man the will of the Monad!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0033!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0032!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0033!DESCRIPTION!]
+		||
+        *Distant eyes peer into mine, pleading words issued through silent lips. Vovkos summons me back to the Wastes. Our journey continues.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0034!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0033!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0034!DESCRIPTION!]
+		||
+        *Divine intervention my flight must have been, as to the Salt Forest it leads. White crystal pillars sprout forth from the upper lip of the blackened pit, spaced with the exact precision of soldiers lining up to meet their early grave. From crater lip to cliff's edge these withering warriors glow crimson in Brother Sun's dying light, silently awaiting an inevitable doom. Yet their despair is oddly comforting, as Brother Death lives among us and not among the Blood-Drinkers. He comes as guide to take us to our lost family in the Eternal Spiral, when all that awaits the thrall's of Hel is oblivion...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0035!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0034!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0035!DESCRIPTION!]
+		||
+		*We are safe, for now, from the unnatural magics of forsaken wizards, safe among these dying pillars. Here we will not be undone. Here the pit of absence holds no sway.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.004!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0035!DESCRIPTION!/]
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.004!DESCRIPTION!]
 		||
 		*Yet, the wastes offer no true solace to the weary traveler.*
@@ -3044,19 +3076,62 @@ Kavu Memory
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0040!DESCRIPTION!]
 		||
-		*For just as it appears we would soon successfully extricate ourselves from the eerily silent forest, we come under the assault of a gargantuan crystalline guardian. If not for the self-sacrificing Technocraft of my Jeran companion, my Self would have undoubtedly perished. Tragically, though Biracul gave unto him the wisdom to detain the creature, it would be only through the darkest of means...*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0041!DESCRIPTION!}
+		*A thunderous crack acts as prelude to a pillar's fall. Vovkos moves again his silent lips, barking commands, unheard, unheeded. So he is cast in shadow, his eyes freezing upon the thing that would stand in light's way. Head turning, dread returning, eyes fall upon the fiend. Bigger than the beast of the Vedt twice over, a towering colossus stares down at us with ruby eyes burning brightly. Its form is some perverse mutation of crystals opaque and otherwise. Dark obsidian acts as armor, shielding powerful amethysts beneath.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0041!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0040!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0041!DESCRIPTION!]
 		||
-		*Vovkos, the former mystic wizard, is forced to summon from the adumbral ether of the Graylands a Blood-Drinker, entering covenant with it and fusing the malignant guardian with his Falseflesh for the remainder of eternity.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.005!DESCRIPTION!}
+        *And in the space of a thought, the strength that fell a pillar comes crashing down towards our frail Falsefleshes...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0042!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0041!DESCRIPTION!/]
 	
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0042!DESCRIPTION!]
+		||
+        *When eyes next open to vision blurred, Vovkos kneels over me, forlorn face nearly hidden in the intercourse of dust and sand permeating the air. Now red streams flow where tears once did back in the Vedt - an eternity ago, it seems. But even though this moment lasts only an instant, his face tells me what his unspoken words never could...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0043!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0042!DESCRIPTION!/]
+	
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0043!DESCRIPTION!]
+		||
+        *We will not meet again in the Eternal Spiral.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0044!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0043!DESCRIPTION!/]
+	
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0044!DESCRIPTION!]
+		||
+        *With a nod of parting, he steps into the light, Falseflesh burning brighter than any crystal ever could! His thought draws circles in the sand, lines ricocheting within their bounds. With each new edge part of Vovkos and his crystalline foe shattered, spiraling toward their common center, fusing into some dark, unholy brew. When all is done and the light wanes, shadows return to the ancient forest.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0045!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0044!DESCRIPTION!/]
+	
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0045!DESCRIPTION!]
+		||
+		*A sacrifice he will make endless times, the ultimate sacrifice...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0046!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0045!DESCRIPTION!/]
+	
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0046!DESCRIPTION!]
+		||
+        *Never again can his Self rejoin the Self.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0047!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0046!DESCRIPTION!/]
+	
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0047!DESCRIPTION!]
+		||
+        *Vovkos is gone.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0048!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0047!DESCRIPTION!/]
+	
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0048!DESCRIPTION!]
+		||
+        *Undone.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.005!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0048!DESCRIPTION!/]
+	
+???
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.005!DESCRIPTION!]
 		||
-		*Alone my Self is left.*
+		*And so my Self sits alone among the dying trees of the Salt Forest.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0050!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.005!DESCRIPTION!/]
 	
