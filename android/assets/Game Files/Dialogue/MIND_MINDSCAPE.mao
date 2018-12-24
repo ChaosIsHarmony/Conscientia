@@ -4008,7 +4008,7 @@ Prelude to Kavan Wasteland Memory
 
 	[/MIND!MINDSCAPE!THE VOID!3.011!DESCRIPTION!]
 		||
-		*...Yet all is impermanent, and waves ripple across the tranquil void, the disturbance provoked by the greedy Memory-Thief who pursued in the Zhilian steppe. This character now returns to demand a memory of Kavan Urugh.*
+		*...Yet all is impermanent, and waves ripple across the tranquil Void, the disturbance provoked by the greedy Memory-Thief, pursuer in the Zhilian steppe. Now returned to demand a memory of Urugh, the stalker conjures dust-blown images from the depth of recall - a first, perhaps.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!3.012!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!3.011!DESCRIPTION!/]
 

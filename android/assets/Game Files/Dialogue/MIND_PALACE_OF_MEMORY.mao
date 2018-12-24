@@ -2919,74 +2919,112 @@ WASTELAND
 Kavu Memory
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.000!DESCRIPTION!]
 		||
-		*...from the ether fades in the wise and loyal Vovkos, more singularly devoted to Biracul and the All-Seer than any my Self has met. We walk among the glassy sands of the Kavan wastes headed only eastward, for all we knew was that the Wastes extend infinitely in that direction.
-		
-		After countless hours of treking, we come upon the gently sloping, time-worn entrance to a massive black pit. Dark visions it gives me of the unspeakable evils of the Blood-Drinkers. This place is cursed.*
-		(B#Descend into the pit){B:1,MIND!PALACE OF MEMORY!WASTELAND!0.001!DESCRIPTION!}		
-		(D#Run away){D:1,MIND!PALACE OF MEMORY!WASTELAND!0.0013!DESCRIPTION!}		
+		*...A hand reaches towards my form, grasping firmly, pulling me into the present. The hand soon grows a form, the wise and loyal Vovkos, most singularly devout of all the Monad's servants. Among the glassy sands of the Kavan wastes, we head east, ever east... Though the eye be lost in an infinity of sand, the mind is as compass, pointing only east toward the Stilled Sand Crater.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.000!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0000!DESCRIPTION!]
+		||
+		*Feet mark the sand, speaking of our presence. Yet Uncle Wind laughs loudly, hot breath blowing sand back into our tracks. Mother's family eventually erases all signs of our time here, a necessary destruction of the old to invite the new.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0001!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0000!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0001!DESCRIPTION!]
+		||
+		*Countless negated steps carry us to the crater's time-worn entrance, to that blackened sea of absence. Air ripples with the hot afterbirth of Hel's genesis - that spawn of unspeakable terror, the unmaker of what should be. Many were the sins of the Blood-Drinkers, but her creation chief among them. For her creation means the destruction of all else...*
+		(B#Descend into the crater){B:1,MIND!PALACE OF MEMORY!WASTELAND!0.001!DESCRIPTION!}
+		(D#Run away){D:1,MIND!PALACE OF MEMORY!WASTELAND!0.0013!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0001!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.001!DESCRIPTION!]
 		||
-		*We recklessly descend. My Self has never doubted the will of Biracul, but in truth, this is the closest my Self would come to abandoning my mission. For what now appears is beyond the horrors of anything my experience allowed my Self to imagine.*
+		*As the Voice commands, so do we obey! Recklessly we descend, into the jaws of madness. The chaos below eyes us with interest and desire in equal measure, tugging roughly at our Trueflesh, and slowly chipping away at our essence. Each step closer to it seems to melt a fraction of the Self, threatening to sever our link to the All-Seer. Even still, faith in the Shining One compels us! In His light no darkness can abide!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.X0010!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.001!DESCRIPTION!/]
-	
+
 >>>Learned hidden mind (12304)<<<
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.X0010!DESCRIPTION!]
 		|^12304:MIND!PALACE OF MEMORY!WASTELAND!0.0011!DESCRIPTION!|
-		*The ebony skin of the crater crawls with pearlescent pustules, writhing in agony, taking on some demonic form. They could be none other than the Blood-Drinkers' spawn, divine castigators operating solely on the basest of instinct. So foul are they, that their mere existence proves the beauty of divinity must exist by the Principle of Opposites.*
+		*Sudden movement draws the eye. The crater's ebon skin now crawls with pearlescent pustules, writhing in agony, taking on some demonic form. Blood-Drinkers' spawn! Deniers of Truth! They are all the Monad is not! Wicked mirrors relaying shadows! The absence of all Self!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.X0010!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0011!DESCRIPTION!]
 		||
-		*The ebony skin of the crater crawls with pearlescent pustules, writhing in agony, taking on some demonic form. They could be none other than the Blood-Drinkers' spawn, divine castigators operating solely on the basest of instinct. So foul are they, that their mere existence proves the beauty of divinity must exist by the Principle of Opposites.
+		*Sudden movement draws the eye. The crater's ebon skin now crawls with pearlescent pustules, writhing in agony, taking on some demonic form. Blood-Drinkers' spawn! Deniers of Truth! They are all the Monad is not! Wicked mirrors relaying shadows! The absence of all Self! The...
 		
-		But a curious Glyph seems to call out from the depths of memory, a controlling Glyph...*
+		Odd... From the depths of memory, a forgotten Glyph resonates, begging communion...*
 		(C#Ignore the call){C:1,MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!}
 		(D#__Use the Glyph of the Occult__){D:1,MIND!PALACE OF MEMORY!WASTELAND!1.501!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0011!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!]
 		||	
-		*My Self is woken from its reverie when this pulsating river of filth begins to shift its flow in our direction. In fear my Self runs, fleeing from the weight of my responsibilities to Biracul. Vovkos, gives chase attempting to soothe and assure me. But my speed of flight exceeds his and far to the north my Self ranges, ascending a glassy dune capped with the calcified husk of a Vanquished warbeast.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.X002!DESCRIPTION!}
+		*A flash of Awareness acts as summons to the current present. Roused from ecstasy and delivered into terror, eyes witness the pulsating river of filth shift its flow in our direction. Fear grips the form, compelling flight from duty, escape from whatever madness lurks below. Vovkos gives chase. Yet soon does he fade into the dust of unremembered events.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.00120!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.00120!DESCRIPTION!]
+		||
+		*Feet work unbidden, their panicked retreat carrying my form north, far from the wicked pit. Space is a blur, until at last my Self ascends a glassy dune, capped with the calcified husk of a Vanquished warbeast. Here the safety of solitude awaits. Even in Danger's den, Biracul offers shelter.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.00120!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0013!DESCRIPTION!]
 		||
-		*At the merest thought of having to delve into that pit of horrors my stomach churned. In a panicked fear my Self runs, fleeing from the weight of my responsibilities to Biracul. Vovkos, gives chase attempting to soothe and assure me. But my speed of flight exceeds his and far to the north my Self ranges, ascending a glassy dune capped with the calcified husk of a Vanquished warbeast.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.X002!DESCRIPTION!}
+		*Yes, this place is... unsettling. The heart's unspoken fears, its silent cries, ring truly in His ears! Biracul urges retreat! Willingly the Self would have descended into chaos, yet this He does not demand. Faith steadfast, the tranquil peace of safety is my reward!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0013!DESCRIPTION!/]
 		
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!]
+		||
+		*Reaching the warbeast's worn carapace, my Self pauses in a moment of silent contemplation. Here yet another finger upon the hand of the All-Seer moved the world...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0020!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0020!DESCRIPTION!]
+		||
+		*Wulfias.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0021!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0020!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0021!DESCRIPTION!]
+		||
+		*A journey by the All-Seer commanded then, just as mine is now. His name fades into the shadows of forget, his deeds along with it. How long before my fate converges with his? What markers will my Self leave to likewise be forgotten..?*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.X0022!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0021!DESCRIPTION!/]
+
 >>>Have the Book of Wulfias (2004)<<<
-	[/MIND!PALACE OF MEMORY!WASTELAND!0.X002!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.X0022!DESCRIPTION!]
 		|^2004:MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!|
-		*Reaching the carapace, my Self pauses in a moment of silent contemplation of yet another finger upon the hand of the All-Seer: Wulfias. His journey here by the All-Seer commanded, just as mine. Is my Self to meet the same end as he and his beasts? Though the Eidos my Self may be, the knowledge of such ends is even beyond my ken and to the will of the All-Seer left...*
+		*None will remember Torma... Of course... Torma never existed to begin with! A mere fragment of the Unit! A finger unaware it is of the hand! The hand forgetting it works at the mind's behest!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0023!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!0.X0022!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.0023!DESCRIPTION!]
+		||
+		*When all have forgotten Torma, when history no longer whispers the name, only then can my Self truly rejoin the Self! A return to the Eternal Spiral! That is faith's reward!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!0.X002!DESCRIPTION!/]
+	[MIND!PALACE OF MEMORY!WASTELAND!0.0023!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!]
 		||
-		*Reaching the carapace, my Self pauses in a moment of silent contemplation of yet another finger upon the hand of the All-Seer: Wulfias. His journey here by the All-Seer commanded, just as mine. Is my Self to meet the same end as he and his beasts? Though the Eidos my Self may be, the knowledge of such ends is even beyond my ken and to the will of the All-Seer left...
-		
-		Strangely a feeling bubbles up from within my memories, the emtional tug of Wulfias, for that which works through me must have been curious to explore the potentiality of such a life.*
-		(A#Resist the pull){A:1,MIND!PALACE OF MEMORY!WASTELAND!0.0020!DESCRIPTION!}
-		(C#Acquiesce to the pull){C:1,MIND!PALACE OF MEMORY!WASTELAND!0.0021!DESCRIPTION!}
+		*Without warning, a strange sensations bubbles up from within memory. The emtional tug of Wulfias...*
+		(A#Resist the pull){A:1,MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!}
+		(C#Acquiesce to the pull){C:1,MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!/]
 	
-	[/MIND!PALACE OF MEMORY!WASTELAND!0.0020!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!]
 		||
-		*As the tool of a higher power, Its commands this servant faithfully follows. Thus the torrent of emotion washes over me, battering my psyche in the extreme.*
+		*As the Voice commands, so does this servant obey. Strong the pull may be, but stronger is faith! The mind is a storm at sea, waves breaking, crashing, drowning out all thought. Faith are my chains! Bound is my Self to His will! Safe in His restraints, the waves cannot carry me to sea!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!0.0020!DESCRIPTION!/]
+	[MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!/]
 	
-	[/MIND!PALACE OF MEMORY!WASTELAND!0.0021!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!]
 		||
-		*As the tool of a higher power, Its commands this servant faithfully follows. Thus the torrent of emotion washes over me, battering my psyche in the extreme, until it washes from my Trueflesh the essence of the All-Seer. And into a deep sleep this Self falls...*
+		*As the Voice commands, so does this servant obey. Strong the pull may be, but stronger is faith! The mind is a storm at sea, waves breaking, crashing, drowning out all thought. Faith are my chains! Bound is my Self to His will! Tied to the sacrificial altar, the surging waters and bellowing winds strip the Trueflesh from the mind, carrying it off into the infinite. Awareness wanes as slumber falls upon the Falseflesh like the Final Night. All is as it should be...*
 		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!0.0021!DESCRIPTION!/]
+	[MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!]
 		||
