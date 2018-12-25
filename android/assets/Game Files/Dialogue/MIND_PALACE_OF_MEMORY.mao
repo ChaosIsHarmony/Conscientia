@@ -3028,7 +3028,7 @@ Kavu Memory
 
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!]
 		||
-		*Just then, as if to wake me from this dream, Vovkos up the dune strides my name carried on the wind of his voice. Wordlessly he soothes me with his fatherly hand, into his embrace drawing. Tears cut through our dust-caked faces...*
+		*Just then, as if to wake me from a sleepless dream, Vovkos up the dune strides my name carried on the wind of his voice. Wordlessly he soothes me with his fatherly hand, into his embrace drawing. Tears cut through our dust-caked faces...*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0030!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!/]
 
