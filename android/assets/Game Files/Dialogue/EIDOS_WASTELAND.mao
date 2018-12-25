@@ -485,7 +485,7 @@ ADARIK
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.1022!ADARIK!]
 		||
-		*"No, the wraithglow'll get you... Gets everyone, good men and jinnspawn alike..."*
+		*"No, the wraithglow'll get you... Gets everyone, good men and Jinnspawn alike..."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!0.1023!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.1022!ADARIK!/]
 
@@ -515,7 +515,7 @@ ADARIK
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.2021!ADARIK!]
 		||
-		*"You might be wondering why a Tacribian was exiled. Well, my guess is that it's probably because she never shuts up! Speaks as much as a jinn-kissed Daziran, that one..."*
+		*"You might be wondering why a Tacribian was exiled. Well, my guess is that it's probably because she never shuts up! Speaks as much as a Jinn-kissed Daziran, that one..."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!0.2022!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.2021!ADARIK!/]
 
@@ -921,7 +921,7 @@ HEYAR
 	
 	[/KABU!WASTELAND!ARK'S BEACON!1.4000!HEYAR!]
 		||
-		*"And Jinnwraiths, well, they're draugnir who by some ill got deal with the jinns maintain their sentience even after being consumed by the wraithglow! But Jinnwraiths are few and far between - only been one in recorded history! Ha ha!"*
+		*"And Jinnwraiths, well, they're draugnir who by some ill got deal with the Jinns maintain their sentience even after being consumed by the wraithglow! But Jinnwraiths are few and far between - only been one in recorded history! Ha ha!"*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!1.4001!HEYAR!}
 	[KABU!WASTELAND!ARK'S BEACON!1.4000!HEYAR!/]
 
@@ -1020,7 +1020,7 @@ HEYAR
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.X2013!HEYAR!]
 		|@:KABU!WASTELAND!ARK'S BEACON!3.000!HEYAR!|
-		*"Sorry! Ha ha! I'm giddier than a jinn with a sinner! Let's continue with our exploration, shall we!?"*
+		*"Sorry! Ha ha! I'm giddier than a Jinn with a sinner! Let's continue with our exploration, shall we!?"*
 		(A#"Let's."){A:0,KABU!WASTELAND!ARK'S BEACON!9999.X9999!HEYAR!}
 	[KABU!WASTELAND!ARK'S BEACON!1.X2013!HEYAR!/]
 
@@ -1183,7 +1183,7 @@ HEYAR
 
 	[/KABU!WASTELAND!ARK'S BEACON!3.501!HEYAR!]
 		||
-		*"Splendid! So tell me, what do you get when you cross a jinn with Biracul?"*
+		*"Splendid! So tell me, what do you get when you cross a Jinn with Biracul?"*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!3.502!HEYAR!}
 	[KABU!WASTELAND!ARK'S BEACON!3.501!HEYAR!/]
 
@@ -1197,7 +1197,7 @@ HEYAR
 
 	[/KABU!WASTELAND!ARK'S BEACON!3.503!HEYAR!]
 		||
-		*"Oh you know, if you say 'a jinn', it sounds like 'aging'! A jinn, agin', get it?! HA! Ha ha! It's just too funny!"*
+		*"Oh you know, if you say 'a Jinn', it sounds like 'aging'! A Jinn, agin', get it?! HA! Ha ha! It's just too funny!"*
 		(A#"...Yeah, that's pretty clever, Heyar! Ha."){A:1,KABU!WASTELAND!ARK'S BEACON!3.X509!HEYAR!}
 		(C#"..."){C:1,KABU!WASTELAND!ARK'S BEACON!3.X509!HEYAR!}
 		(D#"I see Biracul forgot to bring humor to Kabu..."){D:1,KABU!WASTELAND!ARK'S BEACON!3.504!HEYAR!}
@@ -1975,7 +1975,7 @@ HEYAR
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.1001!HEYAR!]
 		||
-		*"The wrath of all jinns collided with the will of the Shining One that fateful day! The fallen mage, Rikharr, returning as Jinnwraith in control of an army of draugnir!"*
+		*"The wrath of all Jinns collided with the will of the Shining One that fateful day! The fallen mage, Rikharr, returning as Jinnwraith in control of an army of draugnir!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.1002!HEYAR!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.1001!HEYAR!/]
 
@@ -2029,7 +2029,7 @@ HEYAR
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.6000!HEYAR!]
 		||
-		*"Undying and deformed, pale-skinned humanoids abominations! The aborted remains of jinnspawn!"*
+		*"Undying and deformed, pale-skinned humanoids abominations! The aborted remains of Jinnspawn!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.6001!HEYAR!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.6000!HEYAR!/]
 
@@ -2048,7 +2048,7 @@ HEYAR
 
 	[/KABU!WASTELAND!CRESCENT CANYON!1.0000!HEYAR!]
 		||
-		*"The wrath of all jinns collided with the will of the Shining One that fateful day! The fallen mage, Rikharr, returning as Jinnwraith in control of an army of draugnir!"*
+		*"The wrath of all Jinns collided with the will of the Shining One that fateful day! The fallen mage, Rikharr, returning as Jinnwraith in control of an army of draugnir!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!1.0001!HEYAR!}
 	[KABU!WASTELAND!CRESCENT CANYON!1.0000!HEYAR!/]
 
@@ -2240,7 +2240,7 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.0001!KARRA!]
 		||
-		*"I'll not turn away from the jinns of the desert for they're flames, catchin' the sight of the Eye that gives sight to the One!"*
+		*"I'll not turn away from the Jinns of the desert for they're flames, catchin' the sight of the Eye that gives sight to the One!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.0002!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.0001!KARRA!/]
 
@@ -2297,7 +2297,7 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.300!KARRA!]
 		||
-		*"The entrance to the Graylands, the Crescent Canyon where She fights the jinns and where her Valvorthr await!"*
+		*"The entrance to the Graylands, the Crescent Canyon where She fights the Jinns and where her Valvorthr await!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.3000!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.300!KARRA!/]
 
@@ -2404,13 +2404,13 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.301!KARRA!]
 		||
-		*"There's no way! This gorge is impassable! Barred off by Ark's sacrifice to hold back the jinn hordes of the Graylands!"*
+		*"There's no way! This gorge is impassable! Barred off by Ark's sacrifice to hold back the Jinn hordes of the Graylands!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.3010!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.301!KARRA!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.3010!KARRA!]
 		||
-		*"Descendin' from Tambul takes you no further than the Valley of Bones - lest you become lost in the death grip of the valley jinns!"*
+		*"Descendin' from Tambul takes you no further than the Valley of Bones - lest you become lost in the death grip of the valley Jinns!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.3011!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.3010!KARRA!/]
 
@@ -2437,13 +2437,13 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.501!KARRA!]
 		||
-		*"There's no way! This gorge is impassable! Barred off by Ark's sacrifice to hold back the jinn hordes of the Graylands!"*
+		*"There's no way! This gorge is impassable! Barred off by Ark's sacrifice to hold back the Jinn hordes of the Graylands!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.5010!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.501!KARRA!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.5010!KARRA!]
 		||
-		*"Descendin' from Tambul takes you no further than the Valley of Bones - lest you become lost in the death grip of the valley jinns!"*
+		*"Descendin' from Tambul takes you no further than the Valley of Bones - lest you become lost in the death grip of the valley Jinns!"*
 		(A#"What of the caves I can see from this vantage point?"){A:1,KABU!WASTELAND!CRESCENT CANYON!0.102!KARRA!}
 		(C#"Then I'll depart."){C:1,KABU!WASTELAND!CRESCENT CANYON!0.302!KARRA!}
 		(E#"So you just plan on wasting your life at this gorge?"){E:1,KABU!WASTELAND!CRESCENT CANYON!0.502!KARRA!}
@@ -5298,7 +5298,7 @@ __Re-living of Rikharr's Folly__
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.5018!DESCRIPTION!]
 		||
-		*The battle lasts but an instant. Yet, though a spark dies no sooner than it is born, to the spark it seems a lifetime has passed. Likewise to the fated enemies, the seemingly eternal battle ends only as Ark drives Luin through the Rikharr's bowels, pinning him to the bridge. Ark's Valvorthr leave her to rout the jinn-cursed draugnir, now aimlessly wandering the dunes around the ruined Sun Tower.*
+		*The battle lasts but an instant. Yet, though a spark dies no sooner than it is born, to the spark it seems a lifetime has passed. Likewise to the fated enemies, the seemingly eternal battle ends only as Ark drives Luin through the Rikharr's bowels, pinning him to the bridge. Ark's Valvorthr leave her to rout the Jinn-cursed draugnir, now aimlessly wandering the dunes around the ruined Sun Tower.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.5019!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.5018!DESCRIPTION!/]
 
@@ -6246,7 +6246,7 @@ seen Gurgadon/Gulganna
 
 	[/KABU!WASTELAND!THE VEDT!1.400!HEYAR!]
 		||
-		*"Doubtful. Unless you have the Techne skills of a Wulfias or the jinns... though, with enough study I suppose anything is possible. Ha ha!"*
+		*"Doubtful. Unless you have the Techne skills of a Wulfias or the Jinns... though, with enough study I suppose anything is possible. Ha ha!"*
 		(C#"..."){C:1,KABU!WASTELAND!THE VEDT!1.X301!HEYAR!}
 		(D#"What must I study to obtain such skills?"){D:1,KABU!WASTELAND!THE VEDT!1.401!HEYAR!}
 		(E#"Then you're wasting my time with this chit-chat."){E:1,KABU!WASTELAND!THE VEDT!1.X500!HEYAR!}

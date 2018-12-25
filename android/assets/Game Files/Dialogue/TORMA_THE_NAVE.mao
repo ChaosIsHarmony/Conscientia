@@ -1292,7 +1292,7 @@ brought by force to the nave
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!2.X0002!CHOIR OF ARCHONS!/]
 	
 	
-jinn slayer stuff
+Jinn slayer stuff
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!10.X000!CHOIR OF ARCHONS!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!10.X001!CHOIR OF ARCHONS!|
 		*"Brother Jinn Slayer, your words are disruptive and uncompelling. We advise you to cease immediately."*

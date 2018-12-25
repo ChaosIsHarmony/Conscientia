@@ -1012,7 +1012,7 @@ Returned
 
 	[/KABU!UR'RUK!EMERALD FONT!0.600!DESCRIPTION!]
 		||
-		*Eidos quickly replaces the cover while gagging up a modicum of bile from her revolted innards. Unintentionally, she adds more filth to the well before the lid seals away the horrific rot of whatever jinn-cursed thing lay in the bowels of the well.
+		*Eidos quickly replaces the cover while gagging up a modicum of bile from her revolted innards. Unintentionally, she adds more filth to the well before the lid seals away the horrific rot of whatever Jinn-cursed thing lay in the bowels of the well.
 
 		Desiring a change of scenery before being forced to taste for a second time the contents of her stomach, Eidos walks towards...*
 		(A#The door the old man was staring at){A:0,KABU!UR'RUK!GREENHOUSE!0.000!DESCRIPTION!}
@@ -1075,7 +1075,7 @@ convo w/ Radan
 tried to kill people
 	[/KABU!UR'RUK!EMERALD FONT!20.000!DESCRIPTION!]
 		||
-		*The citizens of Ur'Ruk bring a bound Eidos to a covered well. The lot of them pinch their noses before cracking open a space barely wide enough for a human to fit through. The reasons for both actions become quite evident first, as soon as Eidos' senses are assaulted by what can only be described as the insides of a jinn's arse, belching forth from that hellish well; and second, as soon as she is tossed into the source of this stench for her misdeeds.
+		*The citizens of Ur'Ruk bring a bound Eidos to a covered well. The lot of them pinch their noses before cracking open a space barely wide enough for a human to fit through. The reasons for both actions become quite evident first, as soon as Eidos' senses are assaulted by what can only be described as the insides of a Jinn's arse, belching forth from that hellish well; and second, as soon as she is tossed into the source of this stench for her misdeeds.
 		
 		The portal closes, sealing off all light as Eidos careens down into the gut-wrenching stench of the unknown.*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!0.X000!DESCRIPTION!}
@@ -1147,7 +1147,7 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.X300!RADAN!]
 		|@:KABU!UR'RUK!EMERALD FONT!1.000!RADAN!|
-		*"Bah! Waste not my time, you jinnslave! Famlicus take you!"*
+		*"Bah! Waste not my time, you Jinnslave! Famlicus take you!"*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!9999.X9999!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.X300!RADAN!/]	
 
@@ -1667,7 +1667,7 @@ to a different arc
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.503!DESCRIPTION!]
 		||
-		*Widening her view, Eidos sees herself as Thetian, still wandering Jer. She sees her life as the jinnwraith Rikharr. She sees herself as Torma, the prophet, locked in the Vault of the Enclave. And as Wulfias, slave turned master. But then finally as Viracocha, the plurality of the Biracul.
+		*Widening her view, Eidos sees herself as Thetian, still wandering Jer. She sees her life as the Jinnwraith Rikharr. She sees herself as Torma, the prophet, locked in the Vault of the Enclave. And as Wulfias, slave turned master. But then finally as Viracocha, the plurality of the Biracul.
 		
 		And in so doing, time folds in on itself and the cycle repeats. Zeroing in on a single point, a flash of light consumes her thought...*
 		(A#Dream){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.504!DESCRIPTION!}
@@ -1901,7 +1901,7 @@ EGIMESH
 
 	[/KABU!UR'RUK!GREENHOUSE!0.X300!EGIMESH!]
 		|@:KABU!UR'RUK!GREENHOUSE!1.000!EGIMESH!|
-		*"Ya damned jinnlover! Don't even know where yer from?! Don't waste my time! Jinns take ya!"*
+		*"Ya damned Jinnlover! Don't even know where yer from?! Don't waste my time! Jinns take ya!"*
 		(C#"..."){C:1,KABU!UR'RUK!GREENHOUSE!9999.X9999!EGIMESH!}
 	[KABU!UR'RUK!GREENHOUSE!0.X300!EGIMESH!/]
 
@@ -1957,7 +1957,7 @@ EGIMESH
 
 	[/KABU!UR'RUK!GREENHOUSE!0.X201!EGIMESH!]
 		|@:KABU!UR'RUK!GREENHOUSE!1.000!EGIMESH!|
-		*"Oh! So YER the authority, then? Damned jinnlover! I hope ya meet the Vile One in the desert and get spirited away! Bah! Jinns take ya!"*
+		*"Oh! So YER the authority, then? Damned Jinnlover! I hope ya meet the Vile One in the desert and get spirited away! Bah! Jinns take ya!"*
 		(B#"I merely offered another perspective."){B:0,KABU!UR'RUK!GREENHOUSE!9999.X9999!EGIMESH!}
 	[KABU!UR'RUK!GREENHOUSE!0.X201!EGIMESH!/]
 
@@ -1995,7 +1995,7 @@ EGIMESH
 
 	[/KABU!UR'RUK!GREENHOUSE!0.1030!EGIMESH!]
 		||
-		*"We 'ere forced to drink the coal-black blood of the draugnir! Our minds warped drastically - so much so that when those magi and their jinn-cursed Neverborn army came by decades ago, they didn't even seem to know we 'ere here!"*
+		*"We 'ere forced to drink the coal-black blood of the draugnir! Our minds warped drastically - so much so that when those magi and their Jinn-cursed Neverborn army came by decades ago, they didn't even seem to know we 'ere here!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.1031!EGIMESH!}
 	[KABU!UR'RUK!GREENHOUSE!0.1030!EGIMESH!/]
 
@@ -2033,7 +2033,7 @@ EGIMESH
 
 	[/KABU!UR'RUK!GREENHOUSE!1.000!EGIMESH!]
 		||
-		*"...stupid jinnlover... Still here? Off with ya!"*
+		*"...stupid Jinnlover... Still here? Off with ya!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!9999.X9999!EGIMESH!}
 	[KABU!UR'RUK!GREENHOUSE!1.000!EGIMESH!/]
 
@@ -2283,7 +2283,7 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.1002!NAKARA!]
 		||
-		*"Though Hazanna has shown us the way, this fear is the scar I bear for my jinn-born wrong-thought."*
+		*"Though Hazanna has shown us the way, this fear is the scar I bear for my Jinn-born wrong-thought."*
 		(A#"It sounds as though Hazanna is an overly harsh leader."){A:1,KABU!UR'RUK!GREENHOUSE!0.101!NAKARA!}
 		(B#"Tell me more of Ormenos."){B:1,KABU!UR'RUK!GREENHOUSE!0.201!NAKARA!}
 		(E#"At least you're highly skilled in the crafting of excuses."){E:1,KABU!UR'RUK!GREENHOUSE!0.501!NAKARA!}
@@ -2389,7 +2389,7 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.6001!NAKARA!]
 		||
-		*"Though Hazanna has shown us the way, this fear is the scar I bear for my jinn-born wrong-thought."*
+		*"Though Hazanna has shown us the way, this fear is the scar I bear for my Jinn-born wrong-thought."*
 		(A#"It sounds as though Hazanna is an overly harsh leader."){A:1,KABU!UR'RUK!GREENHOUSE!0.101!NAKARA!}
 		(E#"At least you're highly skilled in the crafting of excuses."){E:1,KABU!UR'RUK!GREENHOUSE!0.501!NAKARA!}
 		(F#"I say, if life is pelting you with lemons, you better get a lemon-bat."){F:1,KABU!UR'RUK!GREENHOUSE!0.X301!NAKARA!}
@@ -2420,13 +2420,13 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.201!NAKARA!]
 		||
-		*"His name is unclean and unspoken by our folk - mere utterance of it invites the jinns into our weak minds! I spoke the Vile One's name in weakness!"* 
+		*"His name is unclean and unspoken by our folk - mere utterance of it invites the Jinns into our weak minds! I spoke the Vile One's name in weakness!"* 
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.2010!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.201!NAKARA!/]
 
 	[/KABU!UR'RUK!GREENHOUSE!0.2010!NAKARA!]
 		||
-		*"If you succumb to the jinn's embrace, you'll become as the pariah, Radan. Many of the others blame him and shun him from our fellowship and family."* 
+		*"If you succumb to the Jinn's embrace, you'll become as the pariah, Radan. Many of the others blame him and shun him from our fellowship and family."* 
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!0.2011!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.2010!NAKARA!/]
 
@@ -2462,7 +2462,7 @@ NAKARA
 
 	[/KABU!UR'RUK!GREENHOUSE!0.X5010!NAKARA!]
 		|@:KABU!UR'RUK!GREENHOUSE!1.X000!NAKARA!|
-		*"No! I cannot be lead into the ruin of the jinn's embrace!"*
+		*"No! I cannot be lead into the ruin of the Jinn's embrace!"*
 		(A#"..."){A:0,KABU!UR'RUK!GREENHOUSE!9999.X9999!NAKARA!}
 	[KABU!UR'RUK!GREENHOUSE!0.X5010!NAKARA!/]
 
@@ -3008,7 +3008,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.X011!KAHIN!]
 		|@:KABU!UR'RUK!HALL OF VANARGAND!2.000!KAHIN!|
-		*"If it is so, then my loyal heart has no ears for your jinnspeech!"*
+		*"If it is so, then my loyal heart has no ears for your Jinnspeech!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X9999!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.X011!KAHIN!/]
 
@@ -3026,7 +3026,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.1001!KAHIN!]
 		||
-		*"He spoke with a ruby tongue, spitting his jinn-cursed lies."*
+		*"He spoke with a ruby tongue, spitting his Jinn-cursed lies."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.1002!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.1001!KAHIN!/]
 
@@ -3134,7 +3134,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.4001!KAHIN!]
 		||
-		*"He spoke with a ruby tongue, spitting his jinn-cursed lies."*
+		*"He spoke with a ruby tongue, spitting his Jinn-cursed lies."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.4002!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.4001!KAHIN!/]
 
@@ -3436,7 +3436,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!2.000!KAHIN!]
 		||
-		*"My loyal spirit has no ears for jinnwhispered lies; for I am one in Aizos!"*
+		*"My loyal spirit has no ears for Jinn-whispered lies; for I am one in Aizos!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X9999!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!2.000!KAHIN!/]
 
@@ -3623,7 +3623,7 @@ ARKASH & BIRARKUL
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.002!BIRARKUL!]
 		||
-		*"We don't like you! So you can't play mages and jinnwraiths with us!"*
+		*"We don't like you! So you can't play mages and Jinnwraiths with us!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.X0020!BIRARKUL!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.002!BIRARKUL!/]
 
@@ -3635,7 +3635,7 @@ ARKASH & BIRARKUL
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.002!ARKASH!]
 		||
-		*"Last one to the end of the hall is a jinnslave!"*
+		*"Last one to the end of the hall is a Jinnslave!"*
 		(A#"Play safely, boys! And have fun!"){A:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
 		(B#"Note to self, avoid talking to children."){B:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
 		(C#"..."){C:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
@@ -3727,7 +3727,7 @@ MAGDA
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.200!MAGDA!]
 		||
-		*"We Unseen don't have our deeds borne upon the Wheel of Thought, like most do - not e'en the jinns know of our passin' anymer!"*
+		*"We Unseen don't have our deeds borne upon the Wheel of Thought, like most do - not e'en the Jinns know of our passin' anymer!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.2000!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.200!MAGDA!/]
 
@@ -3752,7 +3752,7 @@ MAGDA
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.4000!MAGDA!]
 		||
-		*"'Cause we Unseen don't have our deeds borne upon the Wheel of Thought, like most do - not e'en the jinns know of our passin' anymer!"*
+		*"'Cause we Unseen don't have our deeds borne upon the Wheel of Thought, like most do - not e'en the Jinns know of our passin' anymer!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.4001!MAGDA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.4000!MAGDA!/]
 
@@ -3950,7 +3950,7 @@ WHABYN
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.3000!WHABYN!]
 		||
-		*"Tha' book be his las' word in all Kabu! An only ol' Whabyn has the jinn-lovin' thin', he does!"*
+		*"Tha' book be his las' word in all Kabu! An only ol' Whabyn has the Jinn-lovin' thin', he does!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.3001!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.3000!WHABYN!/]
 
@@ -3986,7 +3986,7 @@ WHABYN
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.4003!WHABYN!]
 		||
-		*"Tha' book be his las' word in all Kabu! An only ol' Whabyn has the jinn-lovin' thin', he does!"*
+		*"Tha' book be his las' word in all Kabu! An only ol' Whabyn has the Jinn-lovin' thin', he does!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.4004!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.4003!WHABYN!/]
 
@@ -3998,20 +3998,20 @@ WHABYN
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.500!WHABYN!]
 		||
-		*"Biracul's balls, ya jinn-lickin' tramp! 'Tis old, but 'tis nah trash!"*
+		*"Biracul's balls, ya Jinn-lickin' tramp! 'Tis old, but 'tis nah trash!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.4000!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.500!WHABYN!/]
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.600!WHABYN!]
 		||
-		*"Shoppin' wha'? Ya jinn-crazed there, child?"*
+		*"Shoppin' wha'? Ya Jinn-crazed there, child?"*
 		(F#"'Item 1 - An old man's head.' Seems legit."){F:1,KABU!UR'RUK!LIVING QUARTERS!1.601!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.600!WHABYN!/]
 
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.000!WHABYN!]
 		||
-		*"Tha's a statue of the Goddess, 'tis true 'tis. Don'tcha be thinkin' ya have a god-jinn like her whate'er parts ya be comin' frem, ne?"*
+		*"Tha's a statue of the Goddess, 'tis true 'tis. Don'tcha be thinkin' ya have a god-Jinn like her whate'er parts ya be comin' frem, ne?"*
 		(A#"How did you get it?"){A:1,KABU!UR'RUK!LIVING QUARTERS!1.100!WHABYN!}
 		(B#"Tell me of this Goddess."){B:1,KABU!UR'RUK!LIVING QUARTERS!1.200!WHABYN!}
 		(C#"Perhaps not."){C:1,KABU!UR'RUK!LIVING QUARTERS!1.300!WHABYN!}
@@ -4052,7 +4052,7 @@ WHABYN
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.1004!WHABYN!]
 		||
-		*"I stubbled upon the statue down there while Orm'os was chattin' to sum ghos'-jinn or some such."*
+		*"I stubbled upon the statue down there while Orm'os was chattin' to sum ghos'-Jinn or some such."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!1.1005!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.1004!WHABYN!/]
 
@@ -4064,7 +4064,7 @@ WHABYN
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.200!WHABYN!]
 		||
-		*"Her name's Aishos, or sumthin' the like. She's some damn bitch who dies and returns - sounds like a dus'-curs'ed jinn, if ya aks me."*
+		*"Her name's Aishos, or sumthin' the like. She's some damn bitch who dies and returns - sounds like a dus'-curs'ed Jinn, if ya aks me."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!1.2000!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.200!WHABYN!/]
 
@@ -4088,19 +4088,19 @@ WHABYN
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.400!WHABYN!]
 		||
-		*"Biracul's balls, ya jinn-lickin' tramp! Tha's the whole poin'! 'Tis ol', see? Ol'er than anythin' else here."*
+		*"Biracul's balls, ya Jinn-lickin' tramp! Tha's the whole poin'! 'Tis ol', see? Ol'er than anythin' else here."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!1.200!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.400!WHABYN!/]
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.500!WHABYN!]
 		||
-		*"Biracul's balls, ya jinn-lickin' tramp! 'Tis ol' bu' 'tis na trash! 'Tis ol' see. Ol'er than anythin' else here."*
+		*"Biracul's balls, ya Jinn-lickin' tramp! 'Tis ol' bu' 'tis na trash! 'Tis ol' see. Ol'er than anythin' else here."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!1.200!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.500!WHABYN!/]
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.600!WHABYN!]
 		||
-		*"Wha'? Monkey? Ya jinn-crazed there, child?"*
+		*"Wha'? Monkey? Ya Jinn-crazed there, child?"*
 		(F#"...but I'll need to lick it to be sure."){F:1,KABU!UR'RUK!LIVING QUARTERS!1.601!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.600!WHABYN!/]
 
@@ -4147,7 +4147,7 @@ WHABYN
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.601!WHABYN!]
 		||
-		*"In the jinn's embrace ya are, ya draug-brain'ed loon! Be gone! May the Eye suck yer ghos' frem ya!"*
+		*"In the Jinn's embrace ya are, ya draug-brain'ed loon! Be gone! May the Eye suck yer ghos' frem ya!"*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X9999!WHABYN!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.601!WHABYN!/]
 
@@ -4331,7 +4331,7 @@ GAPA
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.1010!GAPA!]
 		||
-		*"The words of those who speak jinnthought do injuries that must be spoken and known..."*
+		*"The words of those who speak Jinnthought do injuries that must be spoken and known..."*
 		(A#"..."){A:0,KABU!UR'RUK!LIVING QUARTERS!0.1011!GAPA!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.1010!GAPA!/]
 
@@ -5043,7 +5043,7 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.X2010!SAMESH!]
 		|@:KABU!UR'RUK!STONE CIRCLE!1.000!SAMESH!|
-		*"Maybe there's some ancient magic that pulls me up here, too... But then again, maybe it's just the same jinn-cursed magic which damned Ur'Ruk and any who live here..."*
+		*"Maybe there's some ancient magic that pulls me up here, too... But then again, maybe it's just the same Jinn-cursed magic which damned Ur'Ruk and any who live here..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!9999.X9999!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!0.X2010!SAMESH!/]
 
@@ -5522,7 +5522,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.0001!GAPA!]
 		||
-		*"That little jinnspawn ran full tilt into me, sending me into the dust - Biracul cast him in shadow!"*
+		*"That little Jinnspawn ran full tilt into me, sending me into the dust - Biracul cast him in shadow!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!9999.X0600!GAPA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0001!GAPA!/]
 
@@ -5534,7 +5534,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.0050!HAZANNA!]
 		||
-		*"Like an old spider, he spun the threads used to bind us from the embrace of Aizos, the One Truth who is Many Truths. Even now, he lives on her lips, like unwashed scum. We know him as he is! He is as ilk to the jinn, cut of the same cloth!"*
+		*"Like an old spider, he spun the threads used to bind us from the embrace of Aizos, the One Truth who is Many Truths. Even now, he lives on her lips, like unwashed scum. We know him as he is! He is as ilk to the Jinn, cut of the same cloth!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.0051!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0050!HAZANNA!/]
 
@@ -5571,7 +5571,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.0002!KAHIN!]
 		||
-		*"She spoke words against us, against our seeking of the Form! And though it shames me to say it, her jinnwhispers caused me to doubt, caused me to wonder if we weren't hopelessly lost!"*
+		*"She spoke words against us, against our seeking of the Form! And though it shames me to say it, her Jinnwhispers caused me to doubt, caused me to wonder if we weren't hopelessly lost!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!9999.X0600!KAHIN!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0002!KAHIN!/]
 
@@ -5602,7 +5602,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.0063!HAZANNA!]
 		||
-		*"But we will not go! There are no answers outside the Self! There's only order and peace here, sharing in the Form! No jinnwhispers can persuade us of what is false!"*
+		*"But we will not go! There are no answers outside the Self! There's only order and peace here, sharing in the Form! No Jinnwhispers can persuade us of what is false!"*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.0064!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.0063!HAZANNA!/]
 
@@ -5781,7 +5781,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.200!HAZANNA!]
 		||
-		*"Great is the suffering of sister Eidos! Always is the Form difficult to see, and how much more so to the truth-blind? So too is the tormentor invisible when it is the very jinnthought that laces her mind like a poison."*
+		*"Great is the suffering of sister Eidos! Always is the Form difficult to see, and how much more so to the truth-blind? So too is the tormentor invisible when it is the very Jinnthought that laces her mind like a poison."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.2000!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.200!HAZANNA!/]
 
@@ -5799,7 +5799,7 @@ GATHERING
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.400!HAZANNA!]
 		||
-		*"Great is the suffering of sister Eidos! She is so weak that she must claim to have suffered at the hands of a jinnspawn she has never met!"* 
+		*"Great is the suffering of sister Eidos! She is so weak that she must claim to have suffered at the hands of a Jinnspawn she has never met!"* 
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.4000!HAZANNA!}
 	[KABU!UR'RUK!STONE CIRCLE!0.400!HAZANNA!/]
 

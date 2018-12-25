@@ -636,7 +636,7 @@ FAMLICUS INITIAL ENCOUNTER
 >>>Learned Farcaster glyph (12403)<<<
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X000!FAMLICUS!]
 		|^12403:KABU!WILDERNESS!JENOWIN PLAIN!0.X0000!FAMLICUS!|
-		*"Hail, traveler! What brings you out to the desert? Haven't you heard the wisdom of Biracul? That only beasts and jinns live outside the city walls..."*
+		*"Hail, traveler! What brings you out to the desert? Haven't you heard the wisdom of Biracul? That only beasts and Jinns live outside the city walls..."*
 		(A#"Then which of the two are you, fellow traveler?"){A:1,KABU!WILDERNESS!JENOWIN PLAIN!0.00100!FAMLICUS!}
 		(B#"Where are we?"){B:1,KABU!WILDERNESS!JENOWIN PLAIN!0.00200!FAMLICUS!}
 		(C#"This is where my path has led me."){C:1,KABU!WILDERNESS!JENOWIN PLAIN!0.00300!FAMLICUS!}
@@ -697,7 +697,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.00500!FAMLICUS!]
 		||
-		*"Or perhaps neither... Though, even a jinn would flee from the townships you're headed toward."*
+		*"Or perhaps neither... Though, even a Jinn would flee from the townships you're headed toward."*
 		(A#"Why would that be?"){A:1,KABU!WILDERNESS!JENOWIN PLAIN!0.01000!FAMLICUS!}
 		(D#"What dangers warrant such a warning?"){D:1,KABU!WILDERNESS!JENOWIN PLAIN!0.04000!FAMLICUS!}
 		(E#"I'll soon be the reason they flee."){E:1,KABU!WILDERNESS!JENOWIN PLAIN!0.05000!FAMLICUS!}
@@ -760,7 +760,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.040000!FAMLICUS!]
 		||
-		*"His obsession with forbidden jinn-lore has led to corrupted crops and neither his own people nor the other peoples of Kabu are aware of his blasphemy."*
+		*"His obsession with forbidden Jinnlore has led to corrupted crops and neither his own people nor the other peoples of Kabu are aware of his blasphemy."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0400000!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.040000!FAMLICUS!/]
 
@@ -1150,7 +1150,7 @@ PAKAHRON INCRIMINATION & RESURRECTION ACQUISITION
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!3.0010!FAMLICUS!]
 		||
-		*"The best we can do is to not meddle and let things take their course, I suppose. Though, you hardly seem the type to let sleeping jinns lie..."*
+		*"The best we can do is to not meddle and let things take their course, I suppose. Though, you hardly seem the type to let sleeping Jinns lie..."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!3.900!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!3.0010!FAMLICUS!/]
 
@@ -1496,7 +1496,7 @@ DORUK
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.4001!DORUK!]
 		||
-		*"While Tacribs bleed like any other human, death at their hands is just as certain, and undoubtedly more cruel. You're just a jinn-lickin' fool if you try to fight either Neverborn or a Tacrib."*
+		*"While Tacribs bleed like any other human, death at their hands is just as certain, and undoubtedly more cruel. You're just a Jinn-lickin' fool if you try to fight either Neverborn or a Tacrib."*
 		(C#"You may be right. Perhaps I should leave."){C:1,KABU!WILDERNESS!MOUNTAIN PASS!0.X301!DORUK!}
 		(D#"I seek violence like I seek the plague. But, do tell me more of this region."){D:1,KABU!WILDERNESS!MOUNTAIN PASS!0.401!DORUK!}
 		(E#"Fear is for the spineless; it suits you."){E:1,KABU!WILDERNESS!MOUNTAIN PASS!0.501!DORUK!}
@@ -1530,7 +1530,7 @@ DORUK
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.6001!DORUK!]
 		||
-		*"If that gate ever opens, it's my task to inform Khaa himself, you rude jinnspawn!"*
+		*"If that gate ever opens, it's my task to inform Khaa himself, you rude Jinnspawn!"*
 		(A#"..."){A:0,KABU!WILDERNESS!MOUNTAIN PASS!0.6002!DORUK!}
 	[KABU!WILDERNESS!MOUNTAIN PASS!0.6001!DORUK!/]
 
@@ -1569,7 +1569,7 @@ DORUK
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.X301!DORUK!]
 		|@:KABU!WILDERNESS!MOUNTAIN PASS!0.X900!DORUK!|
-		*"I'm happy to think that civilization will live beyond our deaths. May Biracul spare your life, outlander; and may He protect your from man and jinn."*
+		*"I'm happy to think that civilization will live beyond our deaths. May Biracul spare your life, outlander; and may He protect your from man and Jinn."*
 		(A#"..."){A:0,KABU!WILDERNESS!MOUNTAIN PASS!9999.X9999!DORUK!}
 	[KABU!WILDERNESS!MOUNTAIN PASS!0.X301!DORUK!/]
 
@@ -1719,7 +1719,7 @@ from storm
 FAMLICUS
 	[/KABU!WILDERNESS!TACRIBA!0.000!FAMLICUS!]
 		||
-		*"That must've been a dreadful visit the nightjinns paid you. You were in seizures!"*
+		*"That must've been a dreadful visit the night-Jinns paid you. You were in seizures!"*
 		(A#"..."){A:0,KABU!WILDERNESS!TACRIBA!0.001!FAMLICUS!}
 	[KABU!WILDERNESS!TACRIBA!0.000!FAMLICUS!/]
 

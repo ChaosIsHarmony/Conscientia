@@ -144,7 +144,7 @@ UNFINISHED SHIT
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!6.000!DESCRIPTION!]
 		||
-		*...Oh, hey, you found this... well, uh... I can guarantee you that I'm no gremlin wizard trying to mislead you... NO! I swear it! By Roostor's mighty comb, I swear it! So believe me when I say that the gremlins ate this book! Indeed, the author fought long and hard against the blasted vermin. But alas! Ultimately, the malodorous wretches birthed from a jinn's colon outmaneuvered him through a clever ruse! They pointed over yonder, drawing the author's gaze thence, and then proceeded pilfered the manuscript while he conscientiously sought what they had seen.
+		*...Oh, hey, you found this... well, uh... I can guarantee you that I'm no gremlin wizard trying to mislead you... NO! I swear it! By Roostor's mighty comb, I swear it! So believe me when I say that the gremlins ate this book! Indeed, the author fought long and hard against the blasted vermin. But alas! Ultimately, the malodorous wretches birthed from a Jinn's colon outmaneuvered him through a clever ruse! They pointed over yonder, drawing the author's gaze thence, and then proceeded pilfered the manuscript while he conscientiously sought what they had seen.
 		
 		Unfortunately, the true victims are the readers! For now they must wait another eternity - or two - for this to be re-written! But fortunately, you can kill gremlins ad nauseum in one of the other available titles until this one comes out!*
 		(A#TALLY HO){A:0,END GAME!END GAME!END GAME!}

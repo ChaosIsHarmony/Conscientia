@@ -1594,7 +1594,7 @@ gate keeper
 	Her plan works flawlessly, in no small part due to how physically weak Ormenos is. The arrival of the Enforcers goes unnoticed by Ormenos for he can only tell indirectly that they have arrived when a precisely landed strike causes the world around him to dim...@
 [1201/]
 
-jinn slayer
+Jinn slayer
 [/1202]
 	*2:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.

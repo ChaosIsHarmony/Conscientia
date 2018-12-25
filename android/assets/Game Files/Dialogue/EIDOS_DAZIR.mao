@@ -387,7 +387,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.100!ASANSOR!]
 		||
-		*"If I have to explain Dazir to one more foreigner, I'll go as mad as a blood-starved jinn!"*
+		*"If I have to explain Dazir to one more foreigner, I'll go as mad as a blood-starved Jinn!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.1000!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.100!ASANSOR!/]
 	
@@ -435,7 +435,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.1007!ASANSOR!]
 		||
-		*"Shut up! I'm old, not senile, you jinn-lickin' fool!"*
+		*"Shut up! I'm old, not senile, you Jinn-lickin' fool!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.1008!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.1007!ASANSOR!/]
 	
@@ -461,13 +461,13 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.2000!ASANSOR!]
 		||
-		*"Why it's a Cloudstone, you jinn-struck, truth-blind nincompoop!"*
+		*"Why it's a Cloudstone, you Jinn-struck, truth-blind nincompoop!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.2001!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.2000!ASANSOR!/]
 	
 	[/KABU!DAZIR!ARBORETUM!0.2001!ASANSOR!]
 		||
-		*"By Biracul's sagging balls! Anymore inane questions and I'll go as mad as an outhouse jinn!"* 
+		*"By Biracul's sagging balls! Anymore inane questions and I'll go as mad as an outhouse Jinn!"* 
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.2002!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.2001!ASANSOR!/]
 	
@@ -505,7 +505,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.400!ASANSOR!]
 		||
-		*"By Biracul's sagging balls! How can I tell when you jinn-struck foreigners dress like that?!"*
+		*"By Biracul's sagging balls! How can I tell when you Jinn-struck foreigners dress like that?!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.4000!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.400!ASANSOR!/]
 	
@@ -537,7 +537,7 @@ ASANSOR
 
 	[/KABU!DAZIR!ARBORETUM!0.500!ASANSOR!]
 		||
-		*"You think you scare me, jinn's child?!"*
+		*"You think you scare me, Jinn's child?!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.5000!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.500!ASANSOR!/]
 	
@@ -702,7 +702,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.X5011!ASANSOR!]
 		|@:KABU!DAZIR!ARBORETUM!1.000!ASANSOR!|
-		*"Your move, jinnlicker!"*
+		*"Your move, Jinnlicker!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!9999.X9999!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.X5011!ASANSOR!/]
 
@@ -727,7 +727,7 @@ final phrase
 	
 	[/KABU!DAZIR!ARBORETUM!1.X003!ASANSOR!]
 		|@:KABU!DAZIR!ARBORETUM!2.000!ASANSOR!|
-		*"Now off with you, you jinn-lickin' fool! I'm trying to sleep!"*
+		*"Now off with you, you Jinn-lickin' fool! I'm trying to sleep!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!9999.X9999!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!1.X003!ASANSOR!/]	
 	
@@ -819,7 +819,7 @@ KADIR
 	
 	[/KABU!DAZIR!ARBORETUM!0.1003!KADIR!]
 		||
-		*"But at least if that jinn's dick were here, I wouldn't have to waste words with simpletons like you."*
+		*"But at least if that Jinn's dick were here, I wouldn't have to waste words with simpletons like you."*
 		(A#"Is that where he went?"){A:1,KABU!DAZIR!ARBORETUM!0.101!KADIR!}
 		(B#"Is that why he left?"){B:1,KABU!DAZIR!ARBORETUM!0.201!KADIR!}
 		(E#"How 'bout I cut your tongue out, so you never have to waste words again?"){E:1,KABU!DAZIR!ARBORETUM!0.500!KADIR!}
@@ -916,7 +916,7 @@ KADIR
 	
 	[/KABU!DAZIR!ARBORETUM!0.2010!KADIR!]
 		||
-		*"Look, Quangjo was recently reposted to the Wellspring. And after the... uh... incident... in the Wellspring, Quangjo returned alive, but jinn-struck."*
+		*"Look, Quangjo was recently reposted to the Wellspring. And after the... uh... incident... in the Wellspring, Quangjo returned alive, but Jinn-struck."*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.2011!KADIR!}
 	[KABU!DAZIR!ARBORETUM!0.2010!KADIR!/]
 	
@@ -940,7 +940,7 @@ KADIR
 	
 	[/KABU!DAZIR!ARBORETUM!0.X601!KADIR!]
 		|@:KABU!DAZIR!ARBORETUM!1.X000!KADIR!|
-		*"Look, I don't know what jinn crawled up your arse, but I'll be having no more of it!"*
+		*"Look, I don't know what Jinn crawled up your arse, but I'll be having no more of it!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.X2012!KADIR!}
 		(F#"So I'm hired? When do I start?"){F:1,KABU!DAZIR!ARBORETUM!1.X000!KADIR!}
 	[KABU!DAZIR!ARBORETUM!0.X601!KADIR!/]
@@ -1299,7 +1299,7 @@ KHAA
 
 	[/KABU!DAZIR!ARBORETUM!00.712!KHAA!]
 		||
-		*"...you traded words with that jinn in human skin, Pakahron... but had no ears for his lies."*
+		*"...you traded words with that Jinn in human skin, Pakahron... but had no ears for his lies."*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!00.X7120!KHAA!}
 	[KABU!DAZIR!ARBORETUM!00.712!KHAA!/]
 	
@@ -2573,7 +2573,7 @@ EGIMEN
 
 	[/KABU!DAZIR!ARTISANS' MANSION!0.600!EGIMEN!]
 		||
-		*"Oh. So you're like that jinn-struck 'prophet'? All bandaged up an uttering nonsense."*
+		*"Oh. So you're like that Jinn-struck 'prophet'? All bandaged up an uttering nonsense."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!0.6000!EGIMEN!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.600!EGIMEN!/]
 	
@@ -2722,7 +2722,7 @@ KORAY
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.100!KORAY!]
 		||
-		*"His predictions seem extremely incoherent... talking about the creation of shining crystal cities, plagues and pestilence, demons consuming the souls of the innocent, wars fought with weapons and beasts more fantastic than the oldest jinnlore."*
+		*"His predictions seem extremely incoherent... talking about the creation of shining crystal cities, plagues and pestilence, demons consuming the souls of the innocent, wars fought with weapons and beasts more fantastic than the oldest Jinnlore."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!0.1000!KORAY!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.100!KORAY!/]
 	
@@ -2810,7 +2810,7 @@ KORAY
 
 	[/KABU!DAZIR!ARTISANS' MANSION!0.6000!KORAY!]
 		||
-		*"Biracul's balls, you sound a bit jinn-touched yourself; been out wandering the Wasteland lately, have you?"*
+		*"Biracul's balls, you sound a bit Jinn-touched yourself; been out wandering the Wasteland lately, have you?"*
 		(F#"Jinntouched? Sounds like someone had a traumatising childhood..."){F:1,KABU!DAZIR!ARTISANS' MANSION!0.601!KORAY!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.6000!KORAY!/]
 	
@@ -2931,14 +2931,14 @@ KORAY
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.X6010!KORAY!]
 		|@:KABU!DAZIR!ARTISANS' MANSION!2.000!KORAY!|
-		*"Biracul keep you from the jinn's embrace."*
+		*"Biracul keep you from the Jinn's embrace."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!9999.X9999!KORAY!}	
 	[KABU!DAZIR!ARTISANS' MANSION!0.X6010!KORAY!/]
 	
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!1.000!KORAY!]
 		||
-		*"Listen all! Heed the words of the Prophet! The Biraculian era and the jinns will be relics of the past. Prepare yourselves for the awakening of Conscientia!"*
+		*"Listen all! Heed the words of the Prophet! The Biraculian era and the Jinns will be relics of the past. Prepare yourselves for the awakening of Conscientia!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!9999.X9999!KORAY!}
 	[KABU!DAZIR!ARTISANS' MANSION!1.000!KORAY!/]
 	
@@ -3178,7 +3178,7 @@ SIDIKA
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.1016!SIDIKA!]
 		||
-		*"She quested for Luin, the ghelblade of the Green jinn, but never found it..."*
+		*"She quested for Luin, the ghelblade of the Green Jinn, but never found it..."*
 		(A#"Fascinating!"){A:1,KABU!DAZIR!ARTISANS' MANSION!0.1017!SIDIKA!}
 		(C#"..."){C:1,KABU!DAZIR!ARTISANS' MANSION!0.1017!SIDIKA!}
 		(E#"Stop talking!"){E:1,KABU!DAZIR!ARTISANS' MANSION!0.1017!SIDIKA!}
@@ -3276,7 +3276,7 @@ SIDIKA
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.X5011!SIDIKA!]
 		|@:KABU!DAZIR!ARTISANS' MANSION!1.X000!SIDIKA!|
-		*"Biracul's bells! I don't like talking to jinnlickers! So goodbye!"*
+		*"Biracul's bells! I don't like talking to Jinnlickers! So goodbye!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!9999.X9999!SIDIKA!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.X5011!SIDIKA!/]	
 	
@@ -3601,7 +3601,7 @@ SIDIKA
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!1.X4030!SIDIKA!]
 		|@:KABU!DAZIR!ARTISANS' MANSION!1.902!SIDIKA!|
-		*"I hope the next tome you steal comes to life and bites your jinn-licking face off!"*
+		*"I hope the next tome you steal comes to life and bites your Jinn-licking face off!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!9999.X9999!SIDIKA!}
 	[KABU!DAZIR!ARTISANS' MANSION!1.X4030!SIDIKA!/]
 
@@ -3768,7 +3768,7 @@ DIYGU
 
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.100!DIYGU!]
 		||
-		*"You don't get to ask questions here, you jinn-licking savage!"*
+		*"You don't get to ask questions here, you Jinn-licking savage!"*
 		(A#"Do your parents let you speak this way?"){A:1,KABU!DAZIR!ARTISANS' PLAZA!0.101!DIYGU!}
 		(B#"I see there's no use reasoning with you."){B:1,KABU!DAZIR!ARTISANS' PLAZA!0.301!DIYGU!}
 		(E#"Khaa needs to keep his mongrels on tighter leashes."){E:1,KABU!DAZIR!ARTISANS' PLAZA!0.501!DIYGU!}
@@ -3836,7 +3836,7 @@ DIYGU
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.5000!DIYGU!]
 		||
-		*"Tambul, Tacriba, you're all jinnlickers, the lot of you!"*
+		*"Tambul, Tacriba, you're all Jinnlickers, the lot of you!"*
 		(A#"Do your parents let you speak this way?"){A:1,KABU!DAZIR!ARTISANS' PLAZA!0.101!DIYGU!}
 		(D#"I'll have to inform my friend Khaa of Dazir's poor manners."){D:1,KABU!DAZIR!ARTISANS' PLAZA!0.400!DIYGU!}
 		(E#"Shut your mouth now... before I fill it with your bowels."){E:1,KABU!DAZIR!ARTISANS' PLAZA!0.501!DIYGU!}
@@ -3850,7 +3850,7 @@ DIYGU
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.6000!DIYGU!]
 		||
-		*"Clean the dung out your ears, jinnlover!"*
+		*"Clean the dung out your ears, Jinnlover!"*
 		(F#"A diss battle? My turn, you goat-sniffing, arse rat!"){F:1,KABU!DAZIR!ARTISANS' PLAZA!0.601!DIYGU!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.6000!DIYGU!/]
 
@@ -3863,7 +3863,7 @@ DIYGU
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.X1010!DIYGU!]
 		|@:KABU!DAZIR!ARTISANS' PLAZA!1.X000!DIYGU!|
-		*"But illiterate jinnlovers like you wouldn't know anything about that, so shut it!"*
+		*"But illiterate Jinnlovers like you wouldn't know anything about that, so shut it!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!DIYGU!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.X1010!DIYGU!/]
 	
@@ -3875,7 +3875,7 @@ DIYGU
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.X3010!DIYGU!]
 		|@:KABU!DAZIR!ARTISANS' PLAZA!1.X000!DIYGU!|
-		*"I hope the jinns take you to the Graylands!"*
+		*"I hope the Jinns take you to the Graylands!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!DIYGU!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.X3010!DIYGU!/]
 	
@@ -3978,7 +3978,7 @@ DIYGU
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!1.X000!DIYGU!]
 		|@:KABU!DAZIR!ARTISANS' PLAZA!2.000!DIYGU!|
-		*"Stop talking to me, you jinnlicker!"*
+		*"Stop talking to me, you Jinnlicker!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!DIYGU!}
 	[KABU!DAZIR!ARTISANS' PLAZA!1.X000!DIYGU!/]
 	
@@ -3990,7 +3990,7 @@ DIYGU
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!1.X0050!DIYGU!]
 		|@:KABU!DAZIR!ARTISANS' PLAZA!2.000!DIYGU!|
-		*"Get out of here, you jinn-licking weakling!"*
+		*"Get out of here, you Jinn-licking weakling!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!DIYGU!}
 	[KABU!DAZIR!ARTISANS' PLAZA!1.X0050!DIYGU!/]
 	
@@ -4212,7 +4212,7 @@ HAZAN
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.4010!HAZAN!]
 		||
-		*"Perhaps their forms could be crushed by a jinn or their minds ensnared by the Ruby Jinn himself - but I sincerely doubt we'll be making allies of jinns any time soon..."*
+		*"Perhaps their forms could be crushed by a Jinn or their minds ensnared by the Ruby Jinn himself - but I sincerely doubt we'll be making allies of Jinns any time soon..."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.1015!HAZAN!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.4010!HAZAN!/]
 	
@@ -4267,7 +4267,7 @@ HAZAN
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!1.X001!HAZAN!]
 		|@:KABU!DAZIR!ARTISANS' PLAZA!1.002!HAZAN!|
-		*"Biracul keep you from the jinns, foreigner."*
+		*"Biracul keep you from the Jinns, foreigner."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!HAZAN!}
 	[KABU!DAZIR!ARTISANS' PLAZA!1.X001!HAZAN!/]
 	
@@ -4529,7 +4529,7 @@ SERPIL
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.4010!SERPIL!]
 		||
-		*"If you're a child and actually believe jinnlore, there is nothing Biracul did not know."*
+		*"If you're a child and actually believe Jinnlore, there is nothing Biracul did not know."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.4011!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.4010!SERPIL!/]
 	
@@ -4811,7 +4811,7 @@ JERHAAK
 	
 	[/KABU!DAZIR!ATRIUM!0.1002!JERHAAK!]
 		||
-		*"But, no, we don't need outsiders in our town with their jinn-cursed ideas."*
+		*"But, no, we don't need outsiders in our town with their Jinn-cursed ideas."*
 		(A#"Why suspect the foreign mage?"){A:1,KABU!DAZIR!ATRIUM!0.101!JERHAAK!}
 		(B#"Why would people want to travel here?"){B:1,KABU!DAZIR!ATRIUM!0.200!JERHAAK!}
 		(C#"Don't worry, I'm not staying."){C:1,KABU!DAZIR!ATRIUM!0.X300!JERHAAK!}
@@ -4880,13 +4880,13 @@ JERHAAK
 	
 	[/KABU!DAZIR!ATRIUM!0.1010!JERHAAK!]
 		||
-		*"He's a jinn in disguise, if you ask me! And..."* 
+		*"He's a Jinn in disguise, if you ask me! And..."* 
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!0.1011!JERHAAK!}
 	[KABU!DAZIR!ATRIUM!0.1010!JERHAAK!/]
 	
 	[/KABU!DAZIR!ATRIUM!0.1011!JERHAAK!]
 		||
-		*"Hey! Why am I even answering your jinn-licking questions, foreigner?!"*
+		*"Hey! Why am I even answering your Jinn-licking questions, foreigner?!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!0.X1012!JERHAAK!}
 	[KABU!DAZIR!ATRIUM!0.1011!JERHAAK!/]
 	
@@ -4976,7 +4976,7 @@ JERHAAK
 
 	[/KABU!DAZIR!ATRIUM!0.X601!JERHAAK!]
 		|@:KABU!DAZIR!ATRIUM!1.X002!JERHAAK!|
-		*"Biracul's balls! Get away from me you jinn-loving, lunatic!"*
+		*"Biracul's balls! Get away from me you Jinn-loving, lunatic!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!JERHAAK!}
 	[KABU!DAZIR!ATRIUM!0.X601!JERHAAK!/]
 	
@@ -4995,13 +4995,13 @@ JERHAAK
 	
 	[/KABU!DAZIR!ATRIUM!1.X002!JERHAAK!]
 		|@:KABU!DAZIR!ATRIUM!1.0020!JERHAAK!|
-		*"Bother me again and you'll be dancing with the jinns in the Graylands!"*
+		*"Bother me again and you'll be dancing with the Jinns in the Graylands!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!JERHAAK!}
 	[KABU!DAZIR!ATRIUM!1.X002!JERHAAK!/]
 	
 	[/KABU!DAZIR!ATRIUM!1.0020!JERHAAK!]
 		||
-		*"I warned you! I'm going to send your ghost to the Graylands, jinnlover!"*
+		*"I warned you! I'm going to send your ghost to the Graylands, Jinnlover!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9992.X0052!JERHAAK!}
 	[KABU!DAZIR!ATRIUM!1.0020!JERHAAK!/]
 	
@@ -5014,7 +5014,7 @@ JERHAAK
 	
 	[/KABU!DAZIR!ATRIUM!1.X0030!JERHAAK!]
 		|@:KABU!DAZIR!ATRIUM!1.X0031!JERHAAK!|
-		*"...Oh! At night there be no jinn-born surprises! Too-ra-lee!"*
+		*"...Oh! At night there be no Jinn-born surprises! Too-ra-lee!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!JERHAAK!}
 	[KABU!DAZIR!ATRIUM!1.X0030!JERHAAK!/]
 	
@@ -5142,7 +5142,7 @@ MERT
 	
 	[/KABU!DAZIR!ATRIUM!0.X1011!MERT!]
 		|@:KABU!DAZIR!ATRIUM!0.X102!MERT!|
-		*"Off with ya now; go play with the jinns on the plain or somethin'."*
+		*"Off with ya now; go play with the Jinns on the plain or somethin'."*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!MERT!}
 	[KABU!DAZIR!ATRIUM!0.X1011!MERT!/]
 	
@@ -5190,7 +5190,7 @@ MERT
 	
 	[/KABU!DAZIR!ATRIUM!0.X301!MERT!]
 		|@:KABU!DAZIR!ATRIUM!0.202!MERT!|
-		*"Arrrgg! Off with ya now, ya Suyu'i goa'; go play with the jinns on the plain or somethin'."*
+		*"Arrrgg! Off with ya now, ya Suyu'i goa'; go play with the Jinns on the plain or somethin'."*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!MERT!}
 	[KABU!DAZIR!ATRIUM!0.X301!MERT!/]		
 	
@@ -5208,7 +5208,7 @@ MERT
 	
 	[/KABU!DAZIR!ATRIUM!0.X3012!MERT!]
 		|@:KABU!DAZIR!ATRIUM!0.202!MERT!|
-		*"So ya be'er no' stay here long, ya fereign jinn!"*
+		*"So ya be'er no' stay here long, ya fereign Jinn!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!MERT!}	
 	[KABU!DAZIR!ATRIUM!0.X3012!MERT!/]	
 
@@ -5334,7 +5334,7 @@ MERT
 	
 	[/KABU!DAZIR!ATRIUM!0.X6010!MERT!]
 		|@:KABU!DAZIR!ATRIUM!0.X602!MERT!|
-		*"Yer in the jinn's embrace, ya looney!"*
+		*"Yer in the Jinn's embrace, ya looney!"*
 		(A#"Buck-kaw! Hear the mighty caw of my lord!"){A:0,KABU!DAZIR!ATRIUM!9999.X9999!MERT!}
 	[KABU!DAZIR!ATRIUM!0.X6010!MERT!/]
 	
@@ -6195,9 +6195,9 @@ you accepted khaa's mission
 	
 	[/KABU!DAZIR!GATES OF DAZIR!1.1000!DYSMAS!]
 		||
-		*"I hope your work in the Wellspring can restore some peace and order in Kabu - far too long have we lived under the shadow of the jinns!"*
+		*"I hope your work in the Wellspring can restore some peace and order in Kabu - far too long have we lived under the shadow of the Jinns!"*
 		(A#"Where are you headed?"){A:1,KABU!DAZIR!GATES OF DAZIR!1.101!DYSMAS!}
-		(B#"The shadow of the jinns?"){B:1,KABU!DAZIR!GATES OF DAZIR!1.201!DYSMAS!}
+		(B#"The shadow of the Jinns?"){B:1,KABU!DAZIR!GATES OF DAZIR!1.201!DYSMAS!}
 		(E#"Soon you'll live under my shadow instead."){E:1,KABU!DAZIR!GATES OF DAZIR!1.500!DYSMAS!}
 	[KABU!DAZIR!GATES OF DAZIR!1.1000!DYSMAS!/]
 	
@@ -6658,7 +6658,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!00.000!KHAA!]
 		||
-		*"It's neither my wont nor my desire to chat with wandering vagrants; however, your jinn-struck ravings were of particular interest to me, and thus I commanded my subjects to save your life."*
+		*"It's neither my wont nor my desire to chat with wandering vagrants; however, your Jinn-struck ravings were of particular interest to me, and thus I commanded my subjects to save your life."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!00.X0000!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!00.000!KHAA!/]
 	
@@ -7026,7 +7026,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.501!KHAA!]
 		||
-		*"You see, those jinn-cursed Tacribians covet control of our ancient Wellspring."*
+		*"You see, those Jinn-cursed Tacribians covet control of our ancient Wellspring."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.5010!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.501!KHAA!/]
 	
@@ -7670,7 +7670,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1010!RADA!]
 		||
-		*"You should listen to old Rada; she's brought back many folk that have been jinn-struck on the plain!"*
+		*"You should listen to old Rada; she's brought back many folk that have been Jinn-struck on the plain!"*
 		(A#"Thank you for saving my life."){A:1,KABU!DAZIR!MAGE'S ABODE!0.102!RADA!}
 		(B#"Where am I?"){B:1,KABU!DAZIR!MAGE'S ABODE!0.202!RADA!}
 		(E#"Explain what happened to me."){E:1,KABU!DAZIR!MAGE'S ABODE!0.X502!RADA!}
@@ -7700,7 +7700,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.5010!RADA!]
 		||
-		*"It's probably this jinn-loving willfulness that led you to all but die out on the plain!"*
+		*"It's probably this Jinn-loving willfulness that led you to all but die out on the plain!"*
 		(A#"Thank you for saving my life."){A:1,KABU!DAZIR!MAGE'S ABODE!0.102!RADA!}
 		(D#"Why did you help me?"){D:1,KABU!DAZIR!MAGE'S ABODE!0.402!RADA!}
 		(E#"Explain what happened."){E:1,KABU!DAZIR!MAGE'S ABODE!0.X502!RADA!}
@@ -7715,7 +7715,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.6010!RADA!]
 		||
-		*"Old Rada has seen many a fool in the jinns' embrace, but never one that clucked like a chicken!"*
+		*"Old Rada has seen many a fool in the Jinns' embrace, but never one that clucked like a chicken!"*
 		(F#"I invoke the Caw because of my devotion to the Feathered One. 'Buck-awk!'"){F:1,KABU!DAZIR!MAGE'S ABODE!0.603!RADA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.6010!RADA!/]
 
@@ -7781,7 +7781,7 @@ RADA
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.402!RADA!]
 		||
-		*"Do we need a reason to come to the aid of a dying traveler? What do you take us for, Tacribian jinn worshippers?"*
+		*"Do we need a reason to come to the aid of a dying traveler? What do you take us for, Tacribian Jinn worshippers?"*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.4020!RADA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.402!RADA!/]
 	
@@ -7803,7 +7803,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.5020!RADA!]
 		||
-		*"When the guards brought you here, you were paler than a Muninn and writhing in the grips of a jinn's embrace. And all through the night you had raving fits, muttering something of the other about that foreign mage, Mifas'cul!"*
+		*"When the guards brought you here, you were paler than a Muninn and writhing in the grips of a Jinn's embrace. And all through the night you had raving fits, muttering something of the other about that foreign mage, Mifas'cul!"*
 		(A#"Is there any way I can repay you?"){A:1,KABU!DAZIR!MAGE'S ABODE!0.103!RADA!}
 		(D#"Now that I'm healed, what do you intend to do?"){D:1,KABU!DAZIR!MAGE'S ABODE!0.403!RADA!}
 		(E#"I tire of this. I'm leaving."){E:1,KABU!DAZIR!MAGE'S ABODE!0.503!RADA!}
@@ -7818,7 +7818,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.5022!RADA!]
 		||
-		*"When the guards brought you here, you were paler than a Muninn and writhing in the grips of a jinn's embrace. And all through the night you had raving fits, muttering something of the other about that foreign mage, Mifas'cul!"*
+		*"When the guards brought you here, you were paler than a Muninn and writhing in the grips of a Jinn's embrace. And all through the night you had raving fits, muttering something of the other about that foreign mage, Mifas'cul!"*
 		(A#"Is there any way I can repay you?"){A:1,KABU!DAZIR!MAGE'S ABODE!0.103!RADA!}
 		(D#"I was attacked on the plain."){D:1,KABU!DAZIR!MAGE'S ABODE!0.3033!RADA!}
 		(E#"I tire of this. I'm leaving."){E:1,KABU!DAZIR!MAGE'S ABODE!0.503!RADA!}
@@ -7888,7 +7888,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.3034!RADA!]
 		||
-		*"You sure as Biracul is shining must've met a jinn out in the desert!"*
+		*"You sure as Biracul is shining must've met a Jinn out in the desert!"*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.3035!RADA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.3034!RADA!/]
 	
@@ -7924,7 +7924,7 @@ RADA
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.603!RADA!]
 		||
-		*"I see... Perhaps madness is the explanation for your jinn-lickin' sojourn - pardon my language!"*
+		*"I see... Perhaps madness is the explanation for your Jinn-lickin' sojourn - pardon my language!"*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.6030!RADA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.603!RADA!/]
 	
@@ -8117,7 +8117,7 @@ COZKUIN
 
 	[/KABU!DAZIR!SLUMS!0.100!COZKUIN!]
 		||
-		*"Wha' else could we do? I heard tha' the Tacribs are closer to animals than men, tha' they be touch'ed by the jinns frem their time walkin' the Was'es and would as soon kill ya if ya e'en look'ed their way!"*
+		*"Wha' else could we do? I heard tha' the Tacribs are closer to animals than men, tha' they be touch'ed by the Jinns frem their time walkin' the Was'es and would as soon kill ya if ya e'en look'ed their way!"*
 		(A#"There must be a way to reason with them."){A:1,KABU!DAZIR!SLUMS!0.101!COZKUIN!}
 		(B#"Who would they listen to?"){B:1,KABU!DAZIR!SLUMS!0.201!COZKUIN!}
 		(E#"Then your people were fools to anger them."){E:1,KABU!DAZIR!SLUMS!0.X501!COZKUIN!}
@@ -8131,7 +8131,7 @@ COZKUIN
 	
 	[/KABU!DAZIR!SLUMS!0.2000!COZKUIN!]
 		||
-		*"Did ya hear the story abou' wha' he did to Konki and Nerius the twinned jinns?!"*
+		*"Did ya hear the story abou' wha' he did to Konki and Nerius the twinned Jinns?!"*
 		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.2001!COZKUIN!}
 	[KABU!DAZIR!SLUMS!0.2000!COZKUIN!/]
 	
@@ -8278,7 +8278,7 @@ COZKUIN
 	
 	[/KABU!DAZIR!SLUMS!0.X501!COZKUIN!]
 		|@:KABU!DAZIR!SLUMS!1.001!COZKUIN!|
-		*"Whaaaaaaa! Mum, this bad lady is puttin' the jinnfear in me!"*
+		*"Whaaaaaaa! Mum, this bad lady is puttin' the Jinnfear in me!"*
 		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
 	[KABU!DAZIR!SLUMS!0.X501!COZKUIN!/]
 
@@ -8291,7 +8291,7 @@ COZKUIN
 	
 	[/KABU!DAZIR!SLUMS!1.X000!COZKUIN!]
 		|@:KABU!DAZIR!SLUMS!1.X001!COZKUIN!|
-		*" 'Biracul, Biracul, keep me frem the jinns influen...za."*
+		*" 'Biracul, Biracul, keep me frem the Jinn's influen...za."*
 		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
 	[KABU!DAZIR!SLUMS!1.X000!COZKUIN!/]
 	
@@ -8672,7 +8672,7 @@ AYDIN
 	
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!0.2000!AYDIN!]
 		||
-		*"He used his Techne to protect our ancestors from the jinns of the Wastes and from the Prismatic jinns!"*
+		*"He used his Techne to protect our ancestors from the Jinns of the Wastes and from the Prismatic Jinns!"*
 		(A#"..."){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!0.2001!AYDIN!}
 	[KABU!DAZIR!TEMPLE OF BIRACUL!0.2000!AYDIN!/]
 	
@@ -8684,7 +8684,7 @@ AYDIN
 	
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!0.2002!AYDIN!]
 		||
-		*"Yet the Tacribians have now abandoned his path - returning to the worship of the Amethyst and Obsidian jinns - and the dream of our lives will soon be over..."*
+		*"Yet the Tacribians have now abandoned his path - returning to the worship of the Amethyst and Obsidian Jinns - and the dream of our lives will soon be over..."*
 		(A#"Despair profits us nothing; we must seek solutions!"){A:1,KABU!DAZIR!TEMPLE OF BIRACUL!0.101!AYDIN!}
 		(B#"What would Biracul tell you to do?"){B:1,KABU!DAZIR!TEMPLE OF BIRACUL!0.201!AYDIN!}
 		(C#"Then nothing more can be said."){C:1,KABU!DAZIR!TEMPLE OF BIRACUL!0.301!AYDIN!}
@@ -8855,7 +8855,7 @@ AYDIN
 
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!0.5012!AYDIN!]
 		||
-		*"Then you stand before us a Trueflesh under a jinn-cast shadow!"*
+		*"Then you stand before us a Trueflesh under a Jinn-cast shadow!"*
 		(A#"..."){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!0.5013!AYDIN!}
 	[KABU!DAZIR!TEMPLE OF BIRACUL!0.5012!AYDIN!/]
 	
@@ -8898,7 +8898,7 @@ AYDIN
 	
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!1.X000!AYDIN!]
 		|@:KABU!DAZIR!TEMPLE OF BIRACUL!1.X001!AYDIN!|
-		*"Biracul, Biracul, keep me from the jinns' influence. 
+		*"Biracul, Biracul, keep me from the Jinns' influence. 
 		Biracul, Biracul, lead me to the path of righteous. 
 		Biracul, Biracul, may you illuminate our way, as you did with Ark against Rikharr."*
 		(A#"..."){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!9999.X9999!AYDIN!}
@@ -9112,7 +9112,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.300!BEHIYE!]
 		||
-		*"Ha! Perhaps it isn't... that is, if you intend to live out in the Wasteland like a jinn-licking Unseen! Pardon the curse."*
+		*"Ha! Perhaps it isn't... that is, if you intend to live out in the Wasteland like a Jinn-licking Unseen! Pardon the curse."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.3000!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.300!BEHIYE!/]
 	
@@ -9759,7 +9759,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.4000!CETIN!]
 		||
-		*"It's far more likely he wished to ensure that you were no jinn-cursed Unseen come to escape punishment - or else, a jinnspawn of Rikharr come to slay us with his mind-venom!"*
+		*"It's far more likely he wished to ensure that you were no Jinn-cursed Unseen come to escape punishment - or else, a Jinnspawn of Rikharr come to slay us with his mind-venom!"*
 		(C#"Perhaps it's as you say."){C:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.301!CETIN!}	
 		(D#"You wrong me to say that I'm anything akin to those freaks!"){D:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.401!CETIN!}
 		(E#"You're a paranoid township indeed, to see enemies at every turn."){E:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.501!CETIN!}

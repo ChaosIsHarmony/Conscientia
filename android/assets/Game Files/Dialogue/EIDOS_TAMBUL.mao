@@ -326,7 +326,7 @@ DARY
 
 	[/KABU!TAMBUL!ARCHIVES!0.500!DARY!]
 		||
-		*"I imagine if you are a jinnkissing anti-intellectual, then it probably is!"*
+		*"I imagine if you are a Jinn-kissing anti-intellectual, then it probably is!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.5000!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.500!DARY!/]
 
@@ -499,7 +499,7 @@ learn more shit
 >>>Met Fenrir (12900)<<<
 	[/KABU!TAMBUL!ARCHIVES!1.X1002!DARY!]
 		|^12900:KABU!TAMBUL!ARCHIVES!1.1003!DARY!|
-		*"It's said that the beast was born from the copulation of a dead jinn and the blood of a thousand unborn children..."*
+		*"It's said that the beast was born from the copulation of a dead Jinn and the blood of a thousand unborn children..."*
 		(A#"Do you know about any other creatures?"){A:0,KABU!TAMBUL!ARCHIVES!1.101!DARY!}
 		(B#"Are there any interesting events you can tell me about?"){B:0,KABU!TAMBUL!ARCHIVES!1.200!DARY!}
 		(C#"I see. Well, I guess that'll be all for now."){C:1,KABU!TAMBUL!ARCHIVES!1.X899!DARY!}
@@ -507,7 +507,7 @@ learn more shit
 
 	[/KABU!TAMBUL!ARCHIVES!1.1003!DARY!]
 		||
-		*"It's said that the beast was born from the copulation of a dead jinn and the blood of a thousand unborn children..."*
+		*"It's said that the beast was born from the copulation of a dead Jinn and the blood of a thousand unborn children..."*
 		(A#"Do you know about any other creatures?"){A:0,KABU!TAMBUL!ARCHIVES!1.101!DARY!}
 		(B#"Have you ever heard of a wolf named Fenrir?"){B:0,KABU!TAMBUL!ARCHIVES!1.102!DARY!}
 		(C#"I see. Well, I guess that'll be all for now."){C:1,KABU!TAMBUL!ARCHIVES!1.X899!DARY!}
@@ -539,10 +539,10 @@ learn more shit
 
 	[/KABU!TAMBUL!ARCHIVES!1.1022!DARY!]
 		||
-		*"As I recall, it was a fearsome beast that was capable of consuming anything - and specifically had an appetite for other jinns; though the only jinn capable of birthing a creature such as this would be the Emerald Architect, likely as not!"*
+		*"As I recall, it was a fearsome beast that was capable of consuming anything - and specifically had an appetite for other Jinns; though the only Jinn capable of birthing a creature such as this would be the Emerald Architect, likely as not!"*
 		(A#"Who's this 'Emerald Architect' you're talking about?"){A:0,KABU!TAMBUL!ARCHIVES!1.1023!DARY!}
-		(B#"Tell me more of the jinns."){B:0,KABU!TAMBUL!ARCHIVES!1.1024!DARY!}
-		(E#"Why would a jinn create a jinn-eater?"){E:0,KABU!TAMBUL!ARCHIVES!1.1025!DARY!}
+		(B#"Tell me more of the Jinns."){B:0,KABU!TAMBUL!ARCHIVES!1.1024!DARY!}
+		(E#"Why would a Jinn create a Jinneater?"){E:0,KABU!TAMBUL!ARCHIVES!1.1025!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.1022!DARY!/]
 
 	[/KABU!TAMBUL!ARCHIVES!1.1023!DARY!]
@@ -553,7 +553,7 @@ learn more shit
 
 	[/KABU!TAMBUL!ARCHIVES!1.10230!DARY!]
 		||
-		*"The only jinn that is more furtive than him would be Obsidian Jinn, or here in Tambul refered to as 'Melinoe'."*
+		*"The only Jinn that is more furtive than him would be Obsidian Jinn, or here in Tambul refered to as 'Melinoe'."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.10231!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.10230!DARY!/]
 
@@ -566,7 +566,7 @@ learn more shit
 
 	[/KABU!TAMBUL!ARCHIVES!1.1024!DARY!]
 		||
-		*"The jinns? Well, we're not sure how many there are, because direct evidence of their existence is scant."*
+		*"The Jinns? Well, we're not sure how many there are, because direct evidence of their existence is scant."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.10240!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.1024!DARY!/]
 
@@ -578,7 +578,7 @@ learn more shit
 
 	[/KABU!TAMBUL!ARCHIVES!1.10241!DARY!]
 		||
-		*"It may be that it's a single jinn wearing a multitude of masks or that there are multiple jinns vying for a single throne."*
+		*"It may be that it's a single Jinn wearing a multitude of masks or that there are multiple Jinns vying for a single throne."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.10242!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.10241!DARY!/]
 
@@ -719,7 +719,7 @@ ISMAT
 
 	[/KABU!TAMBUL!ARCHIVES!0.002!ISMAT!]
 		||
-		*"The world is chaotic; I mean, even that jinnstruck 'Prophet' made more sense than this tragedy does!"*
+		*"The world is chaotic; I mean, even that Jinn-struck 'Prophet' made more sense than this tragedy does!"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0020!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.002!ISMAT!/]
 	
@@ -763,7 +763,7 @@ ISMAT
 	
 	[/KABU!TAMBUL!ARCHIVES!0.0040!ISMAT!]
 		||
-		*"I'm just confused about the whole jinnkissing mess, y'know?"*
+		*"I'm just confused about the whole Jinn-kissing mess, y'know?"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0041!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.0040!ISMAT!/]
 	
@@ -804,7 +804,7 @@ KAGIN
 
 	[/KABU!TAMBUL!ARCHIVES!0.X001!KAGIN!]
 		|@:KABU!TAMBUL!ARCHIVES!0.002!KAGIN!|
-		*"...I feel like a jinn-lover for saying this, but I'm glad it wasn't me in there..."*
+		*"...I feel like a Jinnlover for saying this, but I'm glad it wasn't me in there..."*
 		(C#Leave){C:1,KABU!TAMBUL!ARCHIVES!9999.X9999!KAGIN!}
 		(D#...){D:1,KABU!TAMBUL!ARCHIVES!9999.X0118!KAGIN!}
 	[KABU!TAMBUL!ARCHIVES!0.X001!KAGIN!/]
@@ -849,7 +849,7 @@ KAGIN
 	
 	[/KABU!TAMBUL!ARCHIVES!0.X0040!KAGIN!]
 		|@:KABU!TAMBUL!ARCHIVES!0.005!KAGIN!|
-		*"...Take care you don't fall into the jinns' embrace..."*
+		*"...Take care you don't fall into the Jinns' embrace..."*
 		(C#Leave){C:1,KABU!TAMBUL!ARCHIVES!9999.X9999!KAGIN!}
 		(D#...){D:1,KABU!TAMBUL!ARCHIVES!9999.X0118!KAGIN!}
 	[KABU!TAMBUL!ARCHIVES!0.X0040!KAGIN!/]
@@ -1456,13 +1456,13 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.1000!PAKAHRON!]
 		||
-		*"No, Melinoe's hand did not move yours, jinnspawn!"*
+		*"No, Melinoe's hand did not move yours, Jinnspawn!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.1001!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.1000!PAKAHRON!/]
 
 	[/KABU!TAMBUL!ARCHIVES!0.1001!PAKAHRON!]
 		||
-		*"Whatever jinns sent you to commit this act, you are about to join them in the Graylands."*
+		*"Whatever Jinns sent you to commit this act, you are about to join them in the Graylands."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.1001!PAKAHRON!/]
 
@@ -1474,7 +1474,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.1003!PAKAHRON!]
 		||
-		*"You'll soon have the opportunity to meet them, jinnspawn..."*
+		*"You'll soon have the opportunity to meet them, Jinnspawn..."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.1003!PAKAHRON!/]
 
@@ -1486,13 +1486,13 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.2000!PAKAHRON!]
 		||
-		*"Carving out destruction like the Amethyst jinn on merely a whim?!"* 
+		*"Carving out destruction like the Amethyst Jinn on merely a whim?!"* 
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.2001!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.2000!PAKAHRON!/]
 
 	[/KABU!TAMBUL!ARCHIVES!0.2001!PAKAHRON!]
 		||
-		*"By the time I'm finished, there will be no body of yours left to bury, jinnspawn!"*
+		*"By the time I'm finished, there will be no body of yours left to bury, Jinnspawn!"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.2001!PAKAHRON!/]
 
@@ -1516,7 +1516,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.500!PAKAHRON!]
 		||
-		*"Then I will simply have to kill you an infinite number of times, jinnspawn."*
+		*"Then I will simply have to kill you an infinite number of times, Jinnspawn."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.500!PAKAHRON!/]
 
@@ -2059,7 +2059,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.1001!ABLAH!]
 		||
-		*"Unsullied by the burden of the mind, your nature is to destroy! To divide and conquer is your curse for jinnworship!"*
+		*"Unsullied by the burden of the mind, your nature is to destroy! To divide and conquer is your curse for Jinnworship!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.1002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1001!ABLAH!/]
 	
@@ -2123,7 +2123,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.3000!ABLAH!]
 		||
-		*"Even for a Tacribian, it would take blind rage or a jinncrazed mind to do what you accomplished without emotion or intellect!"*
+		*"Even for a Tacribian, it would take blind rage or a Jinn-crazed mind to do what you accomplished without emotion or intellect!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3000!ABLAH!/]
 	
@@ -2135,7 +2135,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.3002!ABLAH!]
 		||
-		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
+		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for Jinnworship."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3002!ABLAH!/]
 	
@@ -2167,7 +2167,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.4000!ABLAH!]
 		||
-		*"Even for a Tacribian, it would take blind rage or a jinncrazed mind to do what you accomplished without emotion or intellect!"*
+		*"Even for a Tacribian, it would take blind rage or a Jinn-crazed mind to do what you accomplished without emotion or intellect!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4000!ABLAH!/]
 	
@@ -2179,7 +2179,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.4002!ABLAH!]
 		||
-		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
+		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for Jinnworship."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4002!ABLAH!/]
 	
@@ -2245,7 +2245,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.6000!ABLAH!]
 		||
-		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
+		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for Jinnworship."*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.6001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.6000!ABLAH!/]
 	
@@ -2352,7 +2352,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!0.100!ARGHAVAN!]
 		||
-		*"My name's Arghavan - not that it's any of your jinnlickin' business..."*
+		*"My name's Arghavan - not that it's any of your Jinn-lickin' business..."*
 		(A#"I thought I saw you run away to herald my arrival."){A:1,KABU!TAMBUL!ATRIUM!0.X101!ARGHAVAN!}
 		(B#"You seem to be a surly child."){B:1,KABU!TAMBUL!ATRIUM!0.X201!ARGHAVAN!}
 		(E#"It is now. Spy on me again and I'll cut out your tongue."){E:1,KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!}	
@@ -2360,7 +2360,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!0.200!ARGHAVAN!]
 		||
-		*"That isn't any of your jinnlickin' business."*
+		*"That isn't any of your Jinn-lickin' business."*
 		(A#"I thought I saw you run away to herald my arrival."){A:1,KABU!TAMBUL!ATRIUM!0.X101!ARGHAVAN!}
 		(B#"You seem to be a surly child."){B:1,KABU!TAMBUL!ATRIUM!0.X201!ARGHAVAN!}
 		(D#"What other things have you reported to Pakahron?"){D:1,KABU!TAMBUL!ATRIUM!0.401!ARGHAVAN!}
@@ -2388,7 +2388,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!0.500!ARGHAVAN!]
 		||
-		*"You don't look half as dangerous as you do ugly, jinnlicker!"*
+		*"You don't look half as dangerous as you do ugly, Jinnlicker!"*
 		(A#"I thought I saw you run away to herald my arrival."){A:1,KABU!TAMBUL!ATRIUM!0.X101!ARGHAVAN!}
 		(D#"What other things have you reported to Pakahron?"){D:1,KABU!TAMBUL!ATRIUM!0.401!ARGHAVAN!}
 		(E#"Spy on me again and I'll cut out your tongue."){E:1,KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!}
@@ -2435,7 +2435,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!0.X4010!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!|
-		*"So just go jump into the Valley by yourself, jinnlicker!"*
+		*"So just go jump into the Valley by yourself, Jinnlicker!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.X4010!ARGHAVAN!/]
 	
@@ -2524,7 +2524,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!1.X300!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!3.000!ARGHAVAN!|
-		*"Then scram, jinnlicker and don't waste my time!"*
+		*"Then scram, Jinnlicker and don't waste my time!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.X300!ARGHAVAN!/]
 
@@ -2570,7 +2570,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!1.600!ARGHAVAN!]
 		||
-		*"You..! You jinn-cursed wench!"*
+		*"You..! You Jinn-cursed wench!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.X6000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.600!ARGHAVAN!/]
 	
@@ -2805,7 +2805,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.3000!NIYOOSH!]
 		||
-		*"You must be jinnstruck, ha!"*
+		*"You must be Jinn-struck, ha!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.3001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.3000!NIYOOSH!/]
 
@@ -2831,7 +2831,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.4000!NIYOOSH!]
 		||
-        *"Ha ha! By Biracul's beard, you must be as confused as those travelin' folk from years back! Came in a big floatin' contraption, filled with hot air, they said - pretty sure it was just some jinn-lickin' Vanquished trickery, though! Pardon my language."*
+        *"Ha ha! By Biracul's beard, you must be as confused as those travelin' folk from years back! Came in a big floatin' contraption, filled with hot air, they said - pretty sure it was just some Jinn-lickin' Vanquished trickery, though! Pardon my language."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.4000!NIYOOSH!/]
 
@@ -3086,7 +3086,7 @@ NIYOOSH
 Maybe NIYOOSH should disappear after this?????
 	[/KABU!TAMBUL!ATRIUM!0.892!NIYOOSH!]
 		||
-		*"Now if you'll excuse me, I need to go tell Pakahron about that jinnstruck Tacribian's plans!"*
+		*"Now if you'll excuse me, I need to go tell Pakahron about that Jinn-struck Tacribian's plans!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.8920!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.892!NIYOOSH!/]
 	
@@ -3345,7 +3345,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!2.1011!NIYOOSH!]
 		||
-        *"I'm convinced the crusty ol' jinnkisser is up to somethin'! Thousands of years and not once has the water ever stopped flowin'..."*
+        *"I'm convinced the crusty ol' Jinnkisser is up to somethin'! Thousands of years and not once has the water ever stopped flowin'..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1012!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1011!NIYOOSH!/]
 
@@ -3357,7 +3357,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!2.401!NIYOOSH!]
 		||
-		*"I'd only be less surprised if you told me he was ol' Famlaz in disguise! That guileful jinnkisser'll get what's comin' to him!"*
+		*"I'd only be less surprised if you told me he was ol' Famlaz in disguise! That guileful Jinnkisser'll get what's comin' to him!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.401!NIYOOSH!/]
 	
@@ -3381,7 +3381,7 @@ Maybe NIYOOSH should disappear after this?????
 	
 	[/KABU!TAMBUL!ATRIUM!2.1021!NIYOOSH!]
 		||
-		*"Rumor has it, Khlutt belonged to a secret sect of jinn-worshippin' magi, has all sorts of unbiraculian powers and the like!"*
+		*"Rumor has it, Khlutt belonged to a secret sect of Jinn-worshippin' magi, has all sorts of unbiraculian powers and the like!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1022!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1021!NIYOOSH!/]
 	
@@ -3584,7 +3584,7 @@ Maybe NIYOOSH should disappear after this?????
 	
 	[/KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!]
 		||
-		*"But maybe she did it after all, that jinnkisser! Ha!"*
+		*"But maybe she did it after all, that Jinnkisser! Ha!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0122!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!/]
 
@@ -3633,7 +3633,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.1000!NIYOOSH!]
 		||
-		*"That means that jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
+		*"That means that Jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1000!NIYOOSH!/]
 
@@ -3687,7 +3687,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.3000!NIYOOSH!]
 		||
-		*"That means that jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
+		*"That means that Jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.3001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.3000!NIYOOSH!/]
 
@@ -3745,7 +3745,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.5001!NIYOOSH!]
 		||
-		*"But maybe she did it after all, that jinnkisser! Ha!"*
+		*"But maybe she did it after all, that Jinnkisser! Ha!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.5001!NIYOOSH!/]
 
@@ -3784,7 +3784,7 @@ Maybe NIYOOSH should disappear after this?????
 	
 	[/KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!]
 		||
-		*"Archma... I mean, Kambesh knew it too when he exiled that jinntouched Ormenos."*
+		*"Archma... I mean, Kambesh knew it too when he exiled that Jinn-touched Ormenos."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!}	
 	[KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!/]	
 	
@@ -3802,13 +3802,13 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!]
 		||
-		*"Oh, all right, you little jinnkisser! Listen up, now!"*
+		*"Oh, all right, you little Jinnkisser! Listen up, now!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!]
 		||
-        *"A Tambulan-born agent of Khaa has returned to this city - Dysmas, the chucklin' jinnspawn. No tellin' what his purpose here is, but he's never to be trusted, you hear?"*
+        *"A Tambulan-born agent of Khaa has returned to this city - Dysmas, the chucklin' Jinnspawn. No tellin' what his purpose here is, but he's never to be trusted, you hear?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4011!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!/]
 
@@ -3919,7 +3919,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.X901!NIYOOSH!]
 		|@:KABU!TAMBUL!ATRIUM!4.999!NIYOOSH!|
-		*"Go peddle your jinn's whispers to the children on the street, outlander!"*
+		*"Go peddle your Jinn's whispers to the children on the street, outlander!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.X901!NIYOOSH!/]
 
@@ -3932,7 +3932,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.999!NIYOOSH!]
 		||
-		*"Come with more jinn's tales?"*
+		*"Come with more Jinn's tales?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.X9990!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.999!NIYOOSH!/]
 	
@@ -4012,13 +4012,13 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!]
 		||
-        *"That famous 'Prophet' came with the airship years back, but those jinn-lickin' sons goats left him here! Not sure where that damned fellow wandered off to now, but all that jinnstruck nonsense about great calamities ahead really shook some folks up. Kabu still hasn't really recovered from that, to be honest."*
+        *"That famous 'Prophet' came with the airship years back, but those Jinn-lickin' sons goats left him here! Not sure where that damned fellow wandered off to now, but all that Jinn-struck nonsense about great calamities ahead really shook some folks up. Kabu still hasn't really recovered from that, to be honest."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!]
 		||
-        *"But the last people to come before that was Archma... uh... Kambesh. And along with him that jinntouched horror, Ormenos - gotta say, I'm glad that one's dancing with the Jinns! What a creep he was..."*
+        *"But the last people to come before that was Archma... uh... Kambesh. And along with him that Jinn-touched horror, Ormenos - gotta say, I'm glad that one's dancing with the Jinns! What a creep he was..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.126!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!/]
 
@@ -4150,7 +4150,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!]
 		||
-        *"Maybe if this were Dazir, you'd have to worry about some backstabbin' jinnkisser. Or if it were the Dawn Fortress you'd have to look out for draugs, but here..."*
+        *"Maybe if this were Dazir, you'd have to worry about some backstabbin' Jinnkisser. Or if it were the Dawn Fortress you'd have to look out for draugs, but here..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.402!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!/]
 
@@ -4168,7 +4168,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!]
 		||
-        *"But look at me and my jinnwhisperin' mouth! I should get back to work!"*
+        *"But look at me and my Jinn-whisperin' mouth! I should get back to work!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!/]
 
@@ -4218,7 +4218,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.601!NIYOOSH!]
 		||
-        *"So go on! What's this red-tinged plot of yours, you little jinn-lickin' rascal you!"*
+        *"So go on! What's this red-tinged plot of yours, you little Jinn-lickin' rascal you!"*
         (F#"Well, you see, we'd... -wishper, whisper, whisper-"){F:1,KABU!TAMBUL!ATRIUM!5.602!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.601!NIYOOSH!/]
 
@@ -4230,7 +4230,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!]
 		||
-        *"Why, yes you do! I'm not inside that jinnstruck skull of yours! How else would I know what you meant when you said we could 'spice' this borin' dung heap up?"*
+        *"Why, yes you do! I'm not inside that Jinn-struck skull of yours! How else would I know what you meant when you said we could 'spice' this borin' dung heap up?"*
         (F#"Okay, fine! All we've gotta do is... -hmmm, psst, cough, psst-"){F:1,KABU!TAMBUL!ATRIUM!5.604!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!/]
 
@@ -4292,7 +4292,7 @@ PAKAHRON
 >>>Used Farcaster to enter Tambul (13001)<<<
 	[/KABU!TAMBUL!ATRIUM!0.X001!PAKAHRON!]
 		|^13001:KABU!TAMBUL!ATRIUM!0.0010!PAKAHRON!|
-		*"I must say, you don't have the look of a Daziran, and only a jinn could cross the Duskfangs and survive..."*
+		*"I must say, you don't have the look of a Daziran, and only a Jinn could cross the Duskfangs and survive..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.0011!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.X001!PAKAHRON!/]
 
@@ -4504,7 +4504,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ATRIUM!0.6010!PAKAHRON!]
 		||
-		*"Does he have much in common with the fabled Famlaz, jinn king of buzzards?"*
+		*"Does he have much in common with the fabled Famlaz, Jinn king of buzzards?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6011!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.6010!PAKAHRON!/]
 
@@ -4721,7 +4721,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.0001!PAKAHRON!]
 		||
-		*"I must say, you don't have the look of a Daziran, and only a jinn could cross the Duskfangs and survive..."*
+		*"I must say, you don't have the look of a Daziran, and only a Jinn could cross the Duskfangs and survive..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.X0002!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.0001!PAKAHRON!/]
 
@@ -4816,7 +4816,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.3013!PAKAHRON!]
 		||
-		*"You will not undo my life's work; you'll dance with the jinns in the Graylands tonight, instead!"*
+		*"You will not undo my life's work; you'll dance with the Jinns in the Graylands tonight, instead!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9990.X13902!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.3013!PAKAHRON!/]
 
@@ -4840,7 +4840,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.5010!PAKAHRON!]
 		||
-		*"Mifas'cul has no monopoly on occult Techne, stranger. But I'm afraid you'll have to be the first to taste the punishment I've prepared for that foreigner jinnspawn."* 
+		*"Mifas'cul has no monopoly on occult Techne, stranger. But I'm afraid you'll have to be the first to taste the punishment I've prepared for that foreigner Jinnspawn."* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9990.X13902!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.5010!PAKAHRON!/]
 
@@ -4858,7 +4858,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.6011!PAKAHRON!]
 		||
-		*"I'll not allow you to undo my life's work! You'll dance with the jinns in the Graylands tonight, stranger."*
+		*"I'll not allow you to undo my life's work! You'll dance with the Jinns in the Graylands tonight, stranger."*
 		(F#"Do they offer free lessons? My Foxtrot is a bit unpolished..."){A:0,KABU!TAMBUL!ATRIUM!1.6012!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.6011!PAKAHRON!/]
 
@@ -5521,7 +5521,7 @@ subsequent interactions
 
 	[/KABU!TAMBUL!ATRIUM!4.003!PAKAHRON!]
 		||
-		*"That does it! Guards! Escort this jinnloving outlander to the gates and lock them firmly behind her!"*
+		*"That does it! Guards! Escort this Jinn-loving outlander to the gates and lock them firmly behind her!"*
 		(E#Attack){E:2,KABU!TAMBUL!ATRIUM!9992.X0013!PAKAHRON!}
 		(F#Comply){F:2,KABU!TAMBUL!ATRIUM!9990.X13900-2!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!4.003!PAKAHRON!/]
@@ -6483,7 +6483,7 @@ KAMBIN
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.1011!KAMBIN!]
 		||
-		*"Even if it ain't true, I remember my mother's strength of will; seems not even the jinn-cursed Wastes could stop her! Ha!"*
+		*"Even if it ain't true, I remember my mother's strength of will; seems not even the Jinn-cursed Wastes could stop her! Ha!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!2.1012!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!2.1011!KAMBIN!/]
 
@@ -6772,7 +6772,7 @@ NOURI
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.101!NOURI!]
 		||
-		*"That jinnlover still walks among us?! And you have his counsel?!"*
+		*"That Jinnlover still walks among us?! And you have his counsel?!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.1010!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.101!NOURI!/]
 
@@ -6790,7 +6790,7 @@ NOURI
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.1012!NOURI!]
 		||
-		*"Now jinns take you away from my sight, before I call the guards!"*
+		*"Now Jinns take you away from my sight, before I call the guards!"*
 		(A#"It is you who are guilty of collusion."){A:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(B#"Why did you trust Mifas'cul?"){B:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(E#"You're right to fear me. Who is Mifas'cul? I will not ask again."){E:1,KABU!TAMBUL!HYDROPONIC FARM!1.502!NOURI!}
@@ -6842,7 +6842,7 @@ NOURI
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.501!NOURI!]
 		||
-		*"It is we who were deceived by that jinn-tongued devil! But I will say no more."*
+		*"It is we who were deceived by that Jinntongued devil! But I will say no more."*
 		(A#"You must answer for your crimes."){A:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(D#"Kambin's suicide speaks for itself."){D:1,KABU!TAMBUL!HYDROPONIC FARM!1.4020!NOURI!}
 		(E#"You'll speak until I tell you to stop. Now who's this Mifas'cul?!"){E:1,KABU!TAMBUL!HYDROPONIC FARM!1.502!NOURI!}
@@ -6887,7 +6887,7 @@ NOURI
 	
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.X4031!NOURI!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!3.000!NOURI!|
-		*"I wish Pakahron had never taken the 'help' of that jinn-cursed Mifas'cul!"*
+		*"I wish Pakahron had never taken the 'help' of that Jinn-cursed Mifas'cul!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X0013!NOURI!}			
 	[KABU!TAMBUL!HYDROPONIC FARM!1.X4031!NOURI!/]
 
@@ -6940,7 +6940,7 @@ read about Redgrain
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.1012!NOURI!]
 		||
-		*"But all of this has nothing to do with me! So jinns take you from my sight before I call the guards!"*
+		*"But all of this has nothing to do with me! So Jinns take you from my sight before I call the guards!"*
 		(A#"Why act defensive if you're innocent?"){A:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(B#"Why did you trust Mifas'cul?"){B:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(E#"You're right to fear me. Now tell me who Mifas'cul."){E:1,KABU!TAMBUL!HYDROPONIC FARM!1.502!NOURI!}
@@ -7173,7 +7173,7 @@ this is needed or else it becomes a loop
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!4.001!PAKAHRON!]
 		||
-		*"I won't allow some jinn-loving foreigner to hinder my research!"*
+		*"I won't allow some Jinn-loving foreigner to hinder my research!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!2.002!PAKAHRON!}
 	[KABU!TAMBUL!HYDROPONIC FARM!4.001!PAKAHRON!/]
 
@@ -7220,7 +7220,7 @@ REBA
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.2000!REBA!]
 		||
-		*"It makes me sick to think of all the jinn-licking fools who sit happily chewing on these carrots, watered with my tears."*
+		*"It makes me sick to think of all the Jinn-licking fools who sit happily chewing on these carrots, watered with my tears."*
 		(A#"Your life isn't pointless! You feed everyone with your work!"){A:1,KABU!TAMBUL!HYDROPONIC FARM!0.101!REBA!}
 		(B#"Why are you such a negative person?"){B:1,KABU!TAMBUL!HYDROPONIC FARM!0.X601!REBA!}
 		(C#"Perhaps."){C:1,KABU!TAMBUL!HYDROPONIC FARM!0.X601!REBA!}
@@ -7386,7 +7386,7 @@ REBA
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.X8912!REBA!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!0.900!REBA!|
-		*"I must have been the jinn's fool to think you cared for me!"*
+		*"I must have been the Jinn's fool to think you cared for me!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X9999!REBA!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.X8912!REBA!/]
 
@@ -8138,7 +8138,7 @@ Pakahron shows up
 		||
 		*A door-like panel in the wall begins to fold in on itself, halving again and again until no door remains. Standing outside the portal is Tambul's mage-leader, Pakahron. In no mood to chat, he rushes in and scrutinizes the surroundings, easily surmising what Eidos has been up to. Now he appears as though he is in no mood to even let Eidos leave... He begins to move...*
 		(A#Try to persuade Pakahron to let you go){A:1,KABU!TAMBUL!MOON TOWER!0.901!DESCRIPTION!}
-		(E#Fight the goat-licking jinnspawn!){E:1,KABU!TAMBUL!MOON TOWER!9992.X0013!PAKAHRON!}
+		(E#Fight the goat-licking Jinnspawn!){E:1,KABU!TAMBUL!MOON TOWER!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!MOON TOWER!0.900!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!MOON TOWER!0.901!DESCRIPTION!]
@@ -8703,7 +8703,7 @@ BOZ
 
 	[/KABU!TAMBUL!RAMPARTS!0.5001!BOZ!]
 		||
-		*"But in any case, there's no reason to get all jinn-crazed 'bout this body."*
+		*"But in any case, there's no reason to get all Jinn-crazed 'bout this body."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.5002!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.5001!BOZ!/]
 
@@ -8717,7 +8717,7 @@ BOZ
 
 	[/KABU!TAMBUL!RAMPARTS!0.600!BOZ!]
 		||
-		*"Necromancer? Oh, wait a jinn-pickin' minute, so you hoped to find some kind of death magic here? Not gonna happen, sweetcheeks!"* 
+		*"Necromancer? Oh, wait a Jinn-pickin' minute, so you hoped to find some kind of death magic here? Not gonna happen, sweetcheeks!"* 
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.6000!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.600!BOZ!/]
 
@@ -8839,7 +8839,7 @@ second encounter
 
 	[/KABU!TAMBUL!RAMPARTS!1.100!BOZ!]
 		||
-		*"Irreverence is the whole jinn-cursed point!"*
+		*"Irreverence is the whole Jinn-cursed point!"*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!1.1000!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!1.100!BOZ!/]
 
@@ -9037,7 +9037,7 @@ second encounter
 
 	[/KABU!TAMBUL!RAMPARTS!3.2000!BOZ!]
 		||
-		*"Thank Biracul AND all the jinns in the Graylands that she didn't choose to apprentice here, else I'd be the one tyin' a rope 'round my neck!"*
+		*"Thank Biracul AND all the Jinns in the Graylands that she didn't choose to apprentice here, else I'd be the one tyin' a rope 'round my neck!"*
 		(A#"I fear that I'm responsible."){A:1,KABU!TAMBUL!RAMPARTS!3.101!BOZ!}
 		(B#"Is suicide common here?"){B:1,KABU!TAMBUL!RAMPARTS!3.X201!BOZ!}
 		(C#"You really think it was Reba?"){C:1,KABU!TAMBUL!RAMPARTS!3.301!BOZ!}
@@ -9349,7 +9349,7 @@ AKKEBER
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.000!AKKEBER!]
 		||
 		*"Hearken, my friends as I begin the tale.
-		It starts with a horrible, jinn-born wail.
+		It starts with a horrible, Jinn-born wail.
 		A storm of blood, a storm of crime,
 		A ghastly, ghoulish, ghost-filled time!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.001!AKKEBER!}
@@ -9359,7 +9359,7 @@ AKKEBER
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.001!AKKEBER!]
 		||
-		*"First, came ol' Famlaz, dread jinn-king of red,
+		*"First, came ol' Famlaz, dread Jinnking of red,
 		Lies dripping, oozing from his brain-filled head.
 		Pay attention! Listen now! Listen well!
 		His squawking bird-voice with effect most fell!"*
@@ -9390,7 +9390,7 @@ AKKEBER
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.004!AKKEBER!]
 		||
 		*"Call our names, fools! Konki and Nerius,
-		Twinned jinns and brothers most nefarious!
+		Twinned Jinns and brothers most nefarious!
 		First, we will strike and smash, then whip and lash!
 		We will dispose of you like so much trash!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.005!AKKEBER!}
@@ -9420,7 +9420,7 @@ AKKEBER
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.007!AKKEBER!]
 		||
 		*"Of these roles, nary a one can compare,
-		To the unseen jinn of night and despair!
+		To the unseen Jinn of night and despair!
 		Indeed! The very worst was Melinoe,
 		Obsidian dowager of shadow!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.0070!AKKEBER!}
@@ -9880,7 +9880,7 @@ ENTEGHAD
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.2010!ENTEGHAD!]
 		||
-		*"Blood seeped out of their eyes, ears, mouths, even the pores in their skin! I for one suspect jinncraft, I do."*
+		*"Blood seeped out of their eyes, ears, mouths, even the pores in their skin! I for one suspect Jinncraft, I do."*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!1.X2011!ENTEGHAD!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.2010!ENTEGHAD!/]
 
@@ -9898,7 +9898,7 @@ ENTEGHAD
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.X4010!ENTEGHAD!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!2.X000!ENTEGHAD!|
-		*"And while I didn't see it personally, I heard that they all bled to death - blood seepin' out of their eyes, ears, mouths, even the pores in their skin! Ghastly. I suspect jinncraft, I do."*
+		*"And while I didn't see it personally, I heard that they all bled to death - blood seepin' out of their eyes, ears, mouths, even the pores in their skin! Ghastly. I suspect Jinncraft, I do."*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!ENTEGHAD!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.X4010!ENTEGHAD!/]
 
@@ -10040,7 +10040,7 @@ ENTEGHAD
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!3.X500!ENTEGHAD!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!4.500!ENTEGHAD!|
-		*"I see, well, may Biracul free you from the jinn's embrace, child."*
+		*"I see, well, may Biracul free you from the Jinn's embrace, child."*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!4.500!ENTEGHAD!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!3.X500!ENTEGHAD!/]
 
@@ -10208,7 +10208,7 @@ FARRIN
 	
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.002!FARRIN!]
 		||
-		*"Because of your jinnwhispers, my sweet Kambin is dead!"*
+		*"Because of your Jinnwhispers, my sweet Kambin is dead!"*
 		(A#"Farrin, I was attempting to help him."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.100!FARRIN!}
 		(B#"How did this happen?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.200!FARRIN!}
 		(C#"..."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X301!FARRIN!}
@@ -10220,7 +10220,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.100!FARRIN!]
 		||
-		*"He took his own life! What did you say to him, you jinn-cursed foreigner!?"*
+		*"He took his own life! What did you say to him, you Jinn-cursed foreigner!?"*
 		(A#"I asked about his nightmares."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X101!FARRIN!}
 		(B#"Suicide... How did he die?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X201!FARRIN!}
 		(E#"I rebuked him for his weakness."){E:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X501!FARRIN!}
@@ -10228,7 +10228,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.200!FARRIN!]
 		||
-		*"He took his own life! What did you say to him, you jinn-cursed foreigner!?"*
+		*"He took his own life! What did you say to him, you Jinn-cursed foreigner!?"*
 		(A#"I asked about his nightmares."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X101!FARRIN!}
 		(B#"Suicide... How did he die?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X201!FARRIN!}
 		(C#"Nothing in particular."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X301!FARRIN!}
@@ -10236,7 +10236,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.400!FARRIN!]
 		||
-		*"You drove him to it! You must have used some foreign Techne to drive him to take his own life! What did you say to him, you jinn-cursed foreigner?!"*
+		*"You drove him to it! You must have used some foreign Techne to drive him to take his own life! What did you say to him, you Jinn-cursed foreigner?!"*
 		(C#"Nothing in particular."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X301!FARRIN!}
 		(D#"It was your request! Blame yourself, not me."){D:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X401!FARRIN!}
 		(E#"I rebuked him for his weakness."){E:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X501!FARRIN!}
@@ -10244,7 +10244,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.600!FARRIN!]
 		||
-		*"He took his own life! What did you say to him, you jinn-cursed foreigner!?"*
+		*"He took his own life! What did you say to him, you Jinn-cursed foreigner!?"*
 		(F#"Perhaps the bombs I dropped were too potent for his mortal soul..."){F:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X601!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.600!FARRIN!/]
 
@@ -10263,7 +10263,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.X301!FARRIN!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!1.X898!FARRIN!|
-		*"Curse you, kharrspawn! By all the jinns of the desert, the Wasteland and the towers of Night, I curse you!"*
+		*"Curse you, kharrspawn! By all the Jinns of the desert, the Wasteland and the towers of Night, I curse you!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.X301!FARRIN!/]
 
@@ -10275,20 +10275,20 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.X501!FARRIN!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!1.X898!FARRIN!|
-		*"Curse you, kharrspawn! By all the jinns of the desert, the Wasteland and the towers of Night, I curse you!"*
+		*"Curse you, kharrspawn! By all the Jinns of the desert, the Wasteland and the towers of Night, I curse you!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.X501!FARRIN!/]
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.X601!FARRIN!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!1.X898!FARRIN!|
-		*"Curse you, kharrspawn! By all the jinns of the desert, the Wasteland and the towers of Night, I curse you!"*
+		*"Curse you, kharrspawn! By all the Jinns of the desert, the Wasteland and the towers of Night, I curse you!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.X601!FARRIN!/]
 
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.X898!FARRIN!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0109!FARRIN!|
-		*"Never approach me again, jinn-loving scum!"*
+		*"Never approach me again, Jinn-loving scum!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.X898!FARRIN!/]
 

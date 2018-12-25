@@ -266,7 +266,7 @@ killed by khlutt
 	
 	[/KABU!SANCTUARY!ANTECHAMBER!4.002!DESCRIPTION!]
 		||
-		*Without warning, she falls again into the jinn's embrace and slowly turns her blade on herself, placing the point at her throat and the pommel firmly against the ground. Choking back tears, Logira defiantly croaks out one last Tacribian battlecry with an unfathomable sorrow laced throughout. As the cry's final echoes fade into memory, she impales herself upon her very own sword. The Librarian struggles, clinging to the slippery slope of her waning life for a few brief moments only to recede into the infinite abyss of nothingness, her Falseflesh finally parting ways with her ghost.*
+		*Without warning, she falls again into the Jinn's embrace and slowly turns her blade on herself, placing the point at her throat and the pommel firmly against the ground. Choking back tears, Logira defiantly croaks out one last Tacribian battlecry with an unfathomable sorrow laced throughout. As the cry's final echoes fade into memory, she impales herself upon her very own sword. The Librarian struggles, clinging to the slippery slope of her waning life for a few brief moments only to recede into the infinite abyss of nothingness, her Falseflesh finally parting ways with her ghost.*
 		(A#...){A:0,KABU!SANCTUARY!ANTECHAMBER!4.X0020!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!4.002!DESCRIPTION!/]
 	
@@ -686,7 +686,7 @@ LOGIRA
 	
 	[/KABU!SANCTUARY!ANTECHAMBER!0.300!LOGIRA!]
 		||
-		*"How ineloquent for a legendary jinn; I expected more from you, Famlicus."*
+		*"How ineloquent for a legendary Jinn; I expected more from you, Famlicus."*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.3000!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.300!LOGIRA!/]
 	
@@ -792,7 +792,7 @@ LOGIRA
 	
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1010!LOGIRA!]
 		||
-		*"Famlaz, Mifas'cul, Hamlik and myriad other jinn-cursed pseudonyms all point to the same abomination!"*
+		*"Famlaz, Mifas'cul, Hamlik and myriad other Jinn-cursed pseudonyms all point to the same abomination!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1011!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1010!LOGIRA!/]
 	
