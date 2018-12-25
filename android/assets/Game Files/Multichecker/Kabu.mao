@@ -308,7 +308,7 @@
 // Accepted Khaa's mission
 |10102:a,
 {a}
-// Dysmas present
+// Dysmas not present
 |10109:KABU!DAZIR!GATES OF DAZIR!0.002!DESCRIPTION!,
 |-1:KABU!DAZIR!GATES OF DAZIR!9990.X10109-2!DESCRIPTION!,
 {a}

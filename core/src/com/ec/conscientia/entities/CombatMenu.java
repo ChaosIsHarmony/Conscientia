@@ -482,6 +482,8 @@ public class CombatMenu {
 					// if Dysmas, then sets his killed event as true
 					mgScr.getConscientia().getConscVar().triggeredEvents.put(13112,
 							(enemy.getID() == Enemy.DYSMAS && playerVictorious) ? true : false);
+					// no longer at gates of Dazir
+					mgScr.getConscientia().getConscVar().triggeredEvents.put(10109,true);
 					// need to save here or it will take you to the last
 					// address before combat
 					if (playerVictorious) {
