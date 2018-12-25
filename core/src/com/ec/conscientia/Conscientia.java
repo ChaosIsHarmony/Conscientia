@@ -23,8 +23,8 @@ public class Conscientia extends Game {
 		conscientiaVar = new ConscientiaVar();
 		
 		// Testing suite
-//		Tests test = new Tests(this);
-//		test.runTests();
+		// Tests test = new Tests(this);
+		// test.runTests();
 
 		// actBook(CommonVar.BIR);
 		actBook(CommonVar.EID);

@@ -202,84 +202,84 @@ CESS PIT
 	[/KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!]
 		||
 		*She stops, as do they. She kills her breath and centers focus on her ears, her only useful ally at the moment...*
-		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.X001!DESCRIPTION!/]
-	
-	[/KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!]
-		||
-		*Nothing.*
-		(A#Move forward){A:1,KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!}
-		(F#Stay still){F:1,KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!}
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.0010!DESCRIPTION!/]
 	
 	[/KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!]
 		||
-		*Nothing... until, suddenly 'something' forms from the ether. An ever-brightening vision, both terrible and grand... Colorful plummage... A golden beak... The rays of a thousand suns... And then...*
-		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!}
+		*Nothing.*
+		(A#Move forward){A:1,KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!}
+		(F#Stay still){F:1,KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.00100!DESCRIPTION!/]
-
+	
 	[/KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!]
 		||
-		*A resonant caw! The most exquisite melody ever to caress her ears! Blinding light and ebullient sound crescendo in glorious harmony!*
-		(A#Address the being){A:1,KABU!UR'RUK!CESS PIT!2.001011!DESCRIPTION!}
-		(B#Observe until the end){B:1,KABU!UR'RUK!CESS PIT!2.001012!DESCRIPTION!)
-		(C#Snap out of it){C:1,KABU!UR'RUK!CESS PIT!2.001013!DESCRIPTION!)
-		(D#Run from the beast!){D:1,KABU!UR'RUK!CESS PIT!2.001014!DESCRIPTION!)
-		(E#Attack!){E:1,KABU!UR'RUK!CESS PIT!2.001015!DESCRIPTION!)
-		(F#Praise this magnificent creature!){F:1,KABU!UR'RUK!CESS PIT!2.001016!DESCRIPTION!)
+		*Nothing... until, suddenly 'something' forms from the ether. An ever-brightening vision, both terrible and grand... Colorful plummage... A golden beak... The rays of a thousand suns... And then...*
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!}
 	[KABU!UR'RUK!CESS PIT!2.00101!DESCRIPTION!/]
+
+	[/KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!]
+		||
+		*A resonant caw! The most exquisite melody ever to caress her ears! Blinding light and ebullient sound crescendo in glorious harmony!*
+		(A#Address the being){A:1,KABU!UR'RUK!CESS PIT!2.001021!DESCRIPTION!}
+		(B#Observe until the end){B:1,KABU!UR'RUK!CESS PIT!2.001022!DESCRIPTION!}
+		(C#Snap out of it){C:1,KABU!UR'RUK!CESS PIT!2.001023!DESCRIPTION!}
+		(D#Run from the beast!){D:1,KABU!UR'RUK!CESS PIT!2.001024!DESCRIPTION!}
+		(E#Attack!){E:1,KABU!UR'RUK!CESS PIT!2.001025!DESCRIPTION!}
+		(F#Praise this magnificent creature!){F:1,KABU!UR'RUK!CESS PIT!2.001026!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!/]
 	
-	[/KABU!UR'RUK!CESS PIT!2.001011!DESCRIPTION!]
+	[/KABU!UR'RUK!CESS PIT!2.001021!DESCRIPTION!]
 		||
 		*Though light consumes all sight and cawing devours all sound, Eidos yells out her hail to the shade-born vision, but finds confusion where she had hoped for communication...*
-		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.001011!DESCRIPTION!/]
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001021!DESCRIPTION!/]
 
-	[/KABU!UR'RUK!CESS PIT!2.001012!DESCRIPTION!]
+	[/KABU!UR'RUK!CESS PIT!2.001022!DESCRIPTION!]
 		||
 		*Ever curious, Eidos strains her eyes and ears against the sensory overload, lusting for a tiny sip of knowledge's sweet nectar to slake a thirst unquenched. Alas! She tastes instead from the bitter draught of disappointment...*
-		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.001012!DESCRIPTION!/]
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001022!DESCRIPTION!/]
 
-	[/KABU!UR'RUK!CESS PIT!2.001013!DESCRIPTION!]
+	[/KABU!UR'RUK!CESS PIT!2.001023!DESCRIPTION!]
 		||
 		*Eidos steels her concentration. Alone in darkness, fears and insecurities abound. Madness is inevitable. But not for her. Her noncommittal nature lays bare the truth, makes obvious the origin of this vision of insanity. She will neither accept nor reject the vision and thus, gain power over it...*
-		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.001013!DESCRIPTION!/]
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001023!DESCRIPTION!/]
 
-	[/KABU!UR'RUK!CESS PIT!2.001014!DESCRIPTION!]
+	[/KABU!UR'RUK!CESS PIT!2.001024!DESCRIPTION!]
 		||
 		*Terror bubbles to the surface, eyes shut reflexively and muscles tense. In a burst of movement she flees the unholy site of this unholy sight. Dashing, dancing, prancing, splashing, she flees. Running so hard, so fast, surely she must be halfway to the moon by now. She opens her eyes. She remains at the origin of her path, unmoving, not a single step's distance from the grotesque being!
         
         Fear begins to melt her spine...*
-		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.001014!DESCRIPTION!/]
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001024!DESCRIPTION!/]
 
-	[/KABU!UR'RUK!CESS PIT!2.001015!DESCRIPTION!]
+	[/KABU!UR'RUK!CESS PIT!2.001025!DESCRIPTION!]
 		||
 		*Fearlessly, Eidos stares the beast down, murderous rage filling her eyes. She opens her mouth and a mighty warcry pours forth, clashing with the being's caw in a cataclysmic cacophony. Her exact motivations for aggression are unclear, even to herself. But violence is motive enough for itself. If ever there were a true infinity it is violence! For violence begets violence! Rage fuels rage! Unbridled! Unbounded!
 
         She races towards the vision, eager to learn what happens when an unstoppable force meets and immovable object...*
-		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.001015!DESCRIPTION!/]
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001025!DESCRIPTION!/]
 
-	[/KABU!UR'RUK!CESS PIT!2.001016!DESCRIPTION!]
+	[/KABU!UR'RUK!CESS PIT!2.001026!DESCRIPTION!]
 		||
 		*Adopting the customary posture of salute, Eidos pays tribute to the God of her choosing. Oh, what adventures they've shared! And oh, what adventures await them! Roostor smiles upon her, contorting Its beak into a rather unavian shape. But then, with a flex of a wing and an awkward wink...*
-		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.001016!DESCRIPTION!/]
-
-	[/KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!]
-		||
-        *The light and sound instantly and utterly vanish - the being along with it. Not a trace of Its visit remains, save Its melodious call, yet ringing in memory...* 
-        (A#...){A:0,KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.00102!DESCRIPTION!/]
+		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.001026!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!]
 		||
+        *The light and sound instantly and utterly vanish - the being along with it. Not a trace of Its visit remains, save Its melodious call, yet ringing in memory...* 
+        (A#...){A:0,KABU!UR'RUK!CESS PIT!2.00104!DESCRIPTION!}
+	[KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!/]
+
+	[/KABU!UR'RUK!CESS PIT!2.00104!DESCRIPTION!]
+		||
 		*Eidos shifts her feet in the muck, stumbling on a rare solid artifact among the refuse. Her hands fly out to cushion her fall. What they find instead of floor is wall, the tunnel's end. Her touch causes the cold surface to warm, then to glow, revealing a Glyph - unknown to her, or forgotten. Though, its light soon dies as it returns to a watchful slumber.*
 		(A#...){A:0,KABU!UR'RUK!CESS PIT!2.0012!DESCRIPTION!}
-	[KABU!UR'RUK!CESS PIT!2.00103!DESCRIPTION!/]
+	[KABU!UR'RUK!CESS PIT!2.00104!DESCRIPTION!/]
 	
 	[/KABU!UR'RUK!CESS PIT!2.0011!DESCRIPTION!]
 		||

@@ -2996,7 +2996,7 @@ Kavu Memory
 
 >>>Have the Book of Wulfias (2004)<<<
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.X0022!DESCRIPTION!]
-		|^2004:MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!|
+		|^2004:MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!|
 		*None will remember Torma... Of course... Torma never existed to begin with! A mere fragment of the Unit! A finger unaware it is of the hand! The hand forgetting it works at the mind's behest!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0023!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.X0022!DESCRIPTION!/]
@@ -3007,18 +3007,18 @@ Kavu Memory
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0023!DESCRIPTION!/]
 	
-	[/MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!]
 		||
 		*Without warning, a strange sensations bubbles up from within memory. The emotional tug of Wulfias...*
-		(A#Resist the pull){A:1,MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!}
+		(A#Resist the pull){A:1,MIND!PALACE OF MEMORY!WASTELAND!0.00201!DESCRIPTION!}
 		(C#Acquiesce to the pull){C:1,MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!0.002!DESCRIPTION!/]
+	[MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!/]
 	
-	[/MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!0.00201!DESCRIPTION!]
 		||
 		*As the Voice commands, so does this servant obey. Strong the pull may be, but stronger is faith! The mind is a storm at sea, waves breaking, crashing, drowning out all thought. Faith are my chains! Bound is my Self to His will! Safe in His restraints, the waves cannot carry me to sea!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.003!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!0.00200!DESCRIPTION!/]
+	[MIND!PALACE OF MEMORY!WASTELAND!0.00201!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.00210!DESCRIPTION!]
 		||
@@ -3163,144 +3163,162 @@ Kavu Memory
 __Re-living of Rikharr's Folly__
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.501!DESCRIPTION!]
 		||
-		*A forbidden Glyph, clear as summer skies, it could be nothing else! What trick of Hamlik is this?! His voice disguised, he decieves from gehind his rubied mask!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5010!DESCRIPTION!}
+		*A... forbidden Glyph?*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5010!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.501!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5010!DESCRIPTION!]
 		||
-        *Shining One! Free your servant from this monster's grip! Save her from the Blood-Drinker's ploys!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5011!DESCRIPTION!}
+		*What trick of Hamlik is this?*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5011!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5010!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5011!DESCRIPTION!]
 		||
-        *Please... do not abandon me...*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5012!DESCRIPTION!}
+		*His fiendish squawking disguised as the Voice!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5011!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5012!DESCRIPTION!]
 		||
-        *Never again... never ag...*        
+		*Deception! Lies! From behind his rubied mask!*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5012!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!]
 		||
-        *The Glyph burns cobalt cirlces into the Trueflesh, lines and curves copulate within. Unholy light seeps through them, a most sinful mist along with it. A deep and murky indigo shrouds the summoned evil.*
+        *Shining One! Free your servant from this monster's grip! Save her from the Blood-Drinker's ploys!*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!]
 		||
-        *...What has... Torma done...?*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!/]
-		
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!]
-		||
-        *The grotesque, pearlescent legions let out a howl of exhaltation, signaling the pact between them and their new Jinnwraith. Having been thus accepted by my new charges, I stride across the void field of the blackened crater and emerge from its depth, the ravening host of the pit at my back.*
+        *Please... do not abandon me...*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5015!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5015!DESCRIPTION!]
 		||
-        *Hosting silent Hel within my shell, I seek to ease the pain of my misguided flock. Once their mage, I failed to protect them from themselves, from ambition, from the evil within...*
+        *Never again... never ag...*        
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5016!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5015!DESCRIPTION!/]
-		
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5016!DESCRIPTION!]
 		||
-        *From the adversary... from the 'Shining One'...*        
+        *The Glyph burns cobalt cirlces into the Trueflesh, lines and curves copulate within. Unholy light seeps through them, a most sinful mist along with it. A deep and murky indigo shrouds the summoned evil.*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5017!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5016!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5017!DESCRIPTION!]
 		||
-        *Living is pain; existing is suffering! That great hypocrite Biracul promotes life, promotes agony!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5018!DESCRIPTION!}
+        *...What has... Torma done...?*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.510!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5017!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5018!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.510!DESCRIPTION!]
+		||
+        *The grotesque, pearlescent legions let out a howl of exhaltation, signaling the pact between them and their new Jinnwraith. Having been thus accepted by my new charges, I stride across the void field of the blackened crater and emerge from its depth, the ravening host of the pit at my back.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.511!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.510!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.511!DESCRIPTION!]
+		||
+        *Hosting silent Hel within my shell, I seek to ease the pain of my misguided flock. Once their mage, I failed to protect them from themselves, from ambition, from the evil within...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.512!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.511!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.512!DESCRIPTION!]
+		||
+        *From the adversary... from the 'Shining One'...*        
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.513!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.512!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.513!DESCRIPTION!]
+		||
+        *Living is pain; existing is suffering! That great hypocrite Biracul promotes life, promotes agony!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.514!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.513!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.514!DESCRIPTION!]
 		||
         *To what end?! What is life but fodder for death?!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5019!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5018!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.515!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.514!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5019!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.515!DESCRIPTION!]
 		||
 		*His words will poison my flock's pure ears no more! No longer will it tangle their thoughts, nor taint their natures! Our silent cycle of anguish ends now! I will free my little birds from the weight of being!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5020!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5019!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.516!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.515!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5020!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.516!DESCRIPTION!]
 		||
         *No phoenix will rise from the ashes I leave! I will salt these lands, giving a destruction most thorough!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5021!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5020!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.517!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.516!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5021!DESCRIPTION!]
-		||		
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.517!DESCRIPTION!]
+		||
 		*The Sun Tower will be first... A symbol of the victory my people will achieve in annihilation. The point begets the circle and the circle the sphere! Come! Come forth from the depths of the Graylands twisted sister and deny existence!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5022!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5021!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.518!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.517!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5022!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.518!DESCRIPTION!]
 		||
         *Oh, the light does shine, blinding us from Truth! Shining One, do you seek the blindness of ignorance for your sheep? I seek the clarity of Hel's Void!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5023!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5022!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.519!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.518!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5023!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.519!DESCRIPTION!]
 		||
         *Soon my northless birds will all find peace! Yes! Finally! All will truly be as it should be!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5024!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5023!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.520!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.519!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5024!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.520!DESCRIPTION!]
 		||
         *This tower crumbles; our Truefleshes are unmade; we walk together into the Final Night!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5025!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5024!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.521!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.520!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5025!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.521!DESCRIPTION!]
 		||
 		*Draugnir! Yours is true freedom! Your Trueflesh has melted from the False! You are forever without pain, forever without strife! March! Share your gift with them! Show them the mercy of oblivion!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5026!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5025!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.522!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.521!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5026!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.522!DESCRIPTION!]
 		||
 		*Yes! ...The bridge... The path to salvation. I come for you, my lost family. I will guide you home!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5027!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5026!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.523!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.522!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5027!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.523!DESCRIPTION!]
 		||
 		*...Ark... Come to help me free the people? Yes, together we can... Wait, what are you saying? I do this for you! For the well-being of these little birds! I seek to restore their freedom. Please! You must understand!*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5028!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5027!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.524!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.523!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5028!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.524!DESCRIPTION!]
 		||
         *Please! Don't do this... not again...*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5029!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5028!DESCRIPTION!/]
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.525!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.524!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5029!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.525!DESCRIPTION!]
 		||
-        *My heart... cannot bear it...*
-        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5030!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5029!DESCRIPTION!/]
+        *My heart... can no longer bear it...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.526!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.525!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!WASTELAND!1.5030!DESCRIPTION!]
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.526!DESCRIPTION!]
 		||
-        *Now I fly... Farewell, Ark.*
+        *Now I fly... Farewell... Ark.*
 		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!WASTELAND!1.5030!DESCRIPTION!/]
-	
-	
-	
+	[MIND!PALACE OF MEMORY!WASTELAND!1.526!DESCRIPTION!/]
+
+
+
 
 _____________________________________
 ZHILIAN STEPPE
