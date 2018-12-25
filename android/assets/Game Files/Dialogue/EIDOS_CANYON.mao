@@ -331,7 +331,7 @@ ADARIN
 
 	[/KABU!CANYON!SUNLESS GROTTO!0.400!ADARIN!]
 		||
-		*"There are no masters here, no jinns to fear, no idols to worship."*
+		*"There are no masters here, no Jinns to fear, no idols to worship."*
 		(A#"..."){A:0,KABU!CANYON!SUNLESS GROTTO!0.4000!ADARIN!}		
 	[KABU!CANYON!SUNLESS GROTTO!0.400!ADARIN!/]
 	
@@ -1453,7 +1453,7 @@ ASSALA
 	
 	[/KABU!CANYON!VALLEY OF BONES!0.4010!ASSALA!]
 		||
-		*"I will have the name of your fallen comrade or you will dance with jinns in the Graylands!"*
+		*"I will have the name of your fallen comrade or you will dance with Jinns in the Graylands!"*
 		(C#"Perhaps I shall depart."){C:1,KABU!CANYON!VALLEY OF BONES!9990.X14410-4!ASSALA!}
 		(D#"...You wouldn't know him."){D:1,KABU!CANYON!VALLEY OF BONES!9990.X14410-4!ASSALA!}
 		(E#"Your ultimatums have no sway over me, weakling."){E:1,KABU!CANYON!VALLEY OF BONES!9990.X14405!ASSALA!}
@@ -1467,7 +1467,7 @@ ASSALA
 	
 	[/KABU!CANYON!VALLEY OF BONES!0.4012!ASSALA!]
 		||
-		*"I will have the name of your fallen comrade or you will dance with jinns in the Graylands!"*
+		*"I will have the name of your fallen comrade or you will dance with Jinns in the Graylands!"*
 		(C#"Perhaps I shall depart."){C:1,KABU!CANYON!VALLEY OF BONES!9990.X14410-4!ASSALA!}
 		(D#"There are many whom Kambesh called 'friend'."){D:1,KABU!CANYON!VALLEY OF BONES!9990.X14404!ASSALA!}
 		(E#"Your ultimatums have no sway over me, weakling."){E:1,KABU!CANYON!VALLEY OF BONES!9990.X14405!ASSALA!}
@@ -1475,7 +1475,7 @@ ASSALA
 	
 	[/KABU!CANYON!VALLEY OF BONES!0.501!ASSALA!]
 		||
-		*"Take one more step and you will be dancing with jinns in the Graylands, Kharr-spawn!"*
+		*"Take one more step and you will be dancing with Jinns in the Graylands, Kharr-spawn!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!0.X1011!ASSALA!}
 	[KABU!CANYON!VALLEY OF BONES!0.501!ASSALA!/]		
 	
@@ -1501,7 +1501,7 @@ ASSALA
 second encounter	
 	[/KABU!CANYON!VALLEY OF BONES!10.000!ASSALA!]
 		||
-		*"Do not tempt fate, you jinn-loving outlander."*
+		*"Do not tempt fate, you Jinn-loving outlander."*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!10.001!ASSALA!}
 	[KABU!CANYON!VALLEY OF BONES!10.000!ASSALA!/]
 	
@@ -1604,13 +1604,13 @@ Ark reborn
 
 	[/KABU!CANYON!VALLEY OF BONES!77.X300!ASSALA!]
 		|@:KABU!CANYON!VALLEY OF BONES!77.X900!ASSALA!|
-		*"And under which jinn's instructions have you come to this sacred place, outlander?"*
+		*"And under which Jinn's instructions have you come to this sacred place, outlander?"*
 		(A#Draw Luin){A:0,KABU!CANYON!VALLEY OF BONES!9999.X9999!ASSALA!}	
 	[KABU!CANYON!VALLEY OF BONES!77.X300!ASSALA!/]
 
 	[/KABU!CANYON!VALLEY OF BONES!77.X400!ASSALA!]
 		|@:KABU!CANYON!VALLEY OF BONES!77.X900!ASSALA!|
-		*"What jinn-struck nonsense is this?"*
+		*"What Jinn-struck nonsense is this?"*
 		(A#Draw Luin){A:0,KABU!CANYON!VALLEY OF BONES!9999.X9999!ASSALA!}	
 	[KABU!CANYON!VALLEY OF BONES!77.X400!ASSALA!/]
 
@@ -1764,7 +1764,7 @@ Assala's flight
 	
 	[/KABU!CANYON!VALLEY OF BONES!7.X000!HUBBIYH!]
 		|@:KABU!CANYON!VALLEY OF BONES!7.001!HUBBIYH!|
-		*"What are you outlander? Be you a mage from Jer!? Or some bastard jinn?!"*
+		*"What are you outlander? Be you a mage from Jer!? Or some bastard Jinn?!"*
 		(A#"I am no mage; I merely seek passage."){A:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}	
 		(B#"I think it not; all I seek is understanding."){B:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}
 		(C#"I do not know."){C:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}
@@ -1799,7 +1799,7 @@ Assala's flight
 		
 	[/KABU!CANYON!VALLEY OF BONES!7.0013!HUBBIYH!]
 		||
-		*"What jinn do I look upon, then!? Is this the countenance of Famlaz I see before me?"*
+		*"What Jinn do I look upon, then!? Is this the countenance of Famlaz I see before me?"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!7.0014!HUBBIYH!}	
 	[KABU!CANYON!VALLEY OF BONES!7.0013!HUBBIYH!/]
 		
@@ -1811,7 +1811,7 @@ Assala's flight
 		
 	[/KABU!CANYON!VALLEY OF BONES!7.0015!HUBBIYH!]
 		||
-		*"Reveal your true face, jinn, that I may strike it from the steps of Kabu!"*
+		*"Reveal your true face, Jinn, that I may strike it from the steps of Kabu!"*
 		(A#"Now, now, there's no need for violence."){A:1,KABU!CANYON!VALLEY OF BONES!7.100!HUBBIYH!}	
 		(B#"I do not understand... Who is Ark?"){B:1,KABU!CANYON!VALLEY OF BONES!7.100!HUBBIYH!}
 		(C#"My name is Eidos."){C:1,KABU!CANYON!VALLEY OF BONES!7.100!HUBBIYH!}
@@ -1900,7 +1900,7 @@ second encounter
 
 	[/KABU!CANYON!VALLEY OF BONES!10.500!HUBBIYH!]
 		||
-		*"You are brave... or more likely just a jinn-struck fool."*
+		*"You are brave... or more likely just a Jinn-struck fool."*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!10.501!HUBBIYH!}	
 	[KABU!CANYON!VALLEY OF BONES!10.500!HUBBIYH!/]
 	
@@ -1912,7 +1912,7 @@ second encounter
 	
 	[/KABU!CANYON!VALLEY OF BONES!10.600!HUBBIYH!]
 		||
-		*"You are brave to insult a Tacribian veteran... or more likely just a jinn-struck fool."*
+		*"You are brave to insult a Tacribian veteran... or more likely just a Jinn-struck fool."*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!10.101!HUBBIYH!}	
 	[KABU!CANYON!VALLEY OF BONES!10.600!HUBBIYH!/]
 
@@ -1925,7 +1925,7 @@ subsequent encounters
 	
 	[/KABU!CANYON!VALLEY OF BONES!21.000!HUBBIYH!]
 		||
-		*"I warned you, Kharr-spawn! Now you're going to dance with the jinns in the Graylands!"*
+		*"I warned you, Kharr-spawn! Now you're going to dance with the Jinns in the Graylands!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!9992.X0403!HUBBIYH!}	
 	[KABU!CANYON!VALLEY OF BONES!21.000!HUBBIYH!/]
 	
@@ -1938,7 +1938,7 @@ subsequent encounters
 	
 	[/KABU!CANYON!VALLEY OF BONES!77.X001!HUBBIYH!]
 		|@:KABU!CANYON!VALLEY OF BONES!77.002!HUBBIYH!|
-		*"What are you outlander? Be you a mage from Jer!? Or some bastard jinn?!"*
+		*"What are you outlander? Be you a mage from Jer!? Or some bastard Jinn?!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}
 	[KABU!CANYON!VALLEY OF BONES!77.X001!HUBBIYH!/]
 	
@@ -1974,7 +1974,7 @@ NADUB
 	[/KABU!CANYON!VALLEY OF BONES!0.X002!NADUB!]
 		|@:KABU!CANYON!VALLEY OF BONES!0.X003!NADUB!|
 		*"May your departed family join you in the One's Trueflesh!
-		Stay far from the jinn-cursed Void of Thiudan make!"*
+		Stay far from the Jinn-cursed Void of Thiudan make!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!9999.X9999!NADUB!}	
 	[KABU!CANYON!VALLEY OF BONES!0.X002!NADUB!/]
 

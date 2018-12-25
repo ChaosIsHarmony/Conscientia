@@ -437,7 +437,7 @@ _________TOMES_________
 	How hard the winds do blow!
 	Cause we're homeward bound,
 	From the wasted ground,
-	And our chief has a jinn's own luck!
+	And our chief has a Jinn's own luck!
 	But the we'll take our chances
 	When into the Graylands he dances,
 	With the ghosts of old Ur'Ruk!#
@@ -557,7 +557,7 @@ _________TOMES_________
 	$Tomes/Tome.jpg$
 	#My companion and I could not the pit of the Wasteland survive, that slavering ink-filled mouths as meal sought us. We to the Salt Forest fled and of fell women came to be haunted and tormented. The wraithglow we escaped and to the edge of the black pit came to despair find. With its pale, skittering teeth we were met and would have been overcome were it not for my ghelblade. But such was my fear that my covenant I sundered and in shame my companion I abandoned to death or worse.
 	
-	If we were stalked by wraiths, jinnborn or the Masters themselves I know not, nor my path through the darkness of that land do I recall. Despite my cowardice, mine was the protection of Biracul and at the gates of a strange city I awoke. 
+	If we were stalked by wraiths, Jinn-born or the Masters themselves I know not, nor my path through the darkness of that land do I recall. Despite my cowardice, mine was the protection of Biracul and at the gates of a strange city I awoke. 
 	
 	None are here to speak the lore of this place. Could this be Urugh, city of the old Empyrean? If so, I fear that this city of the Vanquished shall lost remain. What hope is now left me in this place forsaken by all life? Perhaps my punishment for faithlessness... Biracul, me forgive!
 	
@@ -633,7 +633,7 @@ _________TOMES_________
 	cr. Juskam of Kavu*
 	@Kavan Mythology@
 	$Tomes/Tome.jpg$
-	#Mythos and legends abound among the myriad peoples of both land and sea; yet none achieve such heights of splendor as those of my humble birthplace. More widespread and more acclaimed are the tales of Kavu than of any other peoples. From distances as great as Zhili, I have heard of reference to the rust-covered Hamlik - a clear derivative of our very own Famlaz, the Red Jinn. Yes, jinnlore extends beyond the confines of our city walls, with numerous references made to the likes of Vanargand, Melinoe, Konki and Nerius, generally retaining their pigmented associations.
+	#Mythos and legends abound among the myriad peoples of both land and sea; yet none achieve such heights of splendor as those of my humble birthplace. More widespread and more acclaimed are the tales of Kavu than of any other peoples. From distances as great as Zhili, I have heard of reference to the rust-covered Hamlik - a clear derivative of our very own Famlaz, the Red Jinn. Yes, Jinnlore extends beyond the confines of our city walls, with numerous references made to the likes of Vanargand, Melinoe, Konki and Nerius, generally retaining their pigmented associations.
 	
 	Unsurprising is it then that our worship of Biracul should extend to places as far as Zemes and Sumarkund on opposite sides of the continent. Though Kavu may have been the first to feel His blessed touch, we were certainly not the last! What is shocking, however, is the consistency with which He is refered to as the Biracul or the Shining One. No other terms crop up beyond these two with any definitude. Though one magi Archivist, Eterslum of Sumarkund, proposed a link between Biracul and certain aprocrypha refering to the lesser-known of the post-Vanquished Masters, Viracocha, this theory has, by and large, been rejected.
 	

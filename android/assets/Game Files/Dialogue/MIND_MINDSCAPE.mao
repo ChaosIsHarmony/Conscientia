@@ -3688,7 +3688,7 @@ ORMENOS
 		(B#Explore the Mindscape){B:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X9999!ORMENOS!}
 	[MIND!MINDSCAPE!TOWER OF DISCIPLINE!1.X000!ORMENOS!/]
 
-defeated jinnwraith ormenos
+defeated Jinnwraith ormenos
 	[/MIND!MINDSCAPE!TOWER OF DISCIPLINE!100.X000!ORMENOS!]
 		|@:MIND!MINDSCAPE!TOWER OF DISCIPLINE!100.X001!ORMENOS!|
 		*"Have you come to laugh at the final defeated mage of the Enclave? I have nothing to say to you, you wretched beast, you spawn of Vanargand!"*

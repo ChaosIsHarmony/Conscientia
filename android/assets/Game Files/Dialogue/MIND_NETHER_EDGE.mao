@@ -1043,7 +1043,7 @@ SYLVAN ARCHITECT KNOWLEDGE
 
 	[/MIND!NETHER EDGE!GARDEN!12.5001!NARGUND!]
 		||
-		*"Had you known enough to ask, I would have rewarded you with the truth. Though, I take it you have no love for 'jinns' then?"*
+		*"Had you known enough to ask, I would have rewarded you with the truth. Though, I take it you have no love for 'Jinns' then?"*
 		(A#"What is it you want?"){A:1,MIND!NETHER EDGE!GARDEN!12.101!NARGUND!}
 		(B#"What are you?"){B:1,MIND!NETHER EDGE!GARDEN!12.201!NARGUND!}
 		(E#"What difference does a name make?"){E:1,MIND!NETHER EDGE!GARDEN!12.501!NARGUND!}

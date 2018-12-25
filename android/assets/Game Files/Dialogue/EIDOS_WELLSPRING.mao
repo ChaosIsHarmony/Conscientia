@@ -971,7 +971,7 @@ QUANGJO
 >>>Talked to Khaa (10100)<<<
 	[/KABU!WELLSPRING!DEEP LAKE!0.X5000!QUANGJO!]
 		|^10100:KABU!WELLSPRING!DEEP LAKE!0.5002!QUANGJO!|
-		*"Ah! My apologies, master Khaa! I didn't recognize you. It's been so long, I'd nearly forgotten my master's face! Oh! May the jinns pluck my eyes from their sockets!"*
+		*"Ah! My apologies, master Khaa! I didn't recognize you. It's been so long, I'd nearly forgotten my master's face! Oh! May the Jinns pluck my eyes from their sockets!"*
 		(A#"..."){A:0,KABU!WELLSPRING!DEEP LAKE!0.5001!QUANGJO!}
 	[KABU!WELLSPRING!DEEP LAKE!0.X5000!QUANGJO!/]
 
@@ -985,7 +985,7 @@ QUANGJO
 
 	[/KABU!WELLSPRING!DEEP LAKE!0.5002!QUANGJO!]
 		||
-		*"Ah! My apologies, master Khaa! I didn't recognize you. It's been so long, I'd nearly forgotten my master's face! Oh! May the jinns pluck my eyes from their sockets!"*
+		*"Ah! My apologies, master Khaa! I didn't recognize you. It's been so long, I'd nearly forgotten my master's face! Oh! May the Jinns pluck my eyes from their sockets!"*
 		(A#"..."){A:0,KABU!WELLSPRING!DEEP LAKE!0.5003!QUANGJO!}
 	[KABU!WELLSPRING!DEEP LAKE!0.5002!QUANGJO!/]
 
@@ -2261,7 +2261,7 @@ RIKHARR
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.4001!RIKHARR!]
 		||
-		*"But so difficult trusting the words of the jinns be. A trick it was? Even as I to Ur'Ruk traveled and through the Door of Night walked, nothing found. Nothing but the intuition that there something beyond lurked..."*
+		*"But so difficult trusting the words of the Jinns be. A trick it was? Even as I to Ur'Ruk traveled and through the Door of Night walked, nothing found. Nothing but the intuition that there something beyond lurked..."*
 		(A#"..."){A:0,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.4002!RIKHARR!}
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.4001!RIKHARR!/]
 
@@ -2374,7 +2374,7 @@ RIKHARR
 >>>Have Hel (16003)<<<
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.X401!RIKHARR!]
 		|^16003:KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.401!RIKHARR!|
-		*"In my communion with the jinns, I the Elders discovered. Through the prism of Biracul the minds and will of Kabans warp. Are you that being? Or another One? Who was it I perceived when in Hel's embrace?"*
+		*"In my communion with the Jinns, I the Elders discovered. Through the prism of Biracul the minds and will of Kabans warp. Are you that being? Or another One? Who was it I perceived when in Hel's embrace?"*
 		(C#"..."){C:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.302!RIKHARR!}
 		(D#"...Tell me your secrets Rikharr, and you shall know what I am."){D:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.402!RIKHARR!}
 		(E#"Dead men don't need to know who I am."){E:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.502!RIKHARR!}
@@ -2382,7 +2382,7 @@ RIKHARR
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.401!RIKHARR!]
 		||
-		*"In my communion with the jinns, I the Elders discovered. Through the prism of Biracul the minds and will of Kabans warp. Are you that being? Or another One? Who was it I perceived when in Hel's embrace?"*
+		*"In my communion with the Jinns, I the Elders discovered. Through the prism of Biracul the minds and will of Kabans warp. Are you that being? Or another One? Who was it I perceived when in Hel's embrace?"*
 		(C#"..."){C:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.302!RIKHARR!}
 		(D#"...Tell me your secrets Rikharr, and you shall know what I am."){D:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.402!RIKHARR!}
 		(E#"Hel is with me now. You're nothing."){E:1,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.X512!RIKHARR!}
@@ -2397,7 +2397,7 @@ RIKHARR
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.5010!RIKHARR!]
 		||
-		*"I with jinns communed, and the Elders discovered. The minds and will of Kabans through the prism of Biracul warp. An irony, that it is Famlaz who is the 'Trickster' named."*
+		*"I with Jinns communed, and the Elders discovered. The minds and will of Kabans through the prism of Biracul warp. An irony, that it is Famlaz who is the 'Trickster' named."*
 		(A#"..."){A:0,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.5011!RIKHARR!}
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.5010!RIKHARR!/]
 
@@ -2417,7 +2417,7 @@ RIKHARR
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.5012!RIKHARR!]
 		||
-		*"I with jinns communed, and the Elders discovered. The minds and will of Kabans through the prism of Biracul warp. An irony, that it is Famlaz who is the 'Trickster' named."*
+		*"I with Jinns communed, and the Elders discovered. The minds and will of Kabans through the prism of Biracul warp. An irony, that it is Famlaz who is the 'Trickster' named."*
 		(A#"..."){A:0,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.5013!RIKHARR!}
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.5012!RIKHARR!/]
 
@@ -2437,7 +2437,7 @@ RIKHARR
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.6010!RIKHARR!]
 		||
-		*"I with jinns communed, and the Elders discovered. The minds and will of Kabans through the prism of Biracul warp. An irony, that it is Famlaz who is the 'Trickster' named."*
+		*"I with Jinns communed, and the Elders discovered. The minds and will of Kabans through the prism of Biracul warp. An irony, that it is Famlaz who is the 'Trickster' named."*
 		(A#"..."){A:0,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.6011!RIKHARR!}
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.6010!RIKHARR!/]
 
@@ -3594,7 +3594,7 @@ Quangjo thinks you're Eidos
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!0.2011!QUANGJO!]
 		||
-		*"It was only with Ark, driven mad by the death-jinns that true heresy took root!"*
+		*"It was only with Ark, driven mad by the death-Jinns that true heresy took root!"*
 		(A#"..."){A:0,KABU!WELLSPRING!RUINED ARCHIVE!0.X2012!QUANGJO!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!0.2011!QUANGJO!/]
 
@@ -3629,7 +3629,7 @@ Quangjo thinks you're Eidos
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!0.3011!QUANGJO!]
 		||
-		*"It was only with Ark, driven mad by the death-jinns that true heresy took root!"*
+		*"It was only with Ark, driven mad by the death-Jinns that true heresy took root!"*
 		(A#"..."){A:0,KABU!WELLSPRING!RUINED ARCHIVE!0.3012!QUANGJO!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!0.3011!QUANGJO!/]
 
@@ -3797,7 +3797,7 @@ Quangjo thinks you're Eidos
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!0.502!QUANGJO!]
 		||
-		*"Mmm, yes, a jinn-cursed stranger, disguised as a mage was It! It came to Dazir from out of the Jenowin Plain and sought sanctuary!"*
+		*"Mmm, yes, a Jinn-cursed stranger, disguised as a mage was It! It came to Dazir from out of the Jenowin Plain and sought sanctuary!"*
 		(A#"..."){A:0,KABU!WELLSPRING!RUINED ARCHIVE!0.5020!QUANGJO!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!0.502!QUANGJO!/]
 
@@ -4067,7 +4067,7 @@ Quangjo thinks you're Khaa
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!20.4001!QUANGJO!]
 		||
-		*"Master, I've not been idle here, no! I've discovered the Glyph of Purification! If you'd turn aside from your plan, if you didn't want to poison the Tacribian League, then I now have the means to remove the jinnvenom, yes!"*
+		*"Master, I've not been idle here, no! I've discovered the Glyph of Purification! If you'd turn aside from your plan, if you didn't want to poison the Tacribian League, then I now have the means to remove the Jinnvenom, yes!"*
 		(A#"Of course I won't kill the Tacribians. Cleanse the water!"){A:1,KABU!WELLSPRING!RUINED ARCHIVE!20.101!QUANGJO!}
 		(D#"I care not for your sentiment; carry out your mission and open the gate!"){D:1,KABU!WELLSPRING!RUINED ARCHIVE!20.401!QUANGJO!}
 		(E#"Do nothing! I'll take action myself, you incompetent fool."){E:1,KABU!WELLSPRING!RUINED ARCHIVE!20.501!QUANGJO!}
@@ -4082,7 +4082,7 @@ Quangjo thinks you're Khaa
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!20.101!QUANGJO!]
 		||
-		*"Yes! Master, you are as merciful as Biracul! I knew you were no jinn, for I too have looked upon Them and they are ugly and inhuman!"*
+		*"Yes! Master, you are as merciful as Biracul! I knew you were no Jinn, for I too have looked upon Them and they are ugly and inhuman!"*
 		(A#"..."){A:0,KABU!WELLSPRING!RUINED ARCHIVE!20.1010!QUANGJO!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!20.101!QUANGJO!/]
 
@@ -4153,7 +4153,7 @@ Entering from Sunless Grotto
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!30.0000!QUANGJO!]
 		||
-		*"Be you bloodjinn...?"*
+		*"Be you blood-Jinn...?"*
 		(A#"..."){A:0,KABU!WELLSPRING!RUINED ARCHIVE!30.0001!QUANGJO!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!30.0000!QUANGJO!/]
 
@@ -4507,7 +4507,7 @@ Cleansed water
 Released poison
 	[/KABU!WELLSPRING!SANCTUM OF GULGANNA!1.000!QUANGJO!]
 		||
-		*"Master, we must die. No. No! I've helped you kill the folk of the Dawn Fortress! For that, we are both of us doomed to wander the Crimson Fields with Famlaz! But the jinns have done enough work for one day."*
+		*"Master, we must die. No. No! I've helped you kill the folk of the Dawn Fortress! For that, we are both of us doomed to wander the Crimson Fields with Famlaz! But the Jinns have done enough work for one day."*
 		(A#"..."){A:0,KABU!WELLSPRING!SANCTUM OF GULGANNA!1.001!QUANGJO!}
 	[KABU!WELLSPRING!SANCTUM OF GULGANNA!1.000!QUANGJO!/]
 
@@ -5211,7 +5211,7 @@ Quangjo is killed here
 Quangjo is murdering you
 	[/KABU!WELLSPRING!THRONE ROOM!50.000!DESCRIPTION!]
 		||
-		*Eidos manages to topple Quangjo to the ground causing him to bump his head on the Silver Throne, affording her an opportunity to make for the Flood Gate. This path may take her to safety and free her from the jinn-crazed Librarian.*
+		*Eidos manages to topple Quangjo to the ground causing him to bump his head on the Silver Throne, affording her an opportunity to make for the Flood Gate. This path may take her to safety and free her from the Jinn-crazed Librarian.*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!90.X000!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!50.000!DESCRIPTION!/]
 

@@ -771,7 +771,7 @@ Pact for Thetian, sacrifice all on the island
 spoke his name
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00490!DESCRIPTION!]
 		||
-		*The oarsman is then interrupted by a terrible screeching, a chorus of a thousand birds of prey.*
+		*The oarsman is then interrupted by a terrible screeching, a choir of a thousand hawks.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00494!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.00490!DESCRIPTION!/]
 	
@@ -2086,13 +2086,13 @@ _____________________________________
 TEMPLE OF THE VOICE
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!]
 		||
-		*Sometimes memories are clear as a mountain spring... most so, it seems, when they savagely scar the mind, like a vile Thiudan brand, etching its taint upon our very core.*
+		*Sometimes memories sparkle with the crystalline clarity of a mountain spring... most so, it seems, when they savagely scar the mind, like a vile Thiudan brand, etching its taint upon our very core.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.000!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!]
 		||
-		*Walking into that haze-filled room of debauchery, rank of bodily fluids, screams of pain and ecstasy intermixed, littered with the drugs and potions of malignant wizards, my already disquieted nerves find the tragic confirmation of their fears.*
+		*Walking into that haze-filled room of debauchery, rank of bodily fluids, a fleshy choir of pain and ecstasy crescendoes. Screams of terror, of euphoria, of absolute chaos. The floor is littered with the drugs and potions of malignant wizards. Yes, my already disquieted nerves have found the tragic confirmation of their fears.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!0.001!DESCRIPTION!/]
 
@@ -3058,7 +3058,7 @@ Kavu Memory
 
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0034!DESCRIPTION!]
 		||
-        *Divine intervention my flight must have been, as to the Salt Forest it leads. White crystal pillars sprout forth from the upper lip of the blackened pit, spaced with the exact precision of soldiers lining up to meet their early grave. From crater lip to cliff's edge these withering warriors glow crimson in Brother Sun's dying light, silently awaiting an inevitable doom. Yet their despair is oddly comforting, as Brother Death lives among us and not among the Blood-Drinkers. He comes as guide to take us to our lost family in the Eternal Spiral, when all that awaits the thrall's of Hel is oblivion...*
+        *Divine intervention my flight must have been, as to the Salt Forest it leads. White crystal pillars sprout forth from the edge of the abyssal crater, spaced with the exact precision of soldiers marching to their early grave. From crater lip to cliff's edge these withering warriors glow crimson in Brother Sun's dying light, silently awaiting an inevitable doom. Yet their despair is oddly comforting, as Brother Death lives among us and not among the Blood-Drinkers. He comes as guide, taking us to our forgotten family in the Eternal Spiral. A far cry is Death from the oblivion Hel promises...*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0035!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0034!DESCRIPTION!/]
 
@@ -3112,7 +3112,7 @@ Kavu Memory
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0046!DESCRIPTION!]
 		||
-        *Never again can his Self rejoin the Self.*
+        *Never again can his Self rejoin the Spiral.*
         (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0047!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0046!DESCRIPTION!/]
 	
@@ -3127,97 +3127,177 @@ Kavu Memory
         *Undone.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.005!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0048!DESCRIPTION!/]
-	
-???
+
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.005!DESCRIPTION!]
 		||
-		*And so my Self sits alone among the dying trees of the Salt Forest.*
+		*The wind whistles through the pillars, mocking my pain. Though, Mother often warns not to dwell on loss at length, lest we make of it an lasting companion.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0050!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.005!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0050!DESCRIPTION!]
 		||
-		*In truth, were it not for the strength afforded me by my limited knowledge of the All-Seer's plan, my Self would just remain beside my fallen companion to share in his ruinous fate...*
+		*Eyes fall one last time on the abomination, the fruit of forbidden Techne. Never could this be changed, not the first time, not the myriad times since. Never will it be forgotten, not now, not the thousand times hence!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!0.0051!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0050!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!0.0051!DESCRIPTION!]
 		||
-		*But within my ken, both then and now, is that my Self must move forward. This much is clearer than the most cloudless sky.*
+		*His love is great; His love is cruel! His love is all we need! And all is as it should be!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.X000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!0.0051!DESCRIPTION!/]
 	
 >>>Have Ormenos (12304)<<<
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.X000!DESCRIPTION!]
 		|^12304:MIND!PALACE OF MEMORY!WASTELAND!1.000!DESCRIPTION!|
-		*However, the Memory-Thief is persistent, and more brazen by the instant! His presence now so strong that even in an incorporeal realm such as this my Self can feel as though his breath ominously pours down my neck like a waterfall of mephitic vapors. Yet, when my mind's eye turns to look, he has already melted back into the shadows... until he is gone and all fades back into the void of my emptying memory vault...*
+		*Ripples unfold across the scene in shimmering waves. Something haunts me from among the shadows. The Memory-Thief... His presence now so strong... His chilling breath pours down my neck like a waterfall of mephitic vapors. The eyes turn to look, but he has already melted back into the shadows. Soon, he is gone and all fades with him, back into nothing, back into the Void...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.X000!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.000!DESCRIPTION!]
 		||
-		*However, the Memory-Thief is persistent, and more brazen by the instant! His presence now so strong that even in an incorporeal realm such as this my Self can feel as though his breath ominously pours down my neck like a waterfall of mephitic vapors. Yet, when my mind's eye turns to look, he has already melted back into the shadows... and into the shadows, as if by instinct, my Self follows...*
+		*Ripples unfold across the scene in shimmering waves. Something haunts me from among the shadows. The Memory-Thief... His presence now so strong... His chilling breath pours down my neck like a waterfall of mephitic vapors. The eyes turn to look, but he has already melted back into the shadows... and into the shadows, as if by instinct, my Self follows...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.000!DESCRIPTION!/]
-	
+
+
 __Re-living of Rikharr's Folly__
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.501!DESCRIPTION!]
 		||
-		*With the Glyph summoned, the grotesque, pearlescent legions let out a howl of exhaltation, signaling the pact between them and their new jinnwraith. Having been thus accepted by my new charges, my Self now walks across the void field of the blackened crater and emerges from its depth with the ravening host of the pit at its back. 
-		
-		But it is important to remember that this place is a corrupted and warped subset of space where time overlaps and the overwhelming weight of memory subjugates free will. All my Self can do is watch as It acts through me, for this is not the first time the Self has walked this path... Indeed, the Self now reminisces of a dream it once had...*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5010!DESCRIPTION!}
+		*A forbidden Glyph, clear as summer skies, it could be nothing else! What trick of Hamlik is this?! His voice disguised, he decieves from gehind his rubied mask!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5010!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.501!DESCRIPTION!/]
 		
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5010!DESCRIPTION!]
-		||	
-		*Rikharr hosts silent Hel within his shell and seeks to ease the pain of the living Kavans. He was once their mage, but neglected his duties in pursuit of self-centered knowledge. This knowledge now drives him to act for his people, accelerating their destruction, eliminating the need to struggle with the despair that entropy, that Hel, promises for all.
-		
-		No phoenix will be able to rise from the ashes Rikharr plans to leave. He will salt these lands, giving a destruction most thorough. Not even nothingness will be able to grow from the ruins.
-		
-		The Sun Tower will be first. A symbol of the victory his people will achieve in death. He summons from the depths of his ghost a destructive Glyph to make rubble of the base. Yet in doing so, he cedes his agency to the void nestled within him. The result, a complete erasure of the second story of the tower. 
-		
-		As the second story begins to phase out of existence, his concentration wavers and the Techne's effects are incomplete, but they are nonetheless devastating. Losing its supports, the upper floors of the tower leans, eventually succumbing to gravity and diving into the canyon.
-		
-		The unprepared garrison residing within cry in anguish. They scream from fright and desperation in equal measure, as the tower cascades down toward the canyon floor. Fortunate they are, then, as their trip ends with an abrupt and violent impact into the earth ending all fear they might have had with a mercifully instantaneous death.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5011!DESCRIPTION!}
+		||
+        *Shining One! Free your servant from this monster's grip! Save her from the Blood-Drinker's ploys!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5011!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5010!DESCRIPTION!/]
 		
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5011!DESCRIPTION!]
 		||
-		*Those who were not within the Sun Tower stand awestruck at the fate of their comrades, a state which soon turns to terror as the undying draugnir army take their first bite into the flesh of their unprepared victims. Easily dispatching these uncoordinated stragglers, the draugnir then join with the advancing Rikharr who has already begun his trek across the gargantuan bridge spanning the canyon.
-		
-		But it seems that Kavu is not caught completely off-guard, as a familiar face rears itself giving obstacle to Rikharr's vanguard of draugnir: Ark, then Librarian, now Archmage of all Kavu and its peoples. She will not be dissuaded by Rikharr's impassioned appeal to free the people from the tyranny of the Others. Their conflict is now inevitable.
-		
-		The battle is as expected of an Archmage and the host of the void demon, Hel: as ineffable as it is awe-inspiring. No, none present can comprehend the dark Technes being summoned from the abyss and used to destroy; nor can they fathom the sheer divinity of the protective Techne's Ark conjures up from the Empyrean to preserve the lives of her Valvorthr.
-		
-		After exhuasting all other options, Ark drives Luin through the bowels of Rikharr, pinning him to the bridge. To all's surprise he does not perish, but is at the very least, incapacitated, giving the Valvorthr time enough to rout the jinn-cursed draugnir.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5012!DESCRIPTION!}
+        *Please... do not abandon me...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5012!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5011!DESCRIPTION!/]
 		
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5012!DESCRIPTION!]
 		||
-		*Ark and her followers are victorious, but she is at a loss as to how best to detain her former master. As she and her Valvorthr discuss their plan to incarcerate him in the Wellspring of Dazir, a blue-cloaked individual emerges from the dust of the Wastes and approaches a cagey Ark.
-		
-		The stranger claims he is the Biracul of Kavan lore, and requests of Ark that she replace Rikharr as the vessel for the dangerous creature Hel; for only she is strong enough to withstand the solitude which awaits the vessel in the Dungeon of the Void.
-		
-		His words sway her; she understands what she must do and accepts her sacred charge, her duty to the All-Seer. In an excruciating act of faith, she absorbs the scourge of the Wastes and, after extraordinary pain, becomes its new vessel.
-		
-		Instructing her Valvorthr to take the still breathing Rikharr into the Hall of Atonement and guard him until her return, she departs with Biracul for the dungeon of the old and ruined city of Urugh.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!}
+        *Never again... never ag...*        
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5012!DESCRIPTION!/]
 		
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!]
 		||
-		*But Ark never does return.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!}
+        *The Glyph burns cobalt cirlces into the Trueflesh, lines and curves copulate within. Unholy light seeps through them, a most sinful mist along with it. A deep and murky indigo shrouds the summoned evil.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!/]
 		
 	[/MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!]
 		||
-		*In conjuring these memories, the Self induces an irresistible urge to sleep, for it is only in sleep that thinking ceases.*
-		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+        *...What has... Torma done...?*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5013!DESCRIPTION!/]
+		
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!]
+		||
+        *The grotesque, pearlescent legions let out a howl of exhaltation, signaling the pact between them and their new Jinnwraith. Having been thus accepted by my new charges, I stride across the void field of the blackened crater and emerge from its depth, the ravening host of the pit at my back.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5015!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!WASTELAND!1.5014!DESCRIPTION!/]
+		
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5015!DESCRIPTION!]
+		||
+        *Hosting silent Hel within my shell, I seek to ease the pain of my misguided flock. Once their mage, I failed to protect them from themselves, from ambition, from the evil within...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5016!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5015!DESCRIPTION!/]
+		
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5016!DESCRIPTION!]
+		||
+        *From the adversary... from the 'Shining One'...*        
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5017!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5016!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5017!DESCRIPTION!]
+		||
+        *Living is pain; existing is suffering! That great hypocrite Biracul promotes life, promotes agony!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5018!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5017!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5018!DESCRIPTION!]
+		||
+        *To what end?! What is life but fodder for death?!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5019!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5018!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5019!DESCRIPTION!]
+		||
+		*His words will poison my flock's pure ears no more! No longer will it tangle their thoughts, nor taint their natures! Our silent cycle of anguish ends now! I will free my little birds from the weight of being!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5020!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5019!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5020!DESCRIPTION!]
+		||
+        *No phoenix will rise from the ashes I leave! I will salt these lands, giving a destruction most thorough!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5021!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5020!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5021!DESCRIPTION!]
+		||		
+		*The Sun Tower will be first... A symbol of the victory my people will achieve in annihilation. The point begets the circle and the circle the sphere! Come! Come forth from the depths of the Graylands twisted sister and deny existence!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5022!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5021!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5022!DESCRIPTION!]
+		||
+        *Oh, the light does shine, blinding us from Truth! Shining One, do you seek the blindness of ignorance for your sheep? I seek the clarity of Hel's Void!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5023!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5022!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5023!DESCRIPTION!]
+		||
+        *Soon my northless birds will all find peace! Yes! Finally! All will truly be as it should be!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5024!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5023!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5024!DESCRIPTION!]
+		||
+        *This tower crumbles; our Truefleshes are unmade; we walk together into the Final Night!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5025!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5024!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5025!DESCRIPTION!]
+		||
+		*Draugnir! Yours is true freedom! Your Trueflesh has melted from the False! You are forever without pain, forever without strife! March! Share your gift with them! Show them the mercy of oblivion!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5026!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5025!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5026!DESCRIPTION!]
+		||
+		*Yes! ...The bridge... The path to salvation. I come for you, my lost family. I will guide you home!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5027!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5026!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5027!DESCRIPTION!]
+		||
+		*...Ark... Come to help me free the people? Yes, together we can... Wait, what are you saying? I do this for you! For the well-being of these little birds! I seek to restore their freedom. Please! You must understand!*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5028!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5027!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5028!DESCRIPTION!]
+		||
+        *Please! Don't do this... not again...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5029!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5028!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5029!DESCRIPTION!]
+		||
+        *My heart... cannot bear it...*
+        (A#...){A:0,MIND!PALACE OF MEMORY!WASTELAND!1.5030!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5029!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!WASTELAND!1.5030!DESCRIPTION!]
+		||
+        *Now I fly... Farewell, Ark.*
+		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!WASTELAND!1.5030!DESCRIPTION!/]
 	
 	
 	

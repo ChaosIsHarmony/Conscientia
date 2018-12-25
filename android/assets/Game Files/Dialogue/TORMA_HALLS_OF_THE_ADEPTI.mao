@@ -1082,7 +1082,7 @@ ORMENOS' CELL
 	
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00101!DESCRIPTION!]
 		||
-		*A sense of hopelessness fills him as he feels the touch of the 'beast' Rikharr so bitterly described. For once in his life, he feels a genuine understanding of the emotions which led to the rise of the jinnwraith and the terrible actions he took to exterminate his people. Ormenos would want to do the same, but he would lack the gall to do it.*
+		*A sense of hopelessness fills him as he feels the touch of the 'beast' Rikharr so bitterly described. For once in his life, he feels a genuine understanding of the emotions which led to the rise of the Jinnwraith and the terrible actions he took to exterminate his people. Ormenos would want to do the same, but he would lack the gall to do it.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00102!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00101!DESCRIPTION!/]
 	
@@ -1428,7 +1428,7 @@ COOK DING
 		
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01110!COOK DING!]
 		||
-		*"So, I go' off tha' ship in Jer, where some looney jinn worshippers caugh' me and took me to see a Wyrm!"*
+		*"So, I go' off tha' ship in Jer, where some looney Jinn worshippers caugh' me and took me to see a Wyrm!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01111!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01110!COOK DING!/]
 	
@@ -1545,13 +1545,13 @@ COOK DING
 	
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01414!COOK DING!]
 		||
-		*"Wull, I'll be a son o' a jinn! Impress'ed the Senior Though'-Wea'er himself, did I!"*
+		*"Wull, I'll be a son o' a Jinn! Impress'ed the Senior Though'-Wea'er himself, did I!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014140!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01414!COOK DING!/]
 	
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014140!COOK DING!]
 		||
-		*"I'm jus' abou' as happy as a draug with a jinnwraith! Thank ya, Brother!"*
+		*"I'm jus' abou' as happy as a draug with a Jinnwraith! Thank ya, Brother!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014140!COOK DING!/]
 	
@@ -1569,7 +1569,7 @@ COOK DING
 	
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!]
 		||
-		*"Bu' tha' basterd would try to score our gif's to him and demand more fer him to raise the jinn-cursed score!"*
+		*"Bu' tha' basterd would try to score our gif's to him and demand more fer him to raise the Jinn-cursed score!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01422!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!/]
 	
