@@ -1242,25 +1242,29 @@ _______________________________
 AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!]
 		||
-		*Eidos opens her eyes. Light floods in, burning her vision white hot. Agony crushes perception, forcing teary lids shut anew. Defiant, she pries them open once more, the sheer force of will as her lever.
-		
-		Soft amber light soon bleeds in through trembling slits. Wider, wider, ever-widening, her efforts bear fruit. Vision, though blurred, is now otherwise unobstructed.*
+		*Eidos opens her eyes. Light floods in, burning her vision white hot. Agony crushes perception, forcing teary lids shut anew. Defiant, she pries them open once more, the sheer force of will as her lever.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!]
 		||
-		*Suddenly remembering to breathe, a heaving gasp fills her lungs with the chamber's chill air. Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the incessant pounding of her heart. Swaying as though on violent seas, the room seems to spin.*
+		*Soft amber light soon bleeds in through trembling slits. Wider, wider, ever-widening, her efforts bear fruit. Vision, though blurred, is now otherwise unimpeded.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!]
 		||
+		*Suddenly remembering to breathe, a heaving gasp fills her lungs with the chamber's chill air. Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the incessant pounding of her heart. Swaying as though on violent seas, the room seems to spin.*
+		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.003!DESCRIPTION!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!000.003!DESCRIPTION!]
+		||
 		*Collapse is inevitable.*
 		(A#Scream){A:1,KABU!SANCTUARY!AWAKENING CHAMBER!00.001!DESCRIPTION!}
 		(C#Be calm){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!00.003!DESCRIPTION!}
 		(E#Move){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!00.005!DESCRIPTION!}
-	[KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!/]
+	[KABU!SANCTUARY!AWAKENING CHAMBER!000.003!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.001!DESCRIPTION!]
 		||
@@ -1292,13 +1296,17 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.003!DESCRIPTION!]
 		||
-		*Eidos calmly closes her tearing eyes to the light, but this time of her own volition. She focuses on the darkness within, the nothingness that awaits. A flame emerges from the murk of thought and consumes all fear, all uncertainty; it provides warmth and comfort. Yet this flame is indiscriminate in its consumption - the singe her fingertips receive as they reach to caress the crackling fire is proof enough. She opens her eyes again, now ready for the flood of light.
-		
-		Taking measured breaths, the sting of chill air slowly decreases, and while her heart still races, she feels much surer on her feet.*
+		*Eidos calmly closes her tearing eyes to the light, this time of her own volition. She focuses on the darkness within, the nothingness that awaits. A flame emerges from the murk of thought, consuming all fear, all uncertainty. Yet this fire is indiscriminate in its consumption; it singes her fingertips as they reach to caress the crackling glow. Though warmth and comfort be its gifts, excess in these are its warnings.*
+		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.0030!DESCRIPTION!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!00.003!DESCRIPTION!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.0030!DESCRIPTION!]
+		||
+		*She opens her eyes again, this time ready for the flood of light. Taking measured breaths, the sting of chill air slowly decreases, and while her heart still races, she feels much surer on her feet.*
 		(B#Try to remember){B:2,KABU!SANCTUARY!AWAKENING CHAMBER!00.020!DESCRIPTION!}
 		(C#Observe surroundings){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!00.010!DESCRIPTION!}
 		(D#Examine self){D:2,KABU!SANCTUARY!AWAKENING CHAMBER!00.040!DESCRIPTION!}
-	[KABU!SANCTUARY!AWAKENING CHAMBER!00.003!DESCRIPTION!/]
+	[KABU!SANCTUARY!AWAKENING CHAMBER!00.0030!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.005!DESCRIPTION!]
 		||
@@ -1325,7 +1333,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.040!DESCRIPTION!]
 		||
-		*Her muscles stiff, Eidos inelegantly lifts a hand to her face, the warm skin a welcome contrast to the cold metal beneath her feet. In the amber light, she sees her body, garbed in a dark red traveling robe, simple foot bindings and thin leather shoes. She then pats her body, ever so gently, searching for bruises - or worse. None appear. Though she is sure of only a scant few things, that she is unharmed resides among them.*
+		*Her muscles stiff, Eidos inelegantly lifts a hand to her face, the warm skin a welcome contrast to the cold metal beneath her feet. In the amber light, she sees her body, garbed in a dark red traveling robe, simple foot bindings and thin leather shoes. She then pats her body, ever so gently, searching for bruises - or worse. None appear. Though she is sure of few things, that she is unharmed is among them.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.040!DESCRIPTION!/]
 
@@ -1339,19 +1347,19 @@ AWAKENING CHAMBER
 		||
 		*Eidos' clammy hands cup her eyes, blotting out the mocking rays of ambient light. She begins to cackle maniacally at the darkness she finds lurking beneath the twinned, fleshy domes. Unphased, the congenial darkness simply stares back in silence, letting the loon have her fun, as a good host might.
 		
-		When she tires of this, Eidos lifts one of her hands to peek, where an irritated and slighted solitude greets her gaze. She then hurriedly cures her self-imposed blindness, gracefully rises to her feet, gingerly dusts her clothes off, and finally proceeds to awkwardly pretend that nothing weird has just transpired.*
+		When she tires of this, Eidos lifts one of her hands to peek, where an irritated and slighted solitude greets her gaze. She then hurriedly cures her self-imposed blindness, gracefully rises to her feet, gingerly dusts her clothes off, and finally proceeds to awkwardly pretend nothing unsual has just transpired.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.061!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.060!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.061!DESCRIPTION!]
 		||
-		*With an incredulous guffaw, the solitude fades, giving way to a dancing horde of little green creatures, bloodlust leaking from their drooling faces. Wide-eyed with terror, Eidos attempts to slip away, only to slip and fall instead.*
+		*With an incredulous guffaw, solitude fades, giving way to a dancing horde of little green creatures. Bloodlust leaks from their drooling faces and their beady little eyes, red as hot pokers - well, ones that have been cooling for around a minute or so. Her own eyes fill with terror and she attempts to slip away - only to slip and fall instead.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.062!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.061!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.062!DESCRIPTION!]
 		||
-		*Diving head-first into the solid pool beneath her feet, Eidos finds swimming a difficult task. Yet sleep seems to come easily as her surrounds fade to...*
+		*Diving head-first into the solid pool beneath her feet, Eidos finds swimming through it a difficult task. Yet sleep seems to come easily as her surroundings fade to...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.063!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.062!DESCRIPTION!/]
 
@@ -1359,7 +1367,7 @@ AWAKENING CHAMBER
 		||
 		*Her eyes snap open! With renewed clarity, Eidos notes no little green creatures remain - that is, if they were anything more than a hallucination to begin with. Her body is tossed carelessly in a pile on the floor, and in a most unfashionable disarray to boot! Shaky legs stand her upright as she contemplates how foolish she must have looked running from illusions - fortunate indeed that none were present to witness her shameful actions.
 		
-		The impact seems to have shocked some sense back into her... Though questions as to 'how much' sense remain...*
+		The impact seems to have shocked some sense back into her - though exactly how much sense remains to be seen...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
 		(F#Laugh... AGAIN!!){F:2,KABU!SANCTUARY!AWAKENING CHAMBER!00.064!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.063!DESCRIPTION!/]
@@ -1379,7 +1387,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0100!DESCRIPTION!]
 		||
-		*Many of the stone walls are richly decorated. Murals depict sculpted trees draped in crimson flowers, a fountain's roiling waters and people littered about, all suggesting a private garden. Yet other images distract from this impression. A wolf, a crow and a serpent skulk furtively in and among the foliage, hidden in plain sight from the oblivious eyes of those who willfully ignore them.*
+		*The stone walls are all richly decorated. Spanning several walls, one mural depicts sculpted trees draped in crimson flowers, a fountain's roiling waters, and people littered about. Though these features suggest a private garden, other images distract from this impression. A wolf, a crow, and a serpent skulk furtively in and among the foliage, hidden in plain sight from the oblivious eyes of those who willfully ignore them.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.0100!DESCRIPTION!/]
 
@@ -1387,7 +1395,7 @@ AWAKENING CHAMBER
 		||
 		*These images are interrupted by but three features. Two are doors opposite one another, one painted an immaculate white, and the other a murky indigo. The third is a dark glass embedded chest-high into a wall, gazing at Eidos with its dispassionate stare.
 		
-		Cold feet draw her attention below. The metallic platform she stands upon slowly saps her body's warmth.*
+		Cold feet draw her attention below, as the metallic platform she stands upon slowly saps her body's warmth.*
 		(A#Approach one of the doors){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!}
 		(B#Peer into the glass){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
 		(C#Examine the platform){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!}
@@ -1421,7 +1429,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!]
 		||
-		*A door she seeks, but when faced with the dilemma of choosing one, she finds instead the silent refuge of thought. With time, she arrives at a satisfactory decision.*
+		*A door she seeks, but when faced with the dilemma of choosing one, she finds instead the silent refuge of thought. Though in time, she arrives at a satisfactory decision.*
 		(A#The immaculate white door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#The murky indigo door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!/]
@@ -1429,13 +1437,13 @@ AWAKENING CHAMBER
 >>>Accessed Ormenos' backdoor (12004)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!]
 		|^12004:KABU!SANCTUARY!AWAKENING CHAMBER!0.032!DESCRIPTION!|
-		*As Eidos approaches the indigo door, she finds it is no door at all. It is simply another panel of stone with an arched door frame painted upon it. And from its razor-thin edges, a deep blue haze seems to escape from whatever lies on the other side.*
+		*As Eidos approaches the indigo door, she finds it is no door at all. A panel of stone with an arched door frame painted upon it deceives those who would not more closely inspect it. Her fingers run along its edges, feeling a razor-thin gap. From it, a deep blue haze seems to desperately flee whatever lurks beyond.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0310!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0310!DESCRIPTION!]
 		||
-		*Painted within the doorframe is a lesser mural. A number of hooded figures appear to approach a similar portal from either side. Their backs face Eidos, concealing their features. The portal they move towards boasts no remarkable features, save for a small symbol engraved in its center, a symbol that can only be described as some sort of anti-spiral.*
+		*Painted within the doorframe is a lesser mural. A number of hooded figures appear to approach a similar portal from either side. Robed backs face Eidos, concealing their features. The portal they move towards boasts no remarkable features, save for a small symbol engraved in its center, a symbol that can only be described as some sort of anti-spiral.*
 		(A#Peer at the symbol){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X033!DESCRIPTION!}
 		(B#Examine the other door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(C#Peer into the dark glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1471,19 +1479,21 @@ AWAKENING CHAMBER
 >>>Exited awakening chamber through white door (12411)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!]
 		|^12411:KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!|
-		*As she approaches, she notes that the plain white door has no obvious handle or hinges. Bringing her hand up to its surface, she feels an incredible warmth. Upon contact, the milky barrier ripples outward from her fingertips, but feels absolutely massless to the touch. Suddenly, a Glyph born from the overlapping of several shapes appears embedded in the portal precisely where Eidos had first touched it. Its meaning is innate to her - and how could it not be? - for it is the Glyph of Eidos.*
+		*A quick glance reveals that the plain white door has no obvious handle or hinges. Hesitantly, she moves to push it open. Contact made, the milky barrier ripples outward from her fingertips, and yet she feels none of it, just as though she were touching emptiness itself.
+		
+		Suddenly, a Glyph born from the overlapping of several lesser shapes etches itself precisely where Eidos had first touched. Its meaning is innate to her - and how could it not be? - for it is the Glyph of Eidos.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.041!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.041!DESCRIPTION!]
 		||
-		*At the recognition of her name, Eidos can feel the Glyph respond. The portal begins to shine and shimmer. The surface quickly becomes sharply reflective, casting her image in fine detail. She now looks upon the figure of a young woman with braided hair, draped in a simple shirt, breeches and a red traveling robe.*
+		*At the recognition of her name, Eidos can feel the Glyph respond. The portal shimmers, showering the room in chaotic waves of luminescence. The surface quickly becomes sharply reflective, casting her image in fine detail. Staring back at her is the figure of a young woman with braided hair, draped in a simple shirt, breeches, and a red traveling robe.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X041!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.041!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X041!DESCRIPTION!]
 		|@:KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!|
-		*But soon, the image begins to fade, the metallic sheen disappearing along with it. The space beyond the vanishing door is enveloped in absolute darkness, save a pinprick of light beckoning her from the opposite end.*
+		*But soon, the image begins to fade, the metallic sheen along with it. The space beyond the vanishing door is enveloped in absolute darkness, save a pinprick of light beckoning her from the opposite end.*
 		(A#Pass through the door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12411!DESCRIPTION!}
 		(B#Re-examine the room){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X011!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X041!DESCRIPTION!/]
@@ -1513,9 +1523,9 @@ AWAKENING CHAMBER
 >>>Learned Farcaster glyph (12403)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!]
 		|^12403:KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!|
-		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals. And at its center is a Glyph, one whose meaning Eidos does not yet know - or, perhaps, no longer knows.
+		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals. And at its center is a Glyph, one whose meaning Eidos does not yet know - or, perhaps, no longer does.
 		
-		A Glyph? Indeed, she remembers this much in the absence of memory.*
+		A Glyph? Indeed, she remembers at least this much in the absence of memory.*
 		(A#Examine the door of immaculate white){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#Examine the door of murky indigo){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 		(C#Peer into the glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1563,7 +1573,7 @@ revived
 been here before
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.030!DESCRIPTION!]
 		||
-		*A door she seeks, but when faced with the dilemma of choosing one, she finds instead the silent refuge of thought. With time, she arrives at a satisfactory decision.*
+		*A door she seeks, but when faced with the dilemma of choosing one, she finds instead the silent refuge of thought. Though in time, she arrives at a satisfactory decision.*
 		(A#The immaculate white door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#The murky indigo door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.030!DESCRIPTION!/]
@@ -4249,31 +4259,33 @@ _____________________________________
 WINDING STAIR
 	[/KABU!SANCTUARY!WINDING STAIR!0.000!DESCRIPTION!]
 		||
-		*Emerging from the tunnel, Eidos sees that she now stands upon a winding stairway, built of finely cut black granite. Yet, the dominant feature here is not the stair itself, but rather, nothingness. Even a cursory observation reveals that the stairway is but a narrow strip winding around a vast column of empty space.*
+		*Emerging from the tunnel, Eidos steps onto a winding stairway. Finely cut black granite, embellished with marble accents, seems the material of choice. Yet, the dominant feature here is not the stair itself. Far more prominent a feature is nothingness. Even a cursory observation reveals the stairway's true nature as but a narrow strip winding around a vast column of empty space.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.001!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.000!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.001!DESCRIPTION!]
 		||
-		*The air here is dry and stale, unperturbed long enough for it to stratify by density, the thickest clusters at the bottom eating away all intrusions of light. The thin layer of dust coating the stairs suggests that Eidos' newly added footsteps are the first to disrupt the balance in quite some time. Though the steps may not have seen any recent use, they are in a state far from disrepair. Brushing away some of the dust with her hand, Eidos notes that the floors have been carefully polished, showing no cracks, no threat of crumbling. It is as though they were newly crafted. Rich geometric designs carve their way through the landing upon which she stands, though only humble shapes adorn the individual steps leading to and from it.*
+		*The air here is dry and stale, unperturbed long enough for it to stratify by density. The thickest clusters at the bottom eat away all intrusions of light. A thin layer of dust coating the stairs suggests that Eidos' newly added footsteps are the first to disrupt the balance in quite some time.
+		
+		Though the steps may not have seen any recent use, they are in a state far from disrepair. Brushing away a swath of the dust with her hand, Eidos sees the floors have been carefully polished, showing no cracks, no threat of crumbling. It is as though they were only recently crafted. Rich marble veins of geometric designs carve their way through this landing, though only humble shapes adorn the individual steps leading to and from it.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.002!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.001!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.002!DESCRIPTION!]
 		||
-		*Leaning over the railing and peering into the depths below, Eidos sees nothing but the spiraling stair disappearing into an inky void. So thick is the darkness that she feels she could float in it. Her suspicions almost feel confirmed as she observes the motes of dust floating alongside her, sparkling from their collisions with the light.*
+		*Leaning over the railing and peering into the depths below, Eidos sees nothing but the spiraling stair disappearing into an inky void. So thick is the darkness, she feels she could float in it. Her suspicions feel confirmed as she observes the motes of dust floating alongside her, sparkling from their collisions with the light.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.003!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.002!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.003!DESCRIPTION!]
 		||
-		*Searching skywards, she sees that all light here leaks in through an aperture at the top of this monolithic shaft - so high above as to appear equidistant from the terminus of the bottomless void below. Golden rays weave their way down the shaft with spindly arms scraping at the darkness, as though greedily searching for some stolen treasure. Yet, the darkness nips at the shiny intruders, jealously guarding what it hides within.*
+		*Searching skywards, she sees that all light here leaks in through an aperture at the top of this monolithic shaft - so high above as to appear equidistant from the terminus of the bottomless void below. Golden rays weave their way down the shaft with spindly arms scraping at the darkness, as though greedily searching for some stolen treasure. Yet, the darkness nips back at the shiny intruders, jealously guarding what it hides in its depths.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.004!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.003!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.004!DESCRIPTION!]
 		||
-		*Returning her attention to her more immediate surroundings, Eidos turns around only to find that the door from which she emerged has vanished. The chamber beyond is now nothing but the shadow of a fading memory of what may or may not have been.*
+		*Returning her attention to the more immediate surroundings, Eidos finds that the door has vanished. The chamber beyond is now nothing but the shadow of a fading memory, of an event that may or may not have ever been.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.005!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.004!DESCRIPTION!/]
 
@@ -4323,19 +4335,21 @@ WINDING STAIR
 
 	[/KABU!SANCTUARY!WINDING STAIR!01.001!DESCRIPTION!]
 		||
-		*Distracted by these thoughts, she fails to realize her body has come to a halt. To her left an anomaly appears in the otherwise perfectly uniform, albeit rough, surface of the wall; she has arrived at doorway. Peeking inside, she notes that the area is host to a dim light source of its own, thus revealing the silhouettes of the tables and shelves housed within.*
+		*Distracted by these thoughts, she fails to realize her body has come to a halt. To her left an anomaly appears in the otherwise perfectly uniform, albeit rough, surface of the wall. It appears she has arrived at a doorway.
+		
+		Peeking inside, she notes that the area is host to a dim light source of its own, thus revealing the silhouettes of the tables and shelves housed within.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!01.002!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!01.001!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!01.002!DESCRIPTION!]
 		||
-		*Turning her attention once more to the stairwell, she sees that her progress this way has been thwarted. The stairs beyond this point have crumbled away - though given the pristine condition of the steps, sabotage seems a likelier cause than age. And while there is another landing beyond, continuing the theoretical spiral trajectory of the stairs now absent, the gap is prohibitively vast and the lower stairs far too distant for any reasonable person to consider leaping for it...*
+		*Turning her attention once more to the stairwell, she sees that her progress has been thwarted. The stairs beyond this point have crumbled away - though given the pristine condition of the steps she took to get here, sabotage seems a likelier cause than age. And while there is another landing far beyond, one continuing the theoretical spiral trajectory, the gap is far too vast for any reasonable person to consider leaping to it...*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!01.003!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!01.002!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!01.003!DESCRIPTION!]
 		||
-		*Looking directly down from the edge, Eidos sees only oblivion - making failure to reach the opposite landing even more terror-inducing.*
+		*Looking down from the edge, Eidos sees only oblivion - making failure to reach the opposite landing even more terrifying.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!01.004!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!01.003!DESCRIPTION!/]
 

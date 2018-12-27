@@ -8,7 +8,7 @@ _________GLYPHS_________
 	$Glyphs/Extraction Glyph.png$
 	#Imparting the Techne of Extraction, this Glyph is used to consume living thought. With this ability, external energies both simple and complex are internalized and contained.
 	
-	Dating to a time long after the Great Awakening, it represents an unprecedented advancement. While the mastery of single Glyph might ordinarily take a lifetime of study, such acquisition is a trivial affair for a devouring mind - though perhaps its reach extends further.
+	Dating to a time long after the Great Awakening, it represents an unprecedented advancement. While the mastery of a single Glyph might ordinarily take a lifetime of study, such acquisition is a trivial affair for Fenrir's devouring mind - though perhaps this is not the full extent of his abilities.
 	
 	This Glyph is bound to the soul of the Emerald Spawn, Fenrir, who in turn is bound to the Trueflesh of another.#
 [1/]
@@ -46,9 +46,11 @@ _________GLYPHS_________
 	dt. Primordial Era*
 	@Glyph of Eidos@
 	$Glyphs/Eidos Glyph.png$
-	#The Glyph of Eidos, daughter of Viracocha, this Glyph enables the Techne of Soulgrafting, making the form of one's ghost so persistent as to express itself in materiality even after the obliteration of the Falseflesh. Like all Glyphs born from Awareness, its function extends beyond what can be known, and its full implication remains obscured. This Glyph establishes the knower as Archon of the Sanctuary, giving them mastery over its powers and secrets. 
+	#The Glyph of Eidos, daughter of Viracocha, this Glyph enables the Techne of Soulgrafting, making the form of one's ghost so persistent as to express itself in materiality even after the obliteration of the Falseflesh.
 	
-	Eidos may be a entity beyond time, yet even she is bound by limitations beyond perception.#
+	Like all Glyphs born from Awareness, its function extends beyond what can be known, and its full implication remains obscured. This Glyph establishes the knower as Archon of the Sanctuary, giving them mastery over its powers and secrets. 
+	
+	Eidos may be an entity beyond time, yet even she is bound by limitations beyond perception.#
 [4/]
 
 [/5]
