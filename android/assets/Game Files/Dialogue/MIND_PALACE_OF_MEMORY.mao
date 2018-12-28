@@ -3325,47 +3325,65 @@ ZHILIAN STEPPE
 Zhili Memory
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000!DESCRIPTION!]
 		||
-		*And somehow here my Self arrives back at the beginning, just when it seemed my dream had ended. For all did end with His creation, did it not? Yet still, my feet have taken me, as of habit, to the exceeding austerity of the Zhilian steppe. Back to my homeland.*
+		*And somehow my Self is back at the beginning, just when it seemed my dream had ended. For all did end with His creation, did it not? Yet still, feet have carried me, as of habit, to the exceeding austerity of the Zhilian steppe. Back to my homeland.*
 		(A#My homeland...){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00001!DESCRIPTION!}
 		(B#His creation...){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00002!DESCRIPTION!}
 		(C#...){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00001!DESCRIPTION!]
 		||
-		*Indeed, the place of my birth. Before there was the Prophetess, the Eidos, there was only Torma, the mischievous little steppe-dweller of the Zhilian people.
-		
-		Our wind-swept land punishes the meek. But make no mistake, there is no reciprocity from humans here, no battle with Mother Nature here. Just as no fool would ever hope to ensare Brother Sun, so too do we regard Mother with singular and sacrosanct deference. Rather, the task is to gain Her respect through overcoming the harsh trials She has laid out before us. 
-		
-		Not all win Her respect in the end, but my people have for centuries persevered, thus gaining Her protection. As proof it suffices to note that not even the Blood-Drinkers dare to come to these barren highlands.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
+		*Indeed, the place of Torma's birth. Before there was the Prophetess, the Eidos, there was only Torma, the mischievous little steppe-dweller of the Zhilian people.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000010!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00001!DESCRIPTION!/]
-	
+
+    [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000010!DESCRIPTION!]
+		||
+		*Our wind-swept land punishes the meek. But make no mistake, there is no reciprocity from humans here, no battle with Mother Nature here. Just as no fool would ever hope to ensare Brother Sun, so too do we regard Mother with singular and sacrosanct deference. Rather, the task is to gain Her respect through overcoming the harsh trials She lays before us. This is the Zhilian way.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000011!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000010!DESCRIPTION!/]
+
+    [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000011!DESCRIPTION!]
+		||
+		*Not all win Her respect in the end, but my people have for centuries persevered, thus gaining Her protection. As proof, it suffices to note that not even the Blood-Drinkers dare to come to these barren highlands. We lived in the only land beyond Vanquished hands.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000011!DESCRIPTION!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00002!DESCRIPTION!]
 		||
-		*Indeed, His creation, the sacred mission that excised my Falseflesh from its homeland. But to give rise to the Shining One was my divine mission and now that it is done, my Self again returns to the wind-swept Zhilian steppe at a time before my awareness of the sparkling verses of Biracul, a time before the betrayal of awareness. Even now, my Self cannot help but think that He would choose me as the Eidos, defies all logic. Yet as it was decided, so it was done.
-		
-		Turning my attention back to the vision of my homeland, my Self observes the stubborn grasses clawing their way up from the chilled soil to gather Brother Sun's bounty. Uncle Wind whispers cold tales from travels to lands unknown and Sister Cloud carves her path across the Sky. It wells up within me an ineffable sense of serenity.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
+		*Indeed, His creation! Biracul, though not of Mother born, was still birthed! In the crucible of the Empyrean crafted! But the Shining One is risen, and now my Self again returns to the wind-swept Zhilian steppe. Returned to a time before my awareness of the sparkling verses of Biracul, to a time before the betrayal of Awareness.*
+        (A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000020!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00002!DESCRIPTION!/]
+
+    [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000020!DESCRIPTION!]
+		||
+        *Yet memory fails, and memory dies. None but the All-Seer can truly know what memory cannot recall. And if we would see through the Eye, we must use faith as lense! Clear as summer skies that work remains, and thus to Zhili my Self returns. What task awaits? The vision of my homeland surely holds the key.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000020!DESCRIPTION!/]
+
+    [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!]
+		||
+		*The scene expands before the eyes, off into the six directions. Feet stand upon stubborn grasses that claw their way up through chilled soil, gathering Brother Sun's bounty. Skin feels Uncle Wind as He whispers cold tales from travels to lands unknown. Eyes watch as Sister Cloud sculpts figures in the sky.
+
+        Serene and pure, this place, Mother's very home, is sacred to the Eye.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!]
 		||
-		*However, despite the alluring verisimilitude of the scenery, it is evident that this is nothing but a spectre of a memory. Merely that which once was, but no longer is. 
-		
-		In truth, only the All-Seer could revisit what to us is past. As a shadow is to its caster, and the caster is to the light of Brother Sun, so are we to the All-Seer. So foreign, so far-removed, but nonetheless so inexorably linked.
+		*However, despite the alluring verisimilitude, it is plain as leafless trees that this is nothing but a specter of a memory, a mere reflection of what once was, and no longer is. In truth, only the All-Seer could revisit what to us is past. As a shadow is to its caster, and the caster is to the light, so are we to the All-Seer. So foreign, so far-removed, but nonetheless so inexorably linked.
 		
 		And so, my Self looks upon its beginnings from its end, seen with detachment and with incontrovertible knowledge of its illusory nature. This, the closed loop of my existence.	Life has become a dream - or perhaps only at the end does one realize it always was.*
 		(C#...){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 		(D#I would dispel the illusions.){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!}
 		(E#Dreams are for the weak.){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!]
-		||		
-		*Even so, in this shadow world my Self remains, chasing one foot with the other, left and right vying to be the first to arrive. Faster and faster they move until they break into a dash, the speed peeling layers of time and memory from my Falseflesh. 
+		||
+		*Even so, in this shadow realm my Self remains, chasing one foot with the other, left and right vying to be first. Faster and faster they move, soon breaking into a dash. The speed peels layers of time and memory from my Falseflesh, leaving only the Trueflesh with which we are all born.
 		
-		The summer rains begin to chase away the autumn winds and then the frozen winters succeed the fertile springs. Over and over the cycle repeats, returning my Trueflesh to the innocent youth of its origins, to a time before knowledge tainted its core.*
+		Summer rains begin to chase away autumn winds; and frozen winters oust fertile springs. Over and over the cycle repeats, returning my form to the innocent youth of its origins, to a time before knowledge tainted its core.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!/]
 	

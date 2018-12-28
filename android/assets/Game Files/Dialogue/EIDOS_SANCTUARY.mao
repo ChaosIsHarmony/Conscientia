@@ -848,15 +848,17 @@ ARCHIVES
 	
 	[/KABU!SANCTUARY!ARCHIVES!0.000!DESCRIPTION!]
 		||
-		*Her steps echo through the immense darkness, as Eidos walks over cracked tiles into the sombre area. At the dead center of this vast space stands a massive tree, its tremendous trunk bursting forth from the floor in defiance of the unyielding granite. Though it was no doubt mighty in its prime, its cracked bark and leafless branches betray its current frailty. Charred gashes weakly pulsate with a dying, greenish luminescence while exposing the tree's ancient innards.
+		*Her footfalls echo off into the immense darkness, as though fleeing from some unseen evil. Cracked tiles whisper beneath her feet with every step. Deep into the hall, stands a massive tree, its tremendous trunk bursting forth from the floor in defiance of the rigid granite. Though it was no doubt mighty in its prime, splintering bark and leafless branches betray its current frailty. Charred gashes in its roots weakly pulsate with a dying, greenish luminescence while exposing the tree's ancient innards.
 		
-		Incredibly, this tree is clearly visible despite the hall's pervading darkness, dully gleaming as if caught in the fading rays of twilight. The absence of an obvious source of light suggests that the tree is made visible through some inner power - a power unmistakably as frail and decayed as the withered tree itself. Although much of the room's illumination seems to come from the interaction between the tree and her vision, Eidos observes a faint green glow oozing in from deeper in this underground Archive - its source yet invisible to her.*
+		Incredibly, this tree is clearly visible despite the hall's pervading darkness. Dimly it glows, as if caught in the fading rays of twilight. The absence of an obvious source of light suggests that the tree is made visible through some inner power - one as frail and decayed as the withered tree itself.
+
+        Although much of the room's illumination seems to come from the interaction between the tree and her vision, Eidos also senses a faint, green glow oozing in from the depths of the underground Archive - its source yet invisible to her.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!9990.X12003!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.000!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!ARCHIVES!0.001!DESCRIPTION!]
 		||
-		*Though the tree's mass appears to dominate much of the space, the enormous size of the hall containing it slowly becomes apparent. The vaulted ceiling of this chamber is unfathomably high, consumed by shadows at its peak. Between each support column, rows of aged, wooden shelves line the hall; they in turn are lined with the cracked and withered remains of countless tomes. Arranged in outward rippling concentric circles from the tree are many long wooden tables, chairs and writing desks, no doubt placed here for the reading and copying of texts.*
+		*Though the tree appears to dominate much of the space, the enormous size of the hall containing it slowly becomes apparent. The vaulted ceiling of this chamber is unfathomably high, consumed by shadows at its peak. Between each support column, rows of aged, wooden shelves line the hall; they in turn are lined with the cracked and withered remains of countless tomes. Arranged in concentric circles rippling outward from the tree are many long tables, benches and writing desks - no doubt placed here for the reading and copying of texts.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.0010!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.001!DESCRIPTION!/]
     
@@ -972,32 +974,32 @@ ARCHIVES
 	
 	[/KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!]
 		||
-		*Eidos first examines the body lying before the archway. She reaches out to touch it, only to discover the skin more closely resembles a supple metallic husk than a leather hide. Whatever these things were, they were decidedly not human.
-		
-		Upon further inspection, it seems to have been slain by an impaling wound from behind, one that spills a dark blue fluid out over the corpse. The body is also lightly coated with dust, though no visible decay has marred the pale skin.*
+		*Eidos first examines the body stretched out before the archway. Her fingers reach to touch it, and she discovers that the skin more closely resembles a supple, metallic husk than a leather hide. Whatever these things were, they were decidedly not human. 
+
+        Tracing the fallen creature's form with her fingertips, she comes upon a trail of dark, blue fluid. Her eyes follow the curious substance as it leads to the gash that likely ended it. Too neat, too precise, too lonely, nothing about it suggests a struggle. The body is also lightly coated with dust - not as much as the steps leading here, but enough to hint at lengthy passage of time. Remarkably, though, no visible decay has marred the pale skin.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.102!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!/]
 	
 	[/KABU!SANCTUARY!ARCHIVES!0.102!DESCRIPTION!]
 		||
-		*Turning her attention to the body slumped against the left wall, Eidos notices a rather unique feature, that this one appears to be missing a head. Yet the dissimilarities stop there, for t too is free from decay and possesses a metallic hide as well. Furthermore, what appeared to be blood smeared upon the wall is, in truth, more of the oily bluish fluid found covering the first body.*
+		*Turning her attention to the body slumped against the left wall, Eidos notices a rather unique feature: the absence of a head. Yet the dissimilarities stop there, for it too is free from decay and likewise possesses a metallic hide. Furthermore, what appeared to be blood smeared upon the wall behind it is, in truth, more of the oily bluish fluid found covering the first body.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.103!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.102!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!ARCHIVES!0.103!DESCRIPTION!]
 		||
-		*The fluid is caked with dust, yet it remains aqueous in nature, simply refusing to dry. Bringing her nose closer, Eidos notes, with a few quick inhalations, that it has no discernible smell. Then, turning her eyes to the wall itself, Eidos sees something...*
+		*Eidos steps closer to the streaks of blue on the wall. Oddly, they remain aqueous in nature, simply refusing to dry or even drip to the floor below. Bringing her nose closer, a few quick inhalations reveal no discernible smell. This close to the wall, she finally sees it. Not the blood, not the impenetrable barrier, but rather the wall itself - or rather what it was.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.104!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.103!DESCRIPTION!/]
 
  	[/KABU!SANCTUARY!ARCHIVES!0.104!DESCRIPTION!]
 		||
-		*Overshadowed by the blood of the creature, is an image. Wiping the blood and dust aside, she sees the faded traces of a fresco beneath. Though aged and worn in places, it looks to be a stylized representation of the tree looming over her. Flecks of metallic reflections give the impression that it may once have been illuminated in silver, though it is hard to say for certain.
+		*Beneath the blood of the creature, is part of an image. Wiping the blood and dust aside, she sees the faded traces of a fresco. Though aged and worn in places, it looks to be a stylized representation of the tree looming over her. Flecks of metallic reflections give the impression that it may once have been illuminated in silver, though it is hard to say for certain.
 		
-		Images of people seem to have also been traced, and though their relationship with the woody giant is obscured, at least one individual seems to be walking from the tree bearing some kind of seedling - where to is impossible to determine.*
+		Images of people seem to have also been traced, and though their relationship with the wooden giant is obscured, at least one individual seems to be walking from the tree bearing some kind of seedling - where to is impossible to determine.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X1040!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.104!DESCRIPTION!/]
-	
+
 >>>Learned awareness glyph (12400)<<<
  	[/KABU!SANCTUARY!ARCHIVES!0.X1040!DESCRIPTION!]
 		|^12400:KABU!SANCTUARY!ARCHIVES!0.105!DESCRIPTION!|
@@ -1113,7 +1115,7 @@ ARCHIVES
 >>>Glyph of Tongues (12303)<<<
     [/KABU!SANCTUARY!ARCHIVES!0.X2000!DESCRIPTION!]
         |^12303:KABU!SANCTUARY!ARCHIVES!0.X3000!DESCRIPTION!|
-        *Carefully brushing thick layers of dust from the bindings, Eidos attempts to read the titles. Alas, tome after tome, shelf after shelf, all of the surviving texts seem to elude her grasp. But it is not merely a matter of comprehension. In fact, absorbing this information requires that her mind be altered, such that order may come to the chaotic characters strewn about the page.*
+        *Carefully brushing thick layers of dust from the bindings, Eidos attempts to read the titles. Alas, tome after tome, shelf after shelf, all of the surviving texts seem to elude her ken. But it is not merely a matter of comprehension. In fact, absorbing this information requires that her mind be altered, such that order may come to the chaotic characters strewn about the page.*
         (A#Examine the bodies){A:0,KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!}
         (B#Pass through the archway){B:0,KABU!SANCTUARY!ARCHIVES!10.X014!DESCRIPTION!}
         (C#Return to the Winding Stair){C:0,KABU!SANCTUARY!WINDING STAIR!01.100!DESCRIPTION!}
@@ -4427,44 +4429,44 @@ WINDING STAIR
 >>>Eidos sees the DKR vision (12407)<<<	
 	[/KABU!SANCTUARY!WINDING STAIR!05.000!DESCRIPTION!]
 		||
-		*And as only one truly brave - or undeniably foolish? - Eidos leaps from the stairs. Her hands reach out for the landing in front of her, but it is indeed much too distant...*
+		*Eidos leaps from the stairs. The mark of bravery? Insanity? or... Awareness? Her hands reach out for the landing as she nears it, but it is indeed much too distant, and soon it seems to rise upwards, towards the ceiling and away from her desperate hands.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!05.001!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.000!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!05.001!DESCRIPTION!]
 		||
-		*A crescendoing sense of impending doom fills her body as she plummets into the depths of an all-consuming darkness. Blood and organs are forced to deny their inertia, forced downward along with their ever accelerating container.*
+		*A crescendoing sense of impending doom fills her as she plummets into the depths. Blood and organs are forced to deny their inertia, forced to obey gravity's summons. It is not long before the stairs are altogether gone, consumed by the shadows.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!05.002!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.001!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!05.002!DESCRIPTION!]
 		||
-		*Faster. Faster. Ever faster, she tumbles into the lightless abyss for an unknowable distance.*
+		*Faster, faster, ever faster, she tumbles into the lightless abyss. As her speed increases, time seems to slow. Unfathomable distances traversed in an instant, all while seeming to never have moved at all.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!05.003!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.002!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!05.003!DESCRIPTION!]
 		||
-		*Suddenly, pitch black gives way to emerald phosphorescence, a peculiar greenish sludge now lining the walls of the shaft.*
+		*Suddenly, pitch black gives way to emerald phosphorescence, as a peculiar greenish sludge now lines the walls of the shaft.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!05.004!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.003!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!05.004!DESCRIPTION!]
 		||
-		*Then, from one moment to the next, the shaft opens into an immense cavern, appearing wider still than the massive stairwell was tall. The air racing against her face brings tears to her eyes as she speeds down towards some gargantuan subterranean object. It looks to be a massive sphere bearing a metallic lustre, half-submerged in a vibrant, azure lake. Its cracked and ruined surface shows signs of some interior structure.*
+		*Without warning, the shaft opens into an immense cavern, appearing wider still than the winding stairwell was tall. The air racing against her face brings tears to her eyes as she speeds down towards some gargantuan object. A massive, broken sphere bearing a metallic lustre, half-submerged in a vibrant, azure lake draws her nearer. Its cracked and ruined surface shows signs of some interior structure, composed of seemingly impossible geometries.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!05.X005!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.004!DESCRIPTION!/]
 
 >>>Eidos sees the DKR vision (12407)<<<
 	[/KABU!SANCTUARY!WINDING STAIR!05.X005!DESCRIPTION!]
 		|^12407:KABU!SANCTUARY!WINDING STAIR!05.006!DESCRIPTION!|
-		*But this peek comes at a cost, as her body slams into the massive orb's pitted, sooty metal, her organs liquefying upon impact...*
+		*But this peek comes at a cost. Her body slams into the massive orb's pitted, sooty metal, liquefying her organs upon impact...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.X005!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!05.006!DESCRIPTION!]
 		||
-		*Eidos recognizes this as the object. Some time, some place before she had seen it. But this realization dawns on her mere moments before she slams into the massive orb's pitted, sooty metal, her organs liquefying upon impact...*
+		*Eidos recognizes this... thing. Some time, some place before she had seen it. But this realization dawns on her mere moments before she slams into the massive orb's pitted, sooty metal, her organs liquefying upon impact...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.006!DESCRIPTION!/]
 
