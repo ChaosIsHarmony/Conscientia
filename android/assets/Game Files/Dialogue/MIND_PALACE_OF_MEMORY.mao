@@ -3357,7 +3357,7 @@ Zhili Memory
 
     [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000020!DESCRIPTION!]
 		||
-        *Yet memory fails, and memory dies. None but the All-Seer can truly know what memory cannot recall. And if we would see through the Eye, we must use faith as lense! Clear as summer skies that work remains, and thus to Zhili my Self returns. What task awaits? The vision of my homeland surely holds the key.*
+        *Yet memory fails, and memory dies. None but the All-Seer truly know what memory cannot recall. And if we would see through the Eye, we must use faith as lense! Clear as summer skies that work remains, and thus to Zhili my Self returns. What task awaits? The vision of my homeland surely holds the key.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000020!DESCRIPTION!/]
 
@@ -3371,42 +3371,42 @@ Zhili Memory
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!]
 		||
-		*However, despite the alluring verisimilitude, it is plain as leafless trees that this is nothing but a specter of a memory, a mere reflection of what once was, and no longer is. In truth, only the All-Seer could revisit what to us is past. As a shadow is to its caster, and the caster is to the light, so are we to the All-Seer. So foreign, so far-removed, but nonetheless so inexorably linked.
-		
-		And so, my Self looks upon its beginnings from its end, seen with detachment and with incontrovertible knowledge of its illusory nature. This, the closed loop of my existence.	Life has become a dream - or perhaps only at the end does one realize it always was.*
+		*However, despite the alluring verisimilitude, this is nothing but a specter of a memory, a mere reflection of what once was, and no longer is. In truth, only the All-Seer can revisit what to us is past. As a shadow is to its caster, and as the caster is to the light, so are we to the All-Seer. So foreign, so far-removed, but nonetheless so inexorably linked.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!00.0000!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!00.0000!DESCRIPTION!]
+		||
+		*And so, my Self looks upon its beginnings from its end, seen with detachment and with incontrovertible knowledge of its illusory nature. This, the closed loop of my existence. Life has become a dream - or perhaps it is only at the end that one realizes it always was.*
 		(C#...){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 		(D#I would dispel the illusions.){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!}
 		(E#Dreams are for the weak.){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!/]
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!00.0000!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!]
 		||
-		*Even so, in this shadow realm my Self remains, chasing one foot with the other, left and right vying to be first. Faster and faster they move, soon breaking into a dash. The speed peels layers of time and memory from my Falseflesh, leaving only the Trueflesh with which we are all born.
+		*Even so, in this realm of smoke and mirrors my Self remains. Feet shift, carrying me forward; left and right fruitlessly vie to be first, unaware that they are bound together in the end. Faster and faster they move, soon breaking into a dash. The speed peels layers of time and memory from the Falseflesh, leaving only the Trueflesh behind.
 		
-		Summer rains begin to chase away autumn winds; and frozen winters oust fertile springs. Over and over the cycle repeats, returning my form to the innocent youth of its origins, to a time before knowledge tainted its core.*
+		Summer rains chase away autumn winds, and frozen winters oust fertile springs. Over and over the cycle unwinds, returning my form to the innocent youth of its origins, to a time before knowledge tainted its core.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!]
 		||		
-		*Admittedly, illusions would have put me ill-at-ease were it not for my bond with the Shining One. Devotion and sacrifice to the higher purpose of His creation dispel the illusion of fear - the only truly perilous one. Hence my persistence in placing faith in Him and His mission.
-		
-		To doubt is human; to trust, divine.*
+		*Admittedly, illusions would have put me ill-at-ease were it not for my bond with the Shining One. Devotion and sacrifice to the higher purpose of His creation dispel the illusion of fear. His light banishes the specters of darkness! No illusions, no doubts can lurk in His shadowless presence!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!]
 		||		
-		*Admittedly, the Trueflesh is willing, but the false is weak. This servant of Biracul's is but a mere human, no divinty can she reach, no apotheosis awaits her. But strength is not necessary, for my guide is the crystalline Voice of the Shining One. Enough for me is it to be touched by the hand of the divine.
-		
-		After all, contentment begets bliss..*
+		*Admittedly, the Trueflesh is willing, but the False is weak. This servant of Biracul's is but a mere human, no divinty can she reach, no apotheosis awaits her. But strength is not necessary, for my guide is the crystalline Voice of the Shining One. Enough for me is it to be touched by the hand of the divine. After all, contentment begets bliss..*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!/]
 
 >>>Have Ormenos (12304)<<<
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X001!DESCRIPTION!]
 		|^12304:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0015!DESCRIPTION!|
-		*Then ripping through the silence... A sound, faint at first, but getting ever-clearer...*
+		*Then, silence shatters as something rips through the space between memories... A sound, faint at first, grows ever-clearer...*
 		(A#Friends' voices.){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0010!DESCRIPTION!}
 		(B#A wiseman reading sacred texts.){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0011!DESCRIPTION!}
 		(C#...){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.001!DESCRIPTION!}
@@ -3424,138 +3424,168 @@ Zhili Memory
 		(E#TYR){E:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0013!DESCRIPTION!}
 		(F#LOO){F:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0014!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.001!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0010!DESCRIPTION!]
 		||
-		*As such, my attention from the present to the past is drawn. My friends come into view, pursuing one another, trying to spread the Sa'Ma until all have succumbed to its corrupt effects. Yes, they play the merry children's game of our people, "The Spread".*
+		*As such, attention from present to past flows. Friends from long ago come into view, pursuing one another, spreading the Sa'Ma until all have succumbed to its corrupt effects. Yes, they play "The Spread". We play it.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00100!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0010!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00100!DESCRIPTION!]
 		||
-		*Chodak had taught us that death was merely a return to Mother and that the Sa'Ma is not to be feared, for it is as we are: birthed of Mother's womb. And as we consume the fruits of the steppe or the flesh of the lamb, so too does the Sa'Ma consume us. Hence we play the Spread to remember our ultimate end is merely the conclusion of one of innumerable games and the beginning of a new one.*
+		*Chodak had taught us that death is merely a return to Mother, that the Sa'Ma is not to be feared. It is as kin to us, birthed of Mother's womb. Just as we consume the lamb's tender flesh, so too does the Sa'Ma nourish itself of our Falseflesh. Thus, we play to remember our end is but the end of a game... And the beginning of a new one.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00101!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00100!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00101!DESCRIPTION!]
 		||
-		*But surely as children, we never really thought of it that way. We would simply regurgitate those words to Chodak whenever he inevitably asked if we knew why the Spread was one of our most valuable cultural treasures.*
+		*But children never truly see with the Eye. Impatience clouds youth's eyes to the wisdom of Awareness. A game is just a game, nothing more, nothing less. But Chodak was Biracul-sent, our candle in the shadowlands of ignorance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00102!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00101!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00102!DESCRIPTION!]
 		||
 		*How blind we were and how sightless we remain in the darkness of memory...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00102!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0011!DESCRIPTION!]
 		||
-		*Uncle Chodak fades into view, reciting the Storm Scripture. He sings the history of our peoples' exodus from the lower valley of Zemes up into the highland steppe. A return to Mother Nature and a departure from the prisons of Man. Those blasphemous cities with flying cloudstones and marvels of Technocraft. So full of form, yet so devoid of substance.*
+		*Uncle Chodak fades into view, reciting the Storm Scripture. He sings the history of our peoples' exodus from the lower valley of Zemes up into the highland steppe. A return to Mother Nature and a departure from the prisons of man. Those blasphemous cities with flying cloudstones and marvels of Technocraft. So full of form; so devoid of substance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00110!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0011!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00110!DESCRIPTION!]
 		||
-		*He tells of the encroaching Sa'Ma, claiming victims who failed to break free from their bonds. He sings of the fall of mankind at the hands of a divine storm. Man's hubris in full bloom.*
+		*He tells of the encroaching Sa'Ma, claiming victims who failed to see with the Eye. He sings of the Divine Storm. Of the Vanquished's demise. Man's hubris in full bloom.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00111!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00110!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00111!DESCRIPTION!]
 		||
-		*Of Mother's womb to life we came and of the unappreciative, this privilege she revoked...*
+		*Of Mother's womb to life we came and of the Unaware, this privilege she revoked...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00111!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0012!DESCRIPTION!]
 		||
-		*My attention turns inwards, dismayed at the violent rhythm my heart now takes - this immaterial and illusory heart that should not be here in my truelfesh. My breath is chaotic and my Self is crushed under the oppressive weight of the memory.*
+		*Thought directed inwards, panic spirals beyond control as the heart rumbles like the thunder of a thousand bolts - this immaterial and illusory heart, not of the Trueflesh. Breath, chaotic, crushing perception under the oppressive weight of memory.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00120!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0012!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00120!DESCRIPTION!]
 		||
-		*But it matters not if here my essence dissipates, evaporates, or even vanishes! For He will persist!*
+		*It matters not. No harm can befall me. For even if here sinister Hel were to claim my Trueflesh, He will persist!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00121!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00120!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00121!DESCRIPTION!]
 		||
-		*Indeed, the Shining One is born and all is as it should be!*
+		*Yes! The Shining One is born and all is as it should be!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00121!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0013!DESCRIPTION!]
 		||
-		*My attention turns towards Pema, the unforgiven. Towards the boy who would beat me daily, until a rock met his eye by my hands, blinding him. Ironic was it that only in darkness that he would gain true sight.*
+		*A rival? Yes, those too did Torma have. Pema, the unforgiven. The boy whose daily gift was pain; the boy who taught me violence. Fists drew blood from my Falseflesh, the price demanded for some unspoken, imaginary offense...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00130!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0013!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00130!DESCRIPTION!]
 		||
-		*From that day forth he saw that Torma was to be feared and respected. For who else could serve the Shining One but one such as His chosen Eidos?*
+		*Day after day he taught me how to harm the weak, until one day our lessons ended. A rock cast from my trembling hands met his eyes, tears and blood mixed in an intoxicating brew. Never again would those eyes see. Never again would he raise a hand against me...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00131!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00130!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00131!DESCRIPTION!]
+		||
+		*Ironic that only in darkness did he gain true sight. From that day forth he saw that Torma was to be feared and respected. For who else could serve the Shining One but one such as His chosen Eidos?*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00132!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00131!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00132!DESCRIPTION!]
 		||
 		*In the end, the sole arbiter of truth is strength.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00131!DESCRIPTION!/]
-	
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00132!DESCRIPTION!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0014!DESCRIPTION!]
 		||
-		*A resonant call - more awe-inspiring than a Blood-Drinker's cackling howl - fills the air, ringing louder than the raucous call of Brother Thunder... Yet is it my mistake or does my mind's eye see the silhouette stained upon the clear sky of some anthropomorphic poultry regaining the birthright its ancestors had once left as inheritance?*
+		*A resonant call fills the air, more deafening than a Blood-Drinker's cackling howl, ringing louder than the raucous call of Brother Thunder! Yet is it my mistake or do the eyes see a silhouette stained upon the clear sky of some anthropomorphic poultry? A fowl form regaining the birthright its ancestors had once left as inheritance.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00140!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0014!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00140!DESCRIPTION!]
 		||
 		*In truth, this delirious and magnificent caw comes from above... A flying beast so majestic as to challenge Brother Sun for ownership of the celestial sphere!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00141!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00140!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00141!DESCRIPTION!]
+		||
+		*Words emerge from the caw-cophony, whispering His arrival...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00142!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00141!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00142!DESCRIPTION!]
+		||
+		*Roostor! The Feathered One!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00143!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00142!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00143!DESCRIPTION!]
+		||
+		*Surely one of Biracul's many masks must this be!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00144!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00143!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00144!DESCRIPTION!]
 		||
 		*Bizarre to think that spectacle had occurred. Yet now, its incontrovertible truth is known!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00141!DESCRIPTION!/]
-	
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00144!DESCRIPTION!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0015!DESCRIPTION!]
 		||
-		*Then my Self senses it: something else lurks beyond, invisible to the mind's eye, but clearly present and of the present - for no past spectre haunts me like this. Who or what is it that stalks me on this steppe? Could it again be some Memory-Thief? Hope compels me to believe it not, as so few of my own memories remain.*
+		*Time stops.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00150!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0015!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00150!DESCRIPTION!]
 		||
-		*Alas, it is not my place to know, else Biracul would have made the nature of this Visitor apparent to me. This is confirmed by the presence's disappearance into the ether of thought permeating my vision.*
+		*...Something lurks beyond, invisible to the eyes, but clearly present and of the present - for no past specter haunts me like this. Who or what stalks Biracul's servant on this forgotten steppe? Could it again be some Memory-Thief? Hope compels me to believe it not, as so few of my own memories remain...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00151!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00150!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00151!DESCRIPTION!]
 		||
-		*As my Self is about to renew its race through time, something rips through the silence... A sound, faint at first, but getting ever-clearer...*
+		*Alas, it is not my place to know, else Biracul would have made the nature of this Visitor apparent. Faith's confirmation comes with the presence's disappearance. A problem no more.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00152!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00151!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00152!DESCRIPTION!]
+		||
+		*Silence shatters as something rips through the space between memories... A sound, faint at first, but ever-clearer...*
 		(A#Friends' voices.){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0010!DESCRIPTION!}
 		(B#A wiseman reading sacred texts.){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0011!DESCRIPTION!}
 		(C#...){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.001!DESCRIPTION!}
 		(D#The rapid beating of my heart.){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0012!DESCRIPTION!}
 		(E#My rival's lamentations.){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0013!DESCRIPTION!}
 		(F#A maddening cry.){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0014!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00151!DESCRIPTION!/]
-	
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00152!DESCRIPTION!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!]
 		||
 		*The nostalgic spell is broken by a savage tempest, chasing Brother Sun into the darkness of Sister Midnight's bosom once more. Though, for some melancholic reason, it feels as though this time is the last.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0020!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0020!DESCRIPTION!]
 		||
 		*Then, my youthful eyes spy all the villagers taking flight, fleeing Mother's wrath towards the safety of our village, carved deep into the face of the steppe itself.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0021!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0020!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0021!DESCRIPTION!]
 		||
 		*Yet, as expected, my Self simply abides, motionless, wondering why the Forbidden Forest at the edge of the steppe now beckons me thither. That realm where none who had courage to enter would ever return from; the one where time and space now surreally warp at the whim of some unknown force - perhaps another trick of memory? 
@@ -3563,31 +3593,31 @@ Zhili Memory
 		Nevertheless, the wonder remains: why does it so fervently demand my company..?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0022!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0021!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0022!DESCRIPTION!]
 		||
 		*Unhesitatingly, my feet obey its commands and guide me towards the mist-shrouded woods.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0023!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0022!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0023!DESCRIPTION!]
 		||
 		*Approaching the edge of the steppe, just as though it were the edge of the universe itself, my sanity wavers, and my form drowns in an infinite sea of trees and fog. Though, to my disbelief, my Self finds its way... wandering this haven as if it were my very own, as if the knowledge of where each path leads had been grafted upon my Trueflesh from previous voyages.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0024!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0023!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0024!DESCRIPTION!]
 		||
 		*It is thus, by the grace of Biracul, that my ultimate destination is clear. The Torch of Awareness illuminates the way through the misty veil, allowing me to navigate the depths of the forest. Soon, my feet carry me to a paradoxically modest, yet imposing abode carved into the hardened flesh of two intertwining great oaks, grander than any trees my Self has ever witnessed since.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X003!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0024!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X003!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X004!DESCRIPTION!|
 		*Upon arrival, memory reminds me that the curtain rises, granting access to the smoky interior. A warm, orange light keeps the gluttonous shadows at bay and reveals the presence of the Seer of the Jeran Mystics, Uraklian. Her name already known to me, for is my life nothing but a closed loop? Knowledge of the end pours back into the beginning, so that it may ever renew its flow...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X1100!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X003!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X004!DESCRIPTION!]
 		|@:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.005!DESCRIPTION!|
 		*Her sudden and total silence alarms me at first. But soon it dawns on me that what Uraklian must have heard with her Awareness is Biracul's Voice ringing through me; my Falseflesh is but His instrument after all. It is evident then that He has sent Uraklian to awaken within me the Awareness of the All-Seer!
@@ -3595,8 +3625,8 @@ Zhili Memory
 		In essence, my Self no longer speaks, and Uraklian's awe shows she understands this beyond a shadow of a doubt - even though she may not be so forthcoming with her truths... In fact, she is quite reticent to accept the arrival of her destiny...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X1100!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X004!DESCRIPTION!/]
-	
-	
+
+
 post Uraklian dialogue	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.005!DESCRIPTION!]
 		||
@@ -3606,8 +3636,8 @@ post Uraklian dialogue
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.X000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.005!DESCRIPTION!/]
 
-	
-	
+
+
 URAKLIAN
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000!URAKLIAN!]
 		||
