@@ -17,11 +17,11 @@ android {
         exclude 'META-INF/robovm/ios/robovm.xml'
     }
     defaultConfig {
-        applicationId "com.ec.conscientiaOfficialTwoBook"
+        applicationId "com.ec.conscientia"
         minSdkVersion 9
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
+        versionCode 72
+        versionName "2.3"
     }
     buildTypes {
         release {

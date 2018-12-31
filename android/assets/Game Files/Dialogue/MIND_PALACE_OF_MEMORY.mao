@@ -3686,30 +3686,31 @@ URAKLIAN
 		*"Who now darkens my doorstep? Another pretender to the title of Eidos?"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.001!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.001!URAKLIAN!]
 		||
 		*"How could it not be? But more likely it is that strength for the Wyrm this impostor will become..."*
 		(A#"Who are you?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2006!URAKLIAN!}
-		(B#"I am Torma, not Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2007!URAKLIAN!}
+		(B#"I'm Torma, not Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2007!URAKLIAN!}
 		(C#"Your wait is at an end, Uraklian."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2008!URAKLIAN!}
-		(D#"...Indeed, it is I, Eidos."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2009!URAKLIAN!}
+		(D#"...Indeed, it is I, Eidos!"){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2009!URAKLIAN!}
 		(E#"State your business; I tire of your vagaries!"){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2010!URAKLIAN!}
-		(F#"Actually, I'm Stalphos Gremlinsbane, scion of Roostor."){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X002!URAKLIAN!}
+		(F#"Actually, it's Stalphos Gremlinsbane, scion of Roostor. Check it."){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X002!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.001!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X002!URAKLIAN!]
 		|@:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.X000!URAKLIAN!|
 		*"...!"*
 		(A#"...?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
-		(B#"I only speak the truth."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
-		(C#"I understand you're awestruck, Uraklian."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
-		(D#"Your silence makes communication difficult..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
+		(B#"It's true; I'm not her either."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
+		(C#"As you are, so too am I now, Uraklian."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
+		(D#"Now, what business have you with the Eidos?"){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
 		(E#"Speak, you fool!"){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
 		(F#"What? Is this your first time meeting a player? You a playa hater?"){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X002!URAKLIAN!/]
-			
-	
+
+
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.X000!URAKLIAN!]
 		||
 		*MULTICHECKER*
@@ -3720,156 +3721,150 @@ URAKLIAN
 	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.100!URAKLIAN!]
 		||
-		*"Ha! I knew it was but another truth-blind savage come by mistake, a foolish lamb come to be sacrificed!"*
+		*"Yes! I knew you were just another truth-blind savage come by mistake! A foolish lamb come to be sacrificed!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1000!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.100!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1000!URAKLIAN!]
 		||
-		*"You have no need for my name; none have need for it, anymore..."*
+		*"You have no need for my name; none have need for it, anymore."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1001!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1000!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1001!URAKLIAN!]
 		||
-		*"You will share my fate; your hubris will cast you into the shadows of your ignorance!"*
+		*"And as I am now, so too shall you be! Hubris guides you into the shadows of ignorance where the Wyrm will bind you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1002!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1001!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1002!URAKLIAN!]
 		||
-		*"Because you are no Eidos, no Prophetess! You are not chosen by the Shining One!"*
-		(A#"What was your fate, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
-		(B#"I do not pretend to be Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!}
-		(E#"Senseless prattle. I will hear no more!"){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
+		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"*
+		(A#"As you are now? What happened to you, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
+		(B#"I don't pretend to be Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!}
+		(E#"Senseless prattle. I've had just about enough of it."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1002!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.200!URAKLIAN!]
 		||
 		*"Torma? Is that the word for 'deluded fool' in your tongue?"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2000!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.200!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2000!URAKLIAN!]
 		||
-		*"You are but another truth-blind savage come by mistake, a foolish lamb come to be sacrificed!"*
+		*"You're simply just another truth-blind savage come by mistake! A foolish lamb come to be sacrificed!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2001!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2000!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2001!URAKLIAN!]
 		||
-		*"You will share my fate; your hubris will cast you into the shadows of your ignorance!"*
+		*"And as I am now, so too shall you be! Hubris guides you into the shadows of ignorance where the Wyrm will bind you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2002!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2001!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2002!URAKLIAN!]
 		||
-		*"Because you are no Eidos, no Prophetess. You are not chosen by the Shining One!"* 
-		(A#"What was your fate, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
-		(B#"I do not pretend to be Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!}
-		(C#"What makes you so certain I am not Eidos?"){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
+		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"* 
+		(A#"As you are now? What happened to you, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
+		(B#"I don't pretend to be Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!}
+		(C#"What makes you so certain I'm not Eidos?"){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2002!URAKLIAN!/]
-			
+	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.300!URAKLIAN!]
 		||
-		*"...What trick of dark magic is this?"*
+		*"...What trick of blood magic is this? Have you practiced Lady Midnight's black rituals, you fiend?!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3000!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.300!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3000!URAKLIAN!]
 		||
-		*"You who bask in hubris' shadow, the darkness of ignorance! How is it my name is known to you? Out with it!"*
-		(B#"I do not know why; I simply know it is so."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
-		(C#"By the grace of Biracul, it is known to me."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
+		*"...I doubt it. No, you merely bask in hubris' shadow, in the darkness of ignorance!"*
+		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3001!URAKLIAN!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3000!URAKLIAN!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3001!URAKLIAN!]
+		||
+		*"But how is it you know my sacred name? Out with it!"*
+		(B#"I don't know why; I simply know it is so."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
+		(C#"By Biracul's grace, it is known."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
 		(D#"...All is known to me, for I am the one true Eidos..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
 		(F#"Well, for one, I can just read your name tag..."){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.601!URAKLIAN!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3000!URAKLIAN!/]
-	
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3001!URAKLIAN!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.400!URAKLIAN!]
 		||
-		*"Eidos, you say? Many have so claimed, many have believed themselves to be the Shining One's daughter; all have been wrong."*
+		*"Eidos, you say? Many have so claimed, many have believed themselves to be the Shining One's daughter..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4000!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.400!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4000!URAKLIAN!]
 		||
-		*"They drowned in their hubris, and were consumed by the Wyrm!"*
+		*"All have been wrong."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4001!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4000!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4001!URAKLIAN!]
 		||
 		*"You are no different. You are not singular!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4002!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4001!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4002!URAKLIAN!]
 		||
 		*"You are but another truth-blind savage come by mistake, a foolish lamb come to be sacrificed!"* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4003!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4002!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4003!URAKLIAN!]
 		||
-		*"You will share my fate; your hubris will cast you into the shadows of your ignorance!"*
+		*"And as I am now, so too shall you be! Hubris guides you into the shadows of ignorance where the Wyrm will bind you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4004!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4003!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4004!URAKLIAN!]
 		||
-		*"Because you are no Eidos, no Prophetess!"*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4005!URAKLIAN!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4004!URAKLIAN!/]
-	
-	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4005!URAKLIAN!]
-		||
-		*"You are not chosen by the Shining One!"*
-		(C#"What makes you so certain I am not Eidos?"){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
+		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"*
+		(C#"What makes you so certain I'm not Eidos?"){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
 		(D#"It sounds as though you were once an 'impostor' yourself..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.401!URAKLIAN!}
-		(E#"Senseless prattle. I will hear no more!"){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4005!URAKLIAN!/]
-	
+		(E#"Jealousy is an ugly thing, but I suppose you're used to it by now..."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4004!URAKLIAN!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.500!URAKLIAN!]
 		||
-		*"I have no business with the truth-blind, no words for the disciples of the Trickster! It was you who invaded my thought space!"* 
+		*"I have no business with the truth-blind, no words for the disciples of the Lord of Tricks! It was you who invaded my thoughtscape!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5000!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.500!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5000!URAKLIAN!]
 		||
-		*"That you have come here without purpose is clear, that you will share my fate is clearer!"*
+		*"You're lost, aimless, just a wandering vagrant unaware of how foolish you are..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5001!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5000!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5001!URAKLIAN!]
 		||
-		*"Your hubris will cast you into the shadows of your ignorance!"*
+		*"But you will see... As I am now, so too will you be. Hubris guides you into the shadows of ignorance where the Wyrm will bind you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5002!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5001!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5002!URAKLIAN!]
 		||
-		*"Because you are no Eidos, no Prophetess!"*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5003!URAKLIAN!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5002!URAKLIAN!/]
-	
-	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5003!URAKLIAN!]
-		||
-		*"You are not chosen by the Shining One!"* 
-		(A#"What was your fate, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
+		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"* 
+		(A#"As you are now? What happened to you, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
 		(D#"It sounds as though you were once an 'impostor' yourself..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.401!URAKLIAN!}
-		(E#"Senseless prattle. I will hear no more!"){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5003!URAKLIAN!/]
-	
+		(E#"I have no ears for the wisdom of losers."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5002!URAKLIAN!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.600!URAKLIAN!]
 		||
-		*"...Are your designs to confuse? To distract? But to what end..?"*
+		*"...Are your designs to confuse? To beguile? Like some poorman's Lord of Tricks!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6000!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.600!URAKLIAN!/]
 	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6000!URAKLIAN!]
 		||
-		*"No! I will not think on this!"*
+		*"No! I won't be distracted!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6001!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6000!URAKLIAN!/]
 	
@@ -3881,133 +3876,139 @@ URAKLIAN
 	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6002!URAKLIAN!]
 		||
-		*"You will share my fate; your hubris will cast you into the shadows of your ignorance!"*
+		*"And as I am now, so too shall you be! Hubris guides you into the shadows of ignorance where the Wyrm will bind you!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6003!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6002!URAKLIAN!/]
 	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6003!URAKLIAN!]
 		||
-		*"Because you are no Eidos, no Prophetess!"*
-		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6004!URAKLIAN!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6003!URAKLIAN!/]
-	
-	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6004!URAKLIAN!]
-		||
-		*"You are not chosen by the Shining One!"* 
-		(A#"What was your fate, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
-		(B#"I do not pretend to be Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!}
-		(C#"What makes you so certain I am not Eidos?"){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
+		*"Because you're no Eidos, no Prophetess! You're not chosen by the Shining One!"* 
+		(A#"As you are now? What happened to you, Uraklian?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!}
+		(B#"I don't pretend to be Eidos."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!}
+		(C#"What makes you so certain I'm not Eidos?"){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
 		(D#"It sounds as though you were once an 'impostor' yourself..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.401!URAKLIAN!}
-		(E#"Senseless prattle. I will hear no more!"){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
-		(F#"Like I said: I'm Stalphos, chosen by the Feathered One."){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.601!URAKLIAN!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6004!URAKLIAN!/]
-	
-	
+		(E#"I have no ears for the wisdom of losers."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
+		(F#"I know! Like I said: I'm Stalphos, chosen by the Feathered One."){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.601!URAKLIAN!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6003!URAKLIAN!/]
+
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!]
 		||
-		*"...What trick of dark magic is this?"*
+		*"...What trick of blood magic is this? Have you practiced Lady Midnight's black rituals, you fiend?!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1010!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.101!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1010!URAKLIAN!]
 		||
-		*"You who bask in pride's shadow, the darkness of ignorance! How is it my name is known to you? Out with it!"*
-		(A#"Perhaps we have met before and I merely remembered the impression."){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.102!URAKLIAN!}
-		(B#"I do not know why; I simply know it is so."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
-		(E#"What does it matter? This conversation grows tiresome."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
-		(F#"Well, for one, I can just read your name tag..."){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.601!URAKLIAN!}
+		*"...I doubt it. No, you merely bask in hubris' shadow, in the darkness of ignorance!"*
+		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1011!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1010!URAKLIAN!/]
-	
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1011!URAKLIAN!]
+		||
+		*"But how is it you know my sacred name? Out with it!"*		
+		(A#"I have the impression we've met before."){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.102!URAKLIAN!}
+		(B#"I don't know why; I simply know it is so."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
+		(E#"What does it matter? This conversation is going nowhere."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!}
+		(F#"Well, for one, I can just read your name tag..."){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.601!URAKLIAN!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1011!URAKLIAN!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!]
 		||
 		*"Your words are at odds with your actions, fool!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2010!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.201!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2010!URAKLIAN!]
 		||
-		*"If you did not believe yourself to be the Eidos, you would not be here!"*
+		*"If you didn't believe yourself to be the Eidos, you wouldn't be here!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2011!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2010!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2011!URAKLIAN!]
 		||
 		*"But enough of this!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2012!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2011!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2012!URAKLIAN!]
 		||
-		*"When you finally arrive at Jer, as we all did before you, only then will you come to realize that words are empty and that prophecy is meaningless... The Wyrm will make this abundantly clear..."*
-		(A#"What if the Wyrm declares me to be the Eidos?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.102!URAKLIAN!}
-		(B#"What makes you so certain I am not the Eidos?"){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
-		(C#"My fate was written long ago; all is as it should be."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2011!URAKLIAN!}
+		*"When you finally arrive at Jer, as we all did before you, only then will you come to realize that words are empty... that prophecy is meaningless..."*
+		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2013!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2012!URAKLIAN!/]
-	
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2013!URAKLIAN!]
+		||
+		*"The Wyrm will make this abundantly clear..."*
+		(A#"What if the Wyrm declares me to be the Eidos?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.102!URAKLIAN!}
+		(B#"What makes you so certain I'm not the Eidos?"){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!}
+		(C#"My fate was written long ago; all is as it should be."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2011!URAKLIAN!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2013!URAKLIAN!/]
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!]
 		||
 		*"So blessed, so divine is she that she must be the chosen Prophetess! How could she not be the daughter of Biracul?!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3010!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.301!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3010!URAKLIAN!]
 		||
 		*"Bah! Even I was never this swayed by my own egotistical desires!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3011!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3010!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3011!URAKLIAN!]
 		||
 		*"No, you truly are exceptional in this regard!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3012!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3011!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3012!URAKLIAN!]
 		||
-		*"The judgment of the Wyrm will weigh heavy upon your Trueflesh, oh great charlatan!"* 
-		(B#"I will determine for myself who I am to be."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.202!URAKLIAN!}
+		*"But the judgment of the Wyrm will weigh heavy upon your Trueflesh, oh great charlatan!"* 
+		(B#"I'll determine for myself who I am."){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.202!URAKLIAN!}
 		(C#"My fate was written long ago; all is as it should be."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2011!URAKLIAN!}
-		(D#"Your envy is unbecoming, but not all can be the chosen, I suppose..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
+		(D#"You're terribly charming, aren't you..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.3012!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.401!URAKLIAN!]
 		||
 		*"Yes, I too was blinded by the mind's fire, the lust for truth... That is until I found it!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4010!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.401!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4010!URAKLIAN!]
 		||
-		*"You soar high upon the wings of your ego, yet fragile they are and hard the fall will be."*
+		*"You soar high upon the wings of your ego, yet fragile they are and hard will the fall be."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4011!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4010!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4011!URAKLIAN!]
 		||
 		*"For when you finally arrive at Jer, as we all did before you, only then will you feel the weight of your hubris, heavy upon your Trueflesh under the crushing oppresion of the Wyrm's judgment."* 
 		(C#"..."){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
-		(D#"Your envy is unbecoming, but not all can be the chosen, I suppose..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
-		(E#"This was a waste of time and I should slay you where to stand."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
+		(D#"You're terribly charming, aren't you..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
+		(E#"Maybe I should just kill you for wasting my time..."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.4011!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!]
 		||
 		*"Then by all means, proceed onwards to Jer!"* 
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5010!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.501!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5010!URAKLIAN!]
 		||
-		*"Your acts are futile, pointless. Your fate is sealed."*
+		*"Your intentions are futile! Pointless! Your fate is sealed!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5011!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5010!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5011!URAKLIAN!]
 		||
-		*"The Wyrm will destroy your Falseflesh and your passing will not be mourned."*
+		*"The Wyrm will destroy your Falseflesh and your passing will not be mourned!"*
 		(A#"What if the Wyrm declares me to be the Eidos?"){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.102!URAKLIAN!}
-		(D#"Your envy is unbecoming, but not all can be the chosen, I suppose..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
-		(E#"This was a waste of time and I should slay you where to stand."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
+		(D#"You're terribly charming, aren't you..."){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
+		(E#"Maybe I should just kill you for wasting my time..."){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.5011!URAKLIAN!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.601!URAKLIAN!]
@@ -4015,93 +4016,93 @@ URAKLIAN
 		*"...?"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6010!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.601!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6010!URAKLIAN!]
 		||
-		*"Of all the false Prophetesses to cross this threshold, you are by far the most bizarre..."*
+		*"Of all the false Prophetesses to cross this threshold, you are by far the most... unique..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6011!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6010!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6011!URAKLIAN!]
 		||
 		*"Yet your destiny remains the same; we are all the same in the end."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6012!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6011!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6012!URAKLIAN!]
 		||
 		*"Go now to Jer and accept the judgment of the Wyrm."*
 		(F#"Sure, why not? Sounds like it's the only way to progress in the story."){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.6012!URAKLIAN!/]
-	
-	
+
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.102!URAKLIAN!]
 		||
 		*"Foolhardy speculation and nothing more!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1020!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.102!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1020!URAKLIAN!]
 		||
 		*"Bah! What does it matter, for your lies will be laid bare before the Wyrm's judgment."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1021!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1020!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1021!URAKLIAN!]
 		||
 		*"Your Trueflesh will be ripped apart in the Spiral and bound for eternity."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1021!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!]
 		||
-		*"Leave now; we are finished; you are finished."*
+		*"Leave now! We're finished; you're finished."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1023!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1023!URAKLIAN!]
 		||
 		*"Neither Jer nor Kavu want you."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1024!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1023!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1024!URAKLIAN!]
 		||
-		*"And all is as it should be."*
+		*"And all is as it should be!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X9999!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1024!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.202!URAKLIAN!]
 		||
-		*"No, the Spiral has chosen who you will become before the very beginning of time itself."*
+		*"No, the Spiral has chosen who you'll become before the very beginning of time itself."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2020!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.202!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2020!URAKLIAN!]
 		||
-		*"But all of this will be made clear to you as the fog of ignorance is lifted by the harsh winds of reality..."*
+		*"But all of this will be made clear to you! The Shining One's true light will reach you soon enough..."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2021!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2020!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2021!URAKLIAN!]
 		||
 		*"When you stand before the Wyrm, you will by instinct kneel."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2022!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2021!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2022!URAKLIAN!]
 		||
-		*"When you are bound by It, you will by nature crumble."*
+		*"When you're bound by It, you will by nature crumble."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2023!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2022!URAKLIAN!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2023!URAKLIAN!]
 		||
 		*"Just as we all did."*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.1022!URAKLIAN!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!1.2023!URAKLIAN!/]
-		
-		
+
+
 
 
 
