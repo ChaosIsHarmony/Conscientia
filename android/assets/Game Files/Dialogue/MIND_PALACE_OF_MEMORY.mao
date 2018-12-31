@@ -3576,65 +3576,107 @@ Zhili Memory
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!]
 		||
-		*The nostalgic spell is broken by a savage tempest, chasing Brother Sun into the darkness of Sister Midnight's bosom once more. Though, for some melancholic reason, it feels as though this time is the last.*
+		*A savage tempest shatters the nostalgic spell, chasing Brother Sun into the darkness of Sister Midnight's bosom. Be it the Divine Storm returned to end its bloodfeud with humanity? Perhaps not, but how could we have known then?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0020!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.002!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0020!DESCRIPTION!]
 		||
-		*Then, my youthful eyes spy all the villagers taking flight, fleeing Mother's wrath towards the safety of our village, carved deep into the face of the steppe itself.*
+		*All the villagers take flight, fleeing Mother's wrath towards the safety of our village, carved deep into the face of a cliff. Though She brings the storms, the cradle She provides shelters us from harm. Mother is fair and She is wise. All is as it should be.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0021!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0020!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0021!DESCRIPTION!]
 		||
-		*Yet, as expected, my Self simply abides, motionless, wondering why the Forbidden Forest at the edge of the steppe now beckons me thither. That realm where none who had courage to enter would ever return from; the one where time and space now surreally warp at the whim of some unknown force - perhaps another trick of memory? 
-		
-		Nevertheless, the wonder remains: why does it so fervently demand my company..?*
+		*Yet, as it was then, so it is now; my Self simply abides, motionless, wondering why the Forbidden Forest at the edge of the steppe now beckons. Oh, that grim crypt for Muninns, white trunks clawing through the soil like the unearthed bones of fallen giants... Yes, that far off grove where time and space now warp at the whim of some unknown force - another trick of memory?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0022!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0021!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0022!DESCRIPTION!]
 		||
-		*Unhesitatingly, my feet obey its commands and guide me towards the mist-shrouded woods.*
+		*Nevertheless, the wonder yet remains... Why does it so fervently demand my company..?*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0023!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0022!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0023!DESCRIPTION!]
 		||
-		*Approaching the edge of the steppe, just as though it were the edge of the universe itself, my sanity wavers, and my form drowns in an infinite sea of trees and fog. Though, to my disbelief, my Self finds its way... wandering this haven as if it were my very own, as if the knowledge of where each path leads had been grafted upon my Trueflesh from previous voyages.*
+		*Unhesitatingly, my feet obey its commands and guide me towards the mist-shrouded woods.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0024!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0023!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0024!DESCRIPTION!]
 		||
-		*It is thus, by the grace of Biracul, that my ultimate destination is clear. The Torch of Awareness illuminates the way through the misty veil, allowing me to navigate the depths of the forest. Soon, my feet carry me to a paradoxically modest, yet imposing abode carved into the hardened flesh of two intertwining great oaks, grander than any trees my Self has ever witnessed since.*
-		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X003!DESCRIPTION!}
+		*Approaching the edge of the steppe, just as though it were the edge of the universe itself, my sanity wavers, and my form drowns in an infinite sea of trees and fog. Though, to my constant surprise, the path is clear as virgin springs...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0025!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0024!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X003!DESCRIPTION!]
-		|@:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X004!DESCRIPTION!|
-		*Upon arrival, memory reminds me that the curtain rises, granting access to the smoky interior. A warm, orange light keeps the gluttonous shadows at bay and reveals the presence of the Seer of the Jeran Mystics, Uraklian. Her name already known to me, for is my life nothing but a closed loop? Knowledge of the end pours back into the beginning, so that it may ever renew its flow...*
-		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X1100!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X003!DESCRIPTION!/]
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0025!DESCRIPTION!]
+		||
+		*Feet never stray, as if the knowledge of where each trail leads has been grafted upon my Trueflesh from previous forays into the Forbidden Forest.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0026!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0025!DESCRIPTION!/]
 
-	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X004!DESCRIPTION!]
-		|@:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.005!DESCRIPTION!|
-		*Her sudden and total silence alarms me at first. But soon it dawns on me that what Uraklian must have heard with her Awareness is Biracul's Voice ringing through me; my Falseflesh is but His instrument after all. It is evident then that He has sent Uraklian to awaken within me the Awareness of the All-Seer!
-		
-		In essence, my Self no longer speaks, and Uraklian's awe shows she understands this beyond a shadow of a doubt - even though she may not be so forthcoming with her truths... In fact, she is quite reticent to accept the arrival of her destiny...*
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0026!DESCRIPTION!]
+		||
+		*Thus, by the grace of Biracul, my destination is clearer than cloudless skies. The Torch of Awareness illuminates the way through the misty veil, and into the depths of the forest.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0027!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0026!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0027!DESCRIPTION!]
+		||
+		*Soon, feet carry me to a modest, yet imposing abode carved into the hardened flesh of two intertwining Muninns, grander than any trees my Self has ever witnessed since.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0028!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0027!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0028!DESCRIPTION!]
+		||
+		*Upon arrival, memory shows the entrance open, granting access to a smoky interior. A warm, orange light keeps the gluttonous shadows at bay and reveals the presence of the Seer of the Jeran Mystics...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0029!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0028!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0029!DESCRIPTION!]
+		||
+		*Uraklian.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0030!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0029!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0030!DESCRIPTION!]
+		||
+		*Her name is as familiar as kin, for is my life nothing but a closed loop? Knowledge of the end pours back into the beginning, so that it may ever renew its flow...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X0031!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0030!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X0031!DESCRIPTION!]
+		|@:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.004!DESCRIPTION!|
+		*But soon, memory of a voice interrupts these idle thoughts. Memory of a voice, but not the Voice...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X1100!DESCRIPTION!}
-	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X004!DESCRIPTION!/]
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X0031!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.004!DESCRIPTION!]
+		||
+		*Her sudden and total silence alarms me at first. Then, like rays from Brother Sun piercing stormy skies, Awareness begins to grow, casting light into the shadows... Bringing hope. Yes, this is the first time Biracul's Voice speaks through His servant, through His Eidos!*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X0040!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.004!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X0040!DESCRIPTION!]
+		|@:MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.005!DESCRIPTION!|
+		*In essence, my Self no longer speaks, only the Voice does now. Uraklian's awe shows she understands this, beyond a shadow of a doubt - though she is never so forthcoming with her truths...*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9999.X1100!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X0040!DESCRIPTION!/]
 
 
 post Uraklian dialogue	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.005!DESCRIPTION!]
 		||
-		*Kavu, the end of my voyage, the Thought Wheel of the Beginning. Though its significance remained unclear at the time, now my understanding is unclouded by the fog of ignorance. Kavu! It was, is and forever shall be my destination.
-		
-		Her message conveyed, Uraklian's form wavers until it rejoins the fragrant fumes within the abode. And just as a memory fades from consciousness leaving only a void in its wake, the forest too begins to dissipate, evaporating into an ever-thinning mist. Gently disappearing until emptiness is all that remains...*
-		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.X000!DESCRIPTION!}
+		*Kavu, the end of my voyage, the Thought Wheel of the Beginning. Though its significance remained unclear at the time, now my understanding is unclouded by the fog of ignorance. Kavu! It was, is and forever shall be my destination.*
+		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0050!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.005!DESCRIPTION!/]
+
+	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0050!DESCRIPTION!]
+		||
+		*Her message conveyed, Uraklian's form disperses, slowly, until it rejoins the fragrant fumes within her abode. And just as a memory fades from consciousness leaving only fragmented thoughts in its wake, the Forbidden Forest too begins to dissipate, white trees evaporating into an ever-thinning mist. Gently disappearing until emptiness is all that remains...*
+		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.X000!DESCRIPTION!}
+	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0050!DESCRIPTION!/]
 
 
 

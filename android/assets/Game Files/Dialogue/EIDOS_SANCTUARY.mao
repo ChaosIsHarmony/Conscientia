@@ -1003,9 +1003,9 @@ ARCHIVES
 >>>Learned awareness glyph (12400)<<<
  	[/KABU!SANCTUARY!ARCHIVES!0.X1040!DESCRIPTION!]
 		|^12400:KABU!SANCTUARY!ARCHIVES!0.105!DESCRIPTION!|
-		*Curiously, a single human shape adorns the base of the tree, seemingly entangled in its roots. A curvy, feminine form, it is apparently the macabre source of nourishment for this tree. Scanning up towards the branches, it looks as though there are more figures nestled within, though these have been almost entirely eroded away by time.
+		*Curiously, a single human shape adorns the base of the tree, seemingly entangled in its roots. A curvy, feminine form seems to be the tree's macabre source of sustenance. Scanning up towards the branches, it looks as though there are more figures nestled within, though these have been almost entirely eroded away by time.
 		
-		The sole remaining image is a circle or halo crowning the top of the tree. Within this curved shape are a great number of lines etched into the stone. Whatever this symbol is, Eidos does not recognize it.*
+		Miraculously, one image remains intact, untouched by entropy's avarice. It is a circle, or halo, crowning the top of the tree. Within this curved shape are a great number of overlapping lines etched into the stone. Whatever this symbol is, Eidos does not recognize it.*
         (A#Search the Archive){A:0,KABU!SANCTUARY!ARCHIVES!0.100!DESCRIPTION!}
         (B#Pass through the archway){B:0,KABU!SANCTUARY!ARCHIVES!10.X014!DESCRIPTION!}
 		(C#Return to the Winding Stair){C:0,KABU!SANCTUARY!WINDING STAIR!01.100!DESCRIPTION!}
@@ -1013,9 +1013,9 @@ ARCHIVES
 	
 	[/KABU!SANCTUARY!ARCHIVES!0.105!DESCRIPTION!]
 		||
-		*Curiously, a single human shape adorns the base of the tree, seemingly entangled in its roots. A curvy, feminine form, it is apparently the macabre source of nourishment for this tree. Scanning up towards the branches, it looks as though there are more figures nestled within, though these have been almost entirely eroded away by time.
+		*Curiously, a single human shape adorns the base of the tree, seemingly entangled in its roots. A curvy, feminine form seems to be the tree's macabre source of sustenance. Scanning up towards the branches, it looks as though there are more figures nestled within, though these have been almost entirely eroded away by time.
 		
-		The sole remaining image is a circle or halo crowning the top of the tree. Within this curved shape are a great number of lines etched into the stone. It is a Glyph, whose meaning now seems innately known to Eidos, a Glyph which resonates with the Sigil she received - the Sigil of Awareness.*
+		Miraculously, one image remains intact, untouched by entropy's avarice. It is a circle, or halo, crowning the top of the tree. Within this curved shape are a great number of overlapping lines etched into the stone. A Glyph, one whose meaning now seems innately known. A Glyph, one which resonates with the Sigil she received: the Sigil of Awareness.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.1050!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.105!DESCRIPTION!/]
 	
@@ -1084,7 +1084,7 @@ ARCHIVES
 >>>GOT RESSURECTION (17300)<<<
     [/KABU!SANCTUARY!ARCHIVES!0.X301!DESCRIPTION!]
         |^17300:KABU!SANCTUARY!ARCHIVES!0.301!DESCRIPTION!|
-        *The wood seems to have petrified, transforming into a pale gray rock fused with sparkling crystaline fragments. These quartz-like specks dot the tough bark and flesh of the tree, like a colorless, glassy pox. Perhaps more remarkable is that there are unmistakable wounds in the tree, as though it were struck with some kind of weapon or cutting tool. Dimly glowing emerald gashes in both trunk and root indicate how this plant may have been struck into oblivion.*
+        *The wood seems to have petrified, transforming into a pale gray rock fused with sparkling crystalline fragments. These quartz-like specks dot the tough bark and flesh of the tree, like a colorless, glassy pox. Perhaps more remarkable is that there are unmistakable wounds in the tree, as though it were struck with some kind of weapon or cutting tool. Dimly glowing emerald gashes in both trunk and root indicate how this plant may have been struck into oblivion.*
         (A#Investigate the bodies){A:0,KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!}
         (B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
         (C#Search through the tomes){C:0,KABU!SANCTUARY!ARCHIVES!0.X2000!DESCRIPTION!}
@@ -1092,7 +1092,7 @@ ARCHIVES
 	
     [/KABU!SANCTUARY!ARCHIVES!0.301!DESCRIPTION!]
         ||
-        *The wood seems to have petrified, transforming into a pale gray rock fused with sparkling crystaline fragments. These quartz-like specks dot the tough bark and flesh of the tree, like a colorless, glassy pox. Perhaps more remarkable is that there are unmistakable wounds in the tree, as though it were struck with some kind of weapon or cutting tool. Dimly glowing emerald gashes in both trunk and root indicate how this plant may have been struck into oblivion.*
+        *The wood seems to have petrified, transforming into a pale gray rock fused with sparkling crystalline fragments. These quartz-like specks dot the tough bark and flesh of the tree, like a colorless, glassy pox. Perhaps more remarkable is that there are unmistakable wounds in the tree, as though it were struck with some kind of weapon or cutting tool. Dimly glowing emerald gashes in both trunk and root indicate how this plant may have been struck into oblivion.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.302!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.301!DESCRIPTION!/]
 
@@ -1220,7 +1220,9 @@ ARCHIVES
 
 	[/KABU!SANCTUARY!ARCHIVES!10.0140!DESCRIPTION!]
 		||
-		*With each subsequent step, Eidos gains in proximity to the wash of green illumination. The light has a vivid quality to it, a sensation of the physical manifestation of a plant consuming light. Its glow pulsates softly, mimicking the regular breathing of some beast. Eidos inches ever closer until she reaches the mouth at the end of the corridor, pouring out into the next chamber.*
+		*With each subsequent step, Eidos gains in proximity to the wash of green illumination. The light has a vivid quality to it; its softly pulsating glow seems to mimick the periodic breaths of some unnatural beast.
+		
+		Eidos inches ever closer until she reaches the mouth at the end of the corridor, pouring out into the next chamber.*
 		(A#...){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!10.0140!DESCRIPTION!/]
 	
@@ -1503,7 +1505,7 @@ AWAKENING CHAMBER
 >>>Met Fenrir (12900)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!]
 		|^12900:KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!|
-		*The twinkle of reflecting light off the dark glass sparks her curiosity, drawing her ever nearer. Like a hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage. Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon her warping image is replaced with an unsettling apparition...*
+		*The twinkle of reflecting light off the dark glass sparks her curiosity, drawing her ever nearer. Though it seems hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage. Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon her warping image is replaced with an unsettling apparition...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X051!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!/]
 
@@ -1516,7 +1518,7 @@ AWAKENING CHAMBER
 >>>Fenrir consumes you (20000)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!]
 		|^20000:KABU!SANCTUARY!AWAKENING CHAMBER!10.X000!DESCRIPTION!|
-		*Eidos looks into the glass once more, expecting a sign. But the ravenous Fenrir does not reappear. Nor does Eidos reappear, for that matter. Nothing from the chamber reflects in the pitch darkness of the glass. She now stares into a greedy singularity, ever-taking, never-giving.*
+		*She looks into the glass once more, expecting... something. But the ravenous Fenrir does not reappear. Nor does Eidos' reflection even reappear. Nothing shines on that once reflective surface. No light survives its pitch darkness. Eidos now stares into a greedy singularity, ever-taking, never-giving.*
 		(A#Approach the immaculate white door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#Approach the murky indigo door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 		(C#Examine the platform){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!}
@@ -1525,9 +1527,7 @@ AWAKENING CHAMBER
 >>>Learned Farcaster glyph (12403)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!]
 		|^12403:KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!|
-		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals. And at its center is a Glyph, one whose meaning Eidos does not yet know - or, perhaps, no longer does.
-		
-		A Glyph? Indeed, she remembers at least this much in the absence of memory.*
+		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
 		(A#Examine the door of immaculate white){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#Examine the door of murky indigo){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 		(C#Peer into the glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1536,7 +1536,7 @@ AWAKENING CHAMBER
 >>>Used Farcaster (12007)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!]
 		|^12007:KABU!SANCTUARY!AWAKENING CHAMBER!0.062!DESCRIPTION!|
-		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals. And at its center is a Glyph. It speaks to her as a child to its mother, calling for the Sigil Eidos carries to speak its name...*
+		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. The device speaks to her as a child to its mother, calling for the Sigil Eidos carries to speak its name...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0610!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!/]
 		
@@ -1635,7 +1635,7 @@ been here before
 >>>Glyph of Farcasting (12403)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.X060!DESCRIPTION!]
 		|^12403:KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!|
-		*Eidos crouches, running her hands along the polished, silvered surface etched with a dizzying array of lines, curves and spirals. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. At the center of the design is a Glyph, one whose meaning Eidos does not yet know - or, perhaps, no longer knows.*
+		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
 		(A#Examine the door of immaculate white){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!}
 		(B#Examine the door of murky indigo){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X031!DESCRIPTION!}
 		(C#Peer into the glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1654,7 +1654,7 @@ been here before
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!10.000!DESCRIPTION!]
 		||
-		*Eidos looks into the glass once more, expecting a sign. But the ravenous Fenrir does not reappear. Nor does Eidos reappear, for that matter. Nothing from the chamber reflects in the pitch darkness of the glass. She now stares into a greedy singularity, ever-taking, never-giving.*
+		*She looks into the glass once more, expecting... something. But the ravenous Fenrir does not reappear. Nor does Eidos' reflection even reappear. Nothing shines on that once reflective surface. No light survives its pitch darkness. Eidos now stares into a greedy singularity, ever-taking, never-giving.*
 		(A#Approach the immaculate white door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#Approach the murky indigo door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 		(C#Examine the platform){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!}
@@ -1662,7 +1662,9 @@ been here before
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!10.001!DESCRIPTION!]
 		||
-		*Eidos looks into the glass once more, expecting a sign. But the ravenous Fenrir does not reappear. Nor does Eidos reappear, for that matter. Nothing from the chamber appears to reflect in the pitch darkness of the glass. Instead, the darkness within simply stares back at her. The more intently she looks, the more she feels the hypnotic gaze of some unseen eyes, watching, weighing, deciding...*
+		*She looks into the glass once more, expecting... something. But the ravenous Fenrir does not reappear. Nor does Eidos' reflection even reappear. Nothing shines on that once reflective surface. No light survives its pitch darkness. Eidos now stares into a greedy singularity, ever-taking, never-giving.
+
+		Yet, within the abyss, a presence lurks, stalking her with the hypnotic gaze of its unseen eyes, watching, weighing, deciding...*
 		(A#Continue staring into the abyssal darkness){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!10.002!DESCRIPTION!}
 		(B#Examine the door of murky indigo){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X031!DESCRIPTION!}
 		(C#Examine the door of immaculate white){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!}
@@ -1737,7 +1739,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.3000!FENRIR!]
 		||
-		*"For only in kinship to its brother rooms can one room known be. These brothers too in a single Sanctuary dwell. Their dwelling, in turn, upon the Jenowin Plain rests. But all this little means... absent awareness."*
+		*"For only in kinship to its brother rooms can one room known be. These brothers, too, in a single Sanctuary dwell, their dwelling itself upon the Jenowin Plain resting. But all this little means... absent awareness."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.3001!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.3000!FENRIR!/]
 
@@ -1868,7 +1870,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.3011!FENRIR!]
 		||
-		*"If your nature with it resonates, perhaps its key I can you give. Though freely given this help be, on your instinct alone does its acceptance depend."*
+		*"If your nature with it resonates, perhaps its key I can you give. Though freely given this help be, on your instinct alone does its acceptance rely."*
 		(A#"My instinct tells me to find my own way."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-1!FENRIR!}
 		(B#"Sure, I'll accept your help. Why not?"){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12900-2!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.3011!FENRIR!/]
@@ -2993,7 +2995,9 @@ LUIN'S CHAMBER
 >>>Met Luin (12001)<<<
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.X0000!DESCRIPTION!]
 		|^12001:KABU!SANCTUARY!LUIN'S CHAMBER!0.X009!DESCRIPTION!|
-		*Seeking the source of ethereal light, Eidos enters a tetrahedral chamber. Three sides slanted in on each other make up the walls with another acting as the floor. Reflective panels arranged on a grid cover all four surfaces like the scales of a silver serpent. The chamber itself is small, the ceiling merely twice her height and the width spanning but five paces outward from the center. Gaze now set upon the middle of the room, Eidos notices that the emerald light pervading this room emanates from a crystal, suspended midair as though in some invisible, viscous fluid. Beyond it, a familiar dark glass adorns the wall, embedded at one of the intersections to the myriad reflective tiles.*
+		*Seeking the source of ethereal light, Eidos enters a tetrahedral chamber. Three sides angled in on each other make up the walls, tapering severely high above. Reflective panels arranged on a grid cover all four surfaces like the scales of a silver serpent. The chamber itself is small, the width spanning but five paces outward from the center, though the ceiling might well be five times Eidos' height.
+		
+		Her gaze now set upon the middle of the room, she see the emerald light pervading the room emanates from a crystal. The shimmering object is suspended midair as though in some invisible, viscous fluid. Beyond it, a familiar dark glass adorns the wall, embedded chest-high at one of the intersections to the myriad reflective tiles.*
 		(A#Peer into the dark glass){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X001!DESCRIPTION!}
 		(B#Return to the corpse-strewn Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!}
 		(C#Examine the green crystal){C:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.900!DESCRIPTION!}
@@ -3031,7 +3035,7 @@ LUIN'S CHAMBER
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.908!DESCRIPTION!]
 		||
-		*In a violent stroke of unchecked madness, Eidos strikes at the crystal's fragile exterior, beating it until thin fissures appear on its polished surface. The glass crackles like crystalline rain drops impacting metal, heralding the advent of catastrophe.*
+		*In a violent stroke of unchecked madness, Eidos strikes at the crystal's fragile exterior, beating it until thin fissures appear on its polished surface. The glass crackles like crystalline raindrops, heralding the advent of catastrophe.*
 		(A#...){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X9080!DESCRIPTION!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.908!DESCRIPTION!/]
 

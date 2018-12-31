@@ -64,13 +64,13 @@ VANARGAND
 
 	[/MIND!NETHER EDGE!ATELIER!1.001!VANARGAND!]
 		||
-		*"Your child failed to achieve either of our ends; and thus it is that we must accept our fates..."*
+		*"Your child failed to achieve either of our ends... and thus it is that we must accept our fates."*
 		(A#"..."){A:0,MIND!NETHER EDGE!ATELIER!1.002!VANARGAND!}
 	[MIND!NETHER EDGE!ATELIER!1.001!VANARGAND!/]
 
 	[/MIND!NETHER EDGE!ATELIER!1.002!VANARGAND!]
 		||
-		*"...and sink into the oblivion of Conscientia."*
+		*"Now we sink ever further into the oblivion Conscientia promises."*
 		(A#"..."){A:0,MIND!NETHER EDGE!ATELIER!9999.X9999!VANARGAND!}
 	[MIND!NETHER EDGE!ATELIER!1.002!VANARGAND!/]
 
@@ -96,28 +96,32 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!0.0001!DESCRIPTION!]
 		||
-		*In a moment that lasts the span of a thought, a lifetime, an eon, Eidos regains awareness of Self and surroundings. The sound of water reaches the mind without need for ears. A rush of vibrant green grass and a cloudless blue sky flash across her consciousness without need for eyes. The earthy smells of soil, leaves and flowers drift through the air, a supernatural sweetness the result, all despite lacking a nose with which to sniff. For now, her Self simply perceives, independent of its missing senses.
+		*In the span of a thought or perhaps an eon, Eidos regains awareness of Self and surroundings. The subtle sound of water. A rush of vibrant colors. A perfume befitting nature.
 		
-		Standing atop a Farcaster seal, encircled by the trees in a forest clearing her Self feels every blade of grass carpeting the ground. The extensions of life are fed  by the water of a babbling brook and the rays of a light too pure to be natural. Casting awareness skyward, her Self sees a radiant crystal showering the surroundings with light. Wherever this is, it is not of nature’s design.*
-		(A#Enter the wilderness){A:0,MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!}
+		Standing atop a Farcaster seal, Eidos' Self is now amidst a forest clearing. Eyes see the glade is carpeted in lush, emerald grasses, nearly knee-high, but with an uncanny uniformity. A flowing stream wends its way among the gently swaying trees - invisible to sight, but the ears reveal as much. The earthy smells of soil, leaves and flowers drift through the air, a musky sweetness the result.
+		
+		But nature's design it is not, for it is all too perfect. Casting awareness skyward, eyes see a radiant crystal showering the surroundings with unnatural light, too pure, too distilled. The trees they bathe have subtle patterns, too regular to be chance.*
+		(A#Enter the false wilderness){A:0,MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!}
 		(B#Use the Farcaster){B:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0001!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!]
 		||
-		*Walking from the seal, looking all about, her Self takes in the details of the surroundings. Outside of this clearing trees grow wildly. Diminutive saplings are dwarfed and choked by old greatwoods. Trees felled by age lie rotting on the forest floor, giving rise to mushrooms, vines and crawling life. As her Self peers into the deeper parts of the wood, carpets of moss and leaves reveal themselves in the encroaching darkness of the forest canopy.*
+		*Walking from the seal, looking all about, her Self takes in the details of the surroundings. Outside of this clearing trees grow wildly. Diminutive saplings are dwarfed and choked by old greatwoods. Trees felled by age lie rotting on the forest floor, giving rise to mushrooms, vines and crawling life. As her Self peers into the deeper parts of the wood, carpets of moss and leaves vanish into the encroaching darkness of the forest canopy.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!]
 		||
-		*Attention now turning from the woods and towards the babbling stream, her Self observes the flow as it empties itself into a deep pool over a diminutive waterfall. Dragonflies hover above lillies floating heedlessly at the waterside. Toads croak their atonal chorus. But soon, another sound enters her Self's awareness, that of the rhythmic snipping of shears...*
+		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a diminutive waterfall not too far off. Dragonflies hover above lillies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
+		
+		But soon, another sound enters her Self's awareness: the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!]
 		||
-		*Instinctively walking towards the sound's source, Eidos' Self notes an elderly man tending to a cluster of bushes and shrubs. Briefly observing his labors, her Self discovers that his tools bring forth unusual changes in the plants. For instance, upon cutting a limb from one location, another grows elsewhere to replace it. Tying collections of twigs together results in fusions bringing forth rapidly blossoming flowers. Cut branches are sometimes attached to other limbs or to the stems of neighboring growths; otherwise, they drop to the ground where they rapidly wither, decay and disappear.*
+		*Her Self, in pursuing the sound's source, comes upon an elderly man tending to a cluster of bushes and shrubs. His tools bring forth unusual changes in the plants. Cutting a limb from one location, makes another grow elsewhere to replace it. Tying collections of twigs together results in fused branches, with flowers rapidly blossoming from their tips. Pruned branches are sometimes attached to other trunks or to the stems of neighboring growths. Otherwise, they fall to the ground where they rapidly wither, decay and rejoin the soil.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.X0005!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!/]
 
@@ -131,7 +135,9 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!0.0010!DESCRIPTION!]
 		||
-		*Nargund returns to his work signaling that it is time for Eidos' Self to leave. While walking back toward the Farcaster, the scenery shifts so much that it would be near impossible to stay the course in the ever-changing labyrinth of trees and shrubs. Though, surprisingly, the path is evident - indeed, innate - to her Self, remaining fixed in this metamorphic swirl of growth. In short order, her Self has returned to the Farcaster whence she arrived.*
+		*Nargund returns to his work signaling that it is time for his visitor to leave. While walking back toward the Farcaster, the scenery shifts. Any sense of familiarity has vanished in this ever-changing labyrinth of trees and shrubs. Though, surprisingly, the path is evident - indeed, innate - to her Self, remaining fixed in this maelstrom of growth.
+		
+		In short order, the Farcaster appears, waiting patiently in its lonely glade.*
 		(A#Return to and use the Farcaster){A:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0010!DESCRIPTION!/]
 
@@ -166,26 +172,32 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!10.0001!DESCRIPTION!]
 		||
-		*In a moment that may have lasted the span of a thought or an eon, Eidos regains awareness of Self and surroundings. The sound of water. A rush of vibrant green color. A blue sky.	Standing atop a Farcaster seal, Eidos' Self is now amidst a forest clearing. Grass surrounds her Self's immediate vicinity, though a flowing stream is visible just through the branches of some gently swaying trees. The earthy smells of soil, leaves and flowers drift through the air, a musky sweetness the result.*
-		(A#Enter the wilderness){A:0,MIND!NETHER EDGE!GARDEN!10.0002!DESCRIPTION!}
+		*In the span of a thought or perhaps an eon, Eidos regains awareness of Self and surroundings. The subtle sound of water. A rush of vibrant colors. A perfume befitting nature.
+		
+		Standing atop a Farcaster seal, Eidos' Self is now amidst a forest clearing. Eyes see the glade is carpeted in lush, emerald grasses, nearly knee-high, but with an uncanny uniformity. A flowing stream wends its way among the gently swaying trees - invisible to sight, but the ears reveal as much. The earthy smells of soil, leaves and flowers drift through the air, a musky sweetness the result.
+		
+		But nature's design it is not, for it is all too perfect. Casting awareness skyward, eyes see a radiant crystal showering the surroundings with unnatural light, too pure, too distilled. The trees they bathe have subtle patterns, too regular to be chance.*
+		(A#Enter the false wilderness){A:0,MIND!NETHER EDGE!GARDEN!10.0002!DESCRIPTION!}
 		(B#Use the Farcaster){B:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!10.0001!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!10.0002!DESCRIPTION!]
 		||
-		*Walking from the seal, looking all about, her Self takes in the details of the surroundings. Outside of this clearing trees grow wildly. Diminutive saplings are dwarfed and choked by old greatwoods. Trees felled by age lie rotting on the forest floor, giving rise to mushrooms, vines and crawling life. As her Self peers into the deeper parts of the wood, carpets of moss and leaves reveal themselves in the encroaching darkness of the forest canopy.*
+		*Walking from the seal, looking all about, her Self takes in the details of the surroundings. Outside of this clearing trees grow wildly. Diminutive saplings are dwarfed and choked by old greatwoods. Trees felled by age lie rotting on the forest floor, giving rise to mushrooms, vines and crawling life. As her Self peers into the deeper parts of the wood, carpets of moss and leaves vanish into the encroaching darkness of the forest canopy.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!10.0003!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!10.0002!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!10.0003!DESCRIPTION!]
 		||
-		*Attention now turning from the woods and towards the babbling stream, her Self observes the flow as it empties itself into a deep pool over a diminutive waterfall. Dragonflies hover above lillies floating heedlessly at the waterside. Toads croak their atonal chorus. But soon, another sound enters her Self's awareness, that of the rhythmic snipping of shears...*
+		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a diminutive waterfall not too far off. Dragonflies hover above lillies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
+		
+		But soon, another sound enters her Self's awareness: the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!10.0004!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!10.0003!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!10.0004!DESCRIPTION!]
 		||
-		*Instinctively walking towards the sound's source, Eidos' Self notes an elderly man tending to a cluster of bushes and shrubs. Observes his labors, her Self discovers that his tools bring forth unusual changes in the plants. For instance, upon cutting a limb from one location, another grows elsewhere to replace it. Tying collections of twigs together results in fusions bringing forth rapidly blossoming flowers. Cut branches are sometimes attached to other limbs or to the stems of neighboring growths; otherwise, they drop to the ground where they rapidly wither, decay and disappear.*
+		*Her Self, in pursuing the sound's source, comes upon an elderly man tending to a cluster of bushes and shrubs. His tools bring forth unusual changes in the plants. Cutting a limb from one location, makes another grow elsewhere to replace it. Tying collections of twigs together results in fused branches, with flowers rapidly blossoming from their tips. Pruned branches are sometimes attached to other trunks or to the stems of neighboring growths. Otherwise, they fall to the ground where they rapidly wither, decay and rejoin the soil.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!10.X0005!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!10.0004!DESCRIPTION!/]
 
