@@ -16,7 +16,7 @@ ARBORETUM
 
 	[/KABU!DAZIR!ARBORETUM!0.001!DESCRIPTION!]
 		||
-		*Bones and sinew scream in anguish as they are rebuilt from the life-fire of the Nether Edge. The light dims and Eidos feels that she now stands knee deep in water. Lowering her gaze, she finds that she is indeed standing upon a submerged Farcaster seal, however it looks as if a white marble fountain has been constructed around it.*
+		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the Nether Edge. The light dims and Eidos feels that she now stands knee deep in water. Lowering her gaze, she finds that she is indeed standing upon a submerged Farcaster seal, however it looks as if a white marble fountain has been constructed around it.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!0.0010!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!0.001!DESCRIPTION!/]
 

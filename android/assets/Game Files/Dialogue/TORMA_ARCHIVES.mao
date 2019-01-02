@@ -5,45 +5,65 @@ CRYPT OF THE ARCHONS
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!DESCRIPTION!/]
-	
-	
+
+
 acq glyph of Prime Archon prev
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!DESCRIPTION!]
 		||
-		*Bones and sinew scream in anguish as they are rebuilt from the life-fire of the ether. Ormenos now stands upon a copper disk in this dusty chamber, confronted with the cold, glaring eyes of hundreds of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
+		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the ether. Ormenos now stands upon a copper disk in a dusty chamber. Here he is confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!]
 		||
-		*Moving forward from the platform, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.*
+		*Relics from the exodus of Thiuda lay scattered about, three to every Neverborn at least. Some on desks equally ancient, others on shelves, and still some to large to be housed in any casing. Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the circle of scattered bones decorating this one's base. The second is simpler, and perhaps less grim: an altar, with incense yet burning in its brazier.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
-		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!}
+		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!/]	
-	
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!]
+		||
+		*Shock and confusion compete for his attention. For though filled with trepidation, with utter terror, he somehow still feels compelled to stand upon the dais...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0020!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0020!DESCRIPTION!]
+		||
+		*Increduously, he advances towards it; reluctantly, he steps upon it.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0021!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0020!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0021!DESCRIPTION!]
+		||
+		*A blinding light cascades down from the ceiling, showering his form in rays of the purest white and forcing the sharpness of surrounding objects far into the shadowy background. He now sees nothing but the pillar of light in which he stands. He brings his hands up to his eyes, yet even they are invisible to him. Closer, closer, ever-closer, he keeps halving the distance, over and over, yet never reaching his face.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0022!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0021!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0022!DESCRIPTION!]
+		||
+		*Uncertain. Afraid. Alone. He stands surrounded by an all-consuming light, this in turn surrounded by an insatiable darkness. He wants to shriek, but fear strangles the sound into a pathetic squeal.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0022!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0020!DESCRIPTION!|
-		*Ormenos apprenhensively follows his gut impulse to stand upon the dais by cautiously advancing towards it and gently raising himself upon it.
-		
-		A brilliant flash of light cascades down from the ceiling, bathing his form in effulgence and forcing the sharpness of surrounding objects far into the shadowy background. Ormenos sees nothing but the pillar of light in which he stands, not even his own hands are visible to him now. Alone he stands surrounded by an all-consuming light, which is in turn surrounded by an insatiable darkness.
-		
-		Then, cracking like thunder - the awful prelude to nature's fury - resounds the voice of a Thought Wheel, capturing Ormenos' undivided attention.*
+		*Then, shattering the silence like distant thunder - the awful prelude to nature's fury - the voice of a Thought Wheel, captures Ormenos' undivided attention.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X1214!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!/]
-	
+
 >>>Pass test in Cipher of Prime Archon (2037)<<<
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0020!DESCRIPTION!]
 		|^2037:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0022!DESCRIPTION!|
-		*The light gains in warmth at an exponential rate until it begins to melt the skin from Ormenos' Falseflesh, exposing the sensitive skeletal musculature to the sting of the outside air. But this too vanishes in time along with any and all organs.*
+		*Executors final words echo out across the chamber, each dying repetition seeming to heat the room. Soon, bubbles of air form beneath Ormenos' skin, bursting when they exceed capacity. Blood evaporates instantly upon contact with the air. Muscles begin to melt and bones dissolve, yet somehow he feels no pain - a small mercy.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00200!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0020!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00200!DESCRIPTION!]
 		||
-		*The secrets of the ancients yet belong to the realm of the unknown for now. But in time, the chaos that directed Ormenos once again returns to the eternal spiral, simply waiting to be spun once more into the tapestry of Falseflesh...*
+		*Ormenos could not extract the secrets of the ancients from the realm of the unknown. He is no more. But the chaos that directed this vessel returns again to the Eternal Spiral, simply waiting to be spun once more into the tapestry of Falseflesh...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0021!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00200!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0021!DESCRIPTION!]
 		||
 		*~ac*
@@ -54,48 +74,60 @@ acq glyph of Prime Archon prev
 		(E#WULFIAS){E:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
 		(F#EIDOS){F:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0021!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0022!DESCRIPTION!]
 		||
-		*Worthy, but for what cause? Ormenos has no dearth of knowledge, but he finds himself now lacking in awareness for he has only the slightest of inklings as to the significance of what he has just accomplished.
-		
-		Light innudates the chamber as the once listless Neverborn now so brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent rigidity. Yet, in this timeless moment of sublime bewilderment, Ormenos barely notices the walls parting behind the sentries revealing a tunnel burrowing into the unknown depths of the Enclave.
-		
-		He cannot explain why, but every fibre of his being now warns him against entering this abyssal path to truth; for sights once seen cannot be forgotten.*
+		*Worthy, but for what cause? Ormenos has no dearth of knowledge, but he finds himself now lacking in awareness - for he has only the slightest of inklings as to the significance of what he has just accomplished...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00220!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0022!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00220!DESCRIPTION!]
+		||
+		*Light innudates the chamber as the once listless Neverborn now so brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent approval. Yet, in this timeless moment of sublime bewilderment, Ormenos barely notices the walls parting behind the sentries, a tunnel burrowing into the unknown depths of the Enclave beyond.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00221!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00220!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00221!DESCRIPTION!]
+		||
+		*He cannot explain why, but every fiber of his being now warns him against entering this abyssal path to truth - for sights once seen can never be forgotten.*
 		(A#Peer into the abyss){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0023!DESCRIPTION!}
 		(B#Flee in ignorance){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0022!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00221!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0023!DESCRIPTION!]
 		||
-		*Even in the grips of terror, at the edge of madness, Ormenos, possessed by some unknown will, draws up the strength to enter the tenebrous chasm which promises to swallow him, ghost and all.*
+		*Even in the grips of terror, at the edge of madness, Ormenos still moves forward. Possessed by some unknown will, he draws up the strength to enter the tenebrous chasm, and slowly it swallows him, ghost and all.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X19000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0023!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!]
 		||
-		*In the grips of terror and at the edge of madness, Ormenos, as if guided by some higher power, reels in fear from the tenebrous chasm which promises to swallow him, ghost and all. This instinct is what has kept him alive during his horrifying investigations of some of the most perverse minds the Enclave had detained for Thought Draining. This is why he is so good at what he does.
-		
-		He runs for his life and does not look back.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2034!DESCRIPTION!}
+		*At the edge of madness, Ormenos reels in fear from the tenebrous chasm. This instinct is what has kept him alive during his horrifying investigations. It is what helped him survive some of the most perverse minds the Enclave has ever detained for Thought Draining. He knows, this is why he is so good at what he does.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00240!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00240!DESCRIPTION!]
+		||
+		*Giving himself over to instinct, he runs for his life, time and space blurring as his Falseflesh flies to safety. Ormenos will not come out again, not until his body finds safety.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2034!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00240!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!]
 		||
 		*Caked in the accumulated wax of countless generations, the altar is the onyx palm of a giant with each of its six fingers boasting cloudy jade fingernails. A ceremonial candle burns at the center with an undying, unflinching flame.
 		
 		Just who or what this altar venerates is uncertain, but whatever the object of worship may be, it was likely invaluable to the Order's Thiudan ancestors. The very fact that any religious rites or altars exist in their fiercely materialistic civilization speaks volumes to how highly they must have valued it.*
-		(A#Step upon the dais){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!}
+		(A#Step upon the dais){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.004!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.004!DESCRIPTION!]
 		||
 		*Confusion, disillusion, consternation and myriad other perturbing emotions tug at the threads of Ormenos' sanity. He is not ready for the abhorrent secrets this dark place may hold. Indeed, merely remaining in the maddening silence of this chamber threatens to dismantle the mage's lucidity.*
 		(A#_Use the Glyph of Nearcasting_){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2097!DESCRIPTION!}
 		(F#Inspect the room once more...){F:1,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X005!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.004!DESCRIPTION!/]
-	
+
 >>>Have Fenrir (2050)<<<
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X005!DESCRIPTION!]
 		|^2050:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0050!DESCRIPTION!|
@@ -103,7 +135,7 @@ acq glyph of Prime Archon prev
 		
 		Moving forward from the platform, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
-		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!}
+		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X005!DESCRIPTION!/]
 	
 >>>Acquired Archon list (2096)<<<
@@ -113,7 +145,7 @@ acq glyph of Prime Archon prev
 		
 		Casting his gaze about, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
-		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!}
+		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 		(C#Absorb crystal){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2096!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0050!DESCRIPTION!/]
 	
@@ -123,7 +155,7 @@ acq glyph of Prime Archon prev
 		
 		Ormenos' Trueflesh crawls with the thoughts he now perceives. Battles centuries old, an exodus, a new beginning, death, struggle, hope. A silent war rages on, as it has ever since the downfall of the Vanquished, Biracul and the Masters on opposing sides; and the Enclave somehow caught in the middle. All his life, Ormenos pursued knowledge and, above all else, truth. But for the first time, he has started to regret walking this path.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
-		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!}
+		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 		(C#Leave){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.004!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!/]
 	
@@ -133,14 +165,14 @@ acq glyph of Prime Archon prev
 		
 		Casting his gaze about, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
-		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X002!DESCRIPTION!}
+		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!/]
 	
 	
 came in with Babel after confronting him with knowledge of Pr Ar
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X001!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!|
-		*Bones and sinew scream in anguish as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper platform in this dusty chamber. They are confronted with the cold, glaring eyes of hundreds of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.
+		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper platform in this dusty chamber. They are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.
 		
 		Moving forward from the platform, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.
 		

@@ -11,70 +11,68 @@ import com.ec.conscientia.variables.ConscientiaVar;
 
 public class Conscientia extends Game {
 
-	private SoundManager soundManager;
-	private FileIOManager fileRW;
-	private boolean useAltFont = false;
-	private ConscientiaVar conscientiaVar;
+    private SoundManager soundManager;
+    private FileIOManager fileRW;
+    private boolean useAltFont = false;
+    private ConscientiaVar conscientiaVar;
 
-	@Override
-	public void create() {
-		soundManager = new SoundManager();
-		fileRW = new FileIOManager(this);
-		conscientiaVar = new ConscientiaVar();
-		
-		// Testing suite
-		// Tests test = new Tests(this);
-		// test.runTests();
+    @Override
+    public void create() {
+        soundManager = new SoundManager();
+        fileRW = new FileIOManager(this);
+        conscientiaVar = new ConscientiaVar();
 
-		// actBook(CommonVar.BIR);
-		actBook(CommonVar.EID);
-		// actBook(CommonVar.RIK);
-		// actBook(CommonVar.THE);
-		actBook(CommonVar.TOR);
-		// actBook(CommonVar.WUL);
+        // Testing suite
+//		Tests test = new Tests(this);
+//		test.runTests();
+//        setScreen(new MainGameScreen(true, CommonVar.TOR, soundManager, this, true));
 
-		// change to MainMenu
-		changeScreen(CommonVar.MAIN_MENU, true, 0);
-	}
+        // actBook(CommonVar.BIR);
+        actBook(CommonVar.EID);
+        // actBook(CommonVar.RIK);
+        // actBook(CommonVar.THE);
+        actBook(CommonVar.TOR);
+        // actBook(CommonVar.WUL);
 
-	public void changeScreen(int screen, boolean tORf, int bookID) {
-		switch (screen) {
-		case CommonVar.MAIN_MENU:
-			setScreen(new MainMenuScreen(tORf, soundManager, this));
-			break;
-		case CommonVar.END_CREDITS:
-			setScreen(new EndCreditsScreen(soundManager, this));
-			break;
-		case CommonVar.MAIN_GAME:
-			if (tORf) {
-				setScreen(new MainGameScreen("new game", bookID, soundManager, this));
-			} else
-				setScreen(new MainGameScreen("load game", bookID, soundManager, this));
-			break;
-		case CommonVar.LOAD_SCREEN:
-			setScreen(new LoadScreen(soundManager, this));
-			break;
-		}
-	}
+        // change to MainMenu
+        changeScreen(CommonVar.MAIN_MENU, true, 0);
+    }
 
-	private void actBook(int book) {
-		fileRW.writer.actBook(book);
-	}
+    public void changeScreen(int screen, boolean tORf, int bookID) {
+        switch (screen) {
+            case CommonVar.MAIN_MENU:
+                setScreen(new MainMenuScreen(tORf, soundManager, this));
+                break;
+            case CommonVar.END_CREDITS:
+                setScreen(new EndCreditsScreen(soundManager, this));
+                break;
+            case CommonVar.MAIN_GAME:
+                setScreen(new MainGameScreen(tORf, bookID, soundManager, this, false));
+                break;
+            case CommonVar.LOAD_SCREEN:
+                setScreen(new LoadScreen(soundManager, this));
+                break;
+        }
+    }
 
-	@Override
-	public void render() {
-		super.render();
-	}
+    private void actBook(int book) {
+        fileRW.writer.actBook(book);
+    }
 
-	public boolean isUseAltFont() {
-		return useAltFont;
-	}
+    @Override
+    public void render() {
+        super.render();
+    }
 
-	public void setUseAltFont(boolean tORf) {
-		useAltFont = tORf;
-	}
+    public boolean isUseAltFont() {
+        return useAltFont;
+    }
 
-	public ConscientiaVar getConscVar() {
-		return conscientiaVar;
-	}
+    public void setUseAltFont(boolean tORf) {
+        useAltFont = tORf;
+    }
+
+    public ConscientiaVar getConscVar() {
+        return conscientiaVar;
+    }
 }

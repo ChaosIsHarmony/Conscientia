@@ -1392,7 +1392,7 @@ FARCASTER CHAMBER
 >>>Cage floor exploded (11420)<<<
 	[/KABU!WELLSPRING!FARCASTER CHAMBER!0.X000!DESCRIPTION!]
 		|^11420:KABU!WELLSPRING!FARCASTER CHAMBER!1.000!DESCRIPTION!|
-		*Bones and sinew scream in anguish as they are rebuilt from the life-fire of the Nether Edge. When the light dies, Eidos is plunged into the murky shadows of a dimly lit chamber. She is immediately buffeted from all sides by gusts of wind, driving her from the metallic surface of the Farcaster seal. The gale appears to originate from the room’s missing wall.
+		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the Nether Edge. When the light dies, Eidos is plunged into the murky shadows of a dimly lit chamber. She is immediately buffeted from all sides by gusts of wind, driving her from the metallic surface of the Farcaster seal. The gale appears to originate from the room’s missing wall.
 		
 		Moving forward towards the opening and looking down, she sees tiny pinpoints of light, shimmering within the tenebrous surface below. They stare at her like myriad eyes watching her every move. Yet soon the illusion is dispelled, as Eidos notices their unnatural swaying motion, she sees the reflection for what it is. These are the light of the stars mischievously misguiding their observers into a reflecting pool. Canting her head skywards, she confirms her suspicions as she finds a band of sky snaking through the canopy of shadows overhead.*
 		(A#...){A:0,KABU!WELLSPRING!FARCASTER CHAMBER!0.001!DESCRIPTION!}
@@ -1419,7 +1419,7 @@ FARCASTER CHAMBER
 
 	[/KABU!WELLSPRING!FARCASTER CHAMBER!1.000!DESCRIPTION!]
 		||
-		*Bones and sinew scream in anguish as they are rebuilt from the life-fire of the Nexus. When the light dies, Eidos sees that she stands within the Farcaster Chamber of the Wellspring once more.
+		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the Nexus. When the light dies, Eidos sees that she stands within the Farcaster Chamber of the Wellspring once more.
 		
 		She is once again faced by the immense ravine dividing the Wellspring in two. The doorway opposite the ravine is not as it once was, though. It now billows thin streams of ash and smoke from its gaping maw, like a horizontal chimney.*
 		(A#Enter the adjacent room){A:0,KABU!WELLSPRING!THE CAGE!0.X000!DESCRIPTION!}
