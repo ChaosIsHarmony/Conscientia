@@ -114,7 +114,7 @@ acq glyph of Prime Archon prev
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!]
 		||
-		*Caked in the accumulated wax of countless generations, the altar is the onyx palm of a giant with each of its six fingers boasting cloudy jade fingernails. A ceremonial candle burns at the center with an undying, unflinching flame.
+		*Cautiously, Ormenos approaches the strange altar. Six digits rise skyward from the a giant palm of solid onyx, curving inwards at their tips. Cloudy jade fingernails each host candles burning with undying and unflinching flames. Red wax flows down the nails' gentle slopes, dripping towards the palm, but vanishing before ever reaching it.
 		
 		Just who or what this altar venerates is uncertain, but whatever the object of worship may be, it was likely invaluable to the Order's Thiudan ancestors. The very fact that any religious rites or altars exist in their fiercely materialistic civilization speaks volumes to how highly they must have valued it.*
 		(A#Step upon the dais){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
@@ -123,7 +123,7 @@ acq glyph of Prime Archon prev
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.004!DESCRIPTION!]
 		||
-		*Confusion, disillusion, consternation and myriad other perturbing emotions tug at the threads of Ormenos' sanity. He is not ready for the abhorrent secrets this dark place may hold. Indeed, merely remaining in the maddening silence of this chamber threatens to dismantle the mage's lucidity.*
+		*Confusion, disillusion, consternation and myriad other perturbing emotions tug at the threads of Ormenos' sanity. He is not ready for the abhorrent secrets this dark place holds. Indeed, merely remaining in the maddening silence of this chamber threatens to unravel the mage's wits.*
 		(A#_Use the Glyph of Nearcasting_){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2097!DESCRIPTION!}
 		(F#Inspect the room once more...){F:1,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X005!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.004!DESCRIPTION!/]
@@ -131,27 +131,36 @@ acq glyph of Prime Archon prev
 >>>Have Fenrir (2050)<<<
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X005!DESCRIPTION!]
 		|^2050:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0050!DESCRIPTION!|
-		*Ormenos turns his attention once more to the adumbral chamber. This time the sparkle of a ruby embedded within an onyx housing at the base of the altar catches his eye. It's no surprise this item was originally invisible to Ormenos, as it is only from a very specific angle that it welcomes sight. Examining it more closely, he observes that it requires a Vanquished reading device to decipher; and thus, to him it is inscrutable.
-		
-		Moving forward from the platform, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.*
+		*Ormenos turns his attention once more to the adumbral chamber. This time the sparkle of a ruby embedded into the base of the altar catches his eye. Though originally invisible to Ormenos, from this very specific perspective it welcomes sight. The inquisitive mage briefly forgets his apprehension and leans in to examine it more closely. It is a memory crystal, raw and incompatible with a Muninn. He would need a Vanquished reading device to decipher its contents, a device only the grovekeepers guard jealously...*
+		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0050!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X005!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0050!DESCRIPTION!]
+		||
+		*Disappointment gives way to anxiety as Ormenos recalls the bizarre circumstances that brought him here. He scrambles to the Nearcaster, ready to flee. Trembling knees beg him to leave, but curiosity stalls the decision.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X005!DESCRIPTION!/]
+		(C#_Use the Glyph of Nearcasting_){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2097!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0050!DESCRIPTION!/]
 	
 >>>Acquired Archon list (2096)<<<
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0050!DESCRIPTION!]
 		|^2096:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!|
-		*Ormenos turns his attention once more to the adumbral chamber. This time the sparkle of a ruby embedded within an onyx housing at the base of the altar catches his eye. It's no surprise this item was originally invisible to Ormenos, as it is only from a very specific angle that it welcomes sight. Examining it more closely, he observes that it requires a Vanquished reading device to decipher; and thus, to him it is inscrutable... however, he feels as though he could absorb its energy directly into his Trueflesh - an impossible feat for a human, as far as the magi of the Enclave have been able to determine at least; and as such, he feels confused at this bizarre conclusion he has pulled from the ether.
-		
-		Casting his gaze about, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.*
+        *Ormenos turns his attention once more to the adumbral chamber. This time the sparkle of a ruby embedded into the base of the altar catches his eye. Though originally invisible to Ormenos, from this very specific perspective it welcomes sight. The inquisitive mage briefly forgets his apprehension and leans in to examine it more closely. It is a memory crystal, raw and incompatible with a Muninn. He would need a Vanquished reading device to decipher its contents, a device only the grovekeepers guard jealously...*
+		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00500!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0050!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00500!DESCRIPTION!]
+		||
+        *Yet, something is different... something strange. A presence, a force, some beastly creature within him hungers. On the brink of starvation he feels like screaming, like howling. He longs to absorb the crystal - its energy, rather - directly into his Trueflesh. He yearns to forget the pain of this hunger, though he knows this will not cure it. Only one prey will sate him, but until then, this will have to suffice.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 		(C#Absorb crystal){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2096!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0050!DESCRIPTION!/]
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00500!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!]
 		||
-		*Ormenos senses an unknown Glyph bubble up from the ether of the Graylands, gracefully loping from the shadows into the forefront of his consciousness. As of instinct, he recognizes the Glyph of Extraction made form: Fenrir. As per their pact, made in eras unremembered and with characters beyond Ormenos' ken, Fenrir consumes the energy from the crystal, granting his ally access to its contents.
+		*Ormenos senses an unknown Glyph materialize from the ether of the Graylands. Gracefully loping from the shadows into the forefront of his consciousness, he recognizes the Glyph of Extraction made form; he remembers Fenrir. As per their pact, made in eras unremembered and with characters beyond Ormenos' ken, Fenrir consumes the energy from the crystal, granting access to its contents.
 		
 		Ormenos' Trueflesh crawls with the thoughts he now perceives. Battles centuries old, an exodus, a new beginning, death, struggle, hope. A silent war rages on, as it has ever since the downfall of the Vanquished, Biracul and the Masters on opposing sides; and the Enclave somehow caught in the middle. All his life, Ormenos pursued knowledge and, above all else, truth. But for the first time, he has started to regret walking this path.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
