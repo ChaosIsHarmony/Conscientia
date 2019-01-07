@@ -10,13 +10,15 @@ CRYPT OF THE ARCHONS
 acq glyph of Prime Archon prev
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!DESCRIPTION!]
 		||
-		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the ether. Ormenos now stands upon a copper disk in a dusty chamber. Here he is confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
+		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the ether. Ormenos now stands upon a copper disk in a dusty chamber where he is confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!]
 		||
-		*Relics from the exodus of Thiuda lay scattered about, three to every Neverborn at least. Some on desks equally ancient, others on shelves, and still some to large to be housed in any casing. Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the circle of scattered bones decorating this one's base. The second is simpler, and perhaps less grim: an altar, with incense yet burning in its brazier.*
+		*Relics from the exodus of Thiuda lay scattered about, three to every Neverborn at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
+		
+		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the circle of bones decorating this one's base. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!/]	
@@ -142,7 +144,7 @@ acq glyph of Prime Archon prev
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 		(C#_Use the Glyph of Nearcasting_){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2097!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0050!DESCRIPTION!/]
-	
+
 >>>Acquired Archon list (2096)<<<
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0050!DESCRIPTION!]
 		|^2096:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!|
@@ -152,60 +154,92 @@ acq glyph of Prime Archon prev
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00500!DESCRIPTION!]
 		||
-        *Yet, something is different... something strange. A presence, a force, some beastly creature within him hungers. On the brink of starvation he feels like screaming, like howling. He longs to absorb the crystal - its energy, rather - directly into his Trueflesh. He yearns to forget the pain of this hunger, though he knows this will not cure it. Only one prey will sate him, but until then, this will have to suffice.*
+        *Yet, something is different... something strange. A presence, a force, some beastly creature within him hungers. On the brink of starvation he feels like screaming, like howling. He longs to absorb the crystal's essence right into his Trueflesh. He yearns to forget the pain of this hunger, though he knows this will not cure it. Only one prey will sate him, but until then, this meager meal will have to suffice.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 		(C#Absorb crystal){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2096!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00500!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!]
 		||
-		*Ormenos senses an unknown Glyph materialize from the ether of the Graylands. Gracefully loping from the shadows into the forefront of his consciousness, he recognizes the Glyph of Extraction made form; he remembers Fenrir. As per their pact, made in eras unremembered and with characters beyond Ormenos' ken, Fenrir consumes the energy from the crystal, granting access to its contents.
-		
-		Ormenos' Trueflesh crawls with the thoughts he now perceives. Battles centuries old, an exodus, a new beginning, death, struggle, hope. A silent war rages on, as it has ever since the downfall of the Vanquished, Biracul and the Masters on opposing sides; and the Enclave somehow caught in the middle. All his life, Ormenos pursued knowledge and, above all else, truth. But for the first time, he has started to regret walking this path.*
+		*From the depths of the Graylands a Glyph materializes. Gracefully loping from the shadows into the forefront of awareness, Ormenos recognizes the Glyph of Extraction made form. The fog seems to coalesce into memory, bringing with it awareness. Though he knows not why, Ormenos remembers Fenrir; he remembers their pact, made in forgotten eras with characters beyond Ormenos' ken. Yet even still, Fenrir honors the convenant, consuming the crystal's energy and leaving bare its contents.*
+		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0052!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0052!DESCRIPTION!]
+		||
+		*Ormenos' Trueflesh crawls with the crystal's memories. Battles centuries old, an exodus, a new beginning, death, struggle, hope. A silent war rages on, as it has ever since the fall of the Vanquished, Biracul and the Masters on opposing sides, the Enclave somehow caught in the middle.*
+		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0053!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0052!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0053!DESCRIPTION!]
+		||
+		*All his life, Ormenos has pursued knowledge and, above all else, truth. But for the first time, he begins to regret walking this path.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 		(C#Leave){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.004!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0053!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!]
 		||
-		*Ormenos turns his attention once more to the adumbral chamber. He looks over to where the empty ruby lies, knowing now its contents, though he remains uncertain as to how.
+		*Ormenos turns his attention once more to the adumbral chamber. Eyes immediately search for the ruby he emptied. Its memories resonate with his Trueflesh, sympathetic threads whispering across the fabric of time.
 		
-		Casting his gaze about, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.*
+		But as attractive as the familiar may be, what is already known holds little sway over the inquisitive mage's attention. Discipline will help light his path through the shadows of ignorance; Discipline will wring knowledge from those who seek to cast shadows; Discipline will free Ormenos from fear... This has ever been his hope.*
+		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0060!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0060!DESCRIPTION!]
+		||
+		*Casting his gaze about, he sees relics from the exodus of Thiuda scattered around the room, three to every Neverborn sentry, at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
+		
+		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the circle of bones decorating this one's base. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!/]
-	
-	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0060!DESCRIPTION!/]
+
+
 came in with Babel after confronting him with knowledge of Pr Ar
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X001!DESCRIPTION!]
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!DESCRIPTION!]
+		||
+		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper disk in a dusty chamber where the magi are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though he has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!]
+		||
+		*Casting his gaze about, he sees relics from the exodus of Thiuda scattered around the room, three to every Neverborn sentry, at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
+		
+		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the circle of bones decorating this one's base. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X0011!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!/]
+		
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X0011!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!|
-		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper platform in this dusty chamber. They are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.
-		
-		Moving forward from the platform, he sees relics scattered about from the exodus of Thiuda - primarily artifacts of the bellicose and short-sighted forebearers of the Enclave. But only two objects truly distinguish themselves among the antiques: a judgment dais, similar to the one in the Hall of Reckoning, but this one encircled by scattered bones; and an altar, with incense that yet burns.
-		
-		Babel has proceed to the dais and begins to address Ormenos.*
+		*Eyes then desperately search for the man who brought him here. Movement among the shadows traces the form of Babel as he walks toward the dais. Twisted words seem to echo through the darkness, distorted into the nightmarish speech of delirium.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X0011!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X001!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X0011!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!]
 		||
-		*Light innudates the chamber as the once listless Neverborn now so brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent rigidity. Yet, in this timeless moment of sublime bewilderment, Ormenos barely notices the walls parting behind the sentries revealing a tunnel burrowing into the unknown depths of the Enclave.
+		*Light innudates the chamber as the once listless Neverborn now so brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent rigidity. Yet, in this timeless moment of sublime bewilderment, Ormenos barely notices the walls parting behind the sentries, where beyond them a tunnel burrows into the unknown depths of the Enclave.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!/]
 
-		He cannot explain why, but every fibre of Ormenos' being now warns him against entering this abyssal path to truth; for sights once seen cannot be forgotten. However, Babel simply begins walking down into the maw of madness, motioning Ormenos to follow...*
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!DESCRIPTION!]
+		||
+		*He cannot explain why, but every fiber of Ormenos' being now warns him against entering this abyssal path; for sights once seen can never be forgotten. However, Babel simply begins walking down into the maw of madness, motioning Ormenos to follow...*
 		(A#Follow){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X19000!DESCRIPTION!}
 		(B#Refuse){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!DESCRIPTION!]
 		||
-		*With a knowing smile, Babel acknowledges the fear in Ormenos' eyes and sees that his point has been made. As Babel mumbles a forbidden incantation, Ormenos' vision blurs and his falsflesh is wrested from his control.*
+		*With a knowing smile, Babel acknowledges the fear in Ormenos' eyes and sees that his point has been made. As Babel mumbles a forbidden incantation, Ormenos' vision blurs and his Falsflesh is wrested from his control. Eyelids feel the pull of gravity even before the Glyph is complete. Yet he struggles to remain...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!DESCRIPTION!/]
-	
-	
-	
+
+
+
 BABEL
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!BABEL!]
 		||
