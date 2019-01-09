@@ -1246,7 +1246,11 @@ _______________________________
 AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!]
 		||
-		*Eidos opens her eyes. Light floods in, burning her vision white hot. Agony crushes perception, forcing teary lids shut anew. Defiant, she pries them open once more, the sheer force of will as her lever.*
+		*Eidos opens her eyes.
+		
+		Light floods in, burning her vision white hot. Agony crushes perception, forcing teary lids shut anew.
+		
+		Defiant, she pries them open again, using only her will as a lever.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!/]
 
@@ -1258,7 +1262,11 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!]
 		||
-		*Suddenly remembering to breathe, a heaving gasp fills her lungs with the chamber's chill air. Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the incessant pounding of her heart. Swaying as though on violent seas, the room seems to spin.*
+		*Suddenly remembering to breathe, a heaving gasp fills her lungs with the chamber's chill air.
+		
+		Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the incessant pounding of her heart.
+		
+		Swaying as though on violent seas, the room seems to spin.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.003!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!/]
 
@@ -1300,7 +1308,9 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.003!DESCRIPTION!]
 		||
-		*Eidos calmly closes her tearing eyes to the light, this time of her own volition. She focuses on the darkness within, the nothingness that awaits. A flame emerges from the murk of thought, consuming all fear, all uncertainty. Yet this fire is indiscriminate in its consumption; it singes her fingertips as they reach to caress the crackling glow. Though warmth and comfort be its gifts, excess in these are its warnings.*
+		*Eidos closes her teary eyes to the light, this time of her own volition. She focuses on the darkness within, the nothingness that awaits.
+		
+		A flame emerges from the murk of thought, consuming all fear, all uncertainty. Yet this fire is indiscriminate in its consumption; it singes her fingertips as they reach to caress the crackling glow. Though warmth and comfort be its gifts, excess in these are its admonitions.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.0030!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.003!DESCRIPTION!/]
 
@@ -1325,7 +1335,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.010!DESCRIPTION!]
 		||
-		*Her eyes strain against the ambient light. Distorted outlines sharpen into shapes. Colors divide and separate. Clarity supplants ambiguity. She then observes her surroundings for the first time, searching for hints of life beyond her own.*
+		*Her eyes strain against the ambient light, distorted outlines sharpening into shapes, colors dividing and separating. At last, clarity replaces ambiguity and she is free to observe her surroundings for the first time, searching for hints of something... really, anything but the obvious solitude confronting her.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.010!DESCRIPTION!/]
 
@@ -1391,15 +1401,15 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0100!DESCRIPTION!]
 		||
-		*The stone walls are all richly decorated. Spanning several walls, one mural depicts sculpted trees draped in crimson flowers, a fountain's roiling waters, and people littered about. Though these features suggest a private garden, other images distract from this impression. A wolf, a crow, and a serpent skulk furtively in and among the foliage, hidden in plain sight from the oblivious eyes of those who willfully ignore them.*
+		*The stone walls are all richly decorated with murals and symbols, nary an inch of naked stone remaining. One such mural depicts sculpted trees draped in crimson flowers. The trees line a path where people stroll and fountains spray endless streams of water. Though these features suggest a private garden, others distract from this impression. A wolf, a crow, and a serpent skulk furtively in and among the foliage, hidden in plain sight from the oblivious eyes of those who willfully ignore them.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.0100!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!]
 		||
-		*These images are interrupted by but three features. Two are doors opposite one another, one painted an immaculate white, and the other a murky indigo. The third is a dark glass embedded chest-high into a wall, gazing at Eidos with its dispassionate stare.
+		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass embedded chest-high into a wall likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze sends Eidos' muscles into a shivering frenzy, an eternal instant of gloom and despair washing over her.
 		
-		Cold feet draw her attention below, as the metallic platform she stands upon slowly saps her body's warmth.*
+		Cold feet draw her attention to the floor. The metallic platform she now stands upon seems to sap her body's warmth - and it shows no sign of stopping.*
 		(A#Approach one of the doors){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!}
 		(B#Peer into the glass){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
 		(C#Examine the platform){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!}
@@ -1447,7 +1457,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0310!DESCRIPTION!]
 		||
-		*Painted within the doorframe is a lesser mural. A number of hooded figures appear to approach a similar portal from either side. Robed backs face Eidos, concealing their features. The portal they move towards boasts no remarkable features, save for a small symbol engraved in its center, a symbol that can only be described as some sort of anti-spiral.*
+		*Painted within the doorframe is a lesser mural. A line of hooded figures solemnly march toward a door off in the distance. The portal they approach boasts no remarkable features, save for a small symbol engraved in its center, a symbol that can only be described as some sort of anti-spiral.*
 		(A#Peer at the symbol){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X033!DESCRIPTION!}
 		(B#Examine the other door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(C#Peer into the dark glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1505,7 +1515,7 @@ AWAKENING CHAMBER
 >>>Met Fenrir (12900)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!]
 		|^12900:KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!|
-		*The twinkle of reflecting light off the dark glass sparks her curiosity, drawing her ever nearer. Though it seems hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage. Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon her warping image is replaced with an unsettling apparition...*
+		*The twinkle of reflecting light off the dark glass sparks her curiosity, drawing her ever nearer. Though it looks like a hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage. Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon her warping image is replaced with an unsettling apparition...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X051!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!/]
 
@@ -1518,7 +1528,7 @@ AWAKENING CHAMBER
 >>>Fenrir consumes you (20000)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!]
 		|^20000:KABU!SANCTUARY!AWAKENING CHAMBER!10.X000!DESCRIPTION!|
-		*She looks into the glass once more, expecting... something. But the ravenous Fenrir does not reappear. Nor does Eidos' reflection even reappear. Nothing shines on that once reflective surface. No light survives its pitch darkness. Eidos now stares into a greedy singularity, ever-taking, never-giving.*
+		*She looks into the glass once more, expecting... something. But the ravenous Fenrir does not reappear - nor does her own reflection for that matter. Nothing shines on that once reflective surface. No light survives its utter darkness. Eidos now stares into a greedy singularity, ever-taking, never-giving.*
 		(A#Approach the immaculate white door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#Approach the murky indigo door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 		(C#Examine the platform){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!}
@@ -1527,7 +1537,7 @@ AWAKENING CHAMBER
 >>>Learned Farcaster glyph (12403)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!]
 		|^12403:KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!|
-		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
+		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol, is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
 		(A#Examine the door of immaculate white){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#Examine the door of murky indigo){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 		(C#Peer into the glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1635,7 +1645,7 @@ been here before
 >>>Glyph of Farcasting (12403)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.X060!DESCRIPTION!]
 		|^12403:KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!|
-		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
+		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol, is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
 		(A#Examine the door of immaculate white){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!}
 		(B#Examine the door of murky indigo){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X031!DESCRIPTION!}
 		(C#Peer into the glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1753,13 +1763,13 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.400!FENRIR!]
 		||
-		*"The Master of the dark glass I be not. Awareness of you came only when into it you looked..."*
+		*"The Master of the dark glass I be not. Awareness of you came only when into it you looked. And who can events before awareness know? Not I, at least."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.4000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.400!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.4000!FENRIR!]
 		||
-		*"What you see, I too from its surface witness. A simple chamber, no more than three doors within. Who can events before awareness know? Not I, at least."*
+		*"What then will you now do? Where will you now go? What you see, I too from the glass' surface witness. A simple chamber, no more than three doors within."*
 		(C#"Three doors? I count only two."){C:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.301!FENRIR!}
 		(D#"Perhaps we can be allies..."){D:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.401!FENRIR!}
 		(E#"How are you involved in my captivity?"){E:1,KABU!SANCTUARY!AWAKENING CHAMBER!0.501!FENRIR!}
@@ -1922,7 +1932,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.000!FENRIR!]
 		||
-		*"Many have I in my hunger consumed. Some bore Glyphs, their etched thoughts now into my Trueflesh carved."*
+		*"Many have I in my hunger consumed. Some bore Glyphs, their living thoughts now into my Trueflesh carved."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.000!FENRIR!/]
 

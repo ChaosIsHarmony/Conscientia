@@ -20,9 +20,9 @@ EIDOS
 		
 		The illusion of cycles arises from but a lack of proper perspective! The Spiral from above seems a mere ring; yet from the side, it wraps itself around a void pillar. Be the Spiral deep enough, it metamorphoses into concentric circles, receding into an unreachable Singularity.
 		
-		This truth was hidden in plain sight, in the dimension beyond the plane. What then do other dimensions obscure? What other angles would grant us a fuller view? We must	no longer fall prey to false circles! No longer be fooled by the limitation of or vision! For what the eye cannot see, the light of intellect will illuminate!
+		This truth was hidden in plain sight, in the dimension beyond the plane. What then do other dimensions obscure? What other angles would grant us a fuller view? We must	no longer fall prey to false circles! No longer be fooled by the limitation of our vision! For what the eye cannot see, the light of intellect will illuminate!
 		
-		We will extricate orselves from the illusory loop and take or place among the Gods!"
+		We will extricate ourselves from the illusory loop and take our place among the Gods!"
 		
 		Mind of the Spiral, Vol. I*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!}
@@ -114,13 +114,13 @@ UNFINISHED SHIT
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!2.000!DESCRIPTION!]
 		||
-		*Truth... Awareness... Understanding... There can be no closure without these and this inconclusive end is unsatisfactory to a seeker of truth. But acceptance of what 'is' comes part and parcel with the search. Seeing what the mind wants to see makes us prisoners of or own thoughts, or own illusions. Only those who shed the conceit of believing in endings will soon realize the illusory nature of this one and trudge forward, onwards to their new beginning...*
+		*Truth... Awareness... Understanding... There can be no closure without these and this inconclusive end is unsatisfactory to a seeker of truth. But acceptance of what 'is' comes part and parcel with the search. Seeing what the mind wants to see makes us prisoners of our own thoughts, our own illusions. Only those who shed the conceit of believing in endings will soon realize the illusory nature of this one and trudge forward, onwards to their new beginning...*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!2.000!DESCRIPTION!/]
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!3.000!DESCRIPTION!]
 		||
-		*Ambivalence... Complacence... Equivocation... For who cares what happens next? Detached observation is the only reasonable way to live in a universe both cold and dispassionate in equal measure. In truth, the only choice to make is whether we let its vicissitudes and whims control or tempers: events cannot upset the Mind, only opinions of them can.
+		*Ambivalence... Complacence... Equivocation... For who cares what happens next? Detached observation is the only reasonable way to live in a universe both cold and dispassionate in equal measure. In truth, the only choice to make is whether we let its vicissitudes and whims control our tempers: events cannot upset the Mind, only opinions of them can.
 		
 		Thus, all there is to do is patiently wait for the next show to start and watch it as it slowly unfolds before Falseflesh's eyes.*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
@@ -130,7 +130,7 @@ UNFINISHED SHIT
 		||
 		*Schemes... Manipulation... Awareness... All tools required for survival on this acrimonious plane of existence. But he who laughs last, laughs best... Indeed. Yet caution must be observed and celebration postponed until victory - absolute and undeniable - peeks its rosy visage above tomorrow's horizon.
 		
-		However, tomorrow has yet to arrive; and at its uncertain edge it is impossible to see naught but the darkness which precedes it. Silent, dreadful, oppresive, this abyssal chaos waxes as or sanity wanes and patiently waits for it to exhaust itself in the solitude of or thoughts. But the darkness cannot last forever... Can it?*
+		However, tomorrow has yet to arrive; and at its uncertain edge it is impossible to see naught but the darkness which precedes it. Silent, dreadful, oppresive, this abyssal chaos waxes as our sanity wanes and patiently waits for it to exhaust itself in the solitude of our thoughts. But the darkness cannot last forever... Can it?*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!4.000!DESCRIPTION!/]
 
