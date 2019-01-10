@@ -4174,7 +4174,7 @@ RECKONER
 
 	[/KABU!SANCTUARY!THRONE ROOM!1.000!RECKONER!]
 		||
-		*"Archon Eidos, speak you will."*
+		*"Archon Eidos, speak your will."*
 		(A#"Who are you?"){A:1,KABU!SANCTUARY!THRONE ROOM!1.100!RECKONER!}
 		(B#"What is this place?"){B:1,KABU!SANCTUARY!THRONE ROOM!1.200!RECKONER!}
 		(C#"I don't know my will."){C:1,KABU!SANCTUARY!THRONE ROOM!1.300!RECKONER!}

@@ -162,7 +162,7 @@ acq glyph of Prime Archon prev
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!]
 		||
-		*From the depths of the Graylands a Glyph materializes. Gracefully loping from the shadows into the forefront of awareness, Ormenos recognizes the Glyph of Extraction made form. The fog seems to coalesce into memory, bringing with it awareness. Though he knows not why, Ormenos remembers Fenrir; he remembers their pact, made in forgotten eras with characters beyond Ormenos' ken. Yet even still, Fenrir honors the convenant, consuming the crystal's energy and leaving bare its contents.*
+		*From the depths of the Graylands a Glyph materializes. Gracefully loping from the shadows into the forefront of awareness, Ormenos recognizes the Glyph of Extraction made form. The fog seems to coalesce into memory, bringing with it awareness. Though he knows not why, Ormenos remembers Fenrir; he remembers their pact, made in forgotten eras with characters beyond Ormenos' ken. Fenrir has come to honor their convenant by consuming the crystal's energy and leaving bare its contents.*
 		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0052!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!/]
 
@@ -184,7 +184,7 @@ acq glyph of Prime Archon prev
 		||
 		*Ormenos turns his attention once more to the adumbral chamber. Eyes immediately search for the ruby he emptied. Its memories resonate with his Trueflesh, sympathetic threads whispering across the fabric of time.
 		
-		But as attractive as the familiar may be, what is already known holds little sway over the inquisitive mage's attention. Discipline will help light his path through the shadows of ignorance; Discipline will wring knowledge from those who seek to cast shadows; Discipline will free Ormenos from fear... This has ever been his hope.*
+		But as attractive as the familiar may be, what is already known holds little sway over the inquisitive mage's attention. Discipline will help light his path through the shadows of ignorance; Discipline will wring knowledge from those who seek to cast shadows; Discipline will free Ormenos from fear... This has always been his hope.*
 		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0060!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.006!DESCRIPTION!/]
 
@@ -201,7 +201,7 @@ acq glyph of Prime Archon prev
 came in with Babel after confronting him with knowledge of Pr Ar
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!DESCRIPTION!]
 		||
-		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper disk in a dusty chamber where the magi are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though he has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
+		*Bones and sinew weave two shells as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper disk in a dusty chamber where the magi are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though he has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!DESCRIPTION!/]
 
@@ -221,297 +221,266 @@ came in with Babel after confronting him with knowledge of Pr Ar
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!]
 		||
-		*Light innudates the chamber as the once listless Neverborn now so brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent rigidity. Yet, in this timeless moment of sublime bewilderment, Ormenos barely notices the walls parting behind the sentries, where beyond them a tunnel burrows into the unknown depths of the Enclave.*
+		*Light innudates the chamber as the once listless Neverborn now brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent rigidity. In this timeless moment of confusion, Ormenos barely notices the walls parting behind the sentries, where beyond them a tunnel burrows into the unknown depths of the Enclave.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!DESCRIPTION!]
 		||
-		*He cannot explain why, but every fiber of Ormenos' being now warns him against entering this abyssal path; for sights once seen can never be forgotten. However, Babel simply begins walking down into the maw of madness, motioning Ormenos to follow...*
+		*He cannot explain why, but every fiber of his being now warns against entering this abyssal path - for sights once seen can never be forgotten. However, Babel now calmly walks down into the maw of madness, motioning Ormenos to follow...*
 		(A#Follow){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X19000!DESCRIPTION!}
 		(B#Refuse){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!DESCRIPTION!]
 		||
-		*With a knowing smile, Babel acknowledges the fear in Ormenos' eyes and sees that his point has been made. As Babel mumbles a forbidden incantation, Ormenos' vision blurs and his Falsflesh is wrested from his control. Eyelids feel the pull of gravity even before the Glyph is complete. Yet he struggles to remain...*
-		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
+		*With a knowing smile, the Prime Archon acknowledges the fear in Ormenos' eyes; his point has been made.*
+        (B#Refuse){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!DESCRIPTION!]
+		||
+        *Babel begins to intone a forbidden incantation causing Ormenos' vision to blur. The brilliant light of an unfinished Glyph starts to carve lines through the air. Soon, control of his Falsflesh is wrested from him. Eyelids feel the pull of gravity even before the Glyph is complete. Yet he struggles to remain...*
+		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!DESCRIPTION!/]
 
 
 
 BABEL
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!BABEL!]
 		||
-		*"What you have sought, Brother Inquisitor now lies before you. But have you eyes to see it?"*
+		*"What you have sought, Brother Inquisitor, now lies before you. But have you the eyes to see it?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0000!BABEL!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0000!BABEL!]
 		|@:ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!BABEL!|
 		*"Executor, I am as Archon. I demand passage into the Refuge."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X1214!BABEL!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X0000!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!BABEL!]
 		||
 		*"That I shall, Executor."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.002!BABEL!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.002!BABEL!]
 		||
-		*"Come now Ormenos, we mustn't keep the Truth waiting!"*
+		*"Come now Ormenos, we mustn't keep the 'truth' waiting!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X9999!BABEL!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.002!BABEL!/]
 
-	
-	
+
+
 EXECUTOR
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!EXECUTOR!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!EXECUTOR!/]
-	
-	
+
+
 babel	
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!EXECUTOR!]
 		||
-		*"Babel, as Prime Archon I see you!"*
+		*"Babel, as Prime Archon seen."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!EXECUTOR!]
 		||
 		*"The Choir's song opens the gates,
-		To the Zero Archon and the Sylvan Refuge."*
+		To the Zero Archon. To the Sylvan Refuge."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0011!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0011!EXECUTOR!]
 		||
-		*"Go forth and seek the Emerald Architect's wisdom."*
+		*"Go. Seek the Emerald Architect's wisdom."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X0011!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0011!EXECUTOR!/]
-	
+
 player
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!EXECUTOR!]
 		||
-		*"Ormenos, as Brother I see you. 
-		Unworthy among magi to rise to Archon, 
-		Unless you the answer to Rikharr's Riddles hold!"*
+		*"Ormenos, as Brother seen.
+		May be unworthy among magi as Archon.
+		Rikharr's question will decide."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!EXECUTOR!]
 		||
 		*"Worth is proven. 
-		You have arrived here because of ingenuity!"*
+		Here arrived due to ingenuity."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!EXECUTOR!]
 		||
-		*"Yet this is not enough.
-		Awareness is indispensable to an Archon of the Enclave."*
+		*"Not enough.
+		Awareness, indispensable to Archons."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0021!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0021!EXECUTOR!]
 		||
-		*"Now show me of your learning..."*
+		*"Show your learning..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0021!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!EXECUTOR!]
 		||
 		*"Three born of His mind, to the blind God control. 
 		The first upon birth howled a clarion cry, 
-		So loud, with such force, as to split the night sky.
-		Hear her words; then say her name; make the parts whole!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!EXECUTOR!]
-		||
-		*"Of myriad states, I alone reign supreme,
+		So loud, with such force, it split the night sky.
+		Hear her words; say her name; make the parts whole!
+		
+        'Of myriad states, I alone reign supreme,
 		Directing Time's arrow to chaos' dream.
 		Arrange as you will, I still win in the end,
-		When shattered, the pieces cannot the whole mend."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0031!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0031!EXECUTOR!]
-		||
-		*"Struggle or not, it is all the same,
-		Quickly now, say it! What is my name?!"*
+		When shattered, the pieces cannot the whole mend!
+
+        'Struggle or not, it is all the same,
+		Quickly now, say it! What is my name?!'"*
 		(A#"Hel"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.004!EXECUTOR!}
 		(B#"Luin"){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.904!EXECUTOR!}
 		(C#"Fenrir"){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.904!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0031!EXECUTOR!/]
-	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!EXECUTOR!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.004!EXECUTOR!]
 		||
 		*"The second one from the ether was pressed.
 		Coiling the Earth, he kept all restrained.
 		Compressing, deforming, yet goal unattained.
-		Hear his words; say his name; this is your test!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0040!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.004!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0040!EXECUTOR!]
-		||
-		*"None are safe, not God nor Man; encircled round,
+		Hear his words; say his name; this is your test!
+
+		'None are safe, not God nor Man; encircled round,
 		Their truest of Trueflesh by my body bound.
-		Constricting, restraining, breath stolen, soon gone,
-		I tighten, I squeeze, no escape from my brawn."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0041!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0040!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0041!EXECUTOR!]
-		||
-		*"Helpless, unmoving, forever tame,
+		Constricting, confining, breath stolen, soon gone,
+		I tighten, I squeeze, no escape from my brawn!
+		
+        'Helpless, unmoving, forever tame,
 		Quickly now, say it! What is my name?!"*
 		(A#"Jormungund"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.005!EXECUTOR!}
 		(B#"Luin"){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!}
 		(C#"Hel"){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0041!EXECUTOR!/]
-	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.004!EXECUTOR!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.005!EXECUTOR!]
 		||
 		*"The third, as of yet remains but a thought.
 		Though the Architect's mind holds clear its task,
-		To isolate the God in an unbreakable cask.
-		Hear his words; say his name; find what is sought!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0050!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.005!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0050!EXECUTOR!]
-		||
-		*"My devouring maw will gnaw and consume.
+		To contain the blind God in an unbreakable cask.
+		Hear his words; say his name; find what is sought!
+		
+        'My devouring maw will gnaw and consume.
 		My belly, for countless ghosts, serves as a tomb.
-		A prison absent walls, no windows nor door.
-		Once in, I will act as your shell evermore."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0051!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0050!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0051!EXECUTOR!]
-		||
-		*"Living, though dead, extinguished your flame.
+		A prison absent walls, no window, no door.
+		Once in, I will act as your shell evermore.
+		
+        'Living, though dead, extinguished your flame.
 		Quickly now, say it! What is my name?!"*
 		(A#"Fenrir"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.006!EXECUTOR!}
 		(B#"Luin"){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
 		(C#"Hel"){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0051!EXECUTOR!/]
-	
-	
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.005!EXECUTOR!/]
+
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.006!EXECUTOR!]
 		||
-		*"Ormenos, as Prime Archon I see you! 
-		Rise and hear your equals chant!"*
+		*"Ormenos, as Prime Archon seen.
+        Worthy found. By duty bound.
+		Rise now. Hear the chant."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0060!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.006!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0060!EXECUTOR!]
 		||
-		*"The Choir's song opens the gates,
-		To the Zero Archon and the Sylvan Refuge!"*
+		*"The Choir's song opens the gates.
+		To the Zero Archon. To the Sylvan Refuge."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0061!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0060!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0061!EXECUTOR!]
 		||
-		*"Go forth as the new Prime Archon. 
+		*"Go. As the new Prime Archon, Go.
 		Seek the Emerald Architect's wisdom."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0062!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0061!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0062!EXECUTOR!]
 		||
 		*"Archon Marduk's cycles have ceased.
 		The Choir awaits his ascension!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2037!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0062!EXECUTOR!/]
-	
-	
+
+
 Failed	
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.904!EXECUTOR!]
 		||
 		*"The second one from the ether was pressed.
 		Coiling the Earth, he kept all restrained.
 		Compressing, deforming, yet goal unattained.
-		Hear his words, say his name, this is your test!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9040!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.904!EXECUTOR!/]
-		
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9040!EXECUTOR!]
-		||
-		*"None are safe, not God nor Man; encircled round,
+		Hear his words; say his name; this is your test!
+
+		'None are safe, not God nor Man; encircled round,
 		Their truest of Trueflesh by my body bound.
-		Constricting, restraining, breath stolen, soon gone,
-		I tighten, I squeeze, no escape from my brawn."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9041!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9040!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9041!EXECUTOR!]
-		||
-		*"Helpless, unmoving, forever tame,
+		Constricting, confining, breath stolen, soon gone,
+		I tighten, I squeeze, no escape from my brawn!
+		
+        'Helpless, unmoving, forever tame,
 		Quickly now, say it! What is my name?!"*
 		(A#"Jormungund"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!}
 		(B#"Luin"){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!}
 		(C#"Hel"){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9041!EXECUTOR!/]
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.904!EXECUTOR!/]
 	
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!]
 		||
 		*"The third, as of yet remains but a thought.
 		Though the Architect's mind holds clear its task,
-		To isolate the God in an unbreakable cask.
-		Hear his words, say his name, find what is sought!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9050!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9050!EXECUTOR!]
-		||
-		*"My devouring maw will gnaw and consume.
+		To contain the blind God in an unbreakable cask.
+		Hear his words; say his name; find what is sought!
+		
+        'My devouring maw will gnaw and consume.
 		My belly, for countless ghosts, serves as a tomb.
-		A prison absent walls, no windows nor door.
-		Once in, I will act as your shell evermore."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9051!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9050!EXECUTOR!/]
-	
-	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9051!EXECUTOR!]
-		||
-		*"Living, though dead, extinguished your flame.
+		A prison absent walls, no window, no door.
+		Once in, I will act as your shell evermore.
+		
+        'Living, though dead, extinguished your flame.
 		Quickly now, say it! What is my name?!"*
 		(A#"Fenrir"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
 		(B#"Luin"){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
 		(C#"Hel"){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9051!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!]
 		||
-		*"Ormenos, as impostor I see you!"*
+		*"Ormenos, as impostor seen."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9060!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9060!EXECUTOR!]
 		||
-		*"Your ignorance belies your confidence.
-		You have no claim to the title of Prime Archon!"*
+		*"Ignorance belies your confidence.
+		No Archon can you be."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9061!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9060!EXECUTOR!/]
-	
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9061!EXECUTOR!]
 		||
-		*"The Choir is to you as a stranger. 
-		Now your Trueflesh and the False will part ways."*
+		*"Here you stand.
+        The Choir's eyes see nothing.
+		Soon, as the Vanquished are,
+        So too will you be."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X9999!EXECUTOR!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9061!EXECUTOR!/]
-	
-	
-		
+
+
+
 
 ________________________________________________________________________
 HUGINN GROVE
@@ -519,11 +488,11 @@ virgin run
 >>>Witnessed theory v practice debate (2027)<<<
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X000!DESCRIPTION!]
 		|^2027:ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!|
-		*Ormenos enters a domed chamber lit by what at first seems to be the warm glow of multitudinous fires burning away in blast furnaces, but which in due time reveal themselves as the usual crystalline suspects merely in rather unusual circumstances: they appear to be maturing fruits borne by the trees of the grove, emblazoning their branches. A light smoky scent mixed with the dust from metallic filings permeates the otherwise pristine air.
+		*Ormenos enters a domed chamber. Myriad crystals ensure that light is in no short supply here, as they dangle from Huginn branches like maturing fruits. Shadows jealously guard what little territory remains for their ilk. A sudden draft brings with it a light smoky scent mixed with the dust from metallic filings.
 		
-		Several magi of the Architect caste can be seen plucking ripened crystals from their boughs and carefully inspecting their contents. This, the newest caste of the Enclavean Order, holds all responsiblity for the search of lost arts of the Thiuda and their predecessors, the Vanquished. Giant strides have been made toward remembering the methods for Writing Glyphs, the rediscovery of casting both far and near, as well as the instantaneous acquisition and apprehension of foreign Techne.
+		Several magi of the Architect caste pluck ripened crystals from their boughs and carefully inspect their contents. This, the newest caste of the Enclavean Order, holds all responsiblity for the search of lost arts of the Thiuda and their Vanquished predecessors. The upstarts have made giant strides toward remembering methods for Writing Glyphs, the rediscovery of casters - both far and near - as well as the instantaneous acquisition and apprehension of foreign Techne.
 		
-		The Curator of the Architects is close-by overseeing the unusual practices and rites of the magi of the Huginn Grove.*
+		The Curator of the Architects is close-by, overseeing the unusual practices and rites of the magi in the Huginn Grove.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
 		(C#Look around){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X002!DESCRIPTION!}
@@ -531,33 +500,33 @@ virgin run
 	
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!]
 		||
-		*Ormenos enters a domed chamber lit by what at first seems to be the warm glow of multitudinous fires burning away in blast furnaces, but which in fact are the usual crystalline suspects in rather unusual circumstances: they appear to be fruits borne by the tree itself, emblazoning its branches. A light smoky scent mixed with the dust from metallic filings permeates the otherwise pristine air.
+		*Ormenos enters a domed chamber. Myriad crystals ensure that light is in no short supply here, as they dangle from Huginn branches like maturing fruits. Shadows jealously guard what little territory remains for their ilk. A sudden draft brings with it a light smoky scent mixed with the dust from metallic filings.
 		
-		Several magi of the Architect caste can be seen plucking ripened crystals from their boughs and carefully inspecting their contents. This, the newest caste of the Enclavean Order, holds all responsiblity for the search of lost arts of the Thiuda and their predecessors, the Vanquished. Giant strides have been made toward remembering the methods for Writing Glyphs, the rediscovery of casting both far and near, as well as the instantaneous acquisition and apprehension of foreign Techne.
+		Several magi of the Architect caste pluck ripened crystals from their boughs and carefully inspect their contents. This, the newest caste of the Enclavean Order, holds all responsiblity for the search of lost arts of the Thiuda and their Vanquished predecessors. The upstarts have made giant strides toward remembering methods for Writing Glyphs, the rediscovery of casters - both far and near - as well as the instantaneous acquisition and apprehension of foreign Techne.
 		
-		The Curator of the Architects is close-by overseeing the unusual practices and rites of the magi of the Huginn Grove. Ormenos witnessed her locking of horns with the Muninn Grove's Curator not too long ago.*
+		The Curator of the Architects is close-by, overseeing the unusual practices and rites of the magi in the Huginn Grove. Ormenos then recalls the Curator's recent locking of horns with the Muninn Grove's Curator, bringing a involuntary smirk to his face - one he immediately smothers in propriety.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
-		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
+		(B#Talk to the Curator){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
 		(C#Look around){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X002!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0010!DESCRIPTION!|
-		*Ormenos walks up to the Overseer to engage her in convo.*
+		*Ormenos approaches the Curator and she quickly anticipates his intentions to speak.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!9999.X1209!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0010!DESCRIPTION!]
 		||
 		*The conversation at its terminus, the Form Forger coldly turns and walks into the grove without so much as casting a second glance back towards Ormenos.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Look around){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X003!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0010!DESCRIPTION!/]
-	
+
 >>>Saw proper alignment clue (2079)<<<
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X002!DESCRIPTION!]
 		|^2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!DESCRIPTION!|
-		*Ormenos begins to stroll through this supernatural grove admiring the fantastic and variegated fruits of the Huginn trees. But soon enough, he stumbles upon a clearing filled with wooden workstations, clearly fashioned from decommissioned trees. Groups of magi slave away in a feverish trance as they work to rediscover the secrets of the Thiuda and the Vanquished.
+		*Ormenos begins to stroll through the supernatural grove admiring the fantastic and variegated fruits of the Huginn trees. But soon enough, he stumbles upon a clearing filled with wooden workstations, clearly fashioned from decommissioned trees. Groups of magi slave away in a feverish trance as they work to rediscover the secrets of the Thiuda and the Vanquished.
 
 		Ormenos sees many masterful works of artifice being dismantled and meticulously studied. On one table, a recently discovered device in the desert region of Outer Sunargund that reads and executes Techne stored within crystals has garnered great acclaim and hope from those of the Order. Another table, illuminated by the fruits of an enormous Huginn, holds an item which is purported to instantaneously, but temporarily, weave a Glyph upon a mage's Trueflesh. This particular device was said to be known to the Kabans for centuries, but only came to the attention of the Enclave when the a Senior Thought-Weaver observed its use in one of the Wayfarer's many memories.
 		
