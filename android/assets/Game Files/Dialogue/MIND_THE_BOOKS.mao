@@ -37,7 +37,9 @@ RIKHARR
 
 	[/MIND!THE BOOK OF RIKHARR!THE BEGINNING!1.000!DESCRIPTION!]
 		||
-		*"Le Stuff"
+		*"The ancients believed all was preordained, that we were subject to the whims of savage gods. Their successors then believed the future was uncertain, inscrutable. Both were wrong, misguided.
+		
+		Soon the god we birthe will not only see the future, but also manipulate it on our behalves."
 		
 		Mind of the Spiral, Vol. VI*
 		(A#...){A:0,KAVU!DAZIL!MAGE'S ABODE!0.X000!DESCRIPTION!}
@@ -55,7 +57,7 @@ TORMA
 		||
 		*"If Time is but another dimension to traverse, a simple stroll into the past or future becomes trivial.
 		
-		Thus, in pursuit of our purpose, to the path of the Singularity our feet are directed. We go to a place where origin and terminus are one, a genuine closed loop encompassing All within an immeasurable unit."
+		Thus, in pursuit of our purpose, to the path of the Singularity our feet are directed. We go to a place where origin and terminus are one, a genuine closed loop encompassing totality within an immeasurable unit."
 		
 		Mind of the Spiral, Vol. II*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!9990.X2101!DESCRIPTION!}
@@ -108,43 +110,45 @@ UNFINISHED SHIT
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!1.000!DESCRIPTION!]
 		||
-		*Conversations... Connections... Conflicts... So much left undone. So many people left to unite. Differences become negligible under the light of true and meaningful communication. We may not always see eye to eye, yet in admitting so, we can finally march on toward a mutually beneficial compromise. This cannot possibly be the end. We will not let it be!*
+		*Conversations... Connections... Conflicts... So much left undone. So many people left to unite. Differences become negligible under the light of true and meaningful communication. We may not always see eye to eye, yet in admitting so, we can finally march on toward a mutually beneficial compromise.
+		
+		This cannot possibly be the end. We will not let it be!*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!1.000!DESCRIPTION!/]
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!2.000!DESCRIPTION!]
 		||
-		*Truth... Awareness... Understanding... There can be no closure without these and this inconclusive end is unsatisfactory to a seeker of truth. But acceptance of what 'is' comes part and parcel with the search. Seeing what the mind wants to see makes us prisoners of our own thoughts, our own illusions. Only those who shed the conceit of believing in endings will soon realize the illusory nature of this one and trudge forward, onwards to their new beginning...*
+		*Truth... Awareness... Understanding... There can be no closure without these. Thus, this inconclusive ending is unsatisfactory to a seeker of truth. But acceptance of what 'is' comes part and parcel with the search. Seeing what the mind wants to see only makes us prisoners of our own thoughts, our own illusions. Only those who shed the conceit of believing in endings will soon realize the illusory nature of this one and trudge forward, onwards to their new beginning...*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!2.000!DESCRIPTION!/]
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!3.000!DESCRIPTION!]
 		||
-		*Ambivalence... Complacence... Equivocation... For who cares what happens next? Detached observation is the only reasonable way to live in a universe both cold and dispassionate in equal measure. In truth, the only choice to make is whether we let its vicissitudes and whims control our tempers: events cannot upset the Mind, only opinions of them can.
+		*Ambivalence... Complacence... Equivocation... For who cares what happens next? Detached observation is the only reasonable way to live in a universe both cold and dispassionate in equal measure. In truth, the only choice to make is whether we let its vicissitudes and whims control our tempers. Events cannot upset the Mind, only opinions of them can.
 		
-		Thus, all there is to do is patiently wait for the next show to start and watch it as it slowly unfolds before Falseflesh's eyes.*
+		Thus, all there is to do is patiently wait for the next show to start and watch it as it slowly unfolds before the Falseflesh's eyes.*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!3.000!DESCRIPTION!/]
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!4.000!DESCRIPTION!]
 		||
-		*Schemes... Manipulation... Awareness... All tools required for survival on this acrimonious plane of existence. But he who laughs last, laughs best... Indeed. Yet caution must be observed and celebration postponed until victory - absolute and undeniable - peeks its rosy visage above tomorrow's horizon.
+		*Schemes... Manipulation... Awareness... All tools required for survival. But the one who laughs last, laughs best... Indeed. Yet caution must be observed and celebration postponed until victory - absolute and undeniable - peeks its rosy visage above tomorrow's horizon.
 		
-		However, tomorrow has yet to arrive; and at its uncertain edge it is impossible to see naught but the darkness which precedes it. Silent, dreadful, oppresive, this abyssal chaos waxes as our sanity wanes and patiently waits for it to exhaust itself in the solitude of our thoughts. But the darkness cannot last forever... Can it?*
+		However, tomorrow delays its arrival, and at today's uncertain edge it is impossible to see anything but the shadows of ignorance. Silent, dreadful, oppresive, this abyssal chaos waxes as our sanity wanes and patiently waits for it to exhaust itself in the solitude of our thoughts. But darkness does not last forever... Does it?*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!4.000!DESCRIPTION!/]
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!5.000!DESCRIPTION!]
 		||
-		*Power... Strength... Dominance... Ever-lusting for my rightful obeisance from the slobbering masses. The day will come when none - no beast nor god - will stand in my way. For this is what I should desire, is it not? Is there any sweeter symphony that the lamentations of my fallen enemy? Is there any scent more enticing than blood and fire? What of the sight of destruction - past, present and future - wrought by this chosen sovereign?
+		*Power... Strength... Dominance... Ever-lusting for my rightful obeisance from the slobbering masses. The day will come when none - neither beast nor god - will stand in my way. For this is what I should desire, is it not? Is there any sweeter symphony that the lamentations of my enemies? Are there any scents more enticing than blood and fire? And what could surpass the destruction - past, present and future - wrought by these hands?
 		
-		In time, the circle will be complete and this universe will bow to its new master. Right before I destroy it utterly.*
+		In time, the circle will be complete and this universe will bow to its new master... Right before I destroy it utterly.*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!5.000!DESCRIPTION!/]
 
 	[/MIND!UNFINISHED BUSINESS!NOT THE END!6.000!DESCRIPTION!]
 		||
-		*...Oh, hey, you found this... well, uh... I can guarantee you that I'm no gremlin wizard trying to mislead you... NO! I swear it! By Roostor's mighty comb, I swear it! So believe me when I say that the gremlins ate this book! Indeed, the author fought long and hard against the blasted vermin. But alas! Ultimately, the malodorous wretches birthed from a Jinn's colon outmaneuvered him through a clever ruse! They pointed over yonder, drawing the author's gaze thence, and then proceeded pilfered the manuscript while he conscientiously sought what they had seen.
+		*...Oh, hey, you found this... well, uh... I can guarantee you that I'm no gremlin wizard trying to mislead you... NO! I swear it! By Roostor's mighty comb, I swear it! So believe me when I say that the gremlins ate this book! Indeed, the author fought long and hard against the blasted vermin. But alas! Ultimately, the malodorous wretches birthed from a Jinn's colon outmaneuvered him through a clever ruse! They pointed over yonder, drawing the author's gaze thence, and next proceeded to pilfer the manuscript while he conscientiously sought what they had seen.
 		
 		Unfortunately, the true victims are the readers! For now they must wait another eternity - or two - for this to be re-written! But fortunately, you can kill gremlins ad nauseum in one of the other available titles until this one comes out!*
 		(A#TALLY HO){A:0,END GAME!END GAME!END GAME!}
