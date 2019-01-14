@@ -432,7 +432,7 @@ _________TOMES_________
 	@Songs of the Kavan@
 	$Tomes/Tome.jpg$
 	#
-	We Live No More on the Jenowin Plain
+	-We Live No More on the Jenowin Plain-
 	
 	It's a dust-cursed life,
 	Full of toil and strife,
@@ -448,27 +448,103 @@ _________TOMES_________
 	With the ghosts of old Ur'Ruk!
 	
 	
-	Biracul's Balls
+	-Biracul's Balls-
+
+    Though the Jinns be jeweled,
+    Their riches pale,
+    Next to the pouch between His legs!
+
+    No, don't be fooled!
+    There's proof He's male,
+    In that pouch between His legs!
+
+    Those glowing orbs, so finely tooled,
+    Their shine our eyes assail!
+    
+    Two perfect spheres the heavens ruled,
+    And now between His legs they flail!
+
+    Oh, Biracul's Balls! Biracul's Balls!
+    So freely do you sway!
+    Won't you cover that hole the Jinns came from,
+    So no more get away?
+    
+    bis
 	
 	
+	-She'd Rather Kiss a Draug-
 	
-	I Married a Draug
+    I saw her there across the Plain,
+    Just as pretty as could be!
+    I knew at once, my heart's ensnared,
+    She'd never set it free!
+
+    I flew to her on shakin' legs,
+    To beg her lips a kiss!
+    More frightened than I'd seen a Jinn,
+    More eager than a drunkard's piss!
+    
+    Her sparkling eyes looked up at me,
+    Those lips of hers rose red!
+    Her skin so soft, her breasts so full,
+    And then my true love said:
+
+    "I'd rather kiss a draug than you,
+    Now leave me well alone!
+    For if you don't, by Biracul's beard,
+    I'll turn you into one!"
+
+    bis
 	
 	
+	-Ark's Sacrifice-
 	
-	Ark's Sacrifice
+    Brothers, sisters, do recall,
+    The story of our Archmage.
+    If not for Her, we'd not be here,
+    Swallowed by the Jinnwraith's rage.
+
+    Her emerald blade, our shield was!
+    Her courage, our salvation!
+    Her light, the shadows' weakness was!
+    Her resolve, Rikharr's damnation!
+    
+    Chosen by the Shining One,
+    She alone paid the price.
+    Into the Crescent Canyon falling,
+    Remember Ark's Sacrifice!
 	
 	
+	-Beyond the Duskfangs-
 	
-	Till the Spring Runs Dry
+	I often look out to the west,
+    Out where teeth cut the sky.
+    What wonders, beyond those fangs,
+    Beyond those mountains lie?
+
+    A mage or two has braved the Plain,
+    But none have those peaks scaled.
+    Airships have cut through clouds,
+    But none that way have sailed.
+
+    I hope one day to be the first,
+    To be the only one to range.
+    I hope to reach the other side,
+    To go beyond the Duskfangs.
 	
-	
-	
-	Beyond the Duskfangs
-	
-	
-	
-	Melinoe Speaks
+
+	-When Melinoe Speaks-
+    
+    Silence reigns upon her lips,
+    Sealed secrets between thin strips.
+    
+    Whispers seem as howls to her,
+    Quiet, a great din.
+    Stillness is a sin,
+    She deems too loud to endure.
+
+    But if a word through her mouth slips,
+    Careful, for Death has you in its grips.
 	#
 [63/]
 
@@ -519,7 +595,7 @@ _________TOMES_________
 	- Khaa, Lib.#
 [66/]
 
-USED???
+UNUSED???
 [/67]
 	*THE RED TOWER
 	
@@ -628,16 +704,16 @@ USED???
 	*ON HUMAN NATURE
 	
 	'The Art of Blindsight'
-	cr. Rikharr of Kavu*
+	cr. Rikar of Kabu*
 	@On Human Nature@
 	$Tomes/Tome.jpg$
-	#Of a beast I will speak. A blind, idiot beast of the deepest abyss. Its gaping maw hungers for the most meagre essence to consume so that it may feel at one with that from which it is sundered. This creature, the Self I name.
+	#Of a beast I will speak. A blind, idiot beast of the deepest abyss. Its gaping maw hungers for the most meager essence to consume, so that it may feel at one with that from which it is sundered. This creature, the Self I name.
 	
 	You blind magi and fool folk of Kavu, Hearken! From the milk of Awareness I am weaned. The maddening wisdom through which the Vanquished were slain I now know: the Self is No Thing.
 	
-	Mark me, no mystic I am. That we are figments of the One’s great dream I think not. Too much substance do those mad men impart. I now simply say: the Self and negation are twinned. It is but a vacuum around which the currents of truth eddy and warp. 
+	Mark me, no mystic am I. That we are figments of the One’s great dream I think not. Too much substance do those mad men impart. I now simply say: the Self and negation are twinned. It is but a vacuum around which the currents of truth eddy and warp. 
 	
-	Folly, you say? By mere experience, is such a claim defeated! But the experience and the Self are unlike. Only when the mind is blinded to Awareness is the naked Self brought forth. A difficult task. For the Self hungers, as the ravenous desert wolf. Only through the consumption of the merest shard of thought is a shadow of being imparted. But through starvation, I have this beast tamed! When sensations of pain and pleasure are stilled, all thought annihilated, nothing remains!
+	Folly, you say? By mere experience, is such a claim defeated! But the experience and the Self are unalike. Only when the mind is blinded to Awareness is the naked Self brought forth. A difficult task. For the Self hungers, as the ravenous desert wolf. Only through the consumption of the merest shard of thought is a shadow of being imparted. But through starvation, I have this beast tamed! With sensations of pain and pleasure stilled, all thought annihilated, nothing then remains!
 	
 	Void is the Self and to substance bound. It is a space of What Is Not through the plenum of What Is forever wandering. Here, we do not belong, for the Self is an Outsider to the world in which it has been thrust!#
 [72/]
@@ -656,7 +732,7 @@ USED???
 	Practice, the key to mastery is. Henceforth all records my hand pens will this trick contain. Learn it Wayfarers and the once unremembered will not forgotten be!#
 [73/]
 
-Edit Style???
+
 [/74]
 	*KAVAN MYTHOLOGY
 	
@@ -664,13 +740,13 @@ Edit Style???
 	cr. Juskam of Kavu*
 	@Kavan Mythology@
 	$Tomes/Tome.jpg$
-	#Mythos and legends abound among the myriad peoples of both land and sea; yet none achieve such heights of splendor as those of my humble birthplace. More widespread and more acclaimed are the tales of Kavu than of any other peoples. From distances as great as Zhili, I have heard of reference to the rust-covered Hamlik - a clear derivative of our very own Famlaz, the Red Jinn. Yes, Jinnlore extends beyond the confines of our city walls, with numerous references made to the likes of Vanargand, Melinoe, Konki and Nerius, generally retaining their pigmented associations.
+	#Mythos and legends among the myriad peoples of both land and sea abound; yet none such heights of splendor as those of my humble birthplace achieve. More widespread and more acclaimed the tales of Kavu than of any other peoples are. From distances as great as Zhili, I of reference to the rust-covered Hamlik have heard - a clear derivative of our very own Famlaz, the Rubied Jinn. Yes, Jinnlore beyond the confines of our city walls extends, with numerous references made to the likes of Vanargand, Melinoe, Konki and Nerius, generally their pigmented associations retaining.
 	
-	Unsurprising is it then that our worship of Biracul should extend to places as far as Zemes and Sumarkund on opposite sides of the continent. Though Kavu may have been the first to feel His blessed touch, we were certainly not the last! What is shocking, however, is the consistency with which He is refered to as the Biracul or the Shining One. No other terms crop up beyond these two with any definitude. Though one magi Archivist, Eterslum of Sumarkund, proposed a link between Biracul and certain aprocrypha refering to the lesser-known of the post-Vanquished Masters, Viracocha, this theory has, by and large, been rejected.
+	Unsurprising then that our worship of Biracul should likewise to places as remote as Zemes and Sumarkund extend. Though Kavu the first to feel His blessed touch may be, we certainly not the last were! Shocking still, the consistency of terms Biracul and the Shining One are. No other terms beyond these two with any definitude appear. Though one Archivist, Eterslum of Sumarkund, a link between Biracul and Viracocha proposed, this theory, by and large rejected is - primarily to Viracocha's dubious origins due, given he only in certain post-Vanquished aprocrypha appears.
 	
-	One final mythos has arisen in recent times and that is the Valvorthr cult to Ark. Ark's apotheosis is only a local revelation and has not reached as far and wide as other Kavan exports. The most vile threat to assault Kavu since the Punishing Wars was none but the fallen mage Rikharr taken by the wraithglow and expectorated as Jinnwraith, leader of the loathsome draugnir horde. Ark's sacrifice saved the people, reminiscent of the Shining One's actions during the Punishing Wars, truly. 
+	One final mythos in recent times has risen: the Valvorthr cult to Ark. Ark's apotheosis solely a local revelation is, reach extending nary near as far and wide as other Kavan exports. The most vile threat to assault Kavu since the Punishing Wars, the fallen mage Rikharr taken by the wraithglow was and as Jinnwraith expectorated to the leader of the loathsome draugnir horde become. Ark's sacrifice the people shielded, reminiscent of the Shining One's actions during the Punishing Wars, truly. 
 	
-	The world is fortunate indeed to have such heroes and heroines to conquer the harrowing nightmares of the Graylands. Lucky are others indeed to drink of the wisdom of Kavan lore.#
+	The world fortunate is indeed to such heroes and heroines have to the harrowing nightmares of the Graylands conquer! Lucky others are indeed to of the wisdom of Kavan lore drink!#
 [74/]
 
 [/75]
@@ -774,7 +850,6 @@ Edit Style???
 	I take aim at the sparrow, and only then realize that perhaps there is greater danger in trespassing upon the king's hunting reserve than of enduring a few more hours of hunger; for death cannot be cured as hunger can! As I move to leave, I notice a sentry of the king's patrolling the path I am on and take flight before he spots me!#
 [79/]
 
-Edit Style???
 [/80]
 	*ART AND ARTIFICE
 	
@@ -782,11 +857,11 @@ Edit Style???
 	cr. Koenraad of Sumarkund*
 	@Upkeep for Artifacts@
 	$Tomes/Tome.jpg$
-	#The operation of the all but magical apparatuses of the Vanquished remain inscrutable to this day, though undeniable progress has been made by those of the Order. One such instance of progress comes in the form of maintenance protocol. As an example, all works of artifice other than crystals are of robust construction, yet worn and cracked ones respond poorly to the addition of water. The addition of heat, on the other hand, acts as a catalyst for an innate self-healing mechanism crafted into their godly design. This was first discovered when fragments of a broken warbeast were cast as scrap into a kiln, only to be found later to have reformed into a pristine panel - one that could once more securely coat the husk of its source.
+	#The operation of the all but magical apparatuses of the Vanquished inscrutable remain, even now. Though undeniable progress by those of the Order has been made indeed. One such instance of progress in the form of maintenance protocol clear is. As an example, all works of artifice, save crystals, of robust construction are, yet worn and cracked ones poorly to the addition of water respond. The addition of heat, on the other hand, as a catalyst acts, for an innate self-healing mechanism crafted into their godly design was. This first discovered was when fragments of a broken warbeast cast as scrap into a kiln were, only to later them find into a pristine panel reforged - one that could once more the husk of its source against harm secure.
 	
-	Not only this, but further did we discover that internal mechanisms have specific orientations for constituent parts, with the most common formation being components directed towards the Glyph of said artifact, as in metal seals found in cloudstones or portals found in the Throne Rooms of Vanquished ruins.
+	Not only this, but further discovery of internal mechanisms we celebrated. They specific orientations for constituent parts have, the most common formation towards the Glyph of said artifact directed, as in metal seals in cloudstones or portals found, such as those in the Throne Rooms of Vanquished ruins.
 	
-	One last bit of recent progress we have made in crystalography - and useful one it is! Through painstaking trial and error we have finally rediscovered the way to mend superficial imperfections in crystals. Humble though this may be, it is a significant leap in crystal safety, and has vastly increased crystal longevity.#
+	A final piece of recent progress in crystalography resides - and a useful one, in truth! Through painstaking trial and error, finally the way to mend superficial imperfections in crystals rediscovered is. Humble though this may be, a significant leap in crystal safety it is, and vastly has it crystal longevity increased.#
 [80/]
 
 [/81]
@@ -804,7 +879,6 @@ Edit Style???
 	May the great minds of humanity save us if we have erred. I only pray that it will not be too late.#
 [81/]
 
-Edit Style???
 [/82]
 	*ORIGINS OF THE SCHISM
 	
@@ -812,20 +886,35 @@ Edit Style???
 	cr. Destias of Thiuda*
 	@The Thiudan Transition@
 	$Tomes/Tome.jpg$
-	#Two Master magi of great import led a contingent of war-weary Adepti to the current locus of our Order.
-	Tasked were they with the defence of knowledge from the malignant clutches of the Biracul and his pernicious deity.
-	The first Patrons of Wisdom were Skyl and the twins Konki and Nerius.
-	Together they grew order from chaos and cultivated a legion of Discipline-driven Adepti successors.
+	#Two Master Magi of great import.
+    A contingent of war-weary Adepti led.
+    Here to the current locus of our Order.
+	Tasked were they.
+    With the defence of knowledge.
+    From the malignant clutches of the Biracul.
+    And his pernicious deity.
+	
+    The first Patrons of Wisdom.
+    Skyl and the twinned Master Konki and Nerius.
+	Together they grew order from chaos.
+    Cultivated a legion of Discipline-driven Adepti successors.
 	The birth of the Enclave.
 	The final bastion of truth.
 	
-	Yet, not all sat well between the Patrons, for though of similar purpose, their methods diverged.
-	Controlled growth, suited Skyl. To curb the expansion of a garden, he would regulate resources.
-	Excising excess, suited the twins. To curtail the spread of a garden, they would prune the flower-choking vines.
-	The twins vacated their Silver Thrones, leaving behind only the Path of Discipline as a parting gift to the Order.#
+	Yet, not all sat well between the Patrons.
+    Though of similar purpose, methods diverged.
+	Controlled growth, suited Skyl.
+    To curb the expansion of a garden.
+    He would regulate resources.
+	Excising excess, suited the twins.
+    To curtail the spread of a garden.
+    They would prune the flower-choking vines.
+	The twins vacated their Silver Thrones.
+    Their parting gift, the Path of Discipline.
+
+    For the good of the Order.#
 [82/]
 
-Edit Style???
 [/83]
 	*PRIMORDIAL TECHNOCRAFT
 	
@@ -833,14 +922,13 @@ Edit Style???
 	cr. Septim of Jer*
 	@On the Godsmited@
 	$Tomes/Tome.jpg$
-	#That Ramachu of Kabu would dare to posit his controversial hypothesis borders on blasphemy to Discipline! No more than speculative fancy does he describe in his final work 'On the Art of Casting'. Many a young acolyte has he led astray with such nonsense. Though his contributions to our Order are undeniable, the damage this one errant declaration he let slip through the filter of his wisdom may even merit seeking his effacement from the wall of our ancestral Patrons.
+	#That Ramachu of Kavu his controversial hypothesis posits, blasphemy to Discipline affronts! No more than speculative fancy, his final work 'On the Art of Casting' dangerous is. Many a young acolyte with the sparkling eyes of innocence his 'treatise' read and into Hamlik's Garnet web leapt! Though his contributions to our Order undeniable be, the damage this one errant declaration wrought, his effacement from the wall of our ancestral Patrons demands.
 	
-	My truest sympathies are with the many who fall prey to this deluded fugue he delivers. Who would it not please that we may yet transcend our limits and traverse time as we do meadows? Who would not desire to explore the chronology of existence as they would its geography? But puerile are these fancies and unsubstantiated they remain. Yet what pains me most is that a mounting body of evidence rejects this possibility, conclusively.
+	My truest sympathies with the many who fell prey to this deluded fugue he delivers rest. Who would it not please that we may yet our limits transcend and time as we do meadows traverse? Who would not desire to the chronology of existence explore, as they would its geography? But childish these fancies are and unsubstantiated they remain. Yet what me most pains, a mounting body of evidence rejects this possibility, conclusively.
 	
-	It is time we slay our inner-child and have its funeral, so that we might move beyond what ultimately stained wise Ramachu's legacy: baseless beliefs.#
+	Time to our inner-child slay has come, and its funeral celebrate, so that we might what stained wise Ramachu's legacy avoid.#
 [83/]
 
-Edit Style
 [/84]
 	*SPECTRAL PROJECTION
 	
@@ -848,17 +936,17 @@ Edit Style
 	cr. Ramachu of Kavu*
 	@On Casting@
 	$Tomes/Tome.jpg$
-	#My entire career has been dedicated to unraveling the mystery of Casting, from Librarian in Kavu to Senior Architect in the Order. While I had discovered many hidden truths to these long lost arts, I find my yearnings unsated. Nary a once did I succeed in casting even simple objects. 
+	#My entire career to unraveling the mystery of Casting dedicated, from Librarian in Kavu to Senior Architect in the Order. While I many hidden truths to these long lost arts have found, my yearnings yet unsated remain. Success in casting even simple objects ever my grasp eluded.
 	
-	Hence here, at the edge of the mortal coil, the time of my departure from the Falseflesh nears, my thirst for knowledge remaining unquenched. As such, I leave as my final contribution to the field of Casting a theory as bold as it is speculative, as momentous as it is unsubstantiated:
+	Hence, here at my mortality's edge, my departure from the Falseflesh nears, thirst for knowledge yet undying. As such, as final contribution to the field of Casting, I a theory as bold as it is speculative impart. This proposal, as momentous as it unsubstantiated is, follows:
 	
-		May the record show that Ramachu of Kabu first decreed it thus! That the Stone Circles - relics of the ancients, archaic even to the hoary Vanquished - belong to the family of Casters, though far exceeding them in function! 
+	History as witness, Ramachu of Kavu first it thus decreed! The Stone Circles - relics of the ancients, archaic even to the hoary Vanquished - to the family of Casters belong, though them in function far exceeding!
 		
-	Given the similarity in the markings, I posit transportation is but one of the many functions these cryptic heirlooms accomplish. More wild than this is that I believe they are likewise responsible for what I shall refer to as 'Spectral Projection' - imagine, if you will, a cube casting itself as a square upon a flat surface, a shadow of itself. 
+	Given the similarity in the markings, I transportation suspect as but one of the many functions these cryptic heirlooms accomplish. More wild than this, I them believe to likewise responsible be for 'Spectral Projection' - I you ask to a cube imagine as it upon a flat surface itself casts as a square, merely a shadow of itself.
 	
-	Should this prove to be true, such masterful works of artifice would lead to scores of unexplored implications! Chief among these would be the possibility of pre-Vanquished societies ascending to different planes of existence, only to casting their shadows down upon our very own plane. Could we not then be just the shadows of the Monad?!
+	Should this true prove, such masterful works of artifice would to scores of unexplored implications lead! Chief among these, the possibility of pre-Vanquished societies to different planes of existence ascending, only to their shadows then cast down upon our very own plane. Could we not then just the shadows of the Monad be?!
 	
-	Though I cannot in good faith claim this as truth, I shall claim it merely as insight, the veracity of which is left to wiser and more capable successors to determine. Vindicate or invalidate my thoughts; it makes no difference to this old mage; for even in the bitter grip of failure, I retain my lust for truth and will settle for nothing less!
+	Though in good faith I cannot this as truth claim, mere insight it be, the veracity of which for wiser and more capable successors left to determine is. Vindicated or invalidated, no difference to this old mage between them; for even in the bitter grip of failure, I my lust for truth retain, and for nothing other than truth can be sated!
 	
 	For the good of the Order.#
 [84/]
@@ -1013,7 +1101,6 @@ Edit Style
 	(Present)#
 [86/]
 
-Edit Style???
 [/87]
 	*ANALYSIS OF RIKHARR
 	
@@ -1021,28 +1108,30 @@ Edit Style???
 	cr. Ormenos of Jer*
 	@Analysis of Rikharr@
 	$Tomes/Tome.jpg$
-	#"Of a creature [beast?] I will speak. A blind ... beast of the deepest abyss. Its gaping maw hungers for the most meagre essence to consume so that it may feel at one with that from which it is sundered. ...[It] the Self I name."
+	#   Though some this work as apocryphal see, I it will as true regard. Here my analysis of the demonized Kavan man's only extant work follows:
+
+    "Of a creature [beast?] I will speak. A blind ... beast of the deepest abyss. Its gaping maw hungers for the most meager essence to consume so that it may feel at one with that from which it is sundered. ...[It] the Self I name."
 	
-	These are the opening words of the tortured mage, Rikharr of Kavu. Having been touched by Chaos itself, he took a nihilistic view and opted to force it upon all. His reasoning is sound, though his endgoals are antagonistic to right-minded individuals. For he believes that if we are but the pawns of some cosmic manipulator, then there is only one way to break the grip of the invisible hand moving the pieces: destroy the pieces.
+	These, the opening words of the tortured mage be. Rikharr of Kavu by Chaos itself touched, nihilistic views adopted and to it upon all force opted. His reasoning though sound, his endgoals antagonistic to right-minded individuals are. He thus implies: that if we but the pawns of some cosmic manipulator are, if it us moves as pieces on a gameboard, then only one way to break the grip of this invisible hand remains: we must the pieces destroy.
 	
-	All games must end, yet mage Rikharr found a way to force the 'blind beast' to abide by his rules instead of the dispassionate whims of the transcendent. Therein lies the brilliance of this figure, so often maligned.
+	All games must end, yet mage Rikharr a way to force the 'blind beast' found, one in which to his own rules enforce instead of to the dispassionate whims of the transcendent follow. Therein the brilliance of this maligned Kavan lies.
 	
-	"Mark me, no conjurer [mystic?] I am. That we are figments of the One’s great dream... Too much substance do those mad men impart. ...the Self and negation are twinned. It is but a vacuum around which the currents of truth eddy and warp."
+	"Mark me, no conjurer [mystic?] am I. That we are figments of the One’s great dream... Too much substance do those mad men impart. ...the Self and negation are twinned. It is but a vacuum around which the currents of truth eddy and warp."
 	
-	And here, in negating the Biraculian monotheism of his culture, he ascends to a realm unseen by the dregs of our species: he becomes a pure mage! But how far did he see beyond us ordinary magi? For have not all magi experienced that the Self is all that exists? Those who passed through the dreary gates of the Graylands and into the Mindscape cannot deny this truth! Yet, the tortured mage appears here to purport that existence is meaningless without its negation.
+	And here, in the Biraculian monotheism of his culture negating, he to a realm unseen by the dregs of our species ascends: he a pure mage becomes! But how far did he beyond us ordinary magi witness? For have not all magi the Self's existence experienced? Those who through the dreary gates of the Graylands passed and into the Mindscape peered cannot this truth deny! Yet, the tortured mage here purports that existence without its negation meaningless is.
 	
 	"The Self hungers, as the ravenous [dog?]... Only through the consumption of the merest shard of thought is a shadow of being imparted. ...I have this beast tamed! When sensations of pain... all thought annihilated, nothing remains!"
 	
-	The equivalence of thought with the Self here is one of his most outstanding contributions to metaphysics, but it remains hotly contended to the present day. How could it not be? Thought can cease, but can the Self?
+	The equivalence of thought with the Self, one of his most outstanding contributions to metaphysics is, but hotly contended it remains. How could it not be? Thought can cease, but can the Self?
 	
-	"Here, we do not belong, for the Self is an Outsider [Foreigner?] to the world in which..."
+	"Here, we do not belong, for the Self is an Outsider [Alien?] to the world in which..."
 	
-	And in parting, he leaves us with the pinnacle of his thoughtless thought, with the solution to all our ills... For which I now propose an alternative reading, one in contrast to Rikharr the mage, but in keeping with Rikharr the man: 
+	And in parting, he us with the pinnacle of his thoughtless thought withdraws, with the solution to all our ills... For which I now an alternative reading propose, one in contrast to Rikharr the mage, but in keeping with Rikharr the man.
 		
-		If we acknowledge that only death, annihilation, non-existence can solve all our problems, yet we refuse to snuff the flame of the Mind's Fire, to eradicate our Falseflesh, then is not our only alternative to learn to live with the ugliness which mirrors beauty? To accept the pain which accompanies pleasure? Do we not then have a greater appreciation for what we must do, rather than what we wish to do?#
+		If we acknowledge that only death, annihilation, non-existence can all our problems solve, yet still to snuff the flame of the Mind's Fire refuse, our Falseflesh's eradication resist, then our only alternative clear is: we must with the ugliness which mirrors beauty coexist. To the pain which accompanies pleasure accept. Do we not then a greater appreciation for what we must do find? Do we not above what we wish to do this hold? Time will the answer reveal.#
 [87/]
 
-USED???
+EDIT???
 [/88]
 	*BEFORE THE FALL - I
 	
@@ -1050,7 +1139,7 @@ USED???
 	cr. Joffris of Okum*
 	@Before the Fall - I@
 	$Tomes/Tome.jpg$
-	#	A dark winter's night creeps over the land, clawing its way westward with its icy fingers, belching its chill snow round the Dark Lord's keep. But tonight, the Master of Night faces the inevitability of his own demise. A night he knew would come--for was it not a fall wrought by his own cursed hands?
+	#	A dark winter's night creeps over the land, clawing its way westward with icy fingers, belching chill snow round the Dark Lord's keep. But tonight, the Master of Night faces the inevitability of his own demise. A night he knew would come--for was it not a fall wrought by his own cursed hands?
 
     Sitting upon his sullied throne, the Dark Lord raps his crusted fingernails upon its pewter arm. Slowly, steadily, ever-gaining in frequency and intensity, he clicks his gnarled digits against the metal. Waiting. Eternally. Expectantly. For his sworn enemy's arrival.
 

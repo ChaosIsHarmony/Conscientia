@@ -1277,7 +1277,7 @@ Met Cook Ding
 met cook ding + two events
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.003!DESCRIPTION!]
 		||
-		*A contingent of younger acolytes greet Ormenos' sight as they sweep, mop and otherwise clean the filth left by the ravenous magi. The mixed scent of oils and spices lingers in the air, bringing a slight welling of drool in Ormenos' mouth. Yet, all a hungry mage can do is satsify themselves with imagining the delights that will appear in the Refectory tomorrow; for the feasts are over for the day as night descends upon the Enclave.*
+		*A contingent of younger acolytes greet Ormenos' sight as they sweep, mop and otherwise clean the filth left by the ravenous magi. The mixed scent of oils and spices lingers in the air, bringing a slight welling of drool in Ormenos' mouth. Yet, all a hungry mage can do is satsify themselves with imagining the delights that will appear in the Refectory tomorrow; for the feasts are over as night descends upon the Enclave.*
 		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.003!DESCRIPTION!/]
 		

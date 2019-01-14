@@ -586,22 +586,22 @@ wasteland + urruk
 |16027:false, Ormenos beat you in the Wasteland (per)
 |16028:false, Awareness Glyph evaporates sealing Hel
 |16029:false, Collected Salt Forest Tome (per)
-|16030:false, Looked into the fire in the Red Tower
-|16031:false, Read a tome in the Red Tower
-|16032:false, Read a second tome in the Red Tower
-|16033:false, Read a third tome in the Red Tower
-|16034:false, Attempted to escape the Red Tower
-|16035:false, Attempted to escape the Red Tower twice
-|16036:false, Drunk the chaos water
-|16037:false, Talked to the reflection
-|16038:false, Used Occult Mind on the Monsters in the 2nd Chamber
-|16039:false, Killed the Monsters in the 2nd Chamber
-|16040:false, Defeated Ormenos Reborn
-|16041:false, Resolved the 3rd chamber
-|16042:false, Died from the Monsters in the 2nd Chamber
-|16043:false, Died from poison in the 3nd Chamber
-|16044:false, Died from brids in the 4th chamber
-|16045:false, Died from books in the 5th chamber
+|16030:false, 
+|16031:false, 
+|16032:false, 
+|16033:false, 
+|16034:false, 
+|16035:false, 
+|16036:false, 
+|16037:false, 
+|16038:false, 
+|16039:false, 
+|16040:false, 
+|16041:false, 
+|16042:false, 
+|16043:false, 
+|16044:false, 
+|16045:false, 
 |16046:false, Chose to look at the statuette
 |16047:false, Destroyed Salt Forest crystal
 |16048:false, Came from Salt Forest to Stilled Sand Crater
