@@ -180,7 +180,7 @@ _________GLYPHS_________
 
 _________TOMES_________
 [/50]
-	*COMBAT ARTS
+	*THE ART OF COMBATO
 	
 	'Theory of Combat'
 	cr. Drago Gulga of Turrok
@@ -355,21 +355,21 @@ _________TOMES_________
 	cr. Thetian of Jer*
 	@Confession of Thetian@
 	$Tomes/Tome.jpg$
-	#	Before retreat, I a confession leave for the daughter of Biracul. I her warn of the deception and conniving, but more than this, the danger of Kaban politics. I, Thetian, a mage freed from Enclave restrictions by the grace of Biracul himself, confess.
+	#	Before retreat, here I a confession leave for the daughter of Biracul. I her warn of the deception and scheming, but more than this, the danger of Kaban politics. I, Thetian, a mage freed from Enclave restrictions by the grace of Biracul himself, confess.
 	
-	Ormenos, as master led me to Kabu in search of Urrugh, ancient site of legend. I to aid him in research as he traversed the Wastes came, but the effects of the wraithglow nearly of my agency robbed me. Had the Tacribian rangers not returned me to the healers, I one of the foul abominations corrupting the Stilled Sand Crater would have become. Thus, I in Dazir with Brother Entropy Stayer remained... with Kambesh. Ormenos from the Wastes returned and was changed in purpose - frightened, desperate, raving! He human subjects demanded for some perverse venture to render the mind unassailable. All eyes now us viewed with suspicion and disgust. My master was to the wastes banished, robbed of Techne, turned Unseen - as only the foulest criminals here are. Yet, Kambesh on me took pity and kept me as mentor to his Librarian, Khaa.
+	Ormenos, as Brother, to Kabu in search of Urrugh, ancient site of legend, led. I to aid him in traversing the Wastes came, but the effects of the Kaban wraithglow nearly me of agency stripped. Had the Tacribian rangers not me to the healers returned, one of the foul abominations corrupting the Stilled Sand Crater would I have become. Thus, I in Dazir with Brother Entropy Stayer... with Kambesh remained. Ormenos from the Wastes returned and was in purpose changed - frightened, desperate, raving! He human subjects demanded, for some perverse venture to the Trueflesh render unassailable. All eyes now us viewed with suspicion and disgust. Ormenos to the Wastes banished was, of his Techne despoiled, Unseen made - as only the foulest criminals here are. Yet, Kambesh for me mercy showed, kept then as mentor to his Librarian, Khaa.
 	
-	Khaa and Tambulan Librarian Pakahron as magi showed great promise, though the latter moreso. I with them shared the secret knowledge of Kambesh: twinned Glyphs of Purification and Corruption. My wish to teach them of the balance the universe desires in creating pairs was, to show how the whole greater than the sum of its parts is. But this their grasp eluded, for they these secrets coveted not for the love of knowledge.
+	Khaa and Tambulan Librarian Pakahron as magi great promise showed, though the latter moreso than the former. I with them shared the secret knowledge of Kambesh: twinned Glyphs of Purification and Corruption. My desire to teach them of the balance the universe demands in creating pairs was, to show how the whole greater than the sum of its parts is. But this their ken eluded, for they these secrets coveted not for the love of knowledge.
 	
-	Upon the death of mage Ramachu of Tambul from dysentery, his people for the leadership of Kambesh clamored. Pakahron contested this most fervently, claiming that an outsider such as Kambesh could not  with the title of Archmage be trusted. Yet, the people with Kambesh sided, for so truly gifted was he.
+	Upon the death of mage Ramachu of Tambul from dysentery, his people for the leadership of Kambesh clamored. Pakahron this contested most fervently, claiming an outsider could not with the title of Archmage be trusted. Yet, the people with Kambesh sided, for so truly gifted he was.
 	
-	With Khaa colluding, Pakahron orchestrated Kambesh's death, wishing to steal his treasured artifacts and Glyphs, scheming to his position usurp. Only with the help of demons could they have achieved such a feat, as Kambesh would not easily slain be. Their methods to me remain a mystery, but the result devastating was.
+	With Khaa colluding, Pakahron Kambesh's death orchestrated, wishing to his treasured artifacts and Glyphs steal, scheming to his position usurp. Only with the help of a Master could they have such a feat achieved, as Kambesh would not easily slain be. Their methods to me a mystery remain, but the result devastating was.
 	
 	Kambesh by their will perished. His Glyphs stolen were. He supplanted was.
 	
-	Flight from the region my only choice was and in fear I to the Jenowin Plain took, so that I at their behest would not Kambesh follow into the Graylands. Though it was in the Jenowin Plain that I most nearly died. Were it not for Biracul's grace and my great fortune of His blessing, I would have surely succumbed. He me nourished and me gave a way back to my home in Valonheim.
+	Flight from the region my sole option was, and in fear I to the Jenowin Plain took, so that I at their behest would not Kambesh into the afterlife follow. Though it was in the Jenowin Plain I most nearly died. Were it not for Biracul's grace and my great fortune of His blessing, I would have surely succumbed. He me nourished and me gave passage back to Valonheim. He rightfully worshipped by many is.
 	
-	Though not of much help, I this confession to aid his daughter leave. Do not the magi Khaa and Pakahron trust; their egotism allows only for treachery and deceit!
+	Though not much, I this confession to aid his daughter leave. Do not the magi Khaa and Pakahron trust. They only treachery and deceit know!
 	
 	-Thetian#
 [60/]
@@ -431,7 +431,10 @@ _________TOMES_________
 	cr. Zoresh of Kavu*
 	@Songs of the Kavan@
 	$Tomes/Tome.jpg$
-	#It's a dust-cursed life,
+	#
+	We Live No More on the Jenowin Plain
+	
+	It's a dust-cursed life,
 	Full of toil and strife,
 	We vagabonds undergo.
 	And our tents are lain,
@@ -442,7 +445,31 @@ _________TOMES_________
 	And our chief has a Jinn's own luck!
 	But the we'll take our chances
 	When into the Graylands he dances,
-	With the ghosts of old Ur'Ruk!#
+	With the ghosts of old Ur'Ruk!
+	
+	
+	Biracul's Balls
+	
+	
+	
+	I Married a Draug
+	
+	
+	
+	Ark's Sacrifice
+	
+	
+	
+	Till the Spring Runs Dry
+	
+	
+	
+	Beyond the Duskfangs
+	
+	
+	
+	Melinoe Speaks
+	#
 [63/]
 
 [/64]
@@ -492,6 +519,7 @@ _________TOMES_________
 	- Khaa, Lib.#
 [66/]
 
+USED???
 [/67]
 	*THE RED TOWER
 	
@@ -504,7 +532,7 @@ _________TOMES_________
 	Their bones the frame, their blood the brick,
 	Time frozen at its final tick.
 	
-	Downward Spiral to the beyond,
+	Downward Spiral to the Beyond,
 	My long ascent to new time dawned.
 	All Glyphs gathered within my womb,
 	Birthed anew from Falseflesh's tomb.
@@ -628,6 +656,7 @@ _________TOMES_________
 	Practice, the key to mastery is. Henceforth all records my hand pens will this trick contain. Learn it Wayfarers and the once unremembered will not forgotten be!#
 [73/]
 
+Edit Style???
 [/74]
 	*KAVAN MYTHOLOGY
 	
@@ -745,6 +774,7 @@ _________TOMES_________
 	I take aim at the sparrow, and only then realize that perhaps there is greater danger in trespassing upon the king's hunting reserve than of enduring a few more hours of hunger; for death cannot be cured as hunger can! As I move to leave, I notice a sentry of the king's patrolling the path I am on and take flight before he spots me!#
 [79/]
 
+Edit Style???
 [/80]
 	*ART AND ARTIFICE
 	
@@ -774,6 +804,7 @@ _________TOMES_________
 	May the great minds of humanity save us if we have erred. I only pray that it will not be too late.#
 [81/]
 
+Edit Style???
 [/82]
 	*ORIGINS OF THE SCHISM
 	
@@ -794,6 +825,7 @@ _________TOMES_________
 	The twins vacated their Silver Thrones, leaving behind only the Path of Discipline as a parting gift to the Order.#
 [82/]
 
+Edit Style???
 [/83]
 	*PRIMORDIAL TECHNOCRAFT
 	
@@ -808,14 +840,15 @@ _________TOMES_________
 	It is time we slay our inner-child and have its funeral, so that we might move beyond what ultimately stained wise Ramachu's legacy: baseless beliefs.#
 [83/]
 
+Edit Style
 [/84]
 	*SPECTRAL PROJECTION
 	
 	'On the Art of Casting'
-	cr. Ramachu of Kabu*
+	cr. Ramachu of Kavu*
 	@On Casting@
 	$Tomes/Tome.jpg$
-	#My entire career has been dedicated to unraveling the mystery of Casting, from Librarian in Kabu to Senior Architect in the Order. While I had discovered many hidden truths to these long lost arts, I find my yearnings unsated. Nary a once did I succeed in casting even simple objects. 
+	#My entire career has been dedicated to unraveling the mystery of Casting, from Librarian in Kavu to Senior Architect in the Order. While I had discovered many hidden truths to these long lost arts, I find my yearnings unsated. Nary a once did I succeed in casting even simple objects. 
 	
 	Hence here, at the edge of the mortal coil, the time of my departure from the Falseflesh nears, my thirst for knowledge remaining unquenched. As such, I leave as my final contribution to the field of Casting a theory as bold as it is speculative, as momentous as it is unsubstantiated:
 	
@@ -980,6 +1013,7 @@ _________TOMES_________
 	(Present)#
 [86/]
 
+Edit Style???
 [/87]
 	*ANALYSIS OF RIKHARR
 	
@@ -1007,6 +1041,119 @@ _________TOMES_________
 		
 		If we acknowledge that only death, annihilation, non-existence can solve all our problems, yet we refuse to snuff the flame of the Mind's Fire, to eradicate our Falseflesh, then is not our only alternative to learn to live with the ugliness which mirrors beauty? To accept the pain which accompanies pleasure? Do we not then have a greater appreciation for what we must do, rather than what we wish to do?#
 [87/]
+
+USED???
+[/88]
+	*BEFORE THE FALL - I
+	
+	'Before the Fall - I'
+	cr. Joffris of Okum*
+	@Before the Fall - I@
+	$Tomes/Tome.jpg$
+	#	A dark winter's night creeps over the land, clawing its way westward with its icy fingers, belching its chill snow round the Dark Lord's keep. But tonight, the Master of Night faces the inevitability of his own demise. A night he knew would come--for was it not a fall wrought by his own cursed hands?
+
+    Sitting upon his sullied throne, the Dark Lord raps his crusted fingernails upon its pewter arm. Slowly, steadily, ever-gaining in frequency and intensity, he clicks his gnarled digits against the metal. Waiting. Eternally. Expectantly. For his sworn enemy's arrival.
+
+    In the space of a thought, the heavy oak barriers squeal on their hinges, propelled further by the savage winter winds. The darkness of night obscures all beyond the keep's portal. Yet soon there is motion. Barely perceptible at first, the confident stride of a cloaked figure gains in clarity as the figure gains in proximity. The Dark Lord's slayer cometh.
+
+    What had appeared to be confidence in gait was perhaps a mere illusion born of shadows and anticipation, as the figure limping through the great oaken door can do little more than stand--this itself is a minor miracle, after having cut through the demon hordes defending the battlements. Yet a fire burns in those eyes, fueled by righteous furor and a lust for glory. In truth, it is the same fire that once burned in those coal-black eyes of the man sitting upon the pewter throne.
+
+    The Master of Night muses back upon his flawed existence, wondering now what he should regret, if anything. Wisely he sates his hunger for one to blame with only himself. In the end, he knew that though the universe may have thrust a sword into his hand, it was he who chose to use it.
+
+    With his peace made, the Dark Lord rises from his throne and raises a wrinkled hand into the air, only to lower it as a clenched fist. His knotted fingers crack against his palm as his grip tightens, compressing the very air into powder. A forgotten passion temporarily reignites within the cold void of his soul.
+
+    The battered warrior at the door gains the strength of a desperate man, drawing it from the unplumbed depths of his soul. A strength that bolsters his structure for a final assault on his chosen evil. He darts forward, the Master of Night responding in kind.
+
+    Their two voices erupt into twinned battle cries determined to beat the odds and punish the cruelty of fate. Ever-closer do they draw. Ever-fiercer do they grow. Until the moment they collide. That moment sealed by fate many cycles before the slayer was born. That moment expected by the slain ever since he realized whose flesh he had assumed those many moons ago.
+
+    Upon the warrior's blade the Dark Lord's body rested, the struggle now over, true peace finally attained. What is the beginning for one man, is likewise his end.#
+[88/]
+
+[/89]
+	*BEFORE THE FALL - II
+	
+	'Before the Fall - II'
+	cr. Joffris of Okum*
+	@Before the Fall - II@
+	$Tomes/Tome.jpg$
+	#	The warrior's fame spreads far and wide. He is now known by numerous epithets--Darksbane, Nightslayer, and Hopebringer among them. He has conquered the evil besetting the kingdom and brought peace to the world, and his heroic deeds have earned him a place in the hearts of all folk.
+
+    Years come and they go and along with them vanish the painful memories of oppression and subjugation under the Dark Lord's regime. No demons remain to torment. No coal-black clouds hang perpetually in the skies. And soon, no trace will linger of a past evil at all. The people have truly entered an age of great prosperity, peace now reigning in evil's stead.
+
+    But the warrior who brought it all about suffers. His entire life he had spent training to slay the demonic, to purge the malevolent. But now that no evil remains, he is without purpose, without function...
+
+    Initially, he attempts to shuck the yoke of his heroic past and reintegrate into society. Yet his failures are so absolute that soon none would hire him, even in spite of his status as savior.
+
+    First, he becomes a farmhand, but one day while clumsily pitching hay, he accidentally knocks over an oil lamp in a stable. Mere moments later, the whole structure is ablaze, burning throughout the night, leaving only ash where the region's most profitable horse stable once stood.
+
+    Next, he becomes a sailor, very soon finding his sea legs to be made of gelatin. He spends the season draped over the bow, wan in face and incessantly retching the contents of his unsympathetic stomach into the ocean.
+
+    Last, he makes an effort to study trade. He learns to buy and sell mundane quarry--that is compared to the horns of slain demons--such as silks and textiles. Yet his trusting nature and honesty lead to unwise investments, costing him all of his remaining coin.
+
+    Ten years thus pass in the space of a thought, and without even the shadow of success in sight. Ten years of toil, agony and failure have aged his body tenfold. Now looking upon his withered and gnarled hands, he no longer recognizes them as his own. He had once been the strongest in the land, but now there are none weaker.
+
+    To his misfortune, news of his legendary incompetence for anything but demon-slaying spreads and he is soon without recourse. Doors shut in his face; dismissive hands wave him away. Even as a beggar he fails, for none are willing to approach him, much less drop a coin into his grotesque hands. Mothers warn children to keep their distance; people divert their course to avoid passing near him. Soon none even remember who he is or why they spurn him; they just know to do so with religious fervor.
+
+    Ten more years pass in the blink of an eye. This former hero spends his miserable days hunting rats and digging through refuse to find some half-spoiled head of cabbage. He has become utterly unrecognizable.
+
+    One day, he finds himself wandering the grimy streets of a dispassionate city, and he decides to finally search for an appropriate place to collapse and end his tragic existence. And find it he does. Along an unmarked alley in a forgotten part of town, he falls to the ground, kissing stone, unable and unwilling to move any longer.
+
+    Twenty years have elapsed since he freed the traitorous world from their horrific overlord. Though a mere drop in the ocean of time, these two decades were time enough to break the spirit of the one man who had the optimism to save the world. And now, he will die unmourned, unremembered, unwanted...
+
+    But out from the darkness of that trash-filled alley comes a cloaked individual, staring down upon the broken man's wretched form. A simple raising of this unknown figure's hand levitates the body from the floor. Yet another deft gesture gently propels it through the air and toward an opened door at the end of the forgotten alley. The cloaked figure follows the floating body in and the door shuts behind them.
+
+    In this dusty, ill-lit room are jars housing a frightening menagerie of creatures suspended in viscous fluids of many colors. Cauldrons bubble absent fire. Furniture clears a path, compelled by some invisible force. Leather-bound tomes shut themselves and fly to their appointed places upon distant shelves.
+
+    When the former warrior finally stirs, he finds his form bound to a cold metal surface. There he lies, naked and afraid. Fear? But of what? Was he not searching for death? The cloaked figure appears before him, lips curled into a sinister grin.
+
+    The trapped man now feels a burning rage surge within him. But he soon realizes that this devil standing before him is not the object of his anger. Then who? The images of all who had betrayed him flash before his mind's eye. All the shopkeepers, the housewives, the sailors and farmers, the merchants and children, all of them appear with their mocking laughter, fingers pointed at him.
+
+    These memories, both constructed and real, come pouring forth from the depths of his soul, culminating in a clarion cry of absolute pain. His vision blurs, all colors merging, gaining in brightness and intensity. Soon all he sees is white. And in a flash of blinding light, his body disappears.#
+[89/]
+
+[/90]
+	*BEFORE THE FALL - III
+	
+	'Before the Fall - III'
+	cr. Joffris of Okum*
+	@Before the Fall - III@
+	$Tomes/Tome.jpg$
+	#	Darkness. Undisturbed, unadulterated nothingness.
+	
+	Silence. Unbroken, uninterrupted absence.
+
+    A spark, first seen and only then heard, ignites a meager flame from lingering intent. What is a man when stripped of flesh and bone but intent? The sword saves lives in the hands of a guardian, but in the hand of a murderer it merely kills.
+
+    The flame grows, fed on the fuel of emotion. What is intent without emotion? The guardian cannot protect without love and the murderer cannot slay without contempt.
+
+    The flame blossoms into a very familiar, all-consuming conflagration, filling the void to its very edges. For in the end, the actions of the sword share the same results in spite of their intent.
+
+    Regaining awareness of body, the broken warrior's withered hand reaches out through time to catch the fire. Clutching it in his frail hand, he takes with it an immense and ineffable power. Seeping into his weakened form, every bone, every muscle, everything returns. Youth regained, strength recovered, his body becomes whole. Years peel away, and his energy peaks. Knowledge beyond his comprehension flows inwards from bygone eras. He feels he can move mountains at a whisper, freeze oceans at a glance. He learns to control the elements, to bend them to his will. And at last, he learns a path back to his world.
+
+    A mere thought and the endless void vanishes, replaced by a mundane, moonlit forest, leaving only the man and his rage. Betrayal remains carved into his very soul, like a fresh branding that will never heal. He seeks his revenge and nothing else will suffice.
+
+    At his whim, all creatures of the forest congregate before him, bowing at his feet. With the mere flick of his wrist, their forms warp and distort into hideous, mixed beasts. Wolves meld with stags and bears with cougars, birthing terrible, demonic creatures. This depraved, unnatural army, built solely for the purpose of slaughter and destruction, eagerly awaits its commands.
+
+    With the deft swinging of his arm, the wizard sets his nightmare army in motion. Howls act as trumpets, heralding the twisted horde's march through the midnight forest. Their four-pawed gallop carries them through the trees with inhuman speed. Their master follows, carried on the wailing winds. Faster and faster the misshapen beasts weave through pines and firs, until they reach the edge of the forest. A sleeping village. His vengeance begins.
+
+    The demonic soldiers raze the town, murdering indiscriminately. Peasant blood irrigates the burning fields, screams fill the midnight air, and corpses litter the landscape. In a final display of wanton destruction, the wizard lights the buildings ablaze with a grand motion of lifting arms and clenching fists. But his hunger is yet unsated; this is simply the beginning!
+
+    Suddenly, deep within, the wizard feels his own fire dwindle, ever so slightly. An outward sign catches his eye, when he sees his left thumb has withered--a reminder of his wretched and pathetic form beneath the fiery cloak of power. But his desire for revenge far outweighs his fear of relapse and he marches onward.
+
+    For ten years he brings destruction upon the land with his demon hordes, gathering legions of sycophantic human followers along the way. Never does he trust the fickle humans he collects, though; to him, they serve as fodder for his enemies' armies and nothing more; humans are nothing in his eyes. Though his cold demeanor does not extend to all soldiers of his army. For in time, he bestows his beasts with sentience, despite the heavy cost incurred, as his left leg withers instantly upon granting this gift. Yet their unquestionable loyalty and companionship leave no room to regret the decision and the wizard bears the cost gladly.
+
+    But after ten years, he has destroyed the kingdoms that defied him and united the land under his dark banner. Now his banners of a starless night sky with a blood-red border dance in the wind above all castles in the land. However, the cost is great indeed. For he has now returned to his former decaying and shriveled body; and the blazing conflagration once within him has again waned to no more than a candle's flame.
+
+    For ten more years, he rules by force of reputation alone, never using his remaining power. He sits patiently upon his pewter throne signing edicts and performing the mundane tasks any lord might. When anyone sows the seeds of rebellion, he burns and salts the fields, quelling even the desire for change. He knows that none will rise to save these arrogant humans, that they are getting what they deserve!
+
+    But at the end of these ten years, he receives a report which leaves him mouth agape, not knowing whether to laugh or cry. A new hero has arisen among the people, one who has promised to vanquish the Dark Lord and to free the people from his oppression. The reality of this familiar situation hits him like an earthquake, shaking the very foundations of his resolve. His meager candle's wick grows dark, flameless with only a single wisp of smoke rising from it..
+
+    As he sits upon his sullied throne, clicking his crusty fingernails on its arm, he waits for his final guest. Gazing at an all too familiar oaken door, he knows that at any minute through it a fated warrior will appear. The wind rips open the door, allowing the confident figure to come traipsing through. The wrinkled and broken Dark Lord then sees before him his youthful self staring back, ablaze with that forgotten fire burning in those hungry eyes. In tacit sympathy, the youth shares a spark, lighting the cold, black wick of the aged wizard's spent candle.
+
+    Two sides of the same coin dart forward toward each other and their two voices erupt into twinned battle cries determined to beat the odds and punish the cruelty of fate. Ever-closer do they draw. Ever-fiercer do they grow. Until the moment they collide. That moment sealed by fate many cycles before the slayer was born. That moment expected by the slain ever since he realized whose flesh he had assumed those many moons ago.
+
+    Upon the warrior's blade the Dark Lord's body rested, the struggle now over, true peace finally attained. What is the beginning for one man, is likewise his end.#
+[90/]
 
 
 

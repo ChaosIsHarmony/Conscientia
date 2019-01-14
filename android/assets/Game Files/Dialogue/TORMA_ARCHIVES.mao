@@ -235,14 +235,26 @@ came in with Babel after confronting him with knowledge of Pr Ar
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!DESCRIPTION!]
 		||
 		*With a knowing smile, the Prime Archon acknowledges the fear in Ormenos' eyes; his point has been made.*
-        (B#Refuse){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!DESCRIPTION!}
+        (A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.003!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!DESCRIPTION!]
 		||
-        *Babel begins to intone a forbidden incantation causing Ormenos' vision to blur. The brilliant light of an unfinished Glyph starts to carve lines through the air. Soon, control of his Falsflesh is wrested from him. Eyelids feel the pull of gravity even before the Glyph is complete. Yet he struggles to remain...*
-		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
+        *Soon the words of a forbidden incantation dance on Babel's tongue. The world becomes unfocused, shapes and colors bleeding into one another. Brilliant lights from an unfinished Glyph start to carve lines through the air. All senses dull; all tension releases; and eyelids soon feel the pull of gravity even before the Glyph is complete.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0031!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0030!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0031!DESCRIPTION!]
+		||
+		*Never has he felt so helpless.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0032!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0031!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0032!DESCRIPTION!]
+		||
+		*Never has he...*
+		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0032!DESCRIPTION!/]
 
 
 
