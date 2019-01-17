@@ -467,7 +467,7 @@ Failed
 		(A#"Fenrir"){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
 		(B#"Luin"){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
 		(C#"Hel"){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!}
-	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.9051!EXECUTOR!/]
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.905!EXECUTOR!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.906!EXECUTOR!]
 		||
@@ -497,34 +497,44 @@ Failed
 ________________________________________________________________________
 HUGINN GROVE
 virgin run
->>>Witnessed theory v practice debate (2027)<<<
-	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X000!DESCRIPTION!]
-		|^2027:ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!|
-		*Ormenos enters a domed chamber. Myriad crystals ensure that light is in no short supply here, as they dangle from Huginn branches like maturing fruits. Shadows jealously guard what little territory remains for their ilk. A sudden draft brings with it a light smoky scent mixed with the dust from metallic filings.
-		
-		Several magi of the Architect caste pluck ripened crystals from their boughs and carefully inspect their contents. This, the newest caste of the Enclavean Order, holds all responsiblity for the search of lost arts of the Thiuda and their Vanquished predecessors. The upstarts have made giant strides toward remembering methods for Writing Glyphs, the rediscovery of casters - both far and near - as well as the instantaneous acquisition and apprehension of foreign Techne.
-		
-		The Curator of the Architects is close-by, overseeing the unusual practices and rites of the magi in the Huginn Grove.*
-		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
-		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
-		(C#Look around){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X002!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X000!DESCRIPTION!/]
-	
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!]
 		||
-		*Ormenos enters a domed chamber. Myriad crystals ensure that light is in no short supply here, as they dangle from Huginn branches like maturing fruits. Shadows jealously guard what little territory remains for their ilk. A sudden draft brings with it a light smoky scent mixed with the dust from metallic filings.
-		
-		Several magi of the Architect caste pluck ripened crystals from their boughs and carefully inspect their contents. This, the newest caste of the Enclavean Order, holds all responsiblity for the search of lost arts of the Thiuda and their Vanquished predecessors. The upstarts have made giant strides toward remembering methods for Writing Glyphs, the rediscovery of casters - both far and near - as well as the instantaneous acquisition and apprehension of foreign Techne.
-		
-		The Curator of the Architects is close-by, overseeing the unusual practices and rites of the magi in the Huginn Grove. Ormenos then recalls the Curator's recent locking of horns with the Muninn Grove's Curator, bringing a involuntary smirk to his face - one he immediately smothers in propriety.*
+		*Ormenos squints as tears blur his vision. Entering the grove from the darkness of the halls is no less than stepping into a midday summer from a wintery midnight. Light burns his eyes, tormenting him like an unwanted truth. Myriad crystals here ensure that light is in no short supply, as they droop from Huginn branches like ripened fruits. But where there is light there are also shadows, the ever-present promise that the light will wane. The shadows shift, however, with the movement of crystals being carefully transported between the trees.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!00.001!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!00.001!DESCRIPTION!]
+		||
+		*A sudden draft brings with it a light smoky scent mixed with the dust from metallic filings. Broken and discarded tree limbs shine with an unnatural luster revealing the metal's source. Several Architects seem to be attempting to repair the broken trees, but given the mounds of shattered Huginn branches surrounding them, they seem to be encountering difficulties.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!00.002!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!00.001!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!00.002!DESCRIPTION!]
+		||
+		*Several other Architects pluck ripened crystals from their boughs, carefully inspecting their status. These magi belong to the newest caste of the Enclavean Order. They are responsible for the search of lost arts of the Thiuda and their Vanquished predecessors. The upstarts have made giant strides toward remembering methods for Writing Glyphs, the rediscovery of casters - both far and near - as well as the instantaneous acquisition and apprehension of foreign Techne.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!00.X003!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!00.002!DESCRIPTION!/]
+
+>>>Witnessed theory v practice debate (2027)<<<
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!00.X003!DESCRIPTION!]
+		|^2027:ENCLAVE!ARCHIVES!HUGINN GROVE!000.003!DESCRIPTION!|
+		*The Curator of the Architects is close-by, overseeing the unusual practices and rites of the magi in the Huginn Grove.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Talk to the Curator){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
-		(C#Look around){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X002!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!/]
+		(C#Look around){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!00.X003!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!000.003!DESCRIPTION!]
+		||
+		*The Curator of the Architects is close-by, overseeing the unusual practices and rites of the magi in the Huginn Grove. Ormenos then recalls this Curator's recent locking of horns with the Muninn Grove's Curator, bringing a involuntary curl to his lips. However, he soon recomposes himself to a presentable state.*
+		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
+		(B#Talk to the Curator){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
+		(C#Look around){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!000.003!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0010!DESCRIPTION!|
-		*Ormenos approaches the Curator and she quickly anticipates his intentions to speak.*
+		*Ormenos approaches the Curator, but she quickly anticipates his intentions to speak.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!9999.X1209!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!/]
 
@@ -532,78 +542,142 @@ virgin run
 		||
 		*The conversation at its terminus, the Form Forger coldly turns and walks into the grove without so much as casting a second glance back towards Ormenos.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
-		(B#Look around){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X003!DESCRIPTION!}
+		(B#Look around){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0010!DESCRIPTION!/]
 
->>>Saw proper alignment clue (2079)<<<
-	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X002!DESCRIPTION!]
-		|^2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!DESCRIPTION!|
-		*Ormenos begins to stroll through the supernatural grove admiring the fantastic and variegated fruits of the Huginn trees. But soon enough, he stumbles upon a clearing filled with wooden workstations, clearly fashioned from decommissioned trees. Groups of magi slave away in a feverish trance as they work to rediscover the secrets of the Thiuda and the Vanquished.
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!DESCRIPTION!]
+		||
+		*The inquisitive mage begins to stroll through the supernatural grove, admiring the fantastic and variegated fruits of the Huginn trees. Though this is certainly not his first time here, he nonetheless remains in awe of the immensity of this underground grove. The chamber extends so far back that the halos of distant light seem to bleed into one another, choking out any shadows between the trees. Likewise, the ceiling is a distant sea of radiance, consuming magi riding cloudstones up into its heights. The cloudstones shrink to the size of a pebble before completely disappearing.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!DESCRIPTION!/]
 
-		Ormenos sees many masterful works of artifice being dismantled and meticulously studied. On one table, a recently discovered device in the desert region of Outer Sunargund that reads and executes Techne stored within crystals has garnered great acclaim and hope from those of the Order. Another table, illuminated by the fruits of an enormous Huginn, holds an item which is purported to instantaneously, but temporarily, weave a Glyph upon a mage's Trueflesh. This particular device was said to be known to the Kabans for centuries, but only came to the attention of the Enclave when the a Senior Thought-Weaver observed its use in one of the Wayfarer's many memories.
-		
-		But, Ormenos sees that around him, most of these artifacts confound and even defy his erudition. There are blackened mirrors displaying spectral images of hidden dimensions. There are schematics displayed from the fiery tongue of a display lamp showing a loping wolf consuming all energies. And perhaps most out of place in its subdued and unassuming appearance is a collection of scattered stones with arrows etched into them next to a miniscule metallic disk. Hovering over them like loathsome buzzards are two magi who fastidiously toy with the antique.*
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!DESCRIPTION!]
+		||
+		*After some time, Ormenos stumbles upon a clearing filled with workstations, clearly fashioned from decommissioned trees. Groups of magi slave away in a feverish trance as they work to rediscover the secrets of the ancients.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0021!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0021!DESCRIPTION!]
+		||
+		*He sees many masterful works of artifice being dismantled and meticulously studied. On one table, he spots a recently discovered device in the desert region of Outer Sunargund; this one reads and executes Techne stored within crystals, almost like a shifting Sigil. Another table, illuminated by the fruits of an enormous Huginn, holds an item which is purported to instantaneously, albeit temporarily, weave a Glyph upon a mage's Trueflesh. This particular device is said to have been known to the Okumi for centuries, but only came to the attention of the Enclave when the a Senior Thought-Weaver observed its use in one of the Wayfarer's many memories.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0022!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0021!DESCRIPTION!/]
+
+>>>Saw proper alignment clue (2079)<<<
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0022!DESCRIPTION!]
+		|^2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0023!DESCRIPTION!|
+		*But, Ormenos knows that most of these artifacts confound and even defy his erudition. There are blackened mirrors displaying spectral images of hidden dimensions. There are schematics displayed from the fiery tongue of a display lamp, a loping wolf dancing in its flames. And perhaps most out of place in its subdued and unassuming appearance is a collection of scattered stones with arrows etched into them, resting next to a miniscule metallic disk. Hovering over them like starving buzzards are two magi, fastidiously toying with the ruined artifact.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
 		(C#Observe the magi work){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-1!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X002!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!DESCRIPTION!]
-		||
-		*Ormenos begins to stroll through this supernatural grove admiring the fantastic and variegated fruits of the Huginn trees. But soon enough, he stumbles upon a clearing filled with wooden workstations, clearly fashioned from decommissioned trees. Groups of magi slave away in a feverish trance as they work to rediscover the secrets of the Thiuda and the Vanquished.
-		
-		Though there is nothing here which grabs his attention. Perhaps he is unobservant and ignorant; he looks, but he does not see... or perhaps he has indeed learned all he can from this place.*
-		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
-		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0021!DESCRIPTION!]
-		||
-		*The magi pore over the artifact, pecking at it from time to time, rearranging it into various configurations and replacing the metallic cap to the unenthusiastic whirring and fizzling sounds of an impotent machine attempting to revive itself.
-		
-		Suddenly, one of the unkempt duo appears to have been blessed with an epiphany. He proceeds to arrange all arrows pointing upwards in the direction of the metal disk that will soon cover it. Replacing the cap, the whir begins, but this time intensifying into a consistent purr and finally into sounds accompanying images of the ancients... in the process of creating kin. 
-		
-		At this point the magi who assembled the device discreetly make their exit, leaving the unfiltered passion of the Vanquished to crescendo unimpeded. The sounds grow so loud that all are forced to stop their work immediately to try to figure out how to turn it off. The magi would take a hammer to it, but any fool knows how volatile energetic crystals are when met with concussive force. 
-		
-		Finally, they find the mechanism by which volume is controlled and mute the sounds, leaving the images to run their course. Thankfully for those in attendance, it seems this particular pair of ancients were one of the swift variety.*
-		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
-		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0021!DESCRIPTION!/]
-	
->>>Saw proper alignment clue (2079)<<<
-	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X003!DESCRIPTION!]
-		|^2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0030!DESCRIPTION!|
-		*Ormenos begins to stroll through this supernatural grove admiring the fantastic and variegated fruits of the Huginn trees. But soon enough, he stumbles upon a clearing filled with wooden workstations, clearly fashioned from decommissioned trees. Groups of magi slave away in a feverish trance as they work to rediscover the secrets of the Thiuda and the Vanquished.
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0022!DESCRIPTION!/]
 
-		Ormenos sees many masterful works of artifice being dismantled and meticulously studied. On one table, a recently discovered device in the desert region of Outer Sunargund that reads and executes Techne stored within crystals has garnered great acclaim and hope from those of the Order. Another table, illuminated by the fruits of an enormous Huginn, holds an item which is purported to instantaneously, but temporarily, weave a Glyph upon a mage's Trueflesh. This particular device was said to be known to the Kabans for centuries, but only came to the attention of the Enclave when the a Senior Thought-Weaver observed its use in one of the Wayfarer's many memories.
-		
-		But, Ormenos sees that around him, most of these artifacts confound and even defy his erudition. There are blackened mirrors displaying spectral images of hidden dimensions. There are schematics displayed from the fiery tongue of a display lamp showing a loping wolf consuming all energies. And perhaps most out of place in its subdued and unassuming appearance is a collection of scattered stones with arrows etched into them next to a miniscule metallic disk. Hovering over them like loathsome buzzards are two magi who fastidiously toy with the antique.*
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0023!DESCRIPTION!]
+		||
+		*Though there is nothing here that truly grabs his attention. Perhaps he is unobservant and ignorant; he looks, but he does not see. Or perhaps he has simply learned all he can from this place.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
-		(C#Observe the magi work){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X003!DESCRIPTION!/]
-	
+		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0023!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0024!DESCRIPTION!]
+		||
+		*The magi pore over the artifact, pecking at it from time to time, rearranging it into various configurations and replacing the metallic cap to the unenthusiastic whirring and fizzling sounds of an impotent machine attempting to revive itself.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0025!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0024!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0025!DESCRIPTION!]
+		||
+		*Suddenly, one of the unkempt duo appears to have been blessed with an epiphany. Arrange all arrows to point upwards in the direction of the metal disk first, he then replaces the cap.
+		
+		The whir begins, but this time intensifying into a consistent purr and finally into sounds accompanying images of the ancients...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0026!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0025!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0026!DESCRIPTION!]
+		||
+		*...in the process of... making children - or at least attempting very frenziedly to do so.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0027!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0026!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0027!DESCRIPTION!]
+		||
+		*At this point the magi who assembled the device discreetly make their exit, leaving the unfiltered passion of the Vanquished to crescendo unimpeded. The sounds grow so loud that all are forced to stop their work immediately to try to figure out how to turn it off. The magi would take a hammer to it, but any fool knows how volatile energetic crystals are when met with concussive force.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0028!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0027!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0028!DESCRIPTION!]
+		||
+		*At long last, they find the mechanism by which the volume operates and mute the sounds, leaving the images to run their course. Thankfully for those in attendance, it seems this particular pair of ancients were of the swift variety.*
+		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
+		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0028!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!DESCRIPTION!]
+		||
+		*The inquisitive mage begins to stroll through the supernatural grove, admiring the fantastic and variegated fruits of the Huginn trees. Though this is certainly not his first time here, he nonetheless remains in awe of the immensity of this underground grove. The chamber extends so far back that the halos of distant light seem to bleed into one another, choking out any shadows between the trees. Likewise, the ceiling is a distant sea of radiance, consuming magi riding cloudstones up into its heights. The cloudstones shrink to the size of a pebble before completely disappearing.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0030!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0030!DESCRIPTION!]
 		||
-		*Ormenos begins to stroll through this supernatural grove admiring the fantastic and variegated fruits of the Huginn trees. But soon enough, he stumbles upon a clearing filled with wooden workstations, clearly fashioned from decommissioned trees. Groups of magi slave away in a feverish trance as they work to rediscover the secrets of the Thiuda and the Vanquished.
-		
-		Though there is nothing here which grabs his attention. Perhaps he is unobservant and ignorant; he looks, but he does not see... or perhaps he has indeed learned all he can from this place.*
-		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
+		*After some time, Ormenos stumbles upon a clearing filled with workstations, clearly fashioned from decommissioned trees. Groups of magi slave away in a feverish trance as they work to rediscover the secrets of the ancients.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0031!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0030!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0031!DESCRIPTION!]
 		||
-		*The magi pore over the artifact, pecking at it from time to time, rearranging it into various configurations and replacing the metallic cap to the unenthusiastic whirring and fizzling sounds of an impotent machine attempting to revive itself.
-		
-		Suddenly, one of the unkempt duo appears to have been blessed with an epiphany. He proceeds to arrange all arrows pointing upwards in the direction of the metal disk that will soon cover it. Replacing the cap, the whir begins, but this time intensifying into a consistent purr and finally into sounds accompanying images of the ancients... in the process of creating kin. 
-		
-		At this point the magi who assembled the device discreetly make their exit, leaving the unfiltered passion of the Vanquished to crescendo unimpeded. The sounds grow so loud that all are forced to stop their work immediately to try to figure out how to turn it off. The magi would take a hammer to it, but any fool knows how volatile energetic crystals are when met with concussive force. 
-		
-		Finally, they find the mechanism by which volume is controlled and mute the sounds, leaving the images to run their course. Thankfully for those in attendance, it seems this particular pair of ancients were one of the swift variety.*
-		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
+		*He sees many masterful works of artifice being dismantled and meticulously studied. On one table, he spots a recently discovered device in the desert region of Outer Sunargund; this one reads and executes Techne stored within crystals, almost like a shifting Sigil. Another table, illuminated by the fruits of an enormous Huginn, holds an item which is purported to instantaneously, albeit temporarily, weave a Glyph upon a mage's Trueflesh. This particular device is said to have been known to the Okumi for centuries, but only came to the attention of the Enclave when the a Senior Thought-Weaver observed its use in one of the Wayfarer's many memories.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0032!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0031!DESCRIPTION!/]
 
+>>>Saw proper alignment clue (2079)<<<
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0032!DESCRIPTION!]
+		|^2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0033!DESCRIPTION!|
+		*But, Ormenos knows that most of these artifacts confound and even defy his erudition. There are blackened mirrors displaying spectral images of hidden dimensions. There are schematics displayed from the fiery tongue of a display lamp, a loping wolf dancing in its flames. And perhaps most out of place in its subdued and unassuming appearance is a collection of scattered stones with arrows etched into them, resting next to a miniscule metallic disk. Hovering over them like starving buzzards are two magi, fastidiously toying with the ruined artifact.*
+		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
+		(C#Observe the magi work){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0032!DESCRIPTION!/]
 	
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0033!DESCRIPTION!]
+		||
+		*Though there is nothing here that truly grabs his attention. Perhaps he is unobservant and ignorant; he looks, but he does not see. Or perhaps he has simply learned all he can from this place.*
+		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0033!DESCRIPTION!/]
 	
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0034!DESCRIPTION!]
+		||
+		*The magi pore over the artifact, pecking at it from time to time, rearranging it into various configurations and replacing the metallic cap to the unenthusiastic whirring and fizzling sounds of an impotent machine attempting to revive itself.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0035!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0034!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0035!DESCRIPTION!]
+		||
+		*Suddenly, one of the unkempt duo appears to have been blessed with an epiphany. Arrange all arrows to point upwards in the direction of the metal disk first, he then replaces the cap.
+		
+		The whir begins, but this time intensifying into a consistent purr and finally into sounds accompanying images of the ancients...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0036!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0035!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0036!DESCRIPTION!]
+		||
+		*...in the process of... making children - or at least attempting very frenziedly to do so.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0037!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0036!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0037!DESCRIPTION!]
+		||
+		*At this point the magi who assembled the device discreetly make their exit, leaving the unfiltered passion of the Vanquished to crescendo unimpeded. The sounds grow so loud that all are forced to stop their work immediately to try to figure out how to turn it off. The magi would take a hammer to it, but any fool knows how volatile energetic crystals are when met with concussive force.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0038!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0037!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0038!DESCRIPTION!]
+		||
+		*At long last, they find the mechanism by which the volume operates and mute the sounds, leaving the images to run their course. Thankfully for those in attendance, it seems this particular pair of ancients were of the swift variety.*
+		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0038!DESCRIPTION!/]
+
+
+
 FORM FORGER
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X000!FORM FORGER!]
 		||
@@ -611,11 +685,11 @@ FORM FORGER
 		(A#"I was wondering what you were researching recently."){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.001!FORM FORGER!}
 		(B#"Have there been any breakthroughs lately?"){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!FORM FORGER!}
 		(C#"Actually, I'm rather aimless at the moment."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!FORM FORGER!}
-		(D#"To what end do you wish to rediscover the secrets of the Vanquished?"){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.004!FORM FORGER!}
+		(D#"What benefits would the secrets of the Vanquished bring?"){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.004!FORM FORGER!}
 		(E#"Only the weak need assistance."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.005!FORM FORGER!}
 		(F#"Looks like there's a lot to loot here! Best get started!"){F:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.006!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X000!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.001!FORM FORGER!]
 		||
 		*"We have numerous research projects running concurrently. Notable among them are the work done on crystal reparation, Glyph Writing, Glyph conduits, and disassembly of other miscellaneous Vanquished or Thiudan apparatuses."*
@@ -623,157 +697,187 @@ FORM FORGER
 		(B#"Have there been any breakthroughs lately?"){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!FORM FORGER!}
 		(E#"Many projects, but no results..."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.015!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.001!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!FORM FORGER!]
 		||
-		*"Most noteworthy would be the advancements in crystal repair: we can now seal superficial cracks on a crystal's exterior. We have also had some progress with Nearcasting, in that we discovered certain patterns within the seal that may be related to the Techne."*
-		(A#"That's fantastic! I hope to hear of more achievements in the near future!"){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.011!FORM FORGER!}
+		*"Most noteworthy would be the advancements in crystal repair: we can now seal superficial cracks on a crystal's exterior."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!FORM FORGER!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!FORM FORGER!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!FORM FORGER!]
+		||
+		*"We've also had some progress with Nearcasting. But only in that we discovered certain patterns within the seal that may be related to the Techne."*
+		(A#"Superb! I hope to hear of more achievements soon!"){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.011!FORM FORGER!}
 		(B#"Which task most eludes solution?"){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.012!FORM FORGER!}
 		(C#"Is that so?"){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.013!FORM FORGER!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!FORM FORGER!/]
-	
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!FORM FORGER!/]
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!FORM FORGER!]
 		||
-		*"Is that so? Then feel free to wander the Huginn Grove. I will return to my duties."*
-		(B#"What is there to see here?"){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0031!FORM FORGER!}
+		*"Is that so? Then, you wander the Huginn Grove and I'll return to my duties."*
+		(B#"What's there to see here?"){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0031!FORM FORGER!}
 		(C#"As you wish."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
-		(D#"You seem to think yourself mighty important..."){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.015!FORM FORGER!}
+		(D#"Of course, we wouldn't want the trees to run away now, would we?"){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.014!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0031!FORM FORGER!]
 		||
-		*"To the uninitiated, there are simply trees, stones and scrap metal; though you are free to move about the grove and observe."*
+		*"To the uninitiated, there are simply trees, stones and scrap metal, though you're still free to move about the grove and observe."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0032!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0031!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0032!FORM FORGER!]
 		||
-		*"Now if you will excuse me, Brother, I intend to return to my tasks. Good day."*
+		*"Now if you'll excuse me, Brother, I intend to return to my tasks. Good day."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0032!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.004!FORM FORGER!]
 		||
-		*"Is it not obvious? I should think it so to all of our Order... Clearly it is to surpass the achievements and to bring humankind control of its own destiny."*
-		(C#"Is that so?"){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.013!FORM FORGER!}
-		(D#"Then we are of like mind..."){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.014!FORM FORGER!}
-		(E#"You are foolish to believe you can control destiny."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.015!FORM FORGER!}
+		*"Isn't it obvious? I should think it so to all of our Order..."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0041!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.004!FORM FORGER!/]
-	
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0041!FORM FORGER!]
+		||
+		*"Medical advances deter death and disease. Meterological advances help predict devastating weather. Technological advances provide weapons against the cruel universe that spawned us."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0042!FORM FORGER!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0041!FORM FORGER!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0042!FORM FORGER!]
+		||
+		*"Clearly any discovery we make would bring us closer to controlling our own destiny, Brother."*
+		(C#"Is that so?"){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.013!FORM FORGER!}
+		(D#"Then we're of like mind..."){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.014!FORM FORGER!}
+		(E#"The strong need only themselves to control destiny."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.005!FORM FORGER!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0042!FORM FORGER!/]
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.005!FORM FORGER!]
 		||
-		*"Your argument is ludicrous and undermined by the very fact that you are a part of our Order. I would expect a more thoughtful thesis from you, Brother."*
+		*"Your argument is ludicrous and undermined by the very fact that you're a part of our Order. I would expect a more thoughtful thesis from you, Brother."*
 		(A#"Ha! Sorry, Sister; I was just stirring up trouble."){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.011!FORM FORGER!}
-		(D#"Could it not simply be that you did not understand the argument?"){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0140!FORM FORGER!}
+		(D#"Perhaps you simply didn't understand the argument?"){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0140!FORM FORGER!}
 		(E#"Expectations are the mother of disappointment, Form Forger."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.015!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.005!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.006!FORM FORGER!]
 		||
-		*"I would prefer you didn't, Brother. Besides, all current iterations of rebuilt artifacts and Techne are non-functional or highly experimental and reliably unstable."*
+		*"I would prefer you didn't, Brother. Besides, all current iterations of rebuilt artifacts and Techne are non-functional or highly experimental... and reliably unstable."*
 		(F#"So... basically, if I touch stuff, it'll blow up?"){F:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.016!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.006!FORM FORGER!/]
-	
-	
+
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.011!FORM FORGER!]
 		||
-		*"With all due respect, Brother Inquisitor, if you are interested in idle chat, I am of insufficient patience and affability to fulfill your needs. So if it's all the same to you, I would like to return to my duties."*
+		*"With all due respect, Brother Inquisitor, if you're interested in idle chat, I'm ill-suited to the task - a shortage of patience and affability, you see. So if it's all the same to you, I'd like to return to my duties."*
 		(A#"Yes of course. Sorry to disturb you, Sister."){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
 		(B#"Understood. Goodbye, Sister."){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
-		(E#"You can't polish a turd..."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!}
+		(E#"You're ill-suited to more than just chatting..."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.011!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.012!FORM FORGER!]
 		||
-		*"Despite continued efforts, we cannot solve the mystery of the cloudstone from the Seat of the True Archon. No amount of experimentation has yielded any useful results. It is as a tangled knot too complex to untie, yet too sturdy to cut through."*
+		*"Despite continued efforts, we cannot solve the mystery of the cloudstone from the Seat of the True Archon - a tangled knot too complex to untie, yet too sturdy to cut through."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0121!FORM FORGER!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.012!FORM FORGER!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0121!FORM FORGER!]
+		||
+		*"No amount of experimentation has yielded any useful results."*
 		(A#"Even the Architects can't figure it out? Must be tough!"){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.031!FORM FORGER!}
 		(B#"What about the cloudstone makes it so inscrutable?"){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.032!FORM FORGER!}
-		(C#"Maybe there is no need to untie it."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.033!FORM FORGER!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.012!FORM FORGER!/]
-	
+		(C#"Maybe there's no need to untie it."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.033!FORM FORGER!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0121!FORM FORGER!/]
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.013!FORM FORGER!]
 		||
-		*"With all due respect, Brother Inquisitor, if you are interested in idle chat, I am of insufficient patience and affability to fulfill your needs. So if it's all the same to you, I would like to attend to my tasks."*
+		*"With all due respect, Brother Inquisitor, if you're interested in idle chat, I'm ill-suited to the task - a shortage of patience and affability, you see. So if it's all the same to you, I'd like to return to my duties."*
 		(B#"Understood. Goodbye, Sister."){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
 		(C#"As you wish."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
 		(D#"And here I thought I was being charming..."){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.013!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.014!FORM FORGER!]
 		||
-		*"With all due respect, Brother Inquisitor, if you are interested in idle chat, I am of insufficient patience and social grace to fulfill your needs. So if it's all the same to you, I would like to get back to my duties."*
+		*"With all due respect, Brother Inquisitor, if you're interested in idle chat, I'm ill-suited to the task - a shortage of patience and social grace, you see. So if it's all the same to you, I'd like to return to my duties."*
 		(C#"As you wish."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
 		(D#"Idle indeed... And here I thought I was being charming..."){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!}
-		(E#"You can't polish a turd..."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!}
+		(E#"Yes, you must be busy 'curating' all the failures..."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.014!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0140!FORM FORGER!]
 		||
 		*"Unlikely, but prove my hypothesis false, Brother."*
 		(C#"I'd rather just leave."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!FORM FORGER!}
 		(D#"Your premise that I joined the Order to get help is false."){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.024!FORM FORGER!}
-		(E#"I help the Order; and it's not mutual."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.025!FORM FORGER!}
+		(E#"I help the Order; it's not mutual."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.025!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0140!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.015!FORM FORGER!]
 		||
-		*"With all due respect, Brother Inquisitor, if you are interested in exchanging insults, I am of insufficient patience and wit to fulfill your needs. So if it's all the same to you, I would like to return to my tasks."*
-		(A#"A honest appraisal. I'll seek prey less meek."){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0150!FORM FORGER!}
+		*"With all due respect, Brother Inquisitor, if you're interested in idle chat, I'm ill-suited to the task - a shortage of patience and wit, you see. So if it's all the same to you, I'd like to return to my duties."*
+		(A#"An honest appraisal. I'll seek prey less meek."){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0150!FORM FORGER!}
 		(D#"Subservience suits you, Sister."){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0150!FORM FORGER!}
-		(E#"I speak my mind; I'm sorry you can't cope."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0150!FORM FORGER!}
+		(E#"Then you're dismissed."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0150!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.015!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0150!FORM FORGER!]
 		||
 		*"All is as it should be. I take my leave, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0150!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!]
 		||
 		*"If that is all, then I shall take my leave, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!/]
-		
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.016!FORM FORGER!]
 		||
-		*"Perhaps, but more likely it would irrevocably alter the fabric of your Trueflesh into some accursed abomination. Yet I recognize that there is little I can do to stop a determined mage, at the very least you have been warned."*
-		(F#"Warnings are for the sane! I seek adventure above all!"){F:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0160!FORM FORGER!}
+		*"Perhaps, but more likely it would irrevocably alter the fabric of your Trueflesh into some accursed abomination..."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0160!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.016!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0160!FORM FORGER!]
+		||
+		*"Yet, I recognize that there is little I can do to stop a determined mage, at the very least you have been warned."*
+		(F#"Warned? More like encouraged!"){F:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0161!FORM FORGER!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0160!FORM FORGER!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0161!FORM FORGER!]
 		||
 		*"As you wish, Brother."*
 		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0160!FORM FORGER!/]
-		
-	
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0161!FORM FORGER!/]
+
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.024!FORM FORGER!]
 		||
-		*"If you did not join for the vast resources and support of fellow magi, then what motive compelled you to enter the Order of the Enclave?"*
+		*"If you didn't join for the vast resources and support of fellow magi, then what motive compelled you to enter the Order of the Enclave?"*
 		(C#"Whim?"){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0243!FORM FORGER!}
 		(D#"My reasons are my own."){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0244!FORM FORGER!}
 		(E#"To kill time."){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0245!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.024!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0243!FORM FORGER!]
 		||
-		*"A weak reason, but a reason counter to my hypothesis indeed."*
+		*"A weak reason, but a reason counter to my hypothesis, indeed."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0032!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0243!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0244!FORM FORGER!]
 		||
-		*"Then you have not disproved my hypothesis."*
+		*"Then you haven't disproved my hypothesis."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0032!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0244!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0245!FORM FORGER!]
 		||
-		*"A weak reason, but a reason counter to my hypothesis indeed."*
-		(A#"That's a weak apology, you lack-wit."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.015!FORM FORGER!}
+		*"A weak reason, but a reason counter to my hypothesis, indeed."*
+		(A#"And that's a weak apology..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.015!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0245!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.025!FORM FORGER!]
 		||
 		*"With all due respect, Brother Inquisitor, if you are interested in baseless braggadocio, I am of insufficient patience and desire to lend you an ear. So if it's all the same to you, I would like to return to my duties."*
@@ -781,61 +885,67 @@ FORM FORGER
 		(D#"Baseless? Hardly! I am almost guaranteed to ascend to Archon!"){D:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!}
 		(E#"You will leave when I tell you to!"){E:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0151!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.025!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.031!FORM FORGER!]
 		||
 		*"Indeed. Now if you will excuse me, I intend to return to my duties. Good day, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.031!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.032!FORM FORGER!]
 		||
-		*"For one, its patterns match no known instances of cloudstone Techne symbols according to our semiotic analysis. Some have even proposed that it is not even a cloudstone, though most reject this hypothesis given its dimensions and material construction."*
-		(A#"Well, you certain have your work cut out for you then!"){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.031!FORM FORGER!}
-		(B#"Both shields and cogwheels can be made of metals..."){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0320!FORM FORGER!}
+		*"For one, its patterns match no known instances of cloudstone Techne symbols according to our semiotic analysis. Some have even proposed that it's not even a cloudstone, though most reject this hypothesis, given its dimensions and material construction."*
+		(A#"Well, you certainly have your work cut out for you then!"){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.031!FORM FORGER!}
+		(B#"Both shields and cogwheels can be made of metal or wood..."){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0320!FORM FORGER!}
 		(C#"Not all puzzles need to be solved, I suppose."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.033!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.032!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0320!FORM FORGER!]
 		||
-		*"...but their functions differ greatly. I see your point, Brother; perhaps we can re-evaluate this discarded hypothesis."*
+		*"...but their functions differ greatly..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.03200!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0320!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.03200!FORM FORGER!]
 		||
-		*"Though, if I recall, it was the Choir of Archons themselves who saw no water in that well and encouraged us to cast it aside."*
+		*"Yes, I see your point, Brother. Perhaps we can re-evaluate this discarded hypothesis."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.03201!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.03200!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.03201!FORM FORGER!]
+		||
+		*"Though, if I recall, it was the Choir of Archons themselves who saw no water in that well and encouraged us to cast it aside."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.03202!FORM FORGER!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.03201!FORM FORGER!/]
+
+	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.03202!FORM FORGER!]
 		||
 		*"If their wisdom sees no value in it, then we would likely just be chasing castles in the sky."*
 		(A#"Well, if the Choir says it's not worth pursuing, then best not to."){A:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.031!FORM FORGER!}
 		(B#"Though wise, even the Choir is not infallible."){B:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0321!FORM FORGER!}
-		(C#"Then all is as it should be."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.031!FORM FORGER!}
-	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.03201!FORM FORGER!/]
-	
+		(C#"Then, all is as it should be."){C:1,ENCLAVE!ARCHIVES!HUGINN GROVE!0.031!FORM FORGER!}
+	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.03202!FORM FORGER!/]
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0321!FORM FORGER!]
 		||
 		*"Truth is with you, Brother Inquisitor... Yet, they are our light in the absence of Awareness. So until we have ascended, it is best to defer to their judgment."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0032!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0321!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.033!FORM FORGER!]
 		||
-		*"All unsolved puzzles are unbiased reminders of how little we know; if we leave them unexamined, we will remain only as wise as when we first achieved the Falseflesh."* 
+		*"All unsolved puzzles are unbiased reminders of how little we know. Leave them unexamined, and we will remain only as wise as when we first achieved the Falseflesh."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0330!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.033!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0330!FORM FORGER!]
 		||
-		*"Our very Order is predicated on unraveling the underlying mysteries of our universe. If you do not agree, I feel there is little reason for you to have joined the Enclave."*
+		*"Our very Order is predicated on unraveling the underlying mysteries of our universe. If you disagree, I feel there's little reason for you to have joined the Enclave."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0032!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0330!FORM FORGER!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!10.X000!FORM FORGER!]
 		||
 		*MULTICHECKER*
@@ -949,7 +1059,7 @@ MATHETIA
 		||
 		*Arriving at the cusp of the Wing of Actuality and the Mathetia, Ormenos now thinks on where his ultimate destination lies. He could return to the foyer of the Mathetia, enter the Seat of the True Archon, or walk among the trees of the Huginn Grove.*
 		(A#Enter the Seat of the True Archon){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!DESCRIPTION!}
-		(B#Visit the Huginn Grove){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X000!DESCRIPTION!}
+		(B#Visit the Huginn Grove){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!}
 		(C#Return to the foyer){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!/]
 		
@@ -4196,13 +4306,13 @@ EVENT WRITERS
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2078!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-1!DESCRIPTION!]
-		|2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0021!DESCRIPTION!|
+		|2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0024!DESCRIPTION!|
 		*EVENT WRITER - Saw proper alignment clue*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-1!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!]
-		|2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0031!DESCRIPTION!|
+		|2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0034!DESCRIPTION!|
 		*EVENT WRITER - Saw proper alignment clue*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!/]
