@@ -962,38 +962,38 @@ MATHETIA
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.001!DESCRIPTION!]
 		||
-		*Ormenos walks through the unassuming, arched corridor opening up into a chamber so large its entirety eludes his field of vision. There are several thousands of stories composing this cyclopean structure. Yet the centre is an open space, light cascading down from the massive aperture at the top of this hollowed out mountain. Myriad rooms are carved into the rocky skin of the mountain's interior as they impertinently and defiantly spiral their way toward heaven, as though a warning to any celestial denizens that the magi of the Enclave would too transcend the terrestial and usurp their heavenly throne.
+		*Through the arched corridor lies a chamber wide enough to escape vision's periphery and tall enough to break a neck. Several thousands of stories compose this cyclopean structure, rings spiraling around a void pillar. From above, light cascades in through a massive aperture to the midday sky. Myriad rooms are carved into the rocky skin of the mountain's interior as they impertinently climb heavenbound, ever-reaching for the heights the Vanquished once soared.
 		
-		At the centre of the circular ground floor stands a Muninn tree so large, that it appears to have exceeded the height of its mountain home. Knotted, pearlescent branches reach forth from its mighty trunk, yearning for and growing towards the white crystals whence they derive their energy.
+		At the center stands a Muninn tree, perhaps larger than all other Muninns combined. Its knotted, pearlescent branches reach forth from a mighty trunk, yearning for and growing towards the white crystals dotting the rooms along the walls.
 		
-		Extending forth from its base are concentric rows of tables filled with scores of scholarly magi, studying, researching, ever-chasing the shadows of ignorance from their minds with the torch of Discipline.*
+		Rippling forth from its base are concentric rows of tables filled with scores of scholarly magi, studying, researching, ever-chasing the shadows of ignorance from their minds with the torch of Discipline.*
 		(A#Talk to people){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!}
 		(B#Observe surroundings){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.X0011!DESCRIPTION!}
 		(C#Leave the Mathetia){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0012!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.001!DESCRIPTION!/]
-	
+
 >>>Spoke w Sister midnight (2029)<<<
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!]
 		|^2029:ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!|
-		*Though most seem too enthralled with their work to offer discussion, there is a certain Sister who appears to be glancing at Ormenos over the top of several stacked volumes...*
+		*Though most seem too enthralled by their work to offer discussion, a certain Sister appears to be casting furtive glances at Ormenos over the top of several stacked volumes...*
 		(A#Go talk to her){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.X00101!DESCRIPTION!}
 		(C#Ignore her){C:1,ENCLAVE!ARCHIVES!MATHETIA!9990.X2028!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X00101!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!|
-		*Ormenos approaches and she then speaks...*
+		*As he nears her, she shuts her book, a finger marking the page...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1211!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X00101!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!]
 		||
-		*Sister Midnight silently nods before beginning to pore over her texts anew.*
+		*Sister Midnight silently nods and promptly forgets Ormenos even exists. Cracking open her book, she begins to pore over her texts anew.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!/]
 	
