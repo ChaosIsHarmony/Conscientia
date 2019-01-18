@@ -881,15 +881,27 @@
 
 [/KAVU]
 	[/DAZIL]
+		[/ARBORETUM]
+			|9999,|
+		[ARBORETUM/]
+
+		[/ATRIUM]
+			|9999,|
+		[ATRIUM/]
+
+		[/GATES OF DAZIL]
+			|9999,|
+		[GATES OF DAZIL/]
+
 		[/KHARR MANOR]
 			|9999,|
 		[KHARR MANOR/]
 	[DAZIL/]
 
 	[/JENOWIN PLAIN]
-		[/ROAD TO DAZIR]
+		[/ROAD TO DAZIL]
 			|9999,|
-		[ROAD TO DAZIR/]
+		[ROAD TO DAZIL/]
 	[JENOWIN PLAIN/]
 
 	[/TACRIVA]
@@ -899,10 +911,9 @@
 	[TACRIVA/]
 
 	[/TAMBUL]
-	???
-		[/DARYS MANOR]
+		[/DYSAR MANOR]
 			|9999,|
-		[DARYS MANOR/]
+		[DYSAR MANOR/]
 	[TAMBUL/]
 
 	[/WASTELAND]
@@ -912,7 +923,6 @@
 	[WASTELAND/]
 
 	[/WELLSPRING]
-	???
 		[/GATE OF THE HEATHEN]
 			|9999,|
 		[GATE OF THE HEATHEN/]
