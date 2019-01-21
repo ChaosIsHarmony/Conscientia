@@ -91,6 +91,7 @@ KHARR MANOR
     [/KAVU!DAZIL!KHARR MANOR!10.100!DESCRIPTION!]
 		||
 		*MEET with Builders, who are:
+
             DIP: Looking to negotiate terms
             TRU: Trying to debate with Rik about the wrongness of their current situation
             TYR: Threatening violence if Rik continues the Kharr way of old
@@ -102,6 +103,7 @@ KHARR MANOR
     [/KAVU!DAZIL!KHARR MANOR!10.200!DESCRIPTION!]
 		||
 		*TALK to Famlicus about:
+
             DIP: Himself and Muninns
             TRU: Muninns and Hel (tries to convince Rik it's worth investigating)
             NEU: Just Muninns
@@ -114,6 +116,10 @@ KHARR MANOR
 		||
 		*WANT to relax after ceremony, but...  WELLSPRING Artisan comes in with urgent news about the Cage.
 
+            TRU: Trusted servant mentions the foreign mage who was in attendance.
+            NEU: Rikos' eyes close. He knows not how long he sleeps.
+            SUR: Trusted servant claims Tambulans are all talking about the possibility of receiving a Muninn sapling.
+
         GET briefed on situation in the Wellspring. Then head on over immediately.*
 		(A#...){A:0,KAVU!WELLSPRING!GATE OF THE HEATHEN!10.000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!/]
@@ -121,6 +127,10 @@ KHARR MANOR
     [/KAVU!DAZIL!KHARR MANOR!10.400!DESCRIPTION!]
 		||
 		*RADYSAR comes with her entourage to congratulate Rikharr on his Ascension and to propose a trip to Tacriva to convince the High Mage there to give saplings to the Archives of Tambul and Dazil.
+
+            NEU: Merely mentions saplings and trip to Tacriva
+            SUR: Suggests a foreign alchemist might have had something to do with Drakos' death
+            TYR: Complains about draug issues
 
         TRUSTED servant tells Rikharr when she leaves that his father met with her an awful lot before his untimely demise and that he should be weary of her intentions.
 
@@ -130,7 +140,11 @@ KHARR MANOR
 
     [/KAVU!DAZIL!KHARR MANOR!10.500!DESCRIPTION!]
 		||
-		*SUN TOWER messenger invokes the Guardians' Pact and has come to tell Rikharr of the impending assault of the wasteland draugs, who have grown too numerous from hundreds of years of exile and have become too aggressive in the past few weeks, with several groups raiding at the same time. Since their still leaderless idiots, the Guardians can handle it, but if they attacked en masse, they might be overrun. As the youngest mage, he is to oversee report there within two days time
+		*SUN TOWER messenger invokes the Guardians' Pact and has come to tell Rikharr of the impending assault of the wasteland draugs, who have grown too numerous from hundreds of years of exile and have become too aggressive in the past few weeks, with several groups raiding at the same time. The High Council of Magi in Tacriva has chosen Dazil {the winds blow from the Northwest, signalling Dazil} to oversee operations in the Wasteland, and must report there within two days time. But Rik travels there immediately.
+        
+            DIP: Since they're still leaderless idiots, the Guardians can handle it, but if they attacked en masse, they might be overrun.
+            SUR: Nothing happens at Sun Tower, all the draugnir have vanished when Rik inspects. Riot happens with the Builders at home.
+            TYR: The draug are organized in rank and files and appear to have a leader. Looking closely, Rikos sees himself. Freaks and faints.
 
         WELLSPRING Artisan comes in with urgent news about the Cage.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.500!DESCRIPTION!}
@@ -138,11 +152,41 @@ KHARR MANOR
 
     [/KAVU!DAZIL!KHARR MANOR!10.600!DESCRIPTION!]
 		||
-		*ARK wants to bone.
+		*ARK wants to bone. Agree to go for a stroll on the Jenowin Plain.
 
+            DIP: Witness some violence with the Neverborn sentries and the Builders near the cloudstone when coming back.
+            TRU: See Famlicus strolling through the desert on the way to Tambul.
+            NEU: Everything is oddly quiet.
+            SUR: Meet Radysar's entourage en route to Tacriva.
+            TYR: Receive news of draug attacks from a courier on the road to Tambul with a decree from the High Council that Radysar must deal with Overseeing the operation.
+            LOO: Accidentally eat a mushroom {plucked it instead of grabbing the bread that was on the ground because was trying to listen to Ark}. See a vision of Roostor.
+        
         WELLSPRING Artisan comes in with urgent news about the Cage.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.600!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.600!DESCRIPTION!/]
+
+
+back from the Wellspring
+    [/KAVU!DAZIL!KHARR MANOR!19.000!DESCRIPTION!]
+		||
+		*BACK from Wellspring. Woke up three days later. Whichever quest is active will now continue.
+
+            DIP: Builders
+            TRU: Muninn
+            NEU: Straight to the Festival of Light
+            SUR: The Muninn sapling arrives and has been planted in the Archives by Archivists
+            TYR: The draug seem to be gathering, but not attacking
+            LOO: Ark still hasn't woken up. Apparently, she managed to drag both of your asses back to the cage and use the Sigil of Wulfias, but then collapsed from exhaustion
+
+        TRUSTED servant who was taking care of you mentions that the Festival of Light is coming soon. Shares more plot development for one random background plot point.*
+		(A#To the Slums){A:0,KAVU!DAZIL!SLUMS!20.000!DESCRIPTION!}
+        (B#To the Muninn){B:0,KAVU!DAZIL!ATRIUM!20.000!DESCRIPTION!}
+        (C#...){C:0,KAVU!DAZIL!KHARR MANOR!20.000!DESCRIPTION!}
+        (D#To the Archives){D:0,KAVU!DAZIL!ARCHIVES!20.000!DESCRIPTION!}
+        (E#To the Sun Tower){E:0,KAVU!DAZIL!KHARR MANOR!20.000!DESCRIPTION!}
+        (F#To watch over Ark){F:0,KAVU!DAZIL!KHARR MANOR!20.000!DESCRIPTION!}
+	[KAVU!DAZIL!KHARR MANOR!19.000!DESCRIPTION!/]
+
 
 
 
@@ -150,14 +194,25 @@ KHARR MANOR
 ________________________________________________________________________
 ________________________________________________________________________
 SECOND PHASE - CHAOS SEETHES ~20.xxx~
+{No matter what, the sapling arrives before the festival, the draugnir made it slightly past and something happens with the Builders}
+______________
+ARCHIVES
 
 
 
 
-________________________________________________________________________
-________________________________________________________________________
-FINAL PHASE - CHAOS SWELLS ~30.xxx~
+______________
+ATRIUM
 
+
+
+______________
+KHARR MANOR
+{Ark wakes up and then you go to the Dining Room in the Artisans' Plaza, but she asks if she can take you to the one in the Slums, because it's more fun. You go and have fun}
+
+
+______________
+SLUMS
 
 
 

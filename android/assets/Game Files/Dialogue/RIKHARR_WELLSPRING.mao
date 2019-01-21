@@ -106,8 +106,8 @@ ______________
 SANCTUM OF GURGADON
 	[/KAVU!WELLSPRING!SANCTUM OF GURGADON!10.000!DESCRIPTION!]
 		||
-		*GURAGDON fight, Rik slays it with LUIN. Shit happens, he passes out and wakes up at his Manor.*
-		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.X000!DESCRIPTION!}
+		*GURAGDON fight: Ark and Rik fight hard. Rik slays it with LUIN. He's bleeding heavily, passes out and wakes up at his Manor.*
+		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!19.000!DESCRIPTION!}
 	[KAVU!WELLSPRING!SANCTUM OF GURGADON!10.000!DESCRIPTION!/]
 
 
@@ -117,7 +117,7 @@ ______________
 SILVER THRONE
 	[/KAVU!WELLSPRING!SILVER THRONE!10.000!DESCRIPTION!]
 		||
-		*WULFIAS skeleton occupies the throne. LUIN's crystal pulsing in his hand. Rik gets LUIN.
+		*WULFIAS' skeleton occupies the throne. LUIN's crystal pulsing in his hand. Rik gets LUIN.
 
         THE Sigil resonates, begging Rik to use it. Rik talks to FATHOM and then opens the path to Gurgadon, who rushes out, cracking the tiles beneath and ripping open the ceiling. His tail whips Rik into the Sanctum and Ark follows as the beast retreats back into its lair.*
 		(A#...){A:0,KAVU!WELLSPRING!SANCTUM OF GURGADON!10.X000!DESCRIPTION!}
@@ -138,20 +138,6 @@ TEMPLE
 		(A#To the Cage!){A:0,KAVU!WELLSPRING!SCRIPTORIUM!10.X000!DESCRIPTION!}
 		(A#To the Bridge!){B:0,KAVU!WELLSPRING!BRIDGE!10.000!DESCRIPTION!}
 	[KAVU!WELLSPRING!TEMPLE!10.000!DESCRIPTION!/]
-
-
-
-
-________________________________________________________________________
-________________________________________________________________________
-SECOND PHASE - CHAOS SEETHES ~20.xxx~
-
-
-
-
-________________________________________________________________________
-________________________________________________________________________
-THIRD PHASE - CHAOS SWELLS ~30.xxx~
 
 
 
