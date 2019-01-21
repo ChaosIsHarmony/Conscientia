@@ -2119,7 +2119,7 @@ RIKHARR
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!0.0041!RIKHARR!]
 		||
-		*"A Glyph that is given can also away be taken. I, Rikharr of Dazir, once was. Mage, once named. Those things are no longer mine, as by the will of my people, they were taken. Yet still, 'I' exist."*
+		*"A Glyph that is given can also away be taken. I, Rikharr of Dazil, once was. Mage, once named. Those things are no longer mine, as by the will of my people, they were taken. Yet still, 'I' exist."*
 		(A#"..."){A:0,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!0.0042!RIKHARR!}
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!0.0041!RIKHARR!/]
 
@@ -2456,7 +2456,7 @@ RIKHARR
 
 	[/KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.1020!RIKHARR!]
 		||
-		*"I would this place leave and to Dazir return. For I cannot my people let live on in blinding light!"*
+		*"I would this place leave and to Dazi1 return. For I cannot my people let live on in blinding light!"*
 		(A#"..."){A:0,KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.X1021!RIKHARR!}
 	[KABU!WELLSPRING!HALL OF ETERNAL ATONEMENT!1.1020!RIKHARR!/]
 
@@ -2722,9 +2722,9 @@ RAVINE
 >>>Received Glyph of Wulfias (10106)<<<
 	[/KABU!WELLSPRING!RAVINE!0.X000!DESCRIPTION!]
 		|^10106:KABU!WELLSPRING!RAVINE!0.010!DESCRIPTION!|
-		*Eidos approaches the edge of the ruined chamber now staring out over the ravine. Her robes are whipped about in a mischievous wind blowing with mounting ferocity.	Her eyes, having now fully adjusted to the meager starlight above, spot another rock face dotted with more rooms at the far side of this expansive ravine.
+		*Eidos approaches the edge of the ruined chamber now staring out over the ravine. Her robes are whipped about by a mischievous wind. Her eyes, now fully adjusted to the meager starlight above, spot the reflective surface of another rockface at the far side of this expansive ravine.
 		
-		Suddenly, Eidos feels an unfamiliar presence. Engraved into a smooth stone pedestal near her, a Glyph stares up at the starlit sky. However, she does not recognize the symbol - though perhaps at one time she did, it remains difficult for her to pin down memories of a foreign past.*
+		Suddenly, Eidos feels an unfamiliar presence. Engraved into a smooth stone pedestal near her, a Glyph stares up at the starlit sky. However, she does not recognize the symbol - though perhaps at one time she did, it remains difficult to pin down memories of a foreign past.*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.X000!DESCRIPTION!/]
 
@@ -2758,7 +2758,7 @@ RAVINE
 
 	[/KABU!WELLSPRING!RAVINE!0.011!DESCRIPTION!]
 		||
-		*Suddenly, Eidos feels a familiar presence. Engraved into a smooth stone pedestal near her, a Glyph stares up at the starlit sky. The image of a proud yet penitent mage flashes before her eyes. A single tear for Rikharr traces his cheek, falling to the cold metal of his throne. The deep spring beneath these ruins cries in sympathy, thus beginning the endless flow now within the Wellspring. The flame of life soon flares within the ancient edifice as the mage's own flame slowly dwindles until it becomes nothing but a thin stream of smoke. Very soon, all turns cold and still, as even the memory of the candle itself fades into oblivion...*
+		*Suddenly, Eidos feels a familiar presence. Engraved into a smooth stone pedestal near her, a Glyph stares up at the starlit sky. The image of a proud yet penitent mage flashes before her eyes. A single tear for Rikharr traces his cheek, falling to the cold metal of his throne. The deep spring beneath these ruins cries in sympathy, thus beginning the endless flow now within the Wellspring. The flame of life soon flares within the ancient edifice as the mage's own flame slowly dwindles, slowly wanes, soon becoming nothing but a thin stream of smoke. Very soon, all turns cold and still, as even the memory of the candle itself fades into oblivion...*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.012!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.011!DESCRIPTION!/]
 
