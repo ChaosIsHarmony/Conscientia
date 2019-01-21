@@ -1,8 +1,8 @@
 ________________________________________________________________________
 PROLOGUE
 ______________
-AILING WARD
-    [/KAVU!TACRIVA!AILING WARD!1.000!DESCRIPTION!]
+ALCHEMY WARD
+    [/KAVU!TACRIVA!ALCHEMY WARD!1.000!DESCRIPTION!]
 		||
 		*COME back from Muninn Land, collapse, wake up in the infirmary.
 
@@ -10,7 +10,7 @@ AILING WARD
 
         MEET the courier who tells Rikos that Drakos is dead.*
 		(A#Return to Dazil){A:0,KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!}
-	[KAVU!TACRIVA!AILING WARD!1.000!DESCRIPTION!/]
+	[KAVU!TACRIVA!ALCHEMY WARD!1.000!DESCRIPTION!/]
 
 
 
@@ -68,11 +68,13 @@ COURTYARD
 
 
 ________________________________________________________________________
+________________________________________________________________________
 FIRST PHASE - CHAOS STIRS ~10.xxx~
 
 
 
 
+________________________________________________________________________
 ________________________________________________________________________
 SECOND PHASE - CHAOS SEETHES ~20.xxx~
 
@@ -80,12 +82,15 @@ SECOND PHASE - CHAOS SEETHES ~20.xxx~
 
 
 ________________________________________________________________________
+________________________________________________________________________
 FINAL PHASE - CHAOS SWELLS ~30.xxx~
 FESTIVAL OF LIGHT
 
 
 
 
+________________________________________________________________________
+________________________________________________________________________
 ________________________________________________________________________
 EVENT WRITERS
 ________________________________________________________________________

@@ -38,7 +38,7 @@ ______________
 GATES OF DAZIL
 	[/KAVU!DAZIL!GATES OF DAZIR!1.X000!DESCRIPTION!]
 		|MUNINN STUFF:KAVU!DAZIL!GATES OF DAZIR!1.010!DESCRIPTION!|
-		*CALLBACK to the description in the Book of Eidos, except they are open already and only close at nighttime.
+		*CALLBACK to the description in the Book of Eidos, except they are open already and only close at nighttime. Also, there are Neverborn sentries guarding the place and stationed all over Kavu as gaurds, cleaners, pack bearers, etc.
 		
 		HEAR a commotion at the far end of the Atrium.*
 		(A#...){A:0,KAVU!DAZIL!ATRIUM!0.X000!DESCRIPTION!}
@@ -74,11 +74,12 @@ KHARR MANOR
 
 
 
-
+________________________________________________________________________
 ________________________________________________________________________
 FIRST PHASE - CHAOS STIRS ~10.xxx~
 ______________
 KHARR MANOR
+>>>Check for which storyline is active<<<
 	[/KAVU!DAZIL!KHARR MANOR!10.X000!DESCRIPTION!]
 		||
 		*MULTICHECKER*
@@ -111,10 +112,10 @@ KHARR MANOR
 
     [/KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!]
 		||
-		*WANT to relax after ceremony.
+		*WANT to relax after ceremony, but...  WELLSPRING Artisan comes in with urgent news about the Cage.
 
         GET briefed on situation in the Wellspring. Then head on over immediately.*
-		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!}
+		(A#...){A:0,KAVU!WELLSPRING!GATE OF THE HEATHEN!10.000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!/]
 
     [/KAVU!DAZIL!KHARR MANOR!10.400!DESCRIPTION!]
@@ -147,17 +148,21 @@ KHARR MANOR
 
 
 ________________________________________________________________________
+________________________________________________________________________
 SECOND PHASE - CHAOS SEETHES ~20.xxx~
 
 
 
 
 ________________________________________________________________________
+________________________________________________________________________
 FINAL PHASE - CHAOS SWELLS ~30.xxx~
 
 
 
 
+________________________________________________________________________
+________________________________________________________________________
 ________________________________________________________________________
 EVENT WRITERS
 ________________________________________________________________________

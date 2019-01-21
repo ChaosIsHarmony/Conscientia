@@ -4753,7 +4753,7 @@ TEMPLE
 >>>Killed clockwork crows (11434)<<<
 	[/KABU!WELLSPRING!TEMPLE!0.X000!DESCRIPTION!]
 		|^11434:KABU!WELLSPRING!TEMPLE!10.000!DESCRIPTION!|
-		*Eidos enters a place of hallowed worship. Many dimmed crystals cast their amber light downwards; though metal covers top the casings leaving the ceiling drowned in a sea of shadows. The room's centre is occupied by a raised altar of some sort, with bowls of offering placed upon it.
+		*Eidos enters a place of hallowed worship. Several crystalline sconces pour their dim, amber light down into the room - though, this dying incandescence seems to feel gravity's pull tenfold, leaving the ceiling drowned in a sea of shadows. The room's center is occupied by a raised altar of some sort, with bowls of offering placed upon it.
 		
 		Most notable of all, perhaps, are the two statues flanking the altar. They look to be crafted from wood, and clothed in dark raiments. Their form is a hybrid of human shape and avian features. Their feet are clawed with red-accented, ivory talons, and their elongated faces, though veiled in scarves, provide the impression of beaks.*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!0.001!DESCRIPTION!}
@@ -4781,20 +4781,20 @@ TEMPLE
 
 	[/KABU!WELLSPRING!TEMPLE!1.001!DESCRIPTION!]
 		||
-		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One of them is filled with water, the other with a dark, reddish-brown liquid - a rank smell suggesting that it is putrefied blood.*
+		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid - which, given its rank smell, is likely organic and rotting.*
 		(A#Walk into the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!502.000!DESCRIPTION!}
 		(B#Enter the Gate area){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.000!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!1.001!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!TEMPLE!1.002!DESCRIPTION!]
 		||
-		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One of them is filled with water, the other with a dark, reddish-brown liquid - a rank smell suggesting that it is putrefied blood.*
+		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid - which, given its rank smell, is likely organic and rotting.*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!1.0020!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!1.002!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!TEMPLE!1.0020!DESCRIPTION!]
 		||
-		*Turning her attention towards the statues, Eidos is struck by the sense of familiarity she feels. They are precisely the same as those detailed in the tome she discovered in the excavation in some past incarnation. Then she realizes, their heads, though still as stone, appear to be facing her... Perhaps they always were and she just now noticed.*
+		*Turning her attention towards the statues, Eidos is struck by the sense of familiarity she feels. They are precisely the same as those detailed in the tome she discovered at the excavation site - which excavation site precisely, she cannot recall. Then she realizes, their heads, though still as stone, appear to be facing her... though perhaps they always were.*
 		(A#Walk into the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!502.000!DESCRIPTION!}
 		(B#Enter the Gate area){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.000!DESCRIPTION!}
 		(C#Destroy the statues){C:0,KABU!WELLSPRING!TEMPLE!9990.X11434!DESCRIPTION!}
@@ -4802,19 +4802,19 @@ TEMPLE
 
 	[/KABU!WELLSPRING!TEMPLE!1.003!DESCRIPTION!]
 		||
-		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One of them is filled with water, the other with a dark, reddish-brown liquid - a rank smell suggesting that it is putrefied blood.*
+		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid - which, given its rank smell, is likely organic and rotting.*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!1.0030!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!1.003!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!TEMPLE!1.0030!DESCRIPTION!]
 		||
-		*Eidos of course recognizes these statues as the ones that had previously chased her. The darkness behind their scarves stares at Eidos, entrancing her pulling her into their deadly embrace...*
+		*Eidos of course recognizes these statues as the ones that had previously chased her. The darkness behind their scarves stares at Eidos, entrancing her, pulling her into its deadly embrace...*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!1.0031!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!1.0030!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!TEMPLE!1.0031!DESCRIPTION!]
 		||
-		*Memories of pursuit and attempted evisceration, that pain of past wounds, the taste of blood, all these bring her back to reality - to a reality where the crows yet stare at her, unmoving and silent, in perfect imitation of statues*
+		*Memories of pursuit and attempted evisceration, the pain of past wounds, the taste of blood, all these bring her back to reality - to a reality where the crows yet stare at her, unmoving and silent, in perfect imitation of statues.*
 		(A#Walk into the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!502.000!DESCRIPTION!}
 		(B#Enter the Gate area){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.000!DESCRIPTION!}
 		(C#Destroy the statues){C:0,KABU!WELLSPRING!TEMPLE!9990.X11434!DESCRIPTION!}
@@ -4824,7 +4824,7 @@ TEMPLE
 killed the crows
 	[/KABU!WELLSPRING!TEMPLE!10.000!DESCRIPTION!]
 		||
-		*Eidos enters a place of hallowed worship. Many dimmed crystals cast their amber light downwards; though metal covers top the casings, leaving the ceiling drowned in a sea of shadows.
+		*Eidos enters a place of hallowed worship. Several crystalline sconces pour their dim, amber light down into the room - though, this dying incandescence seems to feel gravity's pull tenfold, leaving the ceiling drowned in a sea of shadows.
 		
 		At the room's centre, an altar extends upwards from the floor, growing skywards like a rectilinear stalacmite. The two columns upon which the killer statues once perched are now vacant. Their corpses have vanished, almost as though consumed by the Wellspring itself.*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!10.001!DESCRIPTION!}
@@ -4841,7 +4841,7 @@ killed the crows
 chased by the crows
 	[/KABU!WELLSPRING!TEMPLE!502.000!DESCRIPTION!]
 		||
-		*Eidos dashes into the Temple. Indeed, the two columns upon which the statues once perched are now vacant. The clicking sound of ivory claws on stone close behind leaves not doubt that this room's former occupants are still intent on finishing their work. Leaving droplets of blood trailing behind her, Eidos makes for the darkened room... *
+		*Eidos dashes into the Temple. The two columns upon which the statues once perched are now vacant. The clicking sound of ivory claws on stone close behind leaves not doubt that this room's former occupants are still intent on finishing their work. Leaving droplets of blood trailing behind her, Eidos makes for the darkened room... *
 		(A#...){A:0,KABU!WELLSPRING!LIVING QUARTERS!502.201!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!502.000!DESCRIPTION!/]
 
@@ -4849,7 +4849,7 @@ destroyed the crows
 >>>Have luin (12300)<<<
 	[/KABU!WELLSPRING!TEMPLE!502.X100!DESCRIPTION!]
 		|^12300:KABU!WELLSPRING!TEMPLE!502.101!DESCRIPTION!|
-		*Eidos picks up the sacrificial bowls and violently bashes the statues easily rendering them harmless. Their speed and agility no longer an advantage, as surprise and blunt force from heavy metals break them quickly.
+		*Eidos picks up the sacrificial bowls and violently bashes the statues into dust, easily rendering them harmless. Their speed and agility no longer an advantage, as surprise and blunt force from heavy metals break them quickly.
 		
 		Having disabled the threat the statues posed, it is now time for Eidos to move on.*
 		(A#Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
@@ -4860,7 +4860,7 @@ destroyed the crows
 		||
 		*Eidos summons Luin to dispense with the statues; Luin gladly obliges. For only the destruction of such fearsome foes brings delight to the ghelblade of Vanargand.
 		
-		But as with all actions of impulse and emotion, it ends almost as soon as it begins. Now the void left by this bloodlust must be forgotten - or at least temporarily obfuscated - so that Eidos can control her quivering hands.*
+		But as with all actions of impulse and emotion, it ends almost as soon as it begins. Now, the void left by this bloodlust must be tamed so that Eidos can control her quivering hands.*
 		(F#...){F:1,KABU!WELLSPRING!TEMPLE!502.102!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!502.101!DESCRIPTION!/]
 
@@ -4872,7 +4872,7 @@ destroyed the crows
 
 	[/KABU!WELLSPRING!TEMPLE!502.103!DESCRIPTION!]
 		||
-		*Calmer now, she can see two paths of egress from this horrific Temple.*
+		*Calmer now, she can see two paths of egress from this nightmarish Temple.*
 		(A#Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
 		(B#Enter the Gate area){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!502.103!DESCRIPTION!/]
