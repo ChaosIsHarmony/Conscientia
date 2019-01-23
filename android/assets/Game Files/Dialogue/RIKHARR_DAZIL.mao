@@ -140,11 +140,7 @@ KHARR MANOR
 
     [/KAVU!DAZIL!KHARR MANOR!10.500!DESCRIPTION!]
 		||
-		*SUN TOWER messenger invokes the Guardians' Pact and has come to tell Rikharr of the impending assault of the wasteland draugs, who have grown too numerous from hundreds of years of exile and have become too aggressive in the past few weeks, with several groups raiding at the same time. The High Council of Magi in Tacriva has chosen Dazil {the winds blow from the Northwest, signalling Dazil} to oversee operations in the Wasteland, and must report there within two days time. But Rik travels there immediately.
-        
-            DIP: Since they're still leaderless idiots, the Guardians can handle it, but if they attacked en masse, they might be overrun.
-            SUR: Nothing happens at Sun Tower, all the draugnir have vanished when Rik inspects. Riot happens with the Builders at home.
-            TYR: The draug are organized in rank and files and appear to have a leader. Looking closely, Rikos sees himself. Freaks and faints.
+		*SUN TOWER messenger invokes the Guardians' Pact and has come to tell Rikharr of the impending assault of the wasteland draugs, who have grown too numerous from hundreds of years of exile and have become too aggressive in the past few weeks, with several groups raiding at the same time. The High Council of Magi in Tacriva has chosen Dazil {the winds blow from the Northwest, signalling Dazil} to oversee operations in the Wasteland, and must report there within two days time.
 
         WELLSPRING Artisan comes in with urgent news about the Cage.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.500!DESCRIPTION!}
@@ -175,15 +171,15 @@ back from the Wellspring
             TRU: Muninn
             NEU: Straight to the Festival of Light
             SUR: The Muninn sapling arrives and has been planted in the Archives by Archivists
-            TYR: The draug seem to be gathering, but not attacking
+            TYR: The draug seem to be gathering, but not yet attacking
             LOO: Ark still hasn't woken up. Apparently, she managed to drag both of your asses back to the cage and use the Sigil of Wulfias, but then collapsed from exhaustion
 
         TRUSTED servant who was taking care of you mentions that the Festival of Light is coming soon. Shares more plot development for one random background plot point.*
 		(A#To the Slums){A:0,KAVU!DAZIL!SLUMS!20.000!DESCRIPTION!}
-        (B#To the Muninn){B:0,KAVU!DAZIL!ATRIUM!20.000!DESCRIPTION!}
+        (B#To the Muninn){B:0,KAVU!TACRIVA!ARCHIVES!20.000!DESCRIPTION!}
         (C#...){C:0,KAVU!DAZIL!KHARR MANOR!20.000!DESCRIPTION!}
         (D#To the Archives){D:0,KAVU!DAZIL!ARCHIVES!20.000!DESCRIPTION!}
-        (E#To the Sun Tower){E:0,KAVU!DAZIL!KHARR MANOR!20.000!DESCRIPTION!}
+        (E#To the Sun Tower){E:0,KAVU!TAMBUL!DYSAR MANOR!20.000!DESCRIPTION!}
         (F#To watch over Ark){F:0,KAVU!DAZIL!KHARR MANOR!20.000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!19.000!DESCRIPTION!/]
 
@@ -202,18 +198,46 @@ ARCHIVES
 
 
 ______________
-ATRIUM
-
-
-
-______________
 KHARR MANOR
 {Ark wakes up and then you go to the Dining Room in the Artisans' Plaza, but she asks if she can take you to the one in the Slums, because it's more fun. You go and have fun}
+
+{While in Wasteland, riot happened with the Builders at home; Neverborn sentries slain, as well as scores of Builders}
+
+back from the Wasteland
+    [/KAVU!DAZIL!KHARR MANOR!29.000!DESCRIPTION!]
+		||
+		*BACK from Wasteland.
+
+            DIP: Builders
+            TRU: Muninn
+            NEU: Straight to the Festival of Light
+            SUR: The Muninn sapling arrives and has been planted in the Archives by Archivists
+            TYR: The draug seem to be gathering, but not yet attacking
+            LOO: Ark still hasn't woken up. Apparently, she managed to drag both of your asses back to the cage and use the Sigil of Wulfias, but then collapsed from exhaustion
+
+        TRUSTED servant who was taking care of you mentions that the Festival of Light is coming soon. Shares more plot development for one random background plot point.*
+		(A#...){A:0,KAVU!DAZIL!SLUMS!20.000!DESCRIPTION!}
+        (B#...){B:0,KAVU!DAZIL!ATRIUM!20.000!DESCRIPTION!}
+        (C#...){C:0,KAVU!DAZIL!KHARR MANOR!20.000!DESCRIPTION!}
+        (D#...){D:0,KAVU!DAZIL!ARCHIVES!20.000!DESCRIPTION!}
+        (E#...){E:0,KAVU!TAMBUL!DYSAR MANOR!20.000!DESCRIPTION!}
+        (F#...){F:0,KAVU!DAZIL!KHARR MANOR!20.000!DESCRIPTION!}
+	[KAVU!DAZIL!KHARR MANOR!29.000!DESCRIPTION!/]
 
 
 ______________
 SLUMS
-
+	 [/KAVU!DAZIL!SLUMS!20.000!DESCRIPTION!]
+		||
+		*SETTLE the Builders' issues.
+		
+			DIP: Reforms will end branding and increase social mobility for Builders who prove themselves capable
+            TRU: Public debate with Builders in attendance; a loss means negotiation, a win means a riot
+            TYR: Rik suggests a public discussion, but they begin to riot and violence ensues.
+			
+		*
+		(A#...){A:0,KAVU!DAZIL!SLUMS!20.000!DESCRIPTION!}
+	[KAVU!DAZIL!SLUMS!20.000!DESCRIPTION!/]
 
 
 ________________________________________________________________________

@@ -470,7 +470,7 @@ KHLUTT
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.000!KHLUTT!]
 		||
-		*"Outlander, how exactly you managed to resurrect the crystal across the bridge eludes me, but the fact is you have."*
+		*"Outlander, how exactly you managed to resurrect the crystal across the Star Bridge baffles me, but the fact is you have."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!0.0000!KHLUTT!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.000!KHLUTT!/]
 		
@@ -760,7 +760,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.1010!LOGIRA!]
 		||
-		*"After the Jinnwraith and its draugnir hordes attempted an assault on Tambul, it was deemed necessary to build a perimiter at the bridge of the canyon to halt the creatures from crossing."*
+		*"After the Jinnwraith and its draugnir horde attempted an assault on Tambul, it was deemed necessary to build a perimiter around Heaven's Bridge, to keep the kharrspawn from crossing."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!0.1011!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.1010!LOGIRA!/]
 	
@@ -780,7 +780,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.10101!LOGIRA!]
 		||
-		*"After the Jinnwraith and its draugnir hordes attempted an assault on Tambul, it was deemed necessary to build a perimiter at the bridge of the canyon to halt the creatures from crossing."*
+		*"After the Jinnwraith and its draugnir horde attempted an assault on Tambul, it was deemed necessary to build a perimiter around Heaven's Bridge, to keep the kharrspawn from crossing."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!0.10102!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.10101!LOGIRA!/]
 	
@@ -818,7 +818,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.2011!LOGIRA!]
 		||
-		*"When Ark cast the Jinnwraith was into the canyon, the Sun Tower and its gate were in ruins; and with only the Moon Tower to protect us, the Dazirans began construction of the Dawn Fortress to halt the draugnir hordes from crossing the bridge into Tambul."*
+		*"When Ark cast the Jinnwraith was into the canyon, the Sun Tower and its gate were in ruins; and with only the Moon Tower to protect us, the Dazirans began construction of the Dawn Fortress to keep the draugnir horde from crossing Heaven's Bridge into Tambul."*
 		(A#"Why did you abandon your old way of life?"){A:1,KABU!DAWN FORTRESS!ARCHIVES!0.102!LOGIRA!}
 		(B#"Are the draugnir still a threat?"){B:1,KABU!DAWN FORTRESS!ARCHIVES!0.202!LOGIRA!}
 		(D#"How did the draugnir have the means to destroy the tower?"){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.402!LOGIRA!}
@@ -1475,13 +1475,13 @@ decided to help
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!11.1031!LOGIRA!]
 		||
-		*"After you cross the bridge, you must close the portcullis by extracting the energy from the crystal."*
+		*"After crossing the Star Bridge, you must close the portcullis! Extract the energy from the crystal and it will close."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!11.1032!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!11.1031!LOGIRA!/]
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!11.1032!LOGIRA!]
 		||
-		*"Then, you must enter the Wellspring to find my friend, Quangjo. He has already entered the Wellspring to release the water, but it has been a few days since we last met and I fear the worst."*
+		*"Then, enter the Wellspring and find my friend, Quangjo. He is there already, to release the water, but it has been a few days since we last met, and I fear the worst."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!11.1033!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!11.1032!LOGIRA!/]
 		
@@ -1606,7 +1606,7 @@ will not help
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!14.002!LOGIRA!]
 		||
-		*"You must go back across the bridge and seal off the way; and afterwards, restore the flow of water to the Dawn Fortress; or else neither you nor the Dazirans will see the rising of another moon!"*
+		*"You must go back across the Star Bridge and seal off the way; and afterwards, restore the flow of water to the Dawn Fortress; or else neither you nor the Dazirans will see the rising of another moon!"*
 		(C#"I don't want to get involved in this."){C:1,KABU!DAWN FORTRESS!ARCHIVES!13.300!LOGIRA!}
 		(D#"What makes you think your master won't reward me for my aid..?"){D:1,KABU!DAWN FORTRESS!ARCHIVES!14.400!LOGIRA!}
 		(E#"The approval of weaklings means nothing to me."){E:1,KABU!DAWN FORTRESS!ARCHIVES!15.500!LOGIRA!}
@@ -5976,7 +5976,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.2010!CIRE!]
 		||
-		*"A strong mage would be able to get across the span of the bridge, without a doubt."*
+		*"A strong mage would be able to surmount the mere span of Heaven's Bridge, without a doubt."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.2011!CIRE!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.2010!CIRE!/]
 	
@@ -6084,7 +6084,7 @@ CIRE
 
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.601!CIRE!]
 		||
-		*"Think about it! A strong mage would be able to get across the span of the bridge!"*
+		*"Think about it! A strong mage would be able to conquer the span of Heaven's Bridge!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.6010!CIRE!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.601!CIRE!/]
 	
@@ -7014,7 +7014,7 @@ SUN KEEP
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.001!DESCRIPTION!]
 		||
-		*As Eidos approaches the other side of the bridge, she sees the shattered stump of a monolithic edifice. This miserable vestige of the past is all that remains of a structure that must have cast a great shadow over the bridge at one time. While the blackened and metled form that stands before her is now but a lowly ruin, gleaming flecks sparkling in the midday sunlight reveal the golden sheen that must have complemented the silver spire of Tambul off to the west.*
+		*As Eidos approaches the other side of Heaven's Bridge, she sees the shattered stump of a monolithic edifice. This miserable vestige of the past is all that remains of a structure that must have cast a great shadow over the bridge at one time. While the blackened and metled form that stands before her is now but a lowly ruin, gleaming flecks sparkling in the midday sunlight reveal the golden sheen that must have complemented the silver spire of Tambul off to the west.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.0010!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.001!DESCRIPTION!/]
 	
@@ -7050,7 +7050,7 @@ SUN KEEP
 not welcome in Tacriba
 	[/KABU!DAWN FORTRESS!SUN KEEP!10.000!DESCRIPTION!]
 		||
-		*As Eidos approaches the other side of the bridge, she sees the shattered stump of a monolithic edifice. This miserable vestige of the past is all that remains of a structure that must have cast a great shadow over the bridge at one time. While the blackened and metled form that stands before her is now but a lowly ruin, gleaming flecks sparkling in the midday sunlight reveal the golden sheen that must have complemented the silver spire of Tambul off to the west.*
+		*As Eidos approaches the other side of Heaven's Bridge, she sees the shattered stump of a monolithic edifice. This miserable vestige of the past is all that remains of a structure that must have cast a great shadow over the bridge at one time. While the blackened and metled form that stands before her is now but a lowly ruin, gleaming flecks sparkling in the midday sunlight reveal the golden sheen that must have complemented the silver spire of Tambul off to the west.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!10.001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!10.000!DESCRIPTION!/]
 	
@@ -7196,7 +7196,7 @@ MINAH
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.2003!MINAH!]
 		||
-		*"That is, until Archmage Ark and the Valvorthr, met them on the bridge uniting the two towers!"*
+		*"That is, until Archmage Ark and the Valvorthr, met them on Heaven's Bridge, uniting the two towers!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.2004!MINAH!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.2003!MINAH!/]
 	
@@ -7260,7 +7260,7 @@ MINAH
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.4003!MINAH!]
 		||
-		*"That is, until Archmage Ark and the Valvorthr, met them on the bridge uniting the two towers!"*
+		*"That is, until Archmage Ark and the Valvorthr, met them on Heaven's Bridge, uniting the two towers!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.4004!MINAH!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.4003!MINAH!/]
 	
@@ -7280,7 +7280,7 @@ MINAH
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.5000!MINAH!]
 		||
-		*"Do you not know that eons ago, the draugnir swarm of the Jinnwraith made a ruin of the Sun Tower and flooded across the bridge?!"*
+		*"Do you not know that eons ago, the draugnir swarm of the Jinnwraith made a ruin of the Sun Tower and flooded across Heaven's Bridge?!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.5001!MINAH!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.5000!MINAH!/]
 	
@@ -7822,7 +7822,7 @@ met Rik and killed Ark
 
 	[/KABU!DAWN FORTRESS!SUN KEEP!1.5110!MINAH!]
 		||
-		*"I know that my crimes awoke the Jinnwraith from the abyssal pit; and I know that my faithlessness compelled her to face him in upon the bridge we see before us!"*
+		*"I know that my crimes awoke the Jinnwraith from the abyssal pit! And I know that my faithlessness compelled her to face him upon Heaven's Bridge!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!SUN KEEP!1.5111!MINAH!}
 	[KABU!DAWN FORTRESS!SUN KEEP!1.5110!MINAH!/]
 

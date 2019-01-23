@@ -3217,7 +3217,7 @@ Maybe NIYOOSH should disappear after this?????
 	[/KABU!TAMBUL!ATRIUM!1.1000!NIYOOSH!]
 		||
 		*"What news of Khlutt and his people?!"*
-		(A#"Khlutt wants to cross the bridge."){A:1,KABU!TAMBUL!ATRIUM!1.101!NIYOOSH!}
+		(A#"Khlutt wants to cross Heaven's Bridge."){A:1,KABU!TAMBUL!ATRIUM!1.101!NIYOOSH!}
 		(D#"...Khlutt plans not only to raze Dazir, but Tambul as well!"){D:1,KABU!TAMBUL!ATRIUM!1.401!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.1000!NIYOOSH!/]
 
@@ -7421,7 +7421,7 @@ MOON KEEP
 
 	[/KABU!TAMBUL!MOON KEEP!0.001!DESCRIPTION!]
 		||
-		*Walking within the fort structure, Eidos detects two points of interest: the tower proper to the left, and to the right, the ethereal gate leading out onto the canyon bridge.*
+		*Walking within the fort structure, Eidos detects two points of interest: the tower proper to the left, and to the right, the ethereal gate leading out onto Heaven's Bridge.*
 		(A#Return to the Residence District){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!}
 		(B#Explore to the right and to the bridge){B:0,KABU!TAMBUL!MOON KEEP!0.X100!DESCRIPTION!}
 		(C#Explore to the left and towards the tower entrance){C:0,KABU!TAMBUL!MOON KEEP!0.X200!DESCRIPTION!}
@@ -7429,7 +7429,7 @@ MOON KEEP
 
 	[/KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!]
 		||
-		*Eidos has returned to the keep entrance. One of three locations awaits her immediate attention: the tower, the canyon bridge gate, or the residential are.*
+		*Eidos has returned to the keep entrance. One of three locations awaits her immediate attention: the Moon Tower, Heaven's Bridge, or the residential area.*
 		(A#Return to the Residence District){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!}
 		(B#Explore to the right and to the bridge){B:0,KABU!TAMBUL!MOON KEEP!0.X100!DESCRIPTION!}
 		(C#Explore to the left and towards the tower entrance){C:0,KABU!TAMBUL!MOON KEEP!0.X200!DESCRIPTION!}
@@ -7439,7 +7439,7 @@ Gate stuff
 >>>Spoke w/ Brus about gate (13122)<<<
 	[/KABU!TAMBUL!MOON KEEP!0.X100!DESCRIPTION!]
 		|^13122:KABU!TAMBUL!MOON KEEP!1.X100!DESCRIPTION!|
-		*Walking through the keep structure, Eidos exits out into a courtyard permitting a panoramic view of the canyon. While the sight of this deep scar in the earth's skin is truly wondrous, it is eclipsed by the feat of unfathomable engineering spanning it: the bridge. It was likely wrought by the same hands responsible for the Moon Tower, as it too consists of perfectly interlocking metallic pieces, like scales on an impossibly large serpent. Stretching out across the chasm, it slithers through the air absent any support structures and yet miraculously solid and unmoving.
+		*Walking through the keep structure, Eidos exits out into a courtyard permitting a panoramic view of the canyon. While the sight of this deep scar in the earth's skin is truly wondrous, it is eclipsed by the feat of unfathomable engineering spanning it - Heaven's Bridge, an oddly familiar name. Likely wrought by the same hands responsible for the Moon Tower, it too consists of perfectly interlocking metallic pieces, like scales on an impossibly large serpent. Stretching out across the chasm, it slithers through the air absent any support structures and yet miraculously solid and unmoving.
 		
 		The sight is made even stranger by virtue of the massive archway hanging over the bridge entrance. There is some kind of visual distortion bending light at the threshold, as if there were a thin film of superheated air suspended between the metal pillars.
 		
@@ -7581,7 +7581,7 @@ dysmas is not present
 >>>Chooses to cross the bridge toward Tacriba (13116)<<<
 	[/KABU!TAMBUL!MOON KEEP!1.X100!DESCRIPTION!]
 		|^13116:KABU!TAMBUL!MOON KEEP!0.103!DESCRIPTION!|
-		*Eidos returns to the bridge and thus, the destructive gate.*
+		*Eidos returns to Heaven's Bridge and thus, the destructive gate.*
 		(A#Talk to the guard){A:0,KABU!TAMBUL!MOON KEEP!9999.X0115!DESCRIPTION!}
 		(B#Climb the stairs to the top of the wall){B:0,KABU!TAMBUL!RAMPARTS!0.000!DESCRIPTION!}
 		(F#Return to the keep entrance){F:1,KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!}
@@ -7620,7 +7620,7 @@ dysmas is not present
 
 	[/KABU!TAMBUL!MOON KEEP!1.302!DESCRIPTION!]
 		||
-		*Once on the landing, Eidos looks out over all the familiar sights: the canyon out east, the fortress at the end of the bridge, that inky spot in the middle of the dust and sand, the sparkling white north of it among others. Suddenly curious about the window, Eidos looks up and sees only a flat, seamless scale in its place, almost as if its very existence had been stricken from reality.*
+		*Once on the landing, Eidos looks out over all the familiar sights. The canyon out east, the fortress at the end of the bridge, that inky spot in the middle of the dust and sand, and the sparkling white north of it. Suddenly curious about the window, Eidos looks up and sees only a flat, seamless scale in its place, almost as if its very existence had been stricken from reality.*
 		(A#Return to the keep entrance){A:0,KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!1.302!DESCRIPTION!/]
 
@@ -7729,7 +7729,7 @@ BRUS
 
 	[/KABU!TAMBUL!MOON KEEP!0.0011!BRUS!]
 		||
-		*"Number one, the Tacribians on the other side of this bridge're on the brink of committing a Daziran genocide, something to do with a water dispute, but I don't know, nor do I care to find out the details of this conflict..."*
+		*"Number one, the Tacribians on the other side of the bridge're on the brink of committing a Daziran genocide, something to do with a water dispute - but I don't know, nor do I care to find out the details of their conflict..."*
 		(A#"..."){A:0,KABU!TAMBUL!MOON KEEP!0.0012!BRUS!}
 	[KABU!TAMBUL!MOON KEEP!0.0011!BRUS!/]
 
@@ -11096,7 +11096,7 @@ EVENT WRITERS
 	
 	[/KABU!TAMBUL!MOON KEEP!9990.X13116!BRUS!]
 		|13116:KABU!TAMBUL!MOON KEEP!0.X002!BRUS!|
-		*EVENT WRITER - Chooses to cross the bridge toward Tacriba*
+		*EVENT WRITER - Chooses to cross Heaven's Bridge toward Tacriba*
 		(A#WRITER){A:0,NO ADDRESS}	
 	[KABU!TAMBUL!MOON KEEP!9990.X13116!BRUS!/]
 	

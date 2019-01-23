@@ -106,7 +106,9 @@ ______________
 SANCTUM OF GURGADON
 	[/KAVU!WELLSPRING!SANCTUM OF GURGADON!10.000!DESCRIPTION!]
 		||
-		*GURAGDON fight: Ark and Rik fight hard. Rik slays it with LUIN. He's bleeding heavily, passes out and wakes up at his Manor.*
+		*GURAGDON fight: Ark and Rik fight hard. Rik slays it with LUIN. He's bleeding heavily, passes out and wakes up at his Manor.
+		
+		AS Rik passes out, he sees a vision of someone trying to possess him, to take command of his body. He literally asks, "Who are you? What... are you...?" before he passes out.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!19.000!DESCRIPTION!}
 	[KAVU!WELLSPRING!SANCTUM OF GURGADON!10.000!DESCRIPTION!/]
 

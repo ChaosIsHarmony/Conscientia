@@ -19,7 +19,7 @@ ______________
 ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!]
 		||
-		*RIKOS wakes up, peeling his face from the book he was sleeping on. Lately his dreams have been becoming quite vivid. 
+		*RIKOS wakes up, peeling his face from the book he was sleeping on. Lately his dreams have been becoming quite vivid. Lately, sleep comes for his unexpectedly.
 		
 		EVENT CHECKER to see what the player has already experienced in other books to reference them.
 		
@@ -77,15 +77,40 @@ FIRST PHASE - CHAOS STIRS ~10.xxx~
 ________________________________________________________________________
 ________________________________________________________________________
 SECOND PHASE - CHAOS SEETHES ~20.xxx~
-
+______________
+ARCHIVES
+	[/KAVU!TACRIVA!ARCHIVES!20.000!DESCRIPTION!]
+		||
+		*RIKOS communes with the Muninn again.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!20.000!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!20.0000!DESCRIPTION!/]
 
 
 
 ________________________________________________________________________
 ________________________________________________________________________
 FINAL PHASE - CHAOS SWELLS ~30.xxx~
-FESTIVAL OF LIGHT
+______________
+ARCHIVES
+Muninn Death; Jinnwraith Birth
+	[/KAVU!TACRIVA!ARCHIVES!39.000!DESCRIPTION!]
+		||
+		*RIKOS destroys the Muninn and flees to the Wasteland.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!39.000!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!39.0000!DESCRIPTION!/]
+	
 
+
+______________
+COURTYARD
+Festival of Light
+	[/KAVU!TACRIVA!COURTYARD!30.000!DESCRIPTION!]
+		||
+		*FESTIVAL of light. Interrupted by a violent storm caused by the Radysar's meddling with the Muninn. It cracks the dome and sends many to an early grave, including Rikos and Ark.
+		
+		FIN.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!20.000!DESCRIPTION!}
+	[KAVU!TACRIVA!COURTYARD!30.0000!DESCRIPTION!/]
 
 
 

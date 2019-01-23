@@ -3723,85 +3723,85 @@ Prelude to Jer Memory
 
 	[/MIND!MINDSCAPE!THE VOID!2.00000!DESCRIPTION!]
 		||
-		*Senses seem to melt away as though they too were no more than mere memories of a present that never was nor will be. The darkness and silence is so absolute it calls into question the Self's very existence. Were it not that its Trueflesh had been a resident here since time immemorial, thinking it the prelude to death would be most natural.*
+		*Senses melt away as though they too were no more than mere memories of a present that never was nor will be. The darkness and silence are so absolute, they call into question the Self's very existence. Were it not that its Trueflesh had been a resident here since time immemorial, thinking it the prelude to death would be most natural.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.00001!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.00000!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.00001!DESCRIPTION!]
 		||
-		*Yet, this Self knows that staying here for an undetermined amount of time is as certain as the love of Biracul. A ghost waits here only to be summoned forth to one of the Self's infinite memories...*
+		*Yet, this Self knows that staying here until summoned is as certain as Biracul's love. As a ghost, here awaiting a call to one of the Self's infinite memories...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0133!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.00001!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.0000!DESCRIPTION!]
 		||
-		*Then, the silence is shattered into raspy fragments by the appearance of a spirit - inquisitive and benevolent, surely. It asks this Self of the Jeran sojourn.*
+		*Then, the silence shatters into infinite raspy fragments, its demise sparked by the appearance of a spirit - this one inquisitive and benevolent, it seems. The summons, to the Jeran sojourn... to the Isle of the Wyrm.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0001!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0000!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.0001!DESCRIPTION!]
 		||
-		*But so long ago was it and so foggy now the memory that the spirit must act as guide to it. For this Self cannot but wonder if this was truly even its voyage or one belonging to a profane, Vanquished mind...*
+		*But so long ago was it, and so foggy now the memory, that the spirit must act as guide. For this Self cannot but wonder if the voyage was truly its own or simply one belonging to a profane, Vanquished mind...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.800!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0001!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.001!DESCRIPTION!]
 		||
-		*And into the abyssal space between memories the Self returns...*
+		*And into the abyssal space between memories this Self returns...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0010!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.001!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.0010!DESCRIPTION!]
 		||
-		*Senses seeming to melt away as though they too were no more than mere memories of a present that never was nor will be. The darkness and silence is so absolute it calls into question the Self's very existence. Were it not that its Trueflesh had been a resident here since time immemorial, thinking it the prelude to death would be most natural.*
+		*Senses melt away as though they too were no more than mere memories of a present that never was nor will be. The darkness and silence are so absolute, they call into question the Self's very existence. Were it not that its Trueflesh had been a resident here since time immemorial, thinking it the prelude to death would be most natural.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.00100!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0010!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.00100!DESCRIPTION!]
 		||
-		*Yet, this Self knows that staying here for an undetermined amount of time is as certain as the love of Biracul. A ghost waits here only to be summoned forth to one of the Self's infinite memories...*
+		*Yet, this Self knows that staying here until summoned is as certain as Biracul's love. As a ghost, here awaiting a call to one of the Self's infinite memories...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.001000!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.00100!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.001000!DESCRIPTION!]
 		||
-		*But just then, this Self notices that not all has disappeared...*
+		*But, this Self notices that not all has disappeared... a faint scent remains...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0010000!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.001000!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.0010000!DESCRIPTION!]
 		||
-		*The Memory-Thief - the Visitor from before - remains, stalking as the hidden lamb tremulously stalks the hunting wolf, weary of drawing its attention lest it transition from observer to observed.*
-		(A#Engage the Visitor){A:1,MIND!MINDSCAPE!THE VOID!2.011!DESCRIPTION!}
-		(B#Find the Visitor){B:1,MIND!MINDSCAPE!THE VOID!2.012!DESCRIPTION!}
-		(C#Ignore the Visitor){C:1,MIND!MINDSCAPE!THE VOID!2.013!DESCRIPTION!}
-		(D#Flatter the Visitor){D:1,MIND!MINDSCAPE!THE VOID!2.014!DESCRIPTION!}
-		(E#Threaten the Visitor){E:1,MIND!MINDSCAPE!THE VOID!2.015!DESCRIPTION!}
+		*The Memory-Thief - the predator from before - yet lingers, stalking as the hidden lamb tremulously stalks the hunting wolf, weary of drawing its attention lest it transition from observer to observed.*
+		(A#Engage the Memory-Thief){A:1,MIND!MINDSCAPE!THE VOID!2.011!DESCRIPTION!}
+		(B#Find the Memory-Thief){B:1,MIND!MINDSCAPE!THE VOID!2.012!DESCRIPTION!}
+		(C#Ignore the Memory-Thief){C:1,MIND!MINDSCAPE!THE VOID!2.013!DESCRIPTION!}
+		(D#Flatter the Memory-Thief){D:1,MIND!MINDSCAPE!THE VOID!2.014!DESCRIPTION!}
+		(E#Threaten the Memory-Thief){E:1,MIND!MINDSCAPE!THE VOID!2.015!DESCRIPTION!}
 		(F#Let out a mighty war Caw){F:1,MIND!MINDSCAPE!THE VOID!2.016!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0010000!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.011!DESCRIPTION!]
 		||
-		*Venturing over yonder to where the presence is, this Self attempts to engage it in conversation. But it... no, "he"... flees.*
+		*Following the pulsing emanations to its locus, this Self attempts to engage it in conversation. But it... no, "he"... flees.*
 		(A#Chase){A:1,MIND!MINDSCAPE!THE VOID!2.0110!DESCRIPTION!}
 		(C#Let him go){C:1,MIND!MINDSCAPE!THE VOID!2.017!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.011!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.0110!DESCRIPTION!]
 		||
-		*And compelled is this Self, as many times before, to actions not of its own desire. It is to give chase. Yet, in stillness its Trueflesh remains. It seems that it is not this Self who will give chase, but rather that which observes.*
+		*And compelled is this Self, as many times before, to actions not of its own desire. It is to give chase. Yet, in stillness its Trueflesh remains. It is never this Self who gives chase, but rather the Observer.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0111!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0110!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.0111!DESCRIPTION!]
 		||
-		*No, this Self shall here abide, in the Void, until once more is its ghost needed as the vessel of Biracul's will.*
+		*No, this Self shall here abide in the Void, until once more is its ghost needed as the vessel of Biracul's will.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!9990.X2005!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0111!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.012!DESCRIPTION!]
 		||
-		*Calmly scanning the area with the breath of Awareness as its guide, this Self finds the Visitor, occluding its... no, "his"... presence.*
+		*Calmly scanning the area with the breath of Awareness as its guide, this Self locates the visitor, occluding its... no, "his"... presence.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0120!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.012!DESCRIPTION!/]
 
@@ -3813,14 +3813,14 @@ Prelude to Jer Memory
 
 	[/MIND!MINDSCAPE!THE VOID!2.0121!DESCRIPTION!]
 		||
-		*Yet in the space of a thought, the Visitor takes flight.*
+		*Yet in the space of a thought, he takes panicked flight.*
 		(B#Chase){B:1,MIND!MINDSCAPE!THE VOID!2.0110!DESCRIPTION!}
 		(C#Let him go){C:1,MIND!MINDSCAPE!THE VOID!2.017!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0121!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.013!DESCRIPTION!]
 		||
-		*Thus, this Self lets the Visitor be...*
+		*Thus, this Self lets all this be as they should...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0130!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.013!DESCRIPTION!/]
 
@@ -3844,7 +3844,7 @@ Prelude to Jer Memory
 
 	[/MIND!MINDSCAPE!THE VOID!2.0132!DESCRIPTION!]
 		||
-		*All that belongs to this Self is the paradox of "having nothing". Silent thought as sole companion, though it too fades away into obscurity and all that is truly left is...*
+		*Silent thought as sole companion, this Self melts into unity. Soon, these companions become indistinguishable from one another, seamlessly weaving in and among all else. What remains when all is one? Everything becomes nothing in unity. It all fades away into obscurity and all that is truly left is...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0133!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0132!DESCRIPTION!/]
 
@@ -3880,7 +3880,7 @@ Prelude to Jer Memory
 
 	[/MIND!MINDSCAPE!THE VOID!2.0141!DESCRIPTION!]
 		||
-		*However, any qualms of being castigated by a malevolent spirit soon dissipate, as the Visitor takes flight once it perceives it has been spotted.*
+		*However, any qualms of castigation at the malevolent hand of the spirit soon dissipate, as it takes panicked flight.*
 		(C#Let him go){C:1,MIND!MINDSCAPE!THE VOID!2.017!DESCRIPTION!}
 		(D#Chase){D:1,MIND!MINDSCAPE!THE VOID!2.0110!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0141!DESCRIPTION!/]
@@ -3893,45 +3893,45 @@ Prelude to Jer Memory
 
 	[/MIND!MINDSCAPE!THE VOID!2.0150!DESCRIPTION!]
 		||
-		*Yet, the Visitor rather skittishly takes flight, sensing it has been spotted.*
+		*Yet, the specter rather skittishly takes flight, sensing it has been spotted.*
 		(C#Let him go){C:1,MIND!MINDSCAPE!THE VOID!2.017!DESCRIPTION!}
 		(E#Chase){E:1,MIND!MINDSCAPE!THE VOID!2.0110!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0150!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.016!DESCRIPTION!]
 		||
-		*Many an incomprehensible and bizarre command has this Self followed since pledging its Trueflesh to the Shining One, but perhaps the centuries have truly worn upon sanity and now the absurd with the divine seem as one?*
+		*Many an incomprehensible and bizarre command has this Self followed since pledging Trueflesh to the Shining One, but perhaps the centuries have truly worn upon sanity and now the absurd with the divine seem as one?*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0160!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.016!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.0160!DESCRIPTION!]
 		||
-		*Whatever the case may be, out from the depths of this Self's bodiless gut comes a resounding Caw  - one to make any poultry, sentient or not, recoil in awe and envy!*
+		*Whatever the case may be, out from the depths of this Self's bodiless gut comes a resounding Caw - one to make any poultry, sentient or not, recoil in awe and envy!*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0161!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0160!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.0161!DESCRIPTION!]
 		||
-		*Not unexpectedly, the Visitor takes flight, though it... no, not 'it', but rather 'the gremlin'... Yes! The gremlin had done so even before the sacred call of Roostor rolled off the beak...*
+		*Not unexpectedly, the presence takes panicked flight, though it... no, not 'it', but rather 'the gremlin'... Yes! The gremlin had done so even before the sacred call of Roostor rolled off the beak...*
 		(C#Let the gremlin go){C:1,MIND!MINDSCAPE!THE VOID!2.017!DESCRIPTION!}
 		(F#No quarters! Pursue the gremlin to the edge of time!){F:1,MIND!MINDSCAPE!THE VOID!2.0110!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0161!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.017!DESCRIPTION!]
 		||
-		*This Self abides. By Biracul's sacred name, all decisions are subjugated to the will of the All-Seer in order to truly be free!*
+		*This Self abides. By Roostor and Biracul's sacred names, all decisions are subjugated to the will of the All-Seer, that all may be truly free!*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.0170!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.017!DESCRIPTION!/]
-	
+
 	[/MIND!MINDSCAPE!THE VOID!2.0170!DESCRIPTION!]
 		||
-		*Free! Free is the one bound to the All-Seer's Great Work!*
+		*Free! Yes! Free is the one, and only the one, bound to the All-Seer's Great Work! Unity is freedom!*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!2.013!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.0170!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!2.800!DESCRIPTION!]
 		||
-		*Suddenly, this Self's incorporeal simulacrum of a body sways back and forth upon unsteady and uncertain ground, until beneath its feet appear the wooden planks of a simple watercraft...*
+		*Suddenly, legs fade in from forgotten memories, swaying back and forth upon unsteady and uncertain ground, until beneath their feet appear the wooden planks of a simple watercraft...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.000!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!2.800!DESCRIPTION!/]
 
@@ -4029,7 +4029,7 @@ Prelude to the Empyrean Memory
 
 	[/MIND!MINDSCAPE!THE VOID!4.001!DESCRIPTION!]
 		||
-		*A link yet lingers between our two minds. A link that would make this Self feel ill-at-ease were it not for the rock upon which its faith in Biracul stands.*
+		*A link yet lingers between two minds. A link that would make this Self feel ill-at-ease were it not for the rock upon which its faith in Biracul stands.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.0010!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.001!DESCRIPTION!/]
 
@@ -4047,18 +4047,18 @@ Prelude to the Empyrean Memory
 
 	[/MIND!MINDSCAPE!THE VOID!4.0012!DESCRIPTION!]
 		||
-		*In His word, trust; and to His ordinances, obedience!*
+		*In His word, trust; and to His ordinances, obey!*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.0013!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0012!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.0013!DESCRIPTION!]
 		||
-		*If the Visitor is pleasant to Him, no fear can abide!*
-		(A#Engage the Visitor){A:1,MIND!MINDSCAPE!THE VOID!4.011!DESCRIPTION!}
-		(B#Find the Visitor){B:1,MIND!MINDSCAPE!THE VOID!4.012!DESCRIPTION!}
-		(C#Ignore the Visitor){C:1,MIND!MINDSCAPE!THE VOID!4.013!DESCRIPTION!}
-		(D#Flatter the Visitor){D:1,MIND!MINDSCAPE!THE VOID!4.014!DESCRIPTION!}
-		(E#Threaten the Visitor){E:1,MIND!MINDSCAPE!THE VOID!4.015!DESCRIPTION!}
+		*If the Memory-Thief is pleasant to Him, no fear can abide!*
+		(A#Engage the Memory-Thief){A:1,MIND!MINDSCAPE!THE VOID!4.011!DESCRIPTION!}
+		(B#Find the Memory-Thief){B:1,MIND!MINDSCAPE!THE VOID!4.012!DESCRIPTION!}
+		(C#Ignore the Memory-Thief){C:1,MIND!MINDSCAPE!THE VOID!4.013!DESCRIPTION!}
+		(D#Flatter the Memory-Thief){D:1,MIND!MINDSCAPE!THE VOID!4.014!DESCRIPTION!}
+		(E#Threaten the Memory-Thief){E:1,MIND!MINDSCAPE!THE VOID!4.015!DESCRIPTION!}
 		(F#Let out a mighty war Caw){F:1,MIND!MINDSCAPE!THE VOID!4.016!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0013!DESCRIPTION!/]
 
@@ -4101,13 +4101,13 @@ Prelude to the Empyrean Memory
 
 	[/MIND!MINDSCAPE!THE VOID!4.0115!DESCRIPTION!]
 		||
-		*Gotta get out of here... get through this impenetrable labyrinth of emptiness!*
+		*Gotta get out of here... get through this... impenetrable labyrinth of emptiness! Must...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.500!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0115!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.012!DESCRIPTION!]
 		||
-		*Calmly scanning the area with the breath of Awareness as a guide, this Self finds the Visitor, occluding its... no, "his"... presence.*
+		*Calmly scanning the area with the breath of Awareness as a guide, this Self finds the Memory-Thief, occluding its... no, "his"... presence.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.0120!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.012!DESCRIPTION!/]
 
@@ -4119,26 +4119,26 @@ Prelude to the Empyrean Memory
 
 	[/MIND!MINDSCAPE!THE VOID!4.0121!DESCRIPTION!]
 		||
-		*Yet in the space of a single thought, the Visitor takes flight.*
+		*Yet in the space of a single thought, he takes panicked flight.*
 		(B#Chase){B:1,MIND!MINDSCAPE!THE VOID!4.0110!DESCRIPTION!}
 		(C#Let him go){C:1,MIND!MINDSCAPE!THE VOID!4.017!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0121!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.013!DESCRIPTION!]
 		||
-		*Thus, this Self lets the Visitor be. After uncounted breaths, it fades into the darkness, along with all else.*
+		*Thus, this Self lets the Memory-Thief be. After uncounted breaths, it fades into the darkness, along with all else.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.0130!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.013!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.0130!DESCRIPTION!]
 		||
-		*Sound, sight, touch, taste, smell, all become null. This place allows for nothing but the cold unmoving amalgamation of all things returned to the beginning from the edge of the end.*
+		*Sound, sight, touch, taste, smell, all become null and void. This place allows for nothing but the cold unmoving amalgamation of all things returned to the beginning from the edge of the end.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.0131!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0130!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.0131!DESCRIPTION!]
 		||
-		*All that belongs to this one is but the paradox of "having nothing". Silent thought as sole companion, though it too fades away into obscurity and all that is truly left is...*
+		*Silent thought as sole companion, this Self melts into unity. Soon, these companions become indistinguishable from one another, seamlessly weaving in and among all else. What remains when all is one? Everything becomes nothing in unity. It all fades away into obscurity and all that is truly left is...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.0132!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0131!DESCRIPTION!/]
 
@@ -4180,7 +4180,7 @@ Prelude to the Empyrean Memory
 
 	[/MIND!MINDSCAPE!THE VOID!4.0142!DESCRIPTION!]
 		||
-		*However, any qualms of being castigated by this malevolent spirit soon dissipate, as the Visitor takes flight.*
+		*However, any qualms of castigation at the malevolent hand of the spirit soon dissipate, as it takes panicked flight.*
 		(C#Let it go){C:1,MIND!MINDSCAPE!THE VOID!4.017!DESCRIPTION!}
 		(D#Chase){D:1,MIND!MINDSCAPE!THE VOID!4.0110!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0142!DESCRIPTION!/]
@@ -4193,33 +4193,33 @@ Prelude to the Empyrean Memory
 
 	[/MIND!MINDSCAPE!THE VOID!4.0150!DESCRIPTION!]
 		||
-		*Yet, the Visitor rather skittishly takes flight before a single aggressive overture.*
+		*Yet, the specter rather skittishly takes flight, even before a single aggressive overture.*
 		(C#Let him go){C:1,MIND!MINDSCAPE!THE VOID!4.017!DESCRIPTION!}
 		(E#Chase){E:1,MIND!MINDSCAPE!THE VOID!4.0110!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0150!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.016!DESCRIPTION!]
 		||
-		*Many an incomprehensible and bizarre command has this Self followed since pledging its Trueflesh to the Shining One, but perhaps the centuries have truly worn upon sanity and now the absurd with the divine seem as one?*
+		*Many an incomprehensible and bizarre command has this Self followed since pledging Trueflesh to the Shining One, but perhaps the centuries have truly worn upon sanity and now the absurd with the divine seem as one?*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.0160!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.016!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.0160!DESCRIPTION!]
 		||
-		*Whatever the case may be, out from the depths of this Self's bodiless gut comes a resounding Caw  - one to make any poultry, sentient or not, recoil in awe and envy!*
+		*Whatever the case may be, out from the depths of this Self's bodiless gut comes a resounding Caw - one to make any poultry, sentient or not, recoil in awe and envy!*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.0161!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0160!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.0161!DESCRIPTION!]
 		||
-		*Not unexpectedly, the Visitor takes flight, though it... no, not 'it', but rather 'the gremlin'... Yes! The gremlin had done so even before the sacred call of Roostor rolled off the beak...*
+		*Not unexpectedly, the presence takes panicked flight, though it... no, not 'it', but rather 'the gremlin'... Yes! The gremlin had done so even before the sacred call of Roostor rolled off the beak...*
 		(C#Let the gremlin go){C:1,MIND!MINDSCAPE!THE VOID!4.017!DESCRIPTION!}
 		(F#No quarters! Pursue the gremlin to the edge of time!){F:1,MIND!MINDSCAPE!THE VOID!4.0110!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.0161!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.017!DESCRIPTION!]
 		||
-		*In action's stead, inaction. By Biracul's hallowed name, all personal desires are subjugated to the will of the All-Seer - for only in the bonds of divinity are all truly free!*
+		*In action's stead, inaction. By Roostor and Biracul's hallowed names, all personal desires are subjugated to the will of the All-Seer - for only in the bonds of divinity are all truly free!*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.013!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.017!DESCRIPTION!/]
 
@@ -4245,31 +4245,31 @@ vision of the Sylvan Architect
 
 	[/MIND!MINDSCAPE!THE VOID!4.503!DESCRIPTION!]
 		||
-		*As it drifts into the Mathetia, the majestic Muninn tree appears unmoving at the center of the frame; brilliant beyond compare; divine beyond imagination; and yet, ultimately as fragile as all things... For likewise, this Self witnesses the near instantaneous withering of the pearlescent marvel, the white glow replaced with an ever-intensifying emerald incandescence.*
+		*Drifting into the Mathetia, it witnesses the majestic Muninn tree, unmoving at the center of the frame; brilliant beyond compare; divine beyond imagination; and yet, ultimately as fragile as all things... For likewise, this Self witnesses the near instantaneous withering of the pearlescent marvel, the white glow replaced with an ever-intensifying emerald incandescence.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.504!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.503!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.504!DESCRIPTION!]
 		||
-		*Without warning, from behind the charnel Muninn emerges a giant claw, vile and spindly. Crushing the dessicated tree in a steely grip, It violently uproots the Muninn's corpse, dragging it into the darkness of a more sinister Void beyond.*
+		*Without warning, from behind the charnel Muninn emerges a giant claw, charred and spindly, gnarled like the ancient branches of a dying tree. Crushing the dessicated tree in a steely grip, the claw violently uproots the Muninn's corpse, dragging it into the darkness of a more sinister Void beyond.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.505!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.504!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.505!DESCRIPTION!]
 		||
-		*And after the briefest moment of absolute, foreboding silence...*
+		*And after the briefest moment of absolute silence...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.506!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.505!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.506!DESCRIPTION!]
 		||
-		*The claw's master pours forth from the murky emptiness.*
+		*The claw's master crawls forth from the murky emptiness.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.5060!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.506!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.5060!DESCRIPTION!]
 		||
-		*A giant, green beast, Its weathered limbs the size of trees; Its eyes of burning emerald.*
+		*A giant, green beast, Its gangly limbs the size of trees; Its eyes of burning emeralds.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.507!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.5060!DESCRIPTION!/]
 
@@ -4281,7 +4281,7 @@ vision of the Sylvan Architect
 
 	[/MIND!MINDSCAPE!THE VOID!4.508!DESCRIPTION!]
 		||
-		*Swiftly It makes for this Self, malevolent intent exuding from Its very being as It extends a horrible, gangly claw to rip the Self asunder.*
+		*Swiftly It makes for this Self, malevolent intent exuding from Its very being. A horrible, gnarled claw reaches forth to rip the Self asunder.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.509!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.508!DESCRIPTION!/]
 
@@ -4319,7 +4319,7 @@ vision of the Sylvan Architect
 returning from birth of Biracul
 	[/MIND!MINDSCAPE!THE VOID!4.900!DESCRIPTION!]
 		||
-		*Thus this Self sinks back into the void, reminiscing about the divine mission and how It chose this one to birth Its angelic child. The honor is overwhelming; excitement driven to an ecstatic frenzy, climaxing in a sublime union of the divine and the mundane!*
+		*Thus this Self sinks back into the void, reminiscing about the divine mission and how It chose this one to birth Its angelic child. The honor is overwhelming; excitement swells to an ecstatic frenzy, climaxing in a sublime union of the divine and the mundane!*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.901!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.900!DESCRIPTION!/]
 
@@ -4331,13 +4331,13 @@ returning from birth of Biracul
 
 	[/MIND!MINDSCAPE!THE VOID!4.902!DESCRIPTION!]
 		||
-		*Nothing.*
+		*Emptiness.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!4.903!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.902!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!4.903!DESCRIPTION!]
 		||
-		*Devoured by the Void, never to return...*
+		*Emotions devoured by the hungry Void...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!5.000!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!4.903!DESCRIPTION!/]
 
@@ -4346,14 +4346,14 @@ returning from birth of Biracul
 Prelude to Adarin interrogation
 	[/MIND!MINDSCAPE!THE VOID!5.000!DESCRIPTION!]
 		||
-		*As this Self reflects on the unending nothingness of the Void, upon the memory of having had memories, along comes what can only be described as a summons. One that demands this one's presence in the Graylands, a deplorable place of supreme ambiguity.*
+		*How odd, so soon? Another summons. But unlike all before, it is to where memory and time meld; it is to the Graylands, that deplorable place of supreme ambiguity.*
 		(B#Accept the summons){B:1,MIND!MINDSCAPE!THE VOID!5.001!DESCRIPTION!}
 		(E#Reject the summons){E:1,MIND!MINDSCAPE!THE VOID!5.002!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!5.000!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!5.001!DESCRIPTION!]
 		||
-		*Another Memory-Thief? Unlikely. For a summons did it send. A summons to which this Self acquiesces...*
+		*Another Memory-Thief? Unlikely. For a summons did it send. A summons to which this Self now acquiesces...*
 		(A#...){A:0,MIND!MINDSCAPE!GRAYLANDS!5.X000!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!5.001!DESCRIPTION!/]
 
@@ -4383,7 +4383,7 @@ Prelude to Adarin interrogation
 
 	[/MIND!MINDSCAPE!THE VOID!5.203!DESCRIPTION!]
 		||
-		*The final memory of Torma the Prophetess of Biracul vanishes, ripped from the mind.*
+		*The final memory of Torma, the Prophetess of Biracul, vanishes, ripped from the mind.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!5.204!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!5.203!DESCRIPTION!/]
 
@@ -4400,7 +4400,7 @@ Prelude to Adarin interrogation
 SIXTH STAGE
 	[/MIND!MINDSCAPE!THE VOID!6.000!DESCRIPTION!]
 		||
-		*...In this darkness, there is no Self.*
+		*...In the Void, there is no Self.*
 		(A#...){A:1,MIND!MINDSCAPE!THE VOID!6.001!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.000!DESCRIPTION!/]
 
@@ -4412,7 +4412,7 @@ SIXTH STAGE
 
 	[/MIND!MINDSCAPE!THE VOID!6.002!DESCRIPTION!]
 		||
-		*The dream of living has ended and only now is this 'thing' awoken, not knowing whether it was the thing that dreamt of the Wayfarer or the Wayfarer of thing...*
+		*The dream of living has ended and only now is this 'thing' awoken, not knowing whether it was the thing that dreamt of the Wayfarer or the Wayfarer of it...*
 		(A#...){A:1,MIND!MINDSCAPE!THE VOID!6.003!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.002!DESCRIPTION!/]
 
@@ -4435,19 +4435,19 @@ SIXTH STAGE
 
 	[/MIND!MINDSCAPE!THE VOID!6.005!DESCRIPTION!]
 		||
-		*And thus to thought conveyed, it is clear as the summer sky that... if nothing else... that at least 'I' am!*
+		*And thus to thought conveyed, it is clear as Summer's sky that... if nothing else... that at least 'I' am!*
 		(A#...){A:1,MIND!MINDSCAPE!THE VOID!6.006!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.005!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!6.006!DESCRIPTION!]
 		||
-		*Though no memories of she who dreamt remain, 'I' am one with the cacophony of the Thought Wheel's memories. And they shall become my identity. To simply "be" is all that is necessary!*
+		*Though no memories of she who dreamt remain, 'I' am one with the cacophony of the Thought Wheel's memories. And they shall become my identity. To simply 'be' is all that is necessary!*
 		(A#...){A:1,MIND!MINDSCAPE!THE VOID!6.100!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.006!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!6.100!DESCRIPTION!]
 		||
-		*A crash.*
+		*But then, a crash.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.101!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.100!DESCRIPTION!/]
 
@@ -4491,31 +4491,31 @@ as ormenos
 
 	[/MIND!MINDSCAPE!THE VOID!6.503!DESCRIPTION!]
 		||
-		*As it drifts into the Mathetia, the majestic Muninn tree appears unmoving at the center of the frame; brilliant beyond compare; divine beyond imagination; and yet, ultimately as fragile as all things... For likewise, this Self witnesses the near instantaneous withering of the pearlescent marvel, the white glow replaced with an ever-intensifying emerald incandescence.*
+		*Drifting into the Mathetia, it witnesses the majestic Muninn tree, unmoving at the center of the frame; brilliant beyond compare; divine beyond imagination; and yet, ultimately as fragile as all things... For likewise, this Self witnesses the near instantaneous withering of the pearlescent marvel, the white glow replaced with an ever-intensifying emerald incandescence.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.504!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.503!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!6.504!DESCRIPTION!]
 		||
-		*Without warning, from behind the charnel Muninn emerges a giant claw, vile and spindly. Crushing the dessicated tree in a steely grip, It violently uproots the Muninn's corpse, dragging it into the darkness of a more sinister Void beyond.*
+		*Without warning, from behind the charnel Muninn emerges a giant claw, charred and spindly, gnarled like the ancient branches of a tree. Crushing the dessicated tree in a steely grip, the claw violently uproots the Muninn's corpse, dragging it into the darkness of a more sinister Void beyond.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.505!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.504!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!6.505!DESCRIPTION!]
 		||
-		*And after the briefest moment of absolute, foreboding silence...*
+		*And after the briefest moment of absolute silence...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.506!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.505!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!6.506!DESCRIPTION!]
 		||
-		*The claw's master pours forth from the murky emptiness.*
+		*The claw's master crawls forth from the murky emptiness.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.5060!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.506!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!THE VOID!6.5060!DESCRIPTION!]
 		||
-		*A giant, green beast, Its weathered limbs the size of trees; Its eyes of burning emerald.*
+		*A giant, green beast, Its limbs the size of trees; Its eyes of burning emeralds.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.507!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.5060!DESCRIPTION!/]
 
@@ -4527,7 +4527,7 @@ as ormenos
 
 	[/MIND!MINDSCAPE!THE VOID!6.508!DESCRIPTION!]
 		||
-		*Swiftly it makes for this Self, malevolent intent exuding from Its very being as It extends Its horrible, gangly claw to rip the Self asunder.*
+		*Swiftly it makes for this Self, malevolent intent exuding from Its very being as It extends a horrible, gangly claw to rip the Self asunder.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.509!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!6.508!DESCRIPTION!/]
 
