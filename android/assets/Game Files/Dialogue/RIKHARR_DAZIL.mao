@@ -24,7 +24,7 @@ ATRIUM
 		*ASCENDENCE Ceremony occurs with one of six events the player selects (actual choice of three highest affinities).
         
         DIP:The Builders approach Rik to talk about social change
-        TRU:Famlicus shows up w/ well wishes and a desire to discuss the Muninn
+        TRU:Lazham shows up w/ well wishes and a desire to discuss the Muninn
         NEU:Go back to Manor, where an Artisan shows up with important new about the completion of reparations of the Cage in the Wellspring
         SUR:Radysar, Mage of Tambul, involves Rik in talks to get Muninn saplings for Tambul and Dazil
         TYR:Word from the Sun Tower arrives; Rikharr will receive the messenger at the Manor.
@@ -96,31 +96,31 @@ KHARR MANOR
             TRU: Trying to debate with Rik about the wrongness of their current situation
             TYR: Threatening violence if Rik continues the Kharr way of old
 
-        WELLSPRING Artisan comes in with urgent news about the Cage.*
+        WELLSPRING Artisan comes in with urgent news about his father's funeral rites.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.100!DESCRIPTION!/]
 
     [/KAVU!DAZIL!KHARR MANOR!10.200!DESCRIPTION!]
 		||
-		*TALK to Famlicus about:
+		*TALK to Lazham about:
 
             DIP: Himself and Muninns
             TRU: Muninns and Hel (tries to convince Rik it's worth investigating)
             NEU: Just Muninns
 
-        WELLSPRING Artisan comes in with urgent news about the Cage.*
+        WELLSPRING Artisan comes in with urgent news about his father's funeral rites.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.200!DESCRIPTION!/]
 
     [/KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!]
 		||
-		*WANT to relax after ceremony, but...  WELLSPRING Artisan comes in with urgent news about the Cage.
+		*WANT to relax after ceremony...
 
             TRU: Trusted servant mentions the foreign mage who was in attendance.
             NEU: Rikos' eyes close. He knows not how long he sleeps.
             SUR: Trusted servant claims Tambulans are all talking about the possibility of receiving a Muninn sapling.
 
-        GET briefed on situation in the Wellspring. Then head on over immediately.*
+        GET briefed on situation in the Wellspring (about his father's funeral rites). Then head on over immediately.*
 		(A#...){A:0,KAVU!WELLSPRING!GATE OF THE HEATHEN!10.000!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.300!DESCRIPTION!/]
 
@@ -129,12 +129,12 @@ KHARR MANOR
 		*RADYSAR comes with her entourage to congratulate Rikharr on his Ascension and to propose a trip to Tacriva to convince the High Mage there to give saplings to the Archives of Tambul and Dazil.
 
             NEU: Merely mentions saplings and trip to Tacriva
-            SUR: Suggests a foreign alchemist might have had something to do with Drakos' death
-            TYR: Complains about draug issues
+            SUR: Muninns + Suggests a foreign alchemist might have had something to do with Drakos' death
+            TYR: Muninns + Complains about draug issues
 
         TRUSTED servant tells Rikharr when she leaves that his father met with her an awful lot before his untimely demise and that he should be weary of her intentions.
 
-        WELLSPRING Artisan comes in with urgent news about the Cage.*
+        WELLSPRING Artisan comes in with urgent news about his father's funeral rites.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.400!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.400!DESCRIPTION!/]
 
@@ -142,7 +142,7 @@ KHARR MANOR
 		||
 		*SUN TOWER messenger invokes the Guardians' Pact and has come to tell Rikharr of the impending assault of the wasteland draugs, who have grown too numerous from hundreds of years of exile and have become too aggressive in the past few weeks, with several groups raiding at the same time. The High Council of Magi in Tacriva has chosen Dazil {the winds blow from the Northwest, signalling Dazil} to oversee operations in the Wasteland, and must report there within two days time.
 
-        WELLSPRING Artisan comes in with urgent news about the Cage.*
+        WELLSPRING Artisan comes in with urgent news about his father's funeral rites.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.500!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.500!DESCRIPTION!/]
 
@@ -151,13 +151,13 @@ KHARR MANOR
 		*ARK wants to bone. Agree to go for a stroll on the Jenowin Plain.
 
             DIP: Witness some violence with the Neverborn sentries and the Builders near the cloudstone when coming back.
-            TRU: See Famlicus strolling through the desert on the way to Tambul.
+            TRU: See Lazham strolling through the desert on the way to Tambul.
             NEU: Everything is oddly quiet.
             SUR: Meet Radysar's entourage en route to Tacriva.
             TYR: Receive news of draug attacks from a courier on the road to Tambul with a decree from the High Council that Radysar must deal with Overseeing the operation.
             LOO: Accidentally eat a mushroom {plucked it instead of grabbing the bread that was on the ground because was trying to listen to Ark}. See a vision of Roostor.
         
-        WELLSPRING Artisan comes in with urgent news about the Cage.*
+        WELLSPRING Artisan comes in with urgent news about his father's funeral rites.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!10.600!DESCRIPTION!}
 	[KAVU!DAZIL!KHARR MANOR!10.600!DESCRIPTION!/]
 

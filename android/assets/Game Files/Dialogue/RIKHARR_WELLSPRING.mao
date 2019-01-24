@@ -64,10 +64,10 @@ ______________
 GATE OF THE HEATHEN
 	[/KAVU!WELLSPRING!GATE OF THE HEATHEN!10.000!DESCRIPTION!]
 		||
-		*EXPLORE the familiar stomping grounds before visiting the Cage or go to the Cage directly.
+		*EXPLORE the familiar stomping grounds before performing funeral rites or perform them directly.
 		
 		IF explore, then a guardian of the Chamber of Bones mentions the Tambulan bodywasher has finished dressing Drakos' corpse and they are about to deposit it in the Chamber of Bones.*
-		(A#To the Cage!){A:0,KAVU!WELLSPRING!SCRIPTORIUM!10.X000!DESCRIPTION!}
+		(A#To the Scriptorium!){A:0,KAVU!WELLSPRING!SCRIPTORIUM!10.X000!DESCRIPTION!}
 		(A#To the Temple!){B:0,KAVU!WELLSPRING!TEMPLE!10.000!DESCRIPTION!}
 	[KAVU!WELLSPRING!GATE OF THE HEATHEN!10.000!DESCRIPTION!/]
 
@@ -92,7 +92,7 @@ SCRIPTORIUM
 		||
 		*HERE there are scribes copying texts by hand. The Overseer asks if his scribes will finally have some peace and quiet now this infernal Cage has been repaired.
 
-        ALSO, there's a huge repository that becomes locked off once Rikos defeats Gurgadon.
+        ALSO, there's a huge repository that becomes locked off once Rikos defeats Gurgadon. Can go there to read some copied tomes before fight.
 
         RIKOS cannot make the cage move unless he has the Sigil of Wulfias.*
 		(A#...){A:0,KAVU!WELLSPRING!THE CAGE!10.X000!DESCRIPTION!}
@@ -106,7 +106,7 @@ ______________
 SANCTUM OF GURGADON
 	[/KAVU!WELLSPRING!SANCTUM OF GURGADON!10.000!DESCRIPTION!]
 		||
-		*GURAGDON fight: Ark and Rik fight hard. Rik slays it with LUIN. He's bleeding heavily, passes out and wakes up at his Manor.
+		*GURGADON fight: Ark and Rik fight hard. Rik slays it with LUIN. He's bleeding heavily, passes out and wakes up at his Manor.
 		
 		AS Rik passes out, he sees a vision of someone trying to possess him, to take command of his body. He literally asks, "Who are you? What... are you...?" before he passes out.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!19.000!DESCRIPTION!}

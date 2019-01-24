@@ -341,11 +341,11 @@ _________TOMES_________
 	trans. Ramachu of Kabu*
 	@Torma Volume VII@
 	$Tomes/Tome.jpg$
-	#For this journey, my Jeran companion and I into the north ranged, of the fabled land of Thiuda in search. That this civilisation once existed I was by adventures in my own native land already convinced. In my time spent the cultures of Jer acquainting, I myself thought prepared for whatever barbarity might us await. Here my account of the Desolation of the Heathen is. 
+	#For this journey, my Jeran companion and I into the north ranged, of the fabled land of Thiuda in search. That this civilization once existed I was by adventures in my own native land already convinced. My time in the cultures of Jer acquainting spent, I thought prepared for whatever barbarity might us await. Here my account of the Desolation of the Heathen is. 
 	
-	To you I tell of the magi that their folk as slaves command, and of the townships that each other fight, like wild dogs for meat. I will you terrify with tales of eyeless child slave shamans, their foreheads with the the Emerald Architect's wretched Script carved and black speech defiling the Vanquished mouthing.
+	To you I of the magi tell that their folk as slaves command, and of the townships that each other fight, like wild dogs for meat. I will you terrify with tales of eyeless child slave shamans, their foreheads with the the Emerald Architect's wretched Script carved and black speech defiling the Vanquished mouthing.
 	
-	You will silenced be by my search for the cave to the Graylands leading and my near death at the pale hands of Nifelheim, monsters womanly in body with the minds of ageless serpent-wolves. You will me beg cease before the horror of the sacrifices to rust-covered Hamlik is told: their blood and water and the doom it spells for Dazir. All of these I shall, in the sight of Biracul, relate.#
+	You will silenced be by my search for the cave to the Graylands leading and my near death at the pale hands of Nifelheim, monsters womanly in body with the minds of ageless serpent-wolves. You will me beg cease before the horror of the sacrifices to rust-covered Hamlik is told: their blood and water and the doom it spells for Dazir in far off Kabu. All of these I shall, in the sight of Biracul, relate.#
 [59/]
 
 [/60]
@@ -571,9 +571,9 @@ _________TOMES_________
 	cr. Pseudo-Wulfias*
 	@The Sacred Art of Glyfs@
 	$Tomes/Tome.jpg$
-	#Behold the mystery of the Vanquished! Which the lore of the Heathen swore not to disclose nor to reveal, since it of sublime form and divine activity; for that activity is divine which brings boths substance and mind to sacred completion. The Trueflesh is made corporeal and mortal beings are ensouled; and in receiving the spirit that derives from these elements they are conquered and they conquer each other. For the darkened ghost rules over the darkened body!
+	#Behold the mystery of the Vanquished! Which the lore of the Heathen swore not to disclose nor to reveal, as it is of sublime form and divine activity, for that activity is divine which brings both substance and mind to sacred completion. The Trueflesh is made corporeal and mortal beings are ensouled. In deed and truth, in receiving the spirit that derives from these elements they conquer and are themselves conquered, for the darkened ghost rules over the darkened body!
 	
-	Listen to my words if you seek wisdom! A serpent lies before you, guarding this Sanctuary over which it has wrested control. First, sacrifice it and flay it, and removing its flesh down to the bones, make steps out of it, leading to the entrance of the Sanctuary; ascend, and you will discover there the treasure you seek!#
+	Listen to my words if you seek wisdom! A serpent lies before you, guarding this Sanctuary over which it has wrested control. First, sacrifice it and flay it, and removing its flesh down to the bones, make steps out of it, leading to the entrance of the Sanctuary. Ascend, and you will discover there the treasure you seek!#
 [65/]
 
 [/66]

@@ -6,7 +6,7 @@ ALCHEMY WARD
 		||
 		*COME back from Muninn Land, collapse, wake up in the infirmary.
 
-        FAMLICUS and Hamdulah, the High Mage (?) of the Tacrivian Magi Council, are there. Famlicus is an out of town mage who brought you back with his Alchemy.
+        FAMLICUS and Hamdulah, the High Mage (?) of the Tacrivian Magi Council, are there. Lazham is an out of town mage who brought you back with his Alchemy.
 
         MEET the courier who tells Rikos that Drakos is dead.*
 		(A#Return to Dazil){A:0,KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!}

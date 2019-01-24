@@ -1636,7 +1636,7 @@ TACRIBA
 from sanc
 	[/KABU!WILDERNESS!TACRIBA!0.001!DESCRIPTION!]
 		||
-		*Eidos scans the ruins now making up her surroundings and sees the remains of what once was a bustling town. Though the place appears to have lain deserted for uncounted centuries, the buildings remain standing, all but unscathed by the passage of time.
+		*Eidos scans the ruins now making up her surroundings, witnessing the remains of what once was a bustling town. Though the place appears to have lain deserted for uncounted centuries, the buildings yet stand, all but unscathed by the passage of time. Jutting up from the ground like teeth in some beastial maw are thick shards of glass, wider than Eidos is tall and twice again her height. As she walks by, these jagged fangs seem to shimmer in the meager light of the environs.
 		
 		What light does bathe the abandoned settlement appears to come from a break in the massive stone dome that shelters the place. Though, upon closer inspection the area is far too well illuminated for this to be the case. Turning her attention to the dome itself, Eidos discovers a subtle translucence to it, its stony appearance the result of the sun's rays being scattered, refracted and otherwise disturbed.*
 		(A#Walk through the opening){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!}
@@ -1645,7 +1645,9 @@ from sanc
 
 	[/KABU!WILDERNESS!TACRIBA!0.002!DESCRIPTION!]
 		||
-		*Eidos comes once more to the ruins of Tacriba. Abandoned and forgotten, it shares the fate of all who dared to exist. The otherworldly illumination of the faux stone dome, gives a hazy impression that the city itself is but a memory, without substance, without physicality. But then again, how trustworthy are impressions after all?*
+		*Eidos comes once more to the ruins of Tacriba. Abandoned and forgotten, it shares the fate of all who dared exist. The eldritch illumination of the faux stone dome still gives a hazy impression that the city itself is but a memory - devoid of substance, absent physicality. The ground still pretends to be some monstrous mouth agape in a perpetual howl, baring jagged teeth that dimly shimmer in the meager light.
+		
+		Nothing new here in this graveyard for memories.*
 		(A#Go to the Jenowin Plain){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!}
 		(B#Enter the Sanctuary){B:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!TACRIBA!0.002!DESCRIPTION!/]
@@ -1654,13 +1656,13 @@ from sanc
 from storm
 	[/KABU!WILDERNESS!TACRIBA!1.000!DESCRIPTION!]
 		||
-		*Staggering into the crevice half-blind from the storm, Eidos wends her way among the rocks back to the forgotten township. Stumbling towards the dried up fountain in the deserted square, she casts herself to the ground in exhaustion. Covering her face, she shuts her eyes forcing herself into a healing repose.*
+		*Staggering into the crevice half-blind from the storm, Eidos wends her way among the rocks back to the forgotten township. Stumbling between the forest of glassy shards, towards the dried up fountain in the deserted square, she casts herself to the ground in exhaustion. Covering her face, she shuts her eyes forcing herself into a healing repose.*
 		(A#...){A:0,KABU!WILDERNESS!TACRIBA!1.001!DESCRIPTION!}
 	[KABU!WILDERNESS!TACRIBA!1.000!DESCRIPTION!/]
 
 	[/KABU!WILDERNESS!TACRIBA!1.001!DESCRIPTION!]
 		||
-		*She remembers the Jenowin Plain, its sun and oppressive heat. A red patchwork cloak. She sees herself looking out over the desert. Trying to decide which way to go. Warnings of a well that spills no water. Guardians who kill their charges. Food that poisons those who consume it. She sees the scarred and thoughtless visage of the sentry. A wide-brimmed hat the color of dried blood. She is walking down the winding stairs. Now she is running. A sense of panic rushes through her as she searches in vain for the entrance to the Awakening Chamber. Raking her hands across the unmoving stone wall until her nails rip from her fingers, fountains of dark blood erupting from them. She hears a noise. She turns to see a pair of shimmering crimson eyes watching her from the stairwell...*
+		*She remembers the Jenowin Plain, its sun and oppressive heat. A red patchwork cloak. She sees herself looking out over the desert. Trying to decide which way to go. Warnings of a well that spills no water. Guardians who kill their charges. Food that poisons those who consume it. She sees the scarred and thoughtless visage of the sentry. A wide-brimmed hat the color of dried blood. She is walking down the winding stairs. Now she is running. A sense of panic rushes through her as she searches in vain for the entrance to the Awakening Chamber. Raking her hands across the unmoving stone wall until her nails rip from her fingers, fountains of dark blood erupting from them. She hears a noise. She turns to see a pair of shimmering rubies watching her from the stairwell...*
 		(A#...){A:0,KABU!WILDERNESS!TACRIBA!1.002!DESCRIPTION!}
 	[KABU!WILDERNESS!TACRIBA!1.001!DESCRIPTION!/]
 
@@ -1678,7 +1680,7 @@ from storm
 
 	[/KABU!WILDERNESS!TACRIBA!1.0001!DESCRIPTION!]
 		||
-		*She remembers the Jenowin Plain, its sun and oppressive heat. A red patchwork cloak. She sees herself looking out over the desert. Trying to decide which way to go. Warnings of a well that spills no water. Guardians who kill their charges. Food that poisons those who consume it. She sees the scarred and thoughtless visage of the sentry. A wide-brimmed hat the color of dried blood. She is walking down the winding stairs. Now she is running. A sense of panic rushes through her as she searches in vain for the entrance to the Awakening Chamber. Raking her hands across the unmoving stone wall until her nails rip from her fingers, fountains of dark blood erupting from them. She hears a noise. She turns to see a pair of shimmering crimson eyes watching her from the stairwell...*
+		*She remembers the Jenowin Plain, its sun and oppressive heat. A red patchwork cloak. She sees herself looking out over the desert. Trying to decide which way to go. Warnings of a well that spills no water. Guardians who kill their charges. Food that poisons those who consume it. She sees the scarred and thoughtless visage of the sentry. A wide-brimmed hat the color of dried blood. She is walking down the winding stairs. Now she is running. A sense of panic rushes through her as she searches in vain for the entrance to the Awakening Chamber. Raking her hands across the unmoving stone wall until her nails rip from her fingers, fountains of dark blood erupting from them. She hears a noise. She turns to see a pair of shimmering rubies watching her from the stairwell...*
 		(A#...){A:0,KABU!WILDERNESS!TACRIBA!1.0002!DESCRIPTION!}
 	[KABU!WILDERNESS!TACRIBA!1.0001!DESCRIPTION!/]
 
@@ -1725,7 +1727,7 @@ FAMLICUS
 
 	[/KABU!WILDERNESS!TACRIBA!0.001!FAMLICUS!]
 		||
-		*"Though this dome offers certain protection, you seem to be of a weaker constitution, traveler..."*
+		*"Though this dome offers shelter of a sort, you seem to be of a weaker constitution, traveler..."*
 		(A#"..."){A:0,KABU!WILDERNESS!TACRIBA!0.002!FAMLICUS!}
 	[KABU!WILDERNESS!TACRIBA!0.001!FAMLICUS!/]
 
