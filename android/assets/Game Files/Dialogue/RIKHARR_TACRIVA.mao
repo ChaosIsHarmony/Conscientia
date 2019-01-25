@@ -70,7 +70,26 @@ COURTYARD
 ________________________________________________________________________
 ________________________________________________________________________
 FIRST PHASE - CHAOS STIRS ~10.xxx~
+______________
+ARCHIVES
+	[/KAVU!TACRIVA!ARCHIVES!19.200!DESCRIPTION!]
+		||
+		*RIKOS communes w/ Muninn.*
+		(A#...){A:0,MIND!INTERSTICE!THE ORIGIN!19.200!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!19.200!DESCRIPTION!/]
 
+
+
+
+______________
+AILING WARD
+	[/KAVU!TACRIVA!AILING WARD!19.200!DESCRIPTION!]
+		||
+		*WAKE up again in the Ailing Ward. The High Mage threatens to take away your Archivist access if it happens again.
+		
+		LAZHAM enters your dreams.*
+		(A#...){A:0,KAVU!TACRIVA!AILING WARD!20.200!DESCRIPTION!}
+	[KAVU!TACRIVA!AILING WARD!19.200!DESCRIPTION!/]
 
 
 
@@ -79,11 +98,23 @@ ________________________________________________________________________
 SECOND PHASE - CHAOS SEETHES ~20.xxx~
 ______________
 ARCHIVES
-	[/KAVU!TACRIVA!ARCHIVES!20.000!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!20.210!DESCRIPTION!]
 		||
-		*RIKOS communes with the Muninn again.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!20.000!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!20.0000!DESCRIPTION!/]
+		*RIKOS communes with the Muninn again after seeing Wulfias dealing with Hel.*
+		(A#...){A:0,MIND!INTERSTICE!THE ORIGIN!20.210!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!20.210!DESCRIPTION!/]
+
+
+
+
+______________
+AILING WARD
+	[/KAVU!TACRIVA!AILING WARD!20.200!DESCRIPTION!]
+		||
+		*WAKE up to see Lazham and the High Mage. Get sent home because Dazil needs a mage to run it.*
+		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!20.200!DESCRIPTION!}
+	[KAVU!TACRIVA!AILING WARD!20.200!DESCRIPTION!/]
+
 
 
 
@@ -93,11 +124,13 @@ FINAL PHASE - CHAOS SWELLS ~30.xxx~
 ______________
 ARCHIVES
 Muninn Death; Jinnwraith Birth
-	[/KAVU!TACRIVA!ARCHIVES!39.000!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!39.200!DESCRIPTION!]
 		||
-		*RIKOS destroys the Muninn and flees to the Wasteland.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!39.000!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!39.0000!DESCRIPTION!/]
+		*RIKOS destroys the Muninn and flees to the Wasteland. Hel's abilities destroy the section of stairs and open the path to the Thought Wheel. He tears a hole out of the chamber with all the Neverborn and runs.
+		
+		SLEEP comes again for him.*
+		(A#Dream){A:0,KAVU!TACRIVA!ARCHIVES!39.999!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!39.200!DESCRIPTION!/]
 	
 
 
@@ -109,8 +142,19 @@ Festival of Light
 		*FESTIVAL of light. Interrupted by a violent storm caused by the Radysar's meddling with the Muninn. It cracks the dome and sends many to an early grave, including Rikos and Ark.
 		
 		FIN.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!20.000!DESCRIPTION!}
-	[KAVU!TACRIVA!COURTYARD!30.0000!DESCRIPTION!/]
+		(A#Dream){A:0,KAVU!TACRIVA!ARCHIVES!39.999!DESCRIPTION!}
+	[KAVU!TACRIVA!COURTYARD!30.000!DESCRIPTION!/]
+	
+	[/KAVU!TACRIVA!COURTYARD!39.999!DESCRIPTION!]
+		||
+		*~ac*
+		(A#BIRACUL){A:0,MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!}
+		(B#RIKHARR){B:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+		(C#THETIAN){C:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
+		(D#TORMA){D:0,MIND!THE BOOK OF TORMA!THE BEGINNING!0.000!DESCRIPTION!}
+		(E#WULFIAS){E:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+		(F#EIDOS){F:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+	[KAVU!TACRIVA!COURTYARD!39.999!DESCRIPTION!/]
 
 
 

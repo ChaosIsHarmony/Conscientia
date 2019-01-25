@@ -16,12 +16,8 @@ _____________________________________________________________
 SOUL STASIS CELL
 >>>Owns Book of Torma (2003)<<<
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X000!DESCRIPTION!]
-		|^2003:MIND!THE BOOK OF TORMA!THE BEGINNING!0.X000!DESCRIPTION!|
-		*Communication is an impossible paradox. Though with magesight one can see into the minds of others, it becomes more and more apparent that the very structure of our brains differs fundamentally from one another. The organic highway launching information hither, thither and yon is a network not even fully understood by the intelligent designer of said network, how could they possibly hope to provide a comprehensible map of these highways and byways to a traveler from a foreign brain? How could the nature of our experience in the Thought Wheel of Urugh be understood by these visitors to our mind?
-
-		So she sits, quietly in her cell, pondering the limits of her sanity and the futility of attempting to convey her thoughts to the invaders she periodically receives. But the invader which now enters her mind is quite different from all the others. Perhaps there is hope. 
-		
-		She feels a sense of familiarity, yet also a sense that the time has not yet come to explore her surroundings and as such...*
+		|^2003:MIND!THE BOOK OF TORMA!THE BEGINNING!0.000!DESCRIPTION!|
+		*If you're reading this, you have broken the game, you bastard. Alert the idiots who made it so they can attempt to fix it.*
 		(A#End){A:0,END GAME!END GAME!END GAME!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X000!DESCRIPTION!/]
 	

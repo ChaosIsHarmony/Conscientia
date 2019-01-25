@@ -3,6 +3,9 @@ RIKHARR
 ____________________________
 ____________________________
 MUNINN 1 ~0.xxx~
+First time into the Interstice, player is redirected to book of relevant vision
+	- After first time, make reference to familiarity of Interstice and danger to being swept up in its visions
+	- Then after vision, Rik returns to his own shell and is surprised
 ______________
 THE ORIGIN
 	[/MIND!INTERSTICE!THE ORIGIN!1.X000!DESCRIPTION!]
@@ -24,11 +27,12 @@ ____________________________
 MUNINN 2 ~10.xxx~
 ______________
 THE ORIGIN
-	[/MIND!INTERSTICE!THE ORIGIN!10.X000!DESCRIPTION!]
+	[/MIND!INTERSTICE!THE ORIGIN!10.200!DESCRIPTION!]
 		||
 		*SAVE Wuflias. He gives a false name and you teach him.*
-		(A#Back to the Muninn in the Tacrivian Archives){A:0,MIND!INTERSTICE!THE ORIGIN!1.100!DESCRIPTION!}
-	[MIND!INTERSTICE!THE ORIGIN!10.X000!DESCRIPTION!/]
+		(A#Back to the Muninn in the Tacrivian Archives){A:0,KAVU!TACRIVA!AILING WARD!19.200!DESCRIPTION!}
+	[MIND!INTERSTICE!THE ORIGIN!10.200!DESCRIPTION!/]
+
 
 
 
@@ -37,11 +41,11 @@ ____________________________
 MUNINN 3 ~20.xxx~
 ______________
 THE ORIGIN
-	[/MIND!INTERSTICE!THE ORIGIN!20.X000!DESCRIPTION!]
+	[/MIND!INTERSTICE!THE ORIGIN!20.210!DESCRIPTION!]
 		||
 		*SAVE Wuflias from Hel. He betrays and runs, leaving you to fend for yourself. Hel enters you as vesel and begins to destroy you from the inside out. Survive and leave the Interstice.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!39.000!DESCRIPTION!}
-	[MIND!INTERSTICE!THE ORIGIN!20.X000!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!39.200!DESCRIPTION!}
+	[MIND!INTERSTICE!THE ORIGIN!20.210!DESCRIPTION!/]
 
 
 
