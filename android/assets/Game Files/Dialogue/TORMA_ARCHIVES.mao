@@ -980,32 +980,36 @@ MATHETIA
 >>>Spoke w Sister midnight (2029)<<<
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!]
 		|^2029:ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!|
-		*Though most seem too enthralled by their work to offer discussion, a certain Sister appears to be casting furtive glances at Ormenos over the top of several stacked volumes...*
+		*Though most seem too enthralled by their work to offer discussion, a certain Sister appears to be casting furtive glances at Ormenos over the top of several stacked volumes. Many have joined the Order in the decade, making remembering names more challenging than reviving the Vanquished from their graves. However, she looks familiar, very familiar.*
 		(A#Go talk to her){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.X00101!DESCRIPTION!}
 		(C#Ignore her){C:1,ENCLAVE!ARCHIVES!MATHETIA!9990.X2028!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X00101!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!|
-		*As he nears her, she shuts her book, a finger marking the page...*
+		*Ormenos approaches, searching his memory for her name; though it seems  he would have more luck casting nets to catch the wind. He nears as she shuts her book, a finger marking the page...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1211!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X00101!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!]
 		||
-		*Sister Midnight silently nods and promptly forgets Ormenos even exists. Cracking open her book, she begins to pore over her texts anew.*
+		*Sister Midnight silently nods and promptly forgets Ormenos even exists. Cracking open her book, she begins to pore over her texts as though she had never been interrupted.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!]
 		||
-		*It seems as though now there truly are none with whom to speak, as all are too obssessed with their research to give Ormenos the time of day. Though he knows full well that the Mathetia is no place to converse idly.*
+		*It seems now there truly are none with whom to speak; even an appearance from the Sylvan Architect would scarcely raise a few noses from the books they are buried in. Though Ormenos never expected to find idle conversation here in the Mathetia anyway.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X0011!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.00110!DESCRIPTION!|
-		*Ormenos wanders around seeing studious magi hither, thither and yon. He looks at the colossal Muninn tree weaving its way through stories and stories of intricately carved architectural embellishments. And in so doing, he eventually stumbles upon a Brother and a Sister arguing about the relative importance of their work. A crowd has gathered to hear the impromptu and unexpected debate.*
+		*Ormenos wanders, observing the studious magi hither, thither and yon. As usual, he gravitates towards the colossal Muninn tree, its branches weaving their way through stories upon stories of intricately carved architectural embellishments. This great wooden spine of the Mathetia is ancient beyond measure, predating the Order itself. Suddenly, Ormenos recalls a theory he once heard from a Sister that it may have been the original Muninn. Many magi believed her simply on the strength of it being the only living Muninn of its class with no connection to a Thought Wheel.
+
+        His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, somehow unable to shake the feeling that he is falling in ever closer to the goliath's center. Round and round he goes, soon brushing up against the railing surrounding the tree. On the other side of the railing is a bottomless chasm housing the Muninn's roots. Since the beginning, all efforts to plumb its depths have been rewarded only with death and ignorance. To his knowledge, none have made it to the bottom and lived to tell the tale. 
+
+        His path's invisible spiral abruptly stops when he notices a crowd, gathering around a Brother and Sister in heared debate.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X0011!DESCRIPTION!/]
 	
