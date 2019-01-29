@@ -973,7 +973,7 @@ MATHETIA
 		
 		Rippling forth from its base are concentric rows of tables filled with scores of scholarly magi, studying, researching, ever-chasing the shadows of ignorance from their minds with the torch of Discipline.*
 		(A#Talk to people){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!}
-		(B#Observe surroundings){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.X0011!DESCRIPTION!}
+		(B#Observe surroundings){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0011!DESCRIPTION!}
 		(C#Leave the Mathetia){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0012!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.001!DESCRIPTION!/]
 
@@ -999,25 +999,39 @@ MATHETIA
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!]
 		||
-		*It seems now there truly are none with whom to speak; even an appearance from the Sylvan Architect would scarcely raise a few noses from the books they are buried in. Though Ormenos never expected to find idle conversation here in the Mathetia anyway.*
+		*It seems now there truly are none with whom to speak. An appearance from the Sylvan Architect himself would scarcely raise a few noses from the books they find themselves so deeply buried in - though, Ormenos never expected to find idle conversation here in the Mathetia anyway.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00103!DESCRIPTION!/]
 	
-	[/ENCLAVE!ARCHIVES!MATHETIA!0.X0011!DESCRIPTION!]
-		|@:ENCLAVE!ARCHIVES!MATHETIA!0.00110!DESCRIPTION!|
-		*Ormenos wanders, observing the studious magi hither, thither and yon. As usual, he gravitates towards the colossal Muninn tree, its branches weaving their way through stories upon stories of intricately carved architectural embellishments. This great wooden spine of the Mathetia is ancient beyond measure, predating the Order itself. Suddenly, Ormenos recalls a theory he once heard from a Sister that it may have been the original Muninn. Many magi believed her simply on the strength of it being the only living Muninn of its class with no connection to a Thought Wheel.
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.0011!DESCRIPTION!]
+		||
+		*Ormenos wanders, observing the studious magi hither, thither and yon. But as usual, he finds himself gravitating towards the colossal Muninn. Sight tracing trunk to branches, he sees the tree's myriad limbs explode outwards, latching onto the spiraling floors several hundred paces away. They wind themselves tightly around the spiral railing, warping iron bars, replacing whole swaths of dark metal with brilliant, gnarled wood. Up and up they go, weaving their way through stories upon stories of intricately carved architectural embellishments.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00110!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.0011!DESCRIPTION!/]
 
-        His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, somehow unable to shake the feeling that he is falling in ever closer to the goliath's center. Round and round he goes, soon brushing up against the railing surrounding the tree. On the other side of the railing is a bottomless chasm housing the Muninn's roots. Since the beginning, all efforts to plumb its depths have been rewarded only with death and ignorance. To his knowledge, none have made it to the bottom and lived to tell the tale. 
-
-        His path's invisible spiral abruptly stops when he notices a crowd, gathering around a Brother and Sister in heared debate.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.X0011!DESCRIPTION!/]
-	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00110!DESCRIPTION!]
+		||
+		*This great wooden spine of the Mathetia is ancient beyond measure, predating the Order itself. The thought sparks another; Ormenos recalls a theory he once heard that it may have been the original Muninn. It appears that many magi came to believe it simply on the strength of this being the only living Muninn of with no connection to a Thought Wheel. Centuries later, news came from Kabu that a method to cultivate Muninns independent of Thought Wheels did in fact exist. The theory fell into the mire of failed thoughts, its author's name along with it.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00110!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!]
+		||
+        *His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, unable to shake the feeling that he is still somehow falling ever closer to the goliath's center. Round and round he goes, soon brushing up against the dark iron railing surrounding the tree. The body's fear instinctively draws eyes to the bottomless chasm housing the Muninn's roots. All attempts to plumb its depths have only been rewarded with death and confusion. Even the Munnin's ghostly light eventually succumbs to the abyss' appetite...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X00112!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.X00112!DESCRIPTION!]
+		|@:ENCLAVE!ARCHIVES!MATHETIA!0.00113!DESCRIPTION!|
+        *Ormenos suddenly realizes his feet have stopped. For how long, he cannot say. All he knows is that his path's invisible spiral has stopped at the edge of a crowd, gathered round a Brother and Sister in heated debate.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.X00112!DESCRIPTION!/]
+	
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00113!DESCRIPTION!]
 		||
 		*The debate at its terminus, the crowd disbands and all return to their tasks. Even such small deviations from one's work can lead to dire consequences, and the Choir of Archons are anything but miserly when doling out punishments for negligence of duty.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.00110!DESCRIPTION!/]
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00113!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0012!DESCRIPTION!]
 		||
@@ -4058,7 +4072,7 @@ EVENT WRITERS
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2027!FORM FORGER!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2028!DESCRIPTION!]
-		|2028:ENCLAVE!ARCHIVES!MATHETIA!0.X0011!DESCRIPTION!|
+		|2028:ENCLAVE!ARCHIVES!MATHETIA!0.0011!DESCRIPTION!|
 		*EVENT WRITER - Ignored sister midnight*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2028!DESCRIPTION!/]
