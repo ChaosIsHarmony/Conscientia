@@ -30,7 +30,7 @@ THE ORIGIN
 	[/MIND!INTERSTICE!THE ORIGIN!10.200!DESCRIPTION!]
 		||
 		*SAVE Wuflias. He gives a false name and you teach him.*
-		(A#Back to the Muninn in the Tacrivian Archives){A:0,KAVU!TACRIVA!AILING WARD!19.200!DESCRIPTION!}
+		(A#Back to the Muninn in the Tacrivian Archives){A:0,KAVU!TACRIVA!ALCHEMY WARD!19.200!DESCRIPTION!}
 	[MIND!INTERSTICE!THE ORIGIN!10.200!DESCRIPTION!/]
 
 

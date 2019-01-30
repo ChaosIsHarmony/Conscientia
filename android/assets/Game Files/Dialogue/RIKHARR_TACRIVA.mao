@@ -19,7 +19,143 @@ ______________
 ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!]
 		||
-		*RIKOS wakes up, peeling his face from the book he was sleeping on. Lately his dreams have been becoming quite vivid. Lately, sleep comes for his unexpectedly.
+		*Eyelids slowly rise, flickering to modulate the brightness sleep kept from perception. Again? But Rikos is now used to his unwanted bouts of sleep, though still not happy about them. How long was he out for this time? He still appears to be in the Tacrivian Archives. Librarians and Magissari yet fill the space. It can be no later than <Prayer Time>. He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till sunset.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!]
+		||
+		*His reasoning abilities remain unimpaired, but none of the Alchemists' tests have shown why these random bouts of sleep overtake him. Worse still are the inexplicable dreams. The physical he can tug, push, mould; he can test the limits, break them and then try once more. But these dreams, they are unassaible in their airy fortress of thought. So real despite their fiction. He sometimes even feels as though he has learned through them - an impossibility he would never rationally accept. Yet the fact remains that something beyond his control has forced its way into his life and he has no choice but to accept ignorance for the time being.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.X002!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!/]
+
+
+
+	[/KAVU!TACRIVA!ARCHIVES!0.X002!DESCRIPTION!]
+		||
+		*RANDOMIZER*
+		(A#RANDOMIZER){A:0,NO ADDRESS}
+	[KAVU!TACRIVA!ARCHIVES!0.X002!DESCRIPTION!/]
+	
+	[/KAVU!TACRIVA!ARCHIVES!0.X003!DESCRIPTION!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}
+	[KAVU!TACRIVA!ARCHIVES!0.X003!DESCRIPTION!/]
+
+
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0030!DESCRIPTION!]
+		||
+		*Sleep brought to him bizarre visions of a little bird. She flew through a distant Kavu, very much like the home he knew, but also very different. She flew above the Jenowin Plain, now more a desert than the endless meadow he knew.
+		
+		Yet somehow he felt.*
+		(A#That everything would be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!}
+		(B#Dissatisfied with ignorance.){B:1,KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!}
+		(C#That all was as it should be.){C:1,KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0030!DESCRIPTION!/]
+	
+	[/KAVU!TACRIVA!ARCHIVES!0.0031!DESCRIPTION!]
+		||
+		*Vision of Thetian
+		
+		Death cults, Mortis, Jormungund - the Wyrm*
+		(A#That everything would be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!}
+		(B#Dissatisfied with ignorance.){B:1,KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!}
+		(C#That all was as it should be.){C:1,KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0031!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0032!DESCRIPTION!]
+		||
+		*Vision of Tormenos
+		
+		Locked inside the Enclave, stolen memories, creation of Biracul, desolation of the Order*
+		(A#That everything would be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!}
+		(B#Dissatisfied with ignorance.){B:1,KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!}
+		(C#That all was as it should be.){C:1,KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0032!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0033!DESCRIPTION!]
+		||
+		*Sleep brought to him once more terrible nightmares.
+		
+		A terrible black mirror revealed the Wastes beyond Heaven's Bridge, writhing with myriad draugnir like some terrible pox upon the Earth's skin. He looked through the glass out into the sea of pale demons and saw once who stood highest among them, death made flesh. Those empty eyes pierced a hole through his heart, erasing it from existence. He stared down at the emptiness in his chest and then again at his assailant only to realize the mirror now showed only his reflection.*
+		(A#That everything would be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!}
+		(B#Dissatisfied with ignorance.){B:1,KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!}
+		(C#That all was as it should be.){C:1,KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0033!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!]
+		||
+		*Vision of Wulfias
+		
+		Sure, all young boys dream of becoming as powerful as the Heathen, but Rikos is only two winters shy of his third decade and should have long since forgotten such childish dreams. His final, hopeless battles that created the Wastes, his completion of the Wellspring to atone for his betrayal.*
+		(A#That everything would be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!}
+		(B#Dissatisfied with ignorance.){B:1,KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!}
+		(C#That all was as it should be.){C:1,KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!]
+		||
+		*Vision of Biracul
+		
+		Blasphemy! To dream of being the the Shining One. He would need to absolve himself of this sin before he took his evening meal.*
+		(A#That everything would be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!}
+		(B#Dissatisfied with ignorance.){B:1,KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!}
+		(C#That all was as it should be.){C:1,KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!]
+		||
+		*He knew everything would be okay.
+		
+		But even still it was tinged with...*
+		(D#Apprehension.){D:1,KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!}
+		(E#Arrogance.){E:1,KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!}
+		(F#Roosters.){F:1,KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!]
+		||
+		*Dissatisfied with ignorance.
+		
+		But even still it was tinged with...*
+		(D#Apprehension.){D:1,KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!}
+		(E#Arrogance.){E:1,KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!}
+		(F#Roosters.){F:1,KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!]
+		||
+		*The old adage passed down from Biracul himself. All was ever as it should be. How could it be otherwise?
+		
+		But even still it was tinged with...*
+		(D#Apprehension.){D:1,KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!}
+		(E#Arrogance.){E:1,KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!}
+		(F#Roosters.){F:1,KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!]
+		||
+		*Rikos never had cause to be nervous before, he could always trust is his ability to reason through things, but these dreams have drawn out his deepest fears. He had to go get some fresh air.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.005!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!]
+		||
+		*Rikos never let arrogance cloud his judgment before, but the feeling of superiority he felt after waking up from these power trips cast a slight fog over his reason. He had to go get some fresh air.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.005!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!]
+		||
+		*Rikos must have been pushing too hard lately. Apparently his sanity is threatening to unravel. He had to go get some fresh air.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.005!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!/]
+		
+		
+		
+		RIKOS wakes up, peeling his face from the book he was sleeping on. Lately his dreams have been becoming quite vivid. Lately, sleep comes for his unexpectedly.
 		
 		EVENT CHECKER to see what the player has already experienced in other books to reference them.
 		
@@ -83,13 +219,13 @@ ARCHIVES
 
 ______________
 AILING WARD
-	[/KAVU!TACRIVA!AILING WARD!19.200!DESCRIPTION!]
+	[/KAVU!TACRIVA!ALCHEMY WARD!19.200!DESCRIPTION!]
 		||
-		*WAKE up again in the Ailing Ward. The High Mage threatens to take away your Archivist access if it happens again.
+		*WAKE up again in the Alchemy Ward. The High Mage threatens to take away your Archivist access if it happens again.
 		
 		LAZHAM enters your dreams.*
-		(A#...){A:0,KAVU!TACRIVA!AILING WARD!20.200!DESCRIPTION!}
-	[KAVU!TACRIVA!AILING WARD!19.200!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ALCHEMY WARD!20.200!DESCRIPTION!}
+	[KAVU!TACRIVA!ALCHEMY WARD!19.200!DESCRIPTION!/]
 
 
 
@@ -108,12 +244,12 @@ ARCHIVES
 
 
 ______________
-AILING WARD
-	[/KAVU!TACRIVA!AILING WARD!20.200!DESCRIPTION!]
+ALCHEMY WARD
+	[/KAVU!TACRIVA!ALCHEMY WARD!20.200!DESCRIPTION!]
 		||
 		*WAKE up to see Lazham and the High Mage. Get sent home because Dazil needs a mage to run it.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!20.200!DESCRIPTION!}
-	[KAVU!TACRIVA!AILING WARD!20.200!DESCRIPTION!/]
+	[KAVU!TACRIVA!ALCHEMY WARD!20.200!DESCRIPTION!/]
 
 
 
