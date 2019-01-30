@@ -4654,70 +4654,72 @@ ___________________________________
 GATES OF DAWN	
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.000!DESCRIPTION!]
 		||
-		*Eidos approaches the the massive, black iron gates of the Dawn Fortress. A retinue of guards flanks the gate, eyes facing the outside watching the Wasteland beyond. They are clearly more concerned by what might enter than by what could exit.*
+		*Eidos approaches the the massive, black iron gates of the Dawn Fortress. A retinue of guards flanks the gate, all eyes facing the outside. They watch, observe, and fear the Wasteland beyond, looking through the thin gaps between the thick iron bars. All here are clearly more concerned by what might enter than by what could exit.*
 		(A#Exit into the Wasteland){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!0.X001!DESCRIPTION!}
 		(B#Walk back to the courtyard){B:0,KABU!DAWN FORTRESS!COURTYARD!0.X000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!0.000!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.X001!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!GATES OF DAWN!0.X002!DESCRIPTION!|
-		*As she approaches the gate to leave, one of the guards steps forward.*
+		*As she approaches the gate to leave, one of the guards steps forward to meet her.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!9999.X0216!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!0.X001!DESCRIPTION!/]
 
 >>>Decided to leave through the Night Door (15006)<<<	
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.X002!DESCRIPTION!]
 		|^15006:KABU!DAWN FORTRESS!GATES OF DAWN!0.002!DESCRIPTION!|
-		*Eidos backs away from the guard, as he assumes his previous position. Looking one more time at the forebodding door to the Wasteland, Eidos stands mesmerized before it, watching thin wisps of sand blow in through gaps at the edges, like omnious exhalations of anticipation, forcing their way through a grin of rotten fangs. A shiver runs down her spine, breaking the spell, enabling her to turn on her heel and walk back to the courtyard.*
+		*The foreboding door to the Wasteland now seems to pulsate, leaving Eidos mesmerized before it. The Wastes behind it belch wisps of sand, forced in through thin gaps in the bars. These omnious exhalations of anticipation seem a warning to her, a prelude to the untamed corruption waiting beyond the walls of the Dawn Fortress.
+		
+		A shiver runs down her spine, breaking the spell. She soon turns on her heel and walks back to the courtyard.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!0.X000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!0.X002!DESCRIPTION!/]	
 
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.002!DESCRIPTION!]
 		||
-		*Looking one more time at the forebodding door to the Wasteland, Eidos stands mesmerized before it, watching thin wisps of sand blow in through gaps at the edges, like omnious exhalations of anticipation, forcing their way through a grin of rotten fangs.*
+		*The foreboding door to the Wasteland now seems to pulsate, leaving Eidos mesmerized before it. The Wastes behind it belch wisps of sand, forced in through thin gaps in the bars. These omnious exhalations of anticipation seem a warning to her, a prelude to the untamed corruption waiting beyond the walls of the Dawn Fortress.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!0.0020!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!0.002!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.0020!DESCRIPTION!]
 		||
-		*Malik then looks to a window in the upper walls of the fortress, whistling his command. The gate begins to open begrudgingly, groans of iron on iron voicing its complaints. A flood of wind and sand blast in through the aperture, daring Eidos to even try cross the threshold. But her mind is made up, and she would proceed regardless of what awaited.*
+		*Malik then looks to a window in the upper walls of the fortress, whistling his command. The gate begins to open begrudgingly, groans of iron on sand voicing its complaints. A flood of wind and sand blast in through the aperture, daring Eidos to cross the threshold. But her resolve is unwavering, even now.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!0.0021!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!0.0020!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.0021!DESCRIPTION!]
 		||
-		*She remembers her first step, taking her counter-current to the wind; each laborious step that followed, however, is only hinted at in retrospect, as she hears that familiar groan from the gates sealing away the covetous howls of the Wasteland winds.*
+		*She remembers only her first step, taking her counter-current to the wind; each laborious step that followed, however, is simply hinted at in retrospect, as she hears that familiar groan from the gates sealing away the covetous howls of the Wasteland winds.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!0.0022!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!0.0021!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.0022!DESCRIPTION!]
 		||
 		*There is no turning back now.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X000!DESCRIPTION!}				
 	[KABU!DAWN FORTRESS!GATES OF DAWN!0.0022!DESCRIPTION!/]	
-		
+
 Eidos exiled after opening star bridge
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!92.000!DESCRIPTION!]
 		||
 		*Eidos and her captors are joined at the gates by another prisoner - a daft-looking cheerful type who seems to be laughing at a joke he's telling himself, in the privacy of his own head, thankfully.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!92.001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!92.000!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!92.001!DESCRIPTION!]
 		||
-		*Eidos not stares at the forebodding door to the Wasteland, frozen, mesmerized before it, watching thin wisps of sand blow in through gaps at the edges, like omnious exhalations of anticipation, forcing their way through a grin of rotten fangs.*
+		*Eidos now stares at the forebodding door to the Wasteland, frozen before it. The Wastes beyond belch wisps of sand, forced in through thin gaps in the gate's metallic grin.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!92.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!92.001!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!92.002!DESCRIPTION!]
 		||
-		*A gatekeeper then looks to a window in the upper walls of the fortress, whistling his command. The gate begins to open begrudgingly, groans of iron on iron voicing its complaints. A flood of wind and sand blast in through the aperture, lashing at the petty humans who so brazenly seek to keep them out.*
+		*A gatekeeper then looks to a window in the upper walls of the fortress, whistling his command. The gate begins to open begrudgingly, groans of iron on sand voicing its complaints. A flood of wind and sand blast in through the aperture, lashing out at the petty creatures who so brazenly seek to keep them out.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!92.003!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!92.002!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!92.003!DESCRIPTION!]
 		||
-		*The two prisoners' bonds are removed and they are thrust out onto the burning sands at spearpoint. She remembers her first step, taking her counter-current to the wind; each laborious step thereafter, however, is only hinted at in retrospect, as she hears that familiar groan from the gates sealing away the covetous howls of the Wasteland winds.*
+		*The two prisoners' bonds are removed and they are thrust out onto the burning sands at spearpoint. She remembers only her first step, taking her counter-current to the wind; each laborious step thereafter, however, is only hinted at in retrospect, as she hears that familiar groan from the gates sealing away the covetous howls of the Wasteland winds.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X000!DESCRIPTION!}					
 	[KABU!DAWN FORTRESS!GATES OF DAWN!92.003!DESCRIPTION!/]
 
@@ -4727,44 +4729,44 @@ khlutt killed
 		*The battle has taken its toll on Eidos. Having exerted her Falseflesh far beyond its limits, she drops to her knees, breath quickening until she loses all control. Guards pour in, several fearlessly stepping forward to restrain her. They soon realize, however, that her own body has already done them this favor. Now cruelly acting as ally to her enemies, her stiff muscles petrify her into a pitiful facsimile of a statue. Eidos can only watch helplessly while they bind her hands and feet as they would a hog.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!999.001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.X000!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!999.001!DESCRIPTION!]
 		||
 		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.001!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!999.002!DESCRIPTION!]
 		||
 		*One of the soldiers then crouches down at her side to begin ruthlessly packing a band of cloth down her throat. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!999.003!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.002!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!999.003!DESCRIPTION!]
 		||
 		*Anticipation of when the air runs out.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!999.004!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.003!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!999.004!DESCRIPTION!]
 		||
 		*As asphyxiation gradually overcomes her will to persist, it relentlessly extracts what little life remains from her Falseflesh. With each excruciating bid for breath, her vision slowly blurs. Lines widen and distort, while shapes expand and merge.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!999.005!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.004!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!999.005!DESCRIPTION!]
 		||
 		*The plurality returning to its singularity.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!999.006!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.005!DESCRIPTION!/]
-	
+
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!999.006!DESCRIPTION!]
 		||
 		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.006!DESCRIPTION!/]
-	
-	
+
+
 
 MALIK
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.000!MALIK!]
