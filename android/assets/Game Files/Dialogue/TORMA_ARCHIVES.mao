@@ -10,15 +10,17 @@ CRYPT OF THE ARCHONS
 acq glyph of Prime Archon prev
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!DESCRIPTION!]
 		||
-		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the ether. Ormenos now stands upon a copper disk in a dusty chamber where he is confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
+		*Bones and sinew weave a new shell as they are rebuilt from the life-fire of the ether. Ormenos now stands upon a copper disk in a dusty chamber where he is confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries. Their scores of lines seem to fade away, gobbled up by the impenetrable murk at their backs.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!]
 		||
-		*Relics from the exodus of Thiuda lay scattered about, three to every Neverborn at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
+		*Turning around, Ormenos soon sees the lone rebel in this pit of darkness, the sole source of pale, pulsating light in this ruinous abyss. He sees the roots of a massive Muninn. Its determined glow radiates out into the inky void, slowly dying the further it ventures from the origin. The trunk reaches skyward, likewise disappearing somewhere in this sea of absence.
+
+        The tree's light also falls on the miscellany of this space. Illuminating relics from the exodus of Thiuda as they lay scattered about, three to every Neverborn at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
 		
-		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the circle of bones decorating this one's base. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
+		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the charred circle decorating its base - shadows they cannot be, for the neither hum nor buzz when the Muninn's light wavers. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
 		(A#Inspect the altar){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!}
 		(B#Stand upon the dais){B:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.002!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!/]	
@@ -201,15 +203,17 @@ acq glyph of Prime Archon prev
 came in with Babel after confronting him with knowledge of Pr Ar
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!DESCRIPTION!]
 		||
-		*Bones and sinew weave two shells as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper disk in a dusty chamber where the magi are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though he has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries.*
+		*Bones and sinew weave two shells as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper disk in a dusty chamber where the magi are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries. Their scores of lines seem to fade away, gobbled up by the impenetrable murk at their backs.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!]
 		||
-		*Casting his gaze about, he sees relics from the exodus of Thiuda scattered around the room, three to every Neverborn sentry, at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
+		*Turning around, Ormenos soon sees the lone rebel in this pit of darkness, the sole source of pale, pulsating light in this ruinous abyss. He sees the roots of a massive Muninn. Its determined glow radiates out into the inky void, slowly dying the further it ventures from the origin. The trunk reaches skyward, likewise disappearing somewhere in this sea of absence.
+
+        The tree's light also falls on the miscellany of this space. Illuminating relics from the exodus of Thiuda as they lay scattered about, three to every Neverborn at least. Some on desks equally ancient, others on shelves, and still some too large to be housed in any casing.
 		
-		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the circle of bones decorating this one's base. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
+		Though numerous the relics may be, only two objects truly tug at Ormenos' attention. One is a judgment dais, similar to the one in the Hall of Reckoning, he notes, with the only difference being the charred circle decorating its base - shadows they cannot be, for the neither hum nor buzz when the Muninn's light wavers. The second is simpler, and perhaps less grim: an altar, with several lit candles atop it.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.X0011!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!/]
 		
@@ -1017,71 +1021,75 @@ MATHETIA
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!]
 		||
-        *His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, unable to shake the feeling that he is still somehow falling ever closer to the goliath's center. Round and round he goes, soon brushing up against the dark iron railing surrounding the tree. The body's fear instinctively draws eyes to the bottomless chasm housing the Muninn's roots. All attempts to plumb its depths have only been rewarded with death and confusion. Even the Munnin's ghostly light eventually succumbs to the abyss' appetite...*
+        *His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, caught in its invisible vortex. Closer, closer, ever closer he falls, in towards the goliath's center. Round and round he goes, soon brushing up against the dark iron railing surrounding the tree. The body's fear instinctively draws eyes to the bottomless chasm the other side of the railing, that mysterious pit housing the Muninn's roots. All attempts to plumb its depths are always just rewarded with death and confusion. A stone dropped into the darkness will make no sound upon hitting the bottom - if it ever does. Even the Munnin's ghostly light eventually succumbs to the abyss' appetite...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X00112!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X00112!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.00113!DESCRIPTION!|
-        *Ormenos suddenly realizes his feet have stopped. For how long, he cannot say. All he knows is that his path's invisible spiral has stopped at the edge of a crowd, gathered round a Brother and Sister in heated debate.*
+        *Ormenos' vision focuses. Sight returns, though he never knew it had left him. His feet have stopped. For how long, he cannot say. All he knows is that his path's invisible spiral has abruptly terminated at the edge of a crowd, one gathered round a Brother and Sister in heated debate.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X00112!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00113!DESCRIPTION!]
 		||
-		*The debate at its terminus, the crowd disbands and all return to their tasks. Even such small deviations from one's work can lead to dire consequences, and the Choir of Archons are anything but miserly when doling out punishments for negligence of duty.*
+		*The debate at its terminus, the crowd disbands and all return to their tasks. Even such small deviations from one's work can lead to dire consequences. All present well know the Choir of Archons are anything but miserly when doling out punishments for negligence of duty.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00113!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0012!DESCRIPTION!]
 		||
-		*There appear to be three points of egress from the Mathetia: the same portal whence Ormenos entered the Archives, and the two massive wings of the Archive: the Wing of Actuality with its Muninn Grove and Scriptorium; and the Wing of Potentiality with its Huginn Grove and the Seat of the True Archon.
+		*There appear to be three points of egress from the Mathetia: the same portal whence Ormenos entered the Archives, and the two massive wings of the Archive - the Wing of Actuality with its Muninn Grove and Scriptorium; and the Wing of Potentiality with its Huginn Grove and the Seat of the True Archon.
 		
-		As a Thought-Weaver, Ormenos regularly haunts the Vault down in the Third Sphere, but many moons ago when he had first arrived, he would spend countless hours in these Archives, devouring the knowledge his predecessors had left. Indeed, he cannot help but feel a small bout of nostalgia creep up upon him as he decides where to direct his feet.*
+		As a Thought-Weaver, Ormenos regularly haunts the Vault down in the Third Sphere, but many moons ago when he had first arrived, he would spend countless hours in these Archives, devouring the knowledge his predecessors had left. Indeed, he cannot help but feel a small bout of nostalgia creep up on him as he decides where to direct his feet.*
 		(A#To the Wing of Actuality){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 		(B#To the Wing of Potentiality){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(C#To the underhalls){C:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0012!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!]
 		||
-		*Arriving at the cusp of the Wing of Actuality and the Mathetia, Ormenos now thinks on where his ultimate destination lies. He could return to the foyer of the Mathetia, enter the Scriptorium, or pay a visit to the Muninn Grove.*
+		*Before he can form the thought, he realizes he has already arrived at the cusp of the Wing of Actuality and the Mathetia, as though the decision had been made for him. He shakes his head, attempting to loosen the grip of such nonsensical fancies from his mind. Now he must think on where his ultimate destination lies.
+
+        His options number few: he could return to the foyer of the Mathetia, enter the Scriptorium, or pay a visit to the Muninn Grove.*
 		(A#Enter the Scriptorium){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X001200!DESCRIPTION!}
 		(B#Visit the Muninn Grove){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X001!DESCRIPTION!}
 		(C#Return to the foyer){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!/]
-	
+
 >>>Spoke to Word Smith (2035)<<<
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X001200!DESCRIPTION!]
 		|^2035:ENCLAVE!ARCHIVES!MATHETIA!0.X001201!DESCRIPTION!|
-		*His feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. The portal to the chamber then opens ready to devour the curious mage as he disappears through the door.*
+		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. The portal to the chamber then opens, ready to devour the curious mage as he disappears through it.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X001200!DESCRIPTION!/]
 
 >>>Spoke to Word Weaver (2036)<<<
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X001201!DESCRIPTION!]
 		|^2036:ENCLAVE!ARCHIVES!MATHETIA!0.001202!DESCRIPTION!|
-		*His feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This is the second time Ormenos seeks to enter this cycle and it's hard to say what the consequences of such actions might lead to... Yet, the ambivalent portal to the chamber then opens ready to devour the curious mage.*
+		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This is the second time Ormenos seeks to enter this cycle and it is hard to say what the consequences of such actions might lead to... Yet, the ambivalent portal to the chamber still opens, again ready to devour the curious mage.*
 		(A#Heed the warnings){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 		(F#Enter despite the dangers){F:1,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X001201!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.001202!DESCRIPTION!]
 		||
-		*His feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This is the third time Ormenos seeks to enter this cycle and given the dying effect of the herbs, one can only assume Ormenos will overdose upon entering again; Too much of a good thing can be bad... Yet, the ambivalent portal to the chamber then opens ready to devour the curious mage.*
+		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This marks the third time Ormenos seeks to enter this cycle, and given the dying effect of the herbs, one can only assume Ormenos will overdose upon entering again. Too much of a good thing can be bad... Yet, the ambivalent portal to the chamber opens, ready to devour the curious mage once more.*
 		(D#Heed the warnings){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 		(F#Enter despite the dangers){F:1,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.001202!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!]
 		||
-		*Arriving at the cusp of the Wing of Actuality and the Mathetia, Ormenos now thinks on where his ultimate destination lies. He could return to the foyer of the Mathetia, enter the Seat of the True Archon, or walk among the trees of the Huginn Grove.*
+		*Ormenos suddenly realizes he now stands at the cusp of the Wing of Actuality and the Mathetia - before even deciding to do so. But he knows that makes no sense; he really must be working too hard. Clasping his hand over his temples, he gently rubs the tension away as best he can.
+
+        Not wanting to dwell on impossibilities, he begins to think on where his ultimate destination lies. Return to the foyer of the Mathetia? Enter the Seat of the True Archon? Or perhaps walk among the trees of the Huginn Grove?*
 		(A#Enter the Seat of the True Archon){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!DESCRIPTION!}
 		(B#Visit the Huginn Grove){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!}
 		(C#Return to the foyer){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!/]
-		
-	
+
+
 Witnessed debate
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.002!DESCRIPTION!]
 		||
@@ -1089,91 +1097,97 @@ Witnessed debate
 		(A#Talk to people){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!}
 		(B#Leave the Mathetia){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.0012!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.002!DESCRIPTION!/]
-	
-	
+
+
 completed two events
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.003!DESCRIPTION!]
 		||
-		*As Ormenos walks by, all seem to cast furtive gazes at him. Whispers of thoughts reach his mindsight as he hears people chastising him for his vagrancy. Long ago was he to have reported to the Choir of Archons and he is pushing the boundaries of their collective patience. In order for the good of the Enclave, all must fall in line and the nail that rears its unsavory head will be summarily smashed into its proper place.*
+		*As Ormenos walks by, all seem to cast furtive half-glances at him. Whispers of thoughts reach his mindsight as he hears people chastising him for his vagrancy. Long ago was he to have reported to the Choir of Archons and he is pushing the boundaries of their collective patience. For the good of the Enclave, all must fall in line and the nail that rears its impetuous head will be summarily smashed into its proper place.*
 		(A#Go to the Nave to report to the Choir of Archons){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0030!DESCRIPTION!}
-		(E#The Choir can wait; exploring takes precendence){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!DESCRIPTION!}
+		(E#The Choir can wait; my needs take precendence){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.003!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0030!DESCRIPTION!]
 		||
-		*And as a well-trained pup, Ormenos bends to the will of the Order. As though an automaton, his feet now automatically guide him toward his neglected duties, toward the Hall of Reckoning.*
+		*And as a well-trained pup, Ormenos bends to the will of the Order. As though a Neverborn, his feet now automatically guide him toward his neglected duties, toward the Hall of Reckoning.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0030!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0031!DESCRIPTION!]
 		||
 		*And as a rowboat on a savage and tempestuous ocean, Ormenos stands in defiance to the establishment. For what could they possibly do to him?*
 		(A#Talk to people){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X0010!DESCRIPTION!}
 		(B#Leave the Mathetia){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.0012!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0031!DESCRIPTION!/]
-	
-	
+
+
 completed three events
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X004!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.0040!DESCRIPTION!|
-		*Ormenos drags his heavy feet into the Mathetia, his precarious thoughts filling his boots with the leaden weights of doubt, fear and anxiety. The Inquisitor's troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of Brother Beast Lord marks an end to the tolerance of the Choir's patience...*
+		*Ormenos drags heavy feet into the Mathetia, boots filled with the leaden weights of his doubts, fears and anxieties. The Inquisitor's troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of Brother Beast Lord and a retinue of Enforcers marks an end to the Choir's patience...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1200!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X004!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0040!DESCRIPTION!]
 		||
 		*The Beast Lord then escorts Ormenos unto the Nave and into the clutches of the slighted Choir of Archons to accept his punishment.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0040!DESCRIPTION!/]
-	
-	
+
+
 agreed to go gremlin-slaying
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.005!DESCRIPTION!]
 		||
 		*The Memory Keeper rushes through the halls undeterred by the multitude of magi... or is it GREMLINS?! Yes, undeterred by the repugnant halflings blocking his straight-lined path to victory! He laughs maniacally as he incinerates all obstacles! More a boisterous caw, than a laugh, to be fair. 
 		
-		The entire hall is in a panic when the buzz-killers arrive. These so-called 'Enforcers' have been, all this time, simply demons masquerading as allies. Well, are they in for a surprise! Because...*
+		The entire hall is in a panic when the killjoys arrive. These so-called 'Enforcers' have been, all this time, simply demons masquerading as allies. Well, are they in for a surprise! Because...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0050!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.005!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0050!DESCRIPTION!]
 		||
-		*A thud... Great pain... Sudden collapsing... Descending darkness...*
+		*A thud... Great pain... Sudden collapse... Descending darkness...*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0050!DESCRIPTION!/]
-	
-	
+
+
 
 BEAST LORD
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.000!BEAST LORD!]
 		||
-		*"Brother Inquisitor, I have been dispatched to escort you to the Nave; your truancy has not gone unnoticed..."* 
+		*"Brother Inquisitor, I have been dispatched to escort you to the Nave."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.001!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.000!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.001!BEAST LORD!]
 		||
-		*"...May I speak candidly with you?"*
+        *"Your truancy has not gone...unnoticed..."* 
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0010!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.001!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.0010!BEAST LORD!]
+		||
+		*"...May I speak candidly with you, Brother?"*
 		(A#"Yes, of course, Brother."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0021!BEAST LORD!}
 		(B#"What is it you wish to say?"){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0022!BEAST LORD!}
 		(C#"As you wish."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0023!BEAST LORD!}
 		(D#"Unless it's to tell me I'm free to go, then no."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
 		(E#"Let's just go and get it over with."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
-		(F#"So NOW caveman wants to talk, but in Kabu it was the cold shoulder!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0026!BEAST LORD!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.001!BEAST LORD!/]
-	
+		(F#"So NOW caveman want to talk! But in Kabu only give cold shoulder!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0026!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.0010!BEAST LORD!/]
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!]
 		||
-		*"You are as frigid as ever, Brother..."*
+		*"As cold and distant as ever, Brother... but as you wish."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00200!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00200!BEAST LORD!]
 		||	
-		*"Then as you wish! I will deliver you to the executioner's block and leave you to join the ranks of the Vault-dwellers."*
+		*"Enforcers! We now take the rogue Ormenos to receive the Choir's judgment!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00201!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00200!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00201!BEAST LORD!]
 		||	
 		*"For the good of the Order!"*
@@ -1185,206 +1199,206 @@ BEAST LORD
 		*"Gratitude, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00210!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0021!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00210!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
+		*"What I wish to say is that we've both been with the Order for more cycles than there are stars, and I know you've always been loyal to your brothers and sisters, diligent in your tasks..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00211!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00210!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00211!BEAST LORD!]
 		||
-		*"So, I ask then, as brother and friend, Ormenos: why have you forsaken your duties."*
+		*"So, I need to know, as brother and friend, Ormenos: why have you forsaken your duties?"*
 		(A#"Why is delaying the report so offensive to the Choir?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!}
 		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
 		(E#"Why must we respond to the crack of the Choir's whip?"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0035!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00211!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0022!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
+		*"What I wish to say is that we've both been with the Order for more cycles than there are stars, and I know you've always been loyal to your brothers and sisters, diligent in your tasks..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0022!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!]
 		||
-		*"So, I ask then, as brother and friend, Ormenos: why have you forsaken your duties."*
+		*"So, I need to know, as brother and friend, Ormenos: why have you forsaken your duties?"*
 		(A#"Why is delaying the report so offensive to the Choir?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!}
 		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
-		(C#"I do not chose my actions, Adarin; they are chosen for me."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
+		(C#"I don't chose my actions, Adarin; they're chosen for me."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0023!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
+		*"What I wish to say is that we've both been with the Order for more cycles than there are stars, and I know you've always been loyal to your brothers and sisters, diligent in your tasks..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00230!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0023!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00230!BEAST LORD!]
 		||
-		*"So, I ask then, as brother and friend, Ormenos: why have you forsaken your duties."*
+		*"So, I need to know, as brother and friend, Ormenos: why have you forsaken your duties?"*
 		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
-		(C#"I do not chose my actions, Adarin; they are chosen for me."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
-		(D#"Why such solemnity over a simple delay?"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0034!BEAST LORD!}
+		(C#"I don't chose my actions, Adarin; they're chosen for me."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
+		(D#"Why fuss over a simple delay?"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0034!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00230!BEAST LORD!/]
-		
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0026!BEAST LORD!]
 		||
-		*"Caveman? Kabu? Brother, we did not meet until I came to the Enclave shortly after your arrival..."*
-		(F#"How can I say this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.00260!BEAST LORD!}
+		*"Caveman? Kabu? Brother, we only met after I came to the Enclave... And besides, you said you've never even been to my homeland..."*
+		(F#"How can I put this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.00260!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0026!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00260!BEAST LORD!]
 		||
-		*"...If you have no intention of earnestly hearing your Brother, then we shall depart."*
+		*"...It seems you have no intention of earnestly hearing your Brother's words."*
 		(F#"By Roostor's Comb! You misunderstand! You're destined to die alone in a cave!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00260!BEAST LORD!/]
-	
-	
+
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed?!"*
+		*"Insubordination has never been tolerated; what possessed you to think this policy had somehow changed?!"*
 		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
-		(B#"I will be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
+		(B#"I'll be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!]
 		||
 		*"What is of such supreme importance that you have staked your very existence upon it?!"*
 		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
-		(B#"I will be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!}
+		(B#"I'll be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!}
 		(C#"Importance is a product of whim; nothing is 'supremely' important."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!]
 		||
-		*"I see that you do not take my earnest concern seriously."*
+		*"I see my earnest concern is of little consequence to you."*
 		(C#"Believe what you will."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0034!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed!?"*
-		(C#"I did not say it has changed."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
-		(D#"What is to become of me, then?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
+		*"Insubordination has never been tolerated; what possessed you to think this policy had somehow changed!?"*
+		(C#"I didn't think it had."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
+		(D#"What's to become of me, then?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0034!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0035!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed?!"*
+		*"Insubordination has never been tolerated; what possessed you to think this policy had somehow changed?!"*
 		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
-		(D#"What is to become of me, then?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
+		(D#"What's to become of me, then?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0035!BEAST LORD!/]
-	
-	
+
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!]
 		||
-		*"Do you jest..?"* 
+		*"I have little tolerance for jokes, Brother."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!]
 		||
 		*"The Choir's will IS our will!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00411!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00411!BEAST LORD!]
 		||
-		*"We must restrict our own desires for the good of the Order!"*
+		*"We kill our own desires for the good of the Order!"*
 		(A#"We cannot destroy our humanity, Adarin."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00412!BEAST LORD!}
 		(B#"Letting others think for you is nothing but willful ignorance..."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.00422!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00411!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00412!BEAST LORD!]
 		||
 		*"But we can reforge it in the fire of the mind, reshape it to its perfect form: unity!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00412!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!]
 		||
-		*"Though my argument clearly falls upon deaf ears."*
+		*"Though my argument clearly falls on deaf ears."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00414!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00414!BEAST LORD!]
 		||
 		*"Farewell, Brother. May the decay of your Trueflesh precede the decay of your sanity..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00419!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00414!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00419!BEAST LORD!]
 		||
 		*"For the good of the Order."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00419!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!]
 		||
-		*"Then it is to the endless Void of the Graylands that you are led."*
+		*"Then it's to the endless Void of the Graylands you go."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00420!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00420!BEAST LORD!]
 		||
-		*"It pains me to have seen your fall from grace; you, the most loyal of our Order, now to be nothing more than a forgotten memory."*
+		*"It pains me to have seen your fall... Once a proud and loyal Brother, now to be nothing more than a forgotten memory."*
 		(A#"Your pain is meaningless without change, Brother."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
 		(B#"I regret nothing."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.00421!BEAST LORD!}
 		(C#"..."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00420!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00421!BEAST LORD!]
 		||
-		*"Perhaps it is for the best, for regret would profit you nothing at this point."*
+		*"Perhaps it's for the best, for regret would profit you nothing at this point."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00421!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00422!BEAST LORD!]
 		||
 		*"From the cultivator we seek to grow crops; from the artisans we seek art and architecture; likewise from the Choir we seek wisdom."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00422!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!]
 		||
-		*"You know full well, Brother..."* 
+		*"...From Thought-weaver to Thought-woven..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00440!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00440!BEAST LORD!]
 		||
-		*"It pains me to have seen your fall from grace; you, the most loyal of our Order, now to be nothing more than a forgotten memory."*
+		*"It pains me to have seen your fall... Once a proud and loyal Brother, now to be nothing more than a forgotten memory."*
 		(C#"..."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
 		(D#"Surely you could just say that I had 'escaped', Brother..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00440!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00441!BEAST LORD!]
 		||
-		*"And now you grovel for your worthless Falseflesh?! No further can you fall, Inquisitor!"*
+		*"And now you grovel for your worthless Falseflesh?! Does betrayal of the Order demand reward, Inquisitor!?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00441!BEAST LORD!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!]
 		||
 		*"Yes, we are as tamed beasts! For are not lowly beasts commanded to great works by their superiors?"*
 		(A#"Letting others think for you is nothing but willful ignorance..."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00422!BEAST LORD!}
-		(D#"Look, perhaps you could let your old friend accidentally 'escape'..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00441!BEAST LORD!}
+		(D#"Look, perhaps you could let your old friend 'accidentally' escape..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!/]
-		
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!]
 		||
-		*"Then you have gone the way of Brother Jinn Slayer; he too will likely meet a fate similar to yours in the near future."*
+		*"Then you've gone the way of Brother Jinn Slayer. Soon, he too will meet a fate similar to yours."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!/]	
-	
-	
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!/]
+
+
 
 FORM FORGER
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X000!FORM FORGER!]
@@ -1392,43 +1406,43 @@ FORM FORGER
 		*"Illogical. Advancement of the Technocrafts far exceeds in importance the minutiae of running the Muninn Grove."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X000!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.001!FORM FORGER!]
 		||
-		*"And without the new memories we generate from further experiments, you will have nothing to store in your grove."*
+		*"Records are important. However, without the new memories we generate from further experiments, you would have nothing more to store in your grove."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0010!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.001!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0010!FORM FORGER!]
 		||
-		*"Your function has meaning, but it is secondary in importance to our work in the Huginn Grove, Brother."*
+		*"Your function has meaning, but it is clearly secondary in importance to our work in the Huginn Grove, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X0011!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0010!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X0011!FORM FORGER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.X002!FORM FORGER!|
-		*"Is this not evident to you? I would think one as learned as you would know this as truth."*
+		*"Is this not evident to you? I would think one as learned as you would know this simple truth."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X0011!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X002!FORM FORGER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.X003!FORM FORGER!|
-		*"Brother Memory Keeper, the senior Thought-Weaver Brother Inquisitor is among us. Perhaps he can explain to you the heirarchy of our importances in a way that is palatable and comprehensible."*
+		*"Brother Memory Keeper, the senior Thought-Weaver Brother Inquisitor is among us. Perhaps he can explain to you the heirarchy of our importances in a way that is more palatable and comprehensible."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X002!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X003!FORM FORGER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.004!FORM FORGER!|
-		*"Said senseless artifacts could return to us the powers of the Vanquished, Brother. Imagine being able to Nearcast or even Farcast once more! Or to regain the ability to write new Techne! Or..."*
+		*"Said senseless artifacts could return to us the powers of the Vanquished, Brother. Imagine being able to Nearcast or even Farcast once more. Or to regain the ability to write new Techne. Or..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X003!FORM FORGER!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.004!FORM FORGER!]
 		||
-		*"Brother Memory Keeper, we must be silent and let Brother Inquisitor speak his mind."* 
+		*"Brother Memory Keeper, we could both list numerous justifications. Why not be silent and let Brother Inquisitor speak his mind, first?"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0040!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.004!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0040!FORM FORGER!]
 		||
 		*"Apologies, Brother; we await your wisdom."*
@@ -1439,21 +1453,21 @@ FORM FORGER
 		(E#"Clearly using the memories ultimately gives them purpose."){E:1,ENCLAVE!ARCHIVES!MATHETIA!9990.X2076!FORM FORGER!}
 		(F#"Ridiculous! I can't waste time here when the Mushroom Duke needs my help!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0046!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0040!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0041!FORM FORGER!]
 		||
 		*"Perhaps the organs of our body support each other, but one would find it difficult to defend the thesis that the person is subordinate to the organs."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00410!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0041!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00410!FORM FORGER!]
 		||
 		*"Is it not sound logic to then say that although memories contribute to the advancement of the Technocrafts - that is to say, they are merely one of our many organs - is it not then fair to conclude that they are subordinate in nature to the noble deed that is advancement?"*
-		(A#"What makes advancement, a priori, a noble deed?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00411!FORM FORGER!}
+		(A#"What makes 'advancement', a priori, a noble deed?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00411!FORM FORGER!}
 		(B#"A person dies when organs fail. Thus, organs are more important."){B:1,ENCLAVE!ARCHIVES!MATHETIA!9990.X2075!FORM FORGER!}
 		(E#"Indeed, our organs are meaningless without a person to sustain."){E:1,ENCLAVE!ARCHIVES!MATHETIA!9990.X2076!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00410!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00411!FORM FORGER!]
 		||
 		*"...I suppose I cannot say for sure it is. But, I should hope our pursuits have meaning... or is this but another baseless hope?"*
@@ -1461,31 +1475,31 @@ FORM FORGER
 		(B#"Perhaps one day we will know, but for now we cannot."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!}
 		(E#"Just quit bickering about who's superior and do your jobs!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00411!FORM FORGER!/]
-		
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X0042!FORM FORGER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!|
 		*"...but..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X0042!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0044!FORM FORGER!]
 		||
-		*"Yes, Brother, we all know of the parable of the 'frog in the well'. Your implication that we should not quibble over trivialities is well-received."*
+		*"Yes, Brother, we all know of the fable of the 'frog in the well'. The implication is well-received."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0044!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!]
 		||
-		*"Thank you for your guidance. We will endeavor to be as diligent in our duties as you have been in yours."* 
+		*"Thank you for your guidance. We will endeavor to be as diligent in our duties as you are in yours."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X0045!FORM FORGER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.00450!FORM FORGER!|
 		*"See, Brother Memory Keeper, it is only by virtue of our experiments with potentiality that the memories of your actuality have meaning."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X0045!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00450!FORM FORGER!]
 		||
 		*"Brother Memory Keeper is, as usual, overly-attached to his hypothesis. Rather unbecoming of one of our Order."*
@@ -1496,72 +1510,72 @@ FORM FORGER
 		(E#"Just quit bickering about who's superior and do your jobs!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.00440!FORM FORGER!}
 		(F#"Yeah, it's happened to me, too... Left a nasty rash in an unsavory part of my anatomy."){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.00461!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00450!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0046!FORM FORGER!]
 		||
-		*"...Though I cannot quite... comprehend what it is you mean. I sense that your mockery is intended to suggest that we should not quibble over trivialities."*
+		*"...Though I cannot quite... comprehend what it is you mean. I sense that your mockery is intended to imply we should not quibble over trivialities."*
 		(F#"Yeah, your petty bullshit means nothing compared to the loss of vegetable life!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.00460!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0046!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00460!FORM FORGER!]
 		||
 		*"Yes... of course, Brother. Thank you for your... guidance. We will leave you to your task of... vegetable rescue..."* 
 		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00460!FORM FORGER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00461!FORM FORGER!]
 		||
-		*"Yes... of course, Brother. Thank you for your... guidance. We will leave you to your task of... caring for your hygiene..."* 
+		*"Yes... of course, Brother. Thank you for your... guidance. We will leave you to your task of... improving your hygiene..."* 
 		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!10.X000!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00461!FORM FORGER!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!10.X000!FORM FORGER!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!10.X000!FORM FORGER!/]
-	
-	
-	
+
+
+
 MEMORY KEEPER
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X000!MEMORY KEEPER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.X001!MEMORY KEEPER!|
-		*"Without the memories of the past, how do you expect to advance anything at all, Sister?!"*
+		*"Oh? And without the memories of the past, how do you expect to advance anything at all, Sister?!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X000!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X001!MEMORY KEEPER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.002!MEMORY KEEPER!|
 		*"It is not evident, because it is nothing but a mendacious warping of actuality!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X001!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.002!MEMORY KEEPER!]
 		||
 		*"There it is again! Your presumption that your truth-blind opinion is fact!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0020!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.002!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0020!MEMORY KEEPER!]
 		||
 		*"Brother Inquisitor, as a Thought-Weaver, I'm sure you have availed yourself of our Archives in the Muninn Grove on more occasions than most magi."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X0021!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0020!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X0021!MEMORY KEEPER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.X003!MEMORY KEEPER!|
-		*"What say you: is the preservation of our priceless records a greater priority than wasteful experimentation on senseless artifacts?"*
+		*"Would you tell this draug-brained ninny that the preservation of our priceless records is a greater priority than wasteful experimentation on senseless artifacts, please?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X0021!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X003!MEMORY KEEPER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.X004!MEMORY KEEPER!|
 		*"Or imagine finding all the memories of the Vanquished who already knew how to accomplish these miracles among the Archives of the Muninn Grove and then simply learning from them!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X003!MEMORY KEEPER!/]
-	
+
 >>>Backed Form Forger in the debate (2076)<<<
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X004!MEMORY KEEPER!]
 		|^2076:ENCLAVE!ARCHIVES!MATHETIA!0.005!MEMORY KEEPER!|
@@ -1573,33 +1587,33 @@ MEMORY KEEPER
 		(E#"Just quit bickering about who's superior and do your jobs!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!}
 		(F#"This dispute resolution had better pay off down the line..."){F:1,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X004!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.005!MEMORY KEEPER!]
 		||
-		*"What...? No!"* 
+		*"What...? No! You can't possibly..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0050!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.005!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0050!MEMORY KEEPER!]
 		||
 		*"How... but, how... could you say that?!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0051!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0050!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0051!MEMORY KEEPER!]
 		||
 		*"Biracul's balls!! I tire of this nonsense!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0052!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0051!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0052!MEMORY KEEPER!]
 		||
 		*"Good day, my truth-blind siblings!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1209!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0052!MEMORY KEEPER!/]
-	
-	
-	
+
+
+
 MIDNIGHT
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X000!MIDNIGHT!]
 		||

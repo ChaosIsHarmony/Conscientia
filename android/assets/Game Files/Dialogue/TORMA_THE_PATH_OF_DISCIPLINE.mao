@@ -495,7 +495,7 @@ ejected from the Path
 completed the path of discipline
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X006!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0060!DESCRIPTION!|
-		*Ormenos walks through the gates, now more aware than ever of the infinite weight of his pursuit. His troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of Brother Beast Lord marks an end to the tolerance of the Choir's patience...*
+		*Ormenos walks through the gates, now more aware than ever of the infinite weight of his pursuit. His troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of Brother Beast Lord leading a retinue of Enforcers marks an end to the Choir's patience...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X1200!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X006!DESCRIPTION!/]
 	
