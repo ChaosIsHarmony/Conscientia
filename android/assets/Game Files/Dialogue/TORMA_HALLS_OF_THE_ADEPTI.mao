@@ -60,7 +60,7 @@ Completed two events
 Completed three events
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!DESCRIPTION!|
-		*Ormenos arrives at the Calefactory, thinking upon all he has done today and of his neglected report to the Choir. His troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of the Beast Lord marks an end to the tolerance of the Choir's patience...*
+		*Ormenos arrives at the Calefactory, thinking upon all he has done today and of his neglected report to the Choir. His troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of the Beast Lord leading a retinue of Enforcers marks an end to the Choir's patience...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1200!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!DESCRIPTION!/]
 	
