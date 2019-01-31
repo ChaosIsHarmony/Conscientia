@@ -19,7 +19,7 @@ ______________
 ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!]
 		||
-		*Eyelids slowly rise, flickering to modulate the brightness sleep kept from perception. Again? But Rikos is now used to his unwanted bouts of sleep, though still not happy about them. How long was he out for this time? He still appears to be in the Tacrivian Archives. Librarians and Magissari yet fill the space. It can be no later than <Prayer Time>. He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till sunset.*
+		*Eyelids slowly rise, flickering to modulate the brightness sleep kept from perception. Again? But Rikos is now used to his unwanted bouts of sleep, though still not happy about them. How long was he out for this time? He still appears to be in the Tacrivian Archives. Librarians and Magissari yet fill the space. It can be no later than <Prayer Time>. He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till dusk steals the light from day and the members of the <College> would pray for the Shining One's peaceful rest.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!/]
 
