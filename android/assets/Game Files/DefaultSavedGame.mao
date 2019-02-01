@@ -192,12 +192,12 @@ enclave
 |2104:false, Coming from FoD to SC
 
 kavu
-|3000:false, Rik vision of Eidos
-|3001:false, Rik vision of Thetian
-|3002:false, Rik Vision of Tormenos
-|3003:false, Rik vision of Self
+|3000:false, Rik vision of Biracul
+|3001:false, Rik vision of Self
+|3002:false, Rik Vision of Thetian
+|3003:false, Rik vision of Tormenos
 |3004:false, Rik vision of Wulfias
-|3005:false, Rik vision of Biracul
+|3005:false, Rik vision of Eidos
 |3006:false,
 |3007:false,
 |3008:false,

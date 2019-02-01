@@ -105,15 +105,7 @@ public class CheckUniqueEvent {
 				// num_of_visions = 6, increase if visions increase
 				mgScr.mgVar.conscientia.getConscVar().triggeredEvents.put((rand.nextInt(6) + 16101), true);
 				mgScr.mgVar.dialogue.setCurrentAddress(mgScr.mgVar.cues.get("OBSIDIAN VISION").get(1));
-			}
-			// randomly selects a vision for the Rikharr's waking up
-			else if (mgScr.mgVar.cues.get("RIKHARR VISION").get(0)
-					.contains(mgScr.mgVar.dialogue.getCurrentAddress())) {
-				Random rand = new Random();
-				// num_of_visions = 6, increase if visions increase
-				mgScr.mgVar.conscientia.getConscVar().triggeredEvents.put((rand.nextInt(6) + 3000), true);
-				mgScr.mgVar.dialogue.setCurrentAddress(mgScr.mgVar.cues.get("RIKHARR VISION").get(1));
-			}			
+			}	
 			// Khlutt steals Luin from you, this removes all traces of Luin from
 			// your inventory
 			else if (mgScr.mgVar.cues.get("KHLUTT STEALS LUIN").contains(mgScr.mgVar.dialogue.getCurrentAddress())) {

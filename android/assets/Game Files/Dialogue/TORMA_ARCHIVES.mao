@@ -1340,7 +1340,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!]
 		||
-		*"Then it's to the endless Void of the Graylands you go."*
+		*"Then it's to the endless Void of the Graylands you go, proud Inquisitor."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00420!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!/]
 
@@ -1386,7 +1386,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!]
 		||
-		*"Yes, we are as tamed beasts! For are not lowly beasts commanded to great works by their superiors?"*
+		*"Certainly! Ww're just like tamed beasts! For aren't lowly beasts commanded to greater works by their superiors?"*
 		(A#"Letting others think for you is nothing but willful ignorance..."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00422!BEAST LORD!}
 		(D#"Look, perhaps you could let your old friend 'accidentally' escape..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!}
@@ -1394,7 +1394,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!]
 		||
-		*"Then you've gone the way of Brother Jinn Slayer. Soon, he too will meet a fate similar to yours."*
+		*"Then you've gone the way of the Jinn Slayer - another racing towards life as a Vault-dweller."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!/]
 
