@@ -2,7 +2,7 @@ ________________________________________________________________________
 RIKHARR
 ____________________________
 ____________________________
-MUNINN 1 ~0.xxx~
+MUNINN 1 ~1.xxx~
 First time into the Interstice, player is redirected to book of relevant vision
 	- After first time, make reference to familiarity of Interstice and danger to being swept up in its visions
 	- Then after vision, Rik returns to his own shell and is surprised

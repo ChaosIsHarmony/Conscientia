@@ -150,7 +150,7 @@ CRIMSON FIELD
 
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.2000!DESCRIPTION!]
 		||
-		*The Self struggles through the chest-high stalks, fighting its way towards the trees. It is only upon reaching them that it finally perceives what was there all along, hidden in plain sight; a bird-like specter roosts among the ghoulish tree limbs. Though its wide-brimmed hat and raiment clothe a form seemingly human, it looks to be carved from a block of iron rust. Two glaring, ruby eyes stare out from above a cruelly-hooked beak.*
+		*The Self struggles through the chest-high stalks, fighting its way towards the trees. It is only upon reaching them that it finally perceives what was there all along, hidden in plain sight; a bird-like specter roosts among the ghoulish tree limbs. Though its wide-brimmed hat and red cloak clothe a form seemingly human, it looks to be carved from a block of iron rust. Two glaring, ruby eyes stare out from above a cruelly-hooked beak.*
 		(A#Re-enter the Graylands){A:0,MIND!MINDSCAPE!GRAYLANDS!0.X000!DESCRIPTION!}
 		(B#Approach the ruby-eyed being){B:0,MIND!MINDSCAPE!CRIMSON FIELD!2.X000!DESCRIPTION!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!0.2000!DESCRIPTION!/]
@@ -2175,7 +2175,7 @@ MIMIR
 		(C#Approach the black mirror){C:0,MIND!MINDSCAPE!MIMIR!2.X121!DESCRIPTION!}
 	[MIND!MINDSCAPE!MIMIR!2.100!DESCRIPTION!/]
 
->>>Killed Famlicus (17902)<<<
+>>>Acquired Famlicus (17902)<<<
 	[/MIND!MINDSCAPE!MIMIR!2.X101!DESCRIPTION!]
 		|^17902:MIND!MINDSCAPE!MIMIR!2.101!DESCRIPTION!|
 		*As the Self gains a closer look, it seems the statue of the bird is placed upon a bed of red soil. However, the object seems dead and lifeless.*
