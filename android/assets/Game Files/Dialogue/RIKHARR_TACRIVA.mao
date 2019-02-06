@@ -4,11 +4,19 @@ ______________
 ALCHEMY WARD
     [/KAVU!TACRIVA!ALCHEMY WARD!1.000!DESCRIPTION!]
 		||
-		*COME back from Muninn Land, collapse, wake up in the infirmary.
-
-        FAMLICUS and Hamdulah, the High Mage (?) of the Tacrivian Magi Council, are there. Lazham is an out of town mage who brought you back with his Alchemy.
-
-        MEET the courier who tells Rikos that Drakos is dead.*
+		*Rikos opens his eyes. The gentle oscillation of an amber illumination crystal bathe the surroundings in. Rikos has lived under the dome long enough to recognize the Alchemy Ward. He remembers the first time unwanted sleep found him; this very bed was where he awoke. This time was different, though. Memory fails him, like staring through a sheet of glass at the sun, he knows something is there, he just cannot quite see it.
+		
+		Lazham makes a comment about how he is awake.
+		Hamdulah, the High Magissar of the Tacrivian Council of Magissari, tells Rikos how their guest picked him up in the Archives, how he helped the Alchemists.
+		Lazham comments that he had seen a case prior, many moons ago. He would very much like to talk to Rikos... after the ceremony.
+		Rikos is confused.
+		Hamdulah comments, oh right, a messenger came with great urgency: your dad Drakos is dead and you must return ASAP. But rest as long as you need.
+		I'm good to go.
+		Sure?
+		Yes.
+		Last thing: any luck on your sleeping problem?
+		Nope.
+		Don't give up, you're the best Archivist we've seen since Radysar, though I guess we'll soon lose you to duty as well. May the Shining One light your way.*
 		(A#Return to Dazil){A:0,KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!}
 	[KAVU!TACRIVA!ALCHEMY WARD!1.000!DESCRIPTION!/]
 
@@ -40,12 +48,14 @@ ARCHIVES
 		(F#He dreamt he was Eidos.){F:1,KAVU!TACRIVA!ARCHIVES!0.X0036!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!/]
 
+>>>Rik vision of Biracul (3000)<<<
 	[/KAVU!TACRIVA!ARCHIVES!0.X0031!DESCRIPTION!]
 		|^3000:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
 		*Yes! That blasphemous dream! To even dream of being the Shining One brought shame to his heart. He would need to absolve himself of this sin before <Evening Prayers>.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3000!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X0031!DESCRIPTION!/]
 
+>>>Rik vision of Self (3001)<<<
 	[/KAVU!TACRIVA!ARCHIVES!0.X0032!DESCRIPTION!]
 		|^3001:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
 		*Sleep brought to him once more terrible nightmares.
@@ -54,6 +64,7 @@ ARCHIVES
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3001!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X0032!DESCRIPTION!/]
 
+>>>Rik vision of Thetian (3002)<<<
 	[/KAVU!TACRIVA!ARCHIVES!0.X0033!DESCRIPTION!]
 		|^3002:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
 		*Vision of Thetian
@@ -62,6 +73,7 @@ ARCHIVES
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3002!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X0033!DESCRIPTION!/]
 
+>>>Rik vision of Tormenos (3003)<<<
 	[/KAVU!TACRIVA!ARCHIVES!0.X0034!DESCRIPTION!]
 		|^3003:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
 		*Vision of Tormenos
@@ -70,6 +82,7 @@ ARCHIVES
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3003!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X0034!DESCRIPTION!/]
 
+>>>Rik vision of Wulfias (3004)<<<
 	[/KAVU!TACRIVA!ARCHIVES!0.X0035!DESCRIPTION!]
 		|^3004:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
 		*Vision of Wulfias
@@ -78,6 +91,7 @@ ARCHIVES
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3004!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X0035!DESCRIPTION!/]
 
+>>>Rik vision of Eidos (3005)<<<
 	[/KAVU!TACRIVA!ARCHIVES!0.X0036!DESCRIPTION!]
 		|^3005:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
 		*Sleep brought to him bizarre visions of a little bird. She flew through a distant Kavu, very much like the home he knew, but also very different. She flew above the Jenowin Plain, now more a desert than the endless meadow he knew.*
@@ -206,7 +220,7 @@ ARCHIVES
 		He does not understand and tries to peer deeper, seeing only the image of a crimson bird-like specter, roosting upon a long-dead tree. Two eyes shine like rubies in the dying light of dusk; they glare at Rikos not from the creature itself, but from the blood red sky behind it.
 		
 		Suddenly, the creatures condenses into a black sphere, sucking away the scene behind it, opening up a path into... something Rikos cannot quite comprehend.*
-		(A#To the Interstice!){A:0,MIND!INTERSTICE!THE ORIGIN!1.X000!DESCRIPTION!}
+		(A#To the Interstice!){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3006!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!1.100!DESCRIPTION!/]
 
 
@@ -215,21 +229,28 @@ ARCHIVES
 
 ______________
 COURTYARD
+>>>Muninn Quest Active (3006)<<<
     [/KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!]
-		|MUNINN STUFF:KAVU!TACRIVA!COURTYARD!1.100!DESCRIPTION!|
-		*CALLBACK description of Tacriba from Book of Eidos.
-
-        RIKOS then leaves to head back home.*
+		|^3006:KAVU!TACRIVA!COURTYARD!1.100!DESCRIPTION!|
+		*Light shines in through the dome in moving bars, though the place is deserted. The loud ringing of ghostly chimes in the airborn light clock signals <Evening Prayer Time>, but Rikos must leave.
+		
+		He and his messenger travel to the tram.
+		
+		A red-cloaked foreign Magissar is perched on the fountain in the middle of the courtyard, giving him a flashback to Eidos.
+		
+		The messenger snaps him out of it. They exit the dome.*
 		(A#Return to Dazil){A:0,KAVU!JENOWIN PLAIN!ROAD TO DAZIL!1.X000!DESCRIPTION!}
 	[KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!/]
 
     [/KAVU!TACRIVA!COURTYARD!1.100!DESCRIPTION!]
 		||
-		*CALLBACK description of Tacriba from Book of Eidos.
+		*Light shines in through the dome in moving bars, though the place is deserted. The loud ringing of ghostly chimes in the airborn light clock signals <Evening Prayer Time>, but Rikos must leave.
         
-        FAMLICUS walks with you through the Courtyard asking about the Muninn. He knows you will be busy soon, but he will call upon you later, in Dazil.
+        Lazham walks you to the tram and reaffirms his desire to speak to such Rik, seeing that he has become somewhat of an authority on Muninns.
+		Rik suggests Radysar is the true authority.
+		Lazham insists that he will show up to the ceremony tomorrow and they can speak if he has time.
 
-        RIKOS then leaves to head back home.*
+        Rikos exits the dome.*
 		(A#Return to Dazil){A:0,KAVU!JENOWIN PLAIN!ROAD TO DAZIL!1.X000!DESCRIPTION!}
 	[KAVU!TACRIVA!COURTYARD!1.100!DESCRIPTION!/]
     
@@ -254,7 +275,7 @@ ______________
 AILING WARD
 	[/KAVU!TACRIVA!ALCHEMY WARD!19.200!DESCRIPTION!]
 		||
-		*WAKE up again in the Alchemy Ward. The High Mage threatens to take away your Archivist access if it happens again.
+		*WAKE up again in the Alchemy Ward. The High Magissar threatens to take away your Archivist access if it happens again.
 		
 		LAZHAM enters your dreams.*
 		(A#...){A:0,KAVU!TACRIVA!ALCHEMY WARD!20.200!DESCRIPTION!}
@@ -280,7 +301,7 @@ ______________
 ALCHEMY WARD
 	[/KAVU!TACRIVA!ALCHEMY WARD!20.200!DESCRIPTION!]
 		||
-		*WAKE up to see Lazham and the High Mage. Get sent home because Dazil needs a mage to run it.*
+		*WAKE up to see Lazham and the High Magissar. Get sent home because Dazil needs a magus to run it.*
 		(A#...){A:0,KAVU!DAZIL!KHARR MANOR!20.200!DESCRIPTION!}
 	[KAVU!TACRIVA!ALCHEMY WARD!20.200!DESCRIPTION!/]
 
@@ -366,6 +387,12 @@ EVENT WRITERS
 		*EVENT WRITER - Rik saw vision of Eidos*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KAVU!TACRIVA!ARCHIVES!9990.X3005!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!9990.X3006!DESCRIPTION!]
+		|3006:MIND!INTERSTICE!THE ORIGIN!1.X000!DESCRIPTION!|
+		*EVENT WRITER - Muninn Quest Active*
+		(A#WRITER){A:0,NO ADDRESS}
+	[KAVU!TACRIVA!ARCHIVES!9990.X3006!DESCRIPTION!/]
 
 
 

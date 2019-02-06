@@ -198,8 +198,8 @@ kavu
 |3003:false, Rik vision of Tormenos
 |3004:false, Rik vision of Wulfias
 |3005:false, Rik vision of Eidos
-|3006:false,
-|3007:false,
+|3006:false, Muninn Quest active
+|3007:false, Seen Builders' Commotion (per)
 |3008:false,
 |3009:false,
 |3010:false,
