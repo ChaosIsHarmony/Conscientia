@@ -27,26 +27,40 @@ ______________
 ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!]
 		||
-		*Eyelids slowly rise, flickering to modulate the brightness sleep kept from perception. Again? But Rikos is now used to his unwanted bouts of sleep, though still not happy about them. How long was he out for this time? He still appears to be in the Tacrivian Archives. Librarians and Magissari yet fill the space. It can be no later than <Evening Prayer Time>. He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till dusk steals the light from day and the members of the <College of Magissari> would pray for the Shining One's peaceful rest.*
+		*Light, furious and intense, burns its way into slumbering eyes, lids flickering to modulate the brightness sleep kept from perception. Again? So ite seems, but Rikos is now used to his unscheduled bouts of sleep, though still not happy about them - or rather, not happy he cannot understand why they keep coming.
+		
+		How long was he out for this time? Quiet footsteps and hushed words dully echo through myriad rows of tall bookshelves, a subtle mouldy musk permeates the stale air, and a massive, fiery clock of pure light illuminates it all... Clearly he is still in the Tacrivian Archives. Librarians and Magissari appear to have dwindled to isolated pockets, most near the cloudstones... Thus, <Evening Prayer Time> fast approaches.
+		
+		He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till dusk steals the light from day and the members of the <College of Magissari> will pray for the Shining One's peaceful rest.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!/]
 
 	[/KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!]
 		||
-		*His reasoning abilities remain unimpaired, but none of the Alchemists' tests have shown why these random bouts of sleep overtake him. Worse still are the inexplicable dreams. The physical he can tug, prod, or mould; he can test the limits, break them, and then try again until he unveils any hidden secrets. But these dreams, they are unassaible in their airy fortress of thought. So real despite their fiction. He sometimes even feels as though he has learned through them - an impossibility he would never rationally accept. Yet the fact remains that something beyond his control has forced its way into his life and he has no choice but to accept ignorance for the time being.*
+		*Despite the irregularity with his sleep cycles, his reasoning abilities remain unimpaired. For now, at least. He shudders to think on the possibilities of a deteriorating condition. To be safe, a visit to the Alchemy Ward after <Evening Prayer Time> is order, maybe there are further tests to be done, though if the High Alchemist has not figured it out by now, perhaps little hope of resolution survives.
+		
+		Worse still are the inexplicable dreams. The physical he can tug, prod, or mould; he can test the limits, break them, and then try again, until he unveils any hidden secrets. His brain is a physical entity, an object of study. But dreams are unassaible in their airy fortress of thought. So real despite their fiction, he sometimes feels he has actually learned new things through them - an impossibility he would never rationally accept. Yet the fact remains that something beyond his control has forced its way into his life and he has no choice but to accept ignorance for the time being.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!/]
 
 	[/KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!]
 		||
-		*What was it the night-Jinns would have him believe? What illusion did they just make him live through?*
+		*A thought creeps into consciousness, unbidden. A memory, but of what?*
+		(A#Let him forget.){A:1,KAVU!TACRIVA!ARCHIVES!0.0038!DESCRIPTION!}
+		(B#Let him remember.){B:1,KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!}
+		(C#Let sleeping dogs lie.){C:1,KAVU!TACRIVA!ARCHIVES!0.0038!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!]
+		||
+		*He focuses, aligning thought and will. What was it the night-Jinns would have him believe? What illusion did they just make him live through? It lingers hazily on the edge of forget, visible yet indiscernible.*
 		(A#He dreamt he was Biracul.){A:1,KAVU!TACRIVA!ARCHIVES!0.X0031!DESCRIPTION!}
 		(B#He dreamt he was the Jinnwraith.){B:1,KAVU!TACRIVA!ARCHIVES!0.X0032!DESCRIPTION!}
 		(C#He dreamt he was Thetian.){C:1,KAVU!TACRIVA!ARCHIVES!0.X0033!DESCRIPTION!}
 		(D#He dreamt he was Torma.){D:1,KAVU!TACRIVA!ARCHIVES!0.X0034!DESCRIPTION!}
 		(E#He dreamt he was Wulfias.){E:1,KAVU!TACRIVA!ARCHIVES!0.X0035!DESCRIPTION!}
 		(F#He dreamt he was Eidos.){F:1,KAVU!TACRIVA!ARCHIVES!0.X0036!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!/]
+	[KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!/]
 
 >>>Rik vision of Biracul (3000)<<<
 	[/KAVU!TACRIVA!ARCHIVES!0.X0031!DESCRIPTION!]
@@ -112,10 +126,52 @@ ARCHIVES
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.010!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.00370!DESCRIPTION!/]
 
+	[/KAVU!TACRIVA!ARCHIVES!0.0038!DESCRIPTION!]
+		||
+		*A stabbing pain shoots through his body with all the intensity of a meteorite abruptly ending its journey through space. A first. The pain, that is. A new piece of evidence in the curious case of Rikos of Dazil. Perhaps there will be a case study added to the Muninn's archive?*
+		(D#The pain subsides.){D:1,KAVU!TACRIVA!ARCHIVES!0.00380!DESCRIPTION!}
+		(E#The pain intensifies.){E:1,KAVU!TACRIVA!ARCHIVES!0.00381!DESCRIPTION!}
+		(F#The pain mutates? Hmm... Yes! Mutates!){F:1,KAVU!TACRIVA!ARCHIVES!0.00382!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0038!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00380!DESCRIPTION!]
+		||
+		*Pain from his bruised knees signal the dying of the pain that sent him crashing onto to them in the first place. Grabbing onto the table, he collects the tomes his fall scattered and then slowly picks himself up.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00380!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00381!DESCRIPTION!]
+		||
+		*Waves of ever-increasing pain ripple through him. He turns his head to vomit, all that comes out is an inky fluid. A different kind of shock sends him crashing to his knees. The pain from the fall focuses his thoughts. Grabbing onto the table, he collects the tomes his fall scattered and then slowly picks himself up.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00381!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00382!DESCRIPTION!]
+		||
+		*Waves of pain ripple through his gut, undulating, pulsating. The most bizarre sensations emerge from the chaos his innards face. These sensations are distinct, yet all add up to something grander, more magnificient than they could ever be in isolation, like pieces of some godly puzzle. The amalgamation of all these points to a single desire: to lay an egg.
+		
+		Odd. Though Rikos knows a human could not possibly do this, he somehow knows this feeling could indicate nothing else. His churning gut begins to tighten, pushing on the foreign object within. Pushing, squirming, squeezing, writhing. The egg is about to exit. He is about to give birth! A birth most divine, in fact. As if inspired by the beautiful act, the muses send a name. His child will be called 'Roostor'!
+		
+		He pushes and pushes and finally... he soils himself.
+		
+		Feeling so utterly foolish, his cheeks redden to a hue that would make Old Hamlik jealous. But what else can he do? He has to get out of here and change his trousers. Discretely, silently. He moves his chair back to stand up and it screeches on the tile, etching ugly lines into it. Pushing on the table to stand up, it cracks in half causing everything on it to come crashing down in a delicious clang that resounds throughout the entire Archives.
+		
+		>>>WHAT HAPPENS NEXT, ELIOT??!?!<<<*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00382!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00383!DESCRIPTION!]
+		||
+		*Another visit to the Alchemy Ward is now high on his list of priorities. And to make matters worse, he lost his train of thought. What was it he was trying to determine just now?
+		
+		Gone. The flame once snuffed can never be found again, it can only be replaced by a new flame.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00383!DESCRIPTION!/]
+
 
 	[/KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!]
 		||
-		*These sudden bouts of slumber had taken control of his life and he was near the end of his rope. Desperate to learn the reason behind them he had dug deep into the Archives - thankful he chose to be an Archivist, otherwise he would not have been able to. Alas, to no avail.
+		*Truly, these sudden bouts of slumber have taken control of his life. Desperate to learn the reason behind them he has dug deep into the Archives - thankful he chose to be an Archivist, otherwise he would not have been able to. Alas, to no avail.
 		
 		He was confused, swimming in a sea of anxiety, unsure about the future.*
 		(A#Everything will be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!}
