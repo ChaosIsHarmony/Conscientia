@@ -1617,7 +1617,7 @@ MEMORY KEEPER
 MIDNIGHT
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X000!MIDNIGHT!]
 		||
-		*"Yes, Brother Inquisitor? I may assist you, no?"*
+		*"Yes, Brother Inquisitar? I may assist ya, no?"*
 		(A#"Not with anything in particular. Can I help you, though?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.001!MIDNIGHT!}
 		(B#"What are you reading?"){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.002!MIDNIGHT!}
 		(C#"I just came over because you were looking my way."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.003!MIDNIGHT!}
@@ -1629,7 +1629,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.001!MIDNIGHT!]
 		||
-		*"...Well, there is somethin' I'd like to ask, if you've a moment..."*
+		*"...Well, there's somethin' I'd like to ask, if ya've a moment..."*
 		(A#"By all means, ask away!"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!}
 		(B#"I'll answer to the best of my abilities."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!}
 		(E#"Just make it quick."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.015!MIDNIGHT!}
@@ -1645,7 +1645,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.003!MIDNIGHT!]
 		||
-		*"Yes, truth is with you... It's because you're clankin of Brother Mind Seer; both of Jer, no?"*
+		*"Yes, truth's with ya... It's because ya're clankin of Brother Mind Seer; both of Jer, no?"*
 		(B#"It's indeed as you say, but what interest does my townsman hold for you?"){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0121!MIDNIGHT!}
 		(C#"We are."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.013!MIDNIGHT!}
 		(D#"And what did Brother Mind Seer do, Sister..?"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.014!MIDNIGHT!}
@@ -1653,13 +1653,13 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.004!MIDNIGHT!]
 		||
-		*"More progress made than I could've ever hoped for back amon' my clankin!"*
+		*"Mare progress made than I could've ever hoped far back with my clankin!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0040!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.004!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0040!MIDNIGHT!]
 		||
-		*"Oh, Archives are vast and the Muninns wise, filled to burstin' with tomes on the Cults Morticarum! You'd not believe the threads most uncanny tyin' together cults distant in both time and space!"*
+		*"Oh, Archives're vast and the Muninns wise! Filled to burstin' with tomes on the Cults Morticarum! Ya'd not believe the threads most uncanny tyin' together cults distant in both time and space!"*
 		(C#"I see."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
 		(D#"Cults Morticarum? They sound... dangerous..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.024!MIDNIGHT!}
 		(E#"Perhaps you should consider joining one..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!}
@@ -1667,26 +1667,26 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.005!MIDNIGHT!]
 		||
-		*"...I meant no ill will, Brother and'll take care with the direction of my gaze in the future!"*
+		*"...Meant no ill will, Brother, and'll take care with the direction of my gaze future sightin's!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!10.X000!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.005!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.006!MIDNIGHT!]
 		||
-		*"...You crossed the Mathetia to ask me this?"*
+		*"...Ya crossed the Mathetia to ask me this?"*
 		(F#"Would you prefer I ask about the gremlin conspiracy instead?"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.016!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.006!MIDNIGHT!/]
 
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!]
 		||
-		*"Thank you, Brother! Brevity in words from me, or the Darkuns take my tongue!"* 
+		*"Thank ya, Brother! Brevity in wards from me, ar the Darkuns take my tongue!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0110!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0110!MIDNIGHT!]
 		||
-		*"I'd ask more on Brother Mind Seer, for as I hear, you're the only two magi of Jer in the Order."*
+		*"I'd ask mare on Brother Mind Seer, far as I hear, ya're the only two magi of Jer in the Arder."*
 		(A#"Sure, what do you want to know?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0111!MIDNIGHT!}
 		(B#"It's as you say, but what interest does my townsman hold for you?"){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0121!MIDNIGHT!}
 		(E#"Just ask him directly!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
@@ -1706,7 +1706,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0113!MIDNIGHT!]
 		||
-		*"Obsessed, that one is, and I'd be hankerin' to know if he'd been... personally affected - hence motivatin' this investigative furor..?"*
+		*"Obsessed, that one, and I'd be hankerin' to know if he'd been... personally affected - hence motivatin' his investigative furar..?"*
 		(A#"But there've been no Dark Whispers in Jer for generations..."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0114!MIDNIGHT!}
 		(B#"His family has a history of... 'madness'. It's why he left in the first place."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0124!MIDNIGHT!}
 		(E#"His past? I neither know, nor do I care."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
@@ -1720,7 +1720,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0115!MIDNIGHT!]
 		||
-		*"By all reports, never has there been an instance discovery before the legions of the sacrificed flood the street with their own blood..."*
+		*"By all reparts, never has there been an instance of discovery befare the legions of the sacrificed's blood flooded the streets..."*
 		(A#"His family has never been accused of consorting with the Darkness."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0116!MIDNIGHT!}
 		(B#"His family has a history of... 'madness'. It's why he left."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0124!MIDNIGHT!}
 		(E#"Look, if you have any further questions, just ask him about it."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
@@ -1728,37 +1728,37 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0116!MIDNIGHT!]
 		||
-		*"Course... could just be overreactin'..."*
+		*"Of carse... could jus' be overreactin'..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0117!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0116!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0117!MIDNIGHT!]
 		||
-		*"But, I tell you, Brother, be attentive of the Mind Seer. For now, he stays on the right side of sanity, but the cults' depravity could drive the curious far beyond their limits..."*
+		*"But, I tell ya, Brother, be attentive of the Mind Seer. Far now, he stays on the right side of sanity, but the cults' depravity'd drive the curious far beyond the limits..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0118!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0117!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0118!MIDNIGHT!]
 		||
-		*"Much thanks for the time, Brother."*
+		*"Much thanks far the time, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0119!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0118!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0119!MIDNIGHT!]
 		||
-		*"Should be gettin' back to the Muninn Grove, lest I join the Vault-dwellers for neglectin' my duties."*
+		*"Should be gettin' back to the Muninn Grove, lest I join the Vault-dwellers far neglectin' my duties."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!10.X000!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0119!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!]
 		||
-		*"Thank you, Brother! Brevity in words from me, or the Darkuns take my tongue!"*
+		*"Thank ya, Brother! Brevity in wards from me, ar the Darkuns take my tongue!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0120!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0120!MIDNIGHT!]
 		||
-		*"I'd ask more on Brother Mind Seer, for as I hear, you're the only two magi of Jer in the Order."*
+		*"I'd ask more on Brother Mind Seer, far as I hear, ya're the only two magi of Jer in the Arder."*
 		(A#"Sure, what do you wish to know about him?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0111!MIDNIGHT!}
 		(B#"It is as you say, but what interest does my townsman hold for you?"){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0121!MIDNIGHT!}
 		(C#"Okay..."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.013!MIDNIGHT!}
@@ -1778,7 +1778,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0123!MIDNIGHT!]
 		||
-		*"Actions of the edge of obsession, if you ask me, and I'd be hankerin' to know if he'd been... personally affected - hence motivatin' this investigative furor..?"*
+		*"Actions on the edge of obsession, if ya ask me, and I'd be hankerin' to know if he'd been... personally affected - hence motivatin' his investigative furar..?"*
 		(A#"There've been no Dark Whispers in Jer for generations..."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0114!MIDNIGHT!}
 		(B#"His family has a history of... 'madness'. It's why he left."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0124!MIDNIGHT!}
 		(C#"I think you should just ask him."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
@@ -1786,13 +1786,13 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0124!MIDNIGHT!]
 		||
-		*"Madness? Foreshadow of ill tidin's, that."*
+		*"Madness? Fareshadow of ill tidin's, that."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0125!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0124!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0125!MIDNIGHT!]
 		||
-		*"Historically speakin', see, only Jer, Zemes and Neflim've fallen under charnel shadows, and in these cursed places madness is the mark of sanity - only the mad see what's invisible to the eye."*
+		*"Histarically speakin', see, only Jer, Zemes and Neflim've fallen under charnel shadows, and in these cursed places madness is the mark of sanity - only the mad see what's invisible to the sane."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0117!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0125!MIDNIGHT!/]
 
@@ -1810,7 +1810,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0131!MIDNIGHT!]
 		||
-		*"Actions of the edge of obsession, if you ask me, and I'd be hankerin' to know if he'd been... personally affected - hence motivatin' this investigative furor..?"*
+		*"Actions on the edge of obsession, if ya ask me, and I'd be hankerin' to know if he'd been... personally affected - hence motivatin' his investigative furar..?"*
 		(B#"His family has a history of... 'madness'. It's why he left."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0124!MIDNIGHT!}
 		(C#"I think you should just ask him."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
 		(D#"Cults Morticarum? They sound... dangerous..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.024!MIDNIGHT!}
@@ -1821,16 +1821,16 @@ MIDNIGHT
 		*"Well... been requestin' many a tome regardin' the Cults Morticarum of Jer, that one has..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0140!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.014!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0140!MIDNIGHT!]
 		||
 		*"Troublin', that, truth come to light."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0141!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0140!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0141!MIDNIGHT!]
 		||
-		*"Actions of the edge of obsession, if you ask me, and I'd be hankerin' to know if he'd been... personally affected - hence motivatin' this investigative furor..?"*
+		*"Actions on the edge of obsession, if ya ask me, and I'd be hankerin' to know if he'd been... personally affected - hence motivatin' his investigative furar..?"*
 		(C#"I think you should just ask him."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
 		(D#"Cults Morticarum? They sound... dangerous..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.024!MIDNIGHT!}
 		(E#"His past? I neither know, nor do I care."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
@@ -1838,19 +1838,19 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.015!MIDNIGHT!]
 		||
-		*"...I can ask some other time. I'd not wish to hold you up, anyhow; busy you must be."* 
+		*"...I can ask some other time. I'd not wish to hold ya up, no? Busy as ya must be."* 
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0150!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.015!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0150!MIDNIGHT!]
 		||
-		*"You're to report your findin's to the Choir today, no?"*
+		*"Ya're to repart yar findin's to the Choir today, no?"*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0151!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0150!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0151!MIDNIGHT!]
 		||
-		*"All us Archivists of the Muninn Grove've had to sate ourselves with whispers of the wildest speculation ever since we heard you discovered the core memories of the Wayfarer!"*
+		*"All us Archivists of the Muninn Grove've had to sate ourselves with whispers of the wildest speculation ever since we heard you discovered the care mem'ries of the Wayfarer!"*
 		(A#"I should go report, but you can ask your question first."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!}
 		(D#"Yes, I'm terribly busy; I'd best be on my way!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
 		(E#"If you're not going to ask, them I'm leaving."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
@@ -1858,32 +1858,32 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!]
 		||
-		*"Yes... course, Brother. I'll be leavin'. Sorry to have brought darkness to you."*
+		*"Yes... carse, Brother. I'll be leavin'. Sorry to have brought darkness to ya."*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!10.X000!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.016!MIDNIGHT!]
 		||
-		*"I suppose... I'd prefer you didn't. Well, suffice to say that I've no good answer for either inquiry."*
+		*"I suppose... I'd prefer ya didn't. Well, suffice to say I've no good answer far either inquiry."*
 		(F#"Drat! Would you mind making a reason up then?"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.026!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.016!MIDNIGHT!/]
 
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.021!MIDNIGHT!]
 		||
-		*"Indeed, but the morose shouldn't be avoided because its abhorrence. Truth come to light, we can learn it to disempower its sway over us!"*
+		*"Indeed, but the marose shouldn' be avoided 'cause its abhorrence. Truth come to light, we can learn it to disempower its sway over us!"*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0210!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.021!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0210!MIDNIGHT!]
 		||
-		*"By knowin' the underlyin' connections between the cults, we might can be the ones to dissolve them!"*
+		*"By knowin' the underlyin' connections between the cults, we can be the ones to dissolve them!"*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0211!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0210!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0211!MIDNIGHT!]
 		||
-		*"no?"*
+		*"No?"*
 		(A#"It's as you say, Sister."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0212!MIDNIGHT!}
 		(B#"Speak more on these so-called connections."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.022!MIDNIGHT!}
 		(E#"I've better things to do."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
@@ -1894,272 +1894,266 @@ MIDNIGHT
 		*"Right?!"*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0213!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0212!MIDNIGHT!/]
-
+???
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0213!MIDNIGHT!]
 		||
 		*"But... I've indeed found that there's a price for Awareness, paid in loss of sanity."*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0214!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0213!MIDNIGHT!/]
-???
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0214!MIDNIGHT!]
 		||
-		*"From years of walking the Path of Discipline, I have been able to temper the negative effects, but I'm not sure how others busier with their respective duties would fare..."* 
+		*"An hour a day at the Path helps temper the negative effects, no? But others busier might fare less than well..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0215!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0214!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0215!MIDNIGHT!]
 		||
-		*"Brother Inquisitor, there is something I would like to ask, if you have a moment..."*
+		*"Brother Inquisitor, you mind a question, would you?"*
 		(A#"By all means, ask away!"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!}
-		(B#"I will answer to the best of my abilities."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!}
+		(B#"If I can answer, I will."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!}
 		(E#"Just make it quick."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.015!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0215!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.022!MIDNIGHT!]
 		||
-		*"There are far too many similarities to offer an exhaustive list right now..."*
+		*"There're far too many similarities to offer an exhaustive list, mind."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0220!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.022!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0220!MIDNIGHT!]
 		||
-		*"But suffice it to say black masses held at midnight in worship of the Mother of the Abyss, Mindscape fugues being chased by nameless and unseen evils driving men to madness, three and only three locations ever having records of such loathsome factions..."* 
+		*"But suffice to say, black masses held at midnight in worship of the Abyssal Mother, bein' chased by nameless and unseen evils in Mindscape fugues drivin' men to madness, three and only three locations ever havin' records of these happenin's..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0221!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0220!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0221!MIDNIGHT!]
 		||
-		*"Oh! And the fact that they all lead to mysterious mass suicide pacts!"*
+		*"And, course, they all lead to mass suicides!"*
 		(A#"Hmm, knowledge is power; studying them might help stop the cults."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0212!MIDNIGHT!}
-		(B#"Who is behind all of this?"){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0222!MIDNIGHT!}
+		(B#"Who's behind all of this?"){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0222!MIDNIGHT!}
 		(C#"I see."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0221!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0222!MIDNIGHT!]
 		||
-		*"Now this is mere speculation on my part, but I suspect that there is a connection with the Dark Master of the Thiuda!"* 
+		*"Now this's mere speculation, mind, but I 'spect there's a connection with the Dark Master of the Thiuda."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0223!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0222!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0223!MIDNIGHT!]
 		||
-		*"I mean, all the cults worship a dark, feminine idol, who else could have started it? Yet, she must have died at least around the fall of the Thiuda hundreds of years ago."*
+		*"I mean, all the cults worship a dark, feminine idol, who else could that be? Yet, she must've died 'round the fall of the Thiuda."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0224!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0223!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0224!MIDNIGHT!]
 		||
-		*"So the real question is, who continues to perform her dark rituals?"*
+		*"So, real question is, who took up where she left off?"*
 		(A#"Hmm, knowledge is power; studying them might help stop the cults."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0212!MIDNIGHT!}
-		(B#"Who's to say she does not yet live? Immortality was easy for the Vanquished."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0225!MIDNIGHT!}
+		(B#"Could she not yet live? Immortality was trivial for the Vanquished."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0225!MIDNIGHT!}
 		(C#"I see."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0224!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0225!MIDNIGHT!]
 		||
-		*"But their secrets died along with them. Even the great Thiuda were but a rough band of thugs in comparison..."* 
+		*"Truth be on you, but their secrets died with 'em. Even the Thiuda were nothin' but a day-born foal in comparison..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0225!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!]
 		||
-		*"There is one other possibility, something likely familiar to you, Brother Inquisitor..."* 
+		*"There's another possibility, somethin' likely familiar to ya, Brother Inquisitor..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0227!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0227!MIDNIGHT!]
 		||
 		*"The Eidos."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0228!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0227!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0228!MIDNIGHT!]
 		||
-		*"She is revered among the mystics of your homeland, a group quite likely associated with the Cults Morticarum of Jer."* 
+		*"She's revered amon' the mystics of yar homeland, and them quite likely associated with the Cults Morticarum of Jer."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0229!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0228!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0229!MIDNIGHT!]
 		||
-		*"Could they not be selecting female leaders over the generations to play off the primitive beliefs of the uneducated?"*
+		*"Couldn' they be selectin' female leaders to play off 'primitive' beliefs as uneducated?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0229!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!]
 		||
-		*"I apologize, Brother; I am easily excited at the thought of discovering the shadowy beings behind these cults!"* 
+		*"Birak's beard! 'Pologize, Brother; I'm easily excited at the thought of discoverin' who's castin' shadows! Jus' know there's gotta be some trick to it."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!]
 		||
-		*"So much so that I drone on more than is necessary..."* 
+		*"To the point, I drone on more than a broken cloudstone..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!]
 		||
-		*"But, actually, if you have a moment, Brother Inquisitor, I wonder if I could ask you about another topic..."* 
+		*"But, actually, if ya've a moment, Brother Inquisitor, I've been wonderin' about another topic..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0232!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0232!MIDNIGHT!]
 		||
-		*"About Brother Mind Seer?"*
-		(B#"I will answer to the best of my abilities."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!}
+		*"About Brother Mind Seer, if it pleases ya."*
+		(B#"I'll answer if I can."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!}
 		(C#"I think you should just ask him."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
-		(D#"Why is it you wish to speak of Brother Mind Seer, Sister..?"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.014!MIDNIGHT!}
+		(D#"Why's it you wish to speak of Brother Mind Seer, Sister..?"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.014!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0232!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.024!MIDNIGHT!]
 		||
 		*"And indeed they are!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0240!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.024!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0240!MIDNIGHT!]
 		||
-		*"Historically, they have decimated populations over the centuries and when the collective memory of the last one is forgotten and decadence once more darkens the light of Awareness, they reappear to perform a ritual cleansing!"* 
+		*"Histarically, they've decimated pop'lations and when collective mem'ry of the last one fades to farget, decadence darkens the light of Awareness anew, and the cults reappear far ritual cleansin'!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0241!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0240!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0241!MIDNIGHT!]
 		||
-		*"Astonishing that even after centuries of existence, they are only known to those who seek them out..."*
+		*"Insanity, it is, that even after centuries of existence, they're only known to those who seek 'em out - like yar humble sister, here..."*
 		(C#"That's great, but I think I should be going..."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
 		(D#"Is there no way to stop them?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0242!MIDNIGHT!}
 		(E#"Sometimes I think about performing a 'cleansing' of my own."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0241!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0242!MIDNIGHT!]
 		||
-		*"Well, all I can say is that the cults have remained undetected for countless generations and are only theorized to exist because of their visible effects..."*
+		*"Well, all I can say's the cults've been panthers in shadows far countless generations, and're only indirectly known by their murderous effects..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0243!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0242!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0243!MIDNIGHT!]
 		||
-		*"To stop them, you would need to stop their source..."*
+		*"To stop 'em, ya'd need to nip the source..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0244!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0243!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0244!MIDNIGHT!]
 		||
-		*"Now this is mere speculation on my part, but I suspect that there is a connection with the Dark Master of the Thiuda."*
+		*"Now this's mere speculation, mind, but I 'spect there's a connection with the Dark Master of the Thiuda."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0245!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0244!MIDNIGHT!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0245!MIDNIGHT!]
 		||
-		*"I mean, all the cults worship a dark, feminine idol, who else could have started it?"* 
+		*"I mean, all the cults worship a dark, feminine idol, who else could that be? Yet, she must've died 'round the fall of the Thiuda."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0246!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0245!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0246!MIDNIGHT!]
 		||
-		*"Yet, she must have died at least around the fall of the Thiuda hundreds of years ago."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0247!MIDNIGHT!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.0246!MIDNIGHT!/]
-	
-	[/ENCLAVE!ARCHIVES!MATHETIA!0.0247!MIDNIGHT!]
-		||
-		*"So the real question is, who continues to perform her dark rituals?"*
+		*"So, real question is, who took up where she left off?"*
 		(C#"I see."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
-		(D#"What more do you have to say?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.034!MIDNIGHT!}
-		(E#"Who even cares? I've got better things to do than this."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.0247!MIDNIGHT!/]
-	
+		(D#"I think I've heard enough of this..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.034!MIDNIGHT!}
+		(E#"Who even cares? All idiots that die deserve it."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.0246!MIDNIGHT!/]
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!]
 		||
-		*"...Your words are... dark... Brother."* 
+		*"...Yar words're... dark... Brother."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0250!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0250!MIDNIGHT!]
 		||
-		*"I imagine the stress from the Mind-Loom wears on your psyche; I sure hope the Choir gives you a much needed rest after your assignment with the Wayfarer..."*
+		*"I imagine the stress from the Mind-Loom wears on yar psyche; sure hope the Choir gives ya a much needed rest after yar assignment with the Wayfarer..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0251!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0250!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0251!MIDNIGHT!]
 		||
-		*"Perhaps I had best leave you to your duties, Brother."*
+		*"Perhaps I'd best leave ya to yar duties, Brother."*
 		(A#"Thank you, I should be fine."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
 		(D#"Not yet! What more do you have to say?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.034!MIDNIGHT!}
-		(E#"Yes, unless you wish for the cleansing to begin with you..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
+		(E#"Yes, unless you wanna find out where the cults takes their victims..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0251!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.026!MIDNIGHT!]
 		||
-		*"I am a Sister of the Order of the Enclave! I do not 'make up' facts; I uncover them!"*
+		*"I'm a Sister of the Arder of the Enclave! I don' 'make up' facts; I uncover 'em!"*
 		(F#"Oh, okay..."){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0260!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.026!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0260!MIDNIGHT!]
 		||
 		*"..."*
 		(F#"...so is that a no? It sounds like a definite maybe, but..."){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0261!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0260!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0261!MIDNIGHT!]
 		||
-		*"Brother, I advise you to go for a relaxation session in the Scriptorium, if you haven't already made your visit for this cycle."*
+		*"Brother, I advise ya to go far a relaxation session in the Scriptarium, if ya haven't already made the visit far this cycle."*
 		(F#"...hmmm..."){F:0,ENCLAVE!ARCHIVES!MATHETIA!0.0262!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0261!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0262!MIDNIGHT!]
 		||
-		*"I feel... the stress of the Wayfarer's assignment has taken its toll."*
+		*"I feel... the stress of the Wayfarer's assignment 'as taken its toll."*
 		(F#"Well... Uh... Damn! I wish you had my name!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0263!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0262!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0263!MIDNIGHT!]
 		||
-		*"Dare I ask why?"*
+		*"Dare I ask why ya'd want that?"*
 		(F#"So I could tell you to change it to 'Bore-menos'! Ha!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0264!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0263!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0264!MIDNIGHT!]
 		||
-		*"Indeed, Brother. Please hurry to the Scriptorium, lest it become too late to salvage the remnants of your psyche..."*
+		*"Indeed, Brother. Hurry on over to the Scriptarium, lest it become too late to salvage what lil' remains of yar sanity..."*
 		(F#"Worry not! My mind is already far past the point of no return!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!10.X000!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0264!MIDNIGHT!/]
-	
-		
+
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.034!MIDNIGHT!]
 		||
-		*"...Well, there is something I would like to ask, if you have a moment..."*
+		*"...Well, there's somethin' I'd like to ask, if ya've a moment..."*
 		(A#"By all means, ask away!"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!}
-		(D#"Fool! Tell me of the Cults Morticarum, and do not ask questions!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0340!MIDNIGHT!}
+		(D#"Fool! I don't want to answer your questions! Tell me of the Cults Morticarum!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0340!MIDNIGHT!}
 		(E#"Just make it quick."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.015!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.034!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0340!MIDNIGHT!]
 		||
-		*"...Of course, Brother... Well, there are far too many similarities to offer an exhaustive list right now."* 
+		*"...Of carse, Brother... Well, there're far too many sim'larities to offer an exhaustive list."* 
 		(D#"Go on!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0341!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0340!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0341!MIDNIGHT!]
 		||
-		*"But suffice it to say black masses held at midnight in worship of the Mother of the Abyss, Mindscape fugues being chased by nameless and unseen evils driving men to madness, three and only three locations ever having records of such loathsome factions..."*
+		*"But suffice to say black masses held at midnight in worship of the Mother of the Abyss, Mindscape fugues being chased by nameless and unseen evils driving men to madness, three and only three locations ever having records of such loathsome factions..."*
 		(D#"What else?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0342!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0341!MIDNIGHT!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0342!MIDNIGHT!]
 		||
-		*"These are but a few of the commonalities tying these groups together!"*
+		*"These're but a few of the comm'nalities tyin' the cults together..."*
 		(D#"And?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0343!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0342!MIDNIGHT!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0343!MIDNIGHT!]
 		||
-		*"Brother... I'm afraid... I have nothing more to add... other than that you are frightening me."*
-		(D#"Bah! If you have no more to say, then get out of my sight!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
+		*"Brother... 'fraid, I've nothin' mare to add... other than ya're frightenin' me."*
+		(D#"Bah! If you've got no more to say, then out of my sight!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0343!MIDNIGHT!/]
-		
-	
-	
+
+
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!10.X000!MIDNIGHT!]
 		||
 		*MULTICHECKER*
