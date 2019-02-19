@@ -1680,7 +1680,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!]
 		||
-		*"Thank ya, Brother! Brevity in wards from me, ar the Darkuns take my tongue!"* 
+		*"Thank ya, Brother! Brevity in wards from me, ar the Darkun take my tongue!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0110!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!/]
 
@@ -1752,7 +1752,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!]
 		||
-		*"Thank ya, Brother! Brevity in wards from me, ar the Darkuns take my tongue!"*
+		*"Thank ya, Brother! Brevity in wards from me, ar the Darkun take my tongue!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0120!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!/]
 
@@ -1894,22 +1894,22 @@ MIDNIGHT
 		*"Right?!"*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0213!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0212!MIDNIGHT!/]
-???
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0213!MIDNIGHT!]
 		||
-		*"But... I've indeed found that there's a price for Awareness, paid in loss of sanity."*
+		*"But... I've indeed found there's a price for Awareness, paid in loss of sanity."*
 		(A#..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0214!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0213!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0214!MIDNIGHT!]
 		||
-		*"An hour a day at the Path helps temper the negative effects, no? But others busier might fare less than well..."* 
+		*"An hour a day at the Path helps temper any negative effects, no? But others busier might fare warse than a... a Suyuti's goat... wait, that's Kaban... far Jer it'd be... than virgin with the Wyrm, no?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0215!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0214!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0215!MIDNIGHT!]
 		||
-		*"Brother Inquisitor, you mind a question, would you?"*
+		*"In any event, Brother Inquisitar, I'd been wonderin', you mind a question, would you?"*
 		(A#"By all means, ask away!"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.011!MIDNIGHT!}
 		(B#"If I can answer, I will."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.012!MIDNIGHT!}
 		(E#"Just make it quick."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.015!MIDNIGHT!}
@@ -1917,19 +1917,19 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.022!MIDNIGHT!]
 		||
-		*"There're far too many similarities to offer an exhaustive list, mind."*
+		*"There're far too many sim'larities to offer an exhaustive list, mind."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0220!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.022!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0220!MIDNIGHT!]
 		||
-		*"But suffice to say, black masses held at midnight in worship of the Abyssal Mother, bein' chased by nameless and unseen evils in Mindscape fugues drivin' men to madness, three and only three locations ever havin' records of these happenin's..."* 
+		*"But suffice to say, ya'd have black masses held at midnight in warship of the Abyssal Mother, ar bein' chased by nameless, unseen evils in Mindscape fugues drivin' men to madness, ar better yet, three and only three locations ever even havin' recards of these happenin's..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0221!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0220!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0221!MIDNIGHT!]
 		||
-		*"And, course, they all lead to mass suicides!"*
+		*"And, carse, all cases leadin' to mass suicides!"*
 		(A#"Hmm, knowledge is power; studying them might help stop the cults."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0212!MIDNIGHT!}
 		(B#"Who's behind all of this?"){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0222!MIDNIGHT!}
 		(C#"I see."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
@@ -1937,13 +1937,13 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0222!MIDNIGHT!]
 		||
-		*"Now this's mere speculation, mind, but I 'spect there's a connection with the Dark Master of the Thiuda."*
+		*"Now this's mere speculation, mind, but I 'spect there's a connection with the Darkun of the Thiuda."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0223!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0222!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0223!MIDNIGHT!]
 		||
-		*"I mean, all the cults worship a dark, feminine idol, who else could that be? Yet, she must've died 'round the fall of the Thiuda."*
+		*"I mean, all the cults do warship a dark, feminine idol, and who else'd that be? Yet, she must've died 'round the fall of the Thiuda."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0224!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0223!MIDNIGHT!/]
 
@@ -1957,13 +1957,13 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0225!MIDNIGHT!]
 		||
-		*"Truth be on you, but their secrets died with 'em. Even the Thiuda were nothin' but a day-born foal in comparison..."* 
+		*"Truth be on ya, but their secrets died with 'em. Even the Thiuda were nothin' but a newbarn foal in comparison..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0225!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!]
 		||
-		*"There's another possibility, somethin' likely familiar to ya, Brother Inquisitor..."* 
+		*"There's another possibility, somethin' likely fam'liar to ya, Brother Inquisitar..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0227!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0226!MIDNIGHT!/]
 
@@ -1975,7 +1975,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0228!MIDNIGHT!]
 		||
-		*"She's revered amon' the mystics of yar homeland, and them quite likely associated with the Cults Morticarum of Jer."* 
+		*"She's revered amon' the mystics of yar homeland, likely associates to the Cults Morticarum of Jer."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0229!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0228!MIDNIGHT!/]
 
@@ -1987,19 +1987,19 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!]
 		||
-		*"Birak's beard! 'Pologize, Brother; I'm easily excited at the thought of discoverin' who's castin' shadows! Jus' know there's gotta be some trick to it."* 
+		*"Birak's beard! 'Pologize, Brother; I'm easily excited at the thought of discoverin' who's castin' shadows on truth's face! Jus' know there's gotta be some trick to it."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!]
 		||
-		*"To the point, I drone on more than a broken cloudstone..."* 
+		*"Still, shouldn' be dronin' on more than a broken cloudstone..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0230!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!]
 		||
-		*"But, actually, if ya've a moment, Brother Inquisitor, I've been wonderin' about another topic..."* 
+		*"But, actually, if ya've a moment, Brother Inquisitar, I've been wonderin' about another topic..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0232!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0231!MIDNIGHT!/]
 
@@ -2019,13 +2019,13 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0240!MIDNIGHT!]
 		||
-		*"Histarically, they've decimated pop'lations and when collective mem'ry of the last one fades to farget, decadence darkens the light of Awareness anew, and the cults reappear far ritual cleansin'!"* 
+		*"Histarically, they've decimated pop'lations and when collective mem'ry of the last'un fades to farget, decadence darkens the light of Awareness anew, and the cults reappear far 'ritual' cleansin'!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0241!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0240!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0241!MIDNIGHT!]
 		||
-		*"Insanity, it is, that even after centuries of existence, they're only known to those who seek 'em out - like yar humble sister, here..."*
+		*"Insanity, it is, that even after cent'ries of existence, they're only known to those who seek 'em out - like yar humble sister, here..."*
 		(C#"That's great, but I think I should be going..."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
 		(D#"Is there no way to stop them?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0242!MIDNIGHT!}
 		(E#"Sometimes I think about performing a 'cleansing' of my own."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!}
@@ -2039,19 +2039,19 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0243!MIDNIGHT!]
 		||
-		*"To stop 'em, ya'd need to nip the source..."*
+		*"To stop 'em, ya'd need to nip the source, but how ya gonna prune rose bushes in the dark?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0244!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0243!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0244!MIDNIGHT!]
 		||
-		*"Now this's mere speculation, mind, but I 'spect there's a connection with the Dark Master of the Thiuda."*
+		*"Now this's mere speculation, mind, but I 'spect there's a connection with the Darkun of the Thiuda."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0245!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0244!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0245!MIDNIGHT!]
 		||
-		*"I mean, all the cults worship a dark, feminine idol, who else could that be? Yet, she must've died 'round the fall of the Thiuda."*
+		*"I mean, all the cults warship a dark, feminine idol, who else could that be? Yet, she must've died 'round the fall of the Thiuda."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0246!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0245!MIDNIGHT!/]
 
@@ -2071,13 +2071,13 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0250!MIDNIGHT!]
 		||
-		*"I imagine the stress from the Mind-Loom wears on yar psyche; sure hope the Choir gives ya a much needed rest after yar assignment with the Wayfarer..."*
+		*"I'm imaginin' the stress from the Mind-Loom wears on yar psyche; sure hope the Choir gives ya some rest after the Wayfarer..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0251!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0250!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0251!MIDNIGHT!]
 		||
-		*"Perhaps I'd best leave ya to yar duties, Brother."*
+		*"'Haps I'd best leave ya to yar duties, Brother."*
 		(A#"Thank you, I should be fine."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
 		(D#"Not yet! What more do you have to say?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.034!MIDNIGHT!}
 		(E#"Yes, unless you wanna find out where the cults takes their victims..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0152!MIDNIGHT!}
@@ -2097,13 +2097,13 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0261!MIDNIGHT!]
 		||
-		*"Brother, I advise ya to go far a relaxation session in the Scriptarium, if ya haven't already made the visit far this cycle."*
+		*"Brother, I advise ya to go far a relaxation session in the Scriptarium - provided ya haven't already made the visit this cycle."*
 		(F#"...hmmm..."){F:0,ENCLAVE!ARCHIVES!MATHETIA!0.0262!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0261!MIDNIGHT!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0262!MIDNIGHT!]
 		||
-		*"I feel... the stress of the Wayfarer's assignment 'as taken its toll."*
+		*"I feel... the stress of the Wayfarer assignment has taken its toll."*
 		(F#"Well... Uh... Damn! I wish you had my name!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0263!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0262!MIDNIGHT!/]
 
@@ -2115,7 +2115,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0264!MIDNIGHT!]
 		||
-		*"Indeed, Brother. Hurry on over to the Scriptarium, lest it become too late to salvage what lil' remains of yar sanity..."*
+		*"Indeed, Brother. Hurry on over to the Scriptarium, lest the Darkun take yar sanity..."*
 		(F#"Worry not! My mind is already far past the point of no return!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!10.X000!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0264!MIDNIGHT!/]
 
@@ -2136,16 +2136,16 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0341!MIDNIGHT!]
 		||
-		*"But suffice to say black masses held at midnight in worship of the Mother of the Abyss, Mindscape fugues being chased by nameless and unseen evils driving men to madness, three and only three locations ever having records of such loathsome factions..."*
+		*"But suffice to say it'd include black masses held at midnight in warship of the Mother of the Abyss, ar Mindscape fugues of bein' chased by evils both nameless and unseen, drivin' men to madness, ar even three and only three locations ever having records of such happenin's..."*
 		(D#"What else?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0342!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0341!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0342!MIDNIGHT!]
 		||
 		*"These're but a few of the comm'nalities tyin' the cults together..."*
 		(D#"And?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0343!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0342!MIDNIGHT!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0343!MIDNIGHT!]
 		||
 		*"Brother... 'fraid, I've nothin' mare to add... other than ya're frightenin' me."*
@@ -2159,9 +2159,9 @@ MIDNIGHT
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!10.X000!MIDNIGHT!/]
-	
-	
-	
+
+
+
 
 ________________________________________________________________________
 MUNINN GROVE
@@ -2176,11 +2176,9 @@ virgin run
 >>>Witnessed theory v practice debate (2027)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X001!DESCRIPTION!]
 		|^2027:ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!DESCRIPTION!|
-		*As he sets foot into the grove, Ormenos cannot help but muse that stagnant air of the underhalls and corridors is anything but pleasant. However, the dank and wretched stench of stale air permeating the Archive corridors is but a forgotten memory as the mage takes his first breath in the shadowless Muninn Grove. Despite its subterranean location, the lights from myriad crystals cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles. Truly is it worthy of its colloquial appellation as the "Garden of Awareness".
-		
-		The massive chamber gradually slopes downward, deep into the roots of the mountain. The elder Muninn trees sprawl their limbs across the ceiling ever-searching for greater expanses to accommodate their vast contents.
-		
-		Many junior magi are busy at work, tending to the sapplings, arranging crystalline arrays to direct their growth. Whereas, more senior Archivists deliver memories to slake the larger Muninns' thirst for information. Countless generations of Enclavean brothers and sisters have contributed their wide range of expertise to fuel this gluttonous grove.
+		*The dank stench of the stale air permeating the Archive corridors is but a forgotten memory as the Ormenos steps into the shadowless Muninn Grove. Lights from myriad crystal arrays cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles.	The massive chamber gradually slopes downward, deep into the mountain's bowels, trees filling every last nook and cranny all the way to the area's invisible limits. Muninn limbs reach across the ceiling and along the walls, ever-searching for space to accommodate their vast contents.
+
+		Many junior Archivists are busy at work, mostly tending to sapplings or arranging crystalline arrays to direct their growth, while more senior Archivists share memories to slake the larger Muninns' thirst for information. Memories abound within the network of Muninns, enough to make the stars seem countable. Even if the Order remains undisturbed for milennia to come, they will never be able to catalog all the ones predating the Order itself. The impossibility of the task brings a bitter smirk to Ormenos' lips, curling them ever so slightly skyward. The curls begin to spiral when he thinks of the Thought Wheel of the Beginning; its contents will make this grove seem hair to a mane. <something about a memory from the Wayfarer like an allusion Sisyphus>???
 		
 		And near the entrance to this miracle of modern artifice is the Curator, most senior among the Archivists.*
 		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
