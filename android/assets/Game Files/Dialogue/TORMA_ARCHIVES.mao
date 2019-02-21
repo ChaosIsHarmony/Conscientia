@@ -1053,7 +1053,7 @@ MATHETIA
 
         His options number few: he could return to the foyer of the Mathetia, enter the Scriptorium, or pay a visit to the Muninn Grove.*
 		(A#Enter the Scriptorium){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X001200!DESCRIPTION!}
-		(B#Visit the Muninn Grove){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X001!DESCRIPTION!}
+		(B#Visit the Muninn Grove){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00100!DESCRIPTION!}
 		(C#Return to the foyer){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!/]
 
@@ -2173,64 +2173,72 @@ MUNINN GROVE
 
 	
 virgin run
->>>Witnessed theory v practice debate (2027)<<<
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X001!DESCRIPTION!]
-		|^2027:ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!DESCRIPTION!|
-		*The dank stench of the stale air permeating the Archive corridors is but a forgotten memory as the Ormenos steps into the shadowless Muninn Grove. Lights from myriad crystal arrays cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles.	The massive chamber gradually slopes downward, deep into the mountain's bowels, trees filling every last nook and cranny all the way to the area's invisible limits. Muninn limbs reach across the ceiling and along the walls, ever-searching for space to accommodate their vast contents.
-
-		Many junior Archivists are busy at work, mostly tending to sapplings or arranging crystalline arrays to direct their growth, while more senior Archivists share memories to slake the larger Muninns' thirst for information. Memories abound within the network of Muninns, enough to make the stars seem countable. Even if the Order remains undisturbed for milennia to come, they will never be able to catalog all the ones predating the Order itself. The impossibility of the task brings a bitter smirk to Ormenos' lips, curling them ever so slightly skyward. The curls begin to spiral when he thinks of the Thought Wheel of the Beginning; its contents will make this grove seem hair to a mane. <something about a memory from the Wayfarer like an allusion Sisyphus>???
-		
-		And near the entrance to this miracle of modern artifice is the Curator, most senior among the Archivists.*
-		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
-		(B#Approach the Curator){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0010!DESCRIPTION!}
-		(C#Leave){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X001!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!DESCRIPTION!]
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00100!DESCRIPTION!]
 		||
-		*As he sets foot into the grove, Ormenos cannot help but muse that stagnant air of the underhalls and corridors is anything but pleasant. However, the dank and wretched stench of stale air permeating the Archive corridors is but a forgotten memory as the mage takes his first breath in the shadowless Muninn Grove. Despite its subterranean location, the lights from myriad crystals cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles. Truly is it worthy of its colloquial appellation as the "Garden of Awareness".
-		
-		The massive chamber gradually slopes downward, deep into the roots of the mountain. Though not lacking in height, the elder Muninn trees sprawl their limbs across the ceiling ever-searching for greater expanses to accommodate their vast contents.
-		
-		Many junior magi are busy at work, tending to the sapplings, arranging crystalline arrays to direct their growth. Whereas, more senior Archivists deliver memories to slake the larger Muninns' thirst for information. Countless generations of Enclavean brothers and sisters have contributed their wide range of expertise to fuel this gluttonous grove.
-		
-		And near the entrance to this miracle of modern artifice is the Curator, most senior among the Archivists, and recently seen by Ormenos in Mathetia as he debated the Overseer of the Huginn Grove for primacy of importance.*
+		*The dank stench of stale air in the Archive corridors fades to forget as the Ormenos steps into the shadowless Muninn Grove. Lights from myriad crystal arrays cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles.	The massive chamber gradually slopes downward, deep into the mountain's bowels, trees filling every last nook and cranny all the way to the area's invisible limits. Muninn limbs stretch across the ceiling and all along the walls, ever-searching for space to accommodate their expanding contents.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00101!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00100!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!]
+		||
+		*Many junior Archivists are busy at work, often tending to sapplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task curls a bitter smirk on Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves when his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00102!DESCRIPTION!]
+		||
+        *Ormenos muses on his musings, remembering the tale the Sumarkandian witch from the Wayfarer's archives. Something about a man condemned to roll a boulder up a mountain path only to always have it roll back down. In the witch's story it was designed to warn of obsession with hopeless tasks, but Ormenos always found an ineffable nobility in the project - though perhaps Sister Gate Keeper was right, that madness was simply beginning to sequester his wits; he dared not think too long on the possibility.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X00103!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00102!DESCRIPTION!/]
+
+>>>Witnessed theory v practice debate (2027)<<<
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00103!DESCRIPTION!]
+		|^2027:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00104!DESCRIPTION!|
+		×Motion drew his ghost back to the physical space before him and he began to search for whatever it is he came here to do - if he could only remember why he came in the first place. His eyes land on the Curator, most senior among the Archivists, a stone's throw from his current locus.*
 		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
 		(B#Approach the Curator){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0010!DESCRIPTION!}
 		(C#Leave){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!DESCRIPTION!/]
-	
-	
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00103!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00104!DESCRIPTION!]
+		||
+		*Motion draws his attention back to reality, and he begins to search for what brought him here - now, if only he could remember why he came in the first place. His eyes land on the Curator, most senior among the Archivists, a stone's throw from his current locus. A second thought comes in near simultaneity, that perhaps the recent debate took all the talk out of the excitable Curator - though in Ormenos' experience, Brother Memory Keeper's average conversation might fill a Muninn or two.*
+		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
+		(B#Approach the Curator){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0010!DESCRIPTION!}
+		(C#Leave){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00104!DESCRIPTION!/]
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0010!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0011!DESCRIPTION!|
-		*Ormenos approaches the Curator to speak. Giving a sideways glance and then renewing his scrutiny of some documents lazily strewn about his desk, he addresses Ormenos.*
+		*Ormenos approaches the Curator to speak. The Curator lazily scrutinizes of some documents chaotically strewn about his desk, trying his best to ignore the visitor. Curiosity and pride battle ferociously across his face. Eyes twitch and brows furrow; snarls roll in waves across his upper lip; and breifly his hands join the fight, seemingly trying to compress his cheeks into a single point. Yet almost as soon as it had started, the war ends, curiosity the victor - a safe bet with any Enclavean.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9999.X1210!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0010!DESCRIPTION!/]
-	
+
 >>>Agreed to go Gremlin Hunting (2077)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0011!DESCRIPTION!]
 		|^2077:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00110!DESCRIPTION!|
-		*The conversation at an end, the Memory Keeper actively tries to ignore Ormenos, feigning a preoccupation with some meaningless documents. There is no more conversation to be had here, it seems.*
+		*The conversation at an end, the Memory Keeper resumses his active ignoring, randomly rearranging piles of documents while inaudibly conversing with himself - though this is an exclusive conversation, it seems.*
 		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0011!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00110!DESCRIPTION!]
 		||
-		*Giddy as an aroused jackrabbit, the Memory Keeper quickens his pace to the door, beckoning Ormenos, demanding he make haste so that they can begin their new life together. There is such a sense of urgency, such an unmitigated and singular focus welling up within the Curator that Orm... er... Stalphos, now sees a brilliant, golden, avian aura surrounding the man. It is as though Roostor hath descended upon one of his chosen scion to guide him toward the complete and utter annihilation of those devilish fiends that would oppose him.
+		*Giddy as an aroused jackrabbit, the Memory Keeper quickens his pace to the door, beckoning Ormenos, demanding he make haste so that they can begin their new life together. Such a sense of urgency, such an unmitigated and singular focus wells up within the Curator that Orm... er... Stalphos, now sees a brilliant, golden, avian aura surrounding the man. Roostor hath descended upon one of His chosen to guide him toward the complete and utter annihilation of the devilish fiends that would seek to sully His turf.
 		
 		And with this thought, Stalphos gives chase, attempting to catch up with his new partner in gremlin-slaying!*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00110!DESCRIPTION!/]
-	
+
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!/]
-	
 
+???
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0012!DESCRIPTION!]
 		||
 		*At first the presence of myriad tomes here overwhelms Ormenos. All this information just waiting to slake the thirst of an insatiable mind! Contained within the grove are the lifetimes of hundreds of magi accumulated over thousands of cycles resulting in millions of insights that have led and will continue to lead to infinite advances in deciphering the ultimate gearwork of the universe.
