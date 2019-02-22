@@ -2238,139 +2238,179 @@ virgin run
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!/]
 
-???
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0012!DESCRIPTION!]
-		||
-		*At first the presence of myriad tomes here overwhelms Ormenos. All this information just waiting to slake the thirst of an insatiable mind! Contained within the grove are the lifetimes of hundreds of magi accumulated over thousands of cycles resulting in millions of insights that have led and will continue to lead to infinite advances in deciphering the ultimate gearwork of the universe.
-		
-		A bizarre awareness wells up within him, that of a ravenous lupine beast, compelling Ormenos to touch the trees and absorb their knowledge. He knows full well that even Senior Archivists struggle with the proper transfer and reading of crystals using the most powerful Vanquished reading devices, for a Thought-Weaver to possess this ability at all, let alone unassisted, is unheard of... Yet still, he feels a desire beyond words to commune with the tree...*
-		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2045!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0012!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00120!DESCRIPTION!]
 		||
-		*At first the presence of myriad tomes here overwhelms Ormenos. All this information just waiting to slake the thirst of an insatiable mind! Contained within the grove are the lifetimes of hundreds of magi accumulated over thousands of cycles resulting in millions of insights that have led and will continue to lead to infinite advances in deciphering the ultimate gearwork of the universe.
-		
-		Alas, Ormenos is incapable of communing with the trees of his own power for he lacks the Techne and the powerful artifacts of the Archivists. Thus, he must content himself with the warm glow of the Order's collective knowledge growing before his very eyes. But as there is nothing for him to do here, he is forced to abandon the grove to its caretakers.*
+		*A thought, a command, a necessity. Like the sun emerging from behind a stormcloud, it was always there, simply hidden from view. Before he gives the word, his feet already carry him deeper into the grove. He does this despite knowing he is incapable of communing with the trees, lacking the Techne and the powerful artifacts of the Archivists. Thus, he must content himself with the warm glow of the Order's collective knowledge growing before him.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00120!DESCRIPTION!/]
+	
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00121!DESCRIPTION!]
+		||
+		*A thought, a command, a necessity. Like the sun emerging from behind a stormcloud, it was always there, simply hidden from view. Before he gives the word, his feet already carry him deeper into the grove.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00122!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00121!DESCRIPTION!/]
+
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00122!DESCRIPTION!]
+		||
+        *White, crystal light bathes him, uncountable rays overlapping into unbroken beams, the beams adding into an indivisible whole. The shadows of ignorance find no foothold in this place, burned away by the infinite memories of the Muninn, for even the future is said to lurk deep within the trees. Ormenos long yearned to find the fabled Interstice of the Thiuda, to walk with Wulfias and learn the forbidden truths as he did. To escape the injuries of uncertainty...*
+        (A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00123!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00122!DESCRIPTION!/]
+
+>>>Eventually, if you know about Rikharr, it will take you to a different piece of dialogue<<<
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00123!DESCRIPTION!]
+		||
+        *But alas, those paths died with the Wolf of Thiuda.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00124!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00123!DESCRIPTION!/]
+
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00124!DESCRIPTION!]
+		||
+		*Suddenly, a ray seems to unweave itself from the seamless tapestry of light and a foreign awareness wells up within Ormenos. Soon a ravenous beast seems to growl from within the Inquisitor, compelling him to touch the trees and absorb their knowledge. Odd, as he knows full well that even Senior Archivists struggle with the proper transfer and reading of crystals, despite using the most powerful Vanquished reading devices. For a Thought-Weaver to acquire this ability at all, let alone unassisted, is unfathomable... Yet still, this desire to commune with the tree is very real, his quivering hands the proof.*
+		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2045!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00124!DESCRIPTION!/]
 
 >>>Absorbed Tome of Kavan Myths (2046)<<<	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00120!DESCRIPTION!]
-		|^2046:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00121!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2046!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00120!DESCRIPTION!/]
-	
->>>Absorbed Tome of Precepts of Thought (2047)<<<
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00121!DESCRIPTION!]
-		|^2047:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00122!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2047!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00121!DESCRIPTION!/]
-	
->>>Absorbed Tome of Deathly Cults (2048)<<<
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00122!DESCRIPTION!]
-		|^2048:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00123!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2048!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00122!DESCRIPTION!/]
-	
->>>Absorbed Tome of Wayfarer Extractions (2049)<<<
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00123!DESCRIPTION!]
-		|^2049:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00124!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2049!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00123!DESCRIPTION!/]
-	
->>>Dissuaded from further pursuit of knowledge (2087)<<<
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00124!DESCRIPTION!]
-		|^2087:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00125!DESCRIPTION!|
-		*Though Ormenos has not even come close to exhausting the innumerable resources of this grove, he has found nothing of further interest.*
-		(A#Roam back to the beginning){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2087!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00124!DESCRIPTION!/]
-	
->>>Absorbed Tome of Whispered Prophecy (2088)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00125!DESCRIPTION!]
-		|^2088:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00126!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(B#Commune with the tree){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2088!DESCRIPTION!}
+		|^2046:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00126!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2046!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00125!DESCRIPTION!/]
-	
->>>Absorbed Tome of Quangjo Vol XVII (2089)<<<
+
+>>>Absorbed Tome of Precepts of Thought (2047)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00126!DESCRIPTION!]
-		|^2089:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00127!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(B#Commune with the tree){B:2,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2089!DESCRIPTION!}
+		|^2047:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00127!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2047!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00126!DESCRIPTION!/]
-	
->>>Absorbed Tome of Quangjo Vol XX (2090)<<<
+
+>>>Absorbed Tome of Deathly Cults (2048)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00127!DESCRIPTION!]
-		|^2090:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00128!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(B#Commune with the tree){B:3,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2090!DESCRIPTION!}
+		|^2048:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00128!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2048!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00127!DESCRIPTION!/]
 
->>>Absorbed Tome of Art and Artifice (2091)<<<
+>>>Absorbed Tome of Wayfarer Extractions (2049)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00128!DESCRIPTION!]
-		|^2091:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00129!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(B#Commune with the tree){B:4,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2091!DESCRIPTION!}
+		|^2049:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00129!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2049!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00128!DESCRIPTION!/]
-	
->>>Absorbed Tome of The Infinite Pursuit (2092)<<<
+
+>>>Dissuaded from further pursuit of knowledge (2087)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00129!DESCRIPTION!]
-		|^2092:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00130!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(B#Commune with the tree){B:5,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2092!DESCRIPTION!}
+		|^2087:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00130!DESCRIPTION!|
+		*Though far from exhausting the innumerable resources of this grove, Ormenos now finds nothing of further interest.*
+		(A#Roam back to the entrance){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2087!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00129!DESCRIPTION!/]
 
->>>Absorbed Tome of Origins of the Schism (2093)<<<
+>>>Absorbed Tome of Whispered Prophecy (2088)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00130!DESCRIPTION!]
-		|^2093:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00131!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(B#Commune with the tree){B:6,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2093!DESCRIPTION!}
+		|^2088:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00131!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(B#Commune with the tree){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2088!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00130!DESCRIPTION!/]
-	
->>>Absorbed Tome of Primordial Technocraft (2094)<<<
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00131!DESCRIPTION!]
-		|^2094:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00132!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(B#Commune with the tree){B:7,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2094!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00131!DESCRIPTION!/]
-	
->>>Absorbed Tome of Spectral Projection (2095)<<<
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00132!DESCRIPTION!]
-		|^2095:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00133!DESCRIPTION!|
-		*Ormenos again finds himself lusting for the energetic nectar of the Muninn trees and will stop at nothing to satisfy his voracious appetite for knowledge.*
-		(B#Commune with the tree){B:8,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2095!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00132!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00133!DESCRIPTION!]
-		||
-		*More knowledge than could ever be absorbed in a lifetime is contained within the roots of these mighty trees, yet infinity still eludes them. Likewise, the vessel that is Ormenos cannot contain the wisdom of the universe. Thus, it is that Ormenos must now seek out other pursuits.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00136!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00133!DESCRIPTION!/]
 
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00134!DESCRIPTION!]
+>>>Absorbed Tome of Quangjo Vol XVII (2089)<<<
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00131!DESCRIPTION!]
+		|^2089:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00132!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(B#Commune with the tree){B:2,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2089!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00131!DESCRIPTION!/]
+
+>>>Absorbed Tome of Quangjo Vol XX (2090)<<<
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00132!DESCRIPTION!]
+		|^2090:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00133!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(B#Commune with the tree){B:3,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2090!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00132!DESCRIPTION!/]
+
+>>>Absorbed Tome of Art and Artifice (2091)<<<
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00133!DESCRIPTION!]
+		|^2091:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00134!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(B#Commune with the tree){B:4,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2091!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00133!DESCRIPTION!/]
+
+>>>Absorbed Tome of The Infinite Pursuit (2092)<<<
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00134!DESCRIPTION!]
+		|^2092:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00135!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(B#Commune with the tree){B:5,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2092!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00134!DESCRIPTION!/]
+
+>>>Absorbed Tome of Origins of the Schism (2093)<<<
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00135!DESCRIPTION!]
+		|^2093:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00136!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(B#Commune with the tree){B:6,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2093!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00135!DESCRIPTION!/]
+
+>>>Absorbed Tome of Primordial Technocraft (2094)<<<
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00136!DESCRIPTION!]
+		|^2094:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00137!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(B#Commune with the tree){B:7,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2094!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00136!DESCRIPTION!/]
+
+>>>Absorbed Tome of Spectral Projection (2095)<<<
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00137!DESCRIPTION!]
+		|^2095:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00138!DESCRIPTION!|
+		*And once more the Inquisitor finds himself lusting after the energetic nectar of the Muninn trees; sweet memories' taste chills the mind, while deep knowledge's spice warms the soul.*
+		(B#Commune with the tree){B:8,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2095!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00137!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00138!DESCRIPTION!]
+		||
+		*Though abundant beyond measure are the Munnin's memories, even it does not know infinity. But now, Ormenos feels the crushing weight of the boundless on his Trueflesh. In an instant, all knowledge - past, future, and present - flows through him.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001380!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00138!DESCRIPTION!/]
+
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.001380!DESCRIPTION!]
+		||
+        *All his lives... no, all lives... He has lived it all, done it all, been everything and everyone. Now he looks upon the collective memories of the Self but cannot see; he listens but cannot hear. The chaos of totality's sum destroys his psyche, causing legs to tremble and heart to pound. He cowers, penitent, lustful now for ignorance's bliss.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001381!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.001380!DESCRIPTION!/]
+
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.001381!DESCRIPTION!]
+		||
+        *He is broken. Unwilling. He can learn no more. He will learn no more.*
+		(A#Dream){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001382!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.001381!DESCRIPTION!/]
+
+
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.001382!DESCRIPTION!]
+		||
+		*~ac*
+		(A#BIRACUL){A:0,MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!}
+		(B#RIKHARR){B:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+		(C#THETIAN){C:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
+		(D#EIDOS){D:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+		(E#WULFIAS){E:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+		(F#EIDOS){F:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.001382!DESCRIPTION!/]
+
+???
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00139!DESCRIPTION!]
 		||
 		*Ormenos is taken aback by the ease with which he assimilated the information in the tome. His recent, unexpected progress in various skills has helped him to thoroughly and clearly understand the content of a tome upon a single viewing. After a moment's pause to contemplate the strangeness of his newfound skill, he is ready to move on.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00136!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00134!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00139!DESCRIPTION!/]
 	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00135!DESCRIPTION!]
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!]
 		||
 		*Ormenos retains a certain astonishment at the ease with which he assimilated the information in the tome. His recent, unexpected progress in various skills has helped him to thoroughly and clearly understand the content of a tome upon a single viewing. After a moment's pause to contemplate the strangeness of his newfound skill, he is ready to move on.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00136!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00135!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!/]
 	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00136!DESCRIPTION!]
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!]
 		||
 		*The peripatetic mage shuffles about through the massive grove in a meditative state, reflecting upon his recent gains in awareness as he searches for the exit. Thinking about each step he had taken from boyhood to magehood, how he has progressively whittled away the savagery of ignorance, but further how his destination lies still further on, at some undisclosed, unknowable point in the ever-tenative future. These thoughts help him to recall the words of the Phrygian wisemen about how the destination is secondary to the journey itself, or something to that effect.
 		
 		But as soon as the final rattling echoes of this chain of thoughts fade into memory, Ormenos arrives at his destination - or at the very least, at the inception for his subsequent destination of choice. And thus, he boldly walks through the exit from the Muninn Grove.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00136!DESCRIPTION!/]
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!/]
 	
 	
 completed more than one event
@@ -4158,7 +4198,7 @@ EVENT WRITERS
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2038!MIDNIGHT!/]
 		
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2038!DESCRIPTION!]
-		|2038:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00134!DESCRIPTION!|
+		|2038:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00139!DESCRIPTION!|
 		*EVENT WRITER - Completed one event*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2038!DESCRIPTION!/]
@@ -4200,7 +4240,7 @@ EVENT WRITERS
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2039!MIDNIGHT!/]
 		
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2039!DESCRIPTION!]
-		|2039:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00135!DESCRIPTION!|
+		|2039:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!|
 		*EVENT WRITER - Completed two events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2039!DESCRIPTION!/]
@@ -4242,7 +4282,7 @@ EVENT WRITERS
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2040!MIDNIGHT!/]
 		
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2040!DESCRIPTION!]
-		|2040:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00135!DESCRIPTION!|
+		|2040:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!|
 			*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2040!DESCRIPTION!/]
