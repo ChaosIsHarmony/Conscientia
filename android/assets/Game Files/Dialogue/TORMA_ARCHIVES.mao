@@ -2266,7 +2266,7 @@ virgin run
 
     [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00124!DESCRIPTION!]
 		||
-		*Suddenly, a ray seems to unweave itself from the seamless tapestry of light and a foreign awareness wells up within Ormenos. Soon a ravenous beast seems to growl from within the Inquisitor, compelling him to touch the trees and absorb their knowledge. Odd, as he knows full well that even Senior Archivists struggle with the proper transfer and reading of crystals, despite using the most powerful Vanquished reading devices. For a Thought-Weaver to acquire this ability at all, let alone unassisted, is unfathomable... Yet still, this desire to commune with the tree is very real, his quivering hands the proof.*
+		*Suddenly, a ray seems to unweave itself from the seamless tapestry of light and a foreign awareness wells up within Ormenos. Soon a ravenous beast seems to growl from within the Inquisitor, compelling him to touch the trees and absorb their knowledge. Odd, for a Thought-Weaver to acquire this ability at all, let alone unassisted, is unfathomable... Yet still, this desire to commune with the tree is very real, his quivering hands the proof.*
 		(A#Commune with the tree){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2045!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00124!DESCRIPTION!/]
 
@@ -2394,7 +2394,37 @@ virgin run
 ???
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00139!DESCRIPTION!]
 		||
-		*Ormenos is taken aback by the ease with which he assimilated the information in the tome. His recent, unexpected progress in various skills has helped him to thoroughly and clearly understand the content of a tome upon a single viewing. After a moment's pause to contemplate the strangeness of his newfound skill, he is ready to move on.*
+		*Shock descends like a veil on Ormenos' face, weighing heavy on his downward curving lips. Assimilating the tome's contents was so... easy. So inconceivably easy. An ordinary mage feels nothing but heat from the Muninn crystals; an Archivist feels the seeds writing beneath. Only after decades of careful study will an Archivist learn to see the connections between the seeds and recreate the latent memories within. Ormenos knows no mage shy of the Sylvan Architect could ever master two occult skills, and he is already a Senior Thought-Weaver. It makes no sense. But facts are facts, however explained they may be.
+
+The Inquisitor's Dread swells as high tides of anxiety crash on a fragile psyche chained to a rock mid-sea. Ormenos floats above, staring, breathing shallowly, one breath per speeding heartbeat. He cannot acknowledge it as his own or he will crumble and only despair will remain.
+
+He has been here many times before, besting Dread with an ever-increasing effort.
+
+This time its weight seems to drag the floating mage down toward the rock.
+
+Lower, lower, till sea foam stains his robes.
+
+Lower, lower, even lower slipping into the chains. 
+
+The sea swells, wetting his knees, then his thighs.
+
+He wants to scream and rage against the chains, but doing so will only increase their reality.
+
+Instead he breathes, bringing his heart from a gallop to a canter. With each slow inhalation a rust creeps into the chains, waning slightly as he exhales.
+
+The water rising to his chest, brings sea salt's sting to wide eyes.
+
+Breathing, breathing. From canter to trot. The rust begins to crumble.
+
+The sea foam tickles his chin, soon pouring in through his open mouth.
+
+Chains snap; eyes close; darkness reigns in the silent wake of the chains dying echo.
+
+The Muninn's white light floods in as Ormenos opens his eyes. He slumps against the tree, exhausted. These battles grow more numerous by the day, each one worse than the last.
+
+But here he is, victorious against all odds. Yet Dread has not left him without scars. Its cancerous fear yet lingers, slightly larger than before.
+
+But what else can he do? He stands, steadying trembling knees, preparing to move.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00139!DESCRIPTION!/]
 	
