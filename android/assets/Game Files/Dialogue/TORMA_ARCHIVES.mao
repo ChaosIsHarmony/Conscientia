@@ -2391,52 +2391,190 @@ virgin run
 		(F#EIDOS){F:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.001382!DESCRIPTION!/]
 
-???
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00139!DESCRIPTION!]
 		||
-		*Shock descends like a veil on Ormenos' face, weighing heavy on his downward curving lips. Assimilating the tome's contents was so... easy. So inconceivably easy. An ordinary mage feels nothing but heat from the Muninn crystals; an Archivist feels the seeds writing beneath. Only after decades of careful study will an Archivist learn to see the connections between the seeds and recreate the latent memories within. Ormenos knows no mage shy of the Sylvan Architect could ever master two occult skills, and he is already a Senior Thought-Weaver. It makes no sense. But facts are facts, however explained they may be.
-
-The Inquisitor's Dread swells as high tides of anxiety crash on a fragile psyche chained to a rock mid-sea. Ormenos floats above, staring, breathing shallowly, one breath per speeding heartbeat. He cannot acknowledge it as his own or he will crumble and only despair will remain.
-
-He has been here many times before, besting Dread with an ever-increasing effort.
-
-This time its weight seems to drag the floating mage down toward the rock.
-
-Lower, lower, till sea foam stains his robes.
-
-Lower, lower, even lower slipping into the chains. 
-
-The sea swells, wetting his knees, then his thighs.
-
-He wants to scream and rage against the chains, but doing so will only increase their reality.
-
-Instead he breathes, bringing his heart from a gallop to a canter. With each slow inhalation a rust creeps into the chains, waning slightly as he exhales.
-
-The water rising to his chest, brings sea salt's sting to wide eyes.
-
-Breathing, breathing. From canter to trot. The rust begins to crumble.
-
-The sea foam tickles his chin, soon pouring in through his open mouth.
-
-Chains snap; eyes close; darkness reigns in the silent wake of the chains dying echo.
-
-The Muninn's white light floods in as Ormenos opens his eyes. He slumps against the tree, exhausted. These battles grow more numerous by the day, each one worse than the last.
-
-But here he is, victorious against all odds. Yet Dread has not left him without scars. Its cancerous fear yet lingers, slightly larger than before.
-
-But what else can he do? He stands, steadying trembling knees, preparing to move.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
+		*Shock descends like a veil on Ormenos' face, weighing heavy on his downward curving lips. Assimilating the tome's contents was so... easy. So inconceivably easy. An ordinary mage feels nothing but heat from the Muninn crystals; an Archivist feels the seeds writhing beneath. Only after decades of careful study will an Archivist learn to see the connections between the seeds and recreate the latent memories within. Only then do then earn the title of Senior Archivist.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013900!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00139!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013900!DESCRIPTION!]
+		||
+        *Ormenos knows no mage shy of the Sylvan Architect could ever master two occult skills. As a Senior Thought-Weaver, he never even dreamed of being able to decipher the Muninn's secrets. It makes no sense to him; it is without precedent. But facts are facts, however unexplained they may be.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013901!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013900!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013901!DESCRIPTION!]
+		||
+        *And at the recognition of these facts, the Inquisitor's Dread swells, high tides of anxiety crashing on a fragile psyche. Ormenos floats above the image of his Falseflesh, chained to a rock mid-sea. He stares down, breathing shallowly, a breath per speeding heartbeat. He cannot acknowledge it as his own flesh or he will crumble and only despair will remain.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013902!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013901!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013902!DESCRIPTION!]
+		||
+        *He has been here many times before, besting Dread with an ever-increasing effort. But this time its weight seems to drag the rock and the surrounding waters skywards, up to floating mage.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013903!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013902!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013903!DESCRIPTION!]
+		||
+        *Higher, higher, till sea foam stains his robes.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013904!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013903!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013904!DESCRIPTION!]
+		||
+        *Higher, higher, ever-higher, till chains bind his wrists.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013905!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013904!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013905!DESCRIPTION!]
+		||
+        *The sea swells, wetting his knees, thighs soon to follow.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013906!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013905!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013906!DESCRIPTION!]
+		||
+        *He wants to scream and rage against the chains, but doing so will only increase their reality.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013907!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013906!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013907!DESCRIPTION!]
+		||
+        *And so he breathes, bringing his heart from a gallop to a canter. With each slow inhalation, rust creeps into the chains, waning slightly as he exhales.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013908!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013907!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013908!DESCRIPTION!]
+		||
+        *The water rising to his chest, brings sea salt's sting to wide eyes.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013909!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013908!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013909!DESCRIPTION!]
+		||
+        *Breathing, breathing. From canter to trot. The rust begins to crumble.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013910!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013909!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013910!DESCRIPTION!]
+		||
+        *The sea licks his chin, soon pouring in through his open mouth.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013911!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013910!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013911!DESCRIPTION!]
+		||
+        *Rusted chains shatter; bloodshot eyes close; perfect darkness reigns in the silent wake of the chains dying echo.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013912!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013911!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013912!DESCRIPTION!]
+		||
+        *The Muninn's white light floods in as Ormenos opens his eyes. He slumps against the tree, exhausted. These battles grow more numerous by the day, each one worse than the last.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013913!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013912!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013913!DESCRIPTION!]
+		||
+        *But here he is, victorious against all odds. He persists!*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013914!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013913!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013914!DESCRIPTION!]
+		||
+        *Yet, Dread has not left him without scars. Its cancerous fear yet lingers, slightly larger than before, promising to chip away at his resolve like some mad sculptor.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013915!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013914!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013915!DESCRIPTION!]
+		||
+        *When Chance's mercy fails, he will be at Dread's mercy. More a question of when than if.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013916!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013915!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013916!DESCRIPTION!]
+		||
+        *Despite the inevitable tragedy that awaits, he knows that now, in this moment, he yet stands. And so, steadying trembling knees, he prepares to move on.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0013916!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!]
 		||
-		*Ormenos retains a certain astonishment at the ease with which he assimilated the information in the tome. His recent, unexpected progress in various skills has helped him to thoroughly and clearly understand the content of a tome upon a single viewing. After a moment's pause to contemplate the strangeness of his newfound skill, he is ready to move on.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
+		*Shock descends like a veil on Ormenos' face, weighing heavy on his downward curving lips. Assimilating the tome's contents was so... easy. So inconceivably easy. An ordinary mage feels nothing but heat from the Muninn crystals; an Archivist feels the seeds writhing beneath. Only after decades of careful study will an Archivist learn to see the connections between the seeds and recreate the latent memories within. Only then do then earn the title of Senior Archivist.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00140!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014000!DESCRIPTION!]
+		||
+        *Ormenos knows no mage shy of the Sylvan Architect could ever master two occult skills. As a Senior Thought-Weaver, he never even dreamed of being able to decipher the Muninn's secrets. It makes no sense to him; it is without precedent. But facts are facts, however unexplained they may be.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014001!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014000!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014001!DESCRIPTION!]
+		||
+        *And at the recognition of these facts, the Inquisitor's feels...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014002!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014001!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014002!DESCRIPTION!]
+		||
+        *At peace.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014003!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014002!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014003!DESCRIPTION!]
+		||
+        *Long has his mind been a stranger to this feeling; so long, in fact, that he barely recognized it.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014004!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014003!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014004!DESCRIPTION!]
+		||
+        *His usual companions are Fear and Dread, the friends that convinced him to leave Jer to seek the sanctuary of Discipline, the very friends that encouraged him to pursue Thought-Weaving. Friends of the most devout kind: so intimate, they never leave his side; so committed, their goal remains unaltered by the decades.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014005!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014004!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014005!DESCRIPTION!]
+		||
+        *These are the friends Ormenos will slay at all costs.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014006!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014005!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014006!DESCRIPTION!]
+		||
+        *From his dives into Kaban brothers and even the Wayfarer, he has caught a glimpse of what could be...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014007!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014006!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014007!DESCRIPTION!]
+		||
+        *He has learned of the Unseen.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014008!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014007!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014008!DESCRIPTION!]
+		||
+        *But why think on this now, in this rare moment of peace?*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014009!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014008!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014009!DESCRIPTION!]
+		||
+        *His thoughts always seem to ruin it all. Perhaps the inevitable tragedy that awaits is what he deserves.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014010!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014009!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014010!DESCRIPTION!]
+		||
+        *All he knows is that he will find neither tragedy nor reprieve if he does not move on. And so he does.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014010!DESCRIPTION!/]
+???
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!]
 		||
-		*The peripatetic mage shuffles about through the massive grove in a meditative state, reflecting upon his recent gains in awareness as he searches for the exit. Thinking about each step he had taken from boyhood to magehood, how he has progressively whittled away the savagery of ignorance, but further how his destination lies still further on, at some undisclosed, unknowable point in the ever-tenative future. These thoughts help him to recall the words of the Phrygian wisemen about how the destination is secondary to the journey itself, or something to that effect.
+		*The restless mage ambles through the grove, seeking the exit, but seems to have strayed too far afield in his walk through the grove. It always seems to be the same, that want he wants always eludes him. The words of the Phrygian Wisemen creep to the forefront of memory, "When sought it is not found, by desire e'er bound. Free from Falseflesh's lust, winged angels come aground." 
 		
 		But as soon as the final rattling echoes of this chain of thoughts fade into memory, Ormenos arrives at his destination - or at the very least, at the inception for his subsequent destination of choice. And thus, he boldly walks through the exit from the Muninn Grove.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
