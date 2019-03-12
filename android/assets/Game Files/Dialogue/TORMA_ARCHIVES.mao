@@ -2175,26 +2175,26 @@ MUNINN GROVE
 virgin run
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00100!DESCRIPTION!]
 		||
-		*The dank stench of stale air in the Archive corridors fades to forget as the Ormenos steps into the shadowless Muninn Grove. Lights from myriad crystal arrays cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles.	The massive chamber gradually slopes downward, deep into the mountain's bowels, trees filling every last nook and cranny all the way to the area's invisible limits. Muninn limbs stretch across the ceiling and all along the walls, ever-searching for space to accommodate their expanding contents.*
+		*The dank stench of stale air in the Archive corridors fades to forget as Ormenos steps into the shadowless Muninn Grove. Lights from myriad crystal arrays cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles.	The massive chamber gradually slopes downward, deep into the mountain's bowels, trees filling every last nook and cranny all the way to the area's invisible limits. Muninn limbs stretch across the ceiling and all along the walls, ever-searching for space to accommodate their expanding contents.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00101!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00100!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!]
 		||
-		*Many junior Archivists are busy at work, often tending to sapplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task curls a bitter smirk on Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves when his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
+		*Many junior Archivists hustle about, busy at work, often tending to sapplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task winds a bitter smirk into Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves as his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem a hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
         (A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00102!DESCRIPTION!]
 		||
-        *Ormenos muses on his musings, remembering the tale the Sumarkandian witch from the Wayfarer's archives. Something about a man condemned to roll a boulder up a mountain path only to always have it roll back down. In the witch's story it was designed to warn of obsession with hopeless tasks, but Ormenos always found an ineffable nobility in the project - though perhaps Sister Gate Keeper was right, that madness was simply beginning to sequester his wits; he dared not think too long on the possibility.*
+        *Ormenos muses on his musings, remembering the tale the Sumarkandian witch from the reports on the Wayfarer. Something about a man condemned to roll a boulder up a mountain path, only to always have it roll back down. In the witch's story it was designed to warn of obsession with hopeless tasks, though Ormenos always found an ineffable nobility in the project - then again, perhaps Sister Gate Keeper was right, that madness was simply beginning to sequester his wits; he dared not dwell too long on the possibility.*
         (A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X00103!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00102!DESCRIPTION!/]
 
 >>>Witnessed theory v practice debate (2027)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00103!DESCRIPTION!]
 		|^2027:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00104!DESCRIPTION!|
-		×Motion drew his ghost back to the physical space before him and he began to search for whatever it is he came here to do - if he could only remember why he came in the first place. His eyes land on the Curator, most senior among the Archivists, a stone's throw from his current locus.*
+		*Motion drew his ghost back to the physical space before him and he began to search for whatever it is he came here to do - if he could only remember why he came in the first place. His eyes land on the Curator, most senior among the Archivists, a stone's throw from his current locus.*
 		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
 		(B#Approach the Curator){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0010!DESCRIPTION!}
 		(C#Leave){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
@@ -2571,261 +2571,320 @@ virgin run
         *All he knows is that he will find neither tragedy nor reprieve if he does not move on. And so he does.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014010!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!]
 		||
-		*The restless mage ambles through the grove, seeking the exit, but seems to have strayed too far afield in his walk through the grove. It always seems to be the same, that want he wants always eludes him. The words of the Phrygian Wisemen creep to the forefront of memory, "When sought it is not found, by desire e'er bound. Free from Falseflesh's lust, winged angels come aground." 
-		
-		But as soon as the final rattling echoes of this chain of thoughts fade into memory, Ormenos arrives at his destination - or at the very least, at the inception for his subsequent destination of choice. And thus, he boldly walks through the exit from the Muninn Grove.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
+		*The restless mage ambles through the grove, in search of the exit. But he has strayed too far afield. It always seems to be the same, always wanting and chasing an impossible dream. The words of the Phrygian Wisemen creep to the forefront of memory.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00142!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00141!DESCRIPTION!/]
-	
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00142!DESCRIPTION!]
+		||
+        *"When sought never is it found,
+        Ever by desire bound.
+        Yet freed, in trust,
+        From mind's own lust,
+        Birds seized in flight,
+        Drift gently down onto the ground."*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00142!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!]
+		||
+		*Birds appear so often in Phrygian aphorisms, and in so many different capacities - oft ranging from meals to abstract notions of Truth and Love. Ormenos feels an odd sympathy for the birds; trapped, slain, plucked, or cooked, they never seem to catch a break. This then reminds him it is the third night in the cycle and thus the smell of roast turkey will fill the Refectory later this evening. His sympathy is short-lived, thwarted by a lifetime of indirect bird slaughter.*
+   		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00142!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!]
+		||
+        *But soon the rattling echoes of this chain of thought fade into memory, and no sooner does Ormenos arrive at his forgotten destination. Perhaps in letting desire subside, he finally found it; of perhaps it was simply chaotic randomness mistaken for an underlying order. Whatever the case may be, he is here now. He then boldly walks through the exit and out of the Muninn Grove.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!/]
+
+
 completed more than one event
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!DESCRIPTION!]
 		||
-		*As he sets foot into the grove, Ormenos cannot help but muse that stagnant air of the underhalls and corridors is anything but pleasant. However, the dank and wretched stench of stale air permeating the Archive corridors is but a forgotten memory as the mage takes his first breath in the shadowless Muninn Grove. Despite its subterranean location, the lights from myriad crystals cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles. Truly is it worthy of its colloquial appellation as the "Garden of Awareness".
-		
-		The massive chamber gradually slopes downward, deep into the roots of the mountain. Though not lacking in height, the elder Muninn trees sprawl their limbs across the ceiling ever-searching for greater expanses to accommodate their vast contents.
-		
-		Many junior magi are busy at work, tending to the sapplings, arranging crystalline arrays to direct their growth. Whereas, more senior Archivists deliver memories to slake the larger Muninns' thirst for information. Countless generations of Enclavean brothers and sisters have contributed their wide range of expertise to fuel this gluttonous grove.*
+        *The dank stench of stale air in the Archive corridors fades to forget as Ormenos steps into the shadowless Muninn Grove. Lights from myriad crystal arrays cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles.	The massive chamber gradually slopes downward, deep into the mountain's bowels, trees filling every last nook and cranny all the way to the area's invisible limits. Muninn limbs stretch across the ceiling and all along the walls, ever-searching for space to accommodate their expanding contents.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0020!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0020!DESCRIPTION!]
+		||
+		*Many junior Archivists bustle about, busy at work, often tending to sapplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task winds a bitter smirk into Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves as his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem a hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0021!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0020!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0021!DESCRIPTION!]
+		||        
+        *Ormenos muses on his musings, remembering the tale the Sumarkandian witch from the reports on the Wayfarer. Something about a man condemned to roll a boulder up a mountain path, only to always have it roll back down. In the witch's story it was designed to warn of obsession with hopeless tasks, though Ormenos always found an ineffable nobility in the project - then again, perhaps Sister Gate Keeper was right, that madness was simply beginning to sequester his wits; he dared not dwell too long on the possibility.*
 		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!DESCRIPTION!/]
-	
-	
-	
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0021!DESCRIPTION!/]
+
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!DESCRIPTION!/]
-	
-	
-	
+
+
+
 MEMORY KEEPER
 >>>Witnessed theory v practice debate (2027)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X000!MEMORY KEEPER!]
 		|^2027:ENCLAVE!ARCHIVES!MUNINN GROVE!1.X000!MEMORY KEEPER!|
-		*"How may I be of assistance to you, Brother Inquisitor?"*
+		*"And how might I assist you, Brother Inquisitor?"*
 		(A#"Any recent additions to the Archives?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!MEMORY KEEPER!}
 		(B#"I wish to read about the Wayfarer."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!MEMORY KEEPER!}
-		(C#"Nothing, I'll just wander around."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!}
+		(C#"Nothing, I'll just wander around, if that's okay."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!}
 		(D#"What resources do we have on the Sylvan Architect?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.004!MEMORY KEEPER!}
-		(E#"I need no assistance from those beneath me."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!}
+		(E#"I'd only need your assistance if I were studying idiots in the wild."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!}
 		(F#"Shhhhhhh!!! Be very quiet; I'm hunting gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X000!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!MEMORY KEEPER!]
 		||
 		*"We are awaiting reports from you and the other Thought-Weavers. Not much new has come in since you came last cycle, Brother."*
 		(A#"My report? Well, I may have found the Thought Wheel of the Beginning."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.011!MEMORY KEEPER!}
 		(B#"In that case, I'd like to read about the Wayfarer."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!MEMORY KEEPER!}
-		(E#"This was a waste of time."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!}
+		(E#"Seems the only assistance you offer is in wasting time, then."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!MEMORY KEEPER!]
 		||
-		*"Again? Why are there any new developments?"*
+		*"Again? Why? Are there any new developments?"*
 		(A#"I might have found the Thought Wheel of the Beginning."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.011!MEMORY KEEPER!}
-		(B#"Yes, but I'm more concerned that the Wayfarer detected me."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.012!MEMORY KEEPER!}
-		(C#"Not really."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
+		(B#"Yes, but I'm more concerned about the Wayfarer detecting me."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.012!MEMORY KEEPER!}
+		(C#"Nothing major."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!]
 		||
 		*"I see. Then please enjoy your time in the grove, Brother!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.004!MEMORY KEEPER!]
 		||
 		*"Looking up the history of the Thiuda again, Brother? What is your obsession with the Masters anyway?"*
-		(C#"Nothing really worth saying."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
+		(C#"Not an obsession really; just trying to kill time."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
 		(D#"Obsession?! I merely wish to be informed!"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.014!MEMORY KEEPER!}
-		(E#"Oh, I didn't tell you? Must be because it's not any of your business."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!}
+		(E#"Oh, I didn't tell you? Must be because it's none of your business."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.004!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!]
 		||
-		*"What!? Well... Then come back when you... when you hit rock bottom! You shit-eating gremlin!"*
-		(A#"I'm sorry, I should not have said that."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-		(D#"What makes you so sure that even then you would not be beneath me..?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-		(E#"Then we shall never meet again."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+		*"What!? Well... I suppose knowing you makes me an expert on the subject! You shit-eating gremlin!"*
+		(A#"I'm sorry, I shouldn't have said that."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+		(D#"Journal entry, the first - it postures, using the biggest words it knows..."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+		(E#"Perhaps shit-eating is a subject better suited to your talents."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!/]
-	
-	
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.011!MEMORY KEEPER!]
 		||
 		*"In truth, Brother?!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0110!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.011!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0110!MEMORY KEEPER!]
 		||
 		*"This would be the discovery that would cement your place among the Patrons of our Order!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0111!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0110!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0111!MEMORY KEEPER!]
 		||
-		*"Your form cast in stained glass would grace the entrance to our halls!"*
+		*"Your form cast in stained glass would watch over the entrance to our halls for centuries to come!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0112!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0111!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0112!MEMORY KEEPER!]
 		||
 		*"I eagerly await your full report from the Choir!"*
 		(A#"That reminds me, perhaps I should go report to the Choir..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.021!MEMORY KEEPER!}
 		(B#"What importance does this discovery hold for you?"){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.022!MEMORY KEEPER!}
-		(E#"Patron? I will be king by the time I'm done with this place."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!}
+		(E#"Patron? I'll be king by the time I'm done with this place."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0112!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.012!MEMORY KEEPER!]
 		||
-		*"She... found you? I was under the impression that a Thought-Weaver was invisible to the mind of another... Though, now that I think on it, I do recall a case among the records of Wayfarer investigations related to this... It's difficult to recall when, though, given her exceedingly lengthy history as a captive of our Order."*
-		(A#"Thank you for your guidance, Brother. I'll go look among the Archives."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
-		(B#"Is there nothing more you can recall on the subject?"){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0120!MEMORY KEEPER!}
-		(C#"Okay. Thanks, but I should be leaving now."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
+		*"She... found you?"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0120!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.012!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0120!MEMORY KEEPER!]
 		||
-		*"...Not to sound ominous, but I do recall several Thought-Weavers being assigned to the task of locating the Thought Wheel in rapid succession..."* 
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.01200!MEMORY KEEPER!}
+        *"I was under the impression that a Thought-Weaver was invisible to the mind of another... Though, now that I think on it, I do recall a case among the records of Wayfarer investigations related to this..."*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0121!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0120!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.01200!MEMORY KEEPER!]
-		||
-		*"It is unusual for Thought-Weavers to retire from a project with such frequency, because according to most records, Thought-Weavers are only replaced in the event of serious illness or... death."* 
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.01201!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.01200!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.01201!MEMORY KEEPER!]
-		||
-		*"In any event, I imagine that if there were cause for alarm, the Choir would warn you well in advance."*
-		(A#"Thank you, Brother."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0121!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.01201!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0121!MEMORY KEEPER!]
 		||
-		*"Glad to help. But I will abuse your time no more!"* 
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.01210!MEMORY KEEPER!}
+        *"It's difficult to recall when exactly, given her rather lengthy history with the Order."*
+		(A#"Thank you for your guidance, Brother. I'll go look among the Archives."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
+		(B#"What else can you say on the subject?"){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0122!MEMORY KEEPER!}
+		(C#"Okay. Thanks, but I should be leaving now."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0121!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.01210!MEMORY KEEPER!]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0122!MEMORY KEEPER!]
 		||
-		*"Enjoy your time in the Grove, Brother. I'll get back to my duties, now!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.01210!MEMORY KEEPER!/]
+		*"Well... Not to sound ominous, but I do recall several Thought-Weavers being assigned to the task of locating the Thought Wheel in rapid succession..."* 
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0123!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0122!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0123!MEMORY KEEPER!]
+		||
+		*"It is... unusual... for Thought-Weavers to retire from a project with such frequency. Most records suggest Thought-Weavers are only replaced in the event of serious illness or... death."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0124!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0123!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0124!MEMORY KEEPER!]
+		||
+		*"In any event, I imagine that if there were cause for alarm, the Choir would warn you well in advance, Brother."*
+		(A#"Thank you, Brother."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0125!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0124!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0125!MEMORY KEEPER!]
+		||
+		*"Glad to help. But I will abuse your time no more!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0126!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0125!MEMORY KEEPER!/]
 	
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0126!MEMORY KEEPER!]
+		||
+		*"Enjoy your time in the Grove, Brother. And may your work for the Order be as fruitful as full-grown Muninn!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0126!MEMORY KEEPER!/]
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!]
 		||
-		*"I see... Then I shall make no further inquiries and abuse your time no more."* 
+		*"...Then I suppose I shall make no further inquiries and abuse your time no more."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0130!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0130!MEMORY KEEPER!]
 		||
-		*"Please seek out a Senior Archivist to locate the items you seek, Brother. And enjoy your time in the Grove!"*
+		*"Please seek out a Senior Archivist to locate the items you desire, Brother. And enjoy your time in the Grove!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0130!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.014!MEMORY KEEPER!]
 		||
 		*"No need to be so sensitive, Brother. If you do not wish to confide in me, then so be it."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0140!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.014!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0140!MEMORY KEEPER!]
 		||
-		*"Please seek out a Senior Archivist to locate the items you seek, Brother. And enjoy your time in the Grove!"*
-		(C#"Thank you."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+		*"Please seek out a Senior Archivist to locate the items you desire, Brother. And enjoy your time in the Grove!"*
+		(C#"All is as it should be."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 		(D#"Why so curious, then, Brother?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.024!MEMORY KEEPER!}
 		(E#"So be it."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0140!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!]
 		||
 		*"Is that so? Then I apologize for wasting the illustrious Inquisitor's time! Forgive me, wise Thought-Weaver! Bah!"*
 		(A#"I'm sorry, I should not have said that."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 		(D#"Grovelling suits you, Memory Keeper."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-		(E#"Move along, petty scum."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+		(E#"Move along, peasant. I now have both tolerance and time in short supply."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!/]
-	
-	
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.021!MEMORY KEEPER!]
 		||
 		*"You haven't yet reported this?! Then you must leave at once, Brother!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0210!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.021!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0210!MEMORY KEEPER!]
 		||
 		*"The Choir will be displeased that you are neglecting your duties with such a breakthrough hanging on your tongue!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0211!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0210!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0211!MEMORY KEEPER!]
 		||
 		*"Farewell, and congratulations, Brother Inquisitor!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0211!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.022!MEMORY KEEPER!]
 		||
 		*"For me, the individual, no importance; but for me, the loyal servant of our Order, it is everything!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0220!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.022!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0220!MEMORY KEEPER!]
 		||
-		*"With our knowledge and the Thought Wheel of the Beginning, the will of the Enclave will be the rule of law on Earth."*
+		*"With our knowledge and the Thought Wheel of the Beginning, the will of the Enclave will be nothing short of the rule of law on Earth!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0221!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0220!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0221!MEMORY KEEPER!]
 		||
-		*"At a mere thought, we will achieve all we could ever hope for and we will attain even that which we are too truth-blind to now see as our true purpose, Brother!"*
-		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0222!MEMORY KEEPER!}
+		*"At a mere thought, we will achieve all we could ever hope for!"*
+        (A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0222!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0221!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0222!MEMORY KEEPER!]
 		||
-		*"I will abuse your time no more! Enjoy your time in the Grove, Brother and congratulations!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+        *"We will attain even that which we are too truth-blind to now see as our true purpose, Brother!"*
+		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0223!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0222!MEMORY KEEPER!/]
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0223!MEMORY KEEPER!]
+		||
+        *"How wonderful!"*
+		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0224!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0223!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0224!MEMORY KEEPER!]
+		||
+		*"Thus, I will abuse your time no more! Enjoy the Grove, Brother and congratulations!"*
+		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0225!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0224!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0225!MEMORY KEEPER!]
+		||
+        *"Oh and may your work for the Order be as fruitful as a full-grown Muninn!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0225!MEMORY KEEPER!/]
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.024!MEMORY KEEPER!]
 		||
-		*"Is curiosity not the norm among us magi of the Enclave?"*
+		*"Is curiosity not the norm among those of our ilk?"*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0240!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.024!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0240!MEMORY KEEPER!]
 		||
 		*"It would be stranger were I not curious about your motivations!"*
 		(C#"True, but I'll keep my reasons to myself."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!}
-		(D#"Well, I think there is more to the myth of the Sylvan Architect than meets the eye."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0241!MEMORY KEEPER!}
-		(E#"This is an absolute waste of time."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!}
+		(D#"...What would you say if you knew the Sylvan Architect were real?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0241!MEMORY KEEPER!}
+		(E#"And I'm curious about why you're wasting my time."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0240!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0241!MEMORY KEEPER!]
 		||
 		*"Then you sympathize with the Enforcers?"*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0242!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0241!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0242!MEMORY KEEPER!]
 		||
-		*"The rowdiest of them claim to have found incontrovertible proof that the Sylvan Architect was real, that It manipulates us from the shadows to this day!"* 
+		*"The most radical of them claim to have found incontrovertible proof that the Sylvan Architect was real, that It manipulates us from the shadows to this day!"* 
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0243!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0242!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0243!MEMORY KEEPER!]
 		||
-		*"These Archives are vast indeed, so I would not doubt that such a memory could be found among the innumerable tomes of our Muninn Grove..."*
-		(C#"I suppose."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
+		*"These Archives are vast indeed, so I would not doubt that such a memory could be found among the innumerable tomes of our Muninn Grove... But is the source reliable?"*
+		(C#"I suppose it's questionable."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.013!MEMORY KEEPER!}
 		(D#" 'Just as a shadow is not the caster, so too is the caster not its essence'..."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0244!MEMORY KEEPER!}
 		(E#"Is this what you bottom-feeders spend your time musing about?"){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0243!MEMORY KEEPER!/]
@@ -2838,27 +2897,27 @@ MEMORY KEEPER
 	
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0245!MEMORY KEEPER!]
 		||
-		*"There is wisdom in those words; wisdom of the darkest and most sanity-thieving nature..."*
+		*"There is wisdom in those words; wisdom of a dark and sanity-thieving nature..."*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0246!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0245!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0246!MEMORY KEEPER!]
 		||
-		*"We are at the precipice of Awareness, Brother; stare not for too long, lest it begin to stare back at you..."*
+		*"We are at the precipice of Awareness, Brother; stare not at length, lest it begin to stare back at you..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0246!MEMORY KEEPER!/]
-	
-	
-	
+
+
+
 >>>Backed Memory Keeper in the debate (2075)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.X000!MEMORY KEEPER!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.X000!MEMORY KEEPER!/]
-	
-	
-	
+
+
+???
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.000!MEMORY KEEPER!]
 		||
 		*"Well, if it isn't the wise Brother Inquisitor, come to cast his derisive gaze upon our humble Grove of Squalid Memory..."*
