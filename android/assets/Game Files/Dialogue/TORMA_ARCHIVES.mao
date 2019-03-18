@@ -2917,186 +2917,268 @@ MEMORY KEEPER
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.X000!MEMORY KEEPER!/]
 
 
-???
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.000!MEMORY KEEPER!]
 		||
-		*"Well, if it isn't the wise Brother Inquisitor, come to cast his derisive gaze upon our humble Grove of Squalid Memory..."*
+		*"Well, if it isn't the wise Brother Inquisitor, come to cast his derisive gaze upon our squalid grove..."*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.000!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0000!MEMORY KEEPER!]
 		||
-		*"What great cataclysm would drive one so illustrious to visit our 'useless' grove?"*
-		(A#"Brother, why all the anger towards a fellow?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.001!MEMORY KEEPER!}
-		(B#"The grove is useful; that is why I am here."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!}
+		*"What great tragedy would drive one so illustrious to visit the most 'useless' of Enclavean achievements?"*
+		(A#"Brother, why such passive aggression?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.001!MEMORY KEEPER!}
+		(B#"The grove is useful; that's why I'm here."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!}
 		(C#"Perhaps I had best leave."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!}
-		(D#"The utility of tools depends on the user, does it not?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.004!MEMORY KEEPER!}
-		(E#"You are undoubtedly useless; the grove's usefulness remains to be seen."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
+		(D#"The utility of a tool depends on the user, does it not?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.004!MEMORY KEEPER!}
+		(E#"You are undoubtedly useless; the grove, at least, could be used as firewood."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
 		(F#"Actually, I just kinda wandered in here..."){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.006!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0000!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.001!MEMORY KEEPER!]
 		||
-		*"Anger? I intended no such effect! I merely wished to say that I hope you do not darken our grove for long!"*
-		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0010!MEMORY KEEPER!}
+		*"Passive aggression? Those were not my designs!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0010!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.001!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0010!MEMORY KEEPER!]
 		||
-		*"We wouldn't want to keep you too long from those truth-blind Sylvarch whorshippers. Good day!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+        *"I merely wished to say that I hope you don't darken our grove for long with the shadow of ignorance!"*
+		(A#"If I offended you, I'm truly sorry, Brother."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.00101!MEMORY KEEPER!}
+		(B#"Isn't it more ignorant to ignore your peers' opinions?"){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.00102!MEMORY KEEPER!}
+		(E#"Quit being such a sulky twit."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.00105!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0010!MEMORY KEEPER!/]
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.00101!MEMORY KEEPER!]
+		||
+		*"Oh, no offense taken; truth-blind opinions concern me not."*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.00101!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.00102!MEMORY KEEPER!]
+		||
+		*"Is it not greater ignorance to pay heed to misguided thoughts, Brother?"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.001020!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.00102!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.001020!MEMORY KEEPER!]
+		||
+        *"I'm hardly egalitarian when it comes to truth, and though you're all blind to it, it is still truth!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.001020!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.00105!MEMORY KEEPER!]
+		||
+		*"Why...! You dare insult me in my own house? I will not stand for it!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.00105!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!]
+		||
+        *"Now, off with you! I'm busy!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!/]
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!]
 		||
-		*"Oh! So even to a creeper of the Huginn Swamp, the Muninn trees hold some value?"*
+		*"Oh! So even to a bellycrawler of the Huginn Swamp, the Muninn trees hold some value?"*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0020!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0020!MEMORY KEEPER!]
 		||
-		*"We are fortunate indeed to have you around!"*
+		*"We are fortunate indeed to have your charitable patronage!"*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0021!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0020!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0021!MEMORY KEEPER!]
 		||
-		*"Just please do not remain long, as I'm sure remembering the past is not for truth-blind Sylvarch lovers."*
+		*"Just please do not remain long, as I'd rather not find out if truth-blindess is infectious."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0021!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!]
 		||
-		*"Oh, but you just got here! Though I'm sure the Huginn Swamp is a more fitting place for the great Ormenos after all. Good day!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+		*"Oh, but you just got here!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0030!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!/]
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0030!MEMORY KEEPER!]
+		||
+        *"Though, perhaps the Huginn Swamp is a more fitting place for the great Ormenos to slither around."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0030!MEMORY KEEPER!/]
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.004!MEMORY KEEPER!]
 		||
 		*"...Well, I ask then: how could we have made tools without the memory of our forebearers' efforts?!"*
 		(C#"Maybe I should just leave."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!}
 		(D#"Necessity is the mother of invention, not memory."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.014!MEMORY KEEPER!}
-		(E#"You already lost one debate today, moron."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
+		(E#"You already lost one debate today, moron."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.00105!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.004!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!]
 		||
-		*"I have no more words for the truth-blind; you would be incapable of comprehending."*
-		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0050!MEMORY KEEPER!}
+		*"Tread lightly, Inquisitor... I'm in no mood to suffer your insults..."*
+		(A#"I was wrong to say that; I apologize, Brother."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0051!MEMORY KEEPER!}
+		(D#"Well, in truth, the Muninn's are genuinely remarkable and useful."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0054!MEMORY KEEPER!}
+		(E#"Is that so? Then enjoy them instead, you idiot."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0050!MEMORY KEEPER!]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0051!MEMORY KEEPER!]
 		||
-		*"Just try not to drool on the trees while you're here and leave as soon as your business is concluded."*
+		*"Good. Now, try not to drool on the trees while you're here, and leave as soon as your business is concluded."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0050!MEMORY KEEPER!/]
-	
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0051!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0054!MEMORY KEEPER!]
+		||
+		*"...Just try not to drool on the trees while you're here, and leave as soon as your business is concluded."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0054!MEMORY KEEPER!/]
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.006!MEMORY KEEPER!]
 		||
-		*"Hmmm... a purposeless vagrant... Fitting for a Huginn Swamp creeper indeed!"*
+		*"Wandered? Perhaps you mean slithered? Fitting for a Huginn Swamp creeper, indeed..."*
 		(F#"Where there be swamps, there be gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.006!MEMORY KEEPER!/]
-	
-		
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.014!MEMORY KEEPER!]
 		||
-		*"It may be, but I tell you that our loss of the memories on cloudstone creation, casting both near and far, Thought Wheel genesis and all other Vanquished Techne is tragic beyond all words precisely because our need is not what enables us to make these tools!"*
+		*"It may well be, but I tell you that our loss of the memories on cloudstone creation, casting both near and far, Thought Wheel genesis and all other Vanquished Techne is tragic beyond all words precisely because our need is not what enables us to make these tools!"*
 		(C#"True, but if all we did was remember, who would make tools?"){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0140!MEMORY KEEPER!}
 		(D#"Well, the Huginn folk are doing a good job of rediscovering these secrets."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0141!MEMORY KEEPER!}
-		(E#"Ironic, that you will die alone and forgotten."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
+		(E#"Ironic, that you too will die alone and forgotten."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.014!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0140!MEMORY KEEPER!]
 		||
 		*"Well... Well... Who's to say that we need any tools?! Perhaps what nature provided us with is enough! Maybe an excessive desire for more tools led to the Vanquished's demise!"*
 		(C#"Maybe I should just leave."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!}
 		(D#"Then perhaps it's time you abandoned the Order and lived like a cave savage..."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0141!MEMORY KEEPER!}
-		(E#"I tire of your revolting obstinance."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
+		(E#"I tire of your infantile obstinance."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0140!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0141!MEMORY KEEPER!]
 		||
-		*"I... simply don't have time for this!"* 
-		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0142!MEMORY KEEPER!}
+		*"I... I simply don't have time for this!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0142!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0141!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0142!MEMORY KEEPER!]
 		||
-		*"When your business is concluded, I hope that you will no longer darken our doorstep! Good day!"*
+		*"When your business is concluded, I hope that you'll no longer seek to rot our trees with your ignorance! Good day!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0142!MEMORY KEEPER!/]
-	
-	
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!]
 		||
 		*"Yes, as I said... wait, gremlins?"*
 		(F#"Do you doubt Stalphos Gremlinsbane's word!?"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0160!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0160!MEMORY KEEPER!]
 		||
-		*"I wouldn't dream of it!! No, to be sure, I have read terrible tales of the gremlin folk!"*
+		*"I wouldn't dream of it!! No, to be sure, I've read terrible tales of the gremlin folk!"*
 		(F#"Then you too are committed to their extermination?!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0161!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0160!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0161!MEMORY KEEPER!]
 		||
-		*"I have searched my whole life for another who knew of the gremlin menace!"*
-		(F#"Brother, you have found your kindred slayer!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0162!MEMORY KEEPER!}
+		*"Oh, certainly! I've searched my whole life for another who recognized the gremlin menace!"*
+		(F#"Well, then Brother, you've found your kindred slayer!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0162!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0161!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0162!MEMORY KEEPER!]
 		||
-		*"But alas, I have yet to locate the soiled nest of the Gremlin King, for even our vast grove of memories contains little information on this nefarious Master of Shadows!"*
+		*"But alas, I've yet to locate the soiled nest of the Gremlin King... For even our vast grove of memories seems to record little information on this nefarious Master of Shadows!"*
 		(F#"You... are so wise in the ways of gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0163!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0162!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0163!MEMORY KEEPER!]
 		||
-		*"One would hope! I have dedicated my life to two things and two things alone! The first is the archiving and preservation of memories for posterity! And the second is the utter annihilation of the gremlin race!"*
-		(F#"It is as if we were of a single mind!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!}
+		*"One would hope! I've dedicated my life to two things and two things alone!"*
+		(F#"Clearly, one is to dope haircuts, but what's the other?"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0163!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!]
 		||
-		*"Then, Brother, will you aid me on my quest? I feel as though destiny is knocking at our door and we must answer its call! We should leave immediately!"*
-		(A#"I could use someone to watch my back... or as gremlin fodder..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!}
-		(B#"Hell no! The path of a gremlin slayer is a lonely one!"){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!}
+        *"Nay, Brother! The first is the archiving and preservation of memories for posterity!"*
+		(F#"By Roostors Comb! Such a noble - albeit boring - deed!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!]
+		||
+        *"And the second is wiping the gremlin race and any memory thereof from time and space!"*
+		(F#"Be still my beating heart!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!]
+		||
+		*"Then, Brother, will you aid me on my quest? I feel as though destiny now knocks at our door, and we must answer its call! We should leave immediately!"*
+		(A#"I could use someone to watch my back... or as gremlin fodder..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!}
+		(B#"Hell no! You lunatic!"){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0168!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!]
 		||
 		*"Then it is agreed? Let's make preparations!"*
 		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2077!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!]
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0168!MEMORY KEEPER!]
 		||
 		*"I implore you to reconsider!"*
-		(A#"Okay."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!}
-		(B#"Only fools think twice before acting!"){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!]
+		(A#"Okay."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!}
+		(B#"Only fools think twice before they act!"){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0169!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0168!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0169!MEMORY KEEPER!]
 		||
-		*"Then I suppose I must... wait. And the world too must wait to be liberated from the malevolent shadow of our gremlin overlords!"*
-		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!/]
-	
-	
+		*"Then, I suppose... I must wait. And the world too must wait to be liberated from the malevolent shadow of our gremlin overlords!"*
+		(F#"Oh, it won't be long! TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0169!MEMORY KEEPER!/]
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.000!MEMORY KEEPER!]
 		||
-		*"How may I be of assistance to you, Brother Inquisitor?"*
-		(A#"Any recent additions to the Archives?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!MEMORY KEEPER!}
-		(B#"I wish to read about the Wayfarer."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!MEMORY KEEPER!}
-		(C#"Nothing, I'll just wander around."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!}
-		(D#"What resources do we have on the Sylvan Architect?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.004!MEMORY KEEPER!}
-		(E#"I need no assistance from those beneath me."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!}
-		(F#"Shhhhhhh!!! Be very quiet; I'm hunting gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!}
+		*"Welcome, Brother!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!2.001!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.000!MEMORY KEEPER!/]
-	
-	
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.001!MEMORY KEEPER!]
+		||
+        *"Welcome to the Enclave's greatest achievement!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!2.002!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.001!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.002!MEMORY KEEPER!]
+		||
+        *"Welcome to the light of hope that grants sight to the truth-blind and illuminates the Path of Discipline!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!2.003!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.002!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.003!MEMORY KEEPER!]
+		||
+        *"Welcome to the Muninn Grove!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!2.004!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.003!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.004!MEMORY KEEPER!]
+		||
+        *"And how may I be of assistance to you, Brother Inquisitor?"*
+        (A#"Any recent additions to the Archives?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!MEMORY KEEPER!}
+		(B#"I wish to read about the Wayfarer."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!MEMORY KEEPER!}
+		(C#"Nothing, I'll just wander around, if that's okay."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!}
+		(D#"What resources do we have on the Sylvan Architect?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.004!MEMORY KEEPER!}
+		(E#"I'd only need your assistance if I were studying idiots in the wild."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!}
+		(F#"Shhhhhhh!!! Be very quiet; I'm hunting gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.004!MEMORY KEEPER!/]
+
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!]
 		||
 		*MULTICHECKER*
@@ -3104,8 +3186,8 @@ MEMORY KEEPER
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!/]
 
 
-	
-	
+
+
 ________________________________________________________________________
 SYLVAN REFUGE
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!]
@@ -3114,8 +3196,8 @@ SYLVAN REFUGE
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!/]
 
-	
-	
+
+???
 ormenos opened the sylvan refuge
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!]
 		||
@@ -4741,6 +4823,15 @@ EVENT WRITERS
 	
 ________________________________________________________________________
 FIGHTING WORDS
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!]
+        ||
+		**
+		(A#FIGHT){A:0,FIGHT}
+    [ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!/]
+
+
+
+
 ________________________________________________________________________
 NPC SWITCHERS
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X0011!DESCRIPTION!]

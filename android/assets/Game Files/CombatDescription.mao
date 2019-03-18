@@ -1707,7 +1707,7 @@ form forger
 	
 	In truth, Ormenos can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@
-	The impotent and unarmed Ormenos violently casts his weak punch at his equally feeble opponent. They pinch and pull each other's hair. The weakly poking each other's eyes. Yet no damage seems to have been cause on either side of this meek battle (?) and there are no signs that it will result in a clear victor - though both clearly appear to be losing.
+	The impotent and unarmed Ormenos violently casts his weak punch at his equally feeble opponent. They pinch and pull each other's hair. The weakly poking each other's eyes. Yet no damage seems to occur on either side of this meek battle (?) and there are no signs that it will result in a clear victor - though both clearly appear to be losing.
 	
 	Then something snaps in Ormenos' mind as he is reminded of his command to destroy his chosen target and he bites solidly into the Form Forger's jugular, causing a spectacular fountain of blood to erupt from her neck. Yet, before the blood can even splash back down on the floor, Ormenos is kicked in the nape and sent to the realms of sleep.@
 [1209/]
@@ -1715,7 +1715,9 @@ form forger
 memory keeper
 [/1210]
 	*2:
-	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
+    The Memory Keeper lunges at Ormenos in a wild display of animal instinct. It is as though he were a powder keg awaiting the spark that would set him off. Well, here it comes!
+	
+    Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
 	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the Archivists of the Muninn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Memory Keeper has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of falseflesh separate and collapse to the ground.
 	
@@ -1725,6 +1727,8 @@ memory keeper
 	
 	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
 	*3:
+    The Memory Keeper lunges at Ormenos in a wild display of animal instinct. It is as though he were a powder keg awaiting the spark that would set him off. Well, here it comes!
+
 	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
 	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the Archivists of the Muninn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Memory Keeper has been mashed into a shape unidentifiable as human remains.
@@ -1737,6 +1741,8 @@ memory keeper
 	
 	Ormenos himself cannot believe that he has killed his brothers. What could have possessed him to take such actions? His mind spins with half-baked explanations and excuses for his actions. So overwhelmed is he that his psyche becomes crushed under the unbearable weight of awareness that his hands are tainted with the blood of innocent magi of his Order... There's no turning back now. All is lost. All is...3*
 	*14:
+    The Memory Keeper lunges at Ormenos in a wild display of animal instinct. It is as though he were a powder keg awaiting the spark that would set him off. Well, here it comes!
+
 	Ormenos conjures up the vilest imagery from the bubblings pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
 	
 	The Memory Keeper begins to melt from inside out, the liquefied remains of his organs spilling out as his abdominal cavity becomes expose for all to see. The excruciating pain he suffers from this soul-wrenching Techne cause his to left out blood-curdling cries of agony until the bottom of his lungs melt into a fetid goo. His cries, now voiceless yet equally disturbing, understandly shock all the Archivists of the Muninn Grove. In the space of a thought, what the Memory Keeper has now become is no more than a nameless ooze.
@@ -1745,7 +1751,9 @@ memory keeper
 	
 	In truth, Ormenos can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@
-	The impotent and unarmed Ormenos violently casts his weak punch at his equally feeble opponent. They pinch and pull each other's hair. The weakly poking each other's eyes. Yet no damage seems to have been cause on either side of this meek battle (?) and there are no signs that it will result in a clear victor - though both clearly appear to be losing.
+    The Memory Keeper lunges at Ormenos in a wild display of animal instinct. It is as though he were a powder keg awaiting the spark that would set him off. Well, here it comes!
+
+	The impotent and unarmed Ormenos violently casts his weak punch at his equally feeble opponent. They pinch and pull each other's hair. The weakly poking each other's eyes. Yet no damage seems to occur on either side of this meek battle (?) and there are no signs that it will result in a clear victor - though both clearly appear to be losing.
 	
 	Then something snaps in Ormenos' mind as he is reminded of his command to destroy his chosen target and he bites solidly into the Memory Keeper's jugular, causing a spectacular fountain of blood to erupt from his neck. Yet, before the blood can even splash back down on the floor, Ormenos is kicked in the nape and sent to the realms of sleep.@
 [1210/]
@@ -1783,7 +1791,7 @@ midnight
 	
 	In truth, Ormenos can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@
-	The impotent and unarmed Ormenos violently casts his weak punch at his equally feeble opponent. They pinch and pull each other's hair. The weakly poking each other's eyes. Yet no damage seems to have been cause on either side of this meek battle (?) and there are no signs that it will result in a clear victor - though both clearly appear to be losing.
+	The impotent and unarmed Ormenos violently casts his weak punch at his equally feeble opponent. They pinch and pull each other's hair. The weakly poking each other's eyes. Yet no damage seems to occur on either side of this meek battle (?) and there are no signs that it will result in a clear victor - though both clearly appear to be losing.
 	
 	Then something snaps in Ormenos' mind as he is reminded of his command to destroy his chosen target and he bites solidly into Sister Midnight's jugular, causing a spectacular fountain of blood to erupt from her neck. Yet, before the blood can even splash back down on the floor, Ormenos is kicked in the nape and sent to the realms of sleep.@
 [1211/]
@@ -1893,7 +1901,7 @@ message bearer
 	
 	In truth, Ormenos can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@
-	The impotent and unarmed Ormenos violently casts his weak punch at his equally feeble opponent. They pinch and pull each other's hair. The weakly poking each other's eyes. Yet no damage seems to have been cause on either side of this meek battle (?) and there are no signs that it will result in a clear victor - though both clearly appear to be losing.
+	The impotent and unarmed Ormenos violently casts his weak punch at his equally feeble opponent. They pinch and pull each other's hair. The weakly poking each other's eyes. Yet no damage seems to occur on either side of this meek battle (?) and there are no signs that it will result in a clear victor - though both clearly appear to be losing.
 	
 	Then something snaps in Ormenos' mind as he is reminded of his command to destroy his chosen target and he bites solidly into the Form Forger's jugular, causing a spectacular fountain of blood to erupt from her neck. Yet, before the blood can even splash back down on the floor, Ormenos is kicked in the nape and sent to the realms of sleep.@
 [1218/]
