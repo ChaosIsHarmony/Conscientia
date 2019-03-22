@@ -116,6 +116,12 @@ acq glyph of Prime Archon prev
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2034!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00240!DESCRIPTION!/]
 
+	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0025!DESCRIPTION!]
+		||
+		*The cheerful mage reaches the Crypt of the Archons right as he finishes whistling the tune for the hundredth time - or was it the thousandth? In any event, it took him a long time to go a short way. In that time, he had many adventures, like when he slayed a cavern full of gremlins, or when he got Roostor drunk - not a good idea to get a god drunk, as it turns out! But time has come for him to return to the Enclave. To return to... by Roostor's comb! He's gotta fulfill his dream of caring for a herd of cows and become a cowherd! Oh, wait, not that. He's gotta become a coward. 3... 2... 1...*
+		(A#Non-bovine Leader Transformation, Activate!){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00240!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0025!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.003!DESCRIPTION!]
 		||
 		*Cautiously, Ormenos approaches the strange altar. Six digits rise skyward from the a giant palm of solid onyx, curving inwards at their tips. Cloudy jade fingernails each host candles burning with undying and unflinching flames. Red wax flows down the nails' gentle slopes, dripping towards the palm, but vanishing before ever reaching it.
@@ -2917,186 +2923,268 @@ MEMORY KEEPER
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.X000!MEMORY KEEPER!/]
 
 
-???
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.000!MEMORY KEEPER!]
 		||
-		*"Well, if it isn't the wise Brother Inquisitor, come to cast his derisive gaze upon our humble Grove of Squalid Memory..."*
+		*"Well, if it isn't the wise Brother Inquisitor, come to cast his derisive gaze upon our squalid grove..."*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.000!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0000!MEMORY KEEPER!]
 		||
-		*"What great cataclysm would drive one so illustrious to visit our 'useless' grove?"*
-		(A#"Brother, why all the anger towards a fellow?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.001!MEMORY KEEPER!}
-		(B#"The grove is useful; that is why I am here."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!}
+		*"What great tragedy would drive one so illustrious to visit the most 'useless' of Enclavean achievements?"*
+		(A#"Brother, why such passive aggression?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.001!MEMORY KEEPER!}
+		(B#"The grove is useful; that's why I'm here."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!}
 		(C#"Perhaps I had best leave."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!}
-		(D#"The utility of tools depends on the user, does it not?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.004!MEMORY KEEPER!}
-		(E#"You are undoubtedly useless; the grove's usefulness remains to be seen."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
+		(D#"The utility of a tool depends on the user, does it not?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.004!MEMORY KEEPER!}
+		(E#"You are undoubtedly useless; the grove, at least, could be used as firewood."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
 		(F#"Actually, I just kinda wandered in here..."){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.006!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0000!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.001!MEMORY KEEPER!]
 		||
-		*"Anger? I intended no such effect! I merely wished to say that I hope you do not darken our grove for long!"*
-		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0010!MEMORY KEEPER!}
+		*"Passive aggression? Those were not my designs!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0010!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.001!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0010!MEMORY KEEPER!]
 		||
-		*"We wouldn't want to keep you too long from those truth-blind Sylvarch whorshippers. Good day!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+        *"I merely wished to say that I hope you don't darken our grove for long with the shadow of ignorance!"*
+		(A#"If I offended you, I'm truly sorry, Brother."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.00101!MEMORY KEEPER!}
+		(B#"Isn't it more ignorant to ignore your peers' opinions?"){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.00102!MEMORY KEEPER!}
+		(E#"Quit being such a sulky twit."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.00105!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0010!MEMORY KEEPER!/]
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.00101!MEMORY KEEPER!]
+		||
+		*"Oh, no offense taken; truth-blind opinions concern me not."*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.00101!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.00102!MEMORY KEEPER!]
+		||
+		*"Is it not greater ignorance to pay heed to misguided thoughts, Brother?"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.001020!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.00102!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.001020!MEMORY KEEPER!]
+		||
+        *"I'm hardly egalitarian when it comes to truth, and though you're all blind to it, it is still truth!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.001020!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.00105!MEMORY KEEPER!]
+		||
+		*"Why...! You dare insult me in my own house? I will not stand for it!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.00105!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!]
+		||
+        *"Now, off with you! I'm busy!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!/]
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!]
 		||
-		*"Oh! So even to a creeper of the Huginn Swamp, the Muninn trees hold some value?"*
+		*"Oh! So even to a bellycrawler of the Huginn Swamp, the Muninn trees hold some value?"*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0020!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0020!MEMORY KEEPER!]
 		||
-		*"We are fortunate indeed to have you around!"*
+		*"We are fortunate indeed to have your charitable patronage!"*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0021!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0020!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0021!MEMORY KEEPER!]
 		||
-		*"Just please do not remain long, as I'm sure remembering the past is not for truth-blind Sylvarch lovers."*
+		*"Just please do not remain long, as I'd rather not find out if truth-blindess is infectious."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0021!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!]
 		||
-		*"Oh, but you just got here! Though I'm sure the Huginn Swamp is a more fitting place for the great Ormenos after all. Good day!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+		*"Oh, but you just got here!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0030!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!/]
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0030!MEMORY KEEPER!]
+		||
+        *"Though, perhaps the Huginn Swamp is a more fitting place for the great Ormenos to slither around."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0012!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0030!MEMORY KEEPER!/]
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.004!MEMORY KEEPER!]
 		||
 		*"...Well, I ask then: how could we have made tools without the memory of our forebearers' efforts?!"*
 		(C#"Maybe I should just leave."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!}
 		(D#"Necessity is the mother of invention, not memory."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.014!MEMORY KEEPER!}
-		(E#"You already lost one debate today, moron."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
+		(E#"You already lost one debate today, moron."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.00105!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.004!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!]
 		||
-		*"I have no more words for the truth-blind; you would be incapable of comprehending."*
-		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0050!MEMORY KEEPER!}
+		*"Tread lightly, Inquisitor... I'm in no mood to suffer your insults..."*
+		(A#"I was wrong to say that; I apologize, Brother."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0051!MEMORY KEEPER!}
+		(D#"Well, in truth, the Muninn's are genuinely remarkable and useful."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0054!MEMORY KEEPER!}
+		(E#"Is that so? Then enjoy them instead, you idiot."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0050!MEMORY KEEPER!]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0051!MEMORY KEEPER!]
 		||
-		*"Just try not to drool on the trees while you're here and leave as soon as your business is concluded."*
+		*"Good. Now, try not to drool on the trees while you're here, and leave as soon as your business is concluded."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0050!MEMORY KEEPER!/]
-	
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0051!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0054!MEMORY KEEPER!]
+		||
+		*"...Just try not to drool on the trees while you're here, and leave as soon as your business is concluded."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0054!MEMORY KEEPER!/]
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.006!MEMORY KEEPER!]
 		||
-		*"Hmmm... a purposeless vagrant... Fitting for a Huginn Swamp creeper indeed!"*
+		*"Wandered? Perhaps you mean slithered? Fitting for a Huginn Swamp creeper, indeed..."*
 		(F#"Where there be swamps, there be gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.006!MEMORY KEEPER!/]
-	
-		
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.014!MEMORY KEEPER!]
 		||
-		*"It may be, but I tell you that our loss of the memories on cloudstone creation, casting both near and far, Thought Wheel genesis and all other Vanquished Techne is tragic beyond all words precisely because our need is not what enables us to make these tools!"*
+		*"It may well be, but I tell you that our loss of the memories on cloudstone creation, casting both near and far, Thought Wheel genesis and all other Vanquished Techne is tragic beyond all words precisely because our need is not what enables us to make these tools!"*
 		(C#"True, but if all we did was remember, who would make tools?"){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0140!MEMORY KEEPER!}
 		(D#"Well, the Huginn folk are doing a good job of rediscovering these secrets."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0141!MEMORY KEEPER!}
-		(E#"Ironic, that you will die alone and forgotten."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
+		(E#"Ironic, that you too will die alone and forgotten."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.014!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0140!MEMORY KEEPER!]
 		||
 		*"Well... Well... Who's to say that we need any tools?! Perhaps what nature provided us with is enough! Maybe an excessive desire for more tools led to the Vanquished's demise!"*
 		(C#"Maybe I should just leave."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.003!MEMORY KEEPER!}
 		(D#"Then perhaps it's time you abandoned the Order and lived like a cave savage..."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0141!MEMORY KEEPER!}
-		(E#"I tire of your revolting obstinance."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
+		(E#"I tire of your infantile obstinance."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.005!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0140!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0141!MEMORY KEEPER!]
 		||
-		*"I... simply don't have time for this!"* 
-		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0142!MEMORY KEEPER!}
+		*"I... I simply don't have time for this!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0142!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0141!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0142!MEMORY KEEPER!]
 		||
-		*"When your business is concluded, I hope that you will no longer darken our doorstep! Good day!"*
+		*"When your business is concluded, I hope that you'll no longer seek to rot our trees with your ignorance! Good day!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0142!MEMORY KEEPER!/]
-	
-	
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!]
 		||
 		*"Yes, as I said... wait, gremlins?"*
 		(F#"Do you doubt Stalphos Gremlinsbane's word!?"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0160!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0160!MEMORY KEEPER!]
 		||
-		*"I wouldn't dream of it!! No, to be sure, I have read terrible tales of the gremlin folk!"*
+		*"I wouldn't dream of it!! No, to be sure, I've read terrible tales of the gremlin folk!"*
 		(F#"Then you too are committed to their extermination?!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0161!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0160!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0161!MEMORY KEEPER!]
 		||
-		*"I have searched my whole life for another who knew of the gremlin menace!"*
-		(F#"Brother, you have found your kindred slayer!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0162!MEMORY KEEPER!}
+		*"Oh, certainly! I've searched my whole life for another who recognized the gremlin menace!"*
+		(F#"Well, then Brother, you've found your kindred slayer!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0162!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0161!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0162!MEMORY KEEPER!]
 		||
-		*"But alas, I have yet to locate the soiled nest of the Gremlin King, for even our vast grove of memories contains little information on this nefarious Master of Shadows!"*
+		*"But alas, I've yet to locate the soiled nest of the Gremlin King... For even our vast grove of memories seems to record little information on this nefarious Master of Shadows!"*
 		(F#"You... are so wise in the ways of gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0163!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0162!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0163!MEMORY KEEPER!]
 		||
-		*"One would hope! I have dedicated my life to two things and two things alone! The first is the archiving and preservation of memories for posterity! And the second is the utter annihilation of the gremlin race!"*
-		(F#"It is as if we were of a single mind!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!}
+		*"One would hope! I've dedicated my life to two things and two things alone!"*
+		(F#"Clearly, one is to dope haircuts, but what's the other?"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0163!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!]
 		||
-		*"Then, Brother, will you aid me on my quest? I feel as though destiny is knocking at our door and we must answer its call! We should leave immediately!"*
-		(A#"I could use someone to watch my back... or as gremlin fodder..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!}
-		(B#"Hell no! The path of a gremlin slayer is a lonely one!"){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!}
+        *"Nay, Brother! The first is the archiving and preservation of memories for posterity!"*
+		(F#"By Roostors Comb! Such a noble - albeit boring - deed!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!]
+		||
+        *"And the second is wiping the gremlin race and any memory thereof from time and space!"*
+		(F#"Be still my beating heart!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!]
+		||
+		*"Then, Brother, will you aid me on my quest? I feel as though destiny now knocks at our door, and we must answer its call! We should leave immediately!"*
+		(A#"I could use someone to watch my back... or as gremlin fodder..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!}
+		(B#"Hell no! You lunatic!"){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0168!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!]
 		||
 		*"Then it is agreed? Let's make preparations!"*
 		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!9990.X2077!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!]
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0168!MEMORY KEEPER!]
 		||
 		*"I implore you to reconsider!"*
-		(A#"Okay."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!}
-		(B#"Only fools think twice before acting!"){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0166!MEMORY KEEPER!/]
-	
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!]
+		(A#"Okay."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!}
+		(B#"Only fools think twice before they act!"){B:0,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0169!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0168!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0169!MEMORY KEEPER!]
 		||
-		*"Then I suppose I must... wait. And the world too must wait to be liberated from the malevolent shadow of our gremlin overlords!"*
-		(F#"TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0167!MEMORY KEEPER!/]
-	
-	
+		*"Then, I suppose... I must wait. And the world too must wait to be liberated from the malevolent shadow of our gremlin overlords!"*
+		(F#"Oh, it won't be long! TALLY HO!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0169!MEMORY KEEPER!/]
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.000!MEMORY KEEPER!]
 		||
-		*"How may I be of assistance to you, Brother Inquisitor?"*
-		(A#"Any recent additions to the Archives?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!MEMORY KEEPER!}
-		(B#"I wish to read about the Wayfarer."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!MEMORY KEEPER!}
-		(C#"Nothing, I'll just wander around."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!}
-		(D#"What resources do we have on the Sylvan Architect?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.004!MEMORY KEEPER!}
-		(E#"I need no assistance from those beneath me."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!}
-		(F#"Shhhhhhh!!! Be very quiet; I'm hunting gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!}
+		*"Welcome, Brother!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!2.001!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.000!MEMORY KEEPER!/]
-	
-	
-	
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.001!MEMORY KEEPER!]
+		||
+        *"Welcome to the Enclave's greatest achievement!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!2.002!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.001!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.002!MEMORY KEEPER!]
+		||
+        *"Welcome to the light of hope that grants sight to the truth-blind and illuminates the Path of Discipline!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!2.003!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.002!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.003!MEMORY KEEPER!]
+		||
+        *"Welcome to the Muninn Grove!"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!2.004!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.003!MEMORY KEEPER!/]
+
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!2.004!MEMORY KEEPER!]
+		||
+        *"And how may I be of assistance to you, Brother Inquisitor?"*
+        (A#"Any recent additions to the Archives?"){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001!MEMORY KEEPER!}
+		(B#"I wish to read about the Wayfarer."){B:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!MEMORY KEEPER!}
+		(C#"Nothing, I'll just wander around, if that's okay."){C:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.003!MEMORY KEEPER!}
+		(D#"What resources do we have on the Sylvan Architect?"){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.004!MEMORY KEEPER!}
+		(E#"I'd only need your assistance if I were studying idiots in the wild."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!0.005!MEMORY KEEPER!}
+		(F#"Shhhhhhh!!! Be very quiet; I'm hunting gremlins!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.016!MEMORY KEEPER!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!2.004!MEMORY KEEPER!/]
+
+
+
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!]
 		||
 		*MULTICHECKER*
@@ -3104,8 +3192,8 @@ MEMORY KEEPER
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!/]
 
 
-	
-	
+
+
 ________________________________________________________________________
 SYLVAN REFUGE
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!]
@@ -3114,99 +3202,225 @@ SYLVAN REFUGE
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!/]
 
-	
-	
+
+
 ormenos opened the sylvan refuge
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!]
 		||
-		*Ormenos slowly descends the spiraling stairs, with each footfall carefully silenced. The passage is far wider than necessary to accommodate a single mage and far taller than would befit the discretion required for a secret passage. The ever-present and subdued amber light gradually begins to fill Ormenos' severely dilated pupils until he finally enters a lair illuminated by a massive array of crystals.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!}
+		*Light seems to have forgotten this place. A mere ten steps down a dubious spiral of stairs and shadows already blanket everything, thick and absolute like an inverse blizzard. Yet still he descends, each footfall carefully silenced. Though vision fails him, his ears help pick out the dimensions of the passage. Drops of condensation pour a periodic rain, slicking the steps and walls. Their echoes talk to the mage's ears, eager to reveal gossip not oft heard. It appears the passage is far wider than necessary to accommodate a single mage - likely, five linked arm in arm would not want for room - and far taller than the discretion required for a secret passage. But even still, Ormenos sticks close to the wall, fingers sliding along the damp stones.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!]
 		||
-		*The shock and his terror intensify as he sees projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors in this malignant workshop. A persistent sense of dread tears at the strings of his sanity, as he realizes the dimensions of the funiture are not tricks of perspective; they are indeed gigantic and fit for a form of equal proportions.*
+        *Soon, a subdued amber light gradually begins to fill Ormenos' severely dilated pupils. He wipes water from his eyelashes to kill the fuzzy, rainbow glares, and cautiously creeps towards the light. Before long, he enters a lair illuminated by a massive array of crystals.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!]
 		||
-		*Just then a toxic miasma - accompanied by rhythmic tremors - slowly begins to creep into the chamber from a doorway leading further into the depths. Though it is far from where Ormenos stands, it is well-illuminated by the crystals of this chamber and the one whence it leads. Ormenos has been able to wrest his sanity from the grips of chaos, but this changes the moment he sees the shadow of some massive, inhuman creature climbing up from a lower layer, threatening to emerge through the very door at which Ormenos now stares.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!}
+		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must perservere.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!]
 		||
-		*His courage breaks and his psyche splinters; he falls and desperately crawls his way back up the stairs as he whimpers helplessly in a mad rush.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
+        *Among the scattered spectres and various artifacts are objects more mundane. A chair here, a workbench there. He grounds himself in their banality, only to find their dimensions are no trick of perspective. Every table, every stool, everything is massive, fit for a form of equal proportions.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!]
+		||
+		*Then, he feels it: light tremors, rhythmic and dull at first, though soon growing in intensity. Across the way, a massive opening shrieks forth crunchy echoes, the slow pounding of wood on stone creeping up from the depths. The door is far from where Ormenos stands, and the chamber's crystals afford it no illumination. But suddenly, light appears among the shadows, bobbing in time with the tremors.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!]
+		||
+        *Ever-greater the quakes, ever-brighter the light, the mage hesitates, wondering if curiosity will be the end of him.*
+        (A#He must save himself!){A:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
+        (B#He will see it through.){B:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!}
+        (C#What will be will be.){C:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
+        (D#This will shatter his mind!){D:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
+        (E#Only a coward would run.){E:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!}
+        (F#Meh. It's just Vanargand in a tree suit.){F:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!/]
 	
-	
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!]
+		||
+        *Ormenos steels himself, driven to witness this eldritch terror, even if it drives him insane. Up until now, he has been able to wrest his sanity from the grips of chaos, but all this changes the moment he sees the shadow climbing up from the depths.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!]
+		||
+        *In that instant, Ormenos feels a fear well beyond the fear of death. Death would be merciful. No, this is the fear of the deathless, of those who cannot die. He has seen what should not have been seen. Now, the negative image of that shadow is burned into his Trueflesh, never to be forgotten. Now, its curse is seared into his very being, corrupting his grasp on reality, morphing perception beyond human ken.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!]
+		||
+        *Now, he is condemned to life with undying memory.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!]
+		||
+		*His courage breaks and his psyche splinters. He falls to his kness and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding. Time seems to stretch and all memory fades...*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!]
+		||
+        *Except for the one memory of that shadow.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!]
+		||
+        *Shocked at how calm he feels, Ormenos begins to skip back up the steps, away from the pain of reality. As he skips, he whistles a tune he remembers from a Gleebringer back in Tambul... Akkeber was his name. Maybe that guy wasn't so bad after all...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!/]
+
+
 comes in w babel
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!DESCRIPTION!]
-		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!|
-		*Ormenos slowly descends the spiraling stairs, following Babel. The passage is far wider than necessary to accommodate the duo and far taller than would befit the discretion required for a secret passage. The ever-present and subdued amber light gradually begins to fill Ormenos' severely dilated pupils until he finally enters a lair illuminated by a massive array of crystals. 
-		
-		The shock and his terror intensify as he sees projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors in this malignant workshop. A persistent sense of dread tears at the strings of his sanity, as he realizes the dimensions of the funiture are not tricks of perspective; they are indeed gigantic and fit for a form of equal proportions.
-		
-		Just then a toxic miasma - accompanied by rhythmic tremors - slowly begins to creep into the chamber from a doorway leading further into the depths. Though it is far from where Ormenos stands, it is well-illuminated by the crystals of this chamber and the one whence it leads. Ormenos has been able to wrest his sanity from the grips of chaos, but this changes the moment he sees the shadow of some massive, inhuman creature climbing up from a lower layer, threatening to emerge through the very door at which Ormenos now stares. 
-		
-		His courage breaks and he tries to flee in terror, but finds himself incapable of movement. This is the result of his companion who now stares down upon him derisively.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!DESCRIPTION!/]
-	
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!DESCRIPTION!]
+		||
+		*Light seems to have forgotten this place. It is a mere ten steps down a dubious spiral of stairs and shadows already blanket everything, thick and absolute like an inverse blizzard. Yet still Ormenos descends, following the faint footfalls Babel leaves to guide him. Though vision fails here, sound helps pick out the dimensions of the passage. In addition to the rhythmic sounds of their feet, drops of condensation pour a periodic rain, slicking the steps and walls. Their echoes talk to the mage's ears, eager to reveal gossip not oft heard. It appears the passage is far wider than necessary to accommodate the two magi - likely, five linked arm in arm would not want for room - and far taller than the discretion required for a secret passage. But even still, Ormenos sticks close to the wall, fingers sliding along the damp stones, chasing after his invisible leader.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!]
 		||
-		*Ormenos attempts to cry, letting out only whimpers. Babel then knowingly walks over to him and clasps his hands upon the pitiable mage's eyes, sending him into a dreamless sleep.*
-		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
+        *Soon, a subdued amber light gradually begins to fill Ormenos' severely dilated pupils. He wipes water from his eyelashes to kill the fuzzy, rainbow glares, and cautiously creeps towards the light. Before long, he follows Babel into a lair illuminated by a massive array of crystals.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!]
+		||
+		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must perservere. A derisive smirk curls Babels lips as he motions with his head to look again at the room.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!]
+		||
+        *Among the scattered specters and various artifacts are objects more mundane. A chair here, a workbench there. Ormenos grounds himself in their banality, only to find their dimensions are no trick of perspective. Every table, every stool, everything is massive, fit for a form of equal proportions.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!]
+		||
+		*Then, he feels it: light tremors, rhythmic and dull at first, though soon growing in intensity. Across the way, a massive opening shrieks forth crunchy echoes, the slow pounding of wood on stone creeping up from the depths. The door is far from where Ormenos stands, and the chamber's crystals afford it no illumination. But suddenly, light appears among the shadows, bobbing in time with the tremors.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!]
+		||
+        *Ever-greater the quakes, ever-brighter the light, the mage hesitates, wondering if curiosity will be the end of him.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!]
+		||
+        *Yet Ormenos steels himself, driven to witness this eldritch terror, even if it drives him insane. Up until now, he has been able to wrest his sanity from the grips of chaos, but all this changes the moment he sees the shadow climbing up from the depths.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!]
+		||
+        *In that instant, Ormenos feels a fear well beyond the fear of death. Death would be merciful. No, this is the fear of the deathless, of those who cannot die. He has seen what should not have been seen. Now, the negative image of that shadow is burned into his Trueflesh, never to be forgotten. Now, its curse is seared into his very being, corrupting his grasp on reality, morphing perception beyond human ken.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!]
+		||
+        *Now, he is condemned to life with undying memory.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!]
+		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!|
+		*Babel's grin now splits his face, baring the chattering teeth of a madman.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!/]
 	
-	
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!]
+		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!|
+		*Ormenos stares stupidly at Babel, as if only now seeing him for the first time. Caught between his fear of what approaches and of the man in front of him, he is utterly speechless.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!]
+		||
+        *Despair seeps into him like water into a sinking ship, and soon every fiber of his being is getting pulled into the abyss. He falls to his kness and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!]
+		||
+        *Babel steps in front, barring his way. In the space of a thought, the Prime Archon's hand rests flush against Ormenos' forehead.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!]
+		||
+        *Time seems to stretch and all memory fades, save the shadow.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!]
+		||
+        *But before long, a dreamless sleep removes even this from consciousness, and Ormenos...*
+		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!/]
+
+
+
 BABEL
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.000!BABEL!]
 		||
 		*"So you see, Brother Inquisitor, sometimes ignorance truly is bliss."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.000!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!]
 		||
-		*"What you have uncovered was not meant for us mortals to uncover."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!BABEL!}
+		*"What you've uncovered wasn't meant for us mortals to uncover."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!/]
-	
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!BABEL!]
-		||
-		*"I too had this misfortune, but have the strength to stand up to it."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!BABEL!/]
-	
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!]
+		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!|
+		*"I too had this misfortune, but at least I've the strength to stand up to it."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X9999!BABEL!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!/]
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!]
 		||
-		*"I will destroy it and bring freedom to our beloved Order."*
+		*"But don't worry, Brother. I seek to destroy it, to bring freedom to our beloved Order..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!]
 		||
-		*"Even if it costs me my life in exchange."*
+		*"Even if it costs my life in exchange."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!]
 		||
 		*"But for now, we must get you to a place where you can rest your tired mind..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!]
 		||
 		*"Sleep well, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X9999!BABEL!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!/]
-	
 
-	
+
+
 
 ________________________________________________________________________
 SCRIPTORIUM
@@ -3216,8 +3430,8 @@ SCRIPTORIUM
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!/]
 
-	
-	
+
+???
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!DESCRIPTION!]
 		||
 		*As he crosses the threshold leading to the Scriptorium, Ormenos loses all sense of time and space. The aromatics spicing the air relaxes the weary mage; the dull glow of a crystalline candelabra casts but the faintest light allowing no clear vision beyond the tip of his nose; the rhythmic beats of scattered percussionists and the melodic lull of the strings soothes his racing mind.*
@@ -4741,6 +4955,15 @@ EVENT WRITERS
 	
 ________________________________________________________________________
 FIGHTING WORDS
+    [/ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!]
+        ||
+		**
+		(A#FIGHT){A:0,FIGHT}
+    [ENCLAVE!ARCHIVES!MUNINN GROVE!9992.X1210!MEMORY KEEPER!/]
+
+
+
+
 ________________________________________________________________________
 NPC SWITCHERS
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9999.X0011!DESCRIPTION!]
