@@ -2176,19 +2176,19 @@ virgin run
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00100!DESCRIPTION!]
 		||
 		*The dank stench of stale air in the Archive corridors fades to forget as Ormenos steps into the shadowless Muninn Grove. Lights from myriad crystal arrays cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles.	The massive chamber gradually slopes downward, deep into the mountain's bowels, trees filling every last nook and cranny all the way to the area's invisible limits. Muninn limbs stretch across the ceiling and all along the walls, ever-searching for space to accommodate their expanding contents.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00101!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00100!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!]
 		||
 		*Many junior Archivists hustle about, busy at work, often tending to sapplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task winds a bitter smirk into Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves as his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem a hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00102!DESCRIPTION!}
+        (A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00102!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00102!DESCRIPTION!]
 		||
         *Ormenos muses on his musings, remembering the tale the Sumarkandian witch from the reports on the Wayfarer. Something about a man condemned to roll a boulder up a mountain path, only to always have it roll back down. In the witch's story it was designed to warn of obsession with hopeless tasks, though Ormenos always found an ineffable nobility in the project - then again, perhaps Sister Gate Keeper was right, that madness was simply beginning to sequester his wits; he dared not dwell too long on the possibility.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X00103!DESCRIPTION!}
+        (A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X00103!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00102!DESCRIPTION!/]
 
 >>>Witnessed theory v practice debate (2027)<<<
@@ -2592,27 +2592,27 @@ virgin run
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!]
 		||
 		*Birds appear so often in Phrygian aphorisms, and in so many different capacities - oft ranging from meals to abstract notions of Truth and Love. Ormenos feels an odd sympathy for the birds; trapped, slain, plucked, or cooked, they never seem to catch a break. This then reminds him it is the third night in the cycle and thus the smell of roast turkey will fill the Refectory later this evening. His sympathy is short-lived, thwarted by a lifetime of indirect bird slaughter.*
-   		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00142!DESCRIPTION!/]
+   		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00144!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!/]
 
-	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!]
+	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00144!DESCRIPTION!]
 		||
         *But soon the rattling echoes of this chain of thought fade into memory, and no sooner does Ormenos arrive at his forgotten destination. Perhaps in letting desire subside, he finally found it; of perhaps it was simply chaotic randomness mistaken for an underlying order. Whatever the case may be, he is here now. He then boldly walks through the exit and out of the Muninn Grove.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00143!DESCRIPTION!/]
+	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00144!DESCRIPTION!/]
 
 
 completed more than one event
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!DESCRIPTION!]
 		||
         *The dank stench of stale air in the Archive corridors fades to forget as Ormenos steps into the shadowless Muninn Grove. Lights from myriad crystal arrays cast the surroundings in a perpetual daylight, crisply illuminating all objects from all angles.	The massive chamber gradually slopes downward, deep into the mountain's bowels, trees filling every last nook and cranny all the way to the area's invisible limits. Muninn limbs stretch across the ceiling and all along the walls, ever-searching for space to accommodate their expanding contents.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0020!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0020!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.002!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0020!DESCRIPTION!]
 		||
 		*Many junior Archivists bustle about, busy at work, often tending to sapplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task winds a bitter smirk into Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves as his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem a hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0021!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0021!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0020!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0021!DESCRIPTION!]
