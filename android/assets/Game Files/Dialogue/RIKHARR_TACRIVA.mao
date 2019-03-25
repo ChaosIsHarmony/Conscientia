@@ -271,11 +271,11 @@ ARCHIVES
 		
 	[/KAVU!TACRIVA!ARCHIVES!1.100!DESCRIPTION!]
 		||	
-		*He stands up and begins to walk toward the cloudstone, ready to go get some fresh air before <Evening Prayers>. On the way he sees the Muninn, something about it is, odd. He feels bound to it somehow. He moves to touch the great white beast. Death by his hand and resurrection of it, too. The tree exhibits neither rancor nor thanks towards him, its slayer as well as its savior.
+		*He stands up and begins to walk toward the cloudstone, ready to go get some fresh air before <Evening Prayers>. On the way he sees the Muninn, something about it is, odd. He feels bound to it somehow. He moves to touch the great white beast. Death by his hand and resurrection of it, too. The tree exhibits neither rancor nor gratitude towards its slayer and savior.
 		
 		He does not understand and tries to peer deeper, seeing only the image of a crimson bird-like specter, roosting upon a long-dead tree. Two eyes shine like rubies in the dying light of dusk; they glare at Rikos not from the creature itself, but from the blood red sky behind it.
 		
-		Suddenly, the creatures condenses into a black sphere, sucking away the scene behind it, opening up a path into... something Rikos cannot quite comprehend.*
+		Suddenly, the creature condenses into a black sphere, sucking away the scene behind it, opening up a path beyond... into something Rikos cannot quite comprehend.*
 		(A#To the Interstice!){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3006!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!1.100!DESCRIPTION!/]
 

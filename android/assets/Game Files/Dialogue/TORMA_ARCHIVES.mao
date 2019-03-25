@@ -1072,25 +1072,38 @@ MATHETIA
 
 >>>Spoke to Word Weaver (2036)<<<
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X001201!DESCRIPTION!]
-		|^2036:ENCLAVE!ARCHIVES!MATHETIA!0.001202!DESCRIPTION!|
+		|^2036:ENCLAVE!ARCHIVES!MATHETIA!0.X001202!DESCRIPTION!|
 		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This is the second time Ormenos seeks to enter this cycle and it is hard to say what the consequences of such actions might lead to... Yet, the ambivalent portal to the chamber still opens, again ready to devour the curious mage.*
 		(A#Heed the warnings){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 		(F#Enter despite the dangers){F:1,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X001201!DESCRIPTION!/]
 
-	[/ENCLAVE!ARCHIVES!MATHETIA!0.001202!DESCRIPTION!]
-		||
+>>>Saw the truth of the Scriptorium (2105)<<<
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.X001202!DESCRIPTION!]
+		|^2105:ENCLAVE!ARCHIVES!MATHETIA!0.001203!DESCRIPTION!|
 		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This marks the third time Ormenos seeks to enter this cycle, and given the dying effect of the herbs, one can only assume Ormenos will overdose upon entering again. Too much of a good thing can be bad... Yet, the ambivalent portal to the chamber opens, ready to devour the curious mage once more.*
 		(D#Heed the warnings){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 		(F#Enter despite the dangers){F:1,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.001202!DESCRIPTION!/]
+	[ENCLAVE!ARCHIVES!MATHETIA!0.X001202!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.001203!DESCRIPTION!]
+		||
+		*At even the thought of entering the Scriptorium, the mage's stomach churns; acid erupting into his throat burns as it slides back towards its origin. The mere idea of returning taxes his flesh to its breaking point. His feet freeze in place, the perfect likeness of a statue. Something impels him to go, yet something deeper prevents him from doing so.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.001204!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.001203!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.001204!DESCRIPTION!]
+		||
+		*Before long, the war between fleshes False and True wipes the mage aside, forgetting his very existence. A victor emerges and his feet carry him to a destination he is too exhausted to care about.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.001204!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!]
 		||
 		*Ormenos suddenly realizes he now stands at the cusp of the Wing of Actuality and the Mathetia - before even deciding to do so. But he knows that makes no sense; he really must be working too hard. Clasping his hand over his temples, he gently rubs the tension away as best he can.
 
         Not wanting to dwell on impossibilities, he begins to think on where his ultimate destination lies. Return to the foyer of the Mathetia? Enter the Seat of the True Archon? Or perhaps walk among the trees of the Huginn Grove?*
-		(A#Enter the Seat of the True Archon){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!DESCRIPTION!}
+		(A#Enter the Seat of the True Archon){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!}
 		(B#Visit the Huginn Grove){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!}
 		(C#Return to the foyer){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!/]
@@ -3195,234 +3208,6 @@ MEMORY KEEPER
 
 
 ________________________________________________________________________
-SYLVAN REFUGE
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!]
-		||
-		*MULTICHECKER*
-		(A#CHECKER){A:0,NO ADDRESS}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!/]
-
-
-
-ormenos opened the sylvan refuge
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!]
-		||
-		*Light seems to have forgotten this place. A mere ten steps down a dubious spiral of stairs and shadows already blanket everything, thick and absolute like an inverse blizzard. Yet still he descends, each footfall carefully silenced. Though vision fails him, his ears help pick out the dimensions of the passage. Drops of condensation pour a periodic rain, slicking the steps and walls. Their echoes talk to the mage's ears, eager to reveal gossip not oft heard. It appears the passage is far wider than necessary to accommodate a single mage - likely, five linked arm in arm would not want for room - and far taller than the discretion required for a secret passage. But even still, Ormenos sticks close to the wall, fingers sliding along the damp stones.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!]
-		||
-        *Soon, a subdued amber light gradually begins to fill Ormenos' severely dilated pupils. He wipes water from his eyelashes to kill the fuzzy, rainbow glares, and cautiously creeps towards the light. Before long, he enters a lair illuminated by a massive array of crystals.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!]
-		||
-		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must perservere.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!]
-		||
-        *Among the scattered spectres and various artifacts are objects more mundane. A chair here, a workbench there. He grounds himself in their banality, only to find their dimensions are no trick of perspective. Every table, every stool, everything is massive, fit for a form of equal proportions.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!]
-		||
-		*Then, he feels it: light tremors, rhythmic and dull at first, though soon growing in intensity. Across the way, a massive opening shrieks forth crunchy echoes, the slow pounding of wood on stone creeping up from the depths. The door is far from where Ormenos stands, and the chamber's crystals afford it no illumination. But suddenly, light appears among the shadows, bobbing in time with the tremors.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!]
-		||
-        *Ever-greater the quakes, ever-brighter the light, the mage hesitates, wondering if curiosity will be the end of him.*
-        (A#He must save himself!){A:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
-        (B#He will see it through.){B:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!}
-        (C#What will be will be.){C:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
-        (D#This will shatter his mind!){D:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
-        (E#Only a coward would run.){E:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!}
-        (F#Meh. It's just Vanargand in a tree suit.){F:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!]
-		||
-        *Ormenos steels himself, driven to witness this eldritch terror, even if it drives him insane. Up until now, he has been able to wrest his sanity from the grips of chaos, but all this changes the moment he sees the shadow climbing up from the depths.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!]
-		||
-        *In that instant, Ormenos feels a fear well beyond the fear of death. Death would be merciful. No, this is the fear of the deathless, of those who cannot die. He has seen what should not have been seen. Now, the negative image of that shadow is burned into his Trueflesh, never to be forgotten. Now, its curse is seared into his very being, corrupting his grasp on reality, morphing perception beyond human ken.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!]
-		||
-        *Now, he is condemned to life with undying memory.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!]
-		||
-		*His courage breaks and his psyche splinters. He falls to his kness and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding. Time seems to stretch and all memory fades...*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!]
-		||
-        *Except for the one memory of that shadow.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!]
-		||
-        *Shocked at how calm he feels, Ormenos begins to skip back up the steps, away from the pain of reality. As he skips, he whistles a tune he remembers from a Gleebringer back in Tambul... Akkeber was his name. Maybe that guy wasn't so bad after all...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!/]
-
-
-comes in w babel
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!DESCRIPTION!]
-		||
-		*Light seems to have forgotten this place. It is a mere ten steps down a dubious spiral of stairs and shadows already blanket everything, thick and absolute like an inverse blizzard. Yet still Ormenos descends, following the faint footfalls Babel leaves to guide him. Though vision fails here, sound helps pick out the dimensions of the passage. In addition to the rhythmic sounds of their feet, drops of condensation pour a periodic rain, slicking the steps and walls. Their echoes talk to the mage's ears, eager to reveal gossip not oft heard. It appears the passage is far wider than necessary to accommodate the two magi - likely, five linked arm in arm would not want for room - and far taller than the discretion required for a secret passage. But even still, Ormenos sticks close to the wall, fingers sliding along the damp stones, chasing after his invisible leader.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!]
-		||
-        *Soon, a subdued amber light gradually begins to fill Ormenos' severely dilated pupils. He wipes water from his eyelashes to kill the fuzzy, rainbow glares, and cautiously creeps towards the light. Before long, he follows Babel into a lair illuminated by a massive array of crystals.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!]
-		||
-		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must perservere. A derisive smirk curls Babels lips as he motions with his head to look again at the room.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!]
-		||
-        *Among the scattered specters and various artifacts are objects more mundane. A chair here, a workbench there. Ormenos grounds himself in their banality, only to find their dimensions are no trick of perspective. Every table, every stool, everything is massive, fit for a form of equal proportions.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!]
-		||
-		*Then, he feels it: light tremors, rhythmic and dull at first, though soon growing in intensity. Across the way, a massive opening shrieks forth crunchy echoes, the slow pounding of wood on stone creeping up from the depths. The door is far from where Ormenos stands, and the chamber's crystals afford it no illumination. But suddenly, light appears among the shadows, bobbing in time with the tremors.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!]
-		||
-        *Ever-greater the quakes, ever-brighter the light, the mage hesitates, wondering if curiosity will be the end of him.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!]
-		||
-        *Yet Ormenos steels himself, driven to witness this eldritch terror, even if it drives him insane. Up until now, he has been able to wrest his sanity from the grips of chaos, but all this changes the moment he sees the shadow climbing up from the depths.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!]
-		||
-        *In that instant, Ormenos feels a fear well beyond the fear of death. Death would be merciful. No, this is the fear of the deathless, of those who cannot die. He has seen what should not have been seen. Now, the negative image of that shadow is burned into his Trueflesh, never to be forgotten. Now, its curse is seared into his very being, corrupting his grasp on reality, morphing perception beyond human ken.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!]
-		||
-        *Now, he is condemned to life with undying memory.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!]
-		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!|
-		*Babel's grin now splits his face, baring the chattering teeth of a madman.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!]
-		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!|
-		*Ormenos stares stupidly at Babel, as if only now seeing him for the first time. Caught between his fear of what approaches and of the man in front of him, he is utterly speechless.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!]
-		||
-        *Despair seeps into him like water into a sinking ship, and soon every fiber of his being is getting pulled into the abyss. He falls to his kness and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!]
-		||
-        *Babel steps in front, barring his way. In the space of a thought, the Prime Archon's hand rests flush against Ormenos' forehead.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!]
-		||
-        *Time seems to stretch and all memory fades, save the shadow.*
-        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!]
-		||
-        *But before long, a dreamless sleep removes even this from consciousness, and Ormenos...*
-		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!/]
-
-
-
-BABEL
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.000!BABEL!]
-		||
-		*"So you see, Brother Inquisitor, sometimes ignorance truly is bliss."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.000!BABEL!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!]
-		||
-		*"What you've uncovered wasn't meant for us mortals to uncover."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!]
-		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!|
-		*"I too had this misfortune, but at least I've the strength to stand up to it."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X9999!BABEL!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!]
-		||
-		*"But don't worry, Brother. I seek to destroy it, to bring freedom to our beloved Order..."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!]
-		||
-		*"Even if it costs my life in exchange."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!]
-		||
-		*"But for now, we must get you to a place where you can rest your tired mind..."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!/]
-
-	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!]
-		||
-		*"Sleep well, Brother."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X9999!BABEL!}
-	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!/]
-
-
-
-
-________________________________________________________________________
 SCRIPTORIUM
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!]
 		||
@@ -3431,236 +3216,304 @@ SCRIPTORIUM
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!/]
 
 
-???
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!DESCRIPTION!]
 		||
-		*As he crosses the threshold leading to the Scriptorium, Ormenos loses all sense of time and space. The aromatics spicing the air relaxes the weary mage; the dull glow of a crystalline candelabra casts but the faintest light allowing no clear vision beyond the tip of his nose; the rhythmic beats of scattered percussionists and the melodic lull of the strings soothes his racing mind.*
+		*Each step, every heartbeat, time stretches the distance between them, subdividing into vanishing segments. Nested among every slowing tick of the clock, space expands to fill the infinite spans. Soon, Ormenos is left with only the haziest of impressions of his surroundings.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0010!DESCRIPTION!]
 		||
-		*Stumbling over a hill of throw pillows, Ormenos takes a dive into the ground only to penetrate it, sinking deeply into a viscous ether. Ever-deeper, the light fades away, taking all sorrow, worry, excitation, anticipation, and emotion altogether along with it. The ineffable state Ormenos now falls into washes away the stains of the imagined, leaving behind only that which is. He feels as though in a profound sleep, but with an unparalleled awareness uncharacteristic of his waking life or even his dreams for that matter.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!}
+		*Aromatics spicing the air relax the weary mage; the dull glow of a crystalline candelabra casts just the faintest light; the rhythmic beats of scattered percussionists and the melodic lull of the strings sooth an aching mind.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0010!DESCRIPTION!/]
+	
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!]
+		||
+		*Stumbling over a hill of throw pillows, Ormenos takes a dive through the ground, sinking deeply into a viscous ether. Ever-deeper, the light fades, and along with it all sorrow, worry, excitation, anticipation, and emotion. A hypnotic wave of pure energy washes away the stains of the imagined, leaving behind only that which is. As though in a profound sleep, but with an unparalleled awareness, the perceiver dreams the waking life for years, milennia, eons.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0012!DESCRIPTION!|
-		*Emerging from the sea of cleansing ether he witnesses his physical form, the Falseflesh he had apparently left behind, now reclining among the throw pillows and alongside a fellow mage, of countenance so relaxed, so unperturbed as to be urecognizable as human, a mirror image of his own. Indeed, it's difficult to tell if Ormenos is merely staring into a mirror or if he has simply become inextricably intertwined his Sister who so serenely accompanies him in this Scriptorium.*
+		*Emerging from the sea of cleansing ether the revived consciousness witnesses its physical form, the Falseflesh it had apparently left behind, now reclining among the throw pillows and alongside a kindred spirit, of countenance so relaxed, so unperturbed as to be urecognizable as human, a mirror image made flesh. The Sister image peers back, deep into his truth, and smiles.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.000!DESCRIPTION!}
 		(B#Touch the Sister's mind){B:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X1212!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0012!DESCRIPTION!]
 		||
-		*The communion now continues, wordless, but equally intense. It is this singluar companionship that humankind shares in its continued existence on this plane. It is a fuel that feeds the fire of the mind, a dangerous conflagration that threatens to envelop the perceiver if they stare at it for too long - not just the abyss peers back at the observer, all primordial entities do.*
+		*The communion continues, wordless, yet with equal intensity. It is this forgotten companionship this place revives, the fuel that feeds mind's fire, a dangerous conflagration that threatens to envelop the perceiver who gazes at length...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0012!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0013!DESCRIPTION!]
 		||
 		*And with this thought, all thought ceases and Ormenos drifts into a peaceful and actionless state where he simply is and no longer does.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0014!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0013!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0014!DESCRIPTION!]
 		||
 		*...*
-		(A#Leave){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.000!DESCRIPTION!}
+		(A#Awaken){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0014!DESCRIPTION!/]
-	
-	
+
+
 spoke to word smith
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!DESCRIPTION!]
 		||
-		*Ormenos once more enters the Scriptorium and thus the state of desireless being, which a lonely part of him had so paradoxically longed for since his last sojourn here. His Trueflesh bathes in the immaculate fusion of his senses as he breathes in the spicy aromatics, internalizes the musical vibrations and releases his hands from the reins of his mind.*
+		*Ormenos once more enters the Scriptorium and thus the state of desireless being, the state that lonely part of him has so longed for. His Trueflesh bathes in the immaculate fusion of his senses as he breathes in the spicy aromatics, internalizes the musical vibrations and releases his hands from the reins of his mind.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0020!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0020!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0021!DESCRIPTION!|
-		*As he once more emerges from initiation of his Trueflesh into the realm of passionless reality, he finds himself staring once more into the mirror image of his Brother, identical to him in essence.*
+		*As he once more emerges from the transition of his Trueflesh into the realm of passionless reality, he finds himself staring anew into the mirror image of his Brother, a reflection made flesh.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.000!DESCRIPTION!}
 		(B#Touch the Brother's mind){B:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X1213!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0020!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0021!DESCRIPTION!]
 		||
-		*The communion now continues, wordless, and with some degree of intensity. It is this singluar companionship that humankind shares in its continued existence on this plane. It is a fuel that feeds the fire of the mind, a dangerous conflagration that threatens to envelop the perceiver if they stare at it for too long - not just the abyss peers back at the observer, all primordial entities do.*
+		*The communion continues, wordless, yet with equal intensity. It is this forgotten companionship this place revives, the fuel that feeds mind's fire, a dangerous conflagration that threatens to envelop the perceiver who gazes at length...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0022!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0021!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0022!DESCRIPTION!]
 		||
-		*But this time was noticeably different; emotions persisted, fears, insecurities, leaden weights dragging Ormenos down into the depths. Thus, Ormenos is not able to delve into his deepest state of relaxation as he usually does. Thought remains; action remains; Ormenos remains.*
+		*But the journey to his current state was somehow... different. Emotions persisted, fears, insecurities, leaden weights dragging Ormenos down into the depths. In truth, Ormenos is incapable of delving into his usual state of deep relaxation. Thought remains; action remains; Ormenos remains.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0023!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0022!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0023!DESCRIPTION!]
 		||
-		*It seems it is not without reason that caution is demanded and the brothers and sisters of the Enclave are discouraged from entering too frequently.*
-		(A#Leave){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
+		*Sufficiency begets contentment, and the mage now realizes it is not without reason that the Choir demands caution, and that the Brothers and Sisters of the Enclave are discouraged from entering too frequently.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0024!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0023!DESCRIPTION!/]
-	
-	
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0024!DESCRIPTION!]
+		||
+		*It is thus that an unrequited Ormenos rises from his seat, a little less cloud-like than before, and glides towards the door, soon to re-enter the no less real, but much less inviting, world of desires.*
+		(A#Exit){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0024!DESCRIPTION!/]
+
+
 spoke with word weaver
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!DESCRIPTION!]
 		||
-		*Now growing perhaps too accustomed to this state of physical intoxication with foreign elements, Ormenos is no longer as affected as he once was. He walks in and sees a room, devoid of all things but a green crystal casting its eldritch light upon the faces of mesmerized magi, heads perched upon uneven stones of the coarsest grain.*
+		*Now growing perhaps too accustomed to this state of physical and spiritual intoxication, Ormenos is no longer as affected as he once was. He walks in and sees a room, devoid of all things but a massive, luminscent emerald casting its eldritch light upon the faces of mesmerized magi, heads perched upon uneven stones of the coarsest grain.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0030!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0030!DESCRIPTION!]
 		||
-		*But are these magi slave to this crystalline overlord, or do they merely pledge allegiance to an inspirational artifact? Great theories discovered, impossible connections made, progress itself seems to be tied to this work of Vanquished artifice.*
+		*But are these magi slave to this crystalline overlord, or do they merely pledge allegiance to an inspirational artifact? Great theories discovered, impossible connections made, progress itself seems to be intimately tied to this Scriptorium and its work of Vanquished artifice.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0031!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0030!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0031!DESCRIPTION!]
 		||
-		*Yet a haunting suspicion besieges Ormenos... Who placed this crystal here and to what end? What are the contents of the crystal and why do they seek to elicit a blank state from the visiting magi? In this Scriptorium, who are the writers and who are the tomes?*
-		(A#Leave){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.003!DESCRIPTION!}
-		(B#Destroy the crystal){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!2.X000!DESCRIPTION!}
+		*Yet a haunting suspicion pricks Ormenos, warning not all is as it should be... A flash of insight drives him to the unformed questions the situation begs: Who placed this crystal here and to what end? What are the contents of the crystal and why do they seek to elicit a blank state from the visiting magi? In this Scriptorium, who are the writers and who are the tomes?*
+		(A#Leave){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.010!DESCRIPTION!}
+		(B#Destroy the crystal){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!2.000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0031!DESCRIPTION!/]
-	
-	
+
+exiting
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!1.000!DESCRIPTION!]
 		||
-		*Sufficiency begets contentment, and Ormenos knows when he has had his fill. In truth, it is precisely this lack of avarice for respite that defines all the magi of the Order. Without effort there is no motion; without motion there is stagnation. It is thus that Ormenos rises from his cloud-like seat and floats towards the door and back towards the no less real, but much less inviting world of desires.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
+		*Sufficiency begets contentment, and Ormenos knows when he has had his fill. In truth, it is precisely this lack of avarice for respite that defines all the magi of the Order. Without effort, there is no motion; without motion, there is stagnation.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.001!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!1.000!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!1.001!DESCRIPTION!]
+		||
+		*Without Discipline, there is nothing.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.002!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!1.001!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!1.002!DESCRIPTION!]
+		||
+		*Ormenos will leave the illiterati to their fruitless superstitions, to their woefully incomplete paths. He seeks to do what the historical Biracul never could: to mend the broken path of Awareness, to light the way to understanding with the myriad torches of knowledge.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.003!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!1.002!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!1.003!DESCRIPTION!]
 		||
-		*Sufficiency begets contentment... Yet, despite having had more than his fill of this dreary den, Ormenos is anything but content as he leaves along with his awareness of the cruel reality of the Scriptorium's unveiled countenance.*
+		*Desire then extends her hand, plucking Ormenos from his cloud-like seat. The half-dazed mage then floats towards the door and back towards the no less real, but much less inviting, world of endless appetites.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!1.003!DESCRIPTION!/]
-	
-	
->>>Got Luin armor (12302)<<<
-	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.X000!DESCRIPTION!]
-		|^12302:ENCLAVE!ARCHIVES!SCRIPTORIUM!2.001!DESCRIPTION!|
-		*Though unsure of what his motives may be, Ormenos resolves to destroy the crystal along with its prisoners. No Techne is needed to summon up great powers, as the frailty of an unprotected crystal is its own worst enemy. 
-		
-		The sheep of the Order are so complacent that the Choir never even felt the need to protect this device from destruction. What does that say about Ormenos? Could this be the first time he has acted of his own volition? Yet as he acts in ignorance of his motivations, he suspects the strings are still attached, but the puppeteer was never the Choir to begin with.
-		
-		However, none of this matters, as his fracturing of the crystal with a pillow rock sends a shockwave of energy consuming not simply the room in which he and his captive compatriots occupy, but the entire Wing of Actuality. But Ormenos will not be around to see this, at least not this Ormenos; for his story has ended and his Falseflesh is abandoned.*
-		(A#...){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.X000!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!1.010!DESCRIPTION!]
+		||
+		*Sufficiency begets contentment... Yet, despite having had more than his fill of this dreary den, Ormenos is anything but content. He drags crestfallen feet toward the exit, the cruel reality of the Scriptorium now forever in tow.*
+		(A#Exit){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2105!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!1.010!DESCRIPTION!/]
+
+destroy crystal	
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.000!DESCRIPTION!]
+		||
+		*Rage? Disillusion? Insanity? Ormenos struggles to name the trigger, the spark that will destroy the crystal. He well knows the explosion will be fatal, and with a crystal this large, this wing of the Archives will return to dust before its sound even reaches the magi in the Mathetia...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!2.001!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.000!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.001!DESCRIPTION!]
 		||
-		*Though unsure of what his motives may be, Ormenos resolves to destroy the crystal along with its prisoners. No Techne is needed to summon up great powers, as the frailty of an unprotected crystal is its own worst enemy. 
-		
-		The sheep of the Order are so complacent that the Choir never even felt the need to protect this device from destruction. What does that say about Ormenos? Could this be the first time he has acted of his own volition? Yet as he acts in ignorance of his motivations, he suspects the strings are still attached, but the puppeteer was never the Choir to begin with.
-		
-		However, none of this matters, as his fracturing of the crystal with a pillow rock sends a shockwave of energy consuming not simply the room in which he and his captive compatriots occupy, but the entire Wing of Actuality. Luin springs into action, guarding Ormenos' Falseflesh from the terrors of obliteration and the crushing weight of the collapsing rocks that seek to exterminate him. 
-		
-		But Ormenos will not survive to see the outcome of his actions, at least not this Ormenos; for his story has ended and his Falseflesh is abandoned as he suffocates under the rubble.*
-		(A#...){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+		*Like stepping off a cliff only to realize it was a bad idea, Ormenos awakens in a Falseflesh no longer under his control. All he can do now is observe as his world collapses around him.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!2.002!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.001!DESCRIPTION!/]
-	
-	
-	
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.002!DESCRIPTION!]
+		||
+		*No Techne is needed to summon unparalleled forces; the frailty of an unprotected crystal is its own worst enemy... Odd... Ormenos just now understands that the sheep of the Order are so complacent the Choir never even felt the need to protect this ancient device from destruction.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!2.003!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.002!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.003!DESCRIPTION!]
+		||
+		*What does that say about him? Could this be the first time he has acted of his own volition? Yet as he acts in ignorance of his motivations, he feels the strings are still attached, but the puppeteer was never even the deceitful Choir...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!2.X004!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.003!DESCRIPTION!/]
+
+>>>Got Luin armor (12302)<<<
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.X004!DESCRIPTION!]
+		|^12302:ENCLAVE!ARCHIVES!SCRIPTORIUM!2.005!DESCRIPTION!|
+		*But what does it matter? His hand now grips a rock pillow. It links to the crystal for the briefest instant. The glassy shell shatters, soundlessly, invisibly; for all light, all noise, everything is consumed in the white hot expression of energy that immediately follows. In the space of a thought, the entire Wing of Actuality vanishes. But Ormenos is no longer around to witness this, Falseflesh devoured by the angry expansion of destruction...*
+		(A#Dream){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!9.000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.X004!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.005!DESCRIPTION!]
+		||
+		*But what does it matter? His hand now grips a rock pillow. It links to the crystal for the briefest instant. The glassy shell shatters, soundlessly, invisibly; for all light, all noise, everything is consumed in the white hot expression of energy that immediately follows. In the space of a thought, the entire Wing of Actuality vanishes...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!2.0050!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.005!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.0050!DESCRIPTION!]
+		||
+		*But of course, faithful to his bond, Luin springs into action. Ormenos' Falseflesh wears the emerald glow promised by a pact he no longer recalls. It protects him from the terrors of obliteration, the flesh-melting heat, and the crushing weight of the collapsing rocks that would erase his very existence.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!2.0051!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.0050!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!2.0051!DESCRIPTION!]
+		||
+		*Alas, Ormenos will not survive to see the outcome of his actions, for though Luin is an unparalleled defense, there are assaults it is powerless against. Yet, the mage barely seems to notice the ever-dwindling supply of fresh air, so subtly does it deplete. Time slows as his exhalations grow deeper than their opposite, and he wonders if the plants his Falseflesh will nourish will think him their benefactor...*
+		(A#Dream){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!9.000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!2.0051!DESCRIPTION!/]
+
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9.000!DESCRIPTION!]
+		||
+		*~ac*
+		(A#BIRACUL){A:0,MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!}
+		(B#RIKHARR){B:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+		(C#THETIAN){C:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
+		(D#EIDOS){D:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+		(E#WULFIAS){E:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+		(F#EIDOS){F:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9.000!DESCRIPTION!/]
+
+
+
 WORD SMITH
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.000!WORD SMITH!]
 		||
-		*"My mirror, my shadow self, cast in relief by the light of the mind's fire."*
+		*"My mirror, my shadow self, cast in relief by the light of Mind's fire."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.000!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!WORD SMITH!]
 		||
 		*"Commune with me and muse on the Wayfarer."*
 		(A#"She is as us: mirror, reflector of truth, unseen by the eyes."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!WORD SMITH!]
 		||
-		*"As many I see her; the Wayfarer's tomes, many Falsefleshes did they use to write, many lifetimes to travel."*
+		*"Many Falsefleshes did she wear; many hands did she use to write; many lifetimes did she travel."*
 		(A#"And we as companions join her."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!WORD SMITH!]
 		||
 		*"Truth abides."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.004!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.004!WORD SMITH!]
 		||
 		*"But the part of our whole you examine, she is unique as the heart is to the mind."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.005!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.004!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.005!WORD SMITH!]
 		||
-		*"Her feet have to the Beginning traveled."*
+		*"Her feet have to the Beginning traveled?"*
 		(A#"Yes, perhaps, but which deeds remain yet unseen?"){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.006!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.005!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.006!WORD SMITH!]
 		||
-		*"We may but see with our own Trueflesh."*
+		*"We may but see with the Eye."*
 		(A#"And if the Mind-Loom weaves us as one?"){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.007!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.006!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.007!WORD SMITH!]
 		||
-		*"You are afraid of truth already known to you?"*
+		*"Fear you this truth?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.008!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.007!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.008!WORD SMITH!]
 		||
 		*"Emotion so deep-seated, uncleansed it remains."*
 		(A#"There is no self to lose."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.009!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.008!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.009!WORD SMITH!]
 		||
-		*"From the One we come and to it we return."*
+		*"For from the One we come and to it we return."*
 		(A#"It is only a question of when."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.010!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.009!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.010!WORD SMITH!]
 		||
 		*"'When' is without significance in the Infinite Spiral..."*
-		(A#"Words begin to lose meaning..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.011!WORD SMITH!}
+		(A#"Words lose all meaning..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.011!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.010!WORD SMITH!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.011!WORD SMITH!]
 		||
 		*"...in the Infinite Spiral..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!10.X000!WORD SMITH!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.011!WORD SMITH!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!10.X000!WORD SMITH!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!10.X000!WORD SMITH!/]
 
-	
-	
+
+
 WORD WEAVER
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.000!WORD WEAVER!]
 		||
-		*"My mind, my thought made form, cast in relief by the light of the mind's fire."*
+		*"My mind, my thought made form, cast in relief by the light of Mind's fire."*
 		(A#"We are but reflections of the One."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.000!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!WORD WEAVER!]
 		||
 		*"Pieces on Its board."*
-		(A#"Moved by Its hand, unseen."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!WORD WEAVER!}
+		(A#"Moved by Its hand unseen."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.001!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!WORD WEAVER!]
 		||
-		*"Dispassionately used and discarded, as hair, as skin, as blood."*
+		*"Dispassionately used until discarded, as hair, as skin, as blood."*
 		(A#"But what is a player without Its pieces?"){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.002!WORD WEAVER!/]
 
@@ -3678,78 +3531,73 @@ WORD WEAVER
 
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.005!WORD WEAVER!]
 		||
-		*"The Infinite Spiral makes of Fate a piece and of Itself... a player."*
+		*"The Infinite Spiral makes of Fate a piece, and of Itself a player."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.006!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.005!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.006!WORD WEAVER!]
 		||
 		*"Yet it too is but a piece, and who could be Its player but Itself?"*
 		(A#"Then there is no end."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.007!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.006!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.007!WORD WEAVER!]
 		||
 		*"Need there be?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.008!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.007!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.008!WORD WEAVER!]
 		||
-		*"Finality is an illusion cast by the mind's fire, merely the shadow of genesis!"*
+		*"Finality is an illusion cast by Mind's fire, merely the shadow of genesis!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.009!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.008!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.009!WORD WEAVER!]
 		||
-		*"We are all illusions born of the mind's fire!"*
+		*"We are all illusions born of Mind's fire!"*
 		(A#"What then is real?!"){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.010!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.009!WORD WEAVER!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.010!WORD WEAVER!]
 		||
 		*"'What' is without significance in the Infinite Spiral..."*
-		(A#"Words begin to lose meaning..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.011!WORD WEAVER!}
+		(A#"Words lose all meaning..."){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.011!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.010!WORD WEAVER!/]
-		
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.011!WORD WEAVER!]
 		||
 		*"...in the Infinite Spiral..."*
 		(A#"...Does truth abide..?"){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!10.X000!WORD WEAVER!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.011!WORD WEAVER!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!10.X000!WORD WEAVER!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!10.X000!WORD WEAVER!/]
-	
+
+
 
 
 ________________________________________________________________________
 SEAT OF THE TRUE ARCHON
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!DESCRIPTION!]
-		||
-		*MULTICHECKER*
-		(A#CHECKER){A:0,NO ADDRESS}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!DESCRIPTION!/]
-	
-	
+???
 virgin run
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001!DESCRIPTION!]
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!]
 		||
-		*The dust lies thick upon most corners of this vast chamber. Anachronistic braziers burn tirelessly, casting a smoky haze about the room. A natural spring bisects the room, cascading down from the ceiling, pooling into a shallow well and finally exiting to parts unknown through a discreet point of egress. This pristine water seems to feed a luscious and overgrown underground garden lit by an array of several brilliant crystals.
+		*Dust rests thick upon all residents of this vast chamber, a blanket guarding the silent slumber of the forgotten items. At the far end, bronze braziers burn tirelessly, casting a smoky wall of haze, nearly obscuring what lies beyond. Vague impressions do make their way through the wall of smoke, though, revealing a natural spring bisecting the room. Cascading down from an outlet in the ceiling, it later pools into a shallow well only to exit to parts unknown through a discreet point of egress. The pristine water feeds a luscious and overgrown garden that hides behind the braziers smoke. Several brilliant crystals illuminate the flora, giving them a ghoulish glow.*
 		
-		Here lie much of the discarded and broken fragments of Vanquished and Thiudan artifacts - untended, unimportant, unwanted. The ancient societies to whom these objects once belonged birthed the magnificent Huginn and Muninn groves; their wisdom gave the Path of Discipline; their diligence amassed the innumerable volumes which line the Great Spiral Path, ascending skywards in the foyer of Mathetia. 
+		*Here lie many of the discarded and broken fragments of Vanquished and Thiudan artifacts - untended, unimportant, unwanted. The ancient societies to whom these objects once belonged birthed the magnificent Huginn and Muninn groves; their wisdom gave the Path of Discipline; their diligence amassed the innumerable volumes which line the Great Spiral Path, ascending skywards in the foyer of Mathetia.*
 		
-		It is only because those who preceded worked tirelessly that the current generation can enjoy the fruits of their labors; and it is thus the Enclaveans endeavor to ensure this well of intellectual riches does not dry up for the generations to come.
+		*It is only because those who preceded worked tirelessly that the current generation can enjoy the fruits of their labors; and it is thus the Enclaveans endeavor to ensure this well of intellectual riches does not dry up for the generations to come.*
 		
-		But seeing these forgotten and damaged relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean sense of pride. Countless unnamed and unremembered individuals exhuasted their life force to yield only feeble fruits, if any at all. Will he too be lost in the mire of history?*
+		*But seeing these forgotten and damaged relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean sense of pride. Countless unnamed and unremembered individuals exhuasted their life force to yield only feeble fruits, if any at all. Will he too be lost in the mire of history?*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Look around){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001!DESCRIPTION!/]
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!/]
 	
 >>>Met Babel at Seat of True Ar (2030)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!]
@@ -4548,8 +4396,235 @@ know babel is Pr. Ar.
 		*"Come. Follow me and witness a sight that cannot be unseen..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.004!BABEL!/]
+
+
+
+
+________________________________________________________________________
+SYLVAN REFUGE
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!/]
+
+
+
+ormenos opened the sylvan refuge
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!]
+		||
+		*Light seems to have forgotten this place. A mere ten steps down a dubious spiral of stairs and shadows already blanket everything, thick and absolute like an inverse blizzard. Yet still he descends, each footfall carefully silenced. Though vision fails him, his ears help pick out the dimensions of the passage. Drops of condensation pour a periodic rain, slicking the steps and walls. Their echoes talk to the mage's ears, eager to reveal gossip not oft heard. It appears the passage is far wider than necessary to accommodate a single mage - likely, five linked arm in arm would not want for room - and far taller than the discretion required for a secret passage. But even still, Ormenos sticks close to the wall, fingers sliding along the damp stones.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!]
+		||
+        *Soon, a subdued amber light gradually begins to fill Ormenos' severely dilated pupils. He wipes water from his eyelashes to kill the fuzzy, rainbow glares, and cautiously creeps towards the light. Before long, he enters a lair illuminated by a massive array of crystals.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!]
+		||
+		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must perservere.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!]
+		||
+        *Among the scattered spectres and various artifacts are objects more mundane. A chair here, a workbench there. He grounds himself in their banality, only to find their dimensions are no trick of perspective. Every table, every stool, everything is massive, fit for a form of equal proportions.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!]
+		||
+		*Then, he feels it: light tremors, rhythmic and dull at first, though soon growing in intensity. Across the way, a massive opening shrieks forth crunchy echoes, the slow pounding of wood on stone creeping up from the depths. The door is far from where Ormenos stands, and the chamber's crystals afford it no illumination. But suddenly, light appears among the shadows, bobbing in time with the tremors.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!]
+		||
+        *Ever-greater the quakes, ever-brighter the light, the mage hesitates, wondering if curiosity will be the end of him.*
+        (A#He must save himself!){A:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
+        (B#He will see it through.){B:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!}
+        (C#What will be will be.){C:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
+        (D#This will shatter his mind!){D:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
+        (E#Only a coward would run.){E:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!}
+        (F#Meh. It's just Vanargand in a tree suit.){F:1,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0014!DESCRIPTION!/]
 	
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!]
+		||
+        *Ormenos steels himself, driven to witness this eldritch terror, even if it drives him insane. Up until now, he has been able to wrest his sanity from the grips of chaos, but all this changes the moment he sees the shadow climbing up from the depths.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0015!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!]
+		||
+        *In that instant, Ormenos feels a fear well beyond the fear of death. Death would be merciful. No, this is the fear of the deathless, of those who cannot die. He has seen what should not have been seen. Now, the negative image of that shadow is burned into his Trueflesh, never to be forgotten. Now, its curse is seared into his very being, corrupting his grasp on reality, morphing perception beyond human ken.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00150!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!]
+		||
+        *Now, he is condemned to life with undying memory.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00151!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!]
+		||
+		*His courage breaks and his psyche splinters. He falls to his kness and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding. Time seems to stretch and all memory fades...*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!]
+		||
+        *Except for the one memory of that shadow.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!]
+		||
+        *Shocked at how calm he feels, Ormenos begins to skip back up the steps, away from the pain of reality. As he skips, he whistles a tune he remembers from a Gleebringer back in Tambul... Akkeber was his name. Maybe that guy wasn't so bad after all...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!/]
+
+
+comes in w babel
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!DESCRIPTION!]
+		||
+		*Light seems to have forgotten this place. It is a mere ten steps down a dubious spiral of stairs and shadows already blanket everything, thick and absolute like an inverse blizzard. Yet still Ormenos descends, following the faint footfalls Babel leaves to guide him. Though vision fails here, sound helps pick out the dimensions of the passage. In addition to the rhythmic sounds of their feet, drops of condensation pour a periodic rain, slicking the steps and walls. Their echoes talk to the mage's ears, eager to reveal gossip not oft heard. It appears the passage is far wider than necessary to accommodate the two magi - likely, five linked arm in arm would not want for room - and far taller than the discretion required for a secret passage. But even still, Ormenos sticks close to the wall, fingers sliding along the damp stones, chasing after his invisible leader.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.002!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!]
+		||
+        *Soon, a subdued amber light gradually begins to fill Ormenos' severely dilated pupils. He wipes water from his eyelashes to kill the fuzzy, rainbow glares, and cautiously creeps towards the light. Before long, he follows Babel into a lair illuminated by a massive array of crystals.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0020!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!]
+		||
+		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must perservere. A derisive smirk curls Babels lips as he motions with his head to look again at the room.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!]
+		||
+        *Among the scattered specters and various artifacts are objects more mundane. A chair here, a workbench there. Ormenos grounds himself in their banality, only to find their dimensions are no trick of perspective. Every table, every stool, everything is massive, fit for a form of equal proportions.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!]
+		||
+		*Then, he feels it: light tremors, rhythmic and dull at first, though soon growing in intensity. Across the way, a massive opening shrieks forth crunchy echoes, the slow pounding of wood on stone creeping up from the depths. The door is far from where Ormenos stands, and the chamber's crystals afford it no illumination. But suddenly, light appears among the shadows, bobbing in time with the tremors.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0023!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!]
+		||
+        *Ever-greater the quakes, ever-brighter the light, the mage hesitates, wondering if curiosity will be the end of him.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0024!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!]
+		||
+        *Yet Ormenos steels himself, driven to witness this eldritch terror, even if it drives him insane. Up until now, he has been able to wrest his sanity from the grips of chaos, but all this changes the moment he sees the shadow climbing up from the depths.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0025!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!]
+		||
+        *In that instant, Ormenos feels a fear well beyond the fear of death. Death would be merciful. No, this is the fear of the deathless, of those who cannot die. He has seen what should not have been seen. Now, the negative image of that shadow is burned into his Trueflesh, never to be forgotten. Now, its curse is seared into his very being, corrupting his grasp on reality, morphing perception beyond human ken.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0026!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!]
+		||
+        *Now, he is condemned to life with undying memory.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0027!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!]
+		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!|
+		*Babel's grin now splits his face, baring the chattering teeth of a madman.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0028!DESCRIPTION!/]
 	
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!]
+		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!|
+		*Ormenos stares stupidly at Babel, as if only now seeing him for the first time. Caught between his fear of what approaches and of the man in front of him, he is utterly speechless.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X0011!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X0029!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!]
+		||
+        *Despair seeps into him like water into a sinking ship, and soon every fiber of his being is getting pulled into the abyss. He falls to his kness and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!]
+		||
+        *Babel steps in front, barring his way. In the space of a thought, the Prime Archon's hand rests flush against Ormenos' forehead.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!]
+		||
+        *Time seems to stretch and all memory fades, save the shadow.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0031!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!]
+		||
+        *But before long, a dreamless sleep removes even this from consciousness, and Ormenos...*
+		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0032!DESCRIPTION!/]
+
+
+
+BABEL
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.000!BABEL!]
+		||
+		*"So you see, Brother Inquisitor, sometimes ignorance truly is bliss."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.000!BABEL!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!]
+		||
+		*"What you've uncovered wasn't meant for us mortals to uncover."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!BABEL!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!]
+		|@:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!|
+		*"I too had this misfortune, but at least I've the strength to stand up to it."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X9999!BABEL!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X002!BABEL!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!]
+		||
+		*"But don't worry, Brother. I seek to destroy it, to bring freedom to our beloved Order..."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!BABEL!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!]
+		||
+		*"Even if it costs my life in exchange."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.004!BABEL!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!]
+		||
+		*"But for now, we must get you to a place where you can rest your tired mind..."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.005!BABEL!/]
+
+	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!]
+		||
+		*"Sleep well, Brother."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!9999.X9999!BABEL!}
+	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.006!BABEL!/]
+
 
 
 ________________________________________________________________________
@@ -4943,6 +5018,12 @@ EVENT WRITERS
 		*EVENT WRITER - Went to Archon's Apse from Crypt of Archons*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X2097!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2105!DESCRIPTION!]
+		|2015:ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!|
+		*EVENT WRITER - Saw the truth of the Scriptorium*
+		(A#WRITER){A:0,NO ADDRESS}
+	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2105!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X19000!DESCRIPTION!]
 		|19000:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!|
