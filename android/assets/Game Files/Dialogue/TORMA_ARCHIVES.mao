@@ -3588,85 +3588,122 @@ SEAT OF THE TRUE ARCHON
 virgin run
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!]
 		||
-		*Dust rests thick upon all residents of this vast chamber, a blanket guarding the silent slumber of the forgotten items. At the far end, bronze braziers burn tirelessly, casting a smoky wall of haze, nearly obscuring what lies beyond. Vague impressions do make their way through the wall of smoke, though, revealing a natural spring bisecting the room. Cascading down from an outlet in the ceiling, it later pools into a shallow well only to exit to parts unknown through a discreet point of egress. The pristine water feeds a luscious and overgrown garden that hides behind the braziers smoke. Several brilliant crystals illuminate the flora, giving them a ghoulish glow.*
-		
-		*Here lie many of the discarded and broken fragments of Vanquished and Thiudan artifacts - untended, unimportant, unwanted. The ancient societies to whom these objects once belonged birthed the magnificent Huginn and Muninn groves; their wisdom gave the Path of Discipline; their diligence amassed the innumerable volumes which line the Great Spiral Path, ascending skywards in the foyer of Mathetia.*
-		
-		*It is only because those who preceded worked tirelessly that the current generation can enjoy the fruits of their labors; and it is thus the Enclaveans endeavor to ensure this well of intellectual riches does not dry up for the generations to come.*
-		
-		*But seeing these forgotten and damaged relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean sense of pride. Countless unnamed and unremembered individuals exhuasted their life force to yield only feeble fruits, if any at all. Will he too be lost in the mire of history?*
+		*Dust appears to rest thick upon all the forgotten residents of this vast chamber, tucked in for their silent slumber. At the far end, bronze braziers burn tirelessly, casting a smoky wall of haze, nearly obscuring what lies beyond. Vague impressions do make their way through, though, revealing a natural spring cascading down from an outlet in the ceiling. Down it pours down, pooling in a shallow well, then bisecting the room as it makes it way to some unseen point of egress. These pristine waters feed a luscious and overgrown garden beyond the smoky wall, only visible due to the several brilliant crystals illuminating the flora with a ghoulish golden glow.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0001!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0001!DESCRIPTION!]
+		||
+		*Ormenos casts his gaze into the dusty clutter. Here lie many of the discarded and broken fragments of Vanquished and Thiudan artifacts - untended, unimportant, unwanted. The ancient societies to whom these objects once belonged birthed the magnificent Huginn and Muninn groves; their wisdom gave the Path of Discipline; their diligence amassed the innumerable volumes which line the Great Spiral Path, ascending skywards in the foyer of Mathetia. And yet here it lies in forget's embrace.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0001!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!]
+		||
+		*Seeing all these abandoned relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean pride. Countless unnamed and unremembered individuals exhuasted their life force to yield only feeble fruits, if any at all. He wonders if he will even be worth discarding, like these lifeless scraps, or if his very existence will vanish from memory.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!]
+		||
+		*A cold jolt slithers down his spine, rippling back up into his shoulders as he casts the ill-omened thought aside. He is here for a reason... if only he could remember what it was, though.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Look around){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!/]
+
 >>>Met Babel at Seat of True Ar (2030)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!]
 		|^2030:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011!DESCRIPTION!|
-		*The room seems devoid of activity and all Ormenos can count as companions are the ancient relics which in lie disarray, heavy with the dust of neglect. 
-		
-		Only a few items stand out among the multitude for either their intactness or their lack of a dusty veil - an indicator this area has not yet been completely abandoned.*
-		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
-		(B#Examine the items){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00100!DESCRIPTION!}
+		*The room seems devoid of activity and all Ormenos can count as companions are the sleeping relics, heavy with the dust of neglect. Yet a number of items do stand out for either their intactness or their lack of a dusty veil - an indicator this area has seen recent use.*
+		(B#Examine the items){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00100!DESCRIPTION!}
+		(C#Return to Mathetia){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00100!DESCRIPTION!]
 		||
-		*In order of proximity to the mage, Ormenos sees a pile of stones, semi-arranged and a copper disk etched with intricate spiraling patterns placed atop; he also notes the presence of three different crystals: one ruby, one amethyst, one emerald; and finally, there is the overgrown garden connected to this area by a simple, stone bridge.
-		
-		Ormenos then considers which to investigate further...*
+		*Nearby, Ormenos sees a pile of stones, semi-arranged and a copper disk etched with intricate spiraling patterns placed atop. Some ten strides further on, three crystals' lights blend together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
 		(A#The copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
 		(B#The crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
 		(C#The garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00100!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!]
 		||
-		*Having made his decision, Ormenos moves his Falseflesh to enact it, yet his execution is interrupted by the sound of muffled footsteps approaching at a slow and deliberate pace.*
-		(A#Hide){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00102!DESCRIPTION!}
-		(B#Wait to see who it is){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00104!DESCRIPTION!}
+		*Thought begets decision, leading then to action, yet Ormenos does not move. His feet hold their silence, interrupted by the sound of muffled footsteps approaching at a slow and deliberate pace from the hall.*
+		(A#Wait to see who it is){A:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00104!DESCRIPTION!}
+		(D#Hide before they come){D:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00102!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!/]
-	
+
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00102!DESCRIPTION!]
+		||
+		*Stilling his thoughts and steeling his mind, the Thought-Weaver conceals his presence. Stiff as a statue and twice as quiet, he becomes no more conspicuous than any of the forsaken artifacts around him - a trick he knows well, one mastered over countless dives in the Mind-Loom; none can hide in plain sight better than the Inquisitor.*
+		(D#Hide before they come){D:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001020!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00102!DESCRIPTION!/]
+
 >>>Met Babel (2025)<<<
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00102!DESCRIPTION!]
-		|^2025:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00103!DESCRIPTION!|
-		*Calming his mind and concealing his presence, Ormenos races to hide himself among the forsaken artifacts. A mere moment later, the footsteps gain in proximity and then a young acolyte enters through the doorway, walking unambiguously towards a shrouded artifact near the far corner of the room.
-		
-		Peeling open an entrance beneath the shroud, he weaves his way underneath and appears to sit upon it, as evidence by the outline of his diminutive body.
-		
-		A flash floods the room with blinding light and in an instant, the shroud collapses to its original shape. Evidently, the mage is now no longer present...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2030-1!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00102!DESCRIPTION!/]
-	
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001020!DESCRIPTION!]
+		|^2025:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001020!DESCRIPTION!|
+		*The footfalls quickly morph from shapeless echoes down the hall to sharp stabs on the tiles, and in the space of a thought, a young acolyte enters. Sure in his stride, he walks towards a shrouded artifact near the far corner of the room.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00103!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001020!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001020!DESCRIPTION!]
+		||
+		*The footfalls quickly morph from shapeless echoes down the hall to sharp stabs on the tiles, and in the space of a thought, the young Thought-Weaver, Babel, enters. Sure in his stride, he walks towards a shrouded artifact near the far corner of the room.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00103!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001020!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00103!DESCRIPTION!]
 		||
-		*Calming his mind and concealing his presence, Ormenos races to hide himself among the forsaken artifacts. A mere moment later, the footsteps gain in loudness and then the young Thought-Weaver, Babel, enters through the doorway, walking unambiguously towards a shrouded artifact near the far corner of the room.
-		
-		Peeling open an entrance beneath the shroud, he weaves his way underneath and appears to sit upon it, as evidence by the outline of his diminutive body.
-		
-		A flash floods the room with blinding light and in an instant, the shroud collapses to its original shape. Evidently, the mage is now no longer present...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2030-1!DESCRIPTION!}
+		*A step before he reaches the shroud, he pauses. Neck twisting enough to look behind, a suspicious eye scans the artifacts.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001030!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00103!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001030!DESCRIPTION!]
+		||
+		*His shrewd eye belies the appearance of inexperienced youth. Equal parts dark and brilliant, these are the eyes of a survivor. This man has seen things, unspeakable events that would likely drive the best of men mad...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001031!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001030!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001031!DESCRIPTION!]
+		||
+		*Yet keen as his perception may be, Ormenos is now beyond perception. Nothing short of the Sylvan Architects emerald eyes could spot him.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001032!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001031!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001032!DESCRIPTION!]
+		||
+		*Seemingly content to chalk it up to his imagination, the wary mage turns back towards his prize, and taking that finally step, arrives thence. Peeling open the shroud just wide enough to fit, he weaves his way underneath and appears to sit upon it, though the shroud obscures the exact nature of his actions.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001033!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001032!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001033!DESCRIPTION!]
+		||
+		*A flash of blinding light floods the room and in an instant, the human shape beneath the shroud vanishes.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2030-1!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001033!DESCRIPTION!/]
+
 >>>Met Babel (2025)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00104!DESCRIPTION!]
 		|^2025:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00105!DESCRIPTION!|
-		*Up walks a youthful man, seemingly oblivious of Ormenos at first, as though in a trance...*
+		*The footfalls quickly morph from shapeless echoes down the hall to sharp stabs on the tiles, and in the space of a thought, a young acolyte enters. Up walks a youthful man, seemingly oblivious of Ormenos at first, as though in a trance...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00106!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00104!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00105!DESCRIPTION!]
 		||
-		*Up walks the young Thought-Weaver, Babel, seemingly oblivious of Ormenos at first, as though in a trance...*
+		*The footfalls quickly morph from shapeless echoes down the hall to sharp stabs on the tiles, and in the space of a thought, a young acolyte enters. Up walks the young Thought-Weaver, Babel, seemingly oblivious of Ormenos at first, as though in a trance...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00106!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00105!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00106!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00107!DESCRIPTION!|
-		*But when he finally notices Ormenos, he jumps back, startled.*
+		*The youth's Falseflesh halts its progress, a fact that seems to utterly confuse him. Ormenos clears his throat, an apparent cause for alarm as his new companion tries to jump out of his flesh.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2030-2!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00106!DESCRIPTION!/]
-	
-	
+
+
 >>>Agreed to go to the Nave (2031)<<<
 >>>Confronted B about Pr. Ar. (2032)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00107!DESCRIPTION!]
@@ -3679,19 +3716,19 @@ virgin run
 told babs to fuck off	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00108!DESCRIPTION!]
 		||
-		*Babel cannot conceal his disappointment knowing his warnings will go unheeded. His look is that of a helpless father seeing their child punished for a crime they could have avoided. But with a sigh of resignation, he leaves the Hall, his purpose for being there still unclear.*
+		*His warnings unheeded, disappointment and pity weigh down the corner's of Babel's mouth. He looks a helpless father witnessing a foolhardy child get punished for a crime they could have avoided. But with a sigh of resignation, he leaves the Hall, his purpose for being there still unclear.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001011!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00108!DESCRIPTION!/]
-	
-	
+
+
 agreed to go to the nave
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00109!DESCRIPTION!]
 		||
-		*Having agreed to go to the Nave, Babel watches Ormenos as he shuffles away in the direction of his promised destination. And almost is if in a state of supreme subordination or perhaps out of mere habit, Ormenos lets his promise control his feet. His meekness and subjgation of will to that of the Choir acts as guide and a loyal guide it is delivering him to where he knows he should have gone in the first place.*
+		*Having agreed to go to the Nave, Babel watches Ormenos shuffle away in the direction of his promised destination. And almost as if in a state of supreme subordination or perhaps out of mere habit, Ormenos lets his promise control his feet. His meekness and subjgation of will to the Choir acts as a loyal guide, hearkening to the call of duty.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00109!DESCRIPTION!/]
-	
-	
+
+???
 confronted babel w knowledge of Pr Ar
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001010!DESCRIPTION!]
 		||
@@ -4413,7 +4450,7 @@ SYLVAN REFUGE
 ormenos opened the sylvan refuge
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!]
 		||
-		*Light seems to have forgotten this place. A mere ten steps down a dubious spiral of stairs and shadows already blanket everything, thick and absolute like an inverse blizzard. Yet still he descends, each footfall carefully silenced. Though vision fails him, his ears help pick out the dimensions of the passage. Drops of condensation pour a periodic rain, slicking the steps and walls. Their echoes talk to the mage's ears, eager to reveal gossip not oft heard. It appears the passage is far wider than necessary to accommodate a single mage - likely, five linked arm in arm would not want for room - and far taller than the discretion required for a secret passage. But even still, Ormenos sticks close to the wall, fingers sliding along the damp stones.*
+		*Light itself seems to have forsaken this place. A mere ten steps down a dubious spiral of stairs and shadows already blanket everything, thick and absolute like an inverse blizzard. Yet still he descends, each footfall carefully silenced. Though vision fails him, his ears help pick out the dimensions of the passage. Drops of condensation pour a periodic rain, slicking the steps and walls. Their echoes talk to the mage's ears, eager to reveal gossip not oft heard. It appears the passage is far wider than necessary to accommodate a single mage - likely, five linked arm in arm would not want for room - and far taller than the discretion required for a secret passage. But even still, Ormenos sticks close to the wall, fingers sliding along the damp stones.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.001!DESCRIPTION!/]
 
