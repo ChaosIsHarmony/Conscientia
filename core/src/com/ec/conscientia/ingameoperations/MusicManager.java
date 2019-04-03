@@ -29,8 +29,7 @@ public class MusicManager {
 						&& !(mgScr.getGameState() == mgScr.COMBAT || mgScr.getGameState() == mgScr.COMBAT_FADE_IN)) {
 					// sets player state as not being in the mindscape
 					// this is used to prevent from double entering the
-					// mindscape
-					// when already in the mindscape
+					// mindscape when already in the mindscape
 					mgScr.mgVar.inMindscape = false;
 					switch (mgScr.getCurrentLocAddress(1)) {
 					case "ENCLAVE!":
@@ -71,8 +70,19 @@ public class MusicManager {
 		case "ENCLAVE!ARCHIVES!":
 			switch (mgScr.getCurrentLocAddress(3)) {
 			case "ENCLAVE!ARCHIVES!SCRIPTORIUM!":
+				// sees the scriptorium for what it truly is
+				if (conscientia.getConscVar().triggeredEvents.get(2036)){
+					if (sm.getCurrentBGMID() != -1)
+					sm.stopBGM();
+				} 
+				// scriptorium effect is weaker
+				else if (conscientia.getConscVar().triggeredEvents.get(2035)){
+				if (sm.getCurrentBGMID() != SoundManager.BGM_ENCLAVE_ARCHIVES_BROKEN_SCRIPTORIUM)
+					bgmSwitch(SoundManager.BGM_ENCLAVE_ARCHIVES_BROKEN_SCRIPTORIUM);
+				} else {
 				if (sm.getCurrentBGMID() != SoundManager.BGM_ENCLAVE_ARCHIVES_SCRIPTORIUM)
 					bgmSwitch(SoundManager.BGM_ENCLAVE_ARCHIVES_SCRIPTORIUM);
+				}
 				break;
 			case "ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!":
 				if (sm.getCurrentBGMID() != SoundManager.BGM_ENCLAVE_ARCHIVES_SEAT_OF_THE_TRUE_ARCHON)

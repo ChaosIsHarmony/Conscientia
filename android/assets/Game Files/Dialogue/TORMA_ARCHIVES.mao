@@ -1073,7 +1073,7 @@ MATHETIA
 >>>Spoke to Word Weaver (2036)<<<
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X001201!DESCRIPTION!]
 		|^2036:ENCLAVE!ARCHIVES!MATHETIA!0.X001202!DESCRIPTION!|
-		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This is the second time Ormenos seeks to enter this cycle and it is hard to say what the consequences of such actions might lead to... Yet, the ambivalent portal to the chamber still opens, again ready to devour the curious mage.*
+		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This is the second time he seeks to enter this cycle and it is hard to say what the consequences of such actions might be... Yet, the ambivalent portal to the chamber still opens, again ready to devour the curious mage.*
 		(A#Heed the warnings){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 		(F#Enter despite the dangers){F:1,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X001201!DESCRIPTION!/]
@@ -1081,7 +1081,7 @@ MATHETIA
 >>>Saw the truth of the Scriptorium (2105)<<<
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X001202!DESCRIPTION!]
 		|^2105:ENCLAVE!ARCHIVES!MATHETIA!0.001203!DESCRIPTION!|
-		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This marks the third time Ormenos seeks to enter this cycle, and given the dying effect of the herbs, one can only assume Ormenos will overdose upon entering again. Too much of a good thing can be bad... Yet, the ambivalent portal to the chamber opens, ready to devour the curious mage once more.*
+		*Feet gliding in the direction of the Scriptorium, Ormenos spies the familiar cautionary sign, forbidding magi from entering more than once per cycle. This marks the third time he seeks to enter this cycle, and given the dying effect of the herbs, one can only assume Ormenos will overdose upon entering again. Too much of a good thing can be bad... Yet, the ambivalent portal to the chamber opens, ready to devour the curious mage once more.*
 		(D#Heed the warnings){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 		(F#Enter despite the dangers){F:1,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X001202!DESCRIPTION!/]
@@ -3584,29 +3584,28 @@ WORD WEAVER
 
 ________________________________________________________________________
 SEAT OF THE TRUE ARCHON
-???
 virgin run
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!]
 		||
-		*Dust appears to rest thick upon all the forgotten residents of this vast chamber, tucked in for their silent slumber. At the far end, bronze braziers burn tirelessly, casting a smoky wall of haze, nearly obscuring what lies beyond. Vague impressions do make their way through, though, revealing a natural spring cascading down from an outlet in the ceiling. Down it pours down, pooling in a shallow well, then bisecting the room as it makes it way to some unseen point of egress. These pristine waters feed a luscious and overgrown garden beyond the smoky wall, only visible due to the several brilliant crystals illuminating the flora with a ghoulish golden glow.*
+		*A blanket of dust rests thick upon all the forgotten residents of this vast chamber, all tucked in for their silent slumber. At the far end, bronze braziers burn tirelessly, casting a smoky wall of haze, nearly obscuring what lies beyond. Vague impressions do make their way through, though, revealing a natural spring cascading down from an outlet in the ceiling. Down it pours, pooling in a shallow well, then bisecting the room as it makes it way to some unseen point of egress. These pristine waters feed a luscious and overgrown garden beyond the smoky wall, only visible due to the several brilliant crystals illuminating the flora with their ghoulish golden glow.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0001!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0001!DESCRIPTION!]
 		||
-		*Ormenos casts his gaze into the dusty clutter. Here lie many of the discarded and broken fragments of Vanquished and Thiudan artifacts - untended, unimportant, unwanted. The ancient societies to whom these objects once belonged birthed the magnificent Huginn and Muninn groves; their wisdom gave the Path of Discipline; their diligence amassed the innumerable volumes which line the Great Spiral Path, ascending skywards in the foyer of Mathetia. And yet here it lies in forget's embrace.*
+		*Ormenos casts his gaze into the dusty clutter. Here lie many of the discarded and broken fragments of Vanquished and Thiudan artifacts, untended, unimportant, unwanted. The ancient societies to whom these objects once belonged birthed the magnificent Huginn and Muninn groves; their wisdom gave rise to the Path of Discipline; their diligence amassed the innumerable volumes which line the Great Spiral Path in the Mathetia. And yet here it all lies, in forget's embrace.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0001!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!]
 		||
-		*Seeing all these abandoned relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean pride. Countless unnamed and unremembered individuals exhuasted their life force to yield only feeble fruits, if any at all. He wonders if he will even be worth discarding, like these lifeless scraps, or if his very existence will vanish from memory.*
+		*Seeing all these abandoned relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean pride. Countless unnamed and unremembered individuals exhuasted their life force to yield only feeble fruits, if any at all. He wonders if he will even be worth discarding, like these lifeless scraps, or if his very existence will simply vanish from memory.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!]
 		||
-		*A cold jolt slithers down his spine, rippling back up into his shoulders as he casts the ill-omened thought aside. He is here for a reason... if only he could remember what it was, though.*
+		*A cold jolt slithers down his spine, rippling back up into his shoulders as he casts the ill-omened thought aside. He is here for a reason... if only he could remember what it was.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Look around){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!/]
@@ -3621,10 +3620,10 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00100!DESCRIPTION!]
 		||
-		*Nearby, Ormenos sees a pile of stones, semi-arranged and a copper disk etched with intricate spiraling patterns placed atop. Some ten strides further on, three crystals' lights blend together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
-		(A#The copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
-		(B#The crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
-		(C#The garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
+		*Nearby, Ormenos sees a pile of stones, semi-arranged, a copper disk etched with intricate spiraling patterns placed atop. Some ten strides further on, three crystals' lights meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
+		(A#Inspect the copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
+		(B#Inspect the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
+		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00100!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!]
@@ -3716,7 +3715,7 @@ virgin run
 told babs to fuck off	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00108!DESCRIPTION!]
 		||
-		*His warnings unheeded, disappointment and pity weigh down the corner's of Babel's mouth. He looks a helpless father witnessing a foolhardy child get punished for a crime they could have avoided. But with a sigh of resignation, he leaves the Hall, his purpose for being there still unclear.*
+		*His warnings unheeded, disappointment and pity weigh down the corner's of Babel's mouth. He looks a helpless father witnessing a foolhardy child get punished for a crime they could have avoided. But with a sigh of resignation, Babel leaves the Hall, his purpose for being there still unclear.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001011!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00108!DESCRIPTION!/]
 
@@ -3724,98 +3723,114 @@ told babs to fuck off
 agreed to go to the nave
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00109!DESCRIPTION!]
 		||
-		*Having agreed to go to the Nave, Babel watches Ormenos shuffle away in the direction of his promised destination. And almost as if in a state of supreme subordination or perhaps out of mere habit, Ormenos lets his promise control his feet. His meekness and subjgation of will to the Choir acts as a loyal guide, hearkening to the call of duty.*
-		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
+		*Ormenos turns and shuffles away towards his promised destination. Eyes unseen seem to bore holes not through his body, but deep into his Trueflesh. A gaze that writhes like maggots in carrion, scavenging what morsels it can, devouring him from the inside out. Muscles tremble, rippling down his spine. Yet he dare not look back at the source of that stare.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001090!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00109!DESCRIPTION!/]
 
-???
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001090!DESCRIPTION!]
+		||
+		*And then, as if in a state of supreme, habitual subordination, Ormenos relinquishes control of his feet, then his legs, and soon every part of his Falseflesh. His meekness and subjgation of will to the Choir acts as a loyal guide, hearkening to the call of duty.*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001090!DESCRIPTION!/]
+
+
 confronted babel w knowledge of Pr Ar
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001010!DESCRIPTION!]
 		||
-		*Babel then walks up to the shrouded, silver throne and rips the cloth covering from it. Sitting down he beckons Ormenos stand upon the copper platform the throne resides upon.
-		
-		Apprehensively, Ormenos obliges. With a derisive smile, Babel activates a secretive Techne, disassembling both his and Ormenos' Falseflesh...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!DESCRIPTION!}
+		*Babel walks up to the shroud, violently peeling it from the object beneath. The crystalline rays of light find no love beneath that shroud, scattering with a brilliant sheen in the six directions, burning Ormenos' eyes with the fury of their flight. A throne, pure and polished mirror-clear, silver in its entirety, light's forgotten nightmare - whereas the deepest black will accept all illumination, this refuses it; whereas the pitchest darkness will marry any errant rays that seek its company, this denies their very existence.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010100!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001010!DESCRIPTION!/]
-	
-	
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010100!DESCRIPTION!]
+		||
+		*Babel sits upon the lightsbane throne and beckons Ormenos. As if in a trance, the Inquisitor unthinkingly heeds the call, moving to stand upon the copper platform upon which the throne resides.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010101!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010100!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010101!DESCRIPTION!]
+		||
+		*Now, with a derisive smile, Babel intones the wordless thoughts, invoking a secretive Techne. No brighter could possibly it get, but soon even this simple truth loses certainty. A new shroud of the purest white descends upon the two, disassembling both Falsefleshes, unweaving consciousness...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010101!DESCRIPTION!/]
+
+
 had been admonished
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001011!DESCRIPTION!]
 		||
-		*Ormenos simply returns to his investigations, again surveying the contents of the room. But soon the sound of multitudinous footfalls disturbs his concentration as they seem to magnify in intensity with each passing step. 
-		
-		Something wicked this way comes.*
+		*Ormenos simply returns to his investigations, again surveying the contents of the room. Everything is as it was before, yet it all seems... changed. Though he knows what each item before him is, the myriad fuzzy outlines now shapeshifting before him do little to convince his eyes. Muffled sounds reverberate throughout his skull, the slowed-down steps of a group.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010110!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001011!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010110!DESCRIPTION!]
-		||	
-		*Several cloaked Enforcers wordlessly enter the room and before Ormenos can even ask why they seek him, the warriors of the Enclave spring into action with what appears to be lethal intent. But Ormenos cannot say what will happen to his Falseflesh, as he is rendered unconscious mere seconds later.*
-		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
+		||
+		*Perception, that fragile messenger of the Falseflesh. Ormenos now knew taste and touch were soon to follow, not gone, but warped. The taste of iron would seem to indicate blood, but it was impossible to tell in the state he was spiraling into. He knew what would happen, where he would end up after this; he had witnessed others on the receiving end of it. So truly bizarre to finally experience it himself. Darkness finally descends on his eyes.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010111!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010110!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010111!DESCRIPTION!]
+		||
+		*He falls, yet never hits the floor. Oh, surely he had come to a halt - loss of perception does not change reality's dicta. Floating in perpetuity, sound finally disappears, phantom tones swooping in to replace it. The mind's expectation crafts a nightmarish white noise, waves crashes on rocks in an infinite loop. What lies beyond the total loss of perception? He mused.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010112!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010111!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010112!DESCRIPTION!]
+		||
+		*Insanity? Or...*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010112!DESCRIPTION!/]
+
 
 >>>Met Babel (2025)<<<	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011!DESCRIPTION!]
 		|^2025:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0012!DESCRIPTION!|
-		*The items in the room remain the same. But the mysterious youth is of course nowhere to be seen. The shrouded throne in which he disappeared yet abides, silently observing the passage of time.*
+		*Everything is as it was before the mysterious youth came and vanished, not a speck of dust out of place. The shrouded throne yet abides, silently observing the passage of time.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine items){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(C#Inspect the shrouded throne){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00114!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011!DESCRIPTION!/]
-	
+
 >>>Used fire to mend the pieces of the nearcaster (2084)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!]
 		|^2084:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00110!DESCRIPTION!|
-		*In order of proximity to the mage, Ormenos sees a pile of stones, semi-arranged and a copper disk etched with intricate placed atop; he also notes the presence of three different crystals: one ruby, one amethyst, one emerald; and finally, there is the overgrown garden connected to this area by a simple, stone bridge.
-		
-		Ormenos then considers what to look at...*
-		(A#The copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111-1!DESCRIPTION!}
-		(B#The crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
-		(C#The garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
+		*Nearby, Ormenos sees a pile of stones, semi-arranged, a copper disk etched with intricate spiraling patterns placed atop. Some ten strides further on, three crystals' lights meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
+		(A#Inspect the copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111-1!DESCRIPTION!}
+		(B#Inspect the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
+		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00110!DESCRIPTION!]
 		||
-		*In order of proximity to the mage, Ormenos sees the mended stones and their intricately etched copper disk atop; he also notes the presence of three different crystals: one ruby, one amethyst, one emerald; and finally, there is the overgrown garden connected to this area by a simple, stone bridge.
-		
-		Ormenos then considers which to investigate further...*
+		*Nearby, Ormenos sees the mended stones, their intricately etched copper disk placed atop. Some ten strides further on, three crystals' lights meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
 		(A#The copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111-1!DESCRIPTION!}
 		(B#The crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#The garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00110!DESCRIPTION!/]
-	
 
-	
+
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111-1!DESCRIPTION!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111-1!DESCRIPTION!/]
 
-	
-	
->>>Acquired Nearcasting Glyph (2083)<<<<
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111!DESCRIPTION!]
-		|^2083:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00111!DESCRIPTION!|
-		*Its smooth, coppered surface is etched with a dizzying pattern of lines, curves and spirals. At the centre of the design, a Glyph can be distinguished, yet Ormenos cannot understand its meaning.*
-		(A#Manipulate the stones beneath){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001110!DESCRIPTION!}
-		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
-		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111!DESCRIPTION!/]
-	
+
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00111!DESCRIPTION!]
 		||
-		*Its smooth, coppered surface is etched with a dizzying pattern of lines, curves and spirals. At the centre of the design, a Glyph can be distinguished... Though he knows not why, Ormenos intuits that this is the Glyph of Nearcasting - a Techne lost since the fall of the Thiuda.*
+		*Its smooth, coppered surface is scarred with a dizzying pattern of lines, curves and spirals. At the center of the design, a Glyph sits patiently awaiting the silent speech of thought. Yet, though Ormenos knows the symbol has meaning, such knowledge by itself is meaningless - easier to read the Earth's mood from the clouds than to read an unremembered Glyph.
+		
+		Beneath the disk are a pile of lazy stones with no urgent desire to seek out their proper order.*
 		(A#Manipulate the stones beneath){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001110!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00111!DESCRIPTION!/]
-	
+
+
 >>>Correctly aligned the arrows (2078)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001110!DESCRIPTION!]
 		|^2078:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001114!DESCRIPTION!|
-		*Looking more closely at the markings upon the stones, Ormenos discerns a pattern among them: though scattered and pointing every which way, they are unmistakbly arrows, indicators of energetic flow.*
+		*The mage bends down to collect a stone. He runs a finger along the six sides, four twice the size of the two ends. Smooth to the touch, except for one irregularity on the back. Turning the specimen over and sideways he notes the presence of a cobalt arrow engraved into the side, marring the perfect continuity of the otherwise flat plane. A glance at its disarrayed companions reveals that all stones share a similar marking.*
 		(A#Arrange all arrows to point away from one another){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001111!DESCRIPTION!}
 		(B#Arrange them to point in towards each other){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001112!DESCRIPTION!}
 		(C#Arrange them to point up towards the copper disk){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2078!DESCRIPTION!}
@@ -3823,7 +3838,7 @@ had been admonished
 		
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001111!DESCRIPTION!]
 		||
-		*Ormenos meticulously moves all stone pieces such that the arrows never face one another and carefully replaces the copper disk atop.*
+		*Slaying entropy's sloth with an order of his own, Ormenos arranges the stones such that no arrow faces another before replacing the copper disk atop.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
@@ -3831,32 +3846,32 @@ had been admonished
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001112!DESCRIPTION!]
 		||
-		*Ormenos meticulously moves all stone pieces such that the arrows all face one another and carefully replaces the copper disk atop.*
+		*Slaying entropy's sloth with an order of his own, Ormenos arranges the stones such that all face one another, and then carefully replaces the copper disk atop.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001112!DESCRIPTION!/]
-	
+
 >>>Saw proper alignment clue (2079)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001113!DESCRIPTION!]
 		|^2079:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001113!DESCRIPTION!|
-		*As he moves the stones, forcing their direction toward the ceiling, something within Ormenos tells him that no other alignment could be closer to perfection: upwards, casting energy from a crystal into the metallic platform makes it such that the stone arrangement is now as it should be.*
+		*Ormenos carefully places the stones into the desired alignment, guiding each arrow skyward. When all are in place, an audible click latches onto the bottom of each one, locking them in place. All is as it should be.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X001113!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001113!DESCRIPTION!]
 		||
-		*As he moves the stones, forcing their direction toward the ceiling, something within Ormenos tells him that no other alignment could be closer to perfection: upwards, casting energy from a crystal into the metallic platform makes it such that the stone arrangement is now as it should be. In fact, it is just as the arrangement in the Huginn Grove that was used to power similar metallic disks...*
+		*Ormenos carefully places the stones into the desired alignment, guiding each arrow skyward in perfect imitation of the stones from the Huginn Grove. When all are in place, an audible click latches onto the bottom of each one, locking them in place. All is as it should be.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001113!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001114!DESCRIPTION!]
 		||
-		*Having already set the arrows in a satisfactory direction, Ormenos inspects his work, but finds no faulty alignment.*
+		*Ormenos looks to move the stones, but they do not budge. Perhaps the Inquisitor would also seek to swap his arms with his legs if he disagrees with where things fit. The mage blushes at the thought. The Phrygian wisemen were right to say, "Unbroken things need not the mending idle minds seek."*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
@@ -3864,53 +3879,70 @@ had been admonished
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001115!DESCRIPTION!]
 		||
-		*Its smooth, coppered surface is etched with a dizzying pattern of lines, curves and spirals. At the centre of the design, a Glyph can be distinguished, yet Ormenos cannot understand its meaning. 
-		
-		But now with the arrows in their proper alignment, the broken pieces mended and the amethyst crystal powering the device, a Glyph begins to manifest itself, calling out to a frightened Ormenos.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2083!DESCRIPTION!}
+		*Its smooth, coppered surface is scarred with a dizzying pattern of lines, curves and spirals. At the center of the design, a Glyph sits patiently awaiting the silent speech of thought. Yet, though Ormenos knows the symbol has meaning, such knowledge by itself is meaningless - easier to read the Earth's mood from the clouds than to read an unremembered Glyph.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011150!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001115!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011150!DESCRIPTION!]
+		||
+		*But now with the arrows in their proper alignment, the broken pieces mended and the amethyst crystal powering the device, a Glyph begins to manifest. Curiosity has led Ormenos to tangle with forces he does not comprehend, and now he very much regrets reassembling some abandoned device in ignorance. Fear grips him as he prays to the sacred Wyrm the Jeran mystics for protection.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2083!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011150!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001116!DESCRIPTION!]
 		||
-		*Indeed, the Glyph of Nearcasting now seems to be within his possession. But learning Glyphs has never been so simple for him. He has walked and failed the Path of Discipline on countless occasions, just as any of his other brothers or sisters. Confusion innudates his faculties, but in this sea of uncertainty, a beacon shows him the way.
-		
-		It is the device, that copper disk of the Thiuda that demands he use it.*
-		(A#_Use the Glyph of Nearcasting_){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001117!DESCRIPTION!}
+		*Air rushes in as Fear suddenly releases its hold on the mage's lungs. As though taking his first breath anew, Ormenos is reborn, now with the knowledge of Nearcasting seared into his Trueflesh. The Glyph tells of its storied past, times it and Ormenos shared. Confusion replaces understanding as Ormenos fathoms the unlikely memories, but the Glyph does not care. Instead, it urges its old friend to make use of it, resonating with the newly reformed Caster.*
+		(A#_Use the Glyph of Nearcasting_){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011160!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001116!DESCRIPTION!/]
-		
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001117!DESCRIPTION!]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011160!DESCRIPTION!]
 		||
-		*And obediently, Ormenos calls to mind his newest Glyph. In a blinding flash, his Falseflesh dissolves as his skin and muscles peel away and his bone disintegrates. His Trueflesh cast off into the unknown...*
+		*The choice is made, even before Ormenos can think to make it. Apprehension forces its way in, widening the path for its dread companion Fear. Ormenos does not think it was a choice. He was forced to do it. He is losing control...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011161!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011160!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011161!DESCRIPTION!]
+		||
+		*And yet still, he wants to go on; he wants to see it through to the end. That is his choice. Recognition of his single power in this utterly helpless state staves off crippling fear. Come what may, he can choose whether or not to go on.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011162!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011161!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011162!DESCRIPTION!]
+		||
+		*Long before his last thought fades to memory, Ormenos has already conjured the Glyph from the Graylands.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011163!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011162!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011163!DESCRIPTION!]
+		||
+		*A blinding flash. Falseflesh dissolves; skin and muscles peel away; his bone disintegrates. His Trueflesh is cast off into the unknown...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001117!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011163!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001118!DESCRIPTION!]
 		||
-		*Having caused irreparable damage to the device with his haphazard additions, Ormenos regrets he did not spend more time in the Huginn and Muninn Groves learning more about Vanquished and Thiuda mechanisms. Perhaps reckless experimentation does not suit one of the Order and only thorough study can alleviate the itch his curiosity now plagues him with.*
+		*Having caused irreparable damage to the device with his haphazard additions, Ormenos regrets he did not spend more time in the Huginn and Muninn Groves. Perhaps reckless experimentation does not suit one of the Order. The Phrygian wisemen did say, "Only thorough study can scratch the itch curiosity plagues us with - all other devices draw blood."*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001118!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001119!DESCRIPTION!]
 		||
-		*At a glance, Ormenos knows what this device is: a Nearcaster. His confusion grows as he gets the distinct impression of having examined it before.
-		
-		But this subsides as the shrouded throne now calls out to him, as the device before him once did.
-		
-		He walks over toward it and lifts the shroud to gain access. Sitting upon the throne, he calls the Glyph of Nearcasting to mind, and dissolves.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!DESCRIPTION!}
+		*Its smooth, coppered surface is scarred with a dizzying pattern of lines, curves and spirals. At the center of the design, a Glyph sits patiently awaiting the silent speech of thought... But silence cracks. A hum becomes a murmur, and this in turn a whisper. A name. The Glyph wordlessly speaks its name, a resonance with the memory of the Trueflesh. Ormenos remembers the inconceivable; he remembers myriad lives, some his, some others. Nested deep within these is the memory of Nearcasting. Soon, the shrouded throne begins to pulse in recognition of Ormenos' inadvertent thought.*
+		(B#Inspect the shrouded throne){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00114!DESCRIPTION!}
+		(D#Leave. Now.){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001119!DESCRIPTION!/]
-	
-	
+
+
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!/]
-	
-	
+
+???
 >>>Acquired resurrection (17300)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112!DESCRIPTION!]
 		|^17300:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112!DESCRIPTION!|

@@ -21,7 +21,7 @@ public class SoundManager {
 			BGM_ENCLAVE_ARCHIVES_SYLVAN_ENCOUNTER = 103, BGM_ENCLAVE_ARCHIVES_SEAT_OF_THE_TRUE_ARCHON = 104,
 			BGM_ENCLAVE_THE_NAVE_RECKONING = 105, BGM_ENCLAVE_THE_NAVE_APSE = 106, BGM_ENCLAVE_PATH_OF_DISCIPLINE = 107,
 			BGM_ENCLAVE_THRESHOLD_GENERAL = 108, BGM_ENCLAVE_EXODUS = 109, BGM_ENCLAVE_UNDERHALLS = 110,
-			BGM_ENCLAVE_HALL_OF_THE_ADEPTI_GENERAL = 111, BGM_ENCLAVE_HALL_OF_THE_ADEPTI_ORMENOS = 112,
+			BGM_ENCLAVE_HALL_OF_THE_ADEPTI_GENERAL = 111, BGM_ENCLAVE_HALL_OF_THE_ADEPTI_ORMENOS = 112, BGM_ENCLAVE_ARCHIVES_BROKEN_SCRIPTORIUM = 113,
 			// Kavu
 			BGM_KAVU_DAZIL = 150,
 
@@ -88,41 +88,41 @@ public class SoundManager {
 					// SPECIAL THEMES
 					case BGM_FAMLICUS:
 					if (currentBGMID != BGM_FAMLICUS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/Famlicus.ogg")), BGM_FAMLICUS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/2019 - The Red Father.ogg")), BGM_FAMLICUS, maxBgmVol);
 					break;
 					case BGM_CLOSE_TO_THE_ONE:
 					if (currentBGMID != BGM_CLOSE_TO_THE_ONE)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/Awareness.ogg")), BGM_CLOSE_TO_THE_ONE, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/2019 - Awareness.ogg")), BGM_CLOSE_TO_THE_ONE, maxBgmVol);
 					break;
 					case BGM_ARK_RIKHARR:
 					if (currentBGMID != BGM_ARK_RIKHARR)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/Fate's Sacrifices.ogg")), BGM_ARK_RIKHARR, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/2019 - Fate's Sacrifices.ogg")), BGM_ARK_RIKHARR, maxBgmVol);
 					break;
 
 					// SPECIAL EVENTS
 					case BGM_KABU_AKKEBERS_PLAY:
 					if (currentBGMID != BGM_KABU_AKKEBERS_PLAY)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Akkeber's Play.ogg")), BGM_KABU_AKKEBERS_PLAY, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Akkeber's Play.ogg")), BGM_KABU_AKKEBERS_PLAY, maxBgmVol);
 					break;
 					case BGM_GENERIC_BATTLE_MUSIC:
 					if (currentBGMID != BGM_GENERIC_BATTLE_MUSIC)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/Invasion.ogg")), BGM_GENERIC_BATTLE_MUSIC, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/2019 - Invasion.ogg")), BGM_GENERIC_BATTLE_MUSIC, maxBgmVol);
 					break;
 					case BGM_LOON_BATTLE_MUSIC:
 					if (currentBGMID != BGM_GENERIC_BATTLE_MUSIC)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/Crushed By the Weight of Feathers.ogg")), BGM_GENERIC_BATTLE_MUSIC, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/2019 - Crushed By the Weight of Feathers.ogg")), BGM_GENERIC_BATTLE_MUSIC, maxBgmVol);
 					break;
 					case BGM_LOONEY:
 					if (currentBGMID != BGM_LOONEY)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/The End.ogg")), BGM_LOONEY, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/2019 - The End.ogg")), BGM_LOONEY, maxBgmVol);
 					break;
 					case BGM_PLOT_THICKENS:
 					if (currentBGMID != BGM_PLOT_THICKENS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/The Plot Thickens.ogg")), BGM_PLOT_THICKENS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/2019 - The Plot Thickens.ogg")), BGM_PLOT_THICKENS, maxBgmVol);
 					break;
 					case BGM_KABU_TRIAL:
 					if (currentBGMID != BGM_KABU_TRIAL)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/Famlicus.ogg")), BGM_KABU_TRIAL, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/2019 - The Red Father.ogg")), BGM_KABU_TRIAL, maxBgmVol);
 					break;
 
 					// ENCLAVE
@@ -134,29 +134,33 @@ public class SoundManager {
 					if (currentBGMID != BGM_ENCLAVE_ARCHIVES_SCRIPTORIUM)
 					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/The Scriptorium.ogg")), BGM_ENCLAVE_ARCHIVES_SCRIPTORIUM, maxBgmVol);
 					break;
+					case BGM_ENCLAVE_ARCHIVES_BROKEN_SCRIPTORIUM:
+					if (currentBGMID != BGM_ENCLAVE_ARCHIVES_BROKEN_SCRIPTORIUM)
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - Broken Scriptorium.ogg")), BGM_ENCLAVE_ARCHIVES_BROKEN_SCRIPTORIUM, maxBgmVol);
+					break;
 					case BGM_ENCLAVE_ARCHIVES_SEAT_OF_THE_TRUE_ARCHON:
 					if (currentBGMID != BGM_ENCLAVE_ARCHIVES_SEAT_OF_THE_TRUE_ARCHON)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/True Archon.ogg")), BGM_ENCLAVE_ARCHIVES_SEAT_OF_THE_TRUE_ARCHON, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - True Archon.ogg")), BGM_ENCLAVE_ARCHIVES_SEAT_OF_THE_TRUE_ARCHON, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_ARCHIVES_SYLVAN_ENCOUNTER:
 					if (currentBGMID != BGM_ENCLAVE_ARCHIVES_SYLVAN_ENCOUNTER)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/The Sylvan Encounter.ogg")), BGM_ENCLAVE_ARCHIVES_SYLVAN_ENCOUNTER, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - The Sylvan Encounter.ogg")), BGM_ENCLAVE_ARCHIVES_SYLVAN_ENCOUNTER, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_HALL_OF_THE_ADEPTI_GENERAL:
 					if (currentBGMID != BGM_ENCLAVE_HALL_OF_THE_ADEPTI_GENERAL)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/Memories of the Adepti.ogg")), BGM_ENCLAVE_HALL_OF_THE_ADEPTI_GENERAL, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - Memories of the Adepti.ogg")), BGM_ENCLAVE_HALL_OF_THE_ADEPTI_GENERAL, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_HALL_OF_THE_ADEPTI_ORMENOS:
 					if (currentBGMID != BGM_ENCLAVE_HALL_OF_THE_ADEPTI_ORMENOS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/Solemne.ogg")), BGM_ENCLAVE_HALL_OF_THE_ADEPTI_ORMENOS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - Solemne.ogg")), BGM_ENCLAVE_HALL_OF_THE_ADEPTI_ORMENOS, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_THE_NAVE_RECKONING:
 					if (currentBGMID != BGM_ENCLAVE_THE_NAVE_RECKONING)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/The Nave.ogg")), BGM_ENCLAVE_THE_NAVE_RECKONING, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - The Nave.ogg")), BGM_ENCLAVE_THE_NAVE_RECKONING, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_PATH_OF_DISCIPLINE:
 					if (currentBGMID != BGM_ENCLAVE_PATH_OF_DISCIPLINE)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/Specters of the Enclave.ogg")), BGM_ENCLAVE_PATH_OF_DISCIPLINE, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - Specters of the Enclave.ogg")), BGM_ENCLAVE_PATH_OF_DISCIPLINE, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_THRESHOLD_GENERAL:
 					if (currentBGMID != BGM_ENCLAVE_THRESHOLD_GENERAL)
@@ -168,7 +172,7 @@ public class SoundManager {
 					break;
 					case BGM_ENCLAVE_UNDERHALLS:
 					if (currentBGMID != BGM_ENCLAVE_UNDERHALLS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/The Halls of the Enclave.ogg")), BGM_ENCLAVE_UNDERHALLS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - The Halls of the Enclave.ogg")), BGM_ENCLAVE_UNDERHALLS, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_THE_VAULT:
 					if (currentBGMID != BGM_ENCLAVE_THE_VAULT)
@@ -180,39 +184,39 @@ public class SoundManager {
 					// KABU
 					case BGM_KABU_CANYON:
 					if (currentBGMID != BGM_KABU_CANYON)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Decisions.ogg")), BGM_KABU_CANYON, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Decisions.ogg")), BGM_KABU_CANYON, maxBgmVol);
 					break;
 					case BGM_KABU_DAWN_FORTRESS:
 					if (currentBGMID != BGM_KABU_DAWN_FORTRESS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/In Ark's Name.ogg")), BGM_KABU_DAWN_FORTRESS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - In Ark's Name.ogg")), BGM_KABU_DAWN_FORTRESS, maxBgmVol);
 					break;
 					case BGM_KABU_DAZIR:
 					if (currentBGMID != BGM_KABU_DAZIR)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Living in These Times.ogg")), BGM_KABU_DAZIR, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Living in These Times.ogg")), BGM_KABU_DAZIR, maxBgmVol);
 					break;
 					case BGM_KABU_SANCTUARY:
 					if (currentBGMID != BGM_KABU_SANCTUARY)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Forgotten Past.ogg")), BGM_KABU_SANCTUARY, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Forgotten Past.ogg")), BGM_KABU_SANCTUARY, maxBgmVol);
 					break;
 					case BGM_KABU_TAMBUL:
 					if (currentBGMID != BGM_KABU_TAMBUL)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Aestate.ogg")), BGM_KABU_TAMBUL, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Aestate.ogg")), BGM_KABU_TAMBUL, maxBgmVol);
 					break;
 					case BGM_KABU_URRUK:
 					if (currentBGMID != BGM_KABU_URRUK)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Lost City.ogg")), BGM_KABU_URRUK, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Lost City.ogg")), BGM_KABU_URRUK, maxBgmVol);
 					break;
 					case BGM_KABU_WASTELAND:
 					if (currentBGMID != BGM_KABU_WASTELAND)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Ruinous Laments.ogg")), BGM_KABU_WASTELAND, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Ruinous Laments.ogg")), BGM_KABU_WASTELAND, maxBgmVol);
 					break;
 					case BGM_KABU_WELLSPRING:
 					if (currentBGMID != BGM_KABU_WELLSPRING)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Within These Crumbling Halls.ogg")), BGM_KABU_WELLSPRING, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Within These Crumbling Halls.ogg")), BGM_KABU_WELLSPRING, maxBgmVol);
 					break;
 					case BGM_KABU_WILDERNESS:
 					if (currentBGMID != BGM_KABU_WILDERNESS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/Road to Dazir.ogg")), BGM_KABU_WILDERNESS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Kabu/2019 - Road to Dazir.ogg")), BGM_KABU_WILDERNESS, maxBgmVol);
 					break;
 
 					// MIND
