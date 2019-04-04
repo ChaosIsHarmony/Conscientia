@@ -3620,7 +3620,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00100!DESCRIPTION!]
 		||
-		*Nearby, Ormenos sees a pile of stones, semi-arranged, a copper disk etched with intricate spiraling patterns placed atop. Some ten strides further on, three crystals' lights meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
+		*Nearby, Ormenos sees a pile of stones, semi-arranged, a copper disk etched with intricate spiraling patterns placed atop. Some ten strides further on, three crystals' reflected brilliance meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
 		(A#Inspect the copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
 		(B#Inspect the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00101!DESCRIPTION!}
@@ -3775,7 +3775,7 @@ had been admonished
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010112!DESCRIPTION!]
 		||
-		*Insanity? Or...*
+		*Madness? Or...*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010112!DESCRIPTION!/]
 
@@ -3792,7 +3792,7 @@ had been admonished
 >>>Used fire to mend the pieces of the nearcaster (2084)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!]
 		|^2084:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00110!DESCRIPTION!|
-		*Nearby, Ormenos sees a pile of stones, semi-arranged, a copper disk etched with intricate spiraling patterns placed atop. Some ten strides further on, three crystals' lights meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
+		*Nearby, Ormenos sees a pile of stones, semi-arranged, a copper disk etched with intricate spiraling patterns placed atop. Some ten strides further on, three crystals' reflected brilliance meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
 		(A#Inspect the copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111-1!DESCRIPTION!}
 		(B#Inspect the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
@@ -3800,10 +3800,10 @@ had been admonished
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00110!DESCRIPTION!]
 		||
-		*Nearby, Ormenos sees the mended stones, their intricately etched copper disk placed atop. Some ten strides further on, three crystals' lights meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
-		(A#The copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111-1!DESCRIPTION!}
-		(B#The crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
-		(C#The garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
+		*Nearby, Ormenos sees the mended stones, their intricately etched copper disk placed atop. Some ten strides further on, three crystals' reflected brilliance meld together like the dying light of day, one crimson, one violet, and one green. Yet further on, beyond the wall of haze, there is the overgrown garden connected to this area by a simple, stone bridge.*
+		(A#Inspect the copper disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00111-1!DESCRIPTION!}
+		(B#Inspect the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
+		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00110!DESCRIPTION!/]
 
 
@@ -3871,7 +3871,7 @@ had been admonished
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001114!DESCRIPTION!]
 		||
-		*Ormenos looks to move the stones, but they do not budge. Perhaps the Inquisitor would also seek to swap his arms with his legs if he disagrees with where things fit. The mage blushes at the thought. The Phrygian wisemen were right to say, "Unbroken things need not the mending idle minds seek."*
+		*Ormenos looks to move the stones, but they politely decline the mage's overtures. Perhaps the Inquisitor would also seek to swap his arms with his legs if he disagrees with where things fit. The mage blushes at the thought. The Phrygian wisemen were right to say, "Unbroken things need not the mending idle minds seek."*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine the crystals){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
 		(C#Inspect the garden){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!}
@@ -3942,98 +3942,120 @@ had been admonished
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!/]
 
-???
+
 >>>Acquired resurrection (17300)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112!DESCRIPTION!]
 		|^17300:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112!DESCRIPTION!|
-		*Ormenos now spies three crystals, devoid of energy, and perfectly intact... or at least most of them. The emerald has a slight chip on its surface from years of use.*
+		*Three crystals proudly sparkle with borrowed light, giving the illusion of energetic contents. Alas, all three are inert vessels, long exhausted from centuries of use. The trio are, for the most part, perfectly intact - the emerald the lone exception, owner of a slight chip on its fragile surface.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(C#Inspect the other items){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(F#Break them){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2080!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112!DESCRIPTION!]
 		||
-		*Ormenos now spies three crystals, devoid of energy, and perfectly intact... or at least most of them. The emerald has a slight chip on its surface from years of use.*
+		*Three crystals proudly sparkle with borrowed light, giving the illusion of energetic contents. Alas, all three are inert vessels, long exhausted from centuries of use. The trio are, for the most part, perfectly intact - the emerald the lone exception, owner of a slight chip on its fragile surface.*
 		(A#_Use the Glyph of Resurrection_){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2081!DESCRIPTION!}
 		(C#Inspect the other items){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(F#Break them){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2080!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001120!DESCRIPTION!]
 		||
-		*Ormenos now spies three crystals, brimming with energy. The chipped emerald vibrates slightly as the energy courses through it.*
+		*The three crystals no longer steal reflections to mask their once deficient stores of energy. They now brim with the intensity of their own internal energy. Yet the emerald still desires to be unique among its ilk, dangerously vibrating as energy courses through it.*
 		(A#Place one under the metallic disk){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011200!DESCRIPTION!}
 		(C#Inspect the other items){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(F#Destroy them){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X009!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001120!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011200!DESCRIPTION!]
 		||
-		*Which one?*
+		*Thinking back on all he had ever read, seen, or experienced with crystals, Ormenos cautiously deliberates on which to use. The wrong choice may very well spell disaster... Soon, his thoughts turn to all the violent explosions he has seen from crystal misuse... Many his own experiences... But with him as other people... Like the fragments of a dream mistaken for reality...*
 		(A#The amethyst){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2082!DESCRIPTION!}
 		(B#The ruby){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011201!DESCRIPTION!}
-		(C#The emerald){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011202!DESCRIPTION!}
+		(C#The emerald){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011202!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011200!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112000!DESCRIPTION!]
 		||
-		*Calling to mind this unexpected, yet exceedingly familiar Glyph, Ormenos imbues portions of his own vital essence into each crystal, once more returning life to them.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
+		*Before he can make a decision, a Glyph heeds his call... Resurrection... When did he learn that?! Does anyone alive even know it?*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112001!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112000!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112001!DESCRIPTION!]
 		||
-		*And break them he does. Crushing and fracturing, utterly smashing, and pulverising the crystalline structures, Ormenos sates his destructive lust with the volatile candy of instant gratification. Soon all that remain are a few scattered shards.*
+		*Then, the Glyph's effects manifest. Portions of his own vital essence flow into each crystal, returning life to the slumbering gems. His head spins and he hits a knee, needing a moment to recover from the lost energy.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112-1!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112001!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112002!DESCRIPTION!]
+		||
+		*Crushing and fracturing, utterly smashing, and pulverising the crystalline structures, Ormenos sates a destructive lust he hardly knee he possessed. Indeed, the volatile candy of instant gratification feeds his frenzied crusade against crystals, and soon all that remain are a few scattered shards, hapless survivors crippled in their fragmentation.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(C#Inspect the other items){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112001!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112002!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011201!DESCRIPTION!]
 		||
-		*Ormenos places the ruby under among the stones and replaces the copper disk. But something is clearly amiss, as the disk does not sit evenly upon the crystal and is canted. Ormenos attempts to reorient the crystal so that it might sit flush with the copper disk, but finds it to be impossible.*
+		*Ormenos places the ruby among the stones and replaces the copper disk. But something is clearly amiss, as the disk does not sit evenly upon the crystal, canted as it is. Ormenos attempts to reorient the crystal so that it might sit flush with the copper disk, to no avail.*
 		(A#Try the amethyst){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2082!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
-		(C#Try the emerald){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011202!DESCRIPTION!}
+		(C#Try the emerald){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011202!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011201!DESCRIPTION!/]
-	
->>>Have Luin Armor (12302)<<<
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011202!DESCRIPTION!]
-		|^12302:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011202!DESCRIPTION!|
-		*Ormenos places the emerald under among the stones and replaces the copper disk, its weight cracking through the crystals surface at its defect. In the space of a thought, the entire structure of the crystal succumbs to the pressure, thus releasing a catastrophic amount of energy. 
-		
-		As Ormenos' skin is effaced from his shell, with the muscles and bones quickly following. A Trueflesh not quite his own, but inextricably linked thereto observes, floating, dissipating, searching for a shell in which to reform to continue its journey.*
-		(A#...){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011202!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011202!DESCRIPTION!]
 		||
-		*Ormenos places the emerald under among the stones and replaces the copper disk, its weight cracking through the crystals surface at its defect. In the space of a thought, the entire structure of the crystal succumbs to the pressure, thus releasing a catastrophic amount of energy.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0091!DESCRIPTION!}
+		*Ormenos places the emerald among the stones and replaces the copper disk. Heavy metal cracks through the crystal's surface at its defect. In the space of a thought, the entire structure of the crystal succumbs to the pressure, thus releasing a catastrophic wave of energy.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112020!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011202!DESCRIPTION!/]
-	
+
+>>>Have Luin Armor (12302)<<<
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112020!DESCRIPTION!]
+		|^12302:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0091!DESCRIPTION!|
+		*Skin peels from his shell, merging with the raw heat into a shapeless plasma. Muscles and bones quickly expand, seeming to disappear into the white hot surroundings. A Trueflesh not quite his own, but inextricably linked thereto observes, floating, dissipating, searching for a shell in which to reform and continue its journey.*
+		(A#...){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112020!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011203!DESCRIPTION!]
 		||
-		*Ormenos places the amethyst under among the stones and replaces the copper disk atop. It fits flush. Not even a hair's breadth is visible between the two surfaces.*
+		*Ormenos places the amethyst among the stones, carefully replacing the copper disk atop, and...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112030!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011203!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112030!DESCRIPTION!]
+		||
+		*Nothing.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112031!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112030!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112031!DESCRIPTION!]
+		||
+		*No explosions, no cracking, no deformities, nothing.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112032!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112031!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112032!DESCRIPTION!]
+		||
+		*The crystal fits flush - not even a hair's breadth between it and the disk. And thus, absence is evidence the choice was true. Clearly, all is as it should be.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011203!DESCRIPTION!/]
-			
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112032!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001121!DESCRIPTION!]
 		||
-		*Ormenos now spies two crystals, brimming with energy. The chipped emerald vibrates slightly as the energy courses through it.*
+		*The two remaining crystals seem to burst with energy, as though trying to call the mage's attention, as if jealous their violet companion were chosen instead. Still, the chipped emerald vibrates slightly as energy courses through it, seeking to distinguish itself from its rubied cohort.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(F#Destroy them){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X009!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001121!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001122!DESCRIPTION!]
 		||
-		*Ormenos now spies the scattered shards of the glassy prisms he sought to destroy glaring back at him, defiantly, from their final resting place.*
+		*The scattered shards of the glassy prisms he sought to destroy resentfully glare back at him from their final resting place. No hope remains for a broken crystal.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001122!DESCRIPTION!/]
-	
+???
 >>>Used fire to mend the pieces of the nearcaster (2084)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113!DESCRIPTION!]
 		|^2084:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001130!DESCRIPTION!|
@@ -4969,7 +4991,7 @@ EVENT WRITERS
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2080!DESCRIPTION!]
-		|2080:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112001!DESCRIPTION!|
+		|2080:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112002!DESCRIPTION!|
 		*EVENT WRITER - Broke crystals in Seat of True Arch*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2080!DESCRIPTION!/]
