@@ -4109,22 +4109,30 @@ had been admonished
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011314!DESCRIPTION!]
 		||
 		*Thus, he awaits, frozen in time and space, calm and detached, a mere observer of the fear that consumed him. But what does he await? He and his fistful of dirt...*
-		(A#He ingests the dirt){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113100!DESCRIPTION!}
-		(B#He spreads it over his body){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!}
-		(C#He pours it on the copper disk){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-1!DESCRIPTION!}
+		(A#He ingests the dirt.){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113100!DESCRIPTION!}
+		(B#He spreads it over his body.){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!}
+		(C#He pours it on the copper disk.){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-1!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011314!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113100!DESCRIPTION!]
 		||
-		*Against his better judgment, but possessed by the inexplicable desire to consume the earth in his hands, Ormenos shovels the load into his mouth and begins to chew. The dryness of the dirt swiftly robs him of moisture, making it quite the ordeal to even attempt swallowing. Yet, swallow he does.
-		
-		His body is displeased with the decision and in retaliation, forces the contents of his stomach up whence they came, including the inadvisable recent additions.
-		
-		Somewhat embarrassed at his actions, Ormenos backs away over the bridge.*
+		*Against his better judgment, Ormenos unites fist and mouth; nary a grain of dark soil escapes his gaping maw. Cheeks swell; lips seal; and teeth begin to mash. Dryness soon replaces moisture; clumps vie for space as he begins sending them to an acidic grave.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131000!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113100!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131000!DESCRIPTION!]
+		||
+		*His body, most displeased with the decision, retaliates. A spasming gut forces the contents of his stomach up whence they came, including the inadvisable recent additions. That slimy chimera of bile and dirt writhes momentarily as it settles back into the ground.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131001!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131000!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131001!DESCRIPTION!]
+		||
+		*Embarrassed by the absurdity of his actions, Ormenos backs away over the bridge.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113100!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131001!DESCRIPTION!/]
+???
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!]
 		||
 		*Against his better judgment, but possessed by the inexplicable desire to take the earth in his hands and spread it all over himself, Ormenos channels the master painter within and begins to ecstactically craft an unequalled masterpiece of earthen tones using his form as the canvas.
