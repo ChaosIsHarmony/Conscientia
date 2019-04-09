@@ -4116,13 +4116,13 @@ had been admonished
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113100!DESCRIPTION!]
 		||
-		*Against his better judgment, Ormenos unites fist and mouth; nary a grain of dark soil escapes his gaping maw. Cheeks swell; lips seal; and teeth begin to mash. Dryness soon replaces moisture; clumps vie for space as he begins sending them to an acidic grave.*
+		*Against his better judgment, Ormenos unites fist and mouth, nary a grain of dark soil escaping his gaping maw. Cheeks swell; lips seal; and teeth begin to mash. Dryness soon replaces moisture; clumps vie for space as he begins sending them to an acidic grave.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113100!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131000!DESCRIPTION!]
 		||
-		*His body, most displeased with the decision, retaliates. A spasming gut forces the contents of his stomach up whence they came, including the inadvisable recent additions. That slimy chimera of bile and dirt writhes momentarily as it settles back into the ground.*
+		*His body is most displeased with the decision, retaliation its counterargument. A spasming gut forces the contents of his stomach up whence they came, including the inadvisable recent additions. That slimy chimera of bile and dirt writhes momentarily as it settles back into the ground.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131001!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131000!DESCRIPTION!/]
 
@@ -4132,25 +4132,38 @@ had been admonished
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131001!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!]
 		||
-		*Against his better judgment, but possessed by the inexplicable desire to take the earth in his hands and spread it all over himself, Ormenos channels the master painter within and begins to ecstactically craft an unequalled masterpiece of earthen tones using his form as the canvas.
-		
-		He begins to spin and laugh maniacally as his medium begins to exhaust itself. Soon left paintless, he gathers more dirt to continue his bacchanal of earthen art... until, in a flash, he comes to, fully aware of the bizarreness of his recent actions. 
-		
-		Somewhat embarrassed by his behavior, Ormenos backs away over the bridge.*
-		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
-		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
+		*Against his better judgment, Ormenos channels the master painter within. Soon he begins ecstactically crafting an unequalled masterpiece of earthen tones upon his fleshy canvas. Ecstasy then become frenzy, manifesting in haphazard spinning. Even while spiraling inward like a leaf in a vortex, his fingers leave broad strokes of dirt lines more complex than the most cryptic Glyphs. The whirling mage spews maniacal laughter, louder with every stroke, until his medium begins to exhaust itself.
+        (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113102!DESCRIPTION!]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131010!DESCRIPTION!]
 		||
-		*Ormenos ceremoniously and purposefully carries the dirt toward the copper disk. Upon arrival, he carefully and meticulously spreads the dirt among the loosened stones, causing a sudden whirring sound and a violent shaking. Then, nothing. The contraption is inert, unmoving, dead.*
+        *Now paintless, he quickly gathers more dirt to continue his bacchanal of earthen art... until, in a flash, he comes to. He is soon painfully aware of the bizarreness of this recent fugue. Hands open, releasing the would-be paint. It hits the ground only transforming back into useless soil once more.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131001!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131010!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113110!DESCRIPTION!]
+		||
+		*Ormenos ceremoniously carries the dirt toward the copper disk, meticulously spreading it among the loosened stones. A sudden whir follows a violent shake, as though new life were being breathed into an ancient corpse. And then...*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131100!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113110!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131100!DESCRIPTION!]
+		||
+        *Nothing.*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131101!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131100!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131101!DESCRIPTION!]
+		||
+        *No sounds, no movement, not a hint of the promised vigor. The contraption is simply inert, unmoving... dead.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113102!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131101!DESCRIPTION!/]
+???
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011320!DESCRIPTION!]
 		||
 		*Having collected the water, he...*
@@ -5053,7 +5066,7 @@ EVENT WRITERS
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2084!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-1!DESCRIPTION!]
-		|2085:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113102!DESCRIPTION!|
+		|2085:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113110!DESCRIPTION!|
 		*EVENT WRITER - Ruins the nearcaster*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-1!DESCRIPTION!/]
