@@ -1250,7 +1250,7 @@ AWAKENING CHAMBER
 		
 		Light floods in, burning her vision white hot. Agony crushes perception, forcing teary lids shut anew.
 		
-		Defiant, she pries them open again, using only her will as a lever.*
+		Defiant, she pries them open again, sheer will her only lever.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!/]
 
@@ -1407,9 +1407,9 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!]
 		||
-		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass embedded chest-high into a wall likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze sends Eidos' muscles into a shivering frenzy, an eternal instant of gloom and despair washing over her.
+		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass embedded chest-high into a wall likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze injects shivers into every fiber of her being, an eternal instant of gloom and despair washing over her.
 		
-		Cold feet draw her attention to the floor. The metallic platform she now stands upon seems to sap her body's warmth - and it shows no sign of stopping.*
+		Cold feet draw her attention to the floor. The metallic platform she now stands upon seems to sap her body's warmth - showing no signs of stopping.*
 		(A#Approach one of the doors){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!}
 		(B#Peer into the glass){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
 		(C#Examine the platform){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!}

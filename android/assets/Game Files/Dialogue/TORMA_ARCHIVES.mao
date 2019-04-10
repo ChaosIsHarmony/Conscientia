@@ -118,7 +118,7 @@ acq glyph of Prime Archon prev
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0025!DESCRIPTION!]
 		||
-		*The cheerful mage reaches the Crypt of the Archons right as he finishes whistling the tune for the hundredth time - or was it the thousandth? In any event, it took him a long time to go a short way. In that time, he had many adventures, like when he slayed a cavern full of gremlins, or when he got Roostor drunk - not a good idea to get a god drunk, as it turns out! But time has come for him to return to the Enclave. To return to... by Roostor's comb! He's gotta fulfill his dream of caring for a herd of cows and become a cowherd! Oh, wait, not that. He's gotta become a coward. 3... 2... 1...*
+		*The cheerful mage reaches the Crypt of the Archons right as he finishes whistling the tune for the hundredth time - or was it the thousandth? In any event, it took him a long time to go a short way. In that time, he had many adventures, like when he slayed a cavern full of gremlins, or when he got Roostor drunk - not a good idea to get a god drunk, as it turns out! But time has come for him to return to the Enclave. To return to... by Roostor's comb! He's gotta fulfill his dream of caring for a herd of cows and become a cowherd! Oh, wait, not that... The word is 'coward'. He's gotta become a coward! In 3... 2... 1...*
 		(A#Non-bovine Leader Transformation, Activate!){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00240!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0025!DESCRIPTION!/]
 
@@ -3226,7 +3226,7 @@ SCRIPTORIUM
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0010!DESCRIPTION!]
 		||
 		*Aromatics spicing the air relax the weary mage; the dull glow of a crystalline candelabra casts just the faintest light; the rhythmic beats of scattered percussionists and the melodic lull of the strings sooth an aching mind.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0010!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0010!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!]
@@ -4082,9 +4082,10 @@ had been admonished
 		(C#A brazier){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011330!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131!DESCRIPTION!/]
 
+dirt
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011310!DESCRIPTION!]
 		||
-		*Having collected the dirt, his clarity of purpose fades into the emptiness he has grown accustomed to as of late. Clods of soil cupped in his hand stare up at him asking the same questions he now asks himself. With a sigh he attempts to return the earth from where he divested it, only to realize his Falseflesh will not move.*
+		*Bending down, the mage scoops both hands towards each other, severing the soil from its filthy brethren. Having collected the dirt, his clarity of purpose fades into the emptiness he has grown accustomed to as of late. Clods of soil cupped in his hand stare up at him asking the same questions he now asks himself. With a sigh he attempts to return the earth from where he divested it, only to realize his Falseflesh will not move.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011311!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011310!DESCRIPTION!/]
 
@@ -4102,7 +4103,7 @@ had been admonished
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011313!DESCRIPTION!]
 		||
-		*Instinct soon becomes will and he cools his burning Awareness in the pool of Discipline he has so painstakingly cultivated. The Mind's Fire will consume it all if unabated, curiosity tempered with control leads to the fruits of wisdom.*
+		*Instinct soon becomes will and he cools his burning Awareness in the pool of Discipline. The Mind's Fire will consume it all if unabated, curiosity tempered with control leads to the fruits of wisdom.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011314!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011313!DESCRIPTION!/]
 
@@ -4135,7 +4136,7 @@ had been admonished
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!]
 		||
-		*Against his better judgment, Ormenos channels the master painter within. Soon he begins ecstactically crafting an unequalled masterpiece of earthen tones upon his fleshy canvas. Ecstasy then become frenzy, manifesting in haphazard spinning. Even while spiraling inward like a leaf in a vortex, his fingers leave broad strokes of dirt lines more complex than the most cryptic Glyphs. The whirling mage spews maniacal laughter, louder with every stroke, until his medium begins to exhaust itself.
+		*Against his better judgment, Ormenos channels the master painter within. Soon he begins ecstactically crafting an unequalled masterpiece of earthen tones upon his fleshy canvas. Ecstasy then become frenzy, manifesting in haphazard spinning. Even while spiraling inward like a leaf in a vortex, his fingers leave broad strokes of dirt lines more complex than the most cryptic Glyphs. The whirling mage spews maniacal laughter, louder with every stroke, until his medium begins to exhaust itself.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!/]
 
@@ -4147,153 +4148,293 @@ had been admonished
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113110!DESCRIPTION!]
 		||
-		*Ormenos ceremoniously carries the dirt toward the copper disk, meticulously spreading it among the loosened stones. A sudden whir follows a violent shake, as though new life were being breathed into an ancient corpse. And then...*
+		*Ormenos ceremoniously carries the dirt toward the copper disk, meticulously spreading it among the loosened stones. A sudden whir follows a violent shake, and soon sparks light up the undulating gaps in its manifold. The device now writhes caught in some fevered rhapsody, as though new life were being breathed into its ancient corpse. And then...*
         (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131100!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113110!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131100!DESCRIPTION!]
 		||
-        *Nothing.*
+        *Nothing but silence and stillness.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131101!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131100!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131101!DESCRIPTION!]
 		||
-        *No sounds, no movement, not a hint of the promised vigor. The contraption is simply inert, unmoving... dead.*
+        *No sounds, no movement, not even a hint of the promised vigor. The contraption remains inert, unmoving... dead.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131101!DESCRIPTION!/]
-???
+
+water
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011320!DESCRIPTION!]
 		||
-		*Having collected the water, he...*
-		(A#Waters the plants){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113210!DESCRIPTION!}
-		(B#Douses the braziers){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113211!DESCRIPTION!}
-		(C#Pours it on the copper disk){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-2!DESCRIPTION!}
+		*Yes, water. But a vessel is needed to tame this elusive prey. He pats the pockets of his coarsely-woven robe finding nothing suitable to the task. Eyes then scan automatically for the tool he lacks, caught almost immediately by the glare from the fragments of a shattered crystal. Long had Ormenos desired to find a memory of crystal reparation among his charges in the Vault; such a Techne relearned would surely change the world, giving new life to pathetic crystals like these... He held the thought as Awareness bloomed within him.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011321!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011320!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011321!DESCRIPTION!]
+		||
+		*In a beautiful reversal of fortunes, these useless shards regain some semblance of purpose, for a corner piece resides among them. Four sides, unbroken meet in a single corner, giving rise to an empty pyramid. This will well suffice to later port the water to a venue of his choosing!*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011322!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011321!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011322!DESCRIPTION!]
+		||
+		*Thought to will, and will to action, the glassy vessel meets his grasp, whereupon Ormenos returns to collect the water he so desired...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011323!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011322!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011323!DESCRIPTION!]
+		||
+		*But now what? His clarity of purpose fades into the emptiness he has grown accustomed to as of late. A draught of water stares up at him asking the same questions he now asks himself. With a sigh he attempts to return the water whence he divested it, only to realize his Falseflesh will not move.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011324!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011323!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011324!DESCRIPTION!]
+		||
+		*He tries to look around with eyes frozen in space, observing only the still image before them. The fog remains immobile; the water static in midfall; all has stopped, all except for Awareness. Confusion, spiced with terror and impotence, feed Ormenos' chaotic thoughts, promising to grant him his long-awaited inheritance...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011325!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011324!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011325!DESCRIPTION!]
+		||
+		*The madness he always knew would be his.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011326!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011325!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011326!DESCRIPTION!]
+		||
+		*Instinct soon becomes will and he cools his burning Awareness in the pool of Discipline. The Mind's Fire will consume it all if unabated, curiosity tempered with control leads to the fruits of wisdom.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011327!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011326!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011327!DESCRIPTION!]
+		||
+		*Thus, he awaits, frozen in time and space, calm and detached, a mere observer of the fear that consumed him. But what does he await? He and his cupful of water...*
+		(A#He waters the plants.){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113210!DESCRIPTION!}
+		(B#He douses the braziers.){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113211!DESCRIPTION!}
+		(C#He pours it on the copper disk.){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-2!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011327!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113210!DESCRIPTION!]
 		||
-		*Ormenos dutifully cups a handful of water and carries it to the nearest plant, altruistically donating every drop to the plant's growth.
-		
-		And in an undeniable bout of cosmic irony, water begins to fall over the plants from spouts in the ceiling. Clearly the vegetation could have never reached such monstruous levels of growth had it lacked access to water.
-		
-		Somewhat embarrassed by the futility of his actions, Ormenos backs away over the bridge.*
+		*Ormenos dutifully carries the water to the nearest plant, soon donating each and every drop to the plant...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132100!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113210!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132100!DESCRIPTION!]
+		||
+		*But, in an undeniable bout of cosmic irony, water begins to fall over the plants from pipe-fed spigots in the ceiling. Clearly the vegetation could have never reached such monstruous levels of growth had it lacked access to water.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132101!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132100!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132101!DESCRIPTION!]
+		||
+		*Somewhat embarrassed by the futility of his actions, Ormenos backs away over the bridge.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113210!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132101!DESCRIPTION!/]
+
 >>>Extinguished braziers (2086)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113211!DESCRIPTION!]
 		|^2086:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132110!DESCRIPTION!|
-		*Ormenos hurriedly runs to and fro between the rivulet and the smoke-churning braziers, scooping up water and innudating the braziers with fire-choking baths. *
+		*Ormenos hurriedly runs to and fro between the rivulet and the smoke-churning braziers, filling his repurposed crystalline cup with water and innudating the braziers with its fire-choking baths.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2086!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113211!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113211!DESCRIPTION!]
 		||
-		*He does so until he has extinguished all the braziers, leaving naught but an evanescent memory of the fire, as the smoke of the dying embers exhale their final breaths.*
+		*Back and forth, back and forth, a seemingly endless cycle, soon leading him to wonder if these fires would ever die. Yet he continues his flame massacre with all the speed his weak, scholar's legs can muster. Shutting down his conscious awareness of the process, time passes both impossibly fast and interminably slow, and despite this paradoxical nature of maddening unthought, he soon realizes his task is soon done; he has almost extinguished all the braziers, leaving naught but an evanescent memory of the fires they once house. Thought returns as the smoke of the dying embers breathes its final breath.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113211!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132110!DESCRIPTION!]
 		||
-		*Now not even smoke rises from the embers of these stilled fires and they are not likely to spontaneously restart anytime soon.*
+		*Now, not even smoke rises from the embers of these stilled fires - and they are not likely to spontaneously restart anytime soon.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132110!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113212!DESCRIPTION!]
 		||
-		*Ormenos ceremoniously and purposefully carries the water toward the copper disk. Upon arrival, he carefully and meticulously sprinkles it among the loosened stones, causing a sudden whirring sound and a violent sparking. Then, nothing. The contraption is inert, unmoving, dead.*
-		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
-		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
+		*Ormenos ceremoniously carries the draught of water toward the copper disk, meticulously sprinkling it among the loosened stones upon arrival. A sudden whir follows a violent shake, and soon sparks light up the undulating gaps in its manifold. The device now writhes caught in some fevered rhapsody, as though new life were being breathed into its ancient corpse. And then...*
+        (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131100!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113212!DESCRIPTION!/]
 
+braziers
 >>>Extinguished braziers (2086)<<<	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011330!DESCRIPTION!]
 		|^2086:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132110!DESCRIPTION!|
-		*Having collected a brazier, he...*
-		(A#Extracts an ember from the brazier){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113320!DESCRIPTION!}
-		(B#Kicks the braziers over){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113321!DESCRIPTION!}
-		(C#Casts its embers upon the copper disk){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2084!DESCRIPTION!}
+		*The braziers draw the mage in with the irresistible pull of their dancing flames, his Mind's Fire resonating with their physical manifestations, ever-intensifying with each approaching step. The two soon merge into a chaotic symphony, their blinding crescendoing seeming to overwhelm his fevered awareness.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011331!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0011330!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011331!DESCRIPTION!]
+		||
+		*Closer, closer, ever closer, until its heat warms, then burns. Closer, closer, all too close, trapped in its hypnotic snare. Warmth mutates becoming burn; should he get any closer, the skin will melt from his Falseflesh. Yet, this Siren ablaze keeps singing to him its seductive song...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011331!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332!DESCRIPTION!]
+		||
+		*Suddenly, silence seals the potent spell, bringing Ormenos to a halt. Relief and terror unite in the revelation that though he no longer moves towards certain destruction, he also realizes his Falseflesh refuses to move at all.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011333!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011333!DESCRIPTION!]
+		||
+		*He tries to look around with eyes frozen in space, observing only the still image before them. The fog remains immobile; the water static in midfall; all has stopped, all except for Awareness. Confusion, spiced with terror and impotence, feed Ormenos' chaotic thoughts, promising to grant him his long-awaited inheritance...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011334!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011333!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011334!DESCRIPTION!]
+		||
+		*The madness he always knew would be his.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011335!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011334!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011335!DESCRIPTION!]
+		||
+		*Instinct soon becomes will and he cools his burning Awareness in the pool of Discipline. The Mind's Fire will consume it all if unabated, curiosity tempered with control leads to the fruits of wisdom.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011336!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011335!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011336!DESCRIPTION!]
+		||
+		*Thus, he awaits, frozen in time and space, calm and detached, a mere observer of the fear that consumed him. But what does he await? He and the blaze before him...*
+		(A#He extracts an ember from the brazier.){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113320!DESCRIPTION!}
+		(B#He kicks the braziers over.){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113321!DESCRIPTION!}
+		(C#He casts its embers upon the copper disk.){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2084!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011336!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113320!DESCRIPTION!]
 		||
-		*Ormenos ceremoniously draws a coal from within the fragrant, smoking vessel. His hand burns, causing him to cry out in pain - agony so excruciating it causes all muscles to collapse his form inward in a spasmodic furor.
-		
-		As the nervous excitation slowly dissipates, he regains control over his rogue musculature. Gripping his damaged hand with the untainted one, he lifts himself up. Gradually, and much to his surprise, the pain vanishes until nothing remains. Absent the hideous imprint of the devilsh coal upon his palm, Ormenos would never even suspect that he had been foolish enough to reach into the brazier to play with fire.
-		
-		Somewhat embarrassed by his behavior, Ormenos backs away over the bridge.*
+		*Ormenos recklessly draws a coal from the bowels of the smoking vessel. His supple flesh burns. Agony manifests in wailing sobs and violent convulsions.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133200!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113320!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133200!DESCRIPTION!]
+		||
+		*As the initial shock wanes, he regains control over his rogue musculature. Gripping his damaged hand with the untainted one, he lifts himself up. Gradually, and much to his surprise, the pain vanishes until nothing remains. Absent the hideous imprint of the devilsh coal upon his palm, Ormenos would never even suspect that he had been foolish enough to reach into a brazier to play with fire.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133201!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133200!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133201!DESCRIPTION!]
+		||
+		*Now, somewhat embarrassed by his behavior, Ormenos backs away over the bridge.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113320!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133201!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113321!DESCRIPTION!]
 		||
-		*Ormenos deals swift and forceful punishment to the braziers in quick succession at the point of his heel, knocking the burning embers within sloppily upon the ground where they fizzle out.*
+		*Ormenos' weak, scholar's legs deal swift and pitiful punishment to the braziers at the point of his heel. Only with a great effort does he succeed in knocking its blazing contents sloppily upon the ground. The soil's moisture slowly robs them of their heat, suffocating the flames. Brilliant yellows become tame crimsons until they inevitably fizzle out. Charred corpses of ashen gray now lie unburied, scattered, unmourned.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2086!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113321!DESCRIPTION!/]
-	
+
 >>>Correctly aligned the arrows (2078)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113322!DESCRIPTION!]
 		|^2078:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133221!DESCRIPTION!|
-		*Ormenos ceremoniously and purposefully carries the brazier toward the copper disk. Upon arrival, he carefully and meticulously casts its embers among the loosened stones, causing a sudden melding of the pieces into a single unit. The heat has acted as a catalyst, setting in motion the self-healing properties of this ancient artifact.* 
+		*Carefully covering his hands with the tattered edges of his sleeves, Ormenos ceremoniously carries the brazier toward the copper disk. Upon arrival, he casts its embers among the loosened stones. Heat sinks into the pieces, liquefying the flat edges of each. The edges meld, uniting individuals into groups, and ultimately groups into a single unit. A memory vaguely floats across the background of consciousness, something about heat and the self-healing properties of ancient artifacts. But alas, this seed of thought never fully blossoms.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2085-3!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113322!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133220!DESCRIPTION!]
 		||
-		*Yet something is amiss; a sputtering sound and a violent shaking possess the contraption making it seems as though it will disintegrate. Then, nothing. It becomes inert, unmoving, dead.*
+		*Then, in the space of a thought, a sputtering sound and a violent shaking possess the contraption. The whirring crescendos pounding at the ears; the trembling escalates cracking the newly-healed stones. These frenzied oscillations, these roaring groans, they remind Ormenos of something...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332200!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133220!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332200!DESCRIPTION!]
+		||
+		*Memory cracks serenity's seals, bringing a flood of terror with it. Past insight tells that these are all the signs of unstable energy nearing a point of no return, like a cracking crystal. Further weakening of the device's inner structure would spell his doom.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332201!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332200!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332201!DESCRIPTION!]
+		||
+		*Shock and despair grip his lungs, sealing off the airways. The machine maintains its violent convulsions and deafening rumble.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332202!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332201!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332202!DESCRIPTION!]
+		||
+		*An immeasurable span of time elapses, slowly draining the pent up energy, allowing it to peacefully dissipate. The machine converges to silence and stillness.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332203!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332202!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332203!DESCRIPTION!]
+		||
+		*Relief and exhaustion force air back into his shriveled lungs. The result of his ill-advised meddling with forces he ill understands has been mercifully benign.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133220!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011332203!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133221!DESCRIPTION!]
 		||
-		*Ormenos ceremoniously and purposefully carries the brazier toward the copper disk. Upon arrival, he carefully and meticulously casts its embers among the loosened stones, causing a sudden melding of the pieces into a single unit. The heat has acted as a catalyst, setting in motion the self-healing properties of this ancient artifact.*
+		*Carefully covering his hands with the tattered edges of his sleeves, Ormenos ceremoniously carries the brazier toward the copper disk. Upon arrival, he casts its embers among the loosened stones. Heat sinks into the pieces, liquefying the flat edges of each. The edges meld, uniting individuals into groups, and ultimately groups into a single unit. A memory vaguely floats across the background of consciousness, something about heat and the self-healing properties of ancient artifacts.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133221!DESCRIPTION!/]
-	
+
+throne
 >>>Acquired Nearcasting Glyph (2083)<<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00114!DESCRIPTION!]
 		|^2083:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00114!DESCRIPTION!|
-		*Scrutinize as he may, all Ormenos sees is just a throne with a shroud atop.*
+		*Scrutinize as he may, all Ormenos sees is a throne with a shroud atop.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00114!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00114!DESCRIPTION!]
 		||
-		*Scrutinize as he may, all Ormenos sees is a throne with a shroud atop. Sullenly, he drops his gaze to the floor, whereupon he notices the familiar copper seal of a Nearcaster... The throne's true purpose now deciphered, Ormenos must choose how to proceed.*
+		*Scrutinize as he may, all Ormenos sees is a throne with a shroud atop. Disappointment beginning to overrule curiosity, he drops a sullen gaze to the floor. The familiar reddish sheen of a Nearcaster greets his eyes, for how could he forget that copper seal?*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001140!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00114!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001140!DESCRIPTION!]
+		||
+		*...Forget?*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001141!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001140!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001141!DESCRIPTION!]
+		||
+		*Confusion comes to dominate the war of emotions as he thinks on this bizarre memory. Conscious effort bears no fruits in revealing its source. Perhaps he learned it from one of the countless dives into the Vault-dweller's minds. Yet, he feels it is distinctly his own. Visions of assembling the contraption come and go, fading into the haze of half-conjured memory.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001142!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001141!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001142!DESCRIPTION!]
+		||
+		*But this line of thought is getting him nowhere. The throne's true purpose now deciphered, he must choose how to proceed.*
 		(A#Inspect the other items){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(C#_Use the Glyph of Nearcasting_){C:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.X000!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00114!DESCRIPTION!/]
-	
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001142!DESCRIPTION!/]
+
+saw babel
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0012!DESCRIPTION!]
 		||
-		*The items in the room remain the same. But Babel is of course nowhere to be seen. The shrouded throne in which he disappeared yet abides, silently observing the passage of time.*
+		*The room's items remain unchanged. But Babel is of course nowhere to be seen - though the shrouded throne in which he disappeared yet abides, silently observing the passage of time.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(B#Examine items){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0012!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!]
 		||
-		*Ormenos turns to leave, looking back one last time at the silver throne before pressing forward.*
+		*Ormenos turns to leave, sparing one last glance for the shrouded throne before pressing forward.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!/]
-	
+???
+exploding crystal
 >>>Have Luin Armor (12302)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X009!DESCRIPTION!]
 		|^12302:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0090!DESCRIPTION!|
 		*A violent explosion sends shrapnel directly through Ormenos' Falseflesh, creating mirroring simulacra of the natural spring within the very chamber of his demise. As Ormenos bleeds out, he wonders: will he be remembered?*
 		(A#...){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X009!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0090!DESCRIPTION!]
 		||
 		*A violent explosion sends shrapnel careening towards the emerald skin Ormenos now seems to possess. What trick of the Masters is this that he can so inexplicably evade Death's scythe? Why is the universe toying with him? Sending him to certain death only to regret it last minute and protect him...
@@ -4319,9 +4460,9 @@ had been admonished
 		*Then, darkness...*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0093!DESCRIPTION!/]
-		
-	
 
+
+???
 BABEL
 >>>know babel is Pr. Ar. (2032)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!BABEL!]
@@ -4337,7 +4478,7 @@ virgin run
 		*"Brother Inquisitor! You scared the ghost right from me!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0000!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0000!BABEL!]
 		||
 		*"What are you doing here? Shouldn't you be in the Nave reporting on your findings?"*
@@ -4348,13 +4489,13 @@ virgin run
 		(E#"I go where I please, when I please."){E:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0025!BABEL!}
 		(F#"Shhh! Don't scare it away!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0026!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0000!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001!BABEL!]
 		||
 		*"Of course, but please act quickly, Brother. There are whispers about of the Choir's impatience and rumors of the 'severity' of their judgments."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022!BABEL!]
 		||
 		*"Is there a problem with telling the truth?"*
@@ -4362,7 +4503,7 @@ virgin run
 		(B#"Would the Choir reciprocate?"){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00222!BABEL!}
 		(C#"Who knows?"){C:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00223!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00222!BABEL!]
 		||
 		*"What has the Choir done to earn your distrust, Brother Inquisitor?"*
@@ -4370,7 +4511,7 @@ virgin run
 		(B#"Sister Gate Keeper informed me of what the Choir will do to me..."){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002229!BABEL!}
 		(C#"If I go, will you stop asking questions?"){C:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-1!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00222!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00223!BABEL!]
 		||
 		*"Do you have reason to suspect the Choir, Brother Inquisitor?"*
@@ -4378,25 +4519,25 @@ virgin run
 		(B#"Sister Gate Keeper informed me of what the Choir will do to me..."){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002229!BABEL!}
 		(C#"If I go, will you stop asking questions?"){C:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-1!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00223!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002229!BABEL!]
 		||
 		*"...I shall pry no further into your affairs, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022290!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002229!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022290!BABEL!]
 		||
 		*"It's unfortunate you have lost your faith in the Choir, but in the end, we are all held accountable for our actions."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022291!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022290!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022291!BABEL!]
 		||	
 		*"Though I trust the Choir will give you a fair judgment. Farewell."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022291!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0025!BABEL!]
 		||
 		*"Brother, are we not at our best when in service of each other and the Choir?"*
@@ -4404,13 +4545,13 @@ virgin run
 		(D#"Since when do Junior magi instructor their seniors?"){D:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00254!BABEL!}
 		(E#"Soon you will all serve only me."){E:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00255!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0025!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00254!BABEL!]
 		||
 		*"...I spoke out of turn; I apologize and shall pry no further, Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002590!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00254!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00255!BABEL!]
 		||
 		*"...I sincerely hope you jest, Brother."*
@@ -4422,7 +4563,7 @@ virgin run
 		*"I can't help but find your lack of regard for the Choir and your fellow Enclaveans disheartening."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002591!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002550!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002590!BABEL!]
 		||
 		*"I simply find your lack of faith in the Choir and your fellow Enclaveans disheartening."*
@@ -4434,69 +4575,69 @@ virgin run
 		*"But in the end, we are all held accountable for our actions."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002592!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002591!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002592!BABEL!]
 		||	
 		*"Though I trust the Choir will give you a fair judgment. Farewell."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.002592!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0026!BABEL!]
 		||
 		*"...Scare what away?"*
 		(F#"THE JADE MONKEY, YOU FOOL!!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00260!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0026!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00260!BABEL!]
 		||
 		*"The... what?"*
 		(F#"YOU IGNORAMUS, IT'S THE MOST VALUABLE OF ALL JEWELED MONKEYS!!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00261!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00260!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00261!BABEL!]
 		||
 		*"I thought you were afraid of scaring it away... so should you be yelling?"*
 		(F#"JADE STATUES CAN'T HEAR! BIRACUL'S BALLS YOU'RE DENSE!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00262!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00261!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00262!BABEL!]
 		||
 		*"Indeed, how could I not have known?"*
 		(F#"My guess is because you're dumb."){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00263!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00262!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00263!BABEL!]
 		||
 		*"Indeed... In any case, Brother, I suggest you make your way to the Nave; the Choir is likely awaiting your report."*
 		(F#"Look, I kinda hafta find this Jade Monkey for a quest in another book, so..."){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00264!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00263!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00264!BABEL!]
 		||
 		*"Then you don't plan on reporting at all...?"*
 		(F#"Look, baby, you know I love you, but it just wasn't in the cards!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00265!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00264!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00265!BABEL!]
 		||
 		*"I'm at a loss for words..."*
 		(F#"...Except for the ones you just said to express that thought..."){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00266!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00265!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00266!BABEL!]
 		||
 		*"..."*
 		(F#"And that's a genuine loss of words!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00266!BABEL!/]
-	
-	
+
+
 know babel is Pr. Ar.
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!1.000!BABEL!]
 		||
 		*"Brother Inquisitor! You scared the ghost right from me!"* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!1.0000!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!1.000!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!1.0000!BABEL!]
 		||
 		*"What are you doing here? Shouldn't you be in the Nave reporting on your findings?"*
@@ -4507,26 +4648,26 @@ know babel is Pr. Ar.
 		(E#"Prime Archon or not, no one tells me what to do!"){E:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2033!BABEL!}
 		(F#"Shhh! Don't scare it away!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0026!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!1.0000!BABEL!/]
-	
-	
+
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.001!BABEL!]
 		||
 		*"..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.002!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.001!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.002!BABEL!]
 		||
 		*"Brother Inquisitor's keen sense of awareness has taken me aback..."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.003!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.002!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.003!BABEL!]
 		||
 		*"That you even know a Prime Archon exists is... surprising, to say the least."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.004!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.003!BABEL!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!2.004!BABEL!]
 		||
 		*"Come. Follow me and witness a sight that cannot be unseen..."*
@@ -4621,7 +4762,7 @@ ormenos opened the sylvan refuge
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!]
 		||
         *Shocked at how calm he feels, Ormenos begins to skip back up the steps, away from the pain of reality. As he skips, he whistles a tune he remembers from a Gleebringer back in Tambul... Akkeber was his name. Maybe that guy wasn't so bad after all...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0024!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0025!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0017!DESCRIPTION!/]
 
 

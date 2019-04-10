@@ -50,8 +50,8 @@ public class SoundManager {
 		targetVol = bgmVol;
 		SFXon = false;
 		BGMon = false;
-//		 SFXon = true;
-//		 BGMon = true;
+		 SFXon = true;
+		 BGMon = true;
 		currentBGMID = -1;
 		loadSFX();
 	}
