@@ -65,7 +65,7 @@ acq glyph of Prime Archon prev
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00200!DESCRIPTION!]
 		||
 		*Ormenos could not extract the secrets of the ancients from the realm of the unknown. He is no more. But the chaos that directed this vessel returns again to the Eternal Spiral, simply waiting to be spun once more into the tapestry of Falseflesh...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0021!DESCRIPTION!}
+		(A#Dream){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0021!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00200!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0021!DESCRIPTION!]
@@ -4013,7 +4013,7 @@ had been admonished
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112020!DESCRIPTION!]
 		|^12302:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0091!DESCRIPTION!|
 		*Skin peels from his shell, merging with the raw heat into a shapeless plasma. Muscles and bones quickly expand, seeming to disappear into the white hot surroundings. A Trueflesh not quite his own, but inextricably linked thereto observes, floating, dissipating, searching for a shell in which to reform and continue its journey.*
-		(A#...){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+		(A#Dream){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00112020!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011203!DESCRIPTION!]
@@ -4389,7 +4389,7 @@ throne
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00114!DESCRIPTION!]
 		||
-		*Scrutinize as he may, all Ormenos sees is a throne with a shroud atop. Disappointment beginning to overrule curiosity, he drops a sullen gaze to the floor. The familiar reddish sheen of a Nearcaster greets his eyes, for how could he forget that copper seal?*
+		*Scrutinize as he may, all Ormenos sees is a throne with a shroud atop. Disappointment begins to overrule curiosity, and his sullen gaze falls to the floor. There, the familiar reddish sheen of a Nearcaster greets his eyes, for how could he forget that copper seal?*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001140!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00114!DESCRIPTION!/]
 
@@ -4426,40 +4426,92 @@ saw babel
 		*Ormenos turns to leave, sparing one last glance for the shrouded throne before pressing forward.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!/]
-???
+
 exploding crystal
 >>>Have Luin Armor (12302)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X009!DESCRIPTION!]
-		|^12302:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0090!DESCRIPTION!|
-		*A violent explosion sends shrapnel directly through Ormenos' Falseflesh, creating mirroring simulacra of the natural spring within the very chamber of his demise. As Ormenos bleeds out, he wonders: will he be remembered?*
-		(A#...){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+		|^12302:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0095!DESCRIPTION!|
+		*A violent explosion sends shrapnel tearing through Ormenos' Falseflesh. Blood gushes out from the countless wounds, myriad mirror simulacra of the natural spring not two steps away.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0090!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X009!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0090!DESCRIPTION!]
 		||
-		*A violent explosion sends shrapnel careening towards the emerald skin Ormenos now seems to possess. What trick of the Masters is this that he can so inexplicably evade Death's scythe? Why is the universe toying with him? Sending him to certain death only to regret it last minute and protect him...
-		
-		So, Ormenos is destined to survive, and only the shockwave of displaced air sends him barreling into one of the walls, knocking the consciousness from his body.*
+		*With the exodus of blood comes a blurring of the senses, a mixing of all thoughts and emotion, coalescing into a singular and pure finality of intention...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0091!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0090!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0091!DESCRIPTION!]
 		||
-		*Upon waking, he believes to witness himself connected to a Mind-Loom, with a Thought-Weaver clearly trying to extract from him a memory, only to fall back into a state of darkness. However, this is likely but an illusion, as he remains in the Archives...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0092!DESCRIPTION!}
+		*In the end, all the mage wonders is whether he will be remembered.*
+		(A#Dream){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0091!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0092!DESCRIPTION!]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0095!DESCRIPTION!]
 		||
-		*Half-reviving thereafter, having slumbered for an indeterminate period of time, he sees the destroyed chamber growing smaller and more distant. Looking up, he sees two Enforcers dragging him away from the scene...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0093!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0092!DESCRIPTION!/]
-	
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0093!DESCRIPTION!]
+		*A violent explosion sends shrapnel careening towards Ormenos more swiftly than his Falseflesh can register the fear of death. An unwarranted fear, considering his pact with the emerald spawn, now distant in both time and space...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00950!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0095!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00950!DESCRIPTION!]
 		||
-		*Then, darkness...*
+		*"No ordinary armor am I! Of the forge of Vanargand am I!"*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00951!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00950!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00951!DESCRIPTION!]
+		||
+		*"...an unyielding shield I will be!"*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00952!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00951!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00952!DESCRIPTION!]
+		||
+		*"As armor, my form is impenetrable! Your Falseflesh shall bear my protection upon its very skin!"*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00953!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00952!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00953!DESCRIPTION!]
+		||
+		*Before Awareness completes the circle, a break in the line occurs. Fog rolls in over the clarity he once held, taking with it the forms it obscures, subsuming everything into a single, indecipherable unit.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00954!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00953!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00954!DESCRIPTION!]
+		||
+		*Skin shining with an emerald glow, Ormenos comes to. Now aware that he is caught mid-explosion, yet remains unharmed. What trick of the Masters is this that he can so inexplicably evade Death's scythe? Have the cosmic titans not yet tired of playing his piece?*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00955!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00954!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00955!DESCRIPTION!]
+		||
+		*Perhaps all is always as it should be. Ormenos is destined to survive, regardless of his will. A shockwave roars at him, slamming the mage violently into some unseen surface. Consciousness drains from his weakened Falseflesh...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00956!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00955!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00956!DESCRIPTION!]
+		||
+		*Upon waking, he believes to witness himself connected to a Mind-Loom, with a Thought-Weaver clearly trying to extract from him a memory. Impossible. That could never happen to him. He falls back into a state of darkness.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00957!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00956!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00957!DESCRIPTION!]
+		||
+		*Waking from another half-dream, this time he sees the destroyed chamber growing smaller and more distant. Looking up, he sees two Enforcers dragging him away from the scene.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00958!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00957!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00958!DESCRIPTION!]
+		||
+		*Reality and chance are one in the same to him now, and he knows not which to choose.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00959!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00958!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00959!DESCRIPTION!]
+		||
+		*But perhaps he need not choose at all, as darkness mercifully descends upon him, bringing with it a dreamless sleep...*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0093!DESCRIPTION!/]
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00959!DESCRIPTION!/]
 
 
 ???
