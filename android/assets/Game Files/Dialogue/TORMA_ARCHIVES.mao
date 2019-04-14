@@ -3610,12 +3610,18 @@ virgin run
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Look around){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0005!DESCRIPTION!]
 		||
-		*That dusty scent of forget, that silent slumber of disuse... like a name so long unspoken that... like a friend unremembered. But Ormenos remembers. If not why he came, than at least where he has come... But he does not recall ever having come here before today - and now he is here again. This place's mere existence was unknown to him, but now he cannot imagine a world in which it did not exist...*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!}
+		*That dusty scent of forget, that silent slumber of disuse, that hazy veil of brazier smoke masking the unnatural garden beyond... Ormenos has returned to the Seat of the True Archon. Like a name so long unspoken, like a friend so long unremembered, this chamber sits here undisturbed in an abandoned alcove.*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00050!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0005!DESCRIPTION!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00050!DESCRIPTION!]
+		||
+		*But Ormenos remembers. If not why he came, then at least where he has come... This even in spite of never having come here before today. Thinking back, he has no recollect of this place at all, even though he now cannot imagine a world without it. Too many mysteries unsolved, too many questions unanswered. If he could forget this place so thoroughly, what of all his other memories..?*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00050!DESCRIPTION!/]
 
 >>>Met Babel at Seat of True Ar (2030)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!]
@@ -4655,8 +4661,8 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00261!BABEL!]
 		||
-		*"I thought you were afraid of scaring it away... so should you be yelling?"*
-		(F#"JADE STATUES CAN'T HEAR! BIRACUL'S BALLS YOU'RE DENSE!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00262!BABEL!}
+		*"If you're afraid of scaring it away, should you be yelling?"*
+		(F#"JADE STATUES CAN'T HEAR! BY BIRACUL'S BALLS, YOU'RE DENSE!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00262!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00261!BABEL!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00262!BABEL!]
@@ -4668,19 +4674,19 @@ virgin run
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00263!BABEL!]
 		||
 		*"Indeed... In any case, Brother, I suggest you make your way to the Nave; the Choir is likely awaiting your report."*
-		(F#"Look, I kinda hafta find this Jade Monkey for a quest in another book, so..."){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00264!BABEL!}
+		(F#"Look, I hafta find this Jade Monkey for a quest in another book, so..."){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00264!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00263!BABEL!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00264!BABEL!]
 		||
 		*"Then you don't plan on reporting at all...?"*
-		(F#"Look, baby, you know I love you, but it just wasn't in the cards!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00265!BABEL!}
+		(F#"Not unless they're giving out free Jade Monkeys there..."){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00265!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00264!BABEL!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00265!BABEL!]
 		||
 		*"I'm at a loss for words..."*
-		(F#"...Except for the ones you just said to express that thought..."){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00266!BABEL!}
+		(F#"...Except for the ones you just used to express that thought..."){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00266!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00265!BABEL!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00266!BABEL!]

@@ -1669,7 +1669,7 @@ cook ding
 	
 	Yet, despite his elation at overcoming this hurdle, Ormenos' success is short-lived as the infelicitous arrival of the Enforcers seems to have escaped his notice. In truth, he can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@
-	Though elderly and morbidly obese, Cook Ding is not without his wits... He raises his arms to protect his sensitive noggin from any errant fists the untrained Ormenos might throw. Then, he proceeds to belt out a raspy and grating whine, as loud as he can; for he knows he only need endure this abuse until the nearby Enforcers can reach the Refectory.
+	Though elderly and morbidly obese, Cook Ding is not without his battle wits... He raises his arms to protect his sensitive noggin from any errant fists the untrained Ormenos might throw. Then, he proceeds to belt out a raspy and grating whine, as loud as he can; for he knows he only need endure this abuse until the nearby Enforcers can reach the Refectory.
 	
 	His plan works flawlessly, in no small part due to how physically weak Ormenos is. The arrival of the Enforcers goes unnoticed by Ormenos for he can only tell indirectly that they have arrived when a precisely landed strike causes the world around him to dim...@
 [1208/]

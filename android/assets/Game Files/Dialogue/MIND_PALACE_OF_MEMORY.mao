@@ -2684,7 +2684,7 @@ To the tubes
 		||
 		*The city's veins, fittingly filled with the filth of man even after all this time, its stench warns of their unnatural birth. Yet down the ladder descending and into the tubes vanishing my Self goes. His will be done. All is as it should be.
 		
-		But surprise awaits halfway down, where the rungs give way to corrosion and my body falls into a pile of refuse, soft with rot. Clear as Summer's sky this is the final task of Biracul's Eidos, return no longer possible. Weakness of the Falseflesh conjures emotions of fear and regret. Strength of the True dispells them.*
+		But surprise awaits halfway down, where the rungs give way to corrosion and my body falls into a pile of refuse, soft with rot. Clear as Summer's sky this is the final task of Biracul's Eidos, return no longer possible. Weakness of the Falseflesh conjures emotions of fear and regret. Strength of the True dispels them.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!RUINS OF URUGH!0.X010!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!RUINS OF URUGH!0.01!DESCRIPTION!/]
 	
@@ -3325,8 +3325,8 @@ ZHILIAN STEPPE
 Zhili Memory
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000!DESCRIPTION!]
 		||
-		*And somehow my Self is back at the beginning, just when it seemed my dream had ended. For all did end with His creation, did it not? Yet still, feet have carried me, as of habit, to the exceeding austerity of the Zhilian steppe. Back to my homeland.*
-		(A#My homeland...){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00001!DESCRIPTION!}
+		*And somehow my Self is back at the beginning, just when it seemed my dream had ended. For all did end with His creation, did it not? Yet still, habit-driven feet have carried me back to the exceeding austerity of the Zhilian steppe. I was back home.*
+		(A#My home...){A:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00001!DESCRIPTION!}
 		(B#His creation...){B:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00002!DESCRIPTION!}
 		(C#...){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000!DESCRIPTION!/]
@@ -3339,31 +3339,31 @@ Zhili Memory
 
     [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000010!DESCRIPTION!]
 		||
-		*Our wind-swept land punishes the meek. But make no mistake, there is no reciprocity from humans here, no battle with Mother Nature here. Just as no fool would ever hope to ensare Brother Sun, so too do we regard Mother with singular and sacrosanct deference. Rather, the task is to gain Her respect through overcoming the harsh trials She lays before us. This is the Zhilian way.*
+		*Our wind-swept land punishes the meek. But make no mistake, there was no reciprocity from humans here, no battle with Mother Nature here. Just as no fool would ever hope to ensare Brother Sun, so too do we regard Mother with singular and sacrosanct deference. Rather, the task is to gain Her respect through overcoming the harsh trials She laid before us.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000011!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000010!DESCRIPTION!/]
 
     [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000011!DESCRIPTION!]
 		||
-		*Not all win Her respect in the end, but my people have for centuries persevered, thus gaining Her protection. As proof, it suffices to note that not even the Blood-Drinkers dare to come to these barren highlands. We lived in the only land beyond Vanquished hands.*
+		*Not all win Her respect in the end, but my people had for centuries endured, thus gaining Her protection. As proof, it suffices to note that not even the Blood-Drinkers dare come to these barren highlands. We lived in the only land beyond Vanquished hands.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000011!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00002!DESCRIPTION!]
 		||
-		*Indeed, His creation! Biracul, though not of Mother born, was still birthed! In the crucible of the Empyrean crafted! But the Shining One is risen, and now my Self again returns to the wind-swept Zhilian steppe. Returned to a time before my awareness of the sparkling verses of Biracul, to a time before the betrayal of Awareness.*
+		*Indeed, His creation! Biracul, though not of Mother born, was still birthed! In the crucible of the Empyrean crafted! But the Shining One is risen, and now my Self again returned to the wind-swept Zhilian steppe. Returned to a time before my awareness of the sparkling verses of Biracul... to a time before the betrayal of Awareness.*
         (A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000020!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00002!DESCRIPTION!/]
 
     [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000020!DESCRIPTION!]
 		||
-        *Yet memory fails, and memory dies. None but the All-Seer truly know what memory cannot recall. And if we would see through the Eye, we must use faith as lense! Clear as summer skies that work remains, and thus to Zhili my Self returns. What task awaits? The vision of my homeland surely holds the key.*
+        *Yet memory fails, and memory dies. None but the All-Seer truly know what memory cannot recall. And if we would see through the Eye, we must use faith as lense! Clear as summer skies that work remained, and thus to Zhili my Self returns. What task awaits? The vision of my homeland surely holds the key.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000020!DESCRIPTION!/]
 
     [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!]
 		||
-		*The scene expands before the eyes, off into the six directions. Feet stand upon stubborn grasses that claw their way up through chilled soil, gathering Brother Sun's bounty. Skin feels Uncle Wind as He whispers cold tales from travels to lands unknown. Eyes watch as Sister Cloud sculpts figures in the sky.
+		*The scene expanded before the eyes, off into the six directions. Feet stand upon stubborn grasses that claw their way up through chilled soil, gathering Brother Sun's bounty. Skin feels Uncle Wind as He whispers cold tales from travels to lands unknown. Eyes watch as Sister Cloud sculpted figures in the sky.
 
         Serene and pure, this place, Mother's very home, is sacred to the Eye.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
@@ -3371,13 +3371,13 @@ Zhili Memory
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!]
 		||
-		*However, despite the alluring verisimilitude, this is nothing but a specter of a memory, a mere reflection of what once was, and no longer is. In truth, only the All-Seer can revisit what to us is past. As a shadow is to its caster, and as the caster is to the light, so are we to the All-Seer. So foreign, so far-removed, but nonetheless so inexorably linked.*
+		*However, despite the alluring verisimilitude, this is nothing but a specter of memory, a mere reflection of what once was, and no longer is. In truth, only the All-Seer can revisit what to us is past. As a shadow is to its caster, and as the caster is to the light, so are we to the All-Seer. So foreign, so far-removed, but nonetheless so inexorably linked.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!00.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!/]
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!00.0000!DESCRIPTION!]
 		||
-		*And so, my Self looks upon its beginnings from its end, seen with detachment and with incontrovertible knowledge of its illusory nature. This, the closed loop of my existence. Life has become a dream - or perhaps it is only at the end that one realizes it always was.*
+		*And so, my Self looked upon its beginnings from its end, seen with detachment and with incontrovertible knowledge of its illusory nature. This, the closed loop of my existence. Life has become a dream - or perhaps it is only at the end that one realizes it always was.*
 		(C#...){C:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 		(D#I would dispel the illusions.){D:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!}
 		(E#Dreams are for the weak.){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!}
@@ -3385,21 +3385,21 @@ Zhili Memory
 
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!]
 		||
-		*Even so, in this realm of smoke and mirrors my Self remains. Feet shift, carrying me forward; left and right fruitlessly vie to be first, unaware that they are bound together in the end. Faster and faster they move, soon breaking into a dash. The speed peels layers of time and memory from the Falseflesh, leaving only the Trueflesh behind.
+		*Even so, in this realm of smoke and mirrors my Self remained. Feet shift, carrying me forward; left and right fruitlessly vie to be first, unaware that they are bound together in the end. Faster and faster they move, soon breaking into a dash. The speed peels layers of time and memory from the Falseflesh, leaving only the True behind.
 		
 		Summer rains chase away autumn winds, and frozen winters oust fertile springs. Over and over the cycle unwinds, returning my form to the innocent youth of its origins, to a time before knowledge tainted its core.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!/]
-	
+
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!]
 		||		
-		*Admittedly, illusions would have put me ill-at-ease were it not for my bond with the Shining One. Devotion and sacrifice to the higher purpose of His creation dispel the illusion of fear. His light banishes the specters of darkness! No illusions, no doubts can lurk in His shadowless presence!*
+		*Admittedly, illusions would have put me ill-at-ease were it not for my bond with the Shining One. Devotion and sacrifice to the higher purpose of His creation dispelled the illusion of fear. His light banishes the specters of darkness! No illusions, no doubts can lurk in His shadowless presence!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00010!DESCRIPTION!/]
 	
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!]
 		||		
-		*Admittedly, the Trueflesh is willing, but the False is weak. This servant of Biracul's is but a mere human, no divinty can she reach, no apotheosis awaits her. But strength is not necessary, for my guide is the crystalline Voice of the Shining One. Enough for me is it to be touched by the hand of the divine. After all, contentment begets bliss..*
+		*Admittedly, the Trueflesh is willing, but the False is weak. This servant of Biracul's was but a mere human, no divinty can she reach, no apotheosis awaits her. But strength is not necessary, for my guide is the crystalline Voice of the Shining One. Enough for me is it to be touched by the hand of the divine. After all, contentment begets bliss..*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0001!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.00011!DESCRIPTION!/]
 
@@ -3414,12 +3414,14 @@ Zhili Memory
 		(E#My rival's lamentations.){E:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0013!DESCRIPTION!}
 		(F#A maddening cry.){F:1,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0014!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.X001!DESCRIPTION!/]
-	
+
+// NEU defaults to DIP because otherwise defaults to LOO
 	[/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.001!DESCRIPTION!]
 		||
 		*~ac*
 		(A#DIP){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0010!DESCRIPTION!}
 		(B#TRU){B:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0011!DESCRIPTION!}
+		(C#NEU){C:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0010!DESCRIPTION!}
 		(D#SUR){D:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0012!DESCRIPTION!}
 		(E#TYR){E:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0013!DESCRIPTION!}
 		(F#LOO){F:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0014!DESCRIPTION!}
