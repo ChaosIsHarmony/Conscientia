@@ -123,7 +123,7 @@ All things are as they should be!"
 [/14]
 "Though blind you may scale the highest peaks,
 never will you reach the midnight stars!
-Awareness alone is the stairway to Heaven!"
+Awareness alone reveals the stairway to Heaven!"
 
 - The Biraculian Verses: O 1-1
 [14/]
@@ -131,7 +131,7 @@ Awareness alone is the stairway to Heaven!"
 [/15]
 "May that my daughter give rise to the Eye's 
 opening! To the Great Awakening! Through her 
-actions all is born!"
+actions, all is born!"
 
 - The Biraculian Verses: R 0-0
 [15/]

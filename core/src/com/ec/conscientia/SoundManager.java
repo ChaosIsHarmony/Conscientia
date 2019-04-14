@@ -19,7 +19,7 @@ public class SoundManager {
 			// Enclave
 			BGM_ENCLAVE_THE_VAULT = 100, BGM_ENCLAVE_ARCHIVES_GENERAL = 101, BGM_ENCLAVE_ARCHIVES_SCRIPTORIUM = 102,
 			BGM_ENCLAVE_ARCHIVES_SYLVAN_ENCOUNTER = 103, BGM_ENCLAVE_ARCHIVES_SEAT_OF_THE_TRUE_ARCHON = 104,
-			BGM_ENCLAVE_THE_NAVE_RECKONING = 105, BGM_ENCLAVE_THE_NAVE_APSE = 106, BGM_ENCLAVE_PATH_OF_DISCIPLINE = 107,
+			BGM_ENCLAVE_THE_NAVE_RECKONING = 105, BGM_ENCLAVE_PATH_OF_DISCIPLINE = 107,
 			BGM_ENCLAVE_THRESHOLD_GENERAL = 108, BGM_ENCLAVE_EXODUS = 109, BGM_ENCLAVE_UNDERHALLS = 110,
 			BGM_ENCLAVE_HALL_OF_THE_ADEPTI_GENERAL = 111, BGM_ENCLAVE_HALL_OF_THE_ADEPTI_ORMENOS = 112, BGM_ENCLAVE_ARCHIVES_BROKEN_SCRIPTORIUM = 113,
 			// Kavu
@@ -128,7 +128,7 @@ public class SoundManager {
 					// ENCLAVE
 					case BGM_ENCLAVE_ARCHIVES_GENERAL:
 					if (currentBGMID != BGM_ENCLAVE_ARCHIVES_GENERAL)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/From Tome to Tome.ogg")), BGM_ENCLAVE_ARCHIVES_GENERAL, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - Yarron.ogg")), BGM_ENCLAVE_ARCHIVES_GENERAL, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_ARCHIVES_SCRIPTORIUM:
 					if (currentBGMID != BGM_ENCLAVE_ARCHIVES_SCRIPTORIUM)
@@ -164,19 +164,19 @@ public class SoundManager {
 					break;
 					case BGM_ENCLAVE_THRESHOLD_GENERAL:
 					if (currentBGMID != BGM_ENCLAVE_THRESHOLD_GENERAL)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/Solitude.ogg")), BGM_ENCLAVE_THRESHOLD_GENERAL, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - Solemne.ogg")), BGM_ENCLAVE_THRESHOLD_GENERAL, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_EXODUS:
 					if (currentBGMID != BGM_ENCLAVE_EXODUS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/Passing the Torch.ogg")), BGM_ENCLAVE_EXODUS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - Passing the Torch.ogg")), BGM_ENCLAVE_EXODUS, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_UNDERHALLS:
 					if (currentBGMID != BGM_ENCLAVE_UNDERHALLS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - The Halls of the Enclave.ogg")), BGM_ENCLAVE_UNDERHALLS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/2019 - Halls of the Enclave.ogg")), BGM_ENCLAVE_UNDERHALLS, maxBgmVol);
 					break;
 					case BGM_ENCLAVE_THE_VAULT:
 					if (currentBGMID != BGM_ENCLAVE_THE_VAULT)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/The Vault.ogg")), BGM_ENCLAVE_THE_VAULT, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Enclave/Solitude.ogg")), BGM_ENCLAVE_THE_VAULT, maxBgmVol);
 					break;
 
 					// JER
@@ -222,7 +222,7 @@ public class SoundManager {
 					// MIND
 					case BGM_NEXUS:
 					if (currentBGMID != BGM_NEXUS)
-					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/Yarron.ogg")), BGM_NEXUS, maxBgmVol);
+					loadSong(Gdx.audio.newMusic(Gdx.files.internal("BGM/Misc/The Nexus.ogg")), BGM_NEXUS, maxBgmVol);
 					break;
 
 					// THIUDA
@@ -328,7 +328,7 @@ public class SoundManager {
 	public void fadeOutBGM() {
 		try {
 			if (bgmVol < 0)
-				bgmVol = .002f;
+				bgmVol = .009f;
 			if (BGMon && currentBGM != null) {
 				if (bgmVol > .005f) {
 					bgmVol -= targetVol / fadeOutConstant;
@@ -355,7 +355,7 @@ public class SoundManager {
 	public void longFadeOutBGM() {
 		try {
 			if (bgmVol < 0)
-				bgmVol = .002f;
+				bgmVol = .005f;
 			if (BGMon && currentBGM != null) {
 				if (bgmVol > .005f) {
 					bgmVol -= targetVol / (fadeOutConstant * 1.5f);
@@ -379,7 +379,7 @@ public class SoundManager {
 	public void fadeInBGM() {
 		try {
 			if (bgmVol < 0)
-				bgmVol = .002f;
+				bgmVol = .009f;
 			if (BGMon && currentBGM != null) {
 				if (bgmVol < targetVol) {
 					bgmVol += targetVol / 250f;

@@ -191,6 +191,7 @@ enclave
 |2103:false, Wrote torma's final words (per)
 |2104:false, Coming from FoD to SC
 |2105:false, Saw the truth of the Scriptorium (per)
+|2016:false, Been to Seat of the True Archon
 
 kavu
 |3000:false, Rik vision of Biracul

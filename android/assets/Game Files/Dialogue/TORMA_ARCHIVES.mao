@@ -1103,7 +1103,7 @@ MATHETIA
 		*Ormenos suddenly realizes he now stands at the cusp of the Wing of Actuality and the Mathetia - before even deciding to do so. But he knows that makes no sense; he really must be working too hard. Clasping his hand over his temples, he gently rubs the tension away as best he can.
 
         Not wanting to dwell on impossibilities, he begins to think on where his ultimate destination lies. Return to the foyer of the Mathetia? Enter the Seat of the True Archon? Or perhaps walk among the trees of the Huginn Grove?*
-		(A#Enter the Seat of the True Archon){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!}
+		(A#Enter the Seat of the True Archon){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!DESCRIPTION!}
 		(B#Visit the Huginn Grove){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!}
 		(C#Return to the foyer){C:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!/]
@@ -3585,11 +3585,12 @@ WORD WEAVER
 ________________________________________________________________________
 SEAT OF THE TRUE ARCHON
 virgin run
-	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!]
-		||
+>>>Been to Seat of the True Archon (2016)<<<
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!DESCRIPTION!]
+		|^2016:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0005!DESCRIPTION!|
 		*A blanket of dust rests thick upon all the forgotten residents of this vast chamber, all tucked in for their silent slumber. At the far end, bronze braziers burn tirelessly, casting a smoky wall of haze, nearly obscuring what lies beyond. Vague impressions do make their way through, though, revealing a natural spring cascading down from an outlet in the ceiling. Down it pours, pooling in a shallow well, then bisecting the room as it makes it way to some unseen point of egress. These pristine waters feed a luscious and overgrown garden beyond the smoky wall, only visible due to the several brilliant crystals illuminating the flora with their ghoulish golden glow.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0001!DESCRIPTION!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.000!DESCRIPTION!/]
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X000!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0001!DESCRIPTION!]
 		||
@@ -3600,7 +3601,7 @@ virgin run
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!]
 		||
 		*Seeing all these abandoned relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean pride. Countless unnamed and unremembered individuals exhuasted their life force to yield only feeble fruits, if any at all. He wonders if he will even be worth discarding, like these lifeless scraps, or if his very existence will simply vanish from memory.*
-		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2106!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!]
@@ -3609,6 +3610,12 @@ virgin run
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Look around){B:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!/]
+???
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0005!DESCRIPTION!]
+		||
+		*That dusty scent of forget, that silent slumber of disuse... like a name so long unspoken that... like a friend unremembered. But Ormenos remembers. If not why he came, than at least where he has come... But he does not recall ever having come here before today - and now he is here again. This place's mere existence was unknown to him, but now he cannot imagine a world in which it did not exist...*
+		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0005!DESCRIPTION!/]
 
 >>>Met Babel at Seat of True Ar (2030)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X0010!DESCRIPTION!]
@@ -5353,7 +5360,13 @@ EVENT WRITERS
 		*EVENT WRITER - Saw the truth of the Scriptorium*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!9990.X2105!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2106!DESCRIPTION!]
+		|2016:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0003!DESCRIPTION!|
+		*EVENT WRITER - Been to Seat of the True Archon*
+		(A#WRITER){A:0,NO ADDRESS}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2106!DESCRIPTION!/]
+
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!9990.X19000!DESCRIPTION!]
 		|19000:ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.X000!DESCRIPTION!|
 		*EVENT WRITER - Learned about Sylvan Architect*
