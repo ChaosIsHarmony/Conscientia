@@ -3364,8 +3364,8 @@ Zhili Memory
     [/MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!]
 		||
 		*The scene expanded before the eyes, off into the six directions. Feet stand upon stubborn grasses that claw their way up through chilled soil, gathering Brother Sun's bounty. Skin feels Uncle Wind as He whispers cold tales from travels to lands unknown. Eyes watch as Sister Cloud sculpted figures in the sky.
-
-        Serene and pure, this place, Mother's very home, is sacred to the Eye.*
+		
+		Serene and pure, this place, Mother's very home, is sacred to the Eye.*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.0000!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ZHILIAN STEPPE!0.000021!DESCRIPTION!/]
 

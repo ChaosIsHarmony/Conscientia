@@ -20,7 +20,7 @@ EIDOS
 		
 		The illusion of cycles arises from but a lack of proper perspective! The Spiral from above seems a mere ring; yet from the side, it wraps itself around a void pillar. Be the Spiral deep enough, it metamorphoses into concentric circles, receding into an unreachable Singularity.
 		
-		This truth was hidden in plain sight, in the dimension beyond the plane. What then do other dimensions obscure? What other angles would grant us a fuller view? We must	no longer fall prey to false circles! No longer be fooled by the limitation of our vision! For what the eye cannot see, the light of intellect will illuminate!
+		This truth was hidden in plain sight, in the dimension beyond the plane. What then do other dimensions obscure? What other angles would grant us a fuller view? We must no longer fall prey to false circles! No longer be fooled by the limitation of our vision! For what the eye cannot see, the light of intellect will illuminate!
 		
 		We will extricate ourselves from the illusory loop and take our place among the Gods!"
 		
