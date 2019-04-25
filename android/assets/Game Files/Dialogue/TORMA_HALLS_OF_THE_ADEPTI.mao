@@ -40,7 +40,7 @@ CALEFACTORY
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00104!DESCRIPTION!]
 		||
-		*Raucous laughter wakens him from his nightmarish fugue, and the Calefactory's jolly atmosphere dispels the unknown terrors. Now warmed by the fires, Ormenos looks upon the myriad hexagonal tables, expertly yet simply carved, spotting the floor. As expected, no seats remain unfilled.*
+		*Raucous laughter wakens him from his nightmarish fugue, and the Calefactory's jolly atmosphere dispels the unknown terrors. Now warmed by the fires, Ormenos surveys the myriad hexagonal tables, expertly yet simply carved, spotting the floor. As expected, no seats remain unfilled.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00105!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00104!DESCRIPTION!/]
 
@@ -50,45 +50,80 @@ CALEFACTORY
 		(A#Talk to the Mind Seer){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1203!DESCRIPTION!}
 		(B#Leave the Calefactory){B:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00105!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00106!DESCRIPTION!]
 		||
-		*With a look of determination, Brother Mind Seer politely bows his head in deference and makes for the underhalls. That they are the only two Jeran magi in the Order has always given them a closeness that is otherwise absent in Ormenos' other interactions. Perhaps it is as a younger brother Ormenos views him, though given their age dissimilarity, perhaps it should be as son...
-		
-		Then this thought too becomes but a banished memory as Ormenos is ready to proceed, though he no longer sees anything to keep him here.*
-		(A#Leave the Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
+		*Determination seeps into the hesitant lines creasing the Mind Seer's brow. He rises, politely bows his head in deference to his mentor, and makes for the underhalls. As the only two Jerans in the Order, Ormenos has always felt a bond with the Mind Seer otherwise absent in his interactions with the Brothers and Sisters of the Enclave. Like caring for a real brother - or, given their age dissimilarity, a son, perhaps.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00107!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00106!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00107!DESCRIPTION!]
+		||
+		*But soon this thought decays into just another banished memory. Other more pressing concerns return to occupy Ormenos' attention, and as his fatigue has somewhat subsided, he no longer sees anything to keep him in the Calefactory.*
+		(A#Leave the Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00107!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!]
 		||
-		*It is then that he decides to...*
-		(A#Go to his quarters){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X000!DESCRIPTION!}
-		(B#Enter the Refectory){B:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X000!DESCRIPTION!}
-		(C#Return to the Third Sphere of the underhalls){C:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
+		*Thus, his feet swing in the direction of...*
+		(A#His quarters){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X000!DESCRIPTION!}
+		(B#The Refectory){B:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X000!DESCRIPTION!}
+		(C#The Third Sphere of the underhalls){C:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!/]
 
 
 Completed two events
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X002!DESCRIPTION!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!DESCRIPTION!|
-		*Ormenos strolls into the Calefactory, the congregation of magi at rest and in casual conversation always giving a warm and welcoming atmosphere. Hexagonal tables spot the floor with their respective six chairs, with nary a chair empty at this time of day. The only place busier than the Calefactory is the Mathetia in the Archives - where magi work long into the night by the pale lights of the effulgent Great Muninn and under the watchful gaze of the silvery moon. But whereas solemnity defines the Archives, only jocularity can suffice to describe the Calefactory. If ever there were a serious conversation had here, it would be as out of place as Biracul in a brothel.
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!DESCRIPTION!]
+		||
+		*Two massive hearths evenly roast cheerful groups of magi, basting them in thick swaths of sweat. A far cry from the chilled austerity of the halls or the Mathetia, laughter and jocularity seem to permeate the room, emanating from the myriad groups like steam from a duck on the spit. If ever there were a serious conversation had here, it would be as out of place as Biracul in a brothel.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!DESCRIPTION!]
+		||
+		*Frigid bones quickly thawing, Ormenos looks around for a place to rest. Though Ormenos looks only half-heartedly, as nary a chair would be empty at this time of day. Months' worth of fatigue hits his weary Falseflesh all at once, buckling his knees. A hand reaches for the doorframe to stabilize the crumbling mage. Resigned laughter weakly leaves his lips no louder than dying whispers. Unintentionally he loses the reins to his Falseflesh and unintentionally he regains them. Nothing is within his control.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!DESCRIPTION!]
+		||
+		*Ever since being assigned to the Wayfarer, the Inquisitor has been a man obsessed, intent on being the one to succeed where so many other Thought-Weavers had failed. Yet despite his recent success, he has come to understand just how little his intent matters. Anxiety's shadow hangs over him, as it always has, completely blocking out the light of Awareness. Unknown terrors lurk within the perpetual night, waiting to claim Ormenos' little remaining sanity.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00202!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00202!DESCRIPTION!]
+		||
+		*However, Discipline yet casts its artificial glow, bestowing a momentary reprieve from the dangers of that sightless scene. That meager, though sufficient, orb of light wards of the ever-encroaching shades of Ignorance...*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00202!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!DESCRIPTION!]
+		||
+		*But for how long?*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00204!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00204!DESCRIPTION!]
+		||
+		*Raucous laughter wakens him from his nightmarish fugue, and the Calefactory's jolly atmosphere dispels the unknown terrors. Now warmed by the fires, Ormenos surveys the myriad hexagonal tables, expertly yet simply carved, spotting the floor. As expected, no seats remain unfilled.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00205!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00204!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00205!DESCRIPTION!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!DESCRIPTION!|
+		*As he turns to leave, hints of whispers reach his ears, the serious tone a stark contrast to the levity that surrounds it. He listens closely, but not too intently, lest he meet the mantis' fate. He had studied too many Phrygian tales to know that it could not end well if he became too absorbed in his task. Why, all the magi here congregated were utterly unaware of this errant group due to their devout pursuit of frivolity. No, Ormenos did not want to hunt only to then become the hunted...*
+		(A#Stay anyway and eavesdrop){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!DESCRIPTION!}
+		(B#Wisely leave the Calefactory){B:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00205!DESCRIPTION!/]
+???
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!DESCRIPTION!]
+		||
+		*Luckily, he did not become the hunted as he had feared, but the anxiety lingered...???
 		
-		Yet, just as something is declared impossible, Biracul walks into that proverbial whorehouse... For Ormenos overhears a group of Enforcers discussing a matter uncharacteristically sober given the location.*
-		(A#Sit down and eavesdrop){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!DESCRIPTION!}
-		(B#Leave the Calefactory){B:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X002!DESCRIPTION!/]
-
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!DESCRIPTION!]
-		||
-		*The Enforcers rise from their seats and scatter in the six directions. Their cabal undetected, unseen, unprecedented fills Ormenos with dread. Though moreso is he distressed at not understanding what they intend to do. Their motivations are clear as a cloudless sky, but what frightens him are not motives, rather actions. Whether by the hand of friend or foe, a man impaled by a ghelblade remains a dead man...*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0021!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!DESCRIPTION!/]
-
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0021!DESCRIPTION!]
-		||
-		*Then this thought too becomes but a fading memory as Ormenos is ready to proceed, though he spots nothing of note to convince him to remain in the Calefactory.*
-		(A#Leave the Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0021!DESCRIPTION!/]
+		
+		The Enforcers rise from their seats and scatter in the six directions. Their cabal undetected, unseen, unprecedented fills Ormenos with dread. Though moreso is he distressed at not understanding what they intend to do. Their motivations are clear as a cloudless sky, but what frightens him are not motives, rather actions. Whether by the hand of friend or foe, a man impaled by a ghelblade remains a dead man...*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00107!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!DESCRIPTION!/]
 
 
 Completed three events

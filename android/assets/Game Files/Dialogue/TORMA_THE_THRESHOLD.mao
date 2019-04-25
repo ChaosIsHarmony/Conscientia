@@ -1663,7 +1663,7 @@ BABEL
 >>>Heard the tale of the mantis and the cicada (2074)<<<
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0324!BABEL!]
 		|^2074:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0424!BABEL!|
-		*"...Tell me, Brother Inquisitor, have you heard the tale of the mantis hunting the cicada?"*
+		*"...Tell me, Brother Inquisitor, have you heard the old Phrygian tale of the mantis hunting the cicada?"*
 		(B#"I have not."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!}
 		(D#"...Yes of course, what of it?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03240!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0324!BABEL!/]
@@ -1776,7 +1776,7 @@ BABEL
 	
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0424!BABEL!]
 		||
-		*"...Have you heard the tale of the mantis hunting the cicada?"*
+		*"...Have you heard the old Phrygian tale of mantis hunting the cicada?"*
 		(B#"I have."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X04240!BABEL!}
 		(D#"...No, please enlighten me."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03243!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0424!BABEL!/]
