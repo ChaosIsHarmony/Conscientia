@@ -111,11 +111,12 @@ Completed two events
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00205!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!DESCRIPTION!|
-		*As he turns to leave, hints of whispers reach his ears, the serious tone a stark contrast to the levity that surrounds it. He listens closely, but not too intently, lest he meet the mantis' fate. He had studied too many Phrygian tales to know that it could not end well if he became too absorbed in his task. Why, all the magi here congregated were utterly unaware of this errant group due to their devout pursuit of frivolity. No, Ormenos did not want to hunt only to then become the hunted...*
+		*As he turns to leave, hints of whispers reach his ears, the serious tone a stark contrast to the levity that surrounds it. He listens closely, but not too intently, lest he meet the mantis' fate in its pursuit of prey. Indeed, he recalls the Phrygian admonitions on being too absorbed in a task. Proof positive is that all magi here congregated were utterly unaware of this errant group due to a devout pursuit of frivolity. No, Ormenos did not want to hunt only to then become the hunted. But if he is careful, perhaps he can pluck the prize without tripping the wire...*
 		(A#Stay anyway and eavesdrop){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!DESCRIPTION!}
 		(B#Wisely leave the Calefactory){B:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00205!DESCRIPTION!/]
-???
+
+REDID 3-WAY CONVO ALREADY???
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!DESCRIPTION!]
 		||
 		*Luckily, he did not become the hunted as he had feared, but the anxiety lingered...???
@@ -467,22 +468,34 @@ BEAST LORD
 
 CHAOS TAMER
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!CHAOS TAMER!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!CHAOS TAMER!|
-		*"Then it is done? Brother Jinn Slayer has determined the method of shattering the one-way mirror our puppetmasters cloak themselves behind?!"*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!CHAOS TAMER!}
+		||
+		*"And so it begins, slavery's requiem!"*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!CHAOS TAMER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!CHAOS TAMER!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!CHAOS TAMER!]
+    [/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!CHAOS TAMER!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!CHAOS TAMER!|
-		*"Yet, who can blame them? The Choir's control has been absolute and unquestioned until the arrival of Brother Jinn Slayer..."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1217!CHAOS TAMER!}
+        *"Soon Brother Jinn Slayer will shatter the false mirror our puppetmasters cloak themselves behind!"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!CHAOS TAMER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!CHAOS TAMER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!CHAOS TAMER!]
 		||
+		*"Is not this blindness to riches, like all our ills, the Choir's fault?"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!CHAOS TAMER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!CHAOS TAMER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!CHAOS TAMER!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!CHAOS TAMER!|
+        *"Their hands were ever gripped around our neck, and us none the wiser, before the Jinn Slayer came to us..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1217!CHAOS TAMER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!CHAOS TAMER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!CHAOS TAMER!]
+		||
 		*"And the future of Humanity!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9990.X2040!CHAOS TAMER!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!CHAOS TAMER!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!CHAOS TAMER!/]
 
 
 
@@ -618,46 +631,58 @@ JINN SLAYER
 
 LAW BRINGER
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!LAW BRINGER!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!LAW BRINGER!|
-		*"...Unwittingly, of course. Those fools argue endlessly over trivialities while they sleep on history-shaping discoveries..."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1216!LAW BRINGER!}
+		||
+		*"...Unwittingly, of course. Those fools argue endlessly over iron while sleeping on gold..."*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!LAW BRINGER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!LAW BRINGER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!LAW BRINGER!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!LAW BRINGER!|
-		*"Truth is with you, Brother. Though he is young and impulsive, Brother Jinn Slayer's moral compass never strays from true north."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!LAW BRINGER!}
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X002!LAW BRINGER!|
+        *"When we take the reins of the Order, I'll make sure to guide the Grove-dwellers toward more important discoveries..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1216!LAW BRINGER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!LAW BRINGER!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!LAW BRINGER!]
-		||
-		*"Then I shall make the necessary Glyph etchings around the Stone Circle."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!LAW BRINGER!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!LAW BRINGER!/]
-
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!LAW BRINGER!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!LAW BRINGER!|
-		*"Sister Oath Abettor, you should be among the Enforcers in the Hall of Reckoning when Brother Jinn Slayer confronts the Choir."*
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X002!LAW BRINGER!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!LAW BRINGER!|
+		*"Truth is yours, Brother. Though young and impulsive, Brother Jinn Slayer's moral compass never strays from true north."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!LAW BRINGER!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!LAW BRINGER!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X002!LAW BRINGER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!LAW BRINGER!]
+		||
+		*"You speak with the wisdom of Discipline!"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!LAW BRINGER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!LAW BRINGER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!LAW BRINGER!]
 		||
-		*"And the future of Humanity! Now go in the embrace of Discipline!"*	
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!LAW BRINGER!}
+        *"The Glyph etchings around the Stone Circle are my task..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X005!LAW BRINGER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!LAW BRINGER!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!LAW BRINGER!]
-		||
-		*"As for you, Brother, make sure our awakened brethren and sistren find themselves at the appointed time and place as we march from obscurity into the annals of history!"*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!LAW BRINGER!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!LAW BRINGER!/]
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X005!LAW BRINGER!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!LAW BRINGER!|
+		*"Sister Oath Abettor, you should be among the Enforcers in the Nave when the Jinn Slayer confronts the Choir."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!LAW BRINGER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X005!LAW BRINGER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!LAW BRINGER!]
 		||
+		*"And the future of Humanity!"*	
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!LAW BRINGER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!LAW BRINGER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!LAW BRINGER!]
+		||
+		*"As for you, Brother, make sure the Awakened find themselves here at moonrise; we march on ignorance and tyranny tonight!"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.008!LAW BRINGER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!LAW BRINGER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.008!LAW BRINGER!]
+		||
 		*"For the good of the Order!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1216!LAW BRINGER!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!LAW BRINGER!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.008!LAW BRINGER!/]
 
 
 
@@ -670,7 +695,7 @@ OATH ABETTOR
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!OATH ABETTOR!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!OATH ABETTOR!|
-		*"We are to declare war upon the Choir before the moon rises in the east!"*
+		*"War upon the Choir comes before the moon rises in the east!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1216!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!OATH ABETTOR!/]	
 
@@ -682,45 +707,51 @@ OATH ABETTOR
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!OATH ABETTOR!]
 		||
-		*"But let's not sit here idly!"* 
+		*"But let's not idly sit while tides shift!"* 
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!OATH ABETTOR!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!OATH ABETTOR!]
 		||
-		*"We must hurry to make the preparations necessary to contain the summoned behemoth!"* 
+		*"We must make the preparations necessary to contain the Nameless watchers!"* 
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!OATH ABETTOR!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!OATH ABETTOR!]
 		||
-		*"We may be unparalleled at counter-Techne tactics, but we have yet to see what the so-called Masters are capable of... Worrisome, to say the least."*
+		*"Trapped in the Falseflesh, we can best them!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X005!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!OATH ABETTOR!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X005!OATH ABETTOR!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!OATH ABETTOR!|
-		*"We simply cannot be too prepared."*
+		*"But first, the summoning..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1217!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X005!OATH ABETTOR!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!OATH ABETTOR!]
 		||
-		*"Indeed, those fools who sell our very Trueflesh to the Masters will undoubtedly settle for nothing less than Brother Jinn Slayer's permanent silence as a Vault-dweller..."*
+		*"As you say, Brother."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!OATH ABETTOR!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!OATH ABETTOR!]
 		||
-		*"Thus I will depart to play my role - and play it well!"*
+        *"Those peddlers of Enclavean Trueflesh will settle for nothing less than Brother Jinn Slayer's permanent silence..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.008!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!OATH ABETTOR!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.008!OATH ABETTOR!]
 		||
-		*"For the good of the Order!"*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1217!OATH ABETTOR!}
+        *"But no Vault-dweller is he! We'll make sure to bring him safely here when the moon rises."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.009!OATH ABETTOR!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.008!OATH ABETTOR!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.009!OATH ABETTOR!]
+		||
+		*"The Choir will sing only to themselves after tonight! For the good of the Order!"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1217!OATH ABETTOR!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.009!OATH ABETTOR!/]
 
 
 
