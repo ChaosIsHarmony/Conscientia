@@ -60,7 +60,7 @@ CALEFACTORY
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00107!DESCRIPTION!]
 		||
 		*But soon this thought decays into just another banished memory. Other more pressing concerns return to occupy Ormenos' attention, and as his fatigue has somewhat subsided, he no longer sees anything to keep him in the Calefactory.*
-		(A#Leave the Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
+		(A#Leave){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00107!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!]
@@ -111,36 +111,56 @@ Completed two events
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00205!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!DESCRIPTION!|
-		*As he turns to leave, hints of whispers reach his ears, the serious tone a stark contrast to the levity that surrounds it. He listens closely, but not too intently, lest he meet the mantis' fate in its pursuit of prey. Indeed, he recalls the Phrygian admonitions on being too absorbed in a task. Proof positive is that all magi here congregated were utterly unaware of this errant group due to a devout pursuit of frivolity. No, Ormenos did not want to hunt only to then become the hunted. But if he is careful, perhaps he can pluck the prize without tripping the wire...*
+		*As he turns to leave, hints of whispers reach his ears, the serious tone a stark contrast to the levity that surrounds it. He listens closely, but not too intently, lest he meet the mantis' fate in its pursuit of prey. Indeed, he recalls the Phrygian admonitions on being too absorbed in a task. Proof positive is that all magi here congregated were utterly unaware of this errant group due to a devout pursuit of frivolity. No, Ormenos did not want to hunt only to then become the hunted. But if he is careful, perhaps he can pluck the prize without first tripping the wire...*
 		(A#Stay anyway and eavesdrop){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!DESCRIPTION!}
 		(B#Wisely leave the Calefactory){B:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0011!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X00205!DESCRIPTION!/]
 
-REDID 3-WAY CONVO ALREADY???
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!DESCRIPTION!]
 		||
-		*Luckily, he did not become the hunted as he had feared, but the anxiety lingered...???
-		
-		
-		The Enforcers rise from their seats and scatter in the six directions. Their cabal undetected, unseen, unprecedented fills Ormenos with dread. Though moreso is he distressed at not understanding what they intend to do. Their motivations are clear as a cloudless sky, but what frightens him are not motives, rather actions. Whether by the hand of friend or foe, a man impaled by a ghelblade remains a dead man...*
+		*The Enforcers immediately rise and scatter to the six directions, never even glancing at Ormenos. Their cabal undetected, unseen, unprecedented now weighs heavy on the Inquisitor's mind. The world seems ever-eager to provide him with enough rope to hang himself with.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00107!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!DESCRIPTION!/]
 
 
 Completed three events
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!DESCRIPTION!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!DESCRIPTION!|
-		*Ormenos arrives at the Calefactory, thinking upon all he has done today and of his neglected report to the Choir. His troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of the Beast Lord leading a retinue of Enforcers marks an end to the Choir's patience...*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1200!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X003!DESCRIPTION!/]
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!DESCRIPTION!]
+		||
+		*Warmth banishes the chill hiding in his bones. So subtly did the greedy halls rob him of heat that he barely even noticed. Only now in the presence of warmth does he realize just how little he had remaining. The Inquisitor had often thought this of Time, but for the first time he seems to connect the two events, wondering what other resource of his now slowly, imperceptibly diminishes beyond his awareness...*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!DESCRIPTION!]
 		||
-		*The Beast Lord then escorts Ormenos unto the Nave and into the clutches of the slighted Choir of Archons.*
-		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
+        *A somewhat useless musing, he concludes, as it will merely serve to feed the already raging flame of his anxiety. Better to let such things lurk in the shadow of ignorance.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!DESCRIPTION!/]
 
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!DESCRIPTION!]
+		||
+        *But the Inquisitor knows his nature, if nothing else. He is only ever interested in the shadows cast by the light of Awareness; to him, that is the true meaning of Discipline, to understand that which not even Awareness knows...*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!DESCRIPTION!/]
 
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!DESCRIPTION!]
+		||
+        *Suddenly, the spark of recognition calls his attention back from the nether regions of thought. Before him stands the Beast Lord, a particularly savage moniker for such a learned man - typical of Enforcer Falsenames, though.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0033!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0033!DESCRIPTION!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!DESCRIPTION!|
+        *Eyes lock. Confusion from one, replied by the other. But then his Brother's reason for being here dawns on him. Epiphanies of this sort are what the Inquisitor lives for. Awareness birthed from Ignorance, the ecstatic bliss of sudden realization. Though short-lived it is, for the Beast Lord is here to herald this Inquisitor's end...*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1200!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0033!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!DESCRIPTION!]
+		||
+		*Feet shuffle, directed by the strings of will, toward the Nave, toward Ormenos' reckoning...*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!DESCRIPTION!/]
+
+???
 Heard Khlutt's outburst
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X004!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0040!DESCRIPTION!|
