@@ -160,87 +160,96 @@ Completed three events
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!DESCRIPTION!/]
 
-???
-Heard Khlutt's outburst
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X004!DESCRIPTION!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0040!DESCRIPTION!|
-		*Late in the evening, when no mage should haunt the Calefactory, a faint light glows in the far corner of the room. A gathering of several dozen cloaked figures is under way. Among their number is a man who even the depths of the Vault failed to contain: Brother Jinn Slayer. His outburst in the Hall of Reckoning surely earned him the time-honored privilege of being cast aside and forgotten. 
-		
-		And yet... he abides. A stalwart bastion of individuality, a testament to the tenacity of the ego.
-		
-		Using one of the hexagonal tables as a makeshift podium, he addresses the assembly...*
-		(A#Eavesdrop on the Jinn Slayer){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1202!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X004!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0040!DESCRIPTION!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0041!DESCRIPTION!|
+Heard Khlutt's outburst
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!DESCRIPTION!]
+		||
+		*Embers fade to ash, the dying breaths of the Calefactory's two great fires. The moon has risen and all magi should be in their quarters. Should be. Yet, crystalline laterns carve light from the shadows, revealing a sizeable crowd, all of the Enforcer caste given their cloaks. Where there should be none, dozens congregate. This breach of protocol is just another mystery tickling the Inquisitor's greatest weakness: his curiosity.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0040!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0040!DESCRIPTION!]
+		||
+        *Atop a table at room's center, an unexpected orator addresses the gathering. The Jinn Slayer. Condemned to the Vault for his arrogant outburst towards the Choir, and yet somehow absent from his new prison. Questions roiled through the Inquisitor's racing mind. Some answers he likely knows, others are genuine mysteries, ripe for the unraveling.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0041!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0040!DESCRIPTION!/]
+
+    [/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0041!DESCRIPTION!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0042!DESCRIPTION!|
+        *Transfixed by thoughts and theories, by whys and hows, Ormenos forgets to listen. A thundering cheer breaks the spell, calling the Inquisitor back to the Falseflesh, the Jinn Slayer's words finally seeping into perception.*
+		(A#Hear the words){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1202!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0041!DESCRIPTION!/]
+???HAVE NOT YET REVISITED THE KHLUTT DIALOGUE???
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0042!DESCRIPTION!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0043!DESCRIPTION!|
 		*The roused crowd responds with a unison clamor of affirmations and nonsensical celebratory hoots. These, the greatest minds of the era, devolved into the unsophisticated and ambiguous entity that is the ultimate destiny of all mobs. 
 		
 		It is then that Ormenos becomes the object of the crowd's attention...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1202!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0040!DESCRIPTION!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0042!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0041!DESCRIPTION!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!DESCRIPTION!|
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0043!DESCRIPTION!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0050!DESCRIPTION!|
 		*Ormenos apprehensively compels his feet toward the centre of the crowd where the Jinn Slayer then places his hand upon the reticent mage. Gripping firmly, he speaks.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1202!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0041!DESCRIPTION!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0043!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!DESCRIPTION!]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0050!DESCRIPTION!]
 		||
 		*The zealous followers of Brother Jinn Slayer file out of the Calefactory and towards their ultimate act of defiance toward the Choir of Archons.
 		
 		Ormenos is left to contemplate the implications of these actions. For regardless of the outcome, the Order of the Enclave as he knows it ends tonight. If the Jinn Slayer prevails and replaces the Choir, the old adage about power corrupting may prove itself true once more. And if he fails, he and his cabal of over half the Enclavean magi will face indefinite detention in the Vault.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0043!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0051!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0050!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0043!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0051!DESCRIPTION!]
 		||
 		*And indeed, it is as the Jinn Slayer of Kabu said: Entropy Stayer has taken over Ormenos' duties at the Choir's behest. It is not Ormenos who will travel to Kabu to find the Thought Wheel of the Beginning; it is not he who will discover the secrets of the Vanquished ruins; nor is it he who will be recognized for these achievements...*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0043!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0052!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0051!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0052!DESCRIPTION!]
 		||
 		*No, in fact, he is as alone as ever, caught in the shadow of some gargatuan mind, some greater entity that has formed from the will of the many magi of the Enclave. Crushed by the oppresive weight of the majority, he has little choice. His future is bleak, nebulous, terrifying...*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0053!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0052!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0053!DESCRIPTION!]
 		||
 		*Silent resignation overcomes him as he sinks his face into his hands, his feeble lamentations dousing his ruinous grin, his uncanny smiling - for the absurdity of existing as a helpless individual swallowed in the sea of others' wills is amusing, if nothing else.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0046!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0054!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0053!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0046!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0054!DESCRIPTION!]
 		||
 		*Yet, as is often the case in the tumultuous reality Ormenos inhabits, his mental woes give way to more pressing woes of the Falseflesh...*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0047!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0046!DESCRIPTION!/]
-
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0047!DESCRIPTION!]
-		||
-		*A cataclysmic rumbling shakes the ground from beneath his feet, causing him to sit violently and unexpectedly upon the floor.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0048!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0047!DESCRIPTION!/]
-
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0048!DESCRIPTION!]
-		||
-		*The shaking subsides. Ormenos' breathing quickens. Silence rings.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0049!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0048!DESCRIPTION!/]
-
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0049!DESCRIPTION!]
-		||
-		*All gives way to a second jolt, loosening the dust from the rafters, causing it to rain detritus upon Ormenos unsuspecting head.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0049!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0055!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0054!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!DESCRIPTION!]
 		||
+		*A cataclysmic rumbling shakes the ground from beneath his feet, causing him to sit violently and unexpectedly upon the floor.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0056!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0055!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0056!DESCRIPTION!]
+		||
+		*The shaking subsides. Ormenos' breathing quickens. Silence rings.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0057!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0056!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0057!DESCRIPTION!]
+		||
+		*All gives way to a second jolt, loosening the dust from the rafters, causing it to rain detritus upon Ormenos unsuspecting head.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0058!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0057!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0058!DESCRIPTION!]
+		||
 		*Panicked, Ormenos' instincts assume command, sending him into a mad flight from the Halls of the Adepti...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9990.X2015!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!DESCRIPTION!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0058!DESCRIPTION!/]
 
 
 
