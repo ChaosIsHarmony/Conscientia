@@ -126,7 +126,7 @@ Completed two events
 Completed three events
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!DESCRIPTION!]
 		||
-		*Warmth banishes the chill hiding in his bones. So subtly did the greedy halls rob him of heat that he barely even noticed. Only now in the presence of warmth does he realize just how little he had remaining. The Inquisitor had often thought this of Time, but for the first time he seems to connect the two events, wondering what other resource of his now slowly, imperceptibly diminishes beyond his awareness...*
+		*Warmth banishes the chill hiding in Ormenos' bones. So subtly did the greedy halls rob him of heat that he barely even noticed. Only now in the presence of warmth does he realize just how little he had remaining. The Inquisitor had often thought this of Time, but for the first time he seems to connect the two events, wondering what other resource of his now slowly, imperceptibly diminishes beyond his awareness...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!DESCRIPTION!/]
 
