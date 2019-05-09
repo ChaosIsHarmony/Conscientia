@@ -188,7 +188,7 @@ Heard Khlutt's outburst
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0043!DESCRIPTION!]
 		||
-		*Suddenly, a sharp flicker of reflected light steals the Inquisitor's attention. Shimmering orbs, slick, moist, darker than black on red-veined pearls. These glassy curves play host to the ghostly simulacra of the chamber's myriad lamps.*
+		*Suddenly, a sharp flicker of reflected light steals the Inquisitor's attention. Shimmering orbs, slick, moist, darker than black on red-veined pearls. These glassy curves play host to the ghostly twins of the chamber's myriad lamps.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0044!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0043!DESCRIPTION!/]
 
