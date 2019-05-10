@@ -1191,45 +1191,57 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!]
 		||
-		*"As cold and distant as ever, Brother... but then again, all is always as it should be."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00200!BEAST LORD!}
+		*"...What happened to you, Brother? When did ice replace warmth in your words?"*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00200!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00200!BEAST LORD!]
-		||	
-		*"Brothers! Sisters! Members of the Enclave!"*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00201!BEAST LORD!}
+		||
+        *"But then again, I suppose it's useless to ask snow why it's cold..."*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00201!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00200!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00201!BEAST LORD!]
 		||
-        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on trees."*
+        *"All is ever as it should be."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00202!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00201!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00202!BEAST LORD!]
-		||
-        *"But time is precious, ever-diminishing; its wasteful use is a crime of the highest order."*
+		||	
+		*"Brothers! Sisters! Members of the Enclave!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00203!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00202!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00203!BEAST LORD!]
 		||
-        *"And so the Choir have summoned him, to stand beneath their wise gaze, to bear the weight of their judgment!"*
+        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on trees."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00204!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00203!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00204!BEAST LORD!]
 		||
-        *"Follow not his example, lest you follow him to the Vault!"*
+        *"But time is precious, ever-diminishing; its wasteful use is a crime of the highest order."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00205!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00204!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00205!BEAST LORD!]
 		||
+        *"And so the Choir have summoned him, to stand beneath their wise gaze, to bear the weight of their judgment!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00206!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00205!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00206!BEAST LORD!]
+		||
+        *"Follow not his example, lest you follow him to the Vault!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00207!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00206!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00207!BEAST LORD!]
+		||
 		*"For the good of the Order!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!BEAST LORD!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.00205!BEAST LORD!/]
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00207!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0021!BEAST LORD!]
 		||
@@ -1239,59 +1251,125 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00210!BEAST LORD!]
 		||
-		*"Look, we've both been with the Order for more cycles than newest members have been alive, and I know you've always been loyal to the Order, and diligent in your tasks..."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00211!BEAST LORD!}
+		*"When I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00211!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00210!BEAST LORD!/]
-???
+
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00211!BEAST LORD!]
 		||
-		*"So, I need to know, as brother and friend, Ormenos: why have you forsaken your duties?"*
-		(A#"Why is delaying the report so offensive to the Choir?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!}
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
-		(E#"Why must we respond to the crack of the Choir's whip?"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0035!BEAST LORD!}
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00212!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00211!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00212!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00213!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00212!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00213!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00214!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00213!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00214!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(A#"Why does a delayed report matter so much to the Choir?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!}
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
+		(E#"And why exactly must we respond to the crack of the Choir's whip?"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0035!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00214!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0022!BEAST LORD!]
 		||
-		*"What I wish to say is that we've both been with the Order for more cycles than there are stars, and I know you've always been loyal to your brothers and sisters, diligent in your tasks..."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!}
+		*"Candidness... Yes, I too wish everyone could just be candid."*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0022!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!]
 		||
-		*"So, I need to know, as brother and friend, Ormenos: why have you forsaken your duties?"*
-		(A#"Why is delaying the report so offensive to the Choir?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!}
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
+        *"But it looks like we'll just have to settle for it between us two for now."*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00221!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!/]        
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00221!BEAST LORD!]
+		||
+		*"What I wanted to say was that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+        (A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00222!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00221!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00222!BEAST LORD!]
+		||
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00223!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00222!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00223!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00224!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00223!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00224!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00225!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00224!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00225!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(A#"Why does a delayed report matter so much to the Choir?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!}
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
 		(C#"I don't chose my actions, Adarin; they're chosen for me."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.00220!BEAST LORD!/]
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00225!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0023!BEAST LORD!]
 		||
-		*"What I wish to say is that we've both been with the Order for more cycles than there are stars, and I know you've always been loyal to your brothers and sisters, diligent in your tasks..."*
+		*"What I wish to say is that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00230!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0023!BEAST LORD!/]
 
-	[/ENCLAVE!ARCHIVES!MATHETIA!0.00230!BEAST LORD!]
+    [/ENCLAVE!ARCHIVES!MATHETIA!0.00230!BEAST LORD!]
 		||
-		*"So, I need to know, as brother and friend, Ormenos: why have you forsaken your duties?"*
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00231!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00230!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00231!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00232!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00231!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00232!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00233!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00232!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00233!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!}
 		(C#"I don't chose my actions, Adarin; they're chosen for me."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
 		(D#"Why fuss over a simple delay?"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0034!BEAST LORD!}
-	[ENCLAVE!ARCHIVES!MATHETIA!0.00230!BEAST LORD!/]
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00233!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0026!BEAST LORD!]
 		||
-		*"Caveman? Kabu? Brother, we only met after I came to the Enclave... And besides, you said you've never even been to my homeland..."*
+		*"Caveman? Kabu? Brother, we only met after I came to the Enclave... And besides, you've never even been to my homeland..."*
 		(F#"How can I put this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.00260!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0026!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00260!BEAST LORD!]
 		||
-		*"...It seems you have no intention of earnestly hearing your Brother's words."*
+		*"But it seems you have no intention of actually listening to a Brother's words..."*
 		(F#"By Roostor's Comb! You misunderstand! You're destined to die alone in a cave!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00260!BEAST LORD!/]
 
-
+???
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!]
 		||
 		*"Insubordination has never been tolerated; what possessed you to think this policy had somehow changed?!"*
