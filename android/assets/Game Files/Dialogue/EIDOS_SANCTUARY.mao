@@ -1256,7 +1256,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!]
 		||
-		*Soft amber light soon bleeds in through trembling slits. Wider, wider, ever-widening, her efforts bear fruit. Vision, though blurred, is now otherwise unimpeded.*
+		*Soft, amber light soon bleeds in through trembling slits. Wider, wider, ever-widening, her efforts bear fruit. Vision, though blurred, is now otherwise unimpeded.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!/]
 
