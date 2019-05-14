@@ -284,42 +284,78 @@ post khlutt dialogue
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00592!DESCRIPTION!/]
 
 
-???
+
 BEAST LORD
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.000!BEAST LORD!]
 		||
-		*"Brother Inquisitor, I've been dispatched to escort you to the Nave; your truancy has not gone unnoticed..."* 
+		*"Brother Inquisitor, I've been dispatched to escort you to the Nave. Your truancy has not gone... unnoticed..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.001!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.000!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.001!BEAST LORD!]
 		||
-		*"...May I speak candidly with you?"*
+		*"...May I speak candidly with you, Brother?"*
 		(A#"Yes, of course, Brother."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0021!BEAST LORD!}
-		(B#"What is it you wish to say?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0022!BEAST LORD!}
+		(B#"I'd prefer if everyone were always candid."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0022!BEAST LORD!}
 		(C#"As you wish."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0023!BEAST LORD!}
 		(D#"Unless it's to tell me I'm free to go, then no."){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!}
-		(E#"Let's just go and get it over with."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!}
-		(F#"So NOW caveman wants to talk, but in Kabu it was the cold shoulder!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0026!BEAST LORD!}
+		(E#"Let's just go to the Nave and get it over with."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!}
+		(F#"NOW caveman want talkie-talk! But in Kabu only give cold shoulder!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0026!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.001!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!]
 		||
-		*"You are as frigid as ever, Brother..."* 
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!BEAST LORD!}
+		*"...What happened to you, Brother? When did ice replace warmth in your words?"*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!BEAST LORD!]
 		||
-		*"Then as you wish! I will deliver you to the executioner's block and leave you to the wisdom of the Choir."* 
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!BEAST LORD!}
+        *"But then again, I suppose it's useless to ask snow why it's cold..."*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!BEAST LORD!]
 		||
+        *"All is ever as it should be."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00202!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00202!BEAST LORD!]
+		||	
+		*"Brothers! Sisters! Members of the Enclave!"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00202!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!BEAST LORD!]
+		||
+        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on trees."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00204!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00204!BEAST LORD!]
+		||
+        *"But time is precious, ever-diminishing; its wasteful use is a crime of the highest order."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00205!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00204!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00205!BEAST LORD!]
+		||
+        *"And so the Choir have summoned him, to stand beneath their wise gaze, to bear the weight of their judgment!"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00205!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!BEAST LORD!]
+		||
+        *"Follow not his example, lest you follow him to the Vault!"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00207!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00206!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00207!BEAST LORD!]
+		||
 		*"For the good of the Order!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X9999!BEAST LORD!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!BEAST LORD!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00207!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0021!BEAST LORD!]
 		||
@@ -329,113 +365,178 @@ BEAST LORD
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00210!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00211!BEAST LORD!}
+		*"When I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00211!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00210!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00211!BEAST LORD!]
 		||
-		*"I ask then, as brother and friend, Ormenos: why have you forsaken your duties."*
-		(A#"Why is delaying the report so offensive to the Choir?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!BEAST LORD!}
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!BEAST LORD!}
-		(E#"Why must we respond to the crack of the Choir's whip?"){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0035!BEAST LORD!}
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00212!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00211!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00212!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00213!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00212!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00213!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00214!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00213!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00214!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(A#"Why does a delayed report matter so much to the Choir?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!BEAST LORD!}
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!BEAST LORD!}
+		(E#"And why exactly must we respond to the crack of the Choir's whip?"){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0035!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00214!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0022!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00220!BEAST LORD!}
+		*"Candidness... Yes, I too wish everyone could just be candid."*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00220!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0022!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00220!BEAST LORD!]
 		||
-		*"I ask then, as brother and friend, Ormenos: why have you forsaken your duties."*
-		(A#"Why is delaying the report so offensive to the Choir?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!BEAST LORD!}
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!BEAST LORD!}
-		(C#"I do not chose my actions, Adarin; they are chosen for me."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00220!BEAST LORD!/]
+        *"But it looks like we'll just have to settle for it between us two for now."*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00221!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00220!BEAST LORD!/]        
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00221!BEAST LORD!]
+		||
+		*"What I wanted to say was that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00222!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00221!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00222!BEAST LORD!]
+		||
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00223!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00222!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00223!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00224!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00223!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00224!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00225!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00224!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00225!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(A#"Why does a delayed report matter so much to the Choir?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!BEAST LORD!}
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!BEAST LORD!}
+		(C#"I don't chose my actions, Adarin; they're chosen for me."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00225!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0023!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
+		*"What I wish to say is that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00230!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0023!BEAST LORD!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00230!BEAST LORD!]
+    [/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00230!BEAST LORD!]
 		||
-		*"I ask then, as brother and friend, Ormenos: why have you forsaken your duties."*
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!BEAST LORD!}
-		(C#"I do not chose my actions, Adarin; they are chosen for me."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!}
-		(D#"Why such solemnity over a simple delay?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!BEAST LORD!}
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00231!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00230!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00231!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00232!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00231!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00232!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00233!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00232!BEAST LORD!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00233!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!BEAST LORD!}
+		(C#"I don't chose my actions, Adarin; they're chosen for me."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!}
+		(D#"Why fuss over a simple delay?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00233!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0026!BEAST LORD!]
 		||
-		*"Caveman? Kabu? Brother, we did not meet until I came to the Enclave... Shortly after your arrival."*
-		(F#"How can I say this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00260!BEAST LORD!}
+		*"Caveman? Kabu? Brother, we only met after I came to the Enclave... And besides, you've never even been to my homeland..."*
+		(F#"How can I put this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00260!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0026!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00260!BEAST LORD!]
 		||
-		*"...If you have no intention of earnestly hearing your Brother, then we shall depart."*
+		*"But it seems you have no intention of actually listening to a Brother's words..."*
 		(F#"By Roostor's Comb! You misunderstand! You're destined to die alone in a cave!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00260!BEAST LORD!/]
 
-
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!}
-		(B#"I will be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!}
+		(B#"Curiosity guides my action, not the Choir's will."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!BEAST LORD!]
 		||
-		*"What is of such supreme importance that you have staked your very existence upon it?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!}
-		(B#"I will be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!BEAST LORD!}
+		*"What is of such supreme importance that you have staked your very life on it?!"*
+		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!}
+		(B#"Curiosity. It alone guides my action, not the Choir's will."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!BEAST LORD!}
 		(C#"Importance is a product of whim; nothing is 'supremely' important."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!]
 		||
-		*"I see that you do not take my earnest concern seriously."*
+		*"I see my earnest concern is of little consequence to you."*
 		(C#"Believe what you will."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed!?"*
-		(C#"I did not say it has changed."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!}
-		(D#"What is to become of me, then?!"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(C#"I never said it had."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0033!BEAST LORD!}
+		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0035!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!}
-		(D#"What is to become of me, then?!"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(A#"And why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!}
+		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0035!BEAST LORD!/]
 
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!]
 		||
-		*"Do you jest?"*
+		*"I have little tolerance for your disloyal musings, Brother."* 
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00410!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0041!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00410!BEAST LORD!]
 		||
-		*"The Choir's will IS our will!"* 
+		*"The Choir's will IS our will! Always has been and always will be, too."* 
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00411!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00410!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00411!BEAST LORD!]
 		||
-		*"We must restrict our own desires for the good of the Order!"*
+		*"We kill our own desires for the good of the Order!"*
 		(A#"We cannot destroy our humanity, Adarin."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00412!BEAST LORD!}
 		(B#"Letting others think for you is nothing but willful ignorance..."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00422!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00450!BEAST LORD!}
@@ -443,19 +544,19 @@ BEAST LORD
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00412!BEAST LORD!]
 		||
-		*"But we can reforge it in the fire of the mind, reshape it to its perfect form: unity!"*
+		*"But we can reforge it in the fire of the mind, reshape it into its perfect form, into unity!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00412!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!]
 		||
-		*"Though my argument clearly falls upon deaf ears."*
+		*"Though my argument clearly falls on deaf ears."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00414!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00414!BEAST LORD!]
 		||
-		*"Farewell, Brother. May the decay of your Trueflesh precede the decay of your sanity..."*
+		*"Farewell, Brother. May the decay of your Falseflesh precede the decay of your sanity..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00419!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00414!BEAST LORD!/]
 
@@ -467,13 +568,13 @@ BEAST LORD
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!BEAST LORD!]
 		||
-		*"Then it is to the endless Void of the Graylands that you are led."*
+		*"Then it's to the endless Void of the Graylands Curiosity leads you, proud Inquisitor."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00420!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00420!BEAST LORD!]
 		||
-		*"It pains me to have seen your fall from grace; you, the most loyal of our Order, now to be nothing more than a forgotten memory."*
+		*"It pains me to have seen your fall... Once a proud and loyal Brother, now to be nothing more than a forgotten memory."*
 		(A#"Your pain is meaningless without change, Brother."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!}
 		(B#"I regret nothing."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00421!BEAST LORD!}
 		(C#"..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!}
@@ -481,50 +582,55 @@ BEAST LORD
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00421!BEAST LORD!]
 		||
-		*"Perhaps it is for the best, for regret would profit you nothing at this point."*
+		*"Perhaps it's for the best, for regret would profit you nothing at this point."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00421!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00422!BEAST LORD!]
 		||
-		*"From the cultivator we seek to grow crops; from the artisans we seek art and architecture; likewise from the Choir we seek wisdom."*
+		*"From the cultivator we seek knowledge of crops; from the artisans we seek skills of art and architecture; likewise from the Choir we seek wisdom beyond individual biases."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00422!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!BEAST LORD!]
 		||
-		*"You know full well, Brother..."* 
+		*"...From Thought-weaver to Thought-woven..."* 
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00440!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0044!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00440!BEAST LORD!]
 		||
-		*"It pains me to have seen your fall from grace; you, the most loyal of our Order, now to be nothing more than a forgotten memory."*
+		*"It pains me to have seen your fall... Once a proud and loyal Brother, now to be nothing more than a forgotten memory."*
 		(C#"..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!}
-		(D#"Surely you could say that I had 'escaped' before, Brother..."){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00441!BEAST LORD!}
+		(D#"Surely you could just say that I had 'escaped', Brother..."){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00450!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00440!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00441!BEAST LORD!]
 		||
-		*"And now you grovel for your worthless Falseflesh?! No further can you fall, Inquisitor!"*
+		*"And now you grovel for your worthless Falseflesh?! Does betrayal of the Order demand reward, Inquisitor!?"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00441!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!BEAST LORD!]
 		||
-		*"Yes, we are as tamed beasts! For are not lowly beasts commanded to great works by their superiors?"*
+		*"Certainly! We're just like tamed beasts! For aren't lowly beasts commanded to greater works by their superiors?"*
 		(A#"Letting others think for you is nothing but willful ignorance..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00422!BEAST LORD!}
-		(D#"Look, perhaps you could let your old friend accidentally 'escape'..."){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00441!BEAST LORD!}
+		(D#"Look, perhaps you could let your old friend 'accidentally' escape..."){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00450!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0045!BEAST LORD!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00450!BEAST LORD!]
 		||
-		*"Then you have gone the way of Brother Jinn Slayer; he too will likely meet a fate similar to yours in the near future."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!}
+		*"Then you've gone the way of the Jinn Slayer..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00451!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00450!BEAST LORD!/]
 
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00451!BEAST LORD!]
+		||
+        *"You'll make fine bed fellows in the Vault."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00451!BEAST LORD!/]
 
 
 CHAOS TAMER
@@ -832,17 +938,17 @@ THETIAN
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!MIND SEER!]
 		||
 		*"Oh! Brother Inquisitor! You startled me!"*
-		(A#"I'm sorry, Brother. I didn't mean to scare you."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.001!MIND SEER!}
-		(B#"What held such a grip on your attention?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!}
+		(A#"Sorry, Brother; didn't mean to scare you."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.001!MIND SEER!}
+		(B#"Caught in a web of thought, but whose web?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!}
 		(C#"So it seems."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!MIND SEER!}
-		(D#"You're on edge, Brother. What mischief have you been causing...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!MIND SEER!}
+		(D#"You're on edge, Brother. What mischief have you been causing...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.014!MIND SEER!}
 		(E#"As feeble as ever, I see."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!MIND SEER!}
 		(F#"Aaaaaaaaaaaaaaaahhhhhhhhhh!!!!!!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.006!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.001!MIND SEER!]
 		||
-		*"Do not apologize, Brother! I was simply too absorbed in my thoughts to notice your approach! How may I assist you?"*
+		*"Don't apologize, Brother! It was my fault entirely - was too absorbed in my thoughts to notice your approach! How may I assist you?"*
 		(A#"I'm just here to talk."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.011!MIND SEER!}
 		(B#"What were you thinking about?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!}
 		(E#"I doubt you could assist me."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.015!MIND SEER!}
@@ -850,32 +956,30 @@ THETIAN
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!]
 		||
-		*"Well... not much. I was merely thinking of our homeland. I dream of it often as of late..."*
-		(A#"What were your dreams of?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0110!MIND SEER!}
-		(B#"Our homeland? Torma supposedly went there to find the Mystics."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
+		*"I was just thinking of our homeland; it often haunts my dream, as of late..."*
+		(A#"Your dreams? Do tell."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0110!MIND SEER!}
+		(B#"Oh? Did you know Torma might've gone there to find the Mystics?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
 		(C#"Is that so?"){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!MIND SEER!]
 		||
-		*"I should have been more attentive to my surroundings; I was simply too caught up in the web of my mind."*
-		(B#"What were you thinking about?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!}
-		(C#"Is that so?"){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
-		(D#"A web? What Hamlikan schemes are you devising...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.014!MIND SEER!}
+		*"I should've been more attentive to my surroundings... If this had been the Palace of Memory, I might've lost my Self to another's."*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!MIND SEER!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!MIND SEER!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!MIND SEER!]
 		||
-		*"Mischief!? None, of course! All I mean to say is that I was too caught up in the web of my mind. But enough of my affairs, how may I assist you, Brother?"*
+        *"My fault entirely - was too caught in a web thoughts to even notice your approach!"*
+		(B#"What were you thinking about?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!}
 		(C#"Is that so?"){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
-		(D#"A web? What Hamlikan schemes are you devising...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.014!MIND SEER!}
-		(E#"I doubt you could assist me."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.015!MIND SEER!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!MIND SEER!/]
-
+		(D#"A web? Out with it then! What Hamlikan schemes were you devising...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.014!MIND SEER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!MIND SEER!/]
+???
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!MIND SEER!]
 		||
 		*"Brother... your remarks as not as... gentle as usual. Have I done something to offend you?"*
-		(A#"I... apologize. I am not myself as of late. I'm really just here to talk."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.011!MIND SEER!}
+		(A#"No. I'm just not myself, as of late. I'm really just here to talk."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.011!MIND SEER!}
 		(D#"If you have to ask, then you seem unrepentant..."){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0141!MIND SEER!}
 		(E#"Your mere existence is offensive. Fix that."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0150!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!MIND SEER!/]
@@ -905,39 +1009,39 @@ THETIAN
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!]
 		||
-		*"You mean to say the Wayfarer had contact with the Mystics?! Was that when she discovered you? What more can you tell me about this, Brother."*
-		(A#"What interest do you have in the Mystics?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.021!MIND SEER!}
-		(B#"I was discovered in Zhili; I could not follow her to Jer."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0220!MIND SEER!}
-		(C#"Nothing much."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
+		*"You mean to say the Wayfarer might've had contact with the Mystics?! Did she discover you in Jer?!"*
+		(A#"Why so curious about the Mystics?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.021!MIND SEER!}
+		(B#"No, in Zhili. Haven't yet seen her memories of Jer - and might not get the chance."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0220!MIND SEER!}
+		(C#"Perhaps we can discuss this another time."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!]
 		||
-		*"...You too seem absorbed in your thoughts. I shall not disturb you any longer, Brother."*
+		*"Oh... You too seem absorbed in thought. Perhaps we should both return to our affairs."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0130!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0130!MIND SEER!]
 		||
-		*"Indeed, the Choir is waiting for your report, and though I know not what you saw, I can tell that it is of great significance."*
+		*"Indeed, I hear the Choir is waiting for your report, and though I know not what you saw, I can tell by your abrupt exit from the Mind-Loom that it's of great significance."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0131!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0130!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0131!MIND SEER!]
 		||
-		*"Do not delay, Brother. Lest you join the ranks of the Vault-dwellers."*
+		*"Best to hurry, Brother. I couldn't bear it if they made you a Vault-dweller..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0131!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.014!MIND SEER!]
 		||
-		*"You misjudge me, Brother! The Rusted Master is far from my thoughts!"*
+		*"What?! No, Brother! You misjudge me! I craft no rusty schemes today!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0140!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.014!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0140!MIND SEER!]
 		||
-		*"I was merely thinking of our homeland. I dream of it often as of late..."*
+		*"I was just thinking of our homeland; it often haunts my dream, as of late..."*
 		(C#"..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
 		(D#"And what of these dreams...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.024!MIND SEER!}
 		(E#"I tire of this. I have more important matters to attend to."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.015!MIND SEER!}

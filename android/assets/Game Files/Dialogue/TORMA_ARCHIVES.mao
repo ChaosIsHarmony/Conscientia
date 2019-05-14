@@ -1369,20 +1369,19 @@ BEAST LORD
 		(F#"By Roostor's Comb! You misunderstand! You're destined to die alone in a cave!"){F:1,ENCLAVE!ARCHIVES!MATHETIA!0.0020!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00260!BEAST LORD!/]
 
-???
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to think this policy had somehow changed?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
-		(B#"I'll be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!}
-		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
+		(B#"Curiosity guides my action, not the Choir's will."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0031!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!]
 		||
-		*"What is of such supreme importance that you have staked your very existence upon it?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
-		(B#"I'll be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!}
+		*"What is of such supreme importance that you have staked your very life on it?!"*
+		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
+		(B#"Curiosity. It alone guides my action, not the Choir's will."){B:1,ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!}
 		(C#"Importance is a product of whim; nothing is 'supremely' important."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0032!BEAST LORD!/]
 
@@ -1394,30 +1393,30 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0034!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to think this policy had somehow changed!?"*
-		(C#"I didn't think it had."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
-		(D#"What's to become of me, then?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!}
-		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(C#"I never said it had."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.0033!BEAST LORD!}
+		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0034!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0035!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to think this policy had somehow changed?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
-		(D#"What's to become of me, then?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(A#"And why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!}
+		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0044!BEAST LORD!}
 		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0035!BEAST LORD!/]
 
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!]
 		||
-		*"I have little tolerance for jokes, Brother."* 
+		*"I have little tolerance for your disloyal musings, Brother."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0041!BEAST LORD!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!]
 		||
-		*"The Choir's will IS our will!"* 
+		*"The Choir's will IS our will! Always has been and always will be, too."* 
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00411!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00410!BEAST LORD!/]
 
@@ -1431,7 +1430,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00412!BEAST LORD!]
 		||
-		*"But we can reforge it in the fire of the mind, reshape it to its perfect form: unity!"*
+		*"But we can reforge it in the fire of the mind, reshape it into its perfect form, into unity!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00412!BEAST LORD!/]
 
@@ -1443,7 +1442,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00414!BEAST LORD!]
 		||
-		*"Farewell, Brother. May the decay of your Trueflesh precede the decay of your sanity..."*
+		*"Farewell, Brother. May the decay of your Falseflesh precede the decay of your sanity..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00419!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00414!BEAST LORD!/]
 
@@ -1455,7 +1454,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!]
 		||
-		*"Then it's to the endless Void of the Graylands you go, proud Inquisitor."*
+		*"Then it's to the endless Void of the Graylands Curiosity leads you, proud Inquisitor."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00420!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0042!BEAST LORD!/]
 
@@ -1475,7 +1474,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00422!BEAST LORD!]
 		||
-		*"From the cultivator we seek to grow crops; from the artisans we seek art and architecture; likewise from the Choir we seek wisdom."*
+		*"From the cultivator we seek knowledge of crops; from the artisans we seek skills of art and architecture; likewise from the Choir we seek wisdom beyond individual biases."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00422!BEAST LORD!/]
 
@@ -1501,7 +1500,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0045!BEAST LORD!]
 		||
-		*"Certainly! Ww're just like tamed beasts! For aren't lowly beasts commanded to greater works by their superiors?"*
+		*"Certainly! We're just like tamed beasts! For aren't lowly beasts commanded to greater works by their superiors?"*
 		(A#"Letting others think for you is nothing but willful ignorance..."){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.00422!BEAST LORD!}
 		(D#"Look, perhaps you could let your old friend 'accidentally' escape..."){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!}
@@ -1509,9 +1508,15 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!]
 		||
-		*"Then you've gone the way of the Jinn Slayer - another racing towards life as a Vault-dweller."*
-		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
+		*"Then you've gone the way of the Jinn Slayer..."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00451!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00450!BEAST LORD!/]
+
+	[/ENCLAVE!ARCHIVES!MATHETIA!0.00451!BEAST LORD!]
+		||
+        *"You'll make fine bed fellows in the Vault."*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00413!BEAST LORD!}
+	[ENCLAVE!ARCHIVES!MATHETIA!0.00451!BEAST LORD!/]
 
 
 

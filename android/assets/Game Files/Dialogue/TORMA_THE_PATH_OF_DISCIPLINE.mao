@@ -659,247 +659,353 @@ ARBITER
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!1.X000!ARBITER!/]
 	
-	
+
 BEAST LORD
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!BEAST LORD!]
 		||
-		*"Brother Inquisitor, I have been dispatched to escort you to the Nave; your truancy has not gone unnoticed..."* 
+		*"Brother Inquisitor, I've been dispatched to escort you to the Nave. Your truancy has not gone... unnoticed..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!BEAST LORD!]
 		||
-		*"...May I speak candidly with you?"*
+		*"...May I speak candidly with you, Brother?"*
 		(A#"Yes, of course, Brother."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!BEAST LORD!}
-		(B#"What is it you wish to say?"){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!BEAST LORD!}
+		(B#"I'd prefer if everyone were always candid."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!BEAST LORD!}
 		(C#"As you wish."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0023!BEAST LORD!}
 		(D#"Unless it's to tell me I'm free to go, then no."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
-		(E#"Let's just go and get it over with."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
-		(F#"So NOW caveman wants to talk, but in Kabu it was the cold shoulder!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0026!BEAST LORD!}
+		(E#"Let's just go to the Nave and get it over with."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
+		(F#"NOW caveman want talkie-talk! But in Kabu only give cold shoulder!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0026!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!]
 		||
-		*"You are as frigid as ever, Brother..."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00200!BEAST LORD!}
+		*"...What happened to you, Brother? When did ice replace warmth in your words?"*
+        (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00200!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00200!BEAST LORD!]
 		||
-		*"Then as you wish! I will deliver you to the executioner's block and leave you to join the ranks of the Vault-dwellers."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00201!BEAST LORD!}
+        *"But then again, I suppose it's useless to ask snow why it's cold..."*
+        (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00201!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00200!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00201!BEAST LORD!]
+		||
+        *"All is ever as it should be."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00202!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00201!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00202!BEAST LORD!]
+		||	
+		*"Brothers! Sisters! Members of the Enclave!"*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00203!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00202!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00203!BEAST LORD!]
+		||
+        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on trees."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00204!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00203!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00204!BEAST LORD!]
+		||
+        *"But time is precious, ever-diminishing; its wasteful use is a crime of the highest order."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00205!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00204!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00205!BEAST LORD!]
+		||
+        *"And so the Choir have summoned him, to stand beneath their wise gaze, to bear the weight of their judgment!"*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00206!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00205!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00206!BEAST LORD!]
+		||
+        *"Follow not his example, lest you follow him to the Vault!"*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00207!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00206!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00207!BEAST LORD!]
 		||
 		*"For the good of the Order!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!BEAST LORD!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00201!BEAST LORD!/]
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00207!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!BEAST LORD!]
 		||
 		*"Gratitude, Brother."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00210!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00210!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00211!BEAST LORD!}
+		*"When I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+        (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00211!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00210!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00211!BEAST LORD!]
 		||
-		*"Thus, I ask, both as brother and as friend; Ormenos: why have you forsaken your duties."*
-		(A#"Why is delaying the report so offensive to the Choir?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0031!BEAST LORD!}
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!}
-		(E#"Why must we respond to the crack of the Choir's whip?"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0035!BEAST LORD!}
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00212!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00211!BEAST LORD!/]
-	
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00212!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00213!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00212!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00213!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00214!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00213!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00214!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(A#"Why does a delayed report matter so much to the Choir?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0031!BEAST LORD!}
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!}
+		(E#"And why exactly must we respond to the crack of the Choir's whip?"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0035!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00214!BEAST LORD!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00220!BEAST LORD!}
+		*"Candidness... Yes, I too wish everyone could just be candid."*
+        (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00220!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00220!BEAST LORD!]
 		||
-		*"Thus, I ask, both as brother and as friend; Ormenos: why have you forsaken your duties."*
-		(A#"Why is delaying the report so offensive to the Choir?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0031!BEAST LORD!}
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!}
-		(C#"I do not chose my actions, Adarin; they are chosen for me."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00220!BEAST LORD!/]
-	
+        *"But it looks like we'll just have to settle for it between us two for now."*
+        (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00221!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00220!BEAST LORD!/]        
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00221!BEAST LORD!]
+		||
+		*"What I wanted to say was that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+        (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00222!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00221!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00222!BEAST LORD!]
+		||
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00223!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00222!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00223!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00224!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00223!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00224!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00225!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00224!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00225!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(A#"Why does a delayed report matter so much to the Choir?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0031!BEAST LORD!}
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!}
+		(C#"I don't chose my actions, Adarin; they're chosen for me."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00225!BEAST LORD!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0023!BEAST LORD!]
 		||
-		*"What I wish to say is that we have been with the Order for many years and you have always been loyal to your brothers and sisters, and diligent in your tasks."*
+		*"What I wish to say is that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00230!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0023!BEAST LORD!/]
-	
-	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00230!BEAST LORD!]
+
+    [/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00230!BEAST LORD!]
 		||
-		*"Thus, I ask, both as brother and as friend; Ormenos: why have you forsaken your duties."*
-		(B#"I have more important affairs to attend to."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!}
-		(C#"I do not chose my actions, Adarin; they are chosen for me."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
-		(D#"Why such solemnity over a simple delay?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0034!BEAST LORD!}
+        *"You'd already accomplished more in your five year tenure than most magi do in a lifetime."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00231!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00230!BEAST LORD!/]
-		
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00231!BEAST LORD!]
+		||
+        *"And in the years since, I've witnessed you do everything the Choir demanded of you, always without complaint."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00232!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00231!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00232!BEAST LORD!]
+		||
+        *"I won't belabor the point, but you're clearly anything but a negligent member of the Order."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00233!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00232!BEAST LORD!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00233!BEAST LORD!]
+		||
+		*"So, why, Ormenos? Why have you forsaken your duties? Why throw it all away now?"*
+		(B#"Because I have more important affairs to attend to."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!}
+		(C#"I don't chose my actions, Adarin; they're chosen for me."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
+		(D#"Why fuss over a simple delay?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0034!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00233!BEAST LORD!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0026!BEAST LORD!]
 		||
-		*"Caveman? Kabu? Brother, we did not meet until I came to the Enclave shortly after your arrival..."*
-		(F#"How can I say this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00260!BEAST LORD!}
+		*"Caveman? Kabu? Brother, we only met after I came to the Enclave... And besides, you've never even been to my homeland..."*
+		(F#"How can I put this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00260!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0026!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00260!BEAST LORD!]
 		||
-		*"...If you have no intention of earnestly hearing your Brother, then we shall depart."*
+		*"But it seems you have no intention of actually listening to a Brother's words..."*
 		(F#"By Roostor's Comb! You misunderstand! You're destined to die alone in a cave!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00260!BEAST LORD!/]
-	
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0031!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
-		(B#"I will be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
+		(B#"Curiosity guides my action, not the Choir's will."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0031!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!]
 		||
-		*"What is of such supreme importance that you have staked your very existence upon it?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
-		(B#"I will be led by curiosity, regardless of the circumstances."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!}
+		*"What is of such supreme importance that you have staked your very life on it?!"*
+		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
+		(B#"Curiosity. It alone guides my action, not the Choir's will."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!}
 		(C#"Importance is a product of whim; nothing is 'supremely' important."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!]
 		||
-		*"I see that you do not take my earnest concern seriously."*
+		*"I see my earnest concern is of little consequence to you."*
 		(C#"Believe what you will."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0034!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed!?"*
-		(C#"I did not say it has changed."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
-		(D#"What is to become of me, then?!"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(C#"I never said it had."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
+		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0034!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0035!BEAST LORD!]
 		||
-		*"Insubordination has never been tolerated; what possessed you to believe this policy had somehow changed?!"*
-		(A#"Why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
-		(D#"What is to become of me, then?!"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!}
-		(E#"And it will never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
+		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		(A#"And why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
+		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!}
+		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0035!BEAST LORD!/]
-	
-	
+
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!]
 		||
-		*"Do you jest?"*
+		*"I have little tolerance for your disloyal musings, Brother."* 
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!]
-		||	
-		*"The Choir's will IS our will!"* 
+		||
+		*"The Choir's will IS our will! Always has been and always will be, too."* 
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00411!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00411!BEAST LORD!]
 		||
-		*"We must restrict our own desires for the good of the Order!"*
+		*"We kill our own desires for the good of the Order!"*
 		(A#"We cannot destroy our humanity, Adarin."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00412!BEAST LORD!}
 		(B#"Letting others think for you is nothing but willful ignorance..."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00422!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00450!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00411!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00412!BEAST LORD!]
 		||
-		*"But we can reforge it in the fire of the mind, reshape it to its perfect form: unity!"*
+		*"But we can reforge it in the fire of the mind, reshape it into its perfect form, into unity!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00412!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!]
 		||
-		*"Though my argument clearly falls upon deaf ears."*
+		*"Though my argument clearly falls on deaf ears."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00414!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00414!BEAST LORD!]
 		||
-		*"Farewell, Brother. May the decay of your Trueflesh precede the decay of your sanity..."* 
+		*"Farewell, Brother. May the decay of your Falseflesh precede the decay of your sanity..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00419!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00414!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00419!BEAST LORD!]
 		||
 		*"For the good of the Order."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00419!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!]
 		||
-		*"Then it is to the endless Void of the Graylands that you are led."*
+		*"Then it's to the endless Void of the Graylands Curiosity leads you, proud Inquisitor."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00420!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00420!BEAST LORD!]
 		||
-		*"It pains me to have seen your fall from grace; you, the most loyal of our Order, now to be nothing more than a forgotten memory."*
+		*"It pains me to have seen your fall... Once a proud and loyal Brother, now to be nothing more than a forgotten memory."*
 		(A#"Your pain is meaningless without change, Brother."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
 		(B#"I regret nothing."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00421!BEAST LORD!}
 		(C#"..."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00420!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00421!BEAST LORD!]
 		||
-		*"Perhaps it is for the best, for regret would profit you nothing at this point."*
+		*"Perhaps it's for the best, for regret would profit you nothing at this point."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00421!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00422!BEAST LORD!]
 		||
-		*"From the cultivator we seek to grow crops; from the artisans we seek art and architecture; likewise from the Choir we seek wisdom."*
+		*"From the cultivator we seek knowledge of crops; from the artisans we seek skills of art and architecture; likewise from the Choir we seek wisdom beyond individual biases."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00422!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!]
 		||
-		*"You know full well, Brother..."* 
+		*"...From Thought-weaver to Thought-woven..."* 
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00440!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00440!BEAST LORD!]
 		||
-		*"It pains me to have seen your fall from grace; you, the most loyal of our Order, now to be nothing more than a forgotten memory."*
+		*"It pains me to have seen your fall... Once a proud and loyal Brother, now to be nothing more than a forgotten memory."*
 		(C#"..."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
-		(D#"Surely you could say that I had 'escaped' before, Brother..."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!}
+		(D#"Surely you could just say that I had 'escaped', Brother..."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00450!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00440!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!]
 		||
-		*"And now you grovel for your worthless Falseflesh?! No further can you fall, Inquisitor!"*
+		*"And now you grovel for your worthless Falseflesh?! Does betrayal of the Order demand reward, Inquisitor!?"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!]
 		||
-		*"Yes, we are as tamed beasts! For are not lowly beasts commanded to great works by their superiors?"*
+		*"Certainly! We're just like tamed beasts! For aren't lowly beasts commanded to greater works by their superiors?"*
 		(A#"Letting others think for you is nothing but willful ignorance..."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00422!BEAST LORD!}
-		(D#"Look, perhaps you could let your old friend accidentally 'escape'..."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!}
+		(D#"Look, perhaps you could let your old friend 'accidentally' escape..."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00450!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00450!BEAST LORD!]
 		||
-		*"Then you have gone the way of Brother Jinn Slayer; he too will likely meet a fate similar to yours in the near future."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
+		*"Then you've gone the way of the Jinn Slayer..."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00451!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00450!BEAST LORD!/]
-	
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00451!BEAST LORD!]
+		||
+        *"You'll make fine bed fellows in the Vault."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00451!BEAST LORD!/]	
 	
 
 	
