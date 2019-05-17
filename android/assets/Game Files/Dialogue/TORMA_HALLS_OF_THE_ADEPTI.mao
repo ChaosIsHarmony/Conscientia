@@ -977,7 +977,7 @@ THETIAN
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!MIND SEER!]
 		||
         *"My fault entirely - was too caught in a web of thoughts to even notice your approach!"*
-		(B#"Untempered thought is an impossible maze; more likely you were lost in thought."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!}
+		(B#"Untempered thought is an impossible maze; more likely you were 'lost' in thought than 'caught'."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!MIND SEER!}
 		(C#"Is that so?"){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
 		(D#"A web? Out with it then! What Hamlikan schemes were you devising...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.014!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!MIND SEER!/]
@@ -1027,35 +1027,41 @@ THETIAN
 		||
         *"...Though, I've also started to dream of my Uncle... and the Mystics."*
 		(A#"Why the Mystics?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.021!MIND SEER!}
-		(B#"Torma supposedly went to Jer; something to do with the Wyrm and the Mystics."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
-		(E#"Unremarkable. Fitting dreams for a weak intellect."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!MIND SEER!}
+		(B#"Torma supposedly went to Jer - something to do with the Wyrm and the Mystics."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
+		(E#"Unremarkable. Such fitting dreams for a weak intellect."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.005!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0111!MIND SEER!/]
-???
+
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!]
 		||
-		*"You mean to say the Wayfarer might've had contact with the Mystics?! Did she discover you in Jer?!"*
+		*"Wait... You mean to say the Wayfarer might've had contact with the Mystics?! Were you diving for memories in Jer this last time?!"*
 		(A#"Why so curious about the Mystics?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.021!MIND SEER!}
-		(B#"No, in Zhili. Haven't yet seen her memories of Jer - and might not get the chance."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0220!MIND SEER!}
+		(B#"No, in Zhili. Haven't yet been to Jer with her - and might not get to either."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0220!MIND SEER!}
 		(C#"Perhaps we can discuss this another time."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!]
 		||
-		*"Oh... You too seem absorbed in thought. Perhaps we should both return to our affairs."*
+		*"Oh... Of course. We really should be getting back to our tasks anyway."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0130!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0130!MIND SEER!]
 		||
-		*"Indeed, I hear the Choir is waiting for your report, and though I know not what you saw, I can tell by your abrupt exit from the Mind-Loom that it's of great significance."*
+		*"Indeed, I hear the Choir is anxiously awaiting your report! And though I know not what you saw, I can tell by your abrupt exit from the Mind-Loom that it's of great significance..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0131!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0130!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0131!MIND SEER!]
 		||
-		*"Best to hurry, Brother. I couldn't bear it if they made you a Vault-dweller..."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
+		*"Best to hurry, Brother. The other day, I heard Sister Crystal Gazer was sentenced to the Vault for being only a few hours late with her report..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0132!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0131!MIND SEER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0132!MIND SEER!]
+		||
+        *"No Thought-weaver wants to see a brother or sister - especially one of our own caste - on the other side of a Mind-Loom. So, please get to the Nave quickly!"*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0132!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.014!MIND SEER!]
 		||
@@ -1065,15 +1071,15 @@ THETIAN
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0140!MIND SEER!]
 		||
-		*"I was just thinking of our homeland; it often haunts my dream, as of late..."*
-		(C#"..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
+		*"I was just thinking of our homeland - and how it often haunts my dream, as of late..."*
+		(C#"Perhaps we can discuss this another time."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.013!MIND SEER!}
 		(D#"And what of these dreams...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.024!MIND SEER!}
-		(E#"I tire of this. I have more important matters to attend to."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.015!MIND SEER!}
+		(E#"It's odd that you think I care."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0150!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0140!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0141!MIND SEER!]
 		||
-		*"I... am truly at a loss. But nonetheless, I never intended any offense! Especially to a fellow Jeran!"*
+		*"I... I'm truly at a loss. But nonetheless, I never intended any offense! Especially to a fellow Jeran!"*
 		(C#"..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.023!MIND SEER!}
 		(D#"I'm ashamed to even call you a 'fellow' Jeran."){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0150!MIND SEER!}
 		(E#"Your mere existence is offensive. Fix that."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0150!MIND SEER!}
@@ -1095,21 +1101,21 @@ THETIAN
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0151!MIND SEER!]
 		||
-		*"I will delay you no longer, as I'm sure the Choir is more deserving of your company than a junior Thought-Weaver."*
+		*"I apologize for delaying your report to the Choir and will disturb you no more."*
 		(A#"Yes, perhaps I had best go report to the Choir."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
 		(D#"As long as you know your place, all is as it should be."){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
-		(E#"Do not disturb me any further, scum."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
+		(E#"The powerless delay nothing, Junior Thought-Weaver."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0151!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0152!MIND SEER!]
 		||
-		*"Yes, of course. Then I am at your service, Brother."*
+		*"Yes, of course. Then I'll be at your service, Brother."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0153!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0152!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0153!MIND SEER!]
 		||
-		*"Though, I will delay you no longer, as I'm sure the Choir is more deserving of your company that a junior Thought-Weaver."*
+		*"Though, for now I'll delay you no longer, as I'm sure the Choir is more deserving of your company that a junior Thought-Weaver."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0153!MIND SEER!/]
 
@@ -1147,13 +1153,21 @@ THETIAN
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02100!MIND SEER!]
 		||
-		*"I hesitate to say this, even now that you and I shall never return to Jer, but I believe my Uncle was at one point a Mystic."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02101!MIND SEER!}
+		*"I hesitate to say this, even now that you and I'll never return to Jer, but I believe my Uncle was at one point a Mystic..."*
+		(A#"He was?!"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02101!MIND SEER!}
+        (B#"I suspected as much."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.021010!MIND SEER!}
+        (C#"Is that so?"){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02101!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02100!MIND SEER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.021010!MIND SEER!]
+		||
+		*"You did? Leave it to the Inquisitor to see so plainly what us truth-blind pretenders cannot..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02101!MIND SEER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.021010!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02101!MIND SEER!]
 		||
-		*"His mental afflictions are likely a product of the bizarre rites and dark rituals in which they engaged, but I have never found any conclusive evidence to indict them of causing his breakdown."*
+		*"Well, after much thought, I've come to believe that his mental afflictions are likely a product of the bizarre rites and dark rituals in which they engaged, though I've never did find any conclusive evidence."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02102!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02101!MIND SEER!/]
 
@@ -1165,27 +1179,39 @@ THETIAN
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02103!MIND SEER!]
 		||
-		*"He would say, 'And clear is the path! For the Blood Pact between the Eidos and the Wyrm spells Thetian's name!'"*
+		*"'And clear is the path! For the Blood Pact between the Eidos and the Wyrm spells Thetian's name!' He'd repeat this over and over."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02104!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02103!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02104!MIND SEER!]
 		||
-		*"In truth, one reason I left Jer was to escape the Mystics; I ran in fear, even though these were the ramblings of one so clearly devoid of agency."*
-		(A#"You are safe now, Thetian."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0211!MIND SEER!}
+		*"In truth, one reason I left Jer was to escape the Mystics. I figured they'd never be able to touch me here..."*
+		(A#"Well, you're safe now, Thetian."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0211!MIND SEER!}
 		(B#"Knowledge can be ugly, but the truth is always beautiful."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0212!MIND SEER!}
-		(E#"You are a spineless coward."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0212!MIND SEER!}
+		(C#"Nothing lasts forever - both safety and danger."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0212!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02104!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0211!MIND SEER!]
 		||
-		*"One would hope, but I know that at some point, even I must stop fleeing and face the spectres of my accursed past..."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0213!MIND SEER!}
+		*"For now. But safety is illusory, a cruel appetizer for dread..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02110!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0211!MIND SEER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02110!MIND SEER!]
+		||
+        *"...Honestly, I've started to see the allure the Cults Morticarum hold..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02111!MIND SEER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02110!MIND SEER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02111!MIND SEER!]
+		||
+        *"There's only one path to a lasting safety..."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0212!MIND SEER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02111!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0212!MIND SEER!]
 		||
-		*"You are... right, of course. I know that at some point, even I must stop fleeing and face the spectres of my accursed past, to confront the truth..."*
+		*"...Perhaps I should replace my fragile safety with the truth's perils, swap ignorance for awareness..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0213!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0212!MIND SEER!/]
 
@@ -1197,19 +1223,19 @@ THETIAN
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02130!MIND SEER!]
 		||
-		*"Now please, make your way to the Nave, for I fear the Choir grows impatient, and my heart would break should my only Jeran Brother be made a Vault-dweller by our leaders..."*
+		*"Wait... Oh no! I've wasted so much of your time! I hope you're not late for your report to the Choir!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02131!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02130!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02131!MIND SEER!]
 		||
-		*"Go in peace, Brother Inquisitor."*
+		*"Quickly, Brother! Get to the Nave!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02131!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0214!MIND SEER!]
 		||
-		*"Me? I am... fine, of course. I've simply been thinking of our homeland recently; it has shown up in my dreams as of late."*
+		*"Me? I'm... fine, of course. Just been thinking of our homeland recently - and how it haunts my dreams as of late..."*
 		(A#"What were your dreams of?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0110!MIND SEER!}
 		(B#"Our homeland? Torma supposedly went there to find the Mystics."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
 		(E#"I regret asking; what a waste of time."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.015!MIND SEER!}
@@ -1219,51 +1245,57 @@ THETIAN
 		||
 		*"What of her, Brother? Is this about what happened earlier in the Vault?"*
 		(A#"Yes, I'm still wondering how it is she discovered my presence..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.031!MIND SEER!}
-		(B#"Torma supposedly went to Jer to find the Mystics."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
+		(B#"No, just found it odd that Torma supposedly went to Jer to find the Mystics."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
 		(C#"On second thought, perhaps I had best leave."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.023!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.022!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0220!MIND SEER!]
 		||
-		*"This is... of great interest, indeed... Thank you, Brother."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0221!MIND SEER!}
+		*"Oh, well, this is still of great interest, indeed... Thank you, Brother."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02130!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0220!MIND SEER!/]
-
-	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0221!MIND SEER!]
-		||
-		*"Now I will delay you no longer, for the Choir demands your report and further negligence of your duties is not worth the punishment it would elicit."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02131!MIND SEER!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0221!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.023!MIND SEER!]
 		||
-		*"Yes, of course... I will delay you no longer, as I'm sure the Choir is more deserving of your company that a junior Thought-Weaver."*
+		*"Yes, of course... I'll delay you no longer, as I'm sure the Choir is more deserving of your company that a junior Thought-Weaver."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.023!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.024!MIND SEER!]
 		||
-		*"My dreams? They were... of my Uncle and the Wyrm of the Mystics."*
-		(C#"Torma supposedly went to Jer; something to do with the Wyrm of the Mystics."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
+		*"My dreams..?"*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0240!MIND SEER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.024!MIND SEER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0240!MIND SEER!]
+		||
+        *"Well, most were about my Uncle..."*
+        (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0241!MIND SEER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0240!MIND SEER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0241!MIND SEER!]
+		||
+        *"Him... and the Wyrm of the Mystics."*
+		(C#"Torma supposedly went to Jer - something to do with the Wyrm."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
 		(D#"What interest do you have in the Mystics..?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.021!MIND SEER!}
 		(E#"I knew talking to you would be a waste of breath."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.015!MIND SEER!}
-	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.024!MIND SEER!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0241!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.025!MIND SEER!]
 		||
-		*"Brother! Do not speak such words so recklessly!"*
+		*"Sshhh! Brother! Reckless speech finds willing ears easily..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0250!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.025!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0250!MIND SEER!]
 		||
-		*"I know not what withdrew that volatile candor from within your Trueflesh, but anymore of it and we will both be implicated in conspiracy!"*
+		*"Others of our Order have been cast among the Vault-dwellers for lesser offenses that misspeech..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02500!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0250!MIND SEER!/]
-
+???
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02500!MIND SEER!]
 		||
-		*"If you have qualms about the Choir, I suggest you keep them as the Wayfarer is kept: caged within the depths."*
+		*"If you have qualms about the Choir, then keep them as the Wayfarer is kept: caged in the depths."*
 		(A#"...Perhaps you are right."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0251!MIND SEER!}
 		(D#"Then you would hide behind your Hamlikan schemes...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0254!MIND SEER!}
 		(E#"Your cowardice is revolting."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0150!MIND SEER!}
