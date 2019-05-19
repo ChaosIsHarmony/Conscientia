@@ -488,14 +488,6 @@ public class Dialogue {
 		lastNPC = prevNPC;
 	}
 
-	public boolean isDialogueForceEnacted() {
-		return dialogueForceEnacted;
-	}
-
-	public void setDialogueForceEnacted(boolean dialogueForceEnacted) {
-		this.dialogueForceEnacted = dialogueForceEnacted;
-	}
-
 	public void setLastLoc(String lastLocation) {
 		this.lastLoc = lastLocation;
 	}

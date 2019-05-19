@@ -251,14 +251,14 @@ public class MainMenuScreen implements Screen {
 			if (startFadeOutProcess)
 				saveCompleted = true;
 		} else {
-			if (System.currentTimeMillis() - 6000 > timer && saveCompleted) {
+			if (System.currentTimeMillis() - 5000 > timer && saveCompleted) {
 				if (quoteAlpha > 0)
 					quoteAlpha = ((quoteAlpha -= fadeSpeed * delta) < 0) ? 0 : quoteAlpha;
 				else {
 					savesUpdated = true;
 				}
 				bookOfBiraculQuote.setColor(1, 1, 1, quoteAlpha);
-			} else if (System.currentTimeMillis() - 5500 > timer && saveCompleted) {
+			} else if (System.currentTimeMillis() - 4500 > timer && saveCompleted) {
 				if (soundManager.getCurrentBGMID() != SoundManager.BGM_MAIN_MENU) {
 					soundManager.setFadeIn(true);
 					soundManager.loadBGM(SoundManager.BGM_MAIN_MENU);
@@ -407,5 +407,4 @@ public class MainMenuScreen implements Screen {
 		logoSymbol.getTexture().dispose();
 		logoWords.getTexture().dispose();
 	}
-
 }
