@@ -1264,7 +1264,7 @@ AWAKENING CHAMBER
 		||
 		*Suddenly remembering to breathe, a heaving gasp fills her lungs with the chamber's chill air.
 		
-		Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the incessant pounding of her heart.
+		Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the thunderous march of her heartbeats.
 		
 		Swaying as though on violent seas, the room seems to spin.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.003!DESCRIPTION!}
