@@ -1244,7 +1244,7 @@ THETIAN
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.022!MIND SEER!]
 		||
 		*"What of her, Brother? Is this about what happened earlier in the Vault?"*
-		(A#"Yes, I'm still wondering how it is she discovered my presence..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.031!MIND SEER!}
+		(A#"Yes, I'm still wondering how she discovered my presence..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.031!MIND SEER!}
 		(B#"No, just found it odd that Torma supposedly went to Jer to find the Mystics."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
 		(C#"On second thought, perhaps I had best leave."){C:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.023!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.022!MIND SEER!/]
@@ -1292,24 +1292,24 @@ THETIAN
 		*"Others of our Order have been cast among the Vault-dwellers for lesser offenses that misspeech..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02500!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0250!MIND SEER!/]
-???
+
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02500!MIND SEER!]
 		||
-		*"If you have qualms about the Choir, then keep them as the Wayfarer is kept: caged in the depths."*
-		(A#"...Perhaps you are right."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0251!MIND SEER!}
-		(D#"Then you would hide behind your Hamlikan schemes...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0254!MIND SEER!}
+		*"Best to keep any qualms about the Choir as they keep the Wayfarer: caged in the depths."*
+		(A#"...Perhaps you're right."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0251!MIND SEER!}
+		(D#"So, you'd hide the truth behind a Hamlikan veil...?"){D:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0254!MIND SEER!}
 		(E#"Your cowardice is revolting."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0150!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02500!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0251!MIND SEER!]
 		||
-		*"...The Choir are strict, but they are our leaders after all."*
+		*"...The Choir are strict, but they're our leaders after all."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02510!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0251!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02510!MIND SEER!]
 		||
-		*"But, I shall not disturb you any longer, Brother."*
+		*"In any event, I'll disturb you no longer, Brother."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0130!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02510!MIND SEER!/]
 
@@ -1322,41 +1322,47 @@ THETIAN
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.026!MIND SEER!]
 		||
 		*"Aaaaaaaaaaahhh!! Oh! Not again, Brother! I must leave before we are both thrown into the Vault! Farewell!"*
-		(F#"Did you know they removed the word 'lame' from the dictionary?"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.036!MIND SEER!}
+		(F#"Did you know they removed the word 'buzz-killer' from the dictionary?"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.036!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.026!MIND SEER!/]
 
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.031!MIND SEER!]
 		||
 		*"This is troublesome indeed... I wonder if the Archives might have any records on former investigators..."*
-		(A#"They do indeed. Perhaps I will head there."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0310!MIND SEER!}
+		(A#"They do indeed. Perhaps I'll head there."){A:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0310!MIND SEER!}
 		(B#"I wonder if they have any information on her connection with the Mystics..."){B:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.012!MIND SEER!}
-		(E#"I knew talking to you would be a waste of breath."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.015!MIND SEER!}
+		(E#"I knew talking to you'd be a waste of breath."){E:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.015!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.031!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0310!MIND SEER!]
 		||
-		*"I am glad I could help! But, I would think you should first visit the Nave, Brother."*
-		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.02510!MIND SEER!}
+		*"Glad I could help! But, I think you should first visit the Nave, Brother."*
+		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0130!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0310!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.036!MIND SEER!]
 		||
 		*"In truth? Why would they do such a thing?"*
-		(F#"So that they could replace it with a picture of you!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0360!MIND SEER!}
+		(F#"Why? Well, to replace it with your picture of course!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0360!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.036!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0360!MIND SEER!]
 		||
-		*"...Brother, you are uncharacteristically given to the chicane today..."*
+		*"...Brother, you're uncharacteristically given to the chicane today..."*
 		(F#"Zzzz..."){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0361!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0360!MIND SEER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0361!MIND SEER!]
 		||
-		*"I assume it has to do with the episode in the Mind-Loom, so I implore you! Please go visit the Nave with haste! Only they can help you at this point."*
-		(F#"TALLY HO!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
+		*"I assume it has to do with the episode in the Mind-Loom, so I implore you! Please go visit the Nave with haste!"*
+        (F#"...zzzZ"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0362!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0361!MIND SEER!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0362!MIND SEER!]
+		||
+        *"Only they can help you at this point."*
+		(F#"TALLY HO!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
+	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0362!MIND SEER!/]
 
 
 
@@ -1381,38 +1387,45 @@ ORMENOS' CELL
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.001!DESCRIPTION!]
 		||
-		*Ormenos walks into his sanctuary, his only haven of absolute respite from the eternal crowd. Here he can be finally just be, no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. Just the act of existing, finally free.
-		
-		As he steps into the room, it fills with the resplendent light emitted from the glass suspended upon the wall. This object is the proof of his station as a senior among magi and all seniors of all castes receive this relic of the ancient Thiuda as a token for their service to the Order. Ormenos need but imagine any scene and upon its glassy surface will this be reflected. As a creature of habit, Ormenos tends not to let his imagination run wild and all he sees are the waves breaking near the barnacled piers of Jer.*
-		(A#Return to the Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0017!DESCRIPTION!}
-		(B#Go lie down){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X0010!DESCRIPTION!}
+		*A solid slab of stone disappears, unveiling the path to Ormenos' sleeping cell - his sanctuary, his only haven of absolute respite from the noisy spinning of cogs and their machinations. Here he can be finally just be - no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. True freedom.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0010!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.001!DESCRIPTION!/]
-
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X0010!DESCRIPTION!]
-		|^2098:ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0010!DESCRIPTION!|
-		*Walking towards his resting cabinet, he first glances over at his most prized possession: an illuminated copy of "The Art of Blindsight" by the tortured mage, Rikharr of Kabu. Upon first reading it as a child, Ormenos was utterly confused, yet mesmerized by its contents and vowed to become a mage to decipher it.
-		
-		But that passionate gallop of a young mind has devolved into the labored trot of a weary mage. The impossibilities of yesteryear are lackluster to the wizened Trueflesh.*
-		(A#Read the tome){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!9990.X2098!DESCRIPTION!}
-		(B#Lie down and rest){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!}
-		(C#Return to the Calefactory){C:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0017!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X0010!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0010!DESCRIPTION!]
 		||
-		*Walking towards his resting cabinet, he first glances over at his most prized possession: an illuminated copy of "The Art of Blindsight" by the tortured mage, Rikharr of Kabu. Upon first reading it as a child, Ormenos was utterly confused, yet mesmerized by its contents and vowed to become a mage to decipher it.
-		
-		Yet now he seems to have read it so many times that it is literally ingrained within his Trueflesh, and that passionate gallop of a young mind has devolved into the labored trot of a weary mage. The impossibilities of yesteryear are lackluster to the wizened Trueflesh.*
-		(A#Lie down and rest){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!}
-		(B#Return to the Calefactory){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0017!DESCRIPTION!}
+		*As he steps into the room, the dark glass suspended upon the wall opens like a sleepy eye, filling the room with light. This Thiudan marvel is the proof of his station as a senior among magi. All seniors of all castes receive this ancient relic as a token for their service to the Order. Ormenos need but conjure any scene from memory or imagination and upon its glassy surface will it be reflected. As a creature of habit, Ormenos tends err on the side of actuality rather than potentiality. Now, all he thinks and sees are a constant flow of waves breaking near the barnacled piers of Jer. Though he may never again go there, his thoughts often find their way home.*
+		(A#Return to the Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!}
+		(B#Go lie down){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0010!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!]
+		||
+		*Walking towards his resting cabinet, he first glances over at his most prized possession, locked away in its glassy display case. This illuminated copy of "The Art of Blindsight" by the tortured mage, Rikharr of Kabu utterly confused Ormenos in his youth, yet it spoke to him, like a long forgotten friend. As he turned that final page, he vowed to become a mage to decipher its secrets.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X00110!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!/]
+
+>>>Acquired The Art of Blindsight by Rikharr (2098)<<<
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X00110!DESCRIPTION!]
+		|^2098:ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!|		
+		*But that passionate gallop of a young mind has devolved into the labored trot of a weary, old mage - moving more from inertia than inspiration.*
+		(A#Read the tome){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!9990.X2098!DESCRIPTION!}
+		(B#Lie down and rest){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.000!DESCRIPTION!}
+		(C#Return to the Calefactory){C:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X00110!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!]
+		||
+		*Yet he seems to have read it so often that it is literally ingrained within his Trueflesh. Though the world be yet filled with mysteries, none seem to sway him anymore; new questions only seem to be the old dressed in finer clothing - and still stubbornly resisting resolution. Thus, that passionate gallop of a young mind has devolved into the labored trot of a weary, old mage - moving more from inertia than inspiration.*
+		(A#Lie down and rest){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.000!DESCRIPTION!}
+		(B#Return to the Calefactory){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00100!DESCRIPTION!]
 		||
-		*Ormenos has read this tome so many time before that he had it all but memorized already. However, he feels something preternatural consolidate the information in his mind and sear it into his falsflesh.*
+		*Ormenos opens the case, and retrieves the text. Yellowed pages, worn thin at the corners from such frequent turning have the musty cologne of an aged tome. He glances over the words he has seen so many times prior. Words join into phrases of a conversation he never had with the disgraced Rikharr, but that he desperately wishes he could have had.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00101!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00100!DESCRIPTION!/]
-
+???
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00101!DESCRIPTION!]
 		||
 		*A sense of hopelessness fills him as he feels the touch of the 'beast' Rikharr so bitterly described. For once in his life, he feels a genuine understanding of the emotions which led to the rise of the Jinnwraith and the terrible actions he took to exterminate his people. Ormenos would want to do the same, but he would lack the gall to do it.*
@@ -1443,87 +1456,93 @@ ORMENOS' CELL
 		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00105!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!]
+
+sleeps
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.000!DESCRIPTION!]
 		||
 		*Ormenos lays his head upon the pillow and closes his eyes, inhaling deeply. For if it is rest he seeks, then he has but to relax and leave the work to his tired Falseflesh.*
-		(A#Dream){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!/]
+		(A#Dream){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.001!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.000!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.001!DESCRIPTION!]
 		||
 		*Yet try as he may, rest comes not his way. Lying in bed, Ormenos quietly contemplates his history with the Wayfarer, invading her mind to steal her thoughts - and all to what end?*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0013!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.002!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.001!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0013!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.002!DESCRIPTION!]
 		||
 		*The Thought Wheel of the Beginning, if what the Thiuda believed, would propel us back into the golden era of the Vanquished. But if it were so easily found, how could Wuflias have missed it as he razed the Ataraxia to the ground? How could countless generations of magi have simply left the mastercraft of the Vanquished to be covered by the sands of Kabu?*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0014!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0013!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.003!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.002!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0014!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.003!DESCRIPTION!]
 		||
 		*If only he could go to see it for himself... Perhaps this could be the spark that would rekindle the fire of his mind...*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0015!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0014!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.004!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.003!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0015!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.004!DESCRIPTION!]
 		||
 		*But one thing is as true now as it ever was: he can do nothing from the comfort of his resting cabinet. Motionless, he cannot hope to push the boundaries of knowledge. And what right-minded person would call a mage a slothful, loaf who reposes in his cell all day?!*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0016!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0015!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.005!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.004!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0016!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.005!DESCRIPTION!]
 		||
 		*So Ormenos swiftly rises to his feet, feeling lightheaded from the sudden movement, and rushes out of his room. With purpose, the reinvigorated mage sprints into action.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!9990.X2040!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0016!DESCRIPTION!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.005!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0017!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!]
 		||
 		*Directing his feet back whence they came, Ormenos leaves the comfort of his humble cell. The light of his dark glass fading as he departs.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!9990.X2038!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0017!DESCRIPTION!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!/]
 
 
 Chose not to perform a second interrogation
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.002!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.000!DESCRIPTION!]
 		||
 		*Ormenos walks into his cell, his haven, at long last awakening ever so slightly from his deadened trance. Here he finally feels the reins of the Choir lift a little. Here he can be finally just be, no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. Just the act of existing, finally free.
 		
 		As he steps into the room, it fills with the resplendent light emitted from the glass suspended upon the wall. This object is the proof of his station as a senior among magi and all seniors of all castes receive this relic of the ancient Thiuda as a token for their service to the Order. Ormenos need but imagine any scene and upon its glassy surface will this be reflected. As a creature of habit, Ormenos tends not to let his imagination run wild and all he sees are the waves breaking near the barnacled piers of Jer.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0020!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.002!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.001!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.000!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0020!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.001!DESCRIPTION!]
 		||
 		*He walks sullenly to his bed and lies upon it. Staring at the ceiling, he shivers as his fear of the Choir comes racing to the forefront of his mind. This inescapable terror has always plagued him from the shadows of his psyche, and it is only now that he consciously recognizes it. 
 		
 		He rages against his weakness, rages against the crippling complacency with which he has conducted his affairs throughout his miserable life. He vows that someday he will break free from the curse of fear and forge his own destiny...*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0021!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0020!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.002!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.001!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0021!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.002!DESCRIPTION!]
 		||
 		*But not today. He does not have the strength of character necessary to do so... perhaps the life he has lived has been too comfortable; but perhaps only through hardship can he know true strength.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0022!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0021!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.003!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.002!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0022!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.003!DESCRIPTION!]
 		||
 		*He sleeps.*
 		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0022!DESCRIPTION!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.003!DESCRIPTION!/]
 
 
 Opened the Sylvan Refuge/Post-second interrogation
-	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.003!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.000!DESCRIPTION!]
 		||
-		*Ormenos races, breathlessly into his room. He packs his travel sack with great haste, lest he be stopped mid-flight. The Enclave is no longer a refuge, but then again, it seems it never was. The ancient demons responsible for the demise of the Thiuda had only started the project anew with the Enclave. That must be it. But Ormenos refuses to become the thrall of some ancient evil. He will leave the Enclave to find the Thought Wheel of the Beginning. He will become an unassailable entity, beyond the vicious influence of these primordial malefactors of the human race.
-		
-		And steal away he does, with only his most precious item in tow. He must run with the utmost haste, out through the gates of the Enclave and into the Forest of Deception.*
+		*Ormenos races, breathlessly into his room. He packs his travel sack with great haste, lest he be stopped mid-flight. The Enclave is no longer a refuge, but then again, it seems it never was. The ancient demons responsible for the demise of the Thiuda had only started the project anew with the Enclave. That must be it. But Ormenos refuses to become the thrall of some ancient evil. He will leave the Enclave to find the Thought Wheel of the Beginning. He will become an unassailable entity, beyond the vicious influence of these primordial malefactors of the human race.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.000!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!]
+		||
+		*And steal away he does, with only his most precious item in tow. He must run with the utmost haste, out through the gates of the Enclave and into the Forest of Deception.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.003!DESCRIPTION!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!/]
 
 
 	
