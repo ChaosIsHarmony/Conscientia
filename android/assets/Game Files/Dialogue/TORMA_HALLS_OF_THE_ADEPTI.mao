@@ -1387,20 +1387,20 @@ ORMENOS' CELL
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.001!DESCRIPTION!]
 		||
-		*A solid slab of stone disappears, unveiling the path to Ormenos' sleeping cell - his sanctuary, his only haven of absolute respite from the noisy spinning of cogs and their machinations. Here he can be finally just be - no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. True freedom.*
+		*The solid slab of stone marking Ormenos' door fades from reality, unveiling the path to his sleeping cell - his sanctuary, his only haven of absolute respite from the noisy spinning of cogs and their unending machinations. Here he can finally just be - no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. This is true freedom.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0010!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0010!DESCRIPTION!]
 		||
-		*As he steps into the room, the dark glass suspended upon the wall opens like a sleepy eye, filling the room with light. This Thiudan marvel is the proof of his station as a senior among magi. All seniors of all castes receive this ancient relic as a token for their service to the Order. Ormenos need but conjure any scene from memory or imagination and upon its glassy surface will it be reflected. As a creature of habit, Ormenos tends err on the side of actuality rather than potentiality. Now, all he thinks and sees are a constant flow of waves breaking near the barnacled piers of Jer. Though he may never again go there, his thoughts often find their way home.*
+		*As he steps into the room, the dark glass suspended upon the wall opens like a sleepy eye, filling the room with light. This Thiudan marvel is the proof of his station as a senior among magi, a token of his service to the Order. Ormenos need but conjure any scene from memory or imagination and upon its glassy surface will it be reflected. As a creature of habit, Ormenos tends err on the side of actuality rather than potentiality. The glass responds, displaying a constant flow of waves breaking near the barnacled piers of Jer. Though he may never again go there, at least his thoughts often find their way home.*
 		(A#Return to the Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!}
 		(B#Go lie down){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0010!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!]
 		||
-		*Walking towards his resting cabinet, he first glances over at his most prized possession, locked away in its glassy display case. This illuminated copy of "The Art of Blindsight" by the tortured mage, Rikharr of Kabu utterly confused Ormenos in his youth, yet it spoke to him, like a long forgotten friend. As he turned that final page, he vowed to become a mage to decipher its secrets.*
+		*Walking towards his resting cabinet, he first glances over at his most prized possession, locked away in its translucent display case. Within lies an illuminated copy of "The Art of Blindsight" by the tortured mage, Rikharr of Kabu. The tome utterly confused Ormenos in his youth, yet it spoke to him, like a long forgotten friend. As he first turned its final page, he vowed to become a mage to decipher its many mysteries.*
         (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X00110!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0011!DESCRIPTION!/]
 
@@ -1415,32 +1415,32 @@ ORMENOS' CELL
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!]
 		||
-		*Yet he seems to have read it so often that it is literally ingrained within his Trueflesh. Though the world be yet filled with mysteries, none seem to sway him anymore; new questions only seem to be the old dressed in finer clothing - and still stubbornly resisting resolution. Thus, that passionate gallop of a young mind has devolved into the labored trot of a weary, old mage - moving more from inertia than inspiration.*
+		*Yet he seems to have read it so often that it is literally ingrained within his Trueflesh. Though the world be yet filled with mysteries, none seem to sway him anymore; new questions are merely old ones dressed in finer clothing - and still stubbornly resisting resolution. Thus, that passionate gallop of a young mind has devolved into the labored trot of a weary, old mage - moving more from inertia than inspiration.*
 		(A#Lie down and rest){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.000!DESCRIPTION!}
 		(B#Return to the Calefactory){B:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0012!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00100!DESCRIPTION!]
 		||
-		*Ormenos opens the case, and retrieves the text. Yellowed pages, worn thin at the corners from such frequent turning have the musty cologne of an aged tome. He glances over the words he has seen so many times prior. Words join into phrases of a conversation he never had with the disgraced Rikharr, but that he desperately wishes he could have had.*
+		*Ormenos opens the case, and retrieves the text. Yellowed pages, worn thin at the corners from such frequent turning, have the musty cologne of an aged tome. He glances over the words he has consumed so many times prior. Words join into phrases of the conversation he never had, but always wanted to have, with the disgraced Rikharr.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00101!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00100!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00101!DESCRIPTION!]
 		||
-		*A sense of hopelessness fills him as he feels the touch of the 'beast' Rikharr so bitterly described. For once in his life, he feels a genuine understanding of the emotions which led to the rise of the Jinnwraith and the terrible actions he took to exterminate his people. Ormenos would want to do the same, but he would lack the gall to do it.*
+		*A sense of hopelessness fills him as he feels the touch of the 'beast' so bitterly described. For once in his life, he feels a genuine understanding of the emotions which led to the rise of the Jinnwraith and the terrible actions he took to exterminate his people. Ormenos would want to do the same, but believes he would lack the gall to do it.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00102!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00101!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00102!DESCRIPTION!]
 		||
-		*Now all he can do is curl up into a ball and calmly wait as he forgets this sensation.*
+		*Now all he can do is curl up, knees to chest, calmly waiting to forget this gut-wrenching sensation.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00103!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00102!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00103!DESCRIPTION!]
 		||
-		*But he cannot forget. His racing mind will not let him.*
+		*But he cannot forget. His racing mind will not allow it.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00104!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00103!DESCRIPTION!/]
 
@@ -1452,7 +1452,7 @@ ORMENOS' CELL
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00105!DESCRIPTION!]
 		||
-		*And slowly he sinks into a deep slumber.*
+		*Slowly, he sinks into a deep slumber...*
 		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.00105!DESCRIPTION!/]
 
@@ -1460,19 +1460,19 @@ ORMENOS' CELL
 sleeps
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.000!DESCRIPTION!]
 		||
-		*Ormenos lays his head upon the pillow and closes his eyes, inhaling deeply. For if it is rest he seeks, then he has but to relax and leave the work to his tired Falseflesh.*
-		(A#Dream){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.001!DESCRIPTION!}
+		*Ormenos lays his head upon the pillow, eyelids likewise falling shut. Deeply he breathes, for if it is rest he seeks, for once his weary Falseflesh should oblige.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.001!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.000!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.001!DESCRIPTION!]
 		||
-		*Yet try as he may, rest comes not his way. Lying in bed, Ormenos quietly contemplates his history with the Wayfarer, invading her mind to steal her thoughts - and all to what end?*
+		*Yet try as he may, worry wards off sleep. Lying in bed, Ormenos quietly contemplates his history with the Wayfarer, invading her mind to steal her thoughts - and all to what end?*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.002!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.001!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.002!DESCRIPTION!]
 		||
-		*The Thought Wheel of the Beginning, if what the Thiuda believed, would propel us back into the golden era of the Vanquished. But if it were so easily found, how could Wuflias have missed it as he razed the Ataraxia to the ground? How could countless generations of magi have simply left the mastercraft of the Vanquished to be covered by the sands of Kabu?*
+		*The Thought Wheel of the Beginning - if what the Thiuda believed is true - would propel all back into the golden era of the Vanquished. But if it were so easily found, how could Wuflias have missed it as he razed the Ataraxia to the ground? How could countless generations of magi have simply left the mastercraft of the Vanquished to be covered by the sands of Kabu?*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.003!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.002!DESCRIPTION!/]
 
@@ -1484,7 +1484,7 @@ sleeps
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.004!DESCRIPTION!]
 		||
-		*But one thing is as true now as it ever was: he can do nothing from the comfort of his resting cabinet. Motionless, he cannot hope to push the boundaries of knowledge. And what right-minded person would call a mage a slothful, loaf who reposes in his cell all day?!*
+		*But one thing is as true now as it ever was: he can do nothing from the comfort of his resting cabinet. Motionless, he cannot hope to push the boundaries of knowledge. And what right-minded person would call a 'mage' the indolent loaf who all day in his cell reposes?*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.005!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.004!DESCRIPTION!/]
 
@@ -1494,9 +1494,10 @@ sleeps
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!9990.X2040!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.005!DESCRIPTION!/]
 
+leaves
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!]
 		||
-		*Directing his feet back whence they came, Ormenos leaves the comfort of his humble cell. The light of his dark glass fading as he departs.*
+		*Directing his feet back whence they came, Ormenos moves to leave the comfort of his humble cell. The stone slab turns to mist, fading into fiction; the light of his dark glass likewise fades to black as he departs.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!9990.X2038!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!/]
 
@@ -1504,33 +1505,77 @@ sleeps
 Chose not to perform a second interrogation
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.000!DESCRIPTION!]
 		||
-		*Ormenos walks into his cell, his haven, at long last awakening ever so slightly from his deadened trance. Here he finally feels the reins of the Choir lift a little. Here he can be finally just be, no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. Just the act of existing, finally free.
-		
-		As he steps into the room, it fills with the resplendent light emitted from the glass suspended upon the wall. This object is the proof of his station as a senior among magi and all seniors of all castes receive this relic of the ancient Thiuda as a token for their service to the Order. Ormenos need but imagine any scene and upon its glassy surface will this be reflected. As a creature of habit, Ormenos tends not to let his imagination run wild and all he sees are the waves breaking near the barnacled piers of Jer.*
+		*The solid slab of stone marking Ormenos' door fades from reality, unveiling the path to his sleeping cell - his sanctuary, his only haven of absolute respite from the noisy spinning of cogs and their unending machinations. Here he can finally just be - no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. This is true freedom.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.001!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.000!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.001!DESCRIPTION!]
 		||
-		*He walks sullenly to his bed and lies upon it. Staring at the ceiling, he shivers as his fear of the Choir comes racing to the forefront of his mind. This inescapable terror has always plagued him from the shadows of his psyche, and it is only now that he consciously recognizes it. 
-		
-		He rages against his weakness, rages against the crippling complacency with which he has conducted his affairs throughout his miserable life. He vows that someday he will break free from the curse of fear and forge his own destiny...*
+		*As he steps into the room, the dark glass suspended upon the wall opens like a sleepy eye, filling the room with light. This Thiudan marvel is the proof of his station as a senior among magi, a token of his service to the Order. Ormenos need but conjure any scene from memory or imagination and upon its glassy surface will it be reflected. As a creature of habit, Ormenos tends err on the side of actuality rather than potentiality. The glass responds, displaying a constant flow of waves breaking near the barnacled piers of Jer. Though he may never again go there, at least his thoughts often find their way home.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.002!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.001!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.002!DESCRIPTION!]
 		||
-		*But not today. He does not have the strength of character necessary to do so... perhaps the life he has lived has been too comfortable; but perhaps only through hardship can he know true strength.*
+		*Feet shamble to the bed, whereupon the Falseflesh the lies. All action is devoid of intent, merely habit-driven. Eyes stare at the ceiling, looking but not seeing. Fear. The Choir. Terror. The Choir. Control. The Choir...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.003!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.002!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.003!DESCRIPTION!]
 		||
-		*He sleeps.*
-		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+        *The Choir...*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.004!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.003!DESCRIPTION!/]
 
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.004!DESCRIPTION!]
+		||
+        *It is the voice of the many, far more resonant than the voice of one. Their collective will made sound, their joined thought made word.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.005!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.004!DESCRIPTION!/]
 
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.005!DESCRIPTION!]
+		||
+        *Though at the edge of his thoughts he wishes it were otherwise...*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.006!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.005!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.006!DESCRIPTION!]
+		||
+		*Rage surges. Rage at the Choir. Rage at his weakness. Rage at the crippling complacency with which he has conducted his affairs throughout his miserable life.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.007!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.006!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.007!DESCRIPTION!]
+		||
+        *The rebel living at the edge of his thoughts vows that someday he will break free from the curse of fear and forge his own destiny...*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.008!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.007!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.008!DESCRIPTION!]
+		||
+		*But not today.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.009!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.008!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.009!DESCRIPTION!]
+		||
+        *No, he yet lacks the strength of character necessary to do so. Perhaps the life he lives breeds weakness; perhaps a change can teach true strength.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.010!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.009!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.010!DESCRIPTION!]
+		||
+		*Answers elude his unformed questions. Thought grows hazy, refusing to make sense.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.011!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.010!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.011!DESCRIPTION!]
+		||
+        *Sleep arrives.*
+		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.011!DESCRIPTION!/]
+
+???
 Opened the Sylvan Refuge/Post-second interrogation
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.000!DESCRIPTION!]
 		||
