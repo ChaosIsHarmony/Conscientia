@@ -599,7 +599,7 @@ UNUSED???
 [/67]
 	*THE RED TOWER
 	
-	'Emit Singbe Anew'
+	'Emit Singbe Wane'
 	cr. Eidos of the Spiral*
 	@The Red Tower@
 	$Tomes/Tome.jpg$
@@ -1244,7 +1244,22 @@ EDIT???
     Upon the warrior's blade the Dark Lord's body rested, the struggle now over, true peace finally attained. What is the beginning for one man, is likewise his end.#
 [90/]
 
-
+FLESH OUT???
+[/91]
+	*The Visitor
+	
+	'The Visitor'
+	cr. Joffris of Okum*
+	@The Visitor@
+	$Tomes/Tome.jpg$
+	#A man starts hearing a voice in his head, as though co-inhabiting his own shell. The Voice is familiar and disgruntled that the other doesn't remember.
+	
+	This man then becomes familiar with the Visitor inside his mind and tries to become familiar with him, but as time goes on the Visitor seems to lose his memory of the man whose shell he co-inhabits.
+	
+	Near the end the Visitor is confused and scared, wondering why someone is co-inhabiting his shell and the man becomes furious that the Visitor no longer remembers him.
+	
+	Then, the Visitor just vanishes.#
+[91/]
 
 
 
