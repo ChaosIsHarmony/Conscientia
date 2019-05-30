@@ -1565,7 +1565,7 @@ Chose not to perform a second interrogation
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.010!DESCRIPTION!]
 		||
-		*Answers elude his unformed questions. Thought grows hazy, refusing to make sense.*
+		*Answers elude his malformed questions... thoughts grow hazy, refusing to sense make...*
         (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.011!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.010!DESCRIPTION!/]
 
@@ -1575,19 +1575,49 @@ Chose not to perform a second interrogation
 		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.011!DESCRIPTION!/]
 
-???
+
 Opened the Sylvan Refuge/Post-second interrogation
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.000!DESCRIPTION!]
 		||
-		*Ormenos races, breathlessly into his room. He packs his travel sack with great haste, lest he be stopped mid-flight. The Enclave is no longer a refuge, but then again, it seems it never was. The ancient demons responsible for the demise of the Thiuda had only started the project anew with the Enclave. That must be it. But Ormenos refuses to become the thrall of some ancient evil. He will leave the Enclave to find the Thought Wheel of the Beginning. He will become an unassailable entity, beyond the vicious influence of these primordial malefactors of the human race.*
+		*Ormenos pounds on the solid stone slab that bars his room. Usually it dissolves immediately, granting passage; but why is it taking so long? Could they already be on to him? Could they know?*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.000!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!]
 		||
-		*And steal away he does, with only his most precious item in tow. He must run with the utmost haste, out through the gates of the Enclave and into the Forest of Deception.*
-		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
+		*Suddenly, the stone thins to mist and the distraught mage barrels on through it before it fully disappears, crashing into the dark glass hung upon his cell wall. The glass cracks under the force, and dislodges from its frame. A slip, a fall, a sparkling crackle of myriad shard going their separate ways. Ormenos stares blankly at the broken glass, tracing in reverse its descent. Half the glass remains unbroken in its frame, but the missing half reveals an amethyst weakly pulsating. Like some dreary, half-opened eye, it stares at him, scrutinizing, evaluating...*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.002!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.002!DESCRIPTION!]
+		||
+		*...watching.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.003!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.002!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.003!DESCRIPTION!]
+		||
+		*Heart pounding, breath chasing after each beat, Ormenos slowly plucks the crystal from its fixture. How long have they been monitoring him? How many eyes do they have, scattered throughout? Why him?*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.004!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.003!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.004!DESCRIPTION!]
+		||
+		*The Enclave is no longer a refuge, but then again, it may never have been. The ancient demons responsible for the demise of the Thiuda had only started the project anew with the Enclave. That must be it.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.005!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.004!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.005!DESCRIPTION!]
+		||
+		*But Ormenos refuses to become the thrall of some ancient evil. He will go beyond their sight. He will leave the Enclave, find the Thought Wheel of the Beginning, become an unassailable entity, beyond the vicious influence of these primordial malefactors.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.006!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.005!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.006!DESCRIPTION!]
+		||
+		*Hastily shoving his most precious articles and effects into a travel sack, he makes for the gates of the Enclave and the Forest of Deception beyond them.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.006!DESCRIPTION!/]
 
 
 	
@@ -1601,7 +1631,7 @@ REFECTORY
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X000!DESCRIPTION!/]
 
 
-
+???
 Virgin run
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X001!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0010!DESCRIPTION!|
