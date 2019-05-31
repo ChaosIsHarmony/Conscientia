@@ -1387,7 +1387,7 @@ ORMENOS' CELL
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.001!DESCRIPTION!]
 		||
-		*The solid slab of stone marking Ormenos' door fades from reality, unveiling the path to his sleeping cell - his sanctuary, his only haven of absolute respite from the noisy spinning of cogs and their unending machinations. Here he can finally just be - no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. This is true freedom.*
+		*The seamless stone wall marking Ormenos' door fades from reality, unveiling the path to his sleeping cell - his sanctuary, his only haven of absolute respite from the noisy spinning of cogs and their unending machinations. Here he can finally just be - no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. This is true freedom.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.0010!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.001!DESCRIPTION!/]
 
@@ -1497,7 +1497,7 @@ sleeps
 leaves
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!]
 		||
-		*Directing his feet back whence they came, Ormenos moves to leave the comfort of his humble cell. The stone slab turns to mist, fading into fiction; the light of his dark glass likewise fades to black as he departs.*
+		*Directing his feet back whence they came, Ormenos moves to leave the comfort of his humble cell. The seamless stone wall once more turns to mist, fading into fiction; in sympathy, the light of his dark glass likewise fades to black as he departs.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!9990.X2038!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.900!DESCRIPTION!/]
 
@@ -1505,7 +1505,7 @@ leaves
 Chose not to perform a second interrogation
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.000!DESCRIPTION!]
 		||
-		*The solid slab of stone marking Ormenos' door fades from reality, unveiling the path to his sleeping cell - his sanctuary, his only haven of absolute respite from the noisy spinning of cogs and their unending machinations. Here he can finally just be - no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. This is true freedom.*
+		*The seamless stone wall marking Ormenos' door fades from reality, unveiling the path to his sleeping cell - his sanctuary, his only haven of absolute respite from the noisy spinning of cogs and their unending machinations. Here he can finally just be - no pretense, no interpreting the minds of others, no complex emotional labyrinths to traverse. This is true freedom.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.001!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.000!DESCRIPTION!/]
 
@@ -1579,48 +1579,66 @@ Chose not to perform a second interrogation
 Opened the Sylvan Refuge/Post-second interrogation
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.000!DESCRIPTION!]
 		||
-		*Ormenos pounds on the solid stone slab that bars his room. Usually it dissolves immediately, granting passage; but why is it taking so long? Could they already be on to him? Could they know?*
+		*Ormenos races through the Calefactory and into the sleeping quarters, rushing towards his private cell. The familiar seamless stone wall greets him, barring passage into his room. Usually it dissolves upon sensing his arrival, but now each heartbeat seems to mark another eternity he must wait. Could they already be on to him? Could already they know?*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.000!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!]
 		||
-		*Suddenly, the stone thins to mist and the distraught mage barrels on through it before it fully disappears, crashing into the dark glass hung upon his cell wall. The glass cracks under the force, and dislodges from its frame. A slip, a fall, a sparkling crackle of myriad shard going their separate ways. Ormenos stares blankly at the broken glass, tracing in reverse its descent. Half the glass remains unbroken in its frame, but the missing half reveals an amethyst weakly pulsating. Like some dreary, half-opened eye, it stares at him, scrutinizing, evaluating...*
+		*Hope dilutes his panic as the stone thins to mist forming a door. The distraught mage barrels on through it before it fully disappears. He stumbles in the lightless cell, crashing into the dark glass hung upon the wall. The glass cracks under the force, partially dislodging from its frame. A slip, a fall, a sparkling crackle of myriad shards going their separate ways. A light now glows dimly, drowning in the murky cell.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.002!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.001!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.002!DESCRIPTION!]
 		||
-		*...watching.*
+        *Ormenos stares blankly at the violet reflections caught in the shattered fragments, tracing in reverse their destructive descent. Those thousands of dark eyes stare skyward, gazing enviously at their other half yet hanging mostly unbroken in its frame - the frame they all once shared. The half remaining attempts to conceal what the missing half reveals...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.003!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.002!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.003!DESCRIPTION!]
 		||
-		*Heart pounding, breath chasing after each beat, Ormenos slowly plucks the crystal from its fixture. How long have they been monitoring him? How many eyes do they have, scattered throughout? Why him?*
+        *A weakly pulsating amethyst glares at him; like some dreary, half-opened eye, it stares, scrutinizing, evaluating...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.004!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.003!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.004!DESCRIPTION!]
 		||
-		*The Enclave is no longer a refuge, but then again, it may never have been. The ancient demons responsible for the demise of the Thiuda had only started the project anew with the Enclave. That must be it.*
+		*...watching.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.005!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.004!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.005!DESCRIPTION!]
 		||
-		*But Ormenos refuses to become the thrall of some ancient evil. He will go beyond their sight. He will leave the Enclave, find the Thought Wheel of the Beginning, become an unassailable entity, beyond the vicious influence of these primordial malefactors.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.006!DESCRIPTION!}
+		*Heart pounding, breath desperately chasing after each beat, Ormenos slowly plucks the crystal from its fixture, robbing them of sight. How long have they been monitoring him? How many eyes do they have scattered about?*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.006!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.005!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.006!DESCRIPTION!]
 		||
-		*Hastily shoving his most precious articles and effects into a travel sack, he makes for the gates of the Enclave and the Forest of Deception beyond them.*
-		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
+        *Why him?*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.007!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.006!DESCRIPTION!/]
 
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.007!DESCRIPTION!]
+		||
+		*The Enclave is not the refuge he once believed it to be. The ancient demons responsible for the demise of the Thiuda had only started the project anew with the Enclave. That must be it.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.008!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.007!DESCRIPTION!/]
 
-	
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.008!DESCRIPTION!]
+		||
+		*But Ormenos refuses to become the thrall of some ancient evil. He will go beyond their sight. He will leave the Enclave, find the Thought Wheel of the Beginning, become an unassailable entity! He will transcend - ascend! - beyond the vicious influence of these primordial malefactors.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.009!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.008!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.009!DESCRIPTION!]
+		||
+		*Hastily shoving his most precious articles and effects into a travel sack, he makes for the gates of the Enclave and the Forest of Deception they lead to.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!3.009!DESCRIPTION!/]
+
+
+
 
 ________________________________________________________________________
 REFECTORY
@@ -1631,36 +1649,56 @@ REFECTORY
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X000!DESCRIPTION!/]
 
 
-???
+
 Virgin run
-	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X001!DESCRIPTION!]
+	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!DESCRIPTION!]
+		||
+		*Steam permeates the air, carrying within the heavy scent of pepper, garlic, and other spices both subtle and overt. The sizzling, glistening meats and pan-fried vegetables open drool's floodgates. A stomach growls loudly. His. Had it really been so long since his last meal? He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic thoughts.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!]
+		||
+		*As his eyes scan the room, he notices one of the few magi who specializes in something other than Techne - more of an honorary mage, perhaps. Cook Ding is unique among their Order, for his mind is unlike the others. Little is known of his history, as his mind is inscrutable through magesight, a characteristic the Kaban magi of the Enclave know all too well. Unseen, they call it.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X00101!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X00101!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0010!DESCRIPTION!|
-		*Steam permeates the air, carrying upon it the heavy scent of pepper and garlic. The glistening surfaces of the roasted meats and the sizzling of the pan-fried vegetable opens the floodgates of drool pooling within Ormenos' mouth. Though he yet maintains a semblance of composure as he searches for an empty seat - a challenge perhaps even greater than deciphering the mind of the Wayfarer. For the last, unshakable, vice of the disciplined magi of the Enclave appears to be gluttonous feasting.
-		
-		As his eyes scan the room, he notices one of the few magi who specializes in something other than Techne: Cook Ding. His mind is unlike the others of the Order and one might hesitate to even call him a mage were it not for his extraordinary skill as a butcher. Little is known of his history, as his mind is inscrutable through mindsight, a characteristic the Kaban magi of the Enclave know all too well.
-		
-		Ormenos sees no available seats, so he conisders whether or not he should talk to Cook Ding to pass the time until a seat frees itself up, or simply leave and ignore the rumbling in his stomach.*
+        *Ormenos' survey has revealed no available seats, and so he conisders whether to talk to Cook Ding to pass the time, or simply to leave and ignore his stomach's complaints.*
 		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!}
 		(B#Talk to the Cook){B:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!9999.X1208!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X001!DESCRIPTION!/]
+	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X00101!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0010!DESCRIPTION!]
 		||
-		*Cook Ding goes happily back to his work and Ormenos walks over to occupy the newly vacated seat at the table. An uncontrollable urge to gorge wells up within him as he piles onto his plate fine cuts of meat, steamed victuals, fragant vegetables and anything he can get his hands on.*
+		*With a smile and a nod, Cook Ding happily returns to his work. Spotting the newly vacated seat, Ormenos moves to occupy it. An uncontrollable urge to gorge wells up within him as he loads his plate with fine cuts of meat, steamed vegetables and anything he can get his hands on, dousing it all in dozens of sauces.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0011!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0010!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0011!DESCRIPTION!]
 		||
-		*Then, the debauchery begins. Ormenos gorges along with all his other nameless, pig brethren. They are all lost in this decadent moment of carnal indulgence. Hand to mouth, hand to mouth, they perform their rhythmic dance. Juices stream down their jowls as they shovel and chew, shovel and chew. A diminutive cloudstone busily delivers more dishes and wines for them to quench their voracious appetites with.*
+		*Then, the debauchery begins.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0012!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0011!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0012!DESCRIPTION!]
 		||
-		*Yet, all this is fleeting, as is any desire of the flesh; and once sated - or at least once his belly is filled to bursting - Ormenos rises from his seat and departs. As he clumisly walks away in a half-comatose state, he wonders why it is only in the Refectory that the path of Discipline is abandoned, whereas it is upheld with such rigor elsewhere. Perhaps it is that a string wound too tightly is prone to snapping. Or perhaps the Choir merely uses this indulgence as another means of subjugation. At any rate, he no longer cares as the blood from his brain transfers to his gut in order to better cope with the mess he has created down there...*
-		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!DESCRIPTION!}
+        *Ormenos feeds along with all his other nameless, pig brethren. They are all lost in this decadent moment of carnal indulgence. Hand to food, and food to mouth, they perform their rhythmic dance. Juices stream down their jowls as they shovel and chew, shovel and chew. Diminutive cloudstones busily deliver more dishes and wines for them to quench their voracious appetites.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0013!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0012!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0013!DESCRIPTION!]
+		||
+		*Bellies fill faster than desire can diminish; stomachs stretch beyond comfort; and a choral flatulence indicates many among them have more than surpassed their natural limits. But even desire soon dissipates when faced with this much excess. It mutates, now spiced with shame and regret, balanced by the knowledge they have all transgressed together - a crime in company is far more palatable than a solitary affair.*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0014!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0013!DESCRIPTION!/]
+
+	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0014!DESCRIPTION!]
+		||
+        *Ormenos rises from his seat, ready to depart. He stumbles away from the table, half-comatose, wondering why those of the Order only abandon the path of Disciplince when in the Refectory - especially when it is elsewhere enforced with utmost severity. The Phrygian wisemen once said that a string wound too tightly is prone to snapping. An adequate explanation? At any rate, he no longer cares, for the blood from his brain now quietly transfers to his gut in order to better cope with the mess he has created down there...*
+		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0014!DESCRIPTION!/]
 
 
 
@@ -1671,7 +1709,7 @@ Virgin run
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!DESCRIPTION!/]
 
 
-
+???
 Met Cook Ding
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X002!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!|
