@@ -1341,9 +1341,15 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.020!DESCRIPTION!]
 		||
-		*Eidos focuses her thoughts inward. Thoughts? These are new to her. She remembers... nothing. No memories. Not even hints of memories. She has nothing. She is as though newly birthed from the ether.*
-		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
+		*Eidos focuses her thoughts inward. Thoughts? These are new to her. She remembers... nothing. No memories. Not even hints of memories. She has nothing - or near nothing, rather, for now thoughts and the words to describe them come conjured up from from depths unfathomed.*
+		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.021!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.020!DESCRIPTION!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.021!DESCRIPTION!]
+		||	
+		*Thoughts and words, unforgotten, unremembered, simply another part of her, like limbs and digits, another tool at her disposal. Though she is newly birthed from the ether, she comes fully-formed from her womb.*
+		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!00.021!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.040!DESCRIPTION!]
 		||

@@ -40,9 +40,9 @@ ARBORETUM
 
 	[/KABU!DAZIR!ARBORETUM!0.X901!DESCRIPTION!]
 		|@:KABU!DAZIR!ARBORETUM!0.903!DESCRIPTION!|
-		*And finally Eidos sees that she is not alone. Staring wide-eyed at her is an aged woman still as a statue. She leans upon a wooden cane, the gnarls and knots of which mirror her twisted frame.
+		*And finally Eidos sees that she is not alone. Staring wide-eyed at her is a leathery crone, still as a statue. The old woman leans upon a wooden cane, its gnarls and knots mirroring her age-worn frame.
 		
-		With a start, the ancient matron shakes herself clear of her self-imposed petrification. And with a surprising quickness in her step, she scuttles briskly forward.*
+		With a start, the she shakes clear her self-imposed petrification, and with a surprising quickness in her step, scuttles briskly forward.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!9999.X0068!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!0.X901!DESCRIPTION!/]
 
@@ -66,13 +66,13 @@ ARBORETUM
 
 	[/KABU!DAZIR!ARBORETUM!0.9032!DESCRIPTION!]
 		||
-		*Absolute and inviolable.*
+		*The ancient matron whimpers soundlessly, as though forgetting how to properly squeal, and discomfort adds even more folds into her already generously creased brow. The man simply snarls, disgust tugging one side of his upper lip toward his beak. The other lines of his face seem to sketch out derisive dismissal and profound displeasure.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!0.X9033!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!0.9032!DESCRIPTION!/]
 
 	[/KABU!DAZIR!ARBORETUM!0.X9033!DESCRIPTION!]
 		|@:KABU!DAZIR!ARBORETUM!0.X905!DESCRIPTION!|
-		*Without warning, the click of the man's boots upon the stone floor cracks open the that tense silence. He has renewed his advance towards Eidos' position, nose high, gait steady, exuding an unearned and unstable projection of confidence.*
+		*Without warning, the click of the man's boots upon the stone floor cracks open the tense silence. He has renewed his advance towards Eidos, aquiline nose skyward, gait steady, exuding an unearned and unstable projection of confidence.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!9990.X10100!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!0.X9033!DESCRIPTION!/]
 
