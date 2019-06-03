@@ -1653,13 +1653,13 @@ REFECTORY
 Virgin run
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!DESCRIPTION!]
 		||
-		*Steam permeates the air, carrying within the heavy scent of pepper, garlic, and other spices both subtle and overt. The sizzling, glistening meats and pan-fried vegetables open drool's floodgates. A stomach growls loudly. His. Had it really been so long since his last meal? He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic thoughts.*
+		*Steam permeates the air, carrying within the heavy scent of pepper, garlic, and other spices both subtle and overt. The sizzling, glistening meats and pan-fried vegetables open drool's floodgates. A stomach growls loudly. Ormenos'. Had it really been so long since his last meal?*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!]
 		||
-		*As his eyes scan the room, he notices one of the few magi who specializes in something other than Techne - more of an honorary mage, perhaps. Cook Ding is unique among their Order, for his mind is unlike the others. Little is known of his history, as his mind is inscrutable through magesight, a characteristic the Kaban magi of the Enclave know all too well. Unseen, they call it.*
+		*He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose backstory defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X00101!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!/]
 
@@ -1709,36 +1709,28 @@ Virgin run
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!DESCRIPTION!/]
 
 
-???
+
 Met Cook Ding
-	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X002!DESCRIPTION!]
-		|@:ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!|
-		*Steam permeates the air, carrying upon it the heavy scent of pepper and garlic. The glistening surfaces of the roasted meats and the sizzling of the pan-fried vegetable opens the floodgates of drool pooling within Ormenos' mouth. Though he yet maintains a semblance of composure as he searches for an empty seat - a challenge perhaps even greater than deciphering the mind of the Wayfarer. For the last, unshakable, vice of the disciplined magi of the Enclave appears to be gluttonous feasting.
-		
-		As his eyes scan the room, he notices one of the few magi who specializes in something other than Techne: Cook Ding. His mind is unlike the others of the Order and one might hesitate to even call him a mage were it not for his extraordinary skill as a butcher. Little is known of his history, as his mind is inscrutable through mindsight, a characteristic the Kaban magi of the Enclave know all too well.
-		
-		Ormenos sees an available seat and is about to sit when Cook Ding greets him.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!9999.X1208!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X002!DESCRIPTION!/]
+	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.002!DESCRIPTION!]
+		||
+        *Steam permeates the air, carrying within the heavy scent of pepper, garlic, and other spices both subtle and overt. The sizzling, glistening meats and pan-fried vegetables open drool's floodgates. A stomach growls loudly. Ormenos'. Had it really been so long since his last meal?*
+        (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.002!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!]
 		||
-		*Cook Ding simply smiles and returns happily to his work. Ormenos then walks over to the table and an uncontrollable urge to gorge wells up within him. He piles onto his plate fine cuts of meat, steamed victuals, fragant vegetables and anything he can get his hands on.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0021!DESCRIPTION!}
+        *He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose backstory defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X0021!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0021!DESCRIPTION!]
-		||
-		*Then, the debauchery begins. Ormenos gorges along with all his other nameless, pig brethren. They are all lost in this decadent moment of carnal indulgence. Hand to mouth, hand to mouth, they perform their rhythmic dance. Juices stream down their jowls as they shovel and chew, shovel and chew. A diminutive cloudstone busily delivers more dishes and wines for them to quench their voracious appetites with.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0022!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0021!DESCRIPTION!/]
+	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X0021!DESCRIPTION!]
+		|@:ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0010!DESCRIPTION!|
+        *Ormenos' survey has revealed no available seats, and so he conisders whether to talk to Cook Ding to pass the time, or simply to leave and ignore his stomach's complaints.*
+		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!}
+		(B#Talk to the Cook){B:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!9999.X1208!DESCRIPTION!}
+	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X0021!DESCRIPTION!/]
 
-	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0022!DESCRIPTION!]
-		||
-		*Yet, all this is fleeting, as is any desire of the flesh; and once sated - or at least once his belly is filled to bursting - Ormenos rises from his seat and departs. As he clumisly walks away in a half-comatose state, he wonders why it is only in the Refectory that the path of Discipline is abandoned, whereas it is upheld with such rigor elsewhere. Perhaps it is that a string wound too tightly is prone to snapping. Or perhaps the Choir merely uses this indulgence as another means of subjugation. At any rate, he no longer cares as the blood from his brain transfers to his gut in order to better cope with the mess he has created down there...*
-		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!DESCRIPTION!}
-	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0022!DESCRIPTION!/]
-
+???
 met cook ding + two events
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.003!DESCRIPTION!]
 		||
@@ -1757,13 +1749,13 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!COOK DING!]
 		||
-		*"Wull, Brother Chiwanle seems to jus' did finish!"*
+		*"Wull, I'd lo'e ta speak with ya, bu' Sister Chiwanle seems ta jus' did finish!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X002!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X002!COOK DING!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.000!COOK DING!|
-		*"So ya grab tha' sea' o'er there!"*
+		*"So go on now! Ya grab tha' sea' o'er there, won' ya!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!9990.X2026!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X002!COOK DING!/]
 
@@ -1818,7 +1810,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.011!COOK DING!]
 		||
-		*"Wull, alrigh'! Lemme star' frem the beginnin'!"*
+		*"Wull, alrigh'! Lemme star' frem the beginnin' then!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0110!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.011!COOK DING!/]
 
@@ -1830,26 +1822,26 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01100!COOK DING!]
 		||
-		*"Ma mind was changed to the Unseen mind! And into the was'es they exiled me!"*
+		*"Ma mind was changed ta the Unseen mind! And inta the was'es they exil'd me!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01101!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01100!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01101!COOK DING!]
 		||
-		*"Bu' see, the thin' is I go' pushed into the blackness of the Pi', tha' I did, where the draugs sough' to suck ou' ma Trueflesh!"*
+		*"Bu' see, the thin' is I go' pushed inta the blackness of the Pi', tha' I did, where the draugs sough' ta suck ou' ma Trueflesh!"*
 		(A#"..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01102!COOK DING!}
 		(E#"Enough! I've heard enough!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01101!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01102!COOK DING!]
 		||
-		*"Biracul, then came to me in visi'n!"*
+		*"Biracul, then came ta me in visi'n!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01103!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01102!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01103!COOK DING!]
 		||
-		*"He said to me, he said..."*
+		*"He said ta me, he said..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01104!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01103!COOK DING!/]
 
@@ -1881,13 +1873,13 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01108!COOK DING!]
 		||
-		*"Walk'ed some."*
+		*"Walk'd some."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01109!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01108!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01109!COOK DING!]
 		||
-		*"Then rode with a caravan, who sold me as a sla'e to a ship cap'n, bu' he done died frem the chocola'e sq'irters, ya see."*
+		*"Then rode with a caravan, who sold me as a sla'e ta a Jeran ship cap'n, bu' he done died frem the chocola'e sq'irters, ya see."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01110!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01109!COOK DING!/]
 
@@ -1905,14 +1897,14 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01112!COOK DING!]
 		||
-		*"So, I star' yellin' fer someone to come ge' me."*
+		*"So, I star' yellin' fer someone ta come ge' me."*
 		(A#"..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01113!COOK DING!}
 		(E#"Yes, someone take this idiot away!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01112!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01113!COOK DING!]
 		||
-		*"And they came, lookin' like they had seen seen ol' Famlaz himself when they were lookin' a' me!"*
+		*"And they came, lookin' like they had seen seen ol' Famlaz himself as they were look'd ma way!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01114!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01113!COOK DING!/]
 
@@ -1924,14 +1916,14 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01115!COOK DING!]
 		||
-		*"Bu' I didn' know where to go..."*
+		*"Bu' I didn' know where ta go..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01116!COOK DING!}
 		(E#"Anywhere! Just shut up and go away!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01115!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01116!COOK DING!]
 		||
-		*"So I walk'ed through a fores' and came upon a lovely buildin'."*
+		*"So I walk'd through a fores' and came upon a lovely buildin'."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01117!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01116!COOK DING!/]
 
@@ -1943,7 +1935,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01118!COOK DING!]
 		||
-		*"Then I woke up in yer q'estionin' room."*
+		*"Then I woke up in yer q'estinin' room, where ya ask'd me all sor' a q'estins."*
 		(A#"..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01119!COOK DING!}
 		(E#"Are you finally done babbling, you lack-wit?"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01118!COOK DING!/]
@@ -1964,13 +1956,13 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01400!COOK DING!]
 		||
-		*"Ya see, this here knife been with me since I was firs' pu' in the ki'chen to work!"*
+		*"Ya see, this here knife been with me since I was firs' pu' in the ki'chen ta work!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01401!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01400!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01401!COOK DING!]
 		||
-		*"Ne'er did ha'e to sharpen i' again!"*
+		*"Ne'er did ha'e need ta sharpen i' again!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01402!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01401!COOK DING!/]
 
@@ -1988,7 +1980,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01404!COOK DING!]
 		||
-		*"Me, wull, I slice through the tendons and sinew, through them spaces 'tween the bones, too!"*
+		*"Me, wull, I slice through the tendons and sinew, through them spaces 'tween the bones!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014040!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01404!COOK DING!/]
 
@@ -2016,49 +2008,49 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014140!COOK DING!]
 		||
-		*"I'm jus' abou' as happy as a draug with a Jinnwraith! Thank ya, Brother!"*
+		*"I'm jus' abou' as happy as a Suyu'i with a goa'! Thank ya, Brother!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014140!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0142!COOK DING!]
 		||
-		*"Oh, wull, ya see, back where I was bern, there was a creature e'en too foul fer the slums!"*
+		*"Oh, wull, ya see, back where I was bern, there was a creature e'en so foul fer the slums!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01420!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0142!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01420!COOK DING!]
 		||
-		*"We tried to trea' him kind and such by gi'ing him free food, 'cause he was too draug-brained to e'en clean the sewers, ya know?"*
+		*"We tried to trea' him kind and such by gi'ing him free food, 'cause he was too draug-brained ta e'en clean the sewers, ya know?"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01420!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!]
 		||
-		*"Bu' tha' basterd would try to score our gif's to him and demand more fer him to raise the Jinn-cursed score!"*
+		*"Bu' tha' basterd would try to score our gif's ta him and demand more fer him ta raise the Jinn-cursed score!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01422!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01422!COOK DING!]
 		||
-		*"He was a brain shor' o' bein' a half-wi', if ya ask me!"*
+		*"He was one brain shor' o' bein' a half-wi', if ya ask me!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01423!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01422!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01423!COOK DING!]
 		||
-		*"Soon enough, he was caugh' try to do unq'estionable thin's with the li'estock and go' exiled into the was'es."*
+		*"Soon enough, he was caugh' tryin' ta do unq'esti'nable thin's with the li'estock and go' exil'd inta the was'es."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01424!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01423!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01424!COOK DING!]
 		||
-		*"Bu' enough abou' the goa' fella'er! Ge'cha on down to a seat and star' to grub, Brother!"*
+		*"Bu' enough abou' the goa' fella'er! Ge'cha on down ta a seat and star' grubbin', Brother!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01424!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.016!COOK DING!]
 		||
-		*"...Ooooh! I ge' i'! Yer the Inq'isitor, so ya be the one askin' the q'estions! Tha's a good one, Brother!"*
+		*"...Ooooh! I ge' i'! Yer the Inq'isitor, so ya be the one askin' the q'esti'ns! Tha's a good one, Brother!"*
 		(F#"Yes... NOW TELL ME WHERE YOU'RE HIDING IT!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.026!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.016!COOK DING!/]
 
@@ -2071,19 +2063,19 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0220!COOK DING!]
 		||
-		*"When yer bern in the slums, ya don' ge' the same learnin' o' the upper tiers and in fac', we don' end up talkin' much to them neither."*
+		*"When yer bern in the slums, ya don' ge' the same learnin' o' the upper tiers and in fac', we don' end up talkin' much ta them neither."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0221!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0220!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0221!COOK DING!]
 		||
-		*"So, i' stands to reason our way o' speakin' would be differen' in the sligh'es'."*
+		*"So, i' stands ta reason our way o' speakin' would be differen' in the sligh'es'."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0222!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0221!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0222!COOK DING!]
 		||
-		*"Bu' enough on tha'! I should ge' back to slicin' and ya should ge' back to grubbin'!"*
+		*"Bu' enough on tha'! I should ge' back ta slicin' and ya should ge' back ta grubbin'!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0222!COOK DING!/]
 
@@ -2107,7 +2099,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.056!COOK DING!]
 		||
-		*"Aye! The flames o' the ki'chen be migh'y ho'!"*
+		*"Aye! The flames o' the ki'chen be ablazin'!"*
 		(F#"Oh? But remember: revenge is a dish best served cold..."){F:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.066!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.056!COOK DING!/]
 
