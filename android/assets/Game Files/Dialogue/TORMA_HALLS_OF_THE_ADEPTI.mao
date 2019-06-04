@@ -1947,7 +1947,7 @@ COOK DING
 		*"Tha' refresh yer mem'ry, Brother?"*
 		(A#"Yes... uh... Thank you."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01119!COOK DING!/]
-???
+
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014!COOK DING!]
 		||
 		*"Oh! Bu' 'tis no' the sharpness o' the knife tha' makes the slicin' smooth!"*
@@ -1976,7 +1976,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01403!COOK DING!]
 		||
-		*"Ya see, when I slice through them Suyu'i goa's ya be eatin', I don' hack a' the bone like them other cooks."*
+		*"Ya see, when I slice through them Suyu'i goa's ya be grubbin' on, I don' hack a' the bone like them other cooks."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01404!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01403!COOK DING!/]
 
@@ -1988,11 +1988,11 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014040!COOK DING!]
 		||
-		*"Obstacles ain' obstacles a' all when ya don' le' 'em ge' in yer way! Ain' tha' the truth?!"*
+		*"Obstacles ain' obstacles a' all when ya don' le' 'em ge' in yer way! Ain' tha' the truth!"*
 		(A#"Look, Brother, I apologize for my sarcasm earlier."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01411!COOK DING!}
 		(B#"Wait... what are 'Suyuti' goats?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0142!COOK DING!}
-		(C#"Yeah, but hey, maybe I should go eat..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
-		(D#"There is indeed, some wisdom in your words; I will remember them."){D:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01414!COOK DING!}
+		(C#"Sure thing, but hey, maybe I should go eat..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
+		(D#"There is indeed, some wisdom in your words; I'll remember them."){D:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01414!COOK DING!}
 		(E#"I wish someone would take a knife to your throat."){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014040!COOK DING!/]
 
@@ -2004,19 +2004,19 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01414!COOK DING!]
 		||
-		*"Wull, I'll be a son o' a Jinn! Impress'ed the Senior Though'-Wea'er himself, did I!"*
+		*"Wull, I'll be a son o' a Jinn! Impress'd the Senior Though'-Wea'er himself, did I!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014140!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01414!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014140!COOK DING!]
 		||
-		*"I'm jus' abou' as happy as a Suyu'i with a goa'! Thank ya, Brother!"*
+		*"I'm jus' abou' as happy as a Suyu'i with a new goa'! Thank ya, Brother!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014140!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0142!COOK DING!]
 		||
-		*"Oh, wull, ya see, back where I was bern, there was a creature e'en so foul fer the slums!"*
+		*"Oh, wull, ya see, back where I was bern, there was a creature e'en ta foul fer the slums!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01420!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0142!COOK DING!/]
 
@@ -2028,7 +2028,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!]
 		||
-		*"Bu' tha' basterd would try to score our gif's ta him and demand more fer him ta raise the Jinn-cursed score!"*
+		*"Bu' tha' basterd would try ta score our gif's ta him and demand more fer him ta raise the Jinn-cursed score!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01422!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!/]
 
@@ -2046,7 +2046,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01424!COOK DING!]
 		||
-		*"Bu' enough abou' the goa' fella'er! Ge'cha on down ta a seat and star' grubbin', Brother!"*
+		*"Bu' enough abou' the goa' fella'er! Ge'cha on down ta a sea' and star' grubbin', Brother!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01424!COOK DING!/]
 
@@ -2065,7 +2065,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0220!COOK DING!]
 		||
-		*"When yer bern in the slums, ya don' ge' the same learnin' o' the upper tiers and in fac', we don' end up talkin' much ta them neither."*
+		*"When yer bern in the slums, ya don' ge' the same learnin' o' the upper tiers... In fac', we don' end up talkin' much ta them neither."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0221!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0220!COOK DING!/]
 
@@ -2077,7 +2077,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0222!COOK DING!]
 		||
-		*"Bu' enough on tha'! I should ge' back ta slicin' and ya should ge' back ta grubbin'!"*
+		*"Bu' enough on tha'! I should ge' back ta slicin' and ya should ge' ta grubbin'!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0222!COOK DING!/]
 
@@ -2089,7 +2089,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.036!COOK DING!]
 		||
-		*"Oh... Tha'..."*
+		*"Oh... Tha'... Wull, I'm under oath ta keep i' frem others eyes!"*
 		(F#"...Wait, what?! You actually have a tome called the Llama Sutra?!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.046!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.036!COOK DING!/]
 
@@ -2107,8 +2107,8 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.066!COOK DING!]
 		||
-		*"AGHAHAHA! Tha' I'll be rembrin' ma brother; tha' I'll be rembrin'!"*
-		(F#"TALLY HO!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
+		*"AHAHAHA! Tha' I'll be rembrin' ma brother; tha' I'll be rembrin'!"*
+		(F#"TALLY HO!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0222!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.066!COOK DING!/]
 
 

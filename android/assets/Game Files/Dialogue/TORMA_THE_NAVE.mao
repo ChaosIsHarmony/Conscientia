@@ -605,7 +605,7 @@ Went directly to the Nave
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00110!DESCRIPTION!]
 		||
 		*Not wishing to stay a moment longer in this crowded cage, Ormenos inches his way towards the now open doors and away from the cluster of overly curious magi. The yoke of subjugation to the Choir's will placed firmly upon his shoulders, Ormenos falls into a dream-like state where he shifts his feet, as of habit, to the rhythm of the Choir's hypnotic orders... He was commanded to relax, to enjoy a well-deserved rest, and thus the choice is clear: he is to travel to his room, without interruption and without hesitation.*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.002!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!2.000!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00110!DESCRIPTION!/]
 	
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0012!DESCRIPTION!]
