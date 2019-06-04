@@ -471,6 +471,7 @@ sanctuary
 |12419:false, Destroyed crystal in Antechamber after Tac Inv activated
 |12420:false, Absorbed Torma I (per)
 |12421:false, Destroyed Torma I crystal
+|12422:false, Seen murals on indigo door
 |12900:false, Met Fenrir
 |12999:false, Killed by Sentry
 

@@ -1730,11 +1730,13 @@ Met Cook Ding
 		(B#Talk to the Cook){B:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!9999.X1208!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X0021!DESCRIPTION!/]
 
-???
+
 met cook ding + two events
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.003!DESCRIPTION!]
 		||
-		*A contingent of younger acolytes greet Ormenos' sight as they sweep, mop and otherwise clean the filth left by the ravenous magi. The mixed scent of oils and spices lingers in the air, bringing a slight welling of drool in Ormenos' mouth. Yet, all a hungry mage can do is satsify themselves with imagining the delights that will appear in the Refectory tomorrow; for the feasts are over as night descends upon the Enclave.*
+		*A contingent of younger acolytes greet Ormenos' sight as they sweep, mop, and otherwise clean the filth left by ravenous magi throughout the day. The mixed scent of oils and spices lingers in the air, bringing a slight welling of drool to Ormenos' mouth.
+
+        Yet, all a hungry mage can do now is sate himself with the memories of delights once tasted; for the feasts are over as night descends upon the Enclave.*
 		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.003!DESCRIPTION!/]
 
@@ -1743,13 +1745,13 @@ met cook ding + two events
 COOK DING
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.000!COOK DING!]
 		||
-		*"Hullo there, Brother! yer fixin' fer meal, ain' ya?"*
+		*"Hullo there, Brother! Yer fixin' fer a meal, ain' ya?"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.000!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!COOK DING!]
 		||
-		*"Wull, I'd lo'e ta speak with ya, bu' Sister Chiwanle seems ta jus' did finish!"*
+		*"Wull, I'd lo'e ta speak with ya, bu' Sister Chiwanle seems ta ha'e jus' finish'd!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X002!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.001!COOK DING!/]
 
@@ -1762,7 +1764,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.000!COOK DING!]
 		||
-		*"Yar back then, are ya, Brother Inq'isitor?"*
+		*"Biracul's Beard! Yer back then, are ya, Brother Inq'isitor?"*
 		(A#"Indeed, Brother! I was curious about how you joined our Order."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.001!COOK DING!}
 		(B#"Why do you speak like that?"){B:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.002!COOK DING!}
 		(C#"That I am..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
@@ -1775,7 +1777,7 @@ COOK DING
 		||
 		*"Ya havin' trouble rembrin'? Yer the one who q'estioned me when I go' here!"*
 		(A#"True, but I could use a refresher."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.011!COOK DING!}
-		(B#"I have no recollection of it."){B:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.011!COOK DING!}
+		(B#"I have no recollection of that."){B:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.011!COOK DING!}
 		(E#"I ask the questions here!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.001!COOK DING!/]
 
@@ -1783,7 +1785,7 @@ COOK DING
 		||
 		*"Wull, I s'pose 'tis 'cause I come frem Kabu!"*
 		(A#"Why did you end up coming to the Enclave?"){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.001!COOK DING!}
-		(B#"Other brothers and sisters from Kabu don't share your speech..."){B:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.022!COOK DING!}
+		(B#"But, other magi from Kabu don't share your 'singular' speech..."){B:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.022!COOK DING!}
 		(C#"I see..."){C:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.002!COOK DING!/]
 
@@ -1803,7 +1805,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.006!COOK DING!]
 		||
-		*"The Inq'isitor game? Wha' ya be talkin' abou', Brother Inq'istor?!"*
+		*"The Inq'isitor game? Wha' ya be talkin' abou' there, Brother Inq'istor?!"*
 		(F#"I ASK THE QUESTIONS HERE!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.016!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.006!COOK DING!/]
 
@@ -1816,7 +1818,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0110!COOK DING!]
 		||
-		*"Ya see, the Shinin' One works in mysterious ways, so ma story begins in Kabu with ma punishmen' fer a crime I didn' e'en do!"*
+		*"Ya see, the Shinin' One works in mysterious ways, so ma tale begins in Kabu with a punishmen' fer a crime I didn' e'en do!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01100!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0110!COOK DING!/]
 
@@ -1847,7 +1849,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01104!COOK DING!]
 		||
-		*"'RUN, YA JINN CURSED FOOL!'"*
+		*"'RUN, YA JINN-CURSED FOOL!'"*
 		(A#"..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01105!COOK DING!}
 		(E#"Okay, just shut up! Please!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01104!COOK DING!/]
@@ -1866,45 +1868,45 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01107!COOK DING!]
 		||
-		*"Wull, ya see, I go' los'!"*
+		*"Wull, ya see, I los' ma way! So much easier when ya go' the Moon Tower to guide ya..."*
 		(A#"..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01108!COOK DING!}
 		(E#"I can't take it anymore! Stop talking!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01107!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01108!COOK DING!]
 		||
-		*"Walk'd some."*
+		*"Bu' in any case, I walk'd some, down ta some sal' fla's."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01109!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01108!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01109!COOK DING!]
 		||
-		*"Then rode with a caravan, who sold me as a sla'e ta a Jeran ship cap'n, bu' he done died frem the chocola'e sq'irters, ya see."*
+		*"Then rode with a caravan, thems sold me as a sla'e ta a Jeran ship cap'n down in Zemes, bu' tha' cap'n, he done died frem the muddy breeches illness, ya see."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01110!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01109!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01110!COOK DING!]
 		||
-		*"So, I go' off tha' ship in Jer, where some looney Jinn worshippers caugh' me and took me to see a Wyrm!"*
+		*"So, I go' off tha' ship in Jer, where some looney Jinn worshippers caugh' me and took me to see a... a Wyrm, they call'd i'!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01111!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01110!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01111!COOK DING!]
 		||
-		*"Bu' 'twas abou' as real as the Sylvan Architec', I suspec'! 'Cause I jus' lied there in tha' weird room awai'in' fer somethin', bu' nothin' happened!"*
+		*"Bu' 'twas abou' as real as the Sylvan Architec', I suspec'! 'Cause I jus' lied there in tha' weird room awai'in' fer somethin', bu' nothin' happen'd!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01112!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01111!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01112!COOK DING!]
 		||
-		*"So, I star' yellin' fer someone ta come ge' me."*
+		*"So, I star'd yellin' fer someone ta come ge' me."*
 		(A#"..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01113!COOK DING!}
 		(E#"Yes, someone take this idiot away!"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01112!COOK DING!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01113!COOK DING!]
 		||
-		*"And they came, lookin' like they had seen seen ol' Famlaz himself as they were look'd ma way!"*
+		*"And they came, lookin' like they'd done seen seen ol' Famlaz himself!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01114!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01113!COOK DING!/]
 
@@ -1935,7 +1937,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01118!COOK DING!]
 		||
-		*"Then I woke up in yer q'estinin' room, where ya ask'd me all sor' a q'estins."*
+		*"Nex' thin' I know, I woke up in yer q'estinin' room, where ya ask'd me all sor' a odd q'estins."*
 		(A#"..."){A:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01119!COOK DING!}
 		(E#"Are you finally done babbling, you lack-wit?"){E:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01118!COOK DING!/]
@@ -1945,7 +1947,7 @@ COOK DING
 		*"Tha' refresh yer mem'ry, Brother?"*
 		(A#"Yes... uh... Thank you."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.003!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01119!COOK DING!/]
-
+???
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.014!COOK DING!]
 		||
 		*"Oh! Bu' 'tis no' the sharpness o' the knife tha' makes the slicin' smooth!"*
