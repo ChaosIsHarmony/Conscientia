@@ -1458,7 +1458,7 @@ AWAKENING CHAMBER
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!]
 		|^12004:KABU!SANCTUARY!AWAKENING CHAMBER!0.032!DESCRIPTION!|
 		*As Eidos approaches the indigo door, she finds it is no door at all. A panel of stone with an arched door frame painted upon it deceives those who would not more closely inspect it. Her fingers run along its edges, feeling a razor-thin gap. From it, a deep blue haze seems to desperately flee whatever lurks beyond.*
-		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0310!DESCRIPTION!}
+		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12422-1!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0310!DESCRIPTION!]
@@ -1592,18 +1592,34 @@ been here before
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.030!DESCRIPTION!]
 		||
 		*A door she seeks, but when faced with the dilemma of choosing one, she finds instead the silent refuge of thought. Though in time, she arrives at a satisfactory decision.*
-		(A#The immaculate white door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
-		(B#The murky indigo door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
+		(A#The immaculate white door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!}
+		(B#The murky indigo door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X031!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.030!DESCRIPTION!/]
 
->>>Accessed Ormenos' backdoor (12004)<<<
+
+>>>Seen murals on indigo door (12422)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.X031!DESCRIPTION!]
+        |^12422:KABU!SANCTUARY!AWAKENING CHAMBER!1.X0311!DESCRIPTION!|
+        *As Eidos approaches the indigo door, she finds it is no door at all. A panel of stone with an arched door frame painted upon it deceives those who would not more closely inspect it. Her fingers run along its edges, feeling a razor-thin gap. From it, a deep blue haze seems to desperately flee whatever lurks beyond.*
+		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12422-2!DESCRIPTION!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.X031!DESCRIPTION!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.0310!DESCRIPTION!]
+		||
+		*Painted within the doorframe is a lesser mural. A line of hooded figures solemnly march toward a door off in the distance. The portal they approach boasts no remarkable features, save for a small symbol engraved in its center, a symbol that can only be described as some sort of anti-spiral.*
+   		(A#Peer at the symbol){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X033!DESCRIPTION!}
+		(B#Examine the other door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!}
+		(C#Peer into the dark glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.0310!DESCRIPTION!/]
+
+>>>Accessed Ormenos' backdoor (12004)<<<
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.X0311!DESCRIPTION!]
 		|^12004:KABU!SANCTUARY!AWAKENING CHAMBER!1.032!DESCRIPTION!|
 		*This door and its mural of several robed figures remain unchanged; only the strange symbol engraved in its center retains any sense of mystery, all else succumbing to the tragic fate of familiarity.*
 		(A#Peer at the symbol){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X033!DESCRIPTION!}
 		(B#Examine the other door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!}
 		(C#Peer into the dark glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
-	[KABU!SANCTUARY!AWAKENING CHAMBER!1.X031!DESCRIPTION!/]
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.X0311!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.032!DESCRIPTION!]
 		||
@@ -2435,7 +2451,7 @@ HALL OF SENTRIES
 
 	[/KABU!SANCTUARY!HALL OF SENTRIES!0.X002!DESCRIPTION!]
 		|@:KABU!SANCTUARY!HALL OF SENTRIES!0.X000!DESCRIPTION!|
-		*As she draws nearer to the opening, the source of the blockage becomes apparent. What once appeared to be simply a void carved from light gains detail. Its weaker shadows emphasize its smooth contours and rugged features. Immobile before her stands a tall, statuesque figure, a spear held at its side. Its expression is cold, and its demeanor dispassionate. As if carved from stone, its features are flawless but for the large gashes rent into its face and abdomen—surely not the signs of an easy occupation. Glistening blue liquid slowly leaks from the wounds, serving as a natural highlight of the sentry's figure.
+		*As she draws nearer to the opening, the source of the blockage becomes apparent. What once appeared to be simply a void carved from light gains detail. Its weaker shadows emphasize its smooth contours and rugged features. Immobile before her stands a tall, statuesque figure, a spear held at its side. Its expression is cold, and its demeanor dispassionate. As if carved from stone, its features are flawless but for the large gashes rent into its face and abdomen - surely not the signs of an easy occupation. Glistening blue liquid slowly leaks from the wounds, serving as a natural highlight of the sentry's figure.
 		
 		In an alcove, nearly consumed in shadows, a Glyph appears to call to her; it offers an escape.*
 		(A#Approach the figure){A:0,KABU!SANCTUARY!HALL OF SENTRIES!0.X003!DESCRIPTION!}
@@ -5074,6 +5090,18 @@ EVENT WRITERS
 		*EVENT WRITER - Got Muninn Tree Tome*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!SANCTUARY!ARCHIVES!9990.X12308!DESCRIPTION!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12422-1!DESCRIPTION!]
+		|12422:KABU!SANCTUARY!AWAKENING CHAMBER!0.0310!DESCRIPTION!|
+		*EVENT WRITER - Seen murals on indigo door*
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12422-1!DESCRIPTION!/]
+    
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12422-2!DESCRIPTION!]
+		|12422:KABU!SANCTUARY!AWAKENING CHAMBER!1.0310!DESCRIPTION!|
+		*EVENT WRITER - Seen murals on indigo door*
+		(A#WRITER){A:0,NO ADDRESS}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12422-2!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!9990.X17900!DESCRIPTION!]
 		|17900:MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!|
