@@ -9,12 +9,10 @@ ARCHONS' APSE
 	
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.X001!DESCRIPTION!]
 		|@:ENCLAVE!THE NAVE!ARCHONS' APSE!0.X0010!DESCRIPTION!|
-		*The Archon's Apse. This is a place neither heard of nor spoken of among the magi of the Order. It is unknown but to two magi of a single generation.
-		
-		An impenetrable darkness pervades the chamber, thus obfuscating its true dimensions. The only source of illumination hangs high above a circle of onyx humanoid statues. The light appears to cascade downards from its source in rippling waves, tracing out the upper half of a sphere. The nearly closed circle of statues opens toward the entrance to the apse, revealing a silver throne with but a single individual seated upon it. Behind the throne is an imposing blast furnace, breathing fire and spitting sparks.*
+		*An impenetrable darkness pervades the chamber, though the lengthy echoes from Ormenos' footfalls hint at its true dimensions. The room's sole apparent source of illumination hangs high above a circle of onyx humanoid statues, some twenty paces ahead. The nearly closed circle of statues opens toward the entrance to the apse, revealing a silver throne, currently occupied. Closer inspection reveals a second, lesser source of light, as behind the throne is an imposing blast furnace, breathing fire and spitting sparks.*
 		(A#...){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.X001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.X0010!DESCRIPTION!]
 		|@:ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!DESCRIPTION!|
 		*Ormenos approaches the carpeted aperture to the circle of statues, noticing that a man of undeniable youth sits upon the silver throne. Reaching the perimeter of the circle he stops and kneels, as instructed.*
@@ -23,9 +21,7 @@ ARCHONS' APSE
 	
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.X002!DESCRIPTION!]
 		|@:ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!DESCRIPTION!|
-		*The Archon's Apse. This is a place neither heard of nor spoken of among the magi of the Order. It is unknown but to two magi of a single generation. 
-		
-		An impenetrable darkness pervades the chamber, thus obfuscating its true dimensions. The only source of illumination hangs high above a circle of onyx humanoid statues. The light appears to cascade downards from its source in rippling waves, tracing out the upper half of a sphere. The nearly closed circle of statues opens toward the entrance to the apse, revealing a silver throne with but a single individual seated upon it: the youthful Thought-Weaver from the Stone Circle, Brother Babel. Behind the throne is an imposing blast furnace, breathing fire and spitting sparks.*
+		*An impenetrable darkness pervades the chamber, though the lengthy echoes from Ormenos' footfalls hint at its true dimensions. The room's sole apparent source of illumination hangs high above a circle of onyx humanoid statues, some twenty paces ahead. The nearly closed circle of statues opens toward the entrance to the apse, revealing a silver throne, currently occupied by the young Thought-Weaver from the Stone Circle, Brother Babel. Closer inspection reveals a second, lesser source of light, as behind the throne is an imposing blast furnace, breathing fire and spitting sparks.*
 		(A#...){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.X002!DESCRIPTION!/]
 	
@@ -41,13 +37,17 @@ objected to Kambesh & no fight
 fought and won
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.005!DESCRIPTION!]
 		||
-		*In the grips of ecstasy, Ormenos cackles and its vile echo laughs back at him. The power, the absolute destruction, annihilation and domination over one such as the Prime Archon of the Enclave fills him with delight. It is this strength he needs to protect himself from the horrors that await him in the darkness of madness - those evil overlords who seek to rob him of agency and violate his right to a peaceful existence...
-		
-		But, not all is right, for Ormenos feels the tug of something on his Trueflesh, as though trying to peel a stubborn scab from an unhealed wound. His overwhelming sense of power diminishes as his psyche frays from the strain. Soon it is too great to bear and the skin of his Falseflesh begins to rip apart. The agony so severe, so complete forces sleep to fall upon Ormenos...*
-		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+		*In the grips of ecstasy, Ormenos cackles and its vile echo laughs back at him. The power, the absolute dominance he exhibited over the Prime Archon of the Enclave fills him with destructive delight. It is this strength he needs to protect himself from the horrors that await him in the darkness of imbalance - those evil overlords who seek to rob him of agency and violate his right to a peaceful existence...*
+		(A#...){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0050!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.005!DESCRIPTION!/]
-	
-	
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0050!DESCRIPTION!]
+		||
+		*Ormenos feels tug of on his Trueflesh, a cosmic hand peeling a stubborn scab from an half-healed wound. His overwhelming sense of power diminishes as his psyche frays from the strain. Soon it is too great to bear and the skin of his Falseflesh begins to rip apart. All Ormenos can do is laugh and the ruby fountains streaming from his flesh. He laughs a journey from amusement to terror and then on to resentment, stopping finally at resignation, as the laugh turns to whimpering. The agony so severe, so complete, forces sleep upon the broken mage...*
+		(A#Dream){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0050!DESCRIPTION!/]
+
+???
 agreed to help Babel fight the unknown evils
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.007!DESCRIPTION!]
 		||
