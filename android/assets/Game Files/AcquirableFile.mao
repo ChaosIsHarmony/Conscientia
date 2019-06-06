@@ -66,7 +66,7 @@ _________GLYPHS_________
 	
 	Said by many to be Biracul's gift to the first magi of Kabu, it is associated with order and the One from which this order sprung. Yet, such appearances can be misleading. Extending thought into the infinite gulf of externality, this Glyph is a window into chaos. There is no telling what the consequences of its use may be. 
 	
-	Appearing at the dawn of the Great Awakening, what did the Vanquished saw in its depths?#
+	Appearing at the dawn of the Great Awakening, what did the Vanquished see in its depths?#
 [5/]
 
 [/6]
