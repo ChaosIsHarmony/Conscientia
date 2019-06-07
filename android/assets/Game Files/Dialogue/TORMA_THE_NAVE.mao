@@ -106,309 +106,351 @@ came from Crypt of Archons
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0086!DESCRIPTION!/]
 
 
-???	
+
 BABEL
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!BABEL!]
 		|@:ENCLAVE!THE NAVE!ARCHONS' APSE!0.001!BABEL!|
-		*"Brother Inquisitor, come forth to kneel before your predecessors and pay tribute to their selfless contributions to our Order."*
+		*"Brother Inquisitor, come forth to kneel before your predecessors; come pay tribute to their selfless contributions to our Order."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X9999!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!BABEL!/]
-	
+
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.001!BABEL!]
 		||
-		*"Here before you stands the Choir of Archons, the will of our Order and the nexus of all wisdom the Enclave has accrued in its storied existence.”*
+		*"You stand in the presence of the Choir of Archons, the will of our Order and nexus of all wisdom it has accrued.”*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0010!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.001!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0010!BABEL!]
 		||	
-		*"And at its centre stand I, Babel the 17th Prime Archon."*
-		(A#"So the Choir of Archons is just you?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0011!BABEL!}
-		(B#"Why have you summoned me?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0012!BABEL!}
+		*"And at its center stand I, Marduk of Zemes, the 17th Prime Archon."*
+		(A#"So the Choir of Archons... is just you?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0011!BABEL!}
+		(B#"Why have you summoned me here?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0012!BABEL!}
 		(C#"I see."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0013!BABEL!}
 		(D#"It's rare to see one so young in such a position of power..."){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0014!BABEL!}
 		(E#"I remain unimpressed."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0015!BABEL!}
-		(F#"I see why they call you 'babble'..."){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0016!BABEL!}
+		(F#"'Marduk'? I think 'Babble' suits you better!"){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0016!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0010!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0011!BABEL!]
 		||
-		*"You are mistaken, Brother Inquisitor!"*
+		*"You're blind to the truth before you, Brother - or perhaps willfully ignorant."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00110!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0011!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00110!BABEL!]
 		||
 		*"These statues are more than mere onyx: they are crystallized memory with an awareness of their own; they are the fate of all Prime Archons."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00111!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00110!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00111!BABEL!]
 		||
-		*"When the next Prime Archon is selected, I am to join the communal form of the Choir, thus contributing our individual knowledge, but subjugating our will to the good of the collective."*
+		*"When the next Prime Archon is selected, I will take my place among them. My knowledge becomes ours, and our will becomes mine."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00112!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00111!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00112!BABEL!]
 		||
-		*"Indeed, by the laws of our Order, you should replace me and I should submit my Trueflesh to the forge of the Sylvan Architect, so that I may join the Choir in its sublime singularity of will."*
-		(A#"'Should'? It seems as though you will not be doing as law dictates..."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0021!BABEL!}
-		(B#"To what end does the Sylvan Architect demand your unification of will?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!}
-		(E#"Subjugation is never beneficial to the subjugated."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0025!BABEL!}
+		*"Indeed, by the laws of our Order, you should replace me immediately - your name added to the codex - and I should submit my Trueflesh to the Sylvan Architect... to the benefit of all."*
+		(A#"'Should'? It sounds as though you have other plans..."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0021!BABEL!}
+		(B#"Why does the Sylvan Architect demand your Trueflesh?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!}
+		(E#"Subjugation hardly benefits the subjugated."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0025!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00112!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0012!BABEL!]
 		||
-		*"I would expect you to have predicted such a summons when you acquired the Glyph of Nearcasting, Brother Inquisitor..."*
+		*"I'd expect you to have predicted such a summons when you acquired the Glyph of Nearcasting, Brother Inquisitor..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00120!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0012!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00120!BABEL!]
 		||
-		*"Indeed, by the laws of our Order, you should replace me and I should submit my Trueflesh to the forge of the Sylvan Architect, so that I may join the Choir in its sublime singularity of will."*
-		(A#"'Should'? It seems as though you will not be doing as law dictates..."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0021!BABEL!}
-		(B#"To what end does the Sylvan Architect demand your unification of will?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!}
+		*"Indeed, by the laws of our Order, you should replace me immediately - your name added to the codex - and I should submit my Trueflesh to the Sylvan Architect... to the benefit of all."*
+		(A#"'Should'? It sounds as though you have other plans..."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0021!BABEL!}
+		(B#"Why does the Sylvan Architect demand your Trueflesh?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!}
 		(C#"..."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00120!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0013!BABEL!]
 		||
-		*"I cannot help but find it odd that one as uninquisitive as yourself would be given the moniker 'Inquisitor'..."*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00130!BABEL!}
+		*"That's all you have to say? 'I see'?"*
+        (A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00130!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0013!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00130!BABEL!]
 		||
-		*"Yet the fact remains, you have discovered the knowledge of Nearcasting, as we all did once."*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00131!BABEL!}
+        *"Our Order's greatest secret laid bare before you and you're utterly unmoved?"*
+        (A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00131!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00130!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00131!BABEL!]
 		||
-		*"Thus it is by the laws of our Order that you should replace me and I should submit my Trueflesh to the forge of the Sylvan Architect, so that I may join the Choir in its sublime singularity of will."*
-		(B#"To what end does the Sylvan Architect demand your unification of will?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!}
-		(C#"..."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!}
-		(D#"Then I am to be named Prime Archon...?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0024!BABEL!}
+        *"How odd that one as uninquisitive as yourself would be given the moniker 'Inquisitor'..."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00132!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00131!BABEL!/]
-	
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00132!BABEL!]
+		||
+		*"Yet the fact remains, you have discovered the knowledge of Nearcasting, as we all did once."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00133!BABEL!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00132!BABEL!/]
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00133!BABEL!]
+		||
+		*"Thus, by the laws of our Order, you should replace me immediately - your name added to the codex - and I should submit my Trueflesh to the Sylvan Architect... to the benefit of all."*
+		(B#"Why does the Sylvan Architect demand your Trueflesh?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!}
+		(C#"..."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!}
+		(D#"Then I‘m... the new Prime Archon?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0024!BABEL!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00133!BABEL!/]
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0014!BABEL!]
 		||
-		*"The status of Prime Archon is not dependent upon age, but rather ability."*
+		*"The status of Prime Archon is blind to age... No, it relies solely on insight."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00140!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0014!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00140!BABEL!]
 		||
-		*"This ability awakens at different times for those with the skill of Discipline; and no doubt a skill you were clearly gifted, given that you have been to the Crypt of the Archons."*
+		*"This insight awakens through practice in Discipline and inevitably leads to the Crypt of the Archons."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00141!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00140!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00141!BABEL!]
 		||
-		*"Indeed, by the laws of our Order, you should replace me and I should submit my Trueflesh to the forge of the Sylvan Architect, so that I may join the Choir in sublime subjugation to its singularity of will."*
+		*"Indeed, by the laws of our Order, you should replace me immediately - your name added to the codex - and I should submit my Trueflesh to the Sylvan Architect... to the benefit of all."*
 		(C#"..."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!}
-		(D#"Then I am to be named Prime Archon...?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0024!BABEL!}
-		(E#"Subjugation is never beneficial to the subjugated."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0025!BABEL!}
+		(D#"Then I‘m... the new Prime Archon?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0024!BABEL!}
+		(E#"Subjugation hardly benefits the subjugated."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0025!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00141!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0015!BABEL!]
 		||
-		*"Yours is a pride based on ignorance."*
+		*"And whose goal was it to impress you, Inquisitor?"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00150!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0015!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00150!BABEL!]
 		||
-		*"It is only because the terrors beyond our realm remain unseen to your ilk that such baseless pride can even exist!"*
+		*"Your arrogance is a luxury afforded only by your ignorance, and your baseless pride grows like mold in its shadow."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00151!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00150!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00151!BABEL!]
 		||
-		*"Believe me, the crushing weight of Awareness casts the proudest from their meagre heights..."*
+		*"Believe me, the crushing weight of Awareness casts the proudest from their pitiful 'heights'..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00152!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00151!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00152!BABEL!]
 		||
 		*"While you may now scale the highest mountains, you will never reach the stars, Brother Inquisitor."*
 		(A#"Then tell me; what lies beyond?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!}
 		(D#"What 'terrors' do you speak of...?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!}
-		(E#"Your words reek of bravado, boy."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00153!BABEL!}
+		(E#"Your words reek of false bravado, boy."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00153!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00152!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00153!BABEL!]
 		||
 		*"And yours of truth-blindness..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00154!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00153!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00154!BABEL!]
 		||
-		*"Perhaps one day you will see behind the curtain hiding the true Masters of the Enclave and your hair will turn white as your Trueflesh cracks into myriad shards."*
+		*"Perhaps one day you'll see behind the curtain... you'll catch a glimpse of the true Masters of the Enclave..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00155!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00154!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00155!BABEL!]
 		||
-		*"But until then, you will be among the Vault-dwellers, in stasis. I only hope this world awaits you when you are awoken."*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2022!BABEL!}
+        *"And when you do, your hair will pale and your Trueflesh shatter."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00156!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00155!BABEL!/]
-	
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00156!BABEL!]
+		||
+		*"But until then, you'll have to remain among the Vault-dwellers, in stasis. I only hope this world awaits you when you awaken."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2022!BABEL!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00156!BABEL!/]
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0016!BABEL!]
 		||
-		*"How dare you! My terseness of speech is legendary, even among the greatest orators of our Order; and I am certainly not the most garrolous!"*
-		(F#"Keep yapping; you're proving my point..."){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0026!BABEL!}
+		*"How dare you!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00160!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0016!BABEL!/]
-	
-	
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00160!BABEL!]
+		||
+        *"My terseness of speech is legendary, even among the greatest orators of our Order!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00161!BABEL!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00160!BABEL!/]
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00161!BABEL!]
+		||
+        *"I'm a fountain of pithy phrases, brevity incarnate, the very definition of laconic even!"*
+		(F#"Keep yapping; I don't think you've made my point well enough yet..."){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0026!BABEL!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00161!BABEL!/]
+
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0021!BABEL!]
 		||
-		*"You are quite attentive, Brother Inquisitor..."*
+		*"It is as you say, Brother..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00210!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0021!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00210!BABEL!]
 		||
-		*"Indeed, I will postpone fulfillment of the covenant of Archons; for I am the only one in the history of our order to have gone beyond the Crypt of the Archons and I alone know what lies beyond it!"*
+		*"Indeed, I plan to postpone fulfillment of the covenant of Archons. You see, I'm the only one in the history of our order to have gone beyond the Crypt of the Archons..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00211!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00210!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00211!BABEL!]
 		||
-		*"My time as Prime Archon cannot end now. For I alone have seen the origins of our Order and I alone can prevent its catastrophic conclusion."*
-		(A#"Could we not combine our forces?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
-		(B#"What lies beyond the Cipher?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!}
-		(E#"Hypocrisy! What makes you think you're the chosen one?"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
+        *"And I alone know the horrors lurking beyond it."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00212!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00211!BABEL!/]
-	
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00212!BABEL!]
+		||
+		*"As such, my time as Prime Archon cannot end now."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00213!BABEL!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00212!BABEL!/]
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00213!BABEL!]
+		||
+        *"Who else has seen the origins of our Order? Who else can prevent its catastrophic conclusion?"*
+		(A#"Could we not combine our forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
+		(B#"What lies beyond the Crypt?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!}
+		(E#"What makes you think you're the chosen one?"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00213!BABEL!/]
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!]
 		||
-		*"It is uncertain, an act of faith in all the previous Prime Archons..."*
+		*"It's uncertain, a mere act of faith in all the previous Prime Archons..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00220!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00220!BABEL!]
 		||
-		*"A faith that we all must have."*
+		*"A faith we all must have."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00221!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00220!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00221!BABEL!]
 		||
-		*"But it is not yet my time to cast my will into the fire of unity."* 
+		*"But it's not yet my time to cast will into the fire of unity."* 
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00222!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00221!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00222!BABEL!]
 		||
-		*"No, for I alone have solved the cipher at the Crypt of the Archons; I alone have seen the nightmares that lie beyond; I alone can prevent our Order's demise!"*
-		(A#"Could we not combine our forces?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
-		(B#"What lies beyond the Cipher?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!}
+		*"No, for I alone have solved the cipher at the Crypt of the Archons; I alone have seen the nightmares that lurk beyond; I alone can prevent our Order's demise!"*
+		(A#"Could we not combine our forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
+		(B#"What lies beyond the Crypt?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!}
 		(C#"..."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0033!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00222!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!]
 		||
-		*"But you see, Brother Inquisitor, I cannot abdicate this silver throne; for I have unfinished tasks, which cannot be entrusted to the uninitiated."* 
+		*"But you see, Brother Inquisitor, I cannot abdicate this silver throne; for I have unfinished tasks - ones which cannot be entrusted to the uninitiated."* 
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00230!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00230!BABEL!]
 		||
-		*"Thus, you will have to remain in stasis until I have accomplished what would be impossible for you to even imagine."*
+		*"Thus, you'll have to remain in stasis, among the Vault-Dwellers. But don't despair, it's only until I've accomplished what would be impossible for you to even imagine."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00231!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00230!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00231!BABEL!]
 		||
 		*"The Vault will guard you as you await your turn as Archon."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00232!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00231!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00232!BABEL!]
 		||
 		*"Farewell, Brother."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2022!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00232!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0024!BABEL!]
 		||
-		*"Under ordinary circumstances, you would indeed assume this mantle..."*
+		*"Under ordinary circumstances, you'd indeed assume the mantle... However, more pressing matters demand delay."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00240!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0024!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00240!BABEL!]
 		||
-		*"However, I alone have solved the cipher at the Crypt of the Archons; I alone have seen the nightmares that lie beyond; I alone can prevent our Order's demise."*
+		*"You see, I alone have solved the cipher at the Crypt of the Archons; I alone have seen the nightmares lurking beyond; I alone can prevent our Order's demise."*
 		(C#"..."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!}
 		(D#"Then what is to become of me?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!}
-		(E#"Hypocrisy! What makes you think you're the chosen one?"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
+		(E#"Fancy yourself the chosen one, do you?"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00240!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0025!BABEL!]
 		||
-		*"This is untrue, dearest Brother!"*
+		*"Ah, but that's where you're wrong, dearest Brother."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00250!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0025!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00250!BABEL!]
 		||
-		*"When the will is unified, conflicts dissipate!"*
+		*"When the will is unified, conflicts vanish!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00251!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00250!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00251!BABEL!]
 		||
 		*"Optimality presupposes unity, after all."* 
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00252!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00251!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00252!BABEL!]
 		||
-		*"But it is not yet my time to cast my will into the fire of the Choir's will..."*
+		*"But it's not yet my time to cast will into the fire of unity..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00253!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00252!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00253!BABEL!]
 		||
-		*"Oh no, for I alone have solved the cipher at the Crypt of the Archons; I alone have seen the nightmares that lie beyond; I alone can prevent our Order's demise!"*
-		(A#"Could we not combine our forces?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
-		(D#"Then what is to become of me?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!}
-		(E#"Hypocrisy! What makes you think you're the chosen one?"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
+		*"Oh no, for I alone have solved the cipher at the Crypt of the Archons; I alone have seen the nightmares lurking beyond; I alone can prevent our Order's demise!"*
+		(A#"Could we not combine our forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
+		(D#"Then what's to become of me?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!}
+		(E#"You're no chosen one!"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00253!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0026!BABEL!]
 		||
-		*"You vile troll! I will not enter a flame war with you!"*
+		*"You vile troll! I won't be drawn into a flame war with you!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00260!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0026!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00260!BABEL!]
 		||
-		*"No, you are here because of your discovery of Nearcasting!"* 
+		*"No, you're here because of your discovery of Nearcasting!"* 
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00261!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00260!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00261!BABEL!]
 		||
 		*"And by the laws of our Order, you should replace me and I should submit my Trueflesh to the forge of the Sylvan Architect."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00262!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00261!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00262!BABEL!]
 		||
 		*"Such that I may join the Choir and subjugate my Self to its sublime singularity of will."*
-		(A#"'Should'? It seems as though you will not be doing as law dictates..."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0021!BABEL!}
-		(B#"To what end does the Sylvan Architect demand your unification of will?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!}
+		(A#"'Should'? Sounds like you don't plan on doing that..."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0021!BABEL!}
+		(B#"Why would Vanargand want that?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0022!BABEL!}
 		(C#"..."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0023!BABEL!}
-		(D#"Then I am to be named Prime Archon...?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0024!BABEL!}
-		(E#"Subjugation is never beneficial to the subjugated."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0025!BABEL!}
-		(F#"What was that you were saying about being terse?"){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0036!BABEL!}
+		(D#"Wait a second! I'm the new Prime Archon!?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0024!BABEL!}
+		(E#"Subjugation hardly benefits the subjugated."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0025!BABEL!}
+		(F#"If brevity is the soul of wit, does that make you soulless or witless?"){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0036!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00262!BABEL!/]
-	
-	
+
+???
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!]
 		||
 		*"Your words are kind, but I'm afraid your helping hand is extended into the darkness where a great and ancient evil lurks. Were you to see even the shadows cast by the Masters, your sanity would wither and your ghost would vacate its very shell."*
