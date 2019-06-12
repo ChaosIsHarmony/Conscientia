@@ -320,7 +320,7 @@ BABEL
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00213!BABEL!]
 		||
         *"Who else has seen the origins of our Order? Who else can prevent its catastrophic conclusion?"*
-		(A#"Could we not combine our forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
+		(A#"Couldn't we join forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
 		(B#"What lies beyond the Crypt?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!}
 		(E#"What makes you think you're the chosen one?"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00213!BABEL!/]
@@ -346,7 +346,7 @@ BABEL
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00222!BABEL!]
 		||
 		*"No, for I alone have solved the cipher at the Crypt of the Archons; I alone have seen the nightmares that lurk beyond; I alone can prevent our Order's demise!"*
-		(A#"Could we not combine our forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
+		(A#"Couldn't we join forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
 		(B#"What lies beyond the Crypt?"){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!}
 		(C#"..."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0033!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00222!BABEL!/]
@@ -416,7 +416,7 @@ BABEL
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00253!BABEL!]
 		||
 		*"Oh no, for I alone have solved the cipher at the Crypt of the Archons; I alone have seen the nightmares lurking beyond; I alone can prevent our Order's demise!"*
-		(A#"Could we not combine our forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
+		(A#"Couldn't we join forces instead?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
 		(D#"Then what's to become of me?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!}
 		(E#"You're no chosen one!"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00253!BABEL!/]
@@ -450,148 +450,154 @@ BABEL
 		(F#"If brevity is the soul of wit, does that make you soulless or witless?"){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0036!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00262!BABEL!/]
 
-???
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!]
 		||
-		*"Your words are kind, but I'm afraid your helping hand is extended into the darkness where a great and ancient evil lurks. Were you to see even the shadows cast by the Masters, your sanity would wither and your ghost would vacate its very shell."*
-		(A#"Then you believe me powerless to aid in your cause?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00310!BABEL!}
-		(B#"Truth does not frighten me; not knowing it does."){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00320!BABEL!}
+		*"I appreciate the sentiment, but I'm afraid your helping hand extends in ignorance. Were you to see even the shadows cast by the ancient evil looming over us, your sanity would wither and your ghost'd vacate its very shell..."*
+		(A#"Then you believe me powerless?"){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00310!BABEL!}
+		(B#"I doubt anything is more frightening than ignorance."){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00320!BABEL!}
 		(E#"So you think you're the 'chosen one' then?"){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00310!BABEL!]
 		||
-		*"The burden I bear and the actions I take are for your good and the good of our Order. I alone need suffer the terrors of the nightmare left by the Vanquished. I alone need sacrifice my Trueflesh to cut its life-thread."*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!}
+		*"About as powerless as a fish seeking to fly, maybe. You are a man of many talents, Brother, but excellence in some is not excellence in all."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00311!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00310!BABEL!/]
-	
+
+	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00311!BABEL!]
+		||
+		*"No, Brother, I'm afraid the burden I bear and the actions I take are for the good of our Order. I alone need suffer the terrors of the half-forgotten nightmare; I alone need sacrifice my Trueflesh to end it."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00330!BABEL!}
+	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00311!BABEL!/]
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!]
 		||
-		*"Our Order's true, sinister origins and their horripilating instigator. I warn you, Inquisitor, that which is known cannot even through madness be forgotten and knowledge's torments are the only reality you will ever know if you pursue this line of questioning..."*
-		(A#"I wish to help if I am able to."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
+		*"Our Order's true, sinister origins and their horripilating instigator, that's what. I warn you, Inquisitor, the answers you seek cannot even through madness be forgotten..."*
+		(A#"I wish to help if I can."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
 		(B#"Nothing can be more terrifying than ignorance."){B:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00320!BABEL!}
 		(C#"Then I choose not to pursue it."){C:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0033!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0032!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00320!BABEL!]
 		||
-		*"...Spoken like a true Enclavean... Indeed, your courage in the face of nameless abominations is admirable."*
+		*"Spoken like a true Enclavean... Indeed, your courage is admirable."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00321!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00320!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00321!BABEL!]
 		||
-		*"As you wish. I will reward you with the plight of awareness, but I fear your Trueflesh may shatter under this unbearable curse of knowing too much; you were warned and if you cannot cope, your Falseflesh will be submitted to the Vault for stasis."*
+		*"Then it seems you leave me no choice. Come with me and the plight of Awareness will be yours. But if you cannot cope, your Falseflesh will be submitted to the Vault for stasis."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00322!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00321!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00322!BABEL!]
 		||
-		*"Now, come, enter the Choir's inner circle and you shall see with your own eyes our doom."*
+		*"Come, enter the Choir's inner circle and your own eyes will witness horrors beyond measure..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9990.X2033!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00322!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0033!BABEL!]
 		||
 		*"A wise decision, Brother."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00330!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0033!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00330!BABEL!]
 		||
-		*"Worry not, you will take your rightful place as Prime Archon, in time. But until either my task is complete or my Falseflesh has expired, you will await in the timeless realms of the Void."*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00232!BABEL!}
+		*"Oh, and worry not, for you'll take your rightful place as Prime Archon, in due time."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00340!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00330!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!]
 		||
-		*"You, Brother, will take your rightful place as Prime Archon, in time."*
+		*"You, Brother, will take your rightful place as Prime Archon, in due time."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00340!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00340!BABEL!]
 		||
-		*"However, until either my task is complete or my Falseflesh has expired, you will await in the timeless realms of the Void."*
+		*"However, until either my task is complete or my Falseflesh expired, you must wait in the timeless realms of the Void."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00232!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00340!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!]
 		||
-		*"I am chosen by none but circumstances, Brother; and my lot is likely to be a lamb to the slaughter."*
+		*"I'm chosen by none but circumstances, Brother - and my lot is likely to be a lamb to the slaughter."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00350!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0035!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00350!BABEL!]
 		||
 		*"Yet I ask, would you go in my stead?"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00351!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00350!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00351!BABEL!]
 		||
-		*"You would not if you knew what ancient depravity knocks at our Order's doors!"*
+		*"None would, if they knew what ancient depravity knocks at our Order's doors!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00352!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00351!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00352!BABEL!]
 		||
-		*"Though I may fail in its completion, I know what I must do; and I would not wish this task even upon my worst enemy."*
-		(A#"Then I will help."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
-		(D#"Then what is to become of me?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!}
+		*"Though I may fail, I know what I must do; and I'd not wish this task even upon my worst enemy."*
+		(A#"Then let me help."){A:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0031!BABEL!}
+		(D#"Then what's to become of me?"){D:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!}
 		(E#"Then go die and be forgotten."){E:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00353!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00352!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00353!BABEL!]
 		||
-		*"Enjoy the fearlessness only your hubris can bring; it will not last."*
+		*"Enjoy the fearlessness hubris affords you, Brother; it won't last."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00354!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00353!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00354!BABEL!]
 		||
-		*"If I fail in my task and my Trueflesh is forever given to oblivion, then Its shadow will yet cast our Order in the perpetual night of blissful truth-blindness."*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0034!BABEL!}
+		*"Just remember my failure spells our Order's doom - unless the next Primer Archon can stop it..."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00330!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00354!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0036!BABEL!]
 		||
-		*"...You are an odious and unsympathetic curmudgeon; your very existence makes me doubt in the sanctity of our Order's mission..."*
+		*"...You are an odious and unsympathetic arse; your very existence makes me doubt the sanctity of our Order's mission!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00360!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0036!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00360!BABEL!]
 		||
-		*"But how can I blame you?"*
+		*"Yet, how can I blame you?"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00361!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00360!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00361!BABEL!]
 		||
 		*"The burden of knowledge is great, even for those of relatively humble wisdom, such as you."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00362!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00361!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00362!BABEL!]
 		||
-		*"I suppose it's for the best then that you are taken to the Void and put among the Vault-dwellers..."*
-		(F#"Blah, blah, blah... Where is your off button?"){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00363!BABEL!}
+		*"I suppose it's for the best then that you're taken to the Void and laid to rest among the Vault-dwellers..."*
+		(F#"Blah, blah, blah... Where's your off button?"){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00363!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00362!BABEL!/]
-	
+
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00363!BABEL!]
 		||
-		*"...You, Brother, unfortunately will take your place as Prime Archon, in time."*
+		*"...I can't believe an arse like you will succeed me as Prime Archon!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00364!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00363!BABEL!/]
 	
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00364!BABEL!]
 		||
-		*"However, until either my task is complete or my Falseflesh has expired, you will await in the timeless realms of the Void."*
+		*"Enough! I've had it! To the Void with you!"*
 		(F#"The Void, huh? Could be gremlin territory. Worth a look!"){F:1,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00232!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00364!BABEL!/]
 
-	
 
-	
+
+
 ________________________________________________________________________
 HALL OF RECKONING
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!]
@@ -601,7 +607,7 @@ HALL OF RECKONING
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!/]
 
 
-	
+???
 Went directly to the Nave	
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00100!DESCRIPTION!]
 		||
