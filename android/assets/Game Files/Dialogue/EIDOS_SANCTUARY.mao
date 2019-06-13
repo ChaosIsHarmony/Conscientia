@@ -1134,7 +1134,7 @@ ARCHIVES
         ||
         *The information seeps into her subconsciousness. Though Eidos may not be cognizant of it, the information is now all there and there it shall remain till the destruction of her Trueflesh.*
         (A#Return attention to room){A:0,KABU!SANCTUARY!ARCHIVES!0.X000!DESCRIPTION!}
-        (B#Continue	searching){B:1,KABU!SANCTUARY!ARCHIVES!9990.X12306!DESCRIPTION!}
+        (B#Continue searching){B:1,KABU!SANCTUARY!ARCHIVES!9990.X12306!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.3001!DESCRIPTION!/]
 
 >>>Unlocked workshop (12402)<<<
@@ -4593,7 +4593,9 @@ Subsequent times
 
     [/KABU!SANCTUARY!WORKSHOP!0.1000!DESCRIPTION!]
         ||
-        *As Eidos takes up the red crystal in her hands. Looking within, she feels a sudden shock. A dizzying blur of alien shapes and symbols whirl through her mind's eye. A hundred familiar voices speak thousands of incomprehensible words. Before long, the nature of the sounds seem to change, and Eidos slowly begins to recognize the identity of the speakers: without exception, they all speak with the singular and unmistakable voice of Eidos herself...*
+        *Eidos takes up the crystal in her hands. It vibrates, humming at a nearly audible frequency. Soon, she can parse out a rhythmic pulse echoed by the inner light's motion. She stares into, enraptured; it stares back, dispassionate.
+		
+		A sudden shock. A dizzying blur of alien shapes and symbols whirl through her mind's eye. A hundred familiar voices speak thousands of incomprehensible words. Before long, the nature of the sounds seem to change, and Eidos slowly begins to recognize the identity of the speakers: without exception, they all speak with the singular and unmistakable voice of Eidos herself...*
         (A#Absorb crystal){A:0,KABU!SANCTUARY!WORKSHOP!9990.X12303!DESCRIPTION!}
         (F#Destroy the crystal){F:2,KABU!SANCTUARY!WORKSHOP!9990.X12408!DESCRIPTION!}
     [KABU!SANCTUARY!WORKSHOP!0.1000!DESCRIPTION!/]
