@@ -607,46 +607,52 @@ HALL OF RECKONING
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!/]
 
 
-???
+
 Went directly to the Nave	
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00100!DESCRIPTION!]
 		||
-		*Ormenos walks through the intricately carved wooden doors and into a hall many times longer than it is wide, with vaulted ceilings and extravagant gilded depictions of familiar Vanquished mythology adorning the six directions. The Vanquished were infamously anything but reserved when it came to their artwork.*
+		*Ormenos approaches the massive wooden doors leading to the Nave. They stand like two lone trees clinging to an otherwise barren cliffside. Out of place to be sure, but somehow majestic because of their oddity. Etched deep into their collective surface is one lonely symbol - alone because it is all that needs be there - the very symbol of the Enclave. Four alpha omega chimeras stare inward toward a single point, never quite touching at it; four corners suggest a broken square containing them. Shivers sneak their way down his spine - the unwelcome prelude to his ritual whenever he comes to speak before the Choir.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00101!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00100!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00101!DESCRIPTION!]
 		||
-		*Crystal windows illuminate the hall so brightly that one might suspect it were noon on a cloudless day; certainly none would ever think the hall to be in the depths of the earth as it is. This exuberant radiance reflects upon the golden walls, sparkling and crackling, igniting a raging conflagration of pure decadence.*
+        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equalled by the bumbling hands that tried to imitate them after the Great Awakening.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00102!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00101!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00102!DESCRIPTION!]
 		||
-		*Lining the halls are dozens of marbled pillars and behind them, ornate wooden pews. Upon the rows of wooden benches sit many magi of the Order. Some come to present their findings on matters of lesser import and others merely to listen to such reports. For some it is more important to discover; for others, to remember.*
+		*Crystal windows illuminate the hall brighter than noontime on a cloudless day, even despite being in the depths of the earth - a miracle of Vanquished artifice. Their light reflects upon the golden walls, sparkling and crackling, igniting a raging conflagration of pure decadence.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00103!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00102!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00103!DESCRIPTION!]
 		||
-		*Beyond the multitudinous rows of wooden benches lining the hall is a curtained balcony, raised far too high for Ormenos to reach. Beneath it are stairs leading a half-story below toward a most humble wooden door, barely tall enough for human use. The balcony is reserved for the elusive Choir of Archons.*
-		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00104!DESCRIPTION!}
+		*Lining the halls are dozens of red and black marble pillars, so highly polished that vague ghosts of the wall frescoes seem to reflect from their shiny surfaces. Between the supports, ornate wooden pews sit in neatly ordered rows with scores of Enclaveans seated upon them. Some come to present their findings on matters of lesser import and others merely to listen to such reports. For some it is more important to discover; for others, to remember.*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00104!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00103!DESCRIPTION!/]
-	
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00104!DESCRIPTION!]
-		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00105!DESCRIPTION!|
-		*None know the identity of the Choir, yet it is the aspiration of many a bright-eyed mage to rise to the rank of Archon, for this is the ultimate recognition, the pinnacle of awareness and knowledge. When it is Ormenos' time, he knows that he too will be contacted to join their ranks...*
-		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!DESCRIPTION!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00104!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00104!DESCRIPTION!]
+		||
+		*Beyond the benches, a curtained balcony stares down from on high - the mysterious veiled face of the Choir itself. Beneath it, a narrowing set of stairs lead a half-story below toward an unremarkable wooden door, scarcely tall enough for human use. The door is a focal point for novice gossip and speculation; none know where it leads for certain. But this wonder soon fades as the enigma becomes familiar, and ignorance becomes accepted as a matter of course. Sometimes Ormenos wonders if he is the only Senior member who has not forgotten this hole in their collective knowledge.*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00105!DESCRIPTION!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00104!DESCRIPTION!/]
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00105!DESCRIPTION!]
-		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0011!DESCRIPTION!|
-		*The crowd of magi parts in twain, making way for the senior magi who had been tasked with a most sacred mission. Ormenos walks dutifully to the opposite end of the hall and steps upon a miniscule speaking dais to address the Choir of Archons.*
+		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00106!DESCRIPTION!|
+		*He often wonders why none know the identity of the Choir of Archons. He wonders and yet aspires to rise to the rank of Archon, as do all magi of the Order. To reach those heights is the ultimate recognition, the very pinnacle of Discipline.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00105!DESCRIPTION!/]
-	
-	
-	
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00106!DESCRIPTION!]
+		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0011!DESCRIPTION!|
+		*The crowd at the back parts, making way for Ormenos to proceed. He walks to the opposite end of the hall and steps upon a small speaking dais to address the Choir as commanded.*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!DESCRIPTION!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00106!DESCRIPTION!/]
+
+
+
 >>>Objected to Kambesh and censorship (2020&2083)<<<
 >>>Went full crazy in the Nave convo (2071)<<<
 >>>To be taken to Dissent's Remorse because of insolence (2072)<<<
@@ -656,9 +662,9 @@ Went directly to the Nave
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0011!DESCRIPTION!/]
-	
-	
-	
+
+
+???
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0011!DESCRIPTION!]
 		||
 		*Just as Ormenos' audience with the Choir comes to its end, the young and impetuous Enforcer known as the Jinn Slayer throws open the massive wooden doors of the hall. Despite his youth and inexperience, he already has a lengthy history of grandiloquence and... spontaneity. Were it not for his clear talents as an Enforcer, he would have likely been cast into the depths of the Vault mere weeks after joining. 
