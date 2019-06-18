@@ -2445,7 +2445,7 @@ HALL OF SENTRIES
 		|^12002:KABU!SANCTUARY!HALL OF SENTRIES!5.000!DESCRIPTION!|
 		*This short and narrow hallway is lined with the graven images of men and women at arms. They are finely carved, with no trace nor marks of the tools that wrought them. Yet, their forms are rough and simplistic, comprised of simple angles and lines but few curves.
 		
-		The ceiling hangs rather low, low enough for her to reach up and touch it, and corridor is scarcely wider than her armspan. A dim light seeps in from the opening at the far end where the hall pours into a vast chamber, though something thwarts the light from completely consuming the doorway.*
+		The ceiling hangs low enough to touch with a short leap, and the corridor's width scarcely exceeds her armspan. A dim light seeps in from the opening at the far end where the hall pours into a vast chamber, though something thwarts the light from completely consuming the doorway.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SENTRIES!0.X002!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SENTRIES!0.X001!DESCRIPTION!/]
 
@@ -2524,7 +2524,7 @@ HALL OF SENTRIES
 		|^12006:KABU!SANCTUARY!HALL OF SENTRIES!9.000!DESCRIPTION!|
 		*This short and narrow hallway is lined with the graven images of men and women at arms. They are finely carved, with no trace nor marks of the tools that wrought them. Yet, their forms are rough and simplistic, comprised of angles and lines but few curves.
 		
-		The ceiling is comparably low, such that Eidos could reach up and touch it with her hand; the width, scarcely wider than her armspan. At the end of the corridor is a single door and a staircase leading down into the darkness of the depths.*
+		The ceiling is comparably low, such that Eidos could reach up and touch it; the width, scarcely wider than her armspan. At the end of the corridor is a single door and a staircase leading down into the darkness of the depths.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SENTRIES!2.X001!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SENTRIES!2.X000!DESCRIPTION!/]
 
@@ -3029,7 +3029,7 @@ LUIN'S CHAMBER
 		|^12001:KABU!SANCTUARY!LUIN'S CHAMBER!0.X009!DESCRIPTION!|
 		*Seeking the source of ethereal light, Eidos enters a tetrahedral chamber. Three sides angled in on each other make up the walls, tapering severely high above. Reflective panels arranged on a grid cover all four surfaces like the scales of a silver serpent. The chamber itself is small, the width spanning but five paces outward from the center, though the ceiling might well be five times Eidos' height.
 		
-		Her gaze now set upon the middle of the room, she see the emerald light pervading the room emanates from a crystal. The shimmering object is suspended midair as though in some invisible, viscous fluid. Beyond it, a familiar dark glass adorns the wall, embedded chest-high at one of the intersections to the myriad reflective tiles.*
+		Her gaze now set upon the middle of the room, she sees the emerald light pervading the room emanates from a crystal. The shimmering object is suspended midair as though in some invisible, viscous fluid. Beyond it, a familiar dark glass adorns the wall, embedded chest-high at one of the intersections to the myriad reflective tiles.*
 		(A#Peer into the dark glass){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X001!DESCRIPTION!}
 		(B#Return to the corpse-strewn Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!}
 		(C#Examine the green crystal){C:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.900!DESCRIPTION!}

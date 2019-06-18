@@ -1553,7 +1553,7 @@ virgin entrance
 		||
 		*The heavy wood grates against the desert sand as the gates to Tambul close. Before Eidos is a large courtyard bustling with activity. Contrary to what the towering walls and mighty gates suggest, there is a scant and ill-equipped military presence.
 		
-		For the most part, the life of the townsfolk dominates this environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicentre of all activity is a large, marble sculpture - a depiction of an unnamed hero slaying an unnamed beast.
+		For the most part, the life of the townsfolk dominates this environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicenter of all activity is a large, marble sculpture - a depiction of an unnamed hero slaying an unnamed beast.
 		
 		Many within proximity to the gates take notice of Eidos. Some pretend to go about their business while cautiously drawing near to regard her, but none approach. One of them in particular, a red-haired young girl, stands staring for a moment, only to then run off down the street with great urgency.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!0.100!DESCRIPTION!}
@@ -5586,7 +5586,7 @@ virgin entrance
 	
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!]
 		||
-		*Then, through the heat-born, hazy distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking their roofs above the walls. The blinding, silver spire Eidos chases, juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
+		*Then, through the heat-born distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking their roofs above the walls. The blinding, silver spire Eidos chases, juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X0002!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!/]
 
@@ -5597,7 +5597,7 @@ virgin entrance
 		
 		Yet at her arrival, the helmeted visages of two watchmen appear atop the wall. They study her closely, inquiring about her intentions with their gazes.
 		
-		However, Eidos looks west, noticing for the first time the deep ruts of a road leading another settlement, nestled into the foot of the mountains. Eastward, leads along the city walls in the direction of the silver spire and a distant canyon beyond.*
+		However, Eidos then looks west, noticing for the first time the deep ruts of a road leading to another settlement, nestled into the foot of the mountains. Eastward, leads along the city walls in the direction of the silver spire and a distant canyon beyond.*
 		(A#Go west to the other settlement){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the city walls to the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
 		(C#Enter the township){C:0,KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!}

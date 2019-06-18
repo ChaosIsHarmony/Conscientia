@@ -611,13 +611,13 @@ HALL OF RECKONING
 Went directly to the Nave	
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00100!DESCRIPTION!]
 		||
-		*Ormenos approaches the massive wooden doors leading to the Nave. They stand like two lone trees clinging to an otherwise barren cliffside. Out of place to be sure, but somehow majestic because of their oddity. Etched deep into their collective surface is one lonely symbol - alone because it is all that needs be there - the very symbol of the Enclave. Four alpha omega chimeras stare inward toward a single point, never quite touching at it; four corners suggest a broken square containing them. Shivers sneak their way down his spine - the unwelcome prelude to his ritual whenever he comes to speak before the Choir.*
+		*Ormenos approaches the massive wooden doors leading to the Nave. They stand like two lone trees clinging to an otherwise barren cliffside. Out of place to be sure, but somehow majestic because of their oddity. Etched deep into their collective surface is one lonely symbol - alone because it is all that needs be there - the very symbol of the Enclave. Four alpha omega chimeras stare inward toward a single point, never quite touching at it; four corners suggest a broken square containing them. Shivers sneak their way down his spine - the unwelcome prelude to speaking before the Choir.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00101!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00100!DESCRIPTION!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00101!DESCRIPTION!]
 		||
-        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equalled by the bumbling hands that tried to imitate them after the Great Awakening.*
+        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equalled by the bumbling hands that would imitate them after the Great Awakening.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00102!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00101!DESCRIPTION!/]
 
@@ -792,12 +792,12 @@ Off to see the Prime Archon
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1218!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X001321!DESCRIPTION!/]
 
-???
+
 Taken to Dissent's Remorse
 ---Have option to fight and if he has Corruption etc. he can wreak havoc---
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0015!DESCRIPTION!]
 		||
-		*Enforcers surround Ormenos and prepare for any resistance. As Ormenos considers what to do, the young and impetuous Enforcer known as the Jinn Slayer throws open the doors of the hall, demanding an audience with the Choir... An audience Ormenos will not witness for he feels a sharp pain as some blunt object steals his consciousness by colliding with the side of his head.*
+		*Enforcers surround Ormenos, preparing for resistance. As the trapped mage considers what to do, the doors contract, revealing the young and impetuous Enforcer known as the Jinn Slayer framed by the radiance of the outter hallway. He arrives unannounced, unexpected, demanding an audience with the Choir... An audience Ormenos will not witness, as he feels a sharp pain steal his consciousness, witnessing one last...*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0015!DESCRIPTION!/]
 
@@ -806,7 +806,7 @@ Taken to Soul Stasis Cell
 ---Have option to fight and if he has Corruption etc. he can wreak havoc---
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0016!DESCRIPTION!]
 		||
-		*Enforcers surround Ormenos and prepare for any resistance. As Ormenos considers what to do, the young and impetuous Enforcer known as the Jinn Slayer throws open the doors of the hall, demanding an audience with the Choir... An audience Ormenos will not witness for he feels a sharp pain as some blunt object steals his consciousness by colliding with the side of his head.*
+		*Enforcers surround Ormenos, preparing for resistance. As the trapped mage considers what to do, the doors contract, revealing the young and impetuous Enforcer known as the Jinn Slayer framed by the radiance of the outter hallway. He arrives unannounced, unexpected, demanding an audience with the Choir... An audience Ormenos will not witness, as he feels a sharp pain steal his consciousness, witnessing one last...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0016!DESCRIPTION!/]
 
@@ -814,16 +814,16 @@ Taken to Soul Stasis Cell
 Dilly-dallied a little (one or two events)
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00200!DESCRIPTION!]
 		||
-		*Ormenos approaches the massive wooden doors leading to the Nave. They stand like two lone trees clinging to an otherwise barren cliffside. Out of place to be sure, but somehow majestic because of their oddity. Etched deep into their collective surface is one lonely symbol - alone because it is all that needs be there - the very symbol of the Enclave. Four alpha omega chimeras stare inward toward a single point, never quite touching at it; four corners suggest a broken square containing them. Shivers sneak their way down his spine - the unwelcome prelude to his ritual whenever he comes to speak before the Choir.*
+		*Ormenos approaches the massive wooden doors leading to the Nave. They stand like two lone trees clinging to an otherwise barren cliffside. Out of place to be sure, but somehow majestic because of their oddity. Etched deep into their collective surface is one lonely symbol - alone because it is all that needs be there - the very symbol of the Enclave. Four alpha omega chimeras stare inward toward a single point, never quite touching at it; four corners suggest a broken square containing them. Shivers sneak their way down his spine - the unwelcome prelude to speaking before the Choir.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00201!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00200!DESCRIPTION!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00201!DESCRIPTION!]
 		||
-        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equalled by the bumbling hands that tried to imitate them after the Great Awakening.*
+        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equalled by the bumbling hands that would imitate them after the Great Awakening.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00202!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00201!DESCRIPTION!/]
-
+???
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00202!DESCRIPTION!]
 		||
 		*Crystal windows illuminate the hall brighter than noontime on a cloudless day, even despite being in the depths of the earth - a miracle of Vanquished artifice. Their light reflects upon the golden walls, sparkling and crackling, igniting a raging conflagration of pure decadence.*

@@ -454,7 +454,7 @@ From Dazir
 To Tambul
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.7211!DESCRIPTION!]
 		||
-		*She sets off across the desert plain toward the silvery spire, toward the Moon Tower of Tambul. But as the day wanes, her strength is sapped from her body. And yet still, she keeps a steady pace. The setting sun and the bone-chilling gales do little to halt her progress. Onward she marches, though the night, until the dawn delivers her to her destination...*
+		*She sets off across the desert plain toward the silvery spire, toward the Moon Tower of Tambul. But as the day wanes, her strength is sapped from her body. And yet still, she keeps a steady pace. The setting sun and the bone-chilling gales do little to halt her progress. Onward she marches, through the night, until the dawn delivers her to her destination...*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.7211!DESCRIPTION!/]
 
@@ -593,7 +593,7 @@ Event 20001 - Blew up Moon Tower and Tacriba invasion
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!100.001!DESCRIPTION!]
 		||
-		*Departing from the pillar, Eidos resumes her journey towards the mountain range. But as the day wanes, her strength is sapped from her body. And yet still, she keeps a steady pace. The setting sun and the bone-chilling gales do little to halt her progress. Onward she marches, though the night, until the dawn delivers her to her destination...*
+		*Departing from the pillar, Eidos resumes her journey towards the mountain range. But as the day wanes, her strength is sapped from her body. And yet still, she keeps a steady pace. The setting sun and the bone-chilling gales do little to halt her progress. Onward she marches, through the night, until the dawn delivers her to her destination...*
 		(A#...){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!100.001!DESCRIPTION!/]
 
@@ -718,7 +718,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.010000!FAMLICUS!]
 		||
-		*"They quarrel over water. Although it's true that this is nothing less than than the life-blood of all folk, I lament saying that these people are no strangers to strife."*
+		*"They quarrel over water... True that water is nothing less than the life-blood of all folk, but I lament that - even absent this current crisis - these people are no strangers to strife."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0100000!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.010000!FAMLICUS!/]
 
