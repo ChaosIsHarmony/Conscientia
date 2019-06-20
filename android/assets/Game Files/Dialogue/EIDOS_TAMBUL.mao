@@ -18,7 +18,7 @@ ARCHIVES
 
 	[/KABU!TAMBUL!ARCHIVES!0.001!DESCRIPTION!]
 		||
-		*Yet even in spite of its aesthetic dearth, the beautiful, glowing tree at the Archives centre shrouds the room in a dreamlike haze. A bark of marble white covers its thick limbs; limbs which creep about the entirety of the Archives, stretching out across the space like an awakened sylvan giant. From cracks in its aged hide, bulbous crystalline protrusions glow with a pale, white incandescence, casting rays of light about the structure.*
+		*Yet even in spite of its aesthetic dearth, the beautiful, glowing tree at the Archives' centershrouds the room in a dreamlike haze. A bark of marble white covers its thick limbs; limbs which creep about the entirety of the Archives, stretching out across the space like an awakened sylvan giant. From cracks in its aged hide, bulbous crystalline protrusions glow with a pale, white incandescence, casting rays of light about the structure.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.002!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.001!DESCRIPTION!/]
 
@@ -486,7 +486,7 @@ learn more shit
 
 	[/KABU!TAMBUL!ARCHIVES!1.1000!DARY!]
 		||
-		*"Did you see the statue at the centre of the atrium? The chimera?"*
+		*"Did you see the statue at the centerof the atrium? The chimera?"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!1.1001!DARY!}
 	[KABU!TAMBUL!ARCHIVES!1.1000!DARY!/]
 	
@@ -1636,7 +1636,7 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 >>>Not welcome in Tambul (13900)<<<
 	[/KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!]
 		|^13900:KABU!TAMBUL!ATRIUM!11.001!DESCRIPTION!|
-		*The centre of the Atrium is dominated by a large statue, cool mist rising from jets of water spraying at its feet. Upon closer inspection, what was thought to be marble turns out to be some kind of metal. It has the appearance of iron or steel but is white in color. Remarkably, it lacks any sign of corrosion, despite its proximity to water. The metal bends and twists, depicting an armored hero combating a fantastical creature - a strange fusion of serpent, lion, bird and other unfamiliar creatures.
+		*The centerof the Atrium is dominated by a large statue, cool mist rising from jets of water spraying at its feet. Upon closer inspection, what was thought to be marble turns out to be some kind of metal. It has the appearance of iron or steel but is white in color. Remarkably, it lacks any sign of corrosion, despite its proximity to water. The metal bends and twists, depicting an armored hero combating a fantastical creature - a strange fusion of serpent, lion, bird and other unfamiliar creatures.
 		
 		This statue seems to serve as a gathering place and most people around here seem engaged in lively conversation. However, a good number seem to merely be countering the midday heat with the misty coolness of the fountain.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!11.X201!DESCRIPTION!}
@@ -2677,7 +2677,7 @@ BAHADUR
 
 	[/KABU!TAMBUL!ATRIUM!0.X4010!BAHADUR!]
 		|@:KABU!TAMBUL!ATRIUM!0.898!BAHADUR!|
-		*"He's at the centre of the atrium further on."*
+		*"He's at the centerof the atrium further on."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!BAHADUR!}
 	[KABU!TAMBUL!ATRIUM!0.X4010!BAHADUR!/]
 
@@ -5221,7 +5221,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.202!PAKAHRON!]
 		||
-		*"The folk of Dazir, mistakingly regard the Tacribians as barbarous and uncivilized. Meanwhile, the Tacribaians have become increasingly intolerant of this arrogance, to the point of considering Daziran genocide - worse is that this is a conflict centuries in the making."*
+		*"The folk of Dazir, mistakingly regard the Tacribians as barbarous and uncivilized. Meanwhile, the Tacribians have become increasingly intolerant of this arrogance, to the point of considering Daziran genocide - worse is that this is a conflict centuries in the making."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.2020!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.202!PAKAHRON!/]
 
@@ -8516,7 +8516,7 @@ ______________________________
 RAMPARTS
 	[/KABU!TAMBUL!RAMPARTS!0.000!DESCRIPTION!]
 		||
-		*As Eidos alights at the top of the stairs, she arrives at another, smaller courtyard, this one covered with a thatch roof. In the shade stands a man, decked out in a heavy leather apron and matching leather gloves, both with dark splotches splattered all over. At the centre is a blanketed object resting upon a table. The man, walks over towards the table and begins to peel off the covering, revealing a rather grim sight.*
+		*As Eidos alights at the top of the stairs, she arrives at another, smaller courtyard, this one covered with a thatch roof. In the shade stands a man, decked out in a heavy leather apron and matching leather gloves, both with dark splotches splattered all over. At the centeris a blanketed object resting upon a table. The man, walks over towards the table and begins to peel off the covering, revealing a rather grim sight.*
 		(A#...){A:0,KABU!TAMBUL!RAMPARTS!0.001!DESCRIPTION!}
 	[KABU!TAMBUL!RAMPARTS!0.000!DESCRIPTION!/]
 
@@ -8767,7 +8767,7 @@ BOZ
 
 	[/KABU!TAMBUL!RAMPARTS!0.3010!BOZ!]
 		||
-		*"Right, so that big metal thin' is the Moon Tower, the main attraction of Tambul. And Tambul itself is the greatest and oldest of Kaban settlements, the very centre of culture, life and prosperity in the region of Kabu."*
+		*"Right, so that big metal thin' is the Moon Tower, the main attraction of Tambul. And Tambul itself is the greatest and oldest of Kaban settlements, the very centerof culture, life and prosperity in the region of Kabu."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.3011!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.3010!BOZ!/]
 
@@ -10595,7 +10595,7 @@ TEMPLE
 
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!0.000!DESCRIPTION!]
 		||
-		*Eidos regards the building she has entered, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of the aqueduct - this space generously hosts the sun's falling rays. The centre of the room flickers as sunshine contacts the large metallic disk abiding there, elevated upon a three-step dais. This disk bears a great resemblance to the one where she awoke.*
+		*Eidos regards the building she has entered, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of the aqueduct - this space generously hosts the sun's falling rays. The centerof the room flickers as sunshine contacts the large metallic disk abiding there, elevated upon a three-step dais. This disk bears a great resemblance to the one where she awoke.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.0000!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!0.000!DESCRIPTION!/]
 	
@@ -10614,7 +10614,7 @@ TEMPLE
 
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!0.001!DESCRIPTION!]
 		||
-		*Eidos regards the building she has entered, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of the aqueduct - this space generously hosts the sun's falling rays. The centre of the room flickers as sunshine contacts the Farcaster disk abiding there, elevated upon a three-step dais.*
+		*Eidos regards the building she has entered, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of the aqueduct - this space generously hosts the sun's falling rays. The centerof the room flickers as sunshine contacts the Farcaster disk abiding there, elevated upon a three-step dais.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.0010!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!0.001!DESCRIPTION!/]
 	
@@ -10635,7 +10635,7 @@ TEMPLE
 farcaster entrance
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!1.000!DESCRIPTION!]
 		||
-		*A localized beam of energy precedes Eidos' reformation onto a familiar metallic disk. She regards the building, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of an enormous aqueduct - this space generously hosts the sun's falling rays. Eidos appears to be standing at the centre of the room, sunshine reflecting as contacts the Farcaster disk beneath her feet.*
+		*A localized beam of energy precedes Eidos' reformation onto a familiar metallic disk. She regards the building, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of an enormous aqueduct - this space generously hosts the sun's falling rays. Eidos appears to be standing at the centerof the room, sunshine reflecting as contacts the Farcaster disk beneath her feet.*
 		(A#Explore){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!1.X001!DESCRIPTION!}
 		(B#_Use the Sigil of Farcasting_){B:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!1.000!DESCRIPTION!/]

@@ -34,7 +34,7 @@ ARBORETUM
 
 	[/KABU!DAZIR!ARBORETUM!0.0012!DESCRIPTION!]
 		||
-		*Eidos soon observes that this surreal oasis of perfection stands amid the backdrop of craggy peaks to the west and a desert expanse extending indefinitely toward the east. A series of three aqueducts lead from the austere mountains down into the desert flats with one terminating right above the very Arboretum in which she stands, and emptying itself into massive pool of pristine water. Several pipes lead from this reservoir, mysteriously disappearing into the garden floor.*
+		*Eidos soon observes that this surreal oasis of perfection stands amid the backdrop of craggy peaks to the west and a desert expanse extending indefinitely toward the east. A series of three aqueducts lead from the austere mountains down into the desert flats with one terminating right above the very Arboretum in which she stands. This one empties into a massive reservoir of pristine water. Several pipes seem to funnel the water off to parts unknown.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!0.X901!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!0.0012!DESCRIPTION!/]
 
@@ -42,7 +42,7 @@ ARBORETUM
 		|@:KABU!DAZIR!ARBORETUM!0.903!DESCRIPTION!|
 		*And finally Eidos sees that she is not alone. Staring wide-eyed at her is a leathery crone, still as a statue. The old woman leans upon a wooden cane, its gnarls and knots mirroring her age-worn frame.
 		
-		With a start, the she shakes clear her self-imposed petrification, and with a surprising quickness in her step, scuttles briskly forward.*
+		With a start, she shakes clear her self-imposed petrification; and with a surprising quickness in her step, scuttles briskly forward.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!9999.X0068!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!0.X901!DESCRIPTION!/]
 
