@@ -921,47 +921,67 @@ Dragged here by the enforcers
 ---Will require Hel---
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00335!DESCRIPTION!]
 		||
-		*Ormenos stands brazenly against the shadowy Choir, unflinching, unmoving, ready to fight to his last breath. Yet it is not long before this breath seems to come, as the Enforcers who had brought him here renew their grips and cast him mercilessly upon the ground. Angered, humiliated, and crazed, Ormenos wrestles against his amused captors, desperately trying to break free.
-
-        Suddenly, success! They release their hold, preferring instead a swift blow to the nape of his neck, subsequently sending him careening into the adumbral world of dreams...*
-		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
+		*Ormenos stands brazenly against the shadowy Choir, unflinching, unmoving, ready to fight to his last breath. To his dismay, he need not wait long, as the Enforcers who had brought him here renew their grips and cast him mercilessly upon the ground.*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003350!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00335!DESCRIPTION!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003350!DESCRIPTION!]
+		||
+        *Angered, humiliated, and crazed, Ormenos wrestles against his amused captors, desperately trying to break free.*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003351!DESCRIPTION!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003350!DESCRIPTION!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003351!DESCRIPTION!]
+		||
+        *Suddenly, success! They release their hold, preferring instead a swift blow to the nape of his neck, subsequently sending him careening into the adumbral world of dreams...*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003351!DESCRIPTION!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00336!DESCRIPTION!]
 		||
-		*Embracing the absurdity of it all Ormenos squawks boisterously toward the shadowy Choir. Then, in a brilliant spectacle beyond all imagination, the Heavens split revealing yet another shadowy figure: Roostor! Swooping down from the skies, He enacts his divine retribution upon this den of iniquity, obliterating the retinue of vile gremlins who disgrace the hallowed ground with their very presence.*
-		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003360!DESCRIPTION!}
+		*Embracing the absurdity of it all, Ormenos squawks toward the shadowy Choir, producing a cry that would bring tears to even the most stone-faced poultry's eyes. Then, in a brilliant spectacle beyond all description - including this one - the Heavens split in twain revealing yet another shadowy figure...*
+        (A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003360!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00336!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003360!DESCRIPTION!]
 		||
-		*Like a barnyard cyclone, the Feathered One claws, pecks and slaps the ghosts from all His of scion's would-be assailants. Large gashes now tattoo the vacant Falsefleshes of the lot of them. Only few have eyes left to see Him snuff the life-fire from their bodies.*
-		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003361!DESCRIPTION!}
+        *Thus appears that majestic god of fowl, the feathered king, the patron saint of pillow stuffing, Roostor!*
+        (A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003361!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003360!DESCRIPTION!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003361!DESCRIPTION!]
 		||
-		*The carnage complete, the havoc wrought, beloved Roostor, with a powerful flap from His almighty wings, rockets Himself skyward toward the infinity of belief! The resultant gust of wind casts Ormenos backwards toward a marbled pillar from which he rebounds into several other pillars and gilded walls like some rubber projectile.*
+        *Swooping down from his airy sea of clouds, He enacts divine retribution upon this den of iniquity, obliterating the retinue of vile gremlins within. He shows no mercy to those who would disgrace his faithful followers.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003362!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003361!DESCRIPTION!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003362!DESCRIPTION!]
 		||
-		*The final meeting of a wall with his face brings upon a bout of unexpected sleep. Yet right before Ormenos' eyelids succumb to the weight of exhaustion, he feels as though he can see the majestic deity, his savior, look back with a sparkling smile and a reassuring wink...*
-		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
+		*Like a barnyard cyclone, the Feathered One claws, pecks and slaps the ghosts from all His scion's would-be assailants. Large gashes now tattoo the vacant Falsefleshes of the lot, and but a scant few have eyes left to see Him snuff the life-fire from their bodies.*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003363!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003362!DESCRIPTION!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003363!DESCRIPTION!]
+		||
+		*The carnage complete, the havoc wrought, hallowed Roostor, with a powerful flap from His almighty wings, rockets Himself skyward toward the infinity of belief! The resultant gust of wind casts Ormenos backwards toward a marbled pillar. The initial shock sends him rebounding into several other pillars and gilded walls, all lighting up upon impact.*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003364!DESCRIPTION!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003363!DESCRIPTION!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003364!DESCRIPTION!]
+		||
+		*The final meeting of a wall with his face brings upon a bout of unexpected sleep. Yet right as Ormenos' eyelids succumb to the weight of exhaustion, he spies his savior lounging on a fluffy cloud. Roostor looks back with a sparkling smile, issuing one final, reassuring wink...*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003364!DESCRIPTION!/]
 
 >>>Went full crazy in the Nave convo (2071)<<<
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0036!DESCRIPTION!]
 		|^2071:ENCLAVE!THE NAVE!HALL OF RECKONING!0.00336!DESCRIPTION!|
-		*The intensity with which the Choir spoke weighs heavy upon Ormenos' mind, for there is only one logical conclusion he can draw from his current circumstances: whichever disciplinary actions will be required for atonement will certainly be less than pleasant. 
-		
-		With this thought fresh in his mind, an unknown darkness descends upon his consciousness...*
+		*The intensity with which the Choir spoke weighs heavy upon Ormenos' mind, for there is only one logical conclusion he can draw from his current circumstances - a most unpleasant one. With this thought fresh in his mind, exhaustion cuts consciousness from its thread-thin tether; it turns eyelids to lead blocks; it turns muscles to jelly; it...*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0036!DESCRIPTION!/]
 
 
-
+???
 CHOIR OF ARCHONS
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!CHOIR OF ARCHONS!]
 		||
