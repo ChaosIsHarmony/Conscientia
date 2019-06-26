@@ -1118,7 +1118,7 @@ went directly to the nave
 		(B#"I wish to know why Torma was aware of my presence."){B:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00022!CHOIR OF ARCHONS!}
 		(C#"Do as you wish."){C:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00035!CHOIR OF ARCHONS!}
 		(D#"Forgive me! It slipped my mind, is all! The Thought Wheel is in Kabu..."){D:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000242!CHOIR OF ARCHONS!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000231!CHOIR OF ARCHONS!/]
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000230!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00024!CHOIR OF ARCHONS!]
 		||
@@ -1158,7 +1158,7 @@ went directly to the nave
 		(A#"I... apologize. I'm still a bit shaken from the subject... finding me."){A:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00022!CHOIR OF ARCHONS!}
 		(D#"Forgive me! It merely slipped my mind! Yes, the 'Eidos' was mentioned..."){D:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00024!CHOIR OF ARCHONS!}
 		(E#"You'll sooner squeeze blood from a stone."){E:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00035!CHOIR OF ARCHONS!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000251!CHOIR OF ARCHONS!/]
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000250!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.000252!CHOIR OF ARCHONS!]
 		||
@@ -1308,65 +1308,77 @@ went directly to the nave
 		||
 		*"Brother Entropy Stayer is already positioned in Kabu; he will handle the case henceforth."*
 		(A#"Brother Entropy Stayer is... a fine replacement."){A:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!}
-		(B#"He is more suited for fieldwork than me. Your choice is logical."){B:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!}
+		(B#"Your choice is logical - his talents and position are ideal for this."){B:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!}
 		(C#"As you wish."){C:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!}
 		(D#"Kambesh? But I was the one who found it! Only I truly understand!"){D:1,ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2020!CHOIR OF ARCHONS!}
-		(E#"I am clearly the superior choice. Kambesh is nothing."){E:1,ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2020!CHOIR OF ARCHONS!}
-		(F#"Homeboy is gonna get straight up killed in Kabu, bros."){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000916!CHOIR OF ARCHONS!}
+		(E#"Clearly I'm the superior choice. Kambesh is nothing."){E:1,ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2020!CHOIR OF ARCHONS!}
+		(F#"Oh! That's the guy that gets killed by Khaa and Pakharon!"){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000916!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009100!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!]
 		||
-		*"You will have no further contact with the Wayfarer's mind. We shall make preparations for her disposal in the coming days."*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0009110!CHOIR OF ARCHONS!}
+		*"You will have no further contact with the Wayfarer's mind. Preparations for her disposal are forthcoming."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009110!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!/]
-???
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0009110!CHOIR OF ARCHONS!]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009110!CHOIR OF ARCHONS!]
+		||
+		*"Her interrogation has been the most protracted one we have seen, and the Mind-Loom has soured her sanity..."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0009111!CHOIR OF ARCHONS!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009110!CHOIR OF ARCHONS!/]
+	
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0009111!CHOIR OF ARCHONS!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!10.X000!CHOIR OF ARCHONS!|
-		*"Long has she been a captive of our Order and no hope remains for her sanity after such prolonged connection to the Mind-Loom; it will be our final mercy to her."*
+		*"Her destruction will be our final mercy to her."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!CHOIR OF ARCHONS!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0009110!CHOIR OF ARCHONS!/]
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0009111!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.000914!CHOIR OF ARCHONS!]
 		||
-		*"Brother Inquisitor, you tread on the thinnest of ice..."*
+		*"Brother Inquisitor, your opinion was neither requested nor desired."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009140!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000914!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009140!CHOIR OF ARCHONS!]
 		||
-		*"Not only have you spoken the unspeakable name of a beloved Brother, but worse, you ignore that this decision was never yours to make."*
+		*"Not only have you spoken the unspeakable name of a beloved Brother, but worse, you have called to question the Choir's authority."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009141!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009140!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009141!CHOIR OF ARCHONS!]
 		||
-		*"You will do as you are commanded, for the good of the Order, or you will be dealt with summarily!"*
+		*"Do as commanded, for the good of the Order, or there will be consequences."*
 		(D#"Yes, of course. Forgive my impertinence..."){D:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009144!CHOIR OF ARCHONS!}
-		(E#"I will destroy all who oppose me."){E:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009145!CHOIR OF ARCHONS!}
+		(E#"Oppose me and there will be consequences!"){E:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009145!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009141!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009144!CHOIR OF ARCHONS!]
 		||
-		*"That you have remembered your place pleases us; that you had forgotten in the first place, shall be marked in your permanent record."*
+		*"You have returned from chaos to order, from Ignorance to Discipline. Good."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091440!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009144!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091440!CHOIR OF ARCHONS!]
 		||
-		*"You may now return to your quarters."*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!}
+		*"But our memory is longer than the Muninn's. That you had strayed at all shall be marked on your permanent record."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091441!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091440!CHOIR OF ARCHONS!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091441!CHOIR OF ARCHONS!]
+		||
+		*"Now, return to your quarters."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091441!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009145!CHOIR OF ARCHONS!]
 		||
-		*"You are but a frog in a well unaware of the sea beyond the limits of your imagination, Inquisitor."*
+		*"A frog in a well, unaware of the sea beyond the limits of your imagination..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091450!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009145!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091450!CHOIR OF ARCHONS!]
 		||
-		*"You have no idea how small and insignificant you are."*
+		*"You have no idea how small and insignificant you are, Inquisitor."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091451!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00091450!CHOIR OF ARCHONS!/]
 
@@ -1384,20 +1396,20 @@ went directly to the nave
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009160!CHOIR OF ARCHONS!]
 		||
-		*"If you don't stop with this nonsense at once, we will be forced to take disciplinary measures!"*
-		(F#"You only think it's nonsense because you haven't read the other book..."){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00046!CHOIR OF ARCHONS!}
+		*"Stop with this nonsense at once, or there will be consequences."*
+		(F#"If you'd read the other book, you'd know!"){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00046!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009160!CHOIR OF ARCHONS!/]
 
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00093!CHOIR OF ARCHONS!]
 		||
-		*"No, Inquisitor, it is not as we wish, but rather as your actions demand."*
+		*"No, Inquisitor, it is not as we wish, but as your actions demand."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000930!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00093!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.000930!CHOIR OF ARCHONS!]
 		||
-		*"Enforcers! Take this fallen mage to the Vault!"*
+		*"Enforcers! Take this fallen Brother to the Vault."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2072!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000930!CHOIR OF ARCHONS!/]
 
@@ -1409,13 +1421,13 @@ went directly to the nave
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.000950!CHOIR OF ARCHONS!]
 		||
-		*"We shall see if your repentance comes before your Trueflesh falls to the curse of madness."*
+		*"Will repentance come before your Trueflesh falls to the curse of madness?"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2072!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000950!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00096!CHOIR OF ARCHONS!]
 		||
-		*"Enforcers, remove this scoundrel!"*
+		*"Enforcers, remove the fallen Brother."*
 		(F#"That's it! I'm summoning Roostor, your gremlin bastards!"){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2071!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00096!CHOIR OF ARCHONS!/]
 
@@ -1423,13 +1435,13 @@ went directly to the nave
 dilly-dallied
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!1.0000!CHOIR OF ARCHONS!]
 		||
-		*"Brother Inquisitor, your tardiness is inexcusable, for which you have earned one demerit to be marked in your permanent record."*
+		*"Brother Inquisitor, your tardiness is inexcusable. One demerit will be marked on your permanent record."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!1.X0001!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!1.0000!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!1.X0001!CHOIR OF ARCHONS!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.0001!CHOIR OF ARCHONS!|
-		*"Now, you are to report your findings from your excursions into the mind of the Wayfarer. Come to the front immediately. All others, stand aside."*
+		*"Now, come report your findings from recent excursions. To the front, immediately. All others, stand aside."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!1.X0001!CHOIR OF ARCHONS!/]
 
@@ -1437,7 +1449,7 @@ dilly-dallied
 brought by force to the nave	
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!2.0000!CHOIR OF ARCHONS!]
 		||
-		*"Inquisitor, your utter neglect of your duties and flagrant disregard for the Order is inexcusable."*
+		*"Inquisitor, your utter neglect of duty and flagrant disregard for the Order is inexcusable."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!2.0001!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!2.0000!CHOIR OF ARCHONS!/]
 
@@ -1457,37 +1469,37 @@ brought by force to the nave
 Jinn slayer stuff
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!10.X000!CHOIR OF ARCHONS!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!10.X001!CHOIR OF ARCHONS!|
-		*"Brother Jinn Slayer, your words are disruptive and uncompelling. We advise you to cease immediately."*
+		*"Brother Jinn Slayer, your words are disruptive and uncompelling. Cease immediately."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1202!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!10.X000!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!10.X001!CHOIR OF ARCHONS!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!10.X002!CHOIR OF ARCHONS!|
-		*"Preposterous! Long has it been known and verified that the Sylvan Architect is but a myth!"*
+		*"Illogical. Long has it been known and verified that the Sylvan Architect is but a myth."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1202!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!10.X001!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!10.X002!CHOIR OF ARCHONS!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!10.003!CHOIR OF ARCHONS!|
-		*"Enough! Enforcers! remove this dissenter and cast him among the Vault-dwellers!"*
+		*"Enough. Enforcers. Remove the cancer before it causes more damage."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1202!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!10.X002!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!10.003!CHOIR OF ARCHONS!]
 		||
-		*"You will rot in the bowels of the Vault!"*
+		*"Your words are empty."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!10.004!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!10.003!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!10.004!CHOIR OF ARCHONS!]
 		||
-		*"And none will remember you or your madness!"*
+		*"None will remember you."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!10.005!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!10.004!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!10.005!CHOIR OF ARCHONS!]
 		||
-		*"Now quickly, remove him!"*
+		*"You are forgotten."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1202!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!10.005!CHOIR OF ARCHONS!/]
 
@@ -1502,111 +1514,111 @@ JINN SLAYER
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.001!JINN SLAYER!]
 		||
-		*"I will not be silenced and we reject your deceit!"*
+		*"I will not cease! I will never cease!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.002!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.001!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.002!JINN SLAYER!]
 		||
-		*"Brothers and sisters, we have been manipulated by the Sylvan Architect!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X003!JINN SLAYER!}
+		*"My words are the light of Awareness come to banish the shadows your deceit casts!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.003!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.002!JINN SLAYER!/]
 
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X003!JINN SLAYER!]
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003!JINN SLAYER!]
+		||
+		*"Brothers and sisters, we have been manipulated... by none other than the Sylvan Architect himself!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0030!JINN SLAYER!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003!JINN SLAYER!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0030!JINN SLAYER!]
+		||
+		*"But 'how?' you will surely wish to hear..."*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0031!JINN SLAYER!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0030!JINN SLAYER!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0031!JINN SLAYER!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.004!JINN SLAYER!|
-		*"We are simply pawns in his game to wrest control from the other Masters!"*
+		*"Suffice it to say that skulking curs who hide behind curtains hide for a reason!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X003!JINN SLAYER!/]
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0031!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.004!JINN SLAYER!]
 		||
-		*"We shall see, for I have discovered the true purpose of the Stone Circle!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X005!JINN SLAYER!}
+		*"Oh, the Choir sings an old tune, one misremembered through cycles of guided ignorance!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.005!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.004!JINN SLAYER!/]
 
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X005!JINN SLAYER!]
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.005!JINN SLAYER!]
+		||
+		*"But, I have found the records among the sanctuary of Muninn rings, for those white giants' memories neither wane nor disappear! Those memories are unassailable! Immune to the Choir's diseased intent!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0050!JINN SLAYER!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.005!JINN SLAYER!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0050!JINN SLAYER!]
+		||
+		*"Brothers! Sisters! I have found the earliest memories of our origins! I have discovered the true purpose of the Stone Circle at the Threshold!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0051!JINN SLAYER!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0050!JINN SLAYER!/]
+
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0051!JINN SLAYER!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.006!JINN SLAYER!|
-		*"What's more, I have learned how to end this war and free the members of our Order once and for all!"*
+		*"Knowledge is power; and the power we now wield will end this forgotten war and free the Order from its invisible bonds!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X005!JINN SLAYER!/]
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0051!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.006!JINN SLAYER!]
 		||
-		*"It matters not!"*
+		*"Your pathetic attempts to veil truth end today!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.007!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.006!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.007!JINN SLAYER!]
 		||
-		*"The cogs in our machinations have been greased and are already in motion!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.008!JINN SLAYER!}
+		*"Brothers and Sisters, look and see! The cruelty with which the Choir treats the Order is clear evidence of their true allegiance!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X008!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.007!JINN SLAYER!/]
 
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.008!JINN SLAYER!]
-		||
-		*"The veil of ignorance you Kharr-spawn have cast upon us will soon be lifted and we will gaze upon the hideous visages of our oppresors!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.009!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.008!JINN SLAYER!/]
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X008!JINN SLAYER!]
+		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.009!JINN SLAYER!|
+		*"We Enforcers have seen firsthand the fates of many a brother and sister sinisterly twisted as the Choir tried to silence their curiosity!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!JINN SLAYER!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X008!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.009!JINN SLAYER!]
 		||
-		*"The severity and cruelty with which the Choir treats its own brothers is clear evidence of their true allegiance!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X010!JINN SLAYER!}
+		*"And now I join the fallen! Fallen, shoved by the Choir into the Void oblivion, forced down into the depths of the Vaults!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.010!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.009!JINN SLAYER!/]
 
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X010!JINN SLAYER!]
-		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.011!JINN SLAYER!|
-		*"We Enforcers have seen the fates of many a brother and sister sinisterly twisted as the Choir tried to silence their curiosity!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X010!JINN SLAYER!/]
+	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.010!JINN SLAYER!]
+		||
+		*"Fallen, but not kneeling to the Masters, nor to their lackeys! No! Never!"*
+		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.011!JINN SLAYER!}
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.010!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.011!JINN SLAYER!]
 		||
-		*"Now I will be among them! I will join my wronged comrades in the exile of the Void at the depths of the Vaults!"*
+		*"May this serve to rouse you from your sleep of complacency!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.012!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.011!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.012!JINN SLAYER!]
 		||
-		*"May my condemnation for demanding that my voice be heard, for refusing the enslavement of the Masters!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0120!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.012!JINN SLAYER!/]
-
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0120!JINN SLAYER!]
-		||
-		*"May this serve to rouse you from your sleep of complacency!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0121!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0120!JINN SLAYER!/]
-
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0121!JINN SLAYER!]
-		||
-		*"Be not as the draug led by the loathsome Jinnwraiths!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0122!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0121!JINN SLAYER!/]
-
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0122!JINN SLAYER!]
-		||
-		*"Unite against this tyranny! This enslavement!"*
+		*"Be not as the draug led by loathsome Jinnwraiths!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.013!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0122!JINN SLAYER!/]
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.012!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.013!JINN SLAYER!]
 		||
-		*"Brothers and sisters, listen and learn who truly cares for you! It is not these wolves in sheeps' skin; but rather my Enforcer brethren who will liberate you from tyranny unseen!"*
+		*"Unite against this tyranny! This enslavement!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.014!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.013!JINN SLAYER!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.014!JINN SLAYER!]
 		||
-		*"Mark my words: history will vindicate me!"*
-		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.015!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.014!JINN SLAYER!/]
-
-	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.015!JINN SLAYER!]
-		||
 		*"For the good of the Order! And for the future of Humanity!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X9999!JINN SLAYER!}
-	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.015!JINN SLAYER!/]
+	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.014!JINN SLAYER!/]
 
 
 

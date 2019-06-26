@@ -55,13 +55,13 @@ MAPS
 	(ANTECHAMBER,0,false,1,1,7,1)
 	(ARCHIVES,1,false,1,1,4,5)
 	(AWAKENING CHAMBER,2,true,1,1,4,3)
-	(HALL OF SENTRIES,3,false,1,1,6,1)
+	(HALL OF SENTRIES,3,true,1,1,6,1)
 	(HALL OF SERVANTS,4,false,1,1,6,8)
 	(LUIN'S CHAMBER,5,false,1,1,3,5)
 	(MATHETIA,6,false,1,1,3,3)
 	(STAR BRIDGE,7,false,1,1,8,1)
 	(THRONE ROOM,8,false,1,1,6,7)
-	(WINDING STAIR,9,false,1,1,5,3)
+	(WINDING STAIR,9,true,1,1,5,3)
 	(WORKSHOP,10,false,1,1,4,6)
 	{SANCTUARY}
 	

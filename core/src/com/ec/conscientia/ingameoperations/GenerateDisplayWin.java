@@ -273,7 +273,11 @@ public class GenerateDisplayWin {
 						mgScr.mgVar.NPCdialogueArea.getHeight());
 
 				// NPC name
-				TextButton npcArea = new TextButton(mgScr.mgVar.dialogue.getCurrentNPC().getName(), mgScr.mgVar.skin,
+				TextButton npcArea;
+				if (mgScr.getConscientia().isUseAltFont())
+					npcArea = new TextButton(mgScr.mgVar.dialogue.getCurrentNPC().getName(), mgScr.mgVar.skin,"whiners_npcArea");
+				else
+					npcArea = new TextButton(mgScr.mgVar.dialogue.getCurrentNPC().getName(), mgScr.mgVar.skin,
 						"npcArea");
 				npcArea.align(Align.center);
 				npcArea.setTouchable(Touchable.disabled);
@@ -357,7 +361,12 @@ public class GenerateDisplayWin {
 	}
 
 	public TextButton createFightButton(float w, float h, boolean activate) {
-		final TextButton fightButton = new TextButton("", mgScr.mgVar.skin);
+		final TextButton fightButton;
+		if (mgScr.getConscientia().isUseAltFont())
+			fightButton = new TextButton("", mgScr.mgVar.skin,"whiners_npcArea");
+		else
+			fightButton = new TextButton("", mgScr.mgVar.skin,"npcArea");
+
 		if (activate) {
 			fightButton.getLabel().setText("FIGHT!");
 			fightButton.addListener(new ClickListener() {
@@ -367,6 +376,7 @@ public class GenerateDisplayWin {
 			});
 		} else
 			fightButton.setTouchable(Touchable.disabled);
+
 
 		return fightButton;
 	}

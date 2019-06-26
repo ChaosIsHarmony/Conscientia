@@ -59,12 +59,19 @@ public class CombatMenu {
 		// combat battle log
 		Window combatBattleLogWindow = new Window("", skin, "no_bg");
 		combatBattleLogWindow.setMovable(false);
-		TextField battleLogTitle = new TextField("BATTLE LOG", skin);
+		TextField battleLogTitle;
+		if (mgScr.getConscientia().isUseAltFont())
+			battleLogTitle = new TextField("BATTLE LOG", skin, "whiners_npcArea");
+		else
+			battleLogTitle = new TextField("BATTLE LOG", skin);
 		battleLogTitle.setDisabled(true);
 		battleLogTitle.setAlignment(Align.center);
 		Window textAreaWindow = new Window("", skin);
 		textAreaWindow.setMovable(false);
-		battleLog = new Label(battleOutcome, skin);
+		if (mgScr.getConscientia().isUseAltFont())
+			battleLog = new Label(battleOutcome, skin, "whiners_default");
+		else
+			battleLog = new Label(battleOutcome, skin);
 		battleLog.setWrap(true);
 		battleLog.setTouchable(Touchable.disabled);
 		battleLogScrollPane = new ScrollPane(battleLog, skin, "no_bg");
@@ -94,7 +101,10 @@ public class CombatMenu {
 		textAreaWindow.add(canScrollLabel).align(Align.center).expandX().setActorHeight(5);
 
 		// Act button
-		proceed = new TextButton("PROCEED", skin);
+		if (mgScr.getConscientia().isUseAltFont())
+			proceed = new TextButton("PROCEED", skin, "whiners_npcArea");
+		else
+			proceed = new TextButton("PROCEED", skin);
 		proceed.addListener(new ClickListener() {
 			public void clicked(InputEvent event, float x, float y) {
 				mgScr.getSoundManager().playSFX(SoundManager.SFX_CLICK_POSITIVE);
