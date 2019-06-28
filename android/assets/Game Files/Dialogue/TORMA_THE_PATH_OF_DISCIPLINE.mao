@@ -403,65 +403,79 @@ EDGE OF IGNORANCE
 Have neither Glyph
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!DESCRIPTION!]
 		||
-		*Ormenos enters a dank hollow carved right into the belly of the mountain home of the Enclave. Here stand the twinned pillars of the Patrons of Wisdom; inscribed in their marble base are the words:
-		
-		"THOSE WHO SEEK DISCIPLINE MAY ENTER;
-		THOSE WHO LACK IT WILL NOT SUCCEED."
-		
-		Between the massive pillars is a robust metal door, composed of overlapping metallic sheets, like the scales of some gargantuan beast.*
+		*Earthen scents, the molds, the minerals; earthen sounds, the drips, the scrapes; all these, and the rough feel of a hand tracing the stony wall, illuminate what the darkness hides. Though invisible to the eye, they are not invisible to the mind. This dank hollow, carved right into the belly of the Enclave's mountain home, habors the secret to the Order's mastery of Glyphs.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!DESCRIPTION!]
-		||	
-		*Here begins the Path of Discipline, the journey in which some magi spend years trying to master a single Glyph. At the founding of the Enclave, it was established by the Patrons of Wisdom, such that it may act as a catalyst for learning. Whereas an ordinary mage might spend a lifetime mastering a single Glyph, now the Enclaveans can master multiple Glyphs, if they have the Discipline required to do so. 
-		
-		Ormenos has learned but two Glyphs, focusing more on introspection and knowledge, for those aid him far more in his craft.*
-		(A#Leave){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
-		(B#Start the Path){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0011!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!DESCRIPTION!/]
-	
-	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0011!DESCRIPTION!]
-		|@:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X00110!DESCRIPTION!|
-		*The decision made, a grinding sound of a gradually accelerating Thought Wheel captures his attention. Then the thunderous voice of the Arbiter - that droning hum of the Thought Wheel, made intelligible only through the knowledge of the Glyph of Discipline - confronts Ormenos.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X1207!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0011!DESCRIPTION!/]
-	
->>>You passed Arbiter's first challenge (2063)<<<
-	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X00110!DESCRIPTION!]
-		|^2063:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00111!DESCRIPTION!|
-		*Having been denied access by the Arbiter, Ormenos can do nothing but vacate the premises.*
-		(A#Leave){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X00110!DESCRIPTION!/]
-	
-	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00111!DESCRIPTION!]
 		||
-		*The frame surrounding the scaly, metallic gate springs into luminescence, and the massive metal door begins to reveal what lays beyond. It splits and divides into many smaller plates that are sequentially drawn into the walls. It does this in almost total silence, the only sound emitted being the rush of air that innudates in from the adjoining area like some great exhalation - though this air carries with it a distinctly odorless scent, as if it were suppressing all sense of smell.*
+        *A dull amber light ahead signals the beginning. Two crystalline sconces adorn twinned pillars, the Patrons of Wisdom's final gift before their disappearance. These gifts dwarf the mage before them, extending upward several times his height. Each bear a phrase, two sides of the same coin, their union both admonishes and encourages Enclaveans attempting the Path...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!DESCRIPTION!]
+		||		
+		*"SEEKERS OF DISCIPLINE WILL ENTER.
+		LACKERS THEREOF WILL FAIL."*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!DESCRIPTION!]
+		||
+		*The pillars frame a robust metal shutter between them. Composed of overlapping metallic sheets, it resembles the scales of some forgotten leviathan, peacefully slumbering in the depths of the mountain.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!DESCRIPTION!]
+		||
+		*Sources relating to the Path of Discipline are scant - odd, as every Enclavean will attempt it at some point. From what Ormenos has been able to discover, though, the Patrons of Wisdom built it at the founding of the Enclave. It was to act as a catalyst for learning, allowing magi to master multiple Glyphs - if they had the Discipline required to do so. Yet, it turned out to be surprisingly difficult for others to follow, the individual stages having neither rhyme nor reason. To this date, only a handful of magi have ever walked the Path in its entirety.*
+		(A#Leave){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
+		(B#Start the Path){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0014!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0014!DESCRIPTION!]
+		|@:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X00140!DESCRIPTION!|
+		*The decision made, a gradually accelerating Thought Wheel responds. Its ancient innards grind and squeal, soon giving way to the thunderous voice of the Arbiter...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X1207!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0014!DESCRIPTION!/]
+
+>>>You passed Arbiter's first challenge (2063)<<<
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X00140!DESCRIPTION!]
+		|^2063:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00141!DESCRIPTION!|
+		*Having been denied access by the Arbiter, Ormenos can do nothing but vacate the premises. Though his time at the Enclave spans decades, he still has much to learn.*
+		(A#Leave){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X00140!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00141!DESCRIPTION!]
+		||
+		*The frame surrounding the scaly shutter springs to luminescence, and the massive metal door begins to reveal what lays beyond. Splitting, dividing, it fragments into myriad smaller plates that are then sequentially drawn into the walls. The eerie silence breaks only when air floods in from the adjoining area, a waking giant's great exhalation. The air carries with it a distinctly odorless scent, as if suppressing all sense of smell.*
 		(A#Begin){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X000!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00111!DESCRIPTION!/]
-	
-	
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00141!DESCRIPTION!/]
+
+
+
+    [/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X019!DESCRIPTION!]
+		||
+		*MULTICHECKER*
+		(A#CHECKER){A:0,NO ADDRESS}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X019!DESCRIPTION!/]
+
+
+
 Have both Glyphs
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.002!DESCRIPTION!]
 		||
-		*Ormenos enters a dank hollow carved right into the belly of the mountain home of the Enclave. Here stand the twinned pillars of the Patrons of Wisdom; inscribed in their marble base are the words:
-		
-		"THOSE WHO SEEK DISCIPLINE MAY ENTER;
-		THOSE WHO LACK IT WILL NOT SUCCEED."
-		
-		Between the massive pillars is a robust metal door, composed of overlapping metallic sheets, like the scales of some gargantuan beast.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!DESCRIPTION!}
+		*Sources relating to the Path of Discipline are scant - odd, as every Enclavean will attempt it at some point. From what Ormenos has been able to discover, though, the Patrons of Wisdom built it at the founding of the Enclave. It was to act as a catalyst for learning, allowing magi to master multiple Glyphs - if they had the Discipline required to do so. Yet, it turned out to be surprisingly difficult for others to follow, the individual stages having neither rhyme nor reason. To this date, only a handful of magi have ever walked the Path in its entirety...*
+        (A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.002!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!DESCRIPTION!]
 		||
-		*Here begins the Path of Discipline, the journey in which some magi spend years trying to master a single Glyph. At the founding of the Enclave, it was established by the Patrons of Wisdom, such that it may act as a catalyst for learning. Whereas an ordinary mage might spend a lifetime mastering a single Glyph, now the Enclaveans can master multiple Glyphs, if they have the Discipline required to do so. 
-		
-		Ormenos has learned but two Glyphs, focusing more on introspection and knowledge, for those aid him far more in his craft. Yet Ormenos has enough Awareness to see that he is not ready to learn any more Glyphs at the moment, as his cup runeth full.*
+        *Yet only need begets effort, and the Inquisitor feels no need to expend any effort to walk the Path at the moment.*
 		(A#Leave){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!DESCRIPTION!/]
-	
-	
+
+???
 failed at some point along the path
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!DESCRIPTION!]
 		||
@@ -471,7 +485,7 @@ failed at some point along the path
 		(A#Leave){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!DESCRIPTION!/]
 
-	
+
 obtained a glyph but left the path
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!]
 		||
@@ -480,8 +494,8 @@ obtained a glyph but left the path
 		But for now, all Ormenos can do is retire to greener pastures.*
 		(A#Leave){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!/]
-	
-	
+
+
 ejected from the Path
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.005!DESCRIPTION!]
 		||
