@@ -479,9 +479,7 @@ Have both Glyphs
 failed at some point along the path
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!DESCRIPTION!]
 		||
-		*Walking back, swimming in the cofusion and perhaps even the unfairness of the Path, Ormenos reaches the beginning. The scaly, metallic door has sealed itself behind him, barring him from re-entry. Arbiter lays dormant, awaiting the spark of Discipline to re-ignite within an Enclavean's Trueflesh.
-		
-		But for now, all Ormenos can do is retire to greener pastures.*
+		*Stumbling back, swimming in the cofusion and perhaps even the unfairness of the Path, Ormenos reaches the beginning. The scaly, metallic door seals itself behind him, barring him from re-entry. Arbiter lays dormant, awaiting the spark of Discipline to re-ignite within an Enclavean's Trueflesh.	But for now, all Ormenos can do is retire to greener pastures.*
 		(A#Leave){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!DESCRIPTION!/]
 
@@ -489,9 +487,7 @@ failed at some point along the path
 obtained a glyph but left the path
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!]
 		||
-		*Having obtained the competence he desired, Ormenos returns to the beginning. Passing through the scaly, metallic door, he watches as it unfolds to cover the Path anew. What lay beyond the learning of a Glyph will remain but one of many mysteries confronting this mage of the Enclavean Order.
-		
-		But for now, all Ormenos can do is retire to greener pastures.*
+		*Having obtained the competence he desired, Ormenos returns to the beginning. Passing through the open portal, that scaly, metallic door unfolds to cover the Path anew. What lies beyond the learning of a Glyph will remain but one of many mysteries confronting this Enclavean. But for now, all Ormenos can do is retire to greener pastures.*
 		(A#Leave){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!/]
 
@@ -499,38 +495,64 @@ obtained a glyph but left the path
 ejected from the Path
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.005!DESCRIPTION!]
 		||
-		*Countless hours of clawing his way through the labyrinthine tunnels finally brings Ormenos back to the beginning. Though not all was lost, for at least he was able to obtain the Glyph his Trueflesh desired prior to his ejection from the Path. However, what lay beyond the learning of a Glyph will remain but one of many mysteries confronting this mage of the Enclavean Order.
-		
-		But for now, all Ormenos can do is retire to greener pastures.*
+		*Countless hours of clawing through the labyrinthine tunnels finally brings Ormenos back to the beginning. Though not all was lost, for at least he returns with the Glyph his Trueflesh desired. However, what lies beyond the learning of a Glyph will remain but one of many mysteries confronting this Enclavean. For now, all Ormenos can do is retire to greener pastures.*
 		(A#Leave){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2070!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.005!DESCRIPTION!/]
-	
-	
+
+
 completed the path of discipline
-	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X006!DESCRIPTION!]
-		|@:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0060!DESCRIPTION!|
-		*Ormenos walks through the gates, now more aware than ever of the infinite weight of his pursuit. His troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of Brother Beast Lord leading a retinue of Enforcers marks an end to the Choir's patience...*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X1200!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X006!DESCRIPTION!/]
-	
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.006!DESCRIPTION!]
+		||
+		*Ormenos walks once more through the pillars, now more aware than ever of the infinite weight of his pursuit. Rare among magi, he knows the Path of Discipline, tamed it, made it his own.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0060!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.006!DESCRIPTION!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0060!DESCRIPTION!]
 		||
-		*The Beast Lord then escorts Ormenos unto the Nave and into the clutches of the slighted Choir of Archons to accept his punishment.*
-		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
+		*Though, to what end? What has he gained from this ordeal? What has he lost in sacrificing other pursuits to accomplish this feat?*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0061!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0060!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0061!DESCRIPTION!]
+		||
+		*A somewhat useless musing, he concludes, as it will merely serve to feed the already raging flame of his anxiety. Better to let such things lurk in the shadow of ignorance.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0062!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0061!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0062!DESCRIPTION!]
+		||
+		*But the Inquisitor knows his nature, if nothing else. He is only ever interested in the shadows cast by the light of Awareness; to him, that is the true meaning of Discipline - to witness, to grasp that which not even Awareness can know...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0063!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0062!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0063!DESCRIPTION!]
+		||
+		*Suddenly, the spark of recognition calls his attention back from the nether regions of thought. Before him stands the Beast Lord, a particularly savage moniker for such a learned man - typical of Enforcer Falsenames, though.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0064!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0063!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0064!DESCRIPTION!]
+		|@:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0065!DESCRIPTION!|
+		*Eyes lock. Confusion from one, mirrored by the other. But then his Brother's reason for being here dawns on him. Epiphanies of this sort are what the Inquisitor lives for. Awareness birthed from Ignorance, the ecstatic bliss of sudden realization. Though short-lived it is, for the Beast Lord is here to herald this Inquisitor's end...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X1200!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0064!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0065!DESCRIPTION!]
+		||
+		*Feet shuffle, directed by the strings of foreign wills, toward the Nave, toward Ormenos' reckoning...*
+		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0065!DESCRIPTION!/]
 	
 	
 returned to the path after having been kicked out
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.007!DESCRIPTION!]
 		||
-		*Though turned away from the Path of Discipline, Ormenos is not discouraged and returns to renew his quest. Yet Arbiter's cold reception leaves no question that its mind is made up and Ormenos won't be granted access to the Path again for quite some time.
-		
-		Thus, for now, all Ormenos can do is retire to greener pastures.*
+		*Though turned away from the Path of Discipline, Ormenos is not discouraged and returns to renew his quest. Yet Arbiter's echoing silence leaves no question as to the finality of its decision. Thus, for now, all Ormenos can do is retire to greener pastures.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.007!DESCRIPTION!/]
-	
-	
-	
+
+
+???
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!ARBITER!]
 		||
@@ -542,55 +564,55 @@ ARBITER
 		(E#"I am judge, jury and executioner."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!}
 		(F#"Depends. Do you give good fashion advice?"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!]
 		||
 		*"In order to proceed, answers must be given."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!ARBITER!]
 		||
 		*"It is well known that the Wayfarer visited Biracul in the Empyrean of old to discuss the cult to Biracul."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!ARBITER!]
 		||
 		*"A gracious host, Biracul started pouring a drink for the travel-weary Wayfarer."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!ARBITER!]
 		||
 		*"Words poured forth from the Wayfarer's lips on her opinions regarding the past, present and future of the cult."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!ARBITER!]
 		||
 		*"Likewise, water flowed from Biracul's urn until the cup runneth over and the excess cascaded over the sides.."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0014!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!ARBITER!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0014!ARBITER!]
 		||
 		*"The Wayfarer soon grew ireful at the sight of this excess."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0015!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0014!ARBITER!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0015!ARBITER!]
 		||
 		*"When she was no longer able to contain her revulsion, she demanded that Biracul desist in his pouring."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0016!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0015!ARBITER!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0016!ARBITER!]
 		||
 		*"And Biracul obligingly complied."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0017!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0016!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0017!ARBITER!]
 		||
 		*"Can you decipher the meaning of this story?"*
@@ -598,7 +620,7 @@ ARBITER
 		(B#"Could you repeat it?"){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!ARBITER!}
 		(C#"No, I cannot."){C:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0019!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0017!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0018!ARBITER!]
 		||
 		*"What then does this tale convey?"*
@@ -609,41 +631,41 @@ ARBITER
 		(E#"That tales are pointless; all that matters are actions."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
 		(F#"A thinly veiled Zen reference?"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0018!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!]
 		||
 		*"Not all paths lead to Discipline, but any journey begins by selecting a path."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X002!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0019!ARBITER!]
 		||
 		*"Knowledge of limitations is enough to begin the Path."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X002!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0019!ARBITER!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X002!ARBITER!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X002!ARBITER!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!ARBITER!]
 		||
 		*"Heavy upon your Trueflesh weighs the mark of a Glyph: you will learn Purification."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2065!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!]
 		||
 		*"Heavy upon your Trueflesh weighs the mark of a Glyph: you will learn Corruption."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2063!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!ARBITER!]
 		||
 		*~ac*
@@ -654,13 +676,13 @@ ARBITER
 		(E#TYR){E:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!}
 		(F#LOO){F:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!]
 		||
 		*"Then the Path of Discipline eludes you."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0030!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0030!ARBITER!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!ARBITER!|
 		*"Return only when you already walk it."*
@@ -672,7 +694,8 @@ ARBITER
 		*"Though you may fail, at least you may proceed."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!1.X000!ARBITER!/]
-	
+
+
 
 BEAST LORD
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!BEAST LORD!]
@@ -724,7 +747,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00204!BEAST LORD!]
 		||
-        *"But time is precious, ever-diminishing; its wasteful use is a crime of the highest order."*
+        *"But time is precious, ever-diminishing; its wasteful misuse is a crime of the highest order."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00205!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00204!BEAST LORD!/]
 
@@ -1020,9 +1043,9 @@ BEAST LORD
         *"You'll make fine bed fellows in the Vault."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00451!BEAST LORD!/]	
-	
 
-	
+
+
 
 ________________________________________________________________________
 FAITH'S ADVENT
@@ -2192,7 +2215,7 @@ EVENT WRITERS
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2040!DESCRIPTION!/]
 	
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2040!DESCRIPTION!]
-		|2040:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X006!DESCRIPTION!|
+		|2040:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.006!DESCRIPTION!|
 		*EVENT WRITER - Completed three events*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2040!DESCRIPTION!/]

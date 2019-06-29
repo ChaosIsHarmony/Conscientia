@@ -126,7 +126,7 @@ Completed two events
 Completed three events
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!DESCRIPTION!]
 		||
-		*Warmth banishes the chill hiding in Ormenos' bones. So subtly did the greedy halls rob him of heat that he barely even noticed. Only now in the presence of warmth does he realize just how little he had remaining. The Inquisitor had often thought this of Time, but for the first time he seems to connect the two events, wondering what other resource of his now slowly, imperceptibly diminishes beyond his awareness...*
+		*Warmth banishes the chill hiding in Ormenos' bones. So subtly did the wintery halls rob him of heat that he barely even noticed. Only now in the presence of warmth does he realize just how little heat remained within him. The Inquisitor had often thought this of Time, but only now does he connect the two events, wondering what other resource of his now slowly - nay, imperceptibly - diminishes beyond his awareness...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!DESCRIPTION!/]
 
@@ -138,7 +138,7 @@ Completed three events
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!DESCRIPTION!]
 		||
-        *But the Inquisitor knows his nature, if nothing else. He is only ever interested in the shadows cast by the light of Awareness; to him, that is the true meaning of Discipline, to understand that which not even Awareness knows...*
+        *But the Inquisitor knows his nature, if nothing else. He is only ever interested in the shadows cast by the light of Awareness; to him, that is the true meaning of Discipline - to witness, to grasp that which not even Awareness can know...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0032!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0031!DESCRIPTION!/]
 
@@ -150,13 +150,13 @@ Completed three events
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0033!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!DESCRIPTION!|
-        *Eyes lock. Confusion from one, replied by the other. But then his Brother's reason for being here dawns on him. Epiphanies of this sort are what the Inquisitor lives for. Awareness birthed from Ignorance, the ecstatic bliss of sudden realization. Though short-lived it is, for the Beast Lord is here to herald this Inquisitor's end...*
+        *Eyes lock. Confusion from one, mirrored by the other. But then his Brother's reason for being here dawns on him. Epiphanies of this sort are what the Inquisitor lives for. Awareness birthed from Ignorance, the ecstatic bliss of sudden realization. Though short-lived it is, for the Beast Lord is here to herald this Inquisitor's end...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1200!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X0033!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!DESCRIPTION!]
 		||
-		*Feet shuffle, directed by the strings of will, toward the Nave, toward Ormenos' reckoning...*
+		*Feet shuffle, directed by the strings of foreign wills, toward the Nave, toward Ormenos' reckoning...*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0034!DESCRIPTION!/]
 
@@ -305,7 +305,7 @@ BEAST LORD
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!]
 		||
-		*"...What happened to you, Brother? When did ice replace warmth in your words?"*
+		*"...What happened to you, Brother? When did ice replace fire in your words?"*
         (A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0020!BEAST LORD!/]
 
@@ -631,6 +631,7 @@ BEAST LORD
         *"You'll make fine bed fellows in the Vault."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00413!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00451!BEAST LORD!/]
+
 
 
 CHAOS TAMER

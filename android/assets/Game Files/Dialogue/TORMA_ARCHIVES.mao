@@ -1143,7 +1143,7 @@ completed two events
 completed three events
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X004!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.0040!DESCRIPTION!|
-		*Ormenos drags heavy feet into the Mathetia, boots filled with the leaden weights of his doubts, fears and anxieties. The Inquisitor's troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled, for the appearance of Brother Beast Lord and a retinue of Enforcers marks an end to the Choir's patience...*
+		*Ormenos drags heavy feet into the Mathetia, boots filled with the leaden weights of his doubts, fears and anxieties. The Inquisitor's troubled mind is met with the undeniable sign that his Falseflesh will soon be equally troubled. The appearance of Brother Beast Lord and a retinue of Enforcers marks an end to the Choir's patience...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1200!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X004!DESCRIPTION!/]
 
