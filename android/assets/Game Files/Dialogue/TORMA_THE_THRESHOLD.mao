@@ -1921,13 +1921,13 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0020!BEAST LORD!]
 		||
-		*"...What happened to you, Brother? When did ice replace warmth in your words?"*
+		*"...What happened to you, Brother? When did ice replace fire in your words?"*
         (A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00200!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0020!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00200!BEAST LORD!]
 		||
-        *"But then again, I suppose it's useless to ask snow why it's cold..."*
+        *"...A useless inquiry, I suppose. After all, there's no way to ask the snow how it grew cold..."*
         (A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00201!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00200!BEAST LORD!/]
 
@@ -1939,31 +1939,31 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00202!BEAST LORD!]
 		||	
-		*"Brothers! Sisters! Members of the Enclave!"*
+		*"Brothers! Sisters! Members of the Enclave! Listen well!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00203!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00202!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00203!BEAST LORD!]
 		||
-        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on trees."*
+        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on Munnins."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00204!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00203!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00204!BEAST LORD!]
 		||
-        *"But time is precious, ever-diminishing; its wasteful use is a crime of the highest order."*
+        *"But time is precious, ever-diminishing; its wasteful misuse is a crime of the highest order!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00205!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00204!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00205!BEAST LORD!]
 		||
-        *"And so the Choir have summoned him, to stand beneath their wise gaze, to bear the weight of their judgment!"*
+        *"And so the Choir has summoned him, to stand before them, to bear the weight of their righteous judgment!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00206!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00205!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00206!BEAST LORD!]
 		||
-        *"Follow not his example, lest you follow him to the Vault!"*
+        *"Seek not his path! Break all ties of kinship! - lest you follow him to the Vault..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00207!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00206!BEAST LORD!/]
 
@@ -1981,7 +1981,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00210!BEAST LORD!]
 		||
-		*"When I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+		*"When I first came to the Order, you were already renowned and respected - perfection made flesh."*
         (A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00211!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00210!BEAST LORD!/]
 
@@ -2025,7 +2025,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00221!BEAST LORD!]
 		||
-		*"What I wanted to say was that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+		*"What I wanted to say was that when I first came to the Order, you were already renowned and respected - perfection made flesh."*
         (A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00222!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00221!BEAST LORD!/]
 
@@ -2057,7 +2057,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0023!BEAST LORD!]
 		||
-		*"What I wish to say is that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+		*"What I wish to say is that when I first came to the Order, you were already renowned and respected - perfection made flesh."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00230!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0023!BEAST LORD!/]
 
@@ -2089,27 +2089,28 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0026!BEAST LORD!]
 		||
-		*"Caveman? Kabu? Brother, we only met after I came to the Enclave... And besides, you've never even been to my homeland..."*
+		*"Caveman? Kabu? Brother, we first met after I came to the Enclave... And besides, you've never even been to my homeland..."*
 		(F#"How can I put this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00260!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0026!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00260!BEAST LORD!]
 		||
-		*"But it seems you have no intention of actually listening to a Brother's words..."*
+		*"Regardless, it seems you've no intention of actually listening to a Brother's earnest words..."*
 		(F#"By Roostor's Comb! You misunderstand! You're destined to die alone in a cave!"){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0020!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00260!BEAST LORD!/]
 
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0031!BEAST LORD!]
 		||
-		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		*"Ormenos, the Choir has never tolerated acts of insubordination! What possessed you to believe this policy had somehow changed?!"*
 		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!BEAST LORD!}
 		(B#"Curiosity guides my action, not the Choir's will."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0042!BEAST LORD!}
-		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0045!BEAST LORD!}
+		(E#"It'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0031!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0032!BEAST LORD!]
 		||
-		*"What is of such supreme importance that you have staked your very life on it?!"*
+		*"What's of such supreme importance that you've staked your very life on it?!"*
 		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!BEAST LORD!}
 		(B#"Curiosity. It alone guides my action, not the Choir's will."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0042!BEAST LORD!}
 		(C#"Importance is a product of whim; nothing is 'supremely' important."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0033!BEAST LORD!}
@@ -2123,36 +2124,36 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0034!BEAST LORD!]
 		||
-		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		*"Ormenos, the Choir has never tolerated any acts of insubordination! What possessed you to believe this policy had somehow changed?!"*
 		(C#"I never said it had."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0033!BEAST LORD!}
 		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0044!BEAST LORD!}
-		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0045!BEAST LORD!}
+		(E#"It'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0034!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0035!BEAST LORD!]
 		||
-		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		*"Ormenos, the Choir has never tolerated any acts of insubordination! What possessed you to believe this policy had somehow changed?!"*
 		(A#"And why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!BEAST LORD!}
 		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0044!BEAST LORD!}
-		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0045!BEAST LORD!}
+		(E#"It'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0035!BEAST LORD!/]
 
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!BEAST LORD!]
 		||
-		*"I have little tolerance for your disloyal musings, Brother."* 
+		*"I've little tolerance for your disloyal musings, Brother..."* 
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00410!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00410!BEAST LORD!]
 		||
-		*"The Choir's will IS our will! Always has been and always will be, too."* 
+		*"The Choir's will IS our will! Ever has been and ever will be, too!"* 
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00411!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00410!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00411!BEAST LORD!]
 		||
-		*"We kill our own desires for the good of the Order!"*
+		*"We crush our own desires for the good of the Order!"*
 		(A#"We cannot destroy our humanity, Adarin."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00412!BEAST LORD!}
 		(B#"Letting others think for you is nothing but willful ignorance..."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00422!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00450!BEAST LORD!}
@@ -2184,7 +2185,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0042!BEAST LORD!]
 		||
-		*"Then it's to the endless Void of the Graylands Curiosity leads you, proud Inquisitor."*
+		*"Then it's to the endless Void of the Graylands 'Curiosity' leads you, proud Inquisitor."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00420!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0042!BEAST LORD!/]
 
@@ -2204,7 +2205,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00422!BEAST LORD!]
 		||
-		*"From the cultivator we seek knowledge of crops; from the artisans we seek skills of art and architecture; likewise from the Choir we seek wisdom beyond individual biases."*
+		*"From the cultivator we seek knowledge of crops; from the artisans we seek skill of crafts; likewise from the Choir we seek wisdom beyond individual biases."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00422!BEAST LORD!/]
 
@@ -2224,13 +2225,13 @@ BEAST LORD
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00441!BEAST LORD!]
 		||
-		*"And now you grovel for your worthless Falseflesh?! Does betrayal of the Order demand reward, Inquisitor!?"*
+		*"And now you grovel for your worthless Falseflesh?! Does betrayal of the Order demand reward, Ormenos!?"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00441!BEAST LORD!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0045!BEAST LORD!]
 		||
-		*"Certainly! We're just like tamed beasts! For aren't lowly beasts commanded to greater works by their superiors?"*
+		*"Certainly! We're just like tamed beasts! For aren't lowly beasts commanded to greater works by their betters?"*
 		(A#"Letting others think for you is nothing but willful ignorance..."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00422!BEAST LORD!}
 		(D#"Look, perhaps you could let your old friend 'accidentally' escape..."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00450!BEAST LORD!}
@@ -2246,7 +2247,8 @@ BEAST LORD
 		||
         *"You'll make fine bed fellows in the Vault."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00413!BEAST LORD!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00451!BEAST LORD!/]	
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.00451!BEAST LORD!/]
+	
 	
 	
 BIRACUL

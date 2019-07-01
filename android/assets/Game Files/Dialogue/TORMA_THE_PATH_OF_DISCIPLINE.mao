@@ -552,80 +552,80 @@ returned to the path after having been kicked out
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.007!DESCRIPTION!/]
 
 
-???
+
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!ARBITER!]
 		||
-		*"Brother Inquistor, you seek the judgment of the Arbiter?"*
+		*"Brother Inquistor. Seeker of judgment. I am the Arbiter."*
 		(A#"I wish to use the Path of Discipline."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!}
 		(B#"I seek the wisdom of Discipline."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!}
-		(C#"I do not know what I seek."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!}
-		(D#"What fruits would such a judgment yield?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!}
-		(E#"I am judge, jury and executioner."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!}
+		(C#"I don't know what I seek."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!}
+		(D#"And what fruits would such a judgment yield?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!}
+		(E#"No. I am judge, jury and executioner."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!}
 		(F#"Depends. Do you give good fashion advice?"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!]
 		||
-		*"In order to proceed, answers must be given."*
+		*"To proceed, answer..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!ARBITER!]
 		||
-		*"It is well known that the Wayfarer visited Biracul in the Empyrean of old to discuss the cult to Biracul."*
+		*"The Wayfarer visited Biracul in the Empyrean of old. They discussed the cult to Biracul."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!ARBITER!]
 		||
-		*"A gracious host, Biracul started pouring a drink for the travel-weary Wayfarer."*
+		*"As host, Biracul poured the travel-weary Wayfarer a drink. In kind, words poured from the Wayfarer's lips."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0011!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!ARBITER!]
 		||
-		*"Words poured forth from the Wayfarer's lips on her opinions regarding the past, present and future of the cult."*
+		*"She stated opinions regarding the past, present, and future of the cult."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0012!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!ARBITER!]
 		||
-		*"Likewise, water flowed from Biracul's urn until the cup runneth over and the excess cascaded over the sides.."*
+		*"Her speech ran long. Biracul poured throughout. The cup filled. It rejected the excess. But he poured still."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0014!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0013!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0014!ARBITER!]
 		||
-		*"The Wayfarer soon grew ireful at the sight of this excess."*
+		*"The waste sparked the Wayfarer's ire."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0015!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0014!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0015!ARBITER!]
 		||
-		*"When she was no longer able to contain her revulsion, she demanded that Biracul desist in his pouring."*
+		*"Soon, she could not stem her rage's flow. She stood violently. She rebuked mercilessly. She demanded her host stop pouring."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0016!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0015!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0016!ARBITER!]
 		||
-		*"And Biracul obligingly complied."*
+		*"Biracul complied."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0017!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0016!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0017!ARBITER!]
 		||
-		*"Can you decipher the meaning of this story?"*
-		(A#"Yes, I know the meaning."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0018!ARBITER!}
+		*"Decipher the meaning of this story. Or abandon the Path."*
+		(A#"I can."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0018!ARBITER!}
 		(B#"Could you repeat it?"){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0010!ARBITER!}
-		(C#"No, I cannot."){C:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0019!ARBITER!}
+		(C#"I cannot."){C:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0017!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0018!ARBITER!]
 		||
-		*"What then does this tale convey?"*
+		*"Speak your truth."*
 		(A#"Biracul is truly a gracious host and listens well."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
-		(B#"The Wayfarer is as the cup: too full to receive anymore."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
+		(B#"The Wayfarer is the cup - too full to learn."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
 		(C#"Too much speaking, too little listening."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
 		(D#"The Wayfarer is painfully unaware of her limitations."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
 		(E#"That tales are pointless; all that matters are actions."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!}
@@ -634,13 +634,13 @@ ARBITER
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!]
 		||
-		*"Not all paths lead to Discipline, but any journey begins by selecting a path."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X002!ARBITER!}
+		*"Not all paths lead to Discipline. But all journeys begin by selecting a path."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0019!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00180!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0019!ARBITER!]
 		||
-		*"Knowledge of limitations is enough to begin the Path."*
+		*"You have selected yours."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X002!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0019!ARBITER!/]
 
@@ -654,18 +654,6 @@ ARBITER
 
 
 
-	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!ARBITER!]
-		||
-		*"Heavy upon your Trueflesh weighs the mark of a Glyph: you will learn Purification."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2065!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!ARBITER!/]
-
-	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!]
-		||
-		*"Heavy upon your Trueflesh weighs the mark of a Glyph: you will learn Corruption."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2063!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!/]
-
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!ARBITER!]
 		||
 		*~ac*
@@ -677,9 +665,22 @@ ARBITER
 		(F#LOO){F:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!ARBITER!/]
 
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!]
+		||
+		*"Heavy upon your Trueflesh, the mark of a Glyph burns. You will learn Corruption."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!1.X000!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0021!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!ARBITER!]
+		||
+		*"Heavy upon your Trueflesh, the mark of a Glyph burns. You will learn Purification."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9990.X2065!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0022!ARBITER!/]
+
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!]
 		||
-		*"Then the Path of Discipline eludes you."*
+		*"Then you are blind to the Path."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X0030!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!/]
 
@@ -691,7 +692,7 @@ ARBITER
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!1.X000!ARBITER!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!ARBITER!|
-		*"Though you may fail, at least you may proceed."*
+		*"Your walk begins."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!1.X000!ARBITER!/]
 
@@ -717,13 +718,13 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!]
 		||
-		*"...What happened to you, Brother? When did ice replace warmth in your words?"*
+		*"...What happened to you, Brother? When did ice replace fire in your words?"*
         (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00200!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00200!BEAST LORD!]
 		||
-        *"But then again, I suppose it's useless to ask snow why it's cold..."*
+        *"...A useless inquiry, I suppose. After all, there's no way to ask the snow how it grew cold..."*
         (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00201!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00200!BEAST LORD!/]
 
@@ -735,31 +736,31 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00202!BEAST LORD!]
 		||	
-		*"Brothers! Sisters! Members of the Enclave!"*
+		*"Brothers! Sisters! Members of the Enclave! Listen well!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00203!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00202!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00203!BEAST LORD!]
 		||
-        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on trees."*
+        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on Munnins."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00204!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00203!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00204!BEAST LORD!]
 		||
-        *"But time is precious, ever-diminishing; its wasteful misuse is a crime of the highest order."*
+        *"But time is precious, ever-diminishing; its wasteful misuse is a crime of the highest order!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00205!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00204!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00205!BEAST LORD!]
 		||
-        *"And so the Choir have summoned him, to stand beneath their wise gaze, to bear the weight of their judgment!"*
+        *"And so the Choir has summoned him, to stand before them, to bear the weight of their righteous judgment!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00206!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00205!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00206!BEAST LORD!]
 		||
-        *"Follow not his example, lest you follow him to the Vault!"*
+        *"Seek not his path! Break all ties of kinship! - lest you follow him to the Vault..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00207!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00206!BEAST LORD!/]
 
@@ -777,7 +778,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00210!BEAST LORD!]
 		||
-		*"When I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+		*"When I first came to the Order, you were already renowned and respected - perfection made flesh."*
         (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00211!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00210!BEAST LORD!/]
 
@@ -821,7 +822,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00221!BEAST LORD!]
 		||
-		*"What I wanted to say was that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+		*"What I wanted to say was that when I first came to the Order, you were already renowned and respected - perfection made flesh."*
         (A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00222!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00221!BEAST LORD!/]
 
@@ -853,7 +854,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0023!BEAST LORD!]
 		||
-		*"What I wish to say is that when I first came to the Order, you were already renowned and respected, the very model of a perfect Brother."*
+		*"What I wish to say is that when I first came to the Order, you were already renowned and respected - perfection made flesh."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00230!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0023!BEAST LORD!/]
 
@@ -885,27 +886,28 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0026!BEAST LORD!]
 		||
-		*"Caveman? Kabu? Brother, we only met after I came to the Enclave... And besides, you've never even been to my homeland..."*
+		*"Caveman? Kabu? Brother, we first met after I came to the Enclave... And besides, you've never even been to my homeland..."*
 		(F#"How can I put this? You become a depressing, emo jerk in the future."){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00260!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0026!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00260!BEAST LORD!]
 		||
-		*"But it seems you have no intention of actually listening to a Brother's words..."*
+		*"Regardless, it seems you've no intention of actually listening to a Brother's earnest words..."*
 		(F#"By Roostor's Comb! You misunderstand! You're destined to die alone in a cave!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0020!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00260!BEAST LORD!/]
 
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0031!BEAST LORD!]
 		||
-		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		*"Ormenos, the Choir has never tolerated acts of insubordination! What possessed you to believe this policy had somehow changed?!"*
 		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
 		(B#"Curiosity guides my action, not the Choir's will."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!}
-		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
+		(E#"It'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0031!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0032!BEAST LORD!]
 		||
-		*"What is of such supreme importance that you have staked your very life on it?!"*
+		*"What's of such supreme importance that you've staked your very life on it?!"*
 		(A#"I just don't think the Choir's will should take precedence to all others."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
 		(B#"Curiosity. It alone guides my action, not the Choir's will."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!}
 		(C#"Importance is a product of whim; nothing is 'supremely' important."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
@@ -919,36 +921,36 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0034!BEAST LORD!]
 		||
-		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		*"Ormenos, the Choir has never tolerated any acts of insubordination! What possessed you to believe this policy had somehow changed?!"*
 		(C#"I never said it had."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0033!BEAST LORD!}
 		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!}
-		(E#"And it'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
+		(E#"It'll never change when supposed 'beasts' allow themselves to be collared..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0034!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0035!BEAST LORD!]
 		||
-		*"Ormenos, the Choir has never tolerated any acts of insubordination; what possessed you to think this policy had somehow changed?!"*
+		*"Ormenos, the Choir has never tolerated any acts of insubordination! What possessed you to believe this policy had somehow changed?!"*
 		(A#"And why should the Choir's will take precedence to all others?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!}
 		(D#"It wasn't my choice! I was forced! Perhaps something to do with the Wayfarer!"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0044!BEAST LORD!}
-		(E#"And it'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
+		(E#"It'll never change when supposed 'beasts' allow themselves to be tamed..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0035!BEAST LORD!/]
 
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!]
 		||
-		*"I have little tolerance for your disloyal musings, Brother."* 
+		*"I've little tolerance for your disloyal musings, Brother..."* 
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0041!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!]
 		||
-		*"The Choir's will IS our will! Always has been and always will be, too."* 
+		*"The Choir's will IS our will! Ever has been and ever will be, too!"* 
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00411!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00410!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00411!BEAST LORD!]
 		||
-		*"We kill our own desires for the good of the Order!"*
+		*"We crush our own desires for the good of the Order!"*
 		(A#"We cannot destroy our humanity, Adarin."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00412!BEAST LORD!}
 		(B#"Letting others think for you is nothing but willful ignorance..."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00422!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00450!BEAST LORD!}
@@ -980,7 +982,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!]
 		||
-		*"Then it's to the endless Void of the Graylands Curiosity leads you, proud Inquisitor."*
+		*"Then it's to the endless Void of the Graylands 'Curiosity' leads you, proud Inquisitor."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00420!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0042!BEAST LORD!/]
 
@@ -1000,7 +1002,7 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00422!BEAST LORD!]
 		||
-		*"From the cultivator we seek knowledge of crops; from the artisans we seek skills of art and architecture; likewise from the Choir we seek wisdom beyond individual biases."*
+		*"From the cultivator we seek knowledge of crops; from the artisans we seek skill of crafts; likewise from the Choir we seek wisdom beyond individual biases."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00422!BEAST LORD!/]
 
@@ -1020,13 +1022,13 @@ BEAST LORD
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!]
 		||
-		*"And now you grovel for your worthless Falseflesh?! Does betrayal of the Order demand reward, Inquisitor!?"*
+		*"And now you grovel for your worthless Falseflesh?! Does betrayal of the Order demand reward, Ormenos!?"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0045!BEAST LORD!]
 		||
-		*"Certainly! We're just like tamed beasts! For aren't lowly beasts commanded to greater works by their superiors?"*
+		*"Certainly! We're just like tamed beasts! For aren't lowly beasts commanded to greater works by their betters?"*
 		(A#"Letting others think for you is nothing but willful ignorance..."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00422!BEAST LORD!}
 		(D#"Look, perhaps you could let your old friend 'accidentally' escape..."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00441!BEAST LORD!}
 		(E#"I reject the bonds of our enslavers!"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00450!BEAST LORD!}
@@ -1042,7 +1044,7 @@ BEAST LORD
 		||
         *"You'll make fine bed fellows in the Vault."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00413!BEAST LORD!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00451!BEAST LORD!/]	
+	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00451!BEAST LORD!/]
 
 
 
@@ -1887,6 +1889,7 @@ ARBITER
 
 ________________________________________________________________________
 INEPTITUDE'S DECEIT
+???
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X000!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.001!DESCRIPTION!|
 		*Ormenos steps foot into a mist-filled chamber, dully illuminated with the amber light of obfuscated crystals. The combination of the fog and the scant illumination leads to a constant barage of shadowy illusions. 
