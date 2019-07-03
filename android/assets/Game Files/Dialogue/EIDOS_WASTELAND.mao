@@ -14,7 +14,7 @@ ARK'S BEACON
 not in exile
 	[/KABU!WASTELAND!ARK'S BEACON!0.0000!DESCRIPTION!]
 		||
-		*Alternating patches of sand and cracked earth seem to endlessly pass beneath Eidos' feet. The same barren sight after her myriad uncounted paces. Mouth agape, wanting to drool but incapable of producing even a drop of spittle, Eidos stares at the floor as her feet drag, kicking up meagre clouds of dust and sand. But unrelenting winds sweep those clouds away and erase any footprints she may have left behind, leaving no evidence of her passage, no reminder of her existence.*
+		*Alternating patches of sand and cracked earth seem to endlessly pass beneath Eidos' feet. The same barren sight after her myriad uncounted paces. Mouth agape, wanting to drool but incapable of producing even a drop of spittle, Eidos stares at the floor as her feet drag, kicking up meager clouds of dust and sand. But unrelenting winds sweep those clouds away and erase any footprints she may have left behind, leaving no evidence of her passage, no reminder of her existence.*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!0.0001!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!0.0000!DESCRIPTION!/]
 
@@ -53,7 +53,7 @@ not in exile
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.102!DESCRIPTION!]
 		||
-		*It would seem that the whole complex is designed to invite invaders from the crater to mount the ramp only to be rebuffed by its formidable walls. The presence of a number of watchful archers here leaves no doubt about the fate of those attempting to scale the fort's perimiter.*
+		*It would seem that the whole complex is designed to invite invaders from the crater to mount the ramp only to be rebuffed by its formidable walls. The presence of a number of watchful archers here leaves no doubt about the fate of those attempting to scale the fort's perimeter.*
 		(A#Jump down upon the ramp and descend into the crater){A:0,KABU!WASTELAND!ARK'S BEACON!9990.X16005!DESCRIPTION!}
 		(B#Go back down the stairs to leave Ark's Beacon.){B:0,KABU!WASTELAND!LAND'S END!2.000!DESCRIPTION!}
 		(C#Speak to an archer){C:0,KABU!WASTELAND!ARK'S BEACON!0.X300!DESCRIPTION!}
@@ -90,7 +90,7 @@ not in exile
 travel w/ Heyar OR not spoken yet + poisoning
 	[/KABU!WASTELAND!ARK'S BEACON!1.000!DESCRIPTION!]
 		||
-		*Alternating patches of sand and cracked earth seem to endlessly pass beneath Eidos' feet. The same barren sight after her myriad uncounted paces. Mouth agape, wanting to drool but incapable of producing even a drop of spittle, Eidos stares at the floor as her feet drag, kicking up meagre clouds of dust and sand. But unrelenting winds sweep those clouds away and erase any footprints she may have left behind, leaving no evidence of her passage, no reminder of her existence.*
+		*Alternating patches of sand and cracked earth seem to endlessly pass beneath Eidos' feet. The same barren sight after her myriad uncounted paces. Mouth agape, wanting to drool but incapable of producing even a drop of spittle, Eidos stares at the floor as her feet drag, kicking up meager clouds of dust and sand. But unrelenting winds sweep those clouds away and erase any footprints she may have left behind, leaving no evidence of her passage, no reminder of her existence.*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!1.001!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!1.000!DESCRIPTION!/]
 
@@ -102,7 +102,7 @@ travel w/ Heyar OR not spoken yet + poisoning
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.002!DESCRIPTION!]
 		||
-		*When near enough, she sees evidence of recent habitation - abandoned tents, bedrolls and ashy campfire remains, to name a few. Yet, nothing living remains in this lonely place. Bringing her attention to the wall whose shadow now enevlops her, she notices that on either side, a stairway lead to the top of the fortress walls.
+		*When near enough, she sees evidence of recent habitation - abandoned tents, bedrolls and ashy campfire remains, to name a few. Yet, nothing living remains in this lonely place. Bringing her attention to the wall whose shadow now envelops her, she notices that on either side, a stairway lead to the top of the fortress walls.
 		
 		Laughter shatters the solemn silence of the Wastes. Eidos turns to look and sees it's just Heyar, laughing at one of his own inane jokes.*
 		(A#Climb the stairs to the top of the wall){A:0,KABU!WASTELAND!ARK'S BEACON!1.100!DESCRIPTION!}
@@ -155,7 +155,7 @@ travel w/ Heyar OR not spoken yet + poisoning
 no Heyar + poisoning
 	[/KABU!WASTELAND!ARK'S BEACON!2.000!DESCRIPTION!]
 		||
-		*Alternating patches of sand and cracked earth seem to endlessly pass beneath Eidos' feet. The same barren sight after her myriad uncounted paces. Mouth agape, wanting to drool but incapable of producing even a drop of spittle, Eidos stares at the floor as her feet drag, kicking up meagre clouds of dust and sand. But unrelenting winds sweep those clouds away and erase any footprints she may have left behind, leaving no evidence of her passage, no reminder of her existence.*
+		*Alternating patches of sand and cracked earth seem to endlessly pass beneath Eidos' feet. The same barren sight after her myriad uncounted paces. Mouth agape, wanting to drool but incapable of producing even a drop of spittle, Eidos stares at the floor as her feet drag, kicking up meager clouds of dust and sand. But unrelenting winds sweep those clouds away and erase any footprints she may have left behind, leaving no evidence of her passage, no reminder of her existence.*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!2.001!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!2.000!DESCRIPTION!/]
 
@@ -167,7 +167,7 @@ no Heyar + poisoning
 
 	[/KABU!WASTELAND!ARK'S BEACON!2.002!DESCRIPTION!]
 		||
-		*When near enough, she sees evidence of recent habitation - abandoned tents, bedrolls and ashy campfire remains, to name a few. Yet, nothing living remains in this lonely place. Bringing her attention to the wall whose shadow now enevlops her, she notices that on either side, a stairway lead to the top of the fortress walls.*
+		*When near enough, she sees evidence of recent habitation - abandoned tents, bedrolls and ashy campfire remains, to name a few. Yet, nothing living remains in this lonely place. Bringing her attention to the wall whose shadow now envelops her, she notices that on either side, a stairway lead to the top of the fortress walls.*
 		(A#Climb to the top of the walls){A:0,KABU!WASTELAND!ARK'S BEACON!2.100!DESCRIPTION!}
 		(B#Walk to Land's End){B:0,KABU!WASTELAND!LAND'S END!2.000!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!2.002!DESCRIPTION!/]
@@ -208,7 +208,7 @@ crater side
 
 	[/KABU!WASTELAND!ARK'S BEACON!10.001!DESCRIPTION!]
 		||
-		*Coming to an incline significantly more forgiving than the walls, she begins a tenuous climb up the uneven surface towards the lip of the crater and the fortress above. Loosened stones slip beneath her feet, stealing her balance momentarily, and sharp stones nick her hands as she clutches them when regaining her footing. The spire simply peers out over the canyon disapassionately, ambivalent towards her efforts to reach it.*
+		*Coming to an incline significantly more forgiving than the walls, she begins a tenuous climb up the uneven surface towards the lip of the crater and the fortress above. Loosened stones slip beneath her feet, stealing her balance momentarily, and sharp stones nick her hands as she clutches them when regaining her footing. The spire simply peers out over the canyon dispassionately, ambivalent towards her efforts to reach it.*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!10.002!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!10.001!DESCRIPTION!/]
 
@@ -228,7 +228,7 @@ crater side
 
 	[/KABU!WASTELAND!ARK'S BEACON!10.011!DESCRIPTION!]
 		||
-		*Coming to an incline significantly more forgiving than the walls, she begins a tenuous climb up the uneven surface towards the lip of the crater and the fortress above. Loosened stones slip beneath her feet, stealing her balance momentarily, and sharp stones nick her hands as she clutches them when regaining her footing. The spire simply peers out over the canyon disapassionately, ambivalent towards her efforts to reach it.*
+		*Coming to an incline significantly more forgiving than the walls, she begins a tenuous climb up the uneven surface towards the lip of the crater and the fortress above. Loosened stones slip beneath her feet, stealing her balance momentarily, and sharp stones nick her hands as she clutches them when regaining her footing. The spire simply peers out over the canyon dispassionately, ambivalent towards her efforts to reach it.*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!10.012!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!10.011!DESCRIPTION!/]
 
@@ -374,19 +374,19 @@ ADARIK
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.101!ADARIK!]
 		||
-		*"It's gotta be. Order is the basis of a stable society, sweetcheeks."*
+		*"It's gotta be. Order is the basis of a stable society, sweet cheeks."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!0.901!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.101!ADARIK!/]
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.201!ADARIK!]
 		||
-		*"Technically, they bring it upon themselves, sweetcheeks."* 
+		*"Technically, they bring it upon themselves, sweet cheeks."* 
 		 (A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!0.901!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.201!ADARIK!/]
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.301!ADARIK!]
 		||
-		*"You've certainly got a way with words, dontcha honeybuns?"*
+		*"You've certainly got a way with words, dontcha honey buns?"*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!0.3010!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.301!ADARIK!/]
 
@@ -416,7 +416,7 @@ ADARIK
 	
 	[/KABU!WASTELAND!ARK'S BEACON!0.X4011!ADARIK!]
 		|@:KABU!WASTELAND!ARK'S BEACON!1.X001!ADARIK!|
-		*"Now run along and play Mages and Jinns out in the Wastes!"*
+		*"Now run along and play Magi and Jinns out in the Wastes!"*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!9999.X9999!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.X4011!ADARIK!/]
 		
@@ -462,7 +462,7 @@ ADARIK
 		(A#"Thanks, anything of note in the area?"){A:1,KABU!WASTELAND!ARK'S BEACON!0.102!ADARIK!}
 		(B#"Okay, tell me about the terrain."){B:1,KABU!WASTELAND!ARK'S BEACON!0.202!ADARIK!}
 		(C#"Then I'll depart."){C:1,KABU!WASTELAND!ARK'S BEACON!0.X5012!ADARIK!}
-		(E#"Criminals and draugnirs would make better company than you lot."){E:1,KABU!WASTELAND!ARK'S BEACON!0.401!ADARIK!}
+		(E#"Criminals and draugnir would make better company than you lot."){E:1,KABU!WASTELAND!ARK'S BEACON!0.401!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.902!ADARIK!/]
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.102!ADARIK!]
@@ -929,7 +929,7 @@ HEYAR
 		||
 		*"So absent the sudden appearance of a Jinnwraith and as long as this wall and the Gate of Celestial Judgment in Tambul stand firm, Kabu will likely remain safe! Ha ha!"*
 		(C#"..."){C:1,KABU!WASTELAND!ARK'S BEACON!1.X301!HEYAR!}
-		(D#"Better to let sleeping draugnirs lie, it seems..."){D:1,KABU!WASTELAND!ARK'S BEACON!1.X401!HEYAR!}
+		(D#"Better to let sleeping draugnir lie, it seems..."){D:1,KABU!WASTELAND!ARK'S BEACON!1.X401!HEYAR!}
 		(E#"Perhaps we need another Jinnwraith..."){E:1,KABU!WASTELAND!ARK'S BEACON!1.501!HEYAR!}
 	[KABU!WASTELAND!ARK'S BEACON!1.4001!HEYAR!/]
 
@@ -1092,7 +1092,7 @@ HEYAR
 
 	[/KABU!WASTELAND!ARK'S BEACON!2.X0011!HEYAR!]
 		|@:KABU!WASTELAND!ARK'S BEACON!3.000!HEYAR!|
-		*"Yes! Marvellous! This will be the first line of my modern chronicle! Ha ha!"*
+		*"Yes! Marvelous! This will be the first line of my modern chronicle! Ha ha!"*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!9999.X9999!HEYAR!}
 	[KABU!WASTELAND!ARK'S BEACON!2.X0011!HEYAR!/]
 
@@ -1235,7 +1235,7 @@ ________________________________
 CANYON MOUTH
 	[/KABU!WASTELAND!CANYON MOUTH!0.000!DESCRIPTION!]
 		||
-		*The walls of a gargantuan canyon tower overhead, locked in a lengthy and ultimately futile staring match, like two brothers trying to prove their vacuous superiority. Their kinship likely runs deep, as every fold, every curve on one side has a corresponding protusion or convex counterpart on the other. Torn asunder by the hands of gods, these perfectly opposing siblings now spend eternity in each other's antagonistic company.*
+		*The walls of a gargantuan canyon tower overhead, locked in a lengthy and ultimately futile staring match, like two brothers trying to prove their vacuous superiority. Their kinship likely runs deep, as every fold, every curve on one side has a corresponding protrusion or convex counterpart on the other. Torn asunder by the hands of gods, these perfectly opposing siblings now spend eternity in each other's antagonistic company.*
 		(A#...){A:0,KABU!WASTELAND!CANYON MOUTH!0.001!DESCRIPTION!}
 	[KABU!WASTELAND!CANYON MOUTH!0.000!DESCRIPTION!/]
 
@@ -1284,7 +1284,7 @@ CRATER'S EDGE
 
 	[/KABU!WASTELAND!CRATER'S EDGE!0.000!DESCRIPTION!]
 		||
-		*The grueling ascent ends as Eidos reaches the charred lip of the crater. While reining in her chaotic breathing, she surveys the surroundings. Toward the northwest, ivory pillars of salt point skyward slicing regular white bars into the cloudless grey beyond, giving the impression of a celestial prison. This forest of pillars melts away as it continues its expansion eastward toward her current location, ending suddenly at a precipitous decline just north of her - neither too high to seem daunting, nor too low to access.*
+		*The grueling ascent ends as Eidos reaches the charred lip of the crater. While reining in her chaotic breathing, she surveys the surroundings. Toward the northwest, ivory pillars of salt point skyward slicing regular white bars into the cloudless gray beyond, giving the impression of a celestial prison. This forest of pillars melts away as it continues its expansion eastward toward her current location, ending suddenly at a precipitous decline just north of her - neither too high to seem daunting, nor too low to access.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!0.001!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!0.000!DESCRIPTION!/]
 
@@ -1305,13 +1305,13 @@ CRATER'S EDGE
 resolved Draug situation in crater + doubled army
 	[/KABU!WASTELAND!CRATER'S EDGE!1.000!DESCRIPTION!]
 		||
-		*The grueling ascent ends as Eidos and her legions reach the charred lip of the crater. While reining in her chaotic breathing, her unphased army obediently awaits its master's orders. The deathly white draugnir legions stand in stark contrast to the Neverborn, as they chaotically pace like an excited gas cloud while ravenously drooling inky fluid; the Neverborn, on the other hand, rigidly stand in tight, orderly formations, as motionless as statues, as if frozen in time.*
+		*The grueling ascent ends as Eidos and her legions reach the charred lip of the crater. While reining in her chaotic breathing, her unfazed army obediently awaits its master's orders. The deathly white draugnir legions stand in stark contrast to the Neverborn, as they chaotically pace like an excited gas cloud while ravenously drooling inky fluid; the Neverborn, on the other hand, rigidly stand in tight, orderly formations, as motionless as statues, as if frozen in time.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!1.001!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!1.000!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRATER'S EDGE!1.001!DESCRIPTION!]
 		||
-		*Trying to determine what her subsequent course of action will be, Eidos seeks to find her bearings in this lifeless landscape. Toward the northwest, ivory pillars of salt point skyward slicing regular white bars into the cloudless grey beyond, giving the impression of a celestial prison. This forest of pillars melts away as it continues its expansion eastward toward her current location, ending suddenly at a precipitous decline just north of her - neither too high to seem daunting, nor too low to access.*
+		*Trying to determine what her subsequent course of action will be, Eidos seeks to find her bearings in this lifeless landscape. Toward the northwest, ivory pillars of salt point skyward slicing regular white bars into the cloudless gray beyond, giving the impression of a celestial prison. This forest of pillars melts away as it continues its expansion eastward toward her current location, ending suddenly at a precipitous decline just north of her - neither too high to seem daunting, nor too low to access.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!1.002!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!1.001!DESCRIPTION!/]
 
@@ -1333,7 +1333,7 @@ from Ur'Ruk
 >>>Exits Hall of Servants with army (12415)<<<
 	[/KABU!WASTELAND!CRATER'S EDGE!10.X000!DESCRIPTION!]
 		|^12415:KABU!WASTELAND!CRATER'S EDGE!11.000!DESCRIPTION!|
-		*Trudging through the lifeless wastes, as Eidos reaches the charred lip of the crater. Ur'Ruk now far behind her, she surveys the surroundings. Toward the northwest, ivory pillars of salt point skyward slicing regular white bars into the cloudless grey beyond, giving the impression of a celestial prison. This forest of pillars melts away as it continues its expansion eastward toward her current location, ending suddenly at a precipitous decline just north of her - neither too high to seem daunting, nor too low to access.*
+		*Trudging through the lifeless wastes, as Eidos reaches the charred lip of the crater. Ur'Ruk now far behind her, she surveys the surroundings. Toward the northwest, ivory pillars of salt point skyward slicing regular white bars into the cloudless gray beyond, giving the impression of a celestial prison. This forest of pillars melts away as it continues its expansion eastward toward her current location, ending suddenly at a precipitous decline just north of her - neither too high to seem daunting, nor too low to access.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!10.001!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!10.X000!DESCRIPTION!/]
 
@@ -1352,13 +1352,13 @@ from Ur'Ruk
 	
 	[/KABU!WASTELAND!CRATER'S EDGE!11.000!DESCRIPTION!]
 		||
-		*Trudging through the wasted land, her undying forces steadily matching her every step, Eidos reaches the charred lip of the crater. Ur'Ruk now far behind her, she stops to survey her surroundings, and her unphased army obediently awaits its master's orders. The deathly white draugnir legions stand in stark contrast to the Neverborn, as they chaotically pace like an excited gas cloud while ravenously drooling inky fluid; the Neverborn, on the other hand, rigidly stand in tight, orderly formations, as motionless as statues, as if frozen in time.*
+		*Trudging through the wasted land, her undying forces steadily matching her every step, Eidos reaches the charred lip of the crater. Ur'Ruk now far behind her, she stops to survey her surroundings, and her unfazed army obediently awaits its master's orders. The deathly white draugnir legions stand in stark contrast to the Neverborn, as they chaotically pace like an excited gas cloud while ravenously drooling inky fluid; the Neverborn, on the other hand, rigidly stand in tight, orderly formations, as motionless as statues, as if frozen in time.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!11.001!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!11.000!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRATER'S EDGE!11.001!DESCRIPTION!]
 		||
-		*Trying to determine what her subsequent course of action will be, Eidos seeks to find her bearings in this lifeless landscape. Toward the northwest, ivory pillars of salt point skyward slicing regular white bars into the cloudless grey beyond, giving the impression of a celestial prison. This forest of pillars melts away as it continues its expansion eastward toward her current location, ending suddenly at a precipitous decline just north of her - neither too high to seem daunting, nor too low to access.*
+		*Trying to determine what her subsequent course of action will be, Eidos seeks to find her bearings in this lifeless landscape. Toward the northwest, ivory pillars of salt point skyward slicing regular white bars into the cloudless gray beyond, giving the impression of a celestial prison. This forest of pillars melts away as it continues its expansion eastward toward her current location, ending suddenly at a precipitous decline just north of her - neither too high to seem daunting, nor too low to access.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!11.002!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!11.001!DESCRIPTION!/]
 
@@ -1417,7 +1417,7 @@ else
 
 	[/KABU!WASTELAND!CRATER'S MAW!2.001!DESCRIPTION!]
 		||
-		*The deeper she dives into the crater's interior, the stronger its mephitic stench of graphite and sulphur grow, eventually seeming to sear the very skin inside her nose. The further she advances, the hotter this infernal crater becomes, not just from the sun's relentless assault, but also from some hidden internal source. Yet, sweat-drenched and blind, she proceeds.*
+		*The deeper she dives into the crater's interior, the stronger its mephitic stench of graphite and sulfur grow, eventually seeming to sear the very skin inside her nose. The further she advances, the hotter this infernal crater becomes, not just from the sun's relentless assault, but also from some hidden internal source. Yet, sweat-drenched and blind, she proceeds.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S MAW!2.002!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S MAW!2.001!DESCRIPTION!/]
 
@@ -1498,13 +1498,13 @@ else
 
 	[/KABU!WASTELAND!CRATER'S MAW!100.001!DESCRIPTION!]
 		||
-		*Suddenly, she is overcome with waves of pain. An ache begins to fill the pit of her stomach. An emptiness manifestS within her. It consumes the very core of her being. It erradicates her from the inside out. From space. From time. From memory.*
+		*Suddenly, she is overcome with waves of pain. An ache begins to fill the pit of her stomach. An emptiness manifestS within her. It consumes the very core of her being. It eradicates her from the inside out. From space. From time. From memory.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S MAW!100.002!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S MAW!100.001!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRATER'S MAW!100.002!DESCRIPTION!]
 		||
-		*Her awareness wanes as the pain waxes. Eidos, falls to her hands and knees, lacerating her skin with dark shards of dull graphite. Oozing out from the wounds in her felsh comes an inky fluid. She coughs up more of the deathly broth as she collapses face first into the ground. Now motes of black space eat away at her vision. The Glyphs within her mind begin to wink out of existence, as does her consciousness...*
+		*Her awareness wanes as the pain waxes. Eidos, falls to her hands and knees, lacerating her skin with dark shards of dull graphite. Oozing out from the wounds in her flesh comes an inky fluid. She coughs up more of the deathly broth as she collapses face first into the ground. Now motes of black space eat away at her vision. The Glyphs within her mind begin to wink out of existence, as does her consciousness...*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!0.X000!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S MAW!100.002!DESCRIPTION!/]
 
@@ -1727,7 +1727,7 @@ not in exile OR exile -heyar
 
 	[/KABU!WASTELAND!CRESCENT CANYON!1.001!DESCRIPTION!]
 		||
-		*Brittle bones and atrophied flesh prove to be poor fallbreaks as their bodies seem to liquefy upon impact, killing both of them instantly.*
+		*Brittle bones and atrophied flesh prove to be poor fall-breakers as their bodies seem to liquefy upon impact, killing both of them instantly.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!9990.X14500!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!1.001!DESCRIPTION!/]
 
@@ -1917,7 +1917,7 @@ killed heyar
 		|^14502:KABU!WASTELAND!CRESCENT CANYON!90.500!DESCRIPTION!|
 		*Turning her attention back to the surroundings, Eidos looks upon the shrine near the canyon wall. The old crone who was here praying lies unfestering where Eidos killed her. 
 		
-		In that moment, Eidos notices a leather tube poke its head out from beneath the body's robes. Soon gravity has it pouring forth from her rags and emptying its conents: a roll of dry papyrus. The cracked surface and faded letters betray its past as the well-worn prayer scroll of a fanatic Valvorthr.*
+		In that moment, Eidos notices a leather tube poke its head out from beneath the body's robes. Soon gravity has it pouring forth from her rags and emptying its contents: a roll of dry papyrus. The cracked surface and faded letters betray its past as the well-worn prayer scroll of a fanatic Valvorthr.*
 		(A#Turn back){A:0,KABU!WASTELAND!CANYON MOUTH!1.000!DESCRIPTION!}
 		(B#Examine the tome){B:0,KABU!WASTELAND!CRESCENT CANYON!9990.X14502-1!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!90.X500!DESCRIPTION!/]
@@ -2091,7 +2091,7 @@ HEYAR
 
 	[/KABU!WASTELAND!CRESCENT CANYON!1.2000!HEYAR!]
 		||
-		*"With Ark's disappearance, the remaining mages of the Valvorthr cult, led by a Daziran named Khloud, erected the Dawn Fortress."*
+		*"With Ark's disappearance, the remaining magi of the Valvorthr cult, led by a Daziran named Khloud, erected the Dawn Fortress."*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!1.2001!HEYAR!}
 	[KABU!WASTELAND!CRESCENT CANYON!1.2000!HEYAR!/]
 
@@ -2234,7 +2234,7 @@ KARRA
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.0000!KARRA!]
 		||
-		*"I'll rejoice at the sight of the draugnirs for they test the sisters of Ark!"*
+		*"I'll rejoice at the sight of the draugnir for they test the sisters of Ark!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.0001!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.0000!KARRA!/]
 
@@ -2947,7 +2947,7 @@ exiled
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.003!DESCRIPTION!]
 		||
-		*As Eidos and Heyar shake hands, she can feel the Daziran scholar's sweaty palm aquiver with anticipation. His grin grows so wide it seems as though his face might split in half. Eidos withdraws her sweat-soaked hand, the faint look of revulsion on her face, sculpted by instinct. But Heyar, swimming in his blissful obliviousness, has already crouched to examine the gray stones peaking out from beneath the sand, seeming to have utterly forgotten about his new companion.*
+		*As Eidos and Heyar shake hands, she can feel the Daziran scholar's sweaty palm quiver with anticipation. His grin grows so wide it seems as though his face might split in half. Eidos withdraws her sweat-soaked hand, the faint look of revulsion on her face, sculpted by instinct. But Heyar, swimming in his blissful obliviousness, has already crouched to examine the gray stones peaking out from beneath the sand, seeming to have utterly forgotten about his new companion.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X004!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.003!DESCRIPTION!/]
 
@@ -2975,7 +2975,7 @@ exiled
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.0045!DESCRIPTION!]
 		||
-		*Eidos stares down at the unrotting corpse of the slain scholar, mouth agape as if he wished to continue speaking even in the afterlife... She then looks up at the unyielding gates of the Dawn Fortress, realising her only way forward is into the Wastes.*
+		*Eidos stares down at the unrotting corpse of the slain scholar, mouth agape as if he wished to continue speaking even in the afterlife... She then looks up at the unyielding gates of the Dawn Fortress, realizing her only way forward is into the Wastes.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.0041!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.0045!DESCRIPTION!/]
 
@@ -3117,7 +3117,7 @@ disaster
 	
 	[/KABU!WASTELAND!GATES OF DAWN!1.0022!HEYAR!]
 		||
-		*"You mean to say you don't recall opening a path for Khlutt to cross the Crescent Canyon and thus bringing his murderous fury - no! WRATH! - down upon Dazir?! Falling like a cosmic hammer of self-righteousness to shatter a millenium of Kaban stability!?"*
+		*"You mean to say you don't recall opening a path for Khlutt to cross the Crescent Canyon and thus bringing his murderous fury - no! WRATH! - down upon Dazir?! Falling like a cosmic hammer of self-righteousness to shatter a millennium of Kaban stability!?"*
 		(A#"..."){A:0,KABU!WASTELAND!GATES OF DAWN!1.0023!HEYAR!}
 	[KABU!WASTELAND!GATES OF DAWN!1.0022!HEYAR!/]
 
@@ -3169,7 +3169,7 @@ disaster
 	
 	[/KABU!WASTELAND!GATES OF DAWN!1.0042!HEYAR!]
 		||
-		*"Or don't you recall opening a path for Khlutt to cross the Crescent Canyon, thus bringing his murderous fury - no! WRATH! - down upon Dazir?! Falling like a cosmic hammer of self-righteousness to shatter a millenium of Kaban stability!?"*
+		*"Or don't you recall opening a path for Khlutt to cross the Crescent Canyon, thus bringing his murderous fury - no! WRATH! - down upon Dazir?! Falling like a cosmic hammer of self-righteousness to shatter a millennium of Kaban stability!?"*
 		(A#"..."){A:0,KABU!WASTELAND!GATES OF DAWN!1.0023!HEYAR!}
 	[KABU!WASTELAND!GATES OF DAWN!1.0042!HEYAR!/]
 
@@ -3234,7 +3234,7 @@ LAND'S END
 
 	[/KABU!WASTELAND!LAND'S END!1.000!DESCRIPTION!]
 		||
-		*While the heat was opressive before, it becomes positively unbearable as she begins her climb up the steep side of the rocky mound. The going becomes so steep, she is forced to pull herself along by gripping the burning stones and heaving herself up onto the plateau above...*
+		*While the heat was oppressive before, it becomes positively unbearable as she begins her climb up the steep side of the rocky mound. The going becomes so steep, she is forced to pull herself along by gripping the burning stones and heaving herself up onto the plateau above...*
 		(A#...){A:0,KABU!WASTELAND!THE VEDT!0.X000!DESCRIPTION!}
 	[KABU!WASTELAND!LAND'S END!1.000!DESCRIPTION!/]	
 
@@ -3285,7 +3285,7 @@ NOWHERE
 
 	[/KABU!WASTELAND!NOWHERE!0.003!DESCRIPTION!]
 		||
-		*Will fading, her muscles acquiesce to exhuastion and she collapses, unable to continue her journey.*
+		*Will fading, her muscles acquiesce to exhaustion and she collapses, unable to continue her journey.*
 		(A#...){A:0,KABU!WASTELAND!NOWHERE!0.004!DESCRIPTION!}
 	[KABU!WASTELAND!NOWHERE!0.003!DESCRIPTION!/]
 
@@ -3339,7 +3339,7 @@ NOWHERE
 
 	[/KABU!WASTELAND!NOWHERE!10.003!DESCRIPTION!]
 		||
-		*Will fading, her muscles acquiesce to exhuastion and she collapses, unable to continue her journey. Her Neverborn sentries surround her, walling her off as best they can from the encroaching elements. They yet gaze at their fallen master, as though a child would at a dying fire. Unsure, unknowing, unprepared.*
+		*Will fading, her muscles acquiesce to exhaustion and she collapses, unable to continue her journey. Her Neverborn sentries surround her, walling her off as best they can from the encroaching elements. They yet gaze at their fallen master, as though a child would at a dying fire. Unsure, unknowing, unprepared.*
 		(A#...){A:0,KABU!WASTELAND!NOWHERE!10.004!DESCRIPTION!}
 	[KABU!WASTELAND!NOWHERE!10.003!DESCRIPTION!/]
 
@@ -3447,7 +3447,7 @@ Obsidian Vision stuff
 
 	[/KABU!WASTELAND!OBSIDIAN RUIN!0.400!DESCRIPTION!]
 		||
-		*Turning towards a cracked and broken column, Eidos looks upon a twisted man. While he is aged and in no part fair, this wrinkled face is decayed and rotten away on one side. More terrible than his appearence is the certainty that he has appeared of his own choosing. Much of his form remains cloaked from view, and Eidos can feel the caustic effects of his corrupted soul dissolving her own. She feels terror or the Sylvan Architect, the burning desire to return to the Red Tower, a need to survive... And she knows that if she continues to stand in the presence of this abomination she will be rendered to nothing but a pile of whimpering, quivering flesh.*
+		*Turning towards a cracked and broken column, Eidos looks upon a twisted man. While he is aged and in no part fair, this wrinkled face is decayed and rotten away on one side. More terrible than his appearance is the certainty that he has appeared of his own choosing. Much of his form remains cloaked from view, and Eidos can feel the caustic effects of his corrupted soul dissolving her own. She feels terror or the Sylvan Architect, the burning desire to return to the Red Tower, a need to survive... And she knows that if she continues to stand in the presence of this abomination she will be rendered to nothing but a pile of whimpering, quivering flesh.*
 		(B#Ignore the creature){B:1,KABU!WASTELAND!OBSIDIAN RUIN!1.X020!DESCRIPTION!}
 		(D#Retreat back up the stairs){D:1,KABU!WASTELAND!OBSIDIAN RUIN!1.010!DESCRIPTION!}
 		(E#Attack the hoary wretch){E:1,KABU!WASTELAND!OBSIDIAN RUIN!1.X030!DESCRIPTION!}
@@ -3455,7 +3455,7 @@ Obsidian Vision stuff
 
 	[/KABU!WASTELAND!OBSIDIAN RUIN!0.500!DESCRIPTION!]
 		||
-		*Turning towards a cracked and broken column, Eidos looks upon a Thing. That is all she can observe for nothing stands before her, yet its presence is unmistakable. Indescribable and unperceivable in any traditional sense, like a frigid wind it is known only by its chilling effects. Eidos feels herself being rendered down into nothing, all Self simply melting away. Her Glyphs robbed from her mind and her very name annihilated in darkness. Yet, even still, this Thing, is but a shadow, a mere impression of something beyond It. Eidos can feel her mind being directed towards a Door Unseen. A Portal of Night that will be her unmaking...*
+		*Turning towards a cracked and broken column, Eidos looks upon a Thing. That is all she can observe for nothing stands before her, yet its presence is unmistakable. Indescribable and imperceptible in any traditional sense, like a frigid wind it is known only by its chilling effects. Eidos feels herself being rendered down into nothing, all Self simply melting away. Her Glyphs robbed from her mind and her very name annihilated in darkness. Yet, even still, this Thing, is but a shadow, a mere impression of something beyond It. Eidos can feel her mind being directed towards a Door Unseen. A Portal of Night that will be her unmaking...*
 		(B#Ignore the creature){B:1,KABU!WASTELAND!OBSIDIAN RUIN!1.X020!DESCRIPTION!}
 		(D#Retreat back up the stairs){D:1,KABU!WASTELAND!OBSIDIAN RUIN!1.010!DESCRIPTION!}
 		(E#Attack the Thing){E:1,KABU!WASTELAND!OBSIDIAN RUIN!1.X030!DESCRIPTION!}
@@ -3632,7 +3632,7 @@ SALT FOREST
 
 	[/KABU!WASTELAND!SALT FOREST!0.0000!DESCRIPTION!]
 		||
-		*Her view widens to take in her envrionment. Yet, her vision meets nothing but the rough surfaces of the pale columns, the spaces between each pillar filled by pillars deeper into the forest. In every direction, white stalagmites of milky crystal impede her vision. Even the sky above is obscured by the chalky giants looming over her, unless she stares directly above where she stands.*
+		*Her view widens to take in her environment. Yet, her vision meets nothing but the rough surfaces of the pale columns, the spaces between each pillar filled by pillars deeper into the forest. In every direction, white stalagmites of milky crystal impede her vision. Even the sky above is obscured by the chalky giants looming over her, unless she stares directly above where she stands.*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!0.0001!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!0.0000!DESCRIPTION!/]
 
@@ -3942,7 +3942,7 @@ arclight
 
 	[/KABU!WASTELAND!SALT FOREST!11.00060!DESCRIPTION!]
 		||
-		*Eidos turns to look upon the suspicious pillar, noting that within it lies a familiar yellow crystal, fully illuminate but subdued by the white salt casing of the pillar itself. A memory of a wretched and dying creature floods Eidos' mind, recognising her impossible sacrifice. A life for a life, yet they both live.*
+		*Eidos turns to look upon the suspicious pillar, noting that within it lies a familiar yellow crystal, fully illuminate but subdued by the white salt casing of the pillar itself. A memory of a wretched and dying creature floods Eidos' mind, recognizing her impossible sacrifice. A life for a life, yet they both live.*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!11.901!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!11.00060!DESCRIPTION!/]
 
@@ -4029,7 +4029,7 @@ arclight
 
 	[/KABU!WASTELAND!SALT FOREST!11.511!DESCRIPTION!]
 		||
-		*Eidos turns to look upon the suspicious pillar, noting that within it lies a familiar yellow crystal, fully illuminate but subdued by the white salt casing of the pillar itself. A memory of a wretched and dying creature floods Eidos' mind, recognising her impossible sacrifice.*
+		*Eidos turns to look upon the suspicious pillar, noting that within it lies a familiar yellow crystal, fully illuminate but subdued by the white salt casing of the pillar itself. A memory of a wretched and dying creature floods Eidos' mind, recognizing her impossible sacrifice.*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!11.512!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!11.511!DESCRIPTION!/]
 
@@ -4133,7 +4133,7 @@ arclight
 
 	[/KABU!WASTELAND!SALT FOREST!11.6310!DESCRIPTION!]
 		||
-		*Eidos senses the disintegration within the crystalline structure as her Techne reaches out to it. Like sap from ancient tree, energy slowly flows from the crystalline mound, revitalising a weathered and weary Eidos.*
+		*Eidos senses the disintegration within the crystalline structure as her Techne reaches out to it. Like sap from ancient tree, energy slowly flows from the crystalline mound, revitalizing a weathered and weary Eidos.*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!11.6311!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!11.6310!DESCRIPTION!/]
 
@@ -4146,7 +4146,7 @@ arclight
 
 	[/KABU!WASTELAND!SALT FOREST!11.651!DESCRIPTION!]
 		||
-		*Before Eidos can draw back to deal an intial attack on the creature, a final flash of amber light signals the crystal's end, and along with it the apparition vanishes, phasing from existence and into memory. And so now she stands alone in the swirling black dust of the Salt Forest.*
+		*Before Eidos can draw back to deal an initial attack on the creature, a final flash of amber light signals the crystal's end, and along with it the apparition vanishes, phasing from existence and into memory. And so now she stands alone in the swirling black dust of the Salt Forest.*
 		(A#Go forward){A:0,KABU!WASTELAND!SALT FOREST!12.X000!DESCRIPTION!}
 		(B#Head towards the right){B:0,KABU!WASTELAND!SALT FOREST!21.X000!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!11.651!DESCRIPTION!/]
@@ -4186,7 +4186,7 @@ shen + fwayya
 
 	[/KABU!WASTELAND!SALT FOREST!21.0002!DESCRIPTION!]
 		||
-		*Eidos follows the parallel lines punctuated by heavy dimples for only a short time before happening upon their maker. Standing with its back to her, is the form of a man, skin paler than the salty pillar he leans against. His tattered traveling cloak cannot disguise the shape of armor beneath. His arm, outstreched, grips a salt mound for stability as he stains with inky drool the white poweder beneath him.*
+		*Eidos follows the parallel lines punctuated by heavy dimples for only a short time before happening upon their maker. Standing with its back to her, is the form of a man, skin paler than the salty pillar he leans against. His tattered traveling cloak cannot disguise the shape of armor beneath. His arm, outstretched, grips a salt mound for stability as he stains with inky drool the white powder beneath him.*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!21.0003!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!21.0002!DESCRIPTION!/]
 
@@ -4290,7 +4290,7 @@ shen + fwayya
 
 	[/KABU!WASTELAND!SALT FOREST!21.8033!DESCRIPTION!]
 		||
-		*The sudden expansion and contraction throw the surrounding air into a chaotic frenzy, birthing several rippling shockwaves out in all directions. The initial burst propels Eidos up against a salt pillar knocking the wind out of her as wave upon wave of superheated air crash over her. As the waves dying down, gravity finally reels her down onto the ground.*
+		*The sudden expansion and contraction throw the surrounding air into a chaotic frenzy, birthing several rippling shock waves out in all directions. The initial burst propels Eidos up against a salt pillar knocking the wind out of her as wave upon wave of superheated air crash over her. As the waves dying down, gravity finally reels her down onto the ground.*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!21.8034!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!21.8033!DESCRIPTION!/]
 
@@ -4396,7 +4396,7 @@ shen + fwayya
 
 	[/KABU!WASTELAND!SALT FOREST!21.8051!DESCRIPTION!]
 		||
-		*Eidos then turns to look upon the ruined form of Shen. Stilled within the Salt Forest, he makes no motion. He appears utterly unware of his surroundings and stands among the white columns, all but dead, almost as though attempting to will himself out of existence.*
+		*Eidos then turns to look upon the ruined form of Shen. Stilled within the Salt Forest, he makes no motion. He appears utterly unaware of his surroundings and stands among the white columns, all but dead, almost as though attempting to will himself out of existence.*
 		(A#Head right){A:0,KABU!WASTELAND!SALT FOREST!32.X000!DESCRIPTION!}
 		(B#Walk straight){B:0,KABU!WASTELAND!SALT FOREST!22.X000!DESCRIPTION!}
 		(C#Go towards the left){C:0,KABU!WASTELAND!SALT FOREST!12.X000!DESCRIPTION!}
@@ -4471,7 +4471,7 @@ shen + fwayya
 
 	[/KABU!WASTELAND!SALT FOREST!21.9043!DESCRIPTION!]
 		||
-		*The sudden expansion and contraction throw the surrounding air into a chaotic frenzy, birthing several rippling shockwaves out in all directions. The initial burst propels Eidos up against a salt pillar knocking the wind out of her as wave upon wave of superheated air crash over her. As the waves dying down, gravity finally reels her down onto the ground.*
+		*The sudden expansion and contraction throw the surrounding air into a chaotic frenzy, birthing several rippling shock waves out in all directions. The initial burst propels Eidos up against a salt pillar knocking the wind out of her as wave upon wave of superheated air crash over her. As the waves dying down, gravity finally reels her down onto the ground.*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!21.9044!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!21.9043!DESCRIPTION!/]
 
@@ -4483,7 +4483,7 @@ shen + fwayya
 
 	[/KABU!WASTELAND!SALT FOREST!21.9045!DESCRIPTION!]
 		||
-		*Soon, she rises and surveys the damage. Not a trace is left of the two beings consumed by the light. Though even more unnevering is that the only evidence of an explosion is the distinct lack of pillars in that area. Other than that, the immaculate whiteness remains, unperturbed.*
+		*Soon, she rises and surveys the damage. Not a trace is left of the two beings consumed by the light. Though even more unnerving is that the only evidence of an explosion is the distinct lack of pillars in that area. Other than that, the immaculate whiteness remains, unperturbed.*
 		(A#Head right){A:0,KABU!WASTELAND!SALT FOREST!32.X000!DESCRIPTION!}
 		(B#Walk straight){B:0,KABU!WASTELAND!SALT FOREST!22.X000!DESCRIPTION!}
 		(C#Go towards the left){C:0,KABU!WASTELAND!SALT FOREST!12.X000!DESCRIPTION!}
@@ -4782,7 +4782,7 @@ to crystal abomination
 
 	[/KABU!WASTELAND!SALT FOREST!23.501!DESCRIPTION!]
 		||
-		*Suddenly, an eldritch feminine form materializes from the ether, its red hair vibrant and effulgent. The creature enters the crystalline barrier, dissolving it from within. Myriad miniscule salt particles pour forth from its center, leaving an aperture large enough to crawl through.*
+		*Suddenly, an eldritch feminine form materializes from the ether, its red hair vibrant and effulgent. The creature enters the crystalline barrier, dissolving it from within. Myriad minuscule salt particles pour forth from its center, leaving an aperture large enough to crawl through.*
 		(A#Take the right hand path){A:0,KABU!WASTELAND!SALT FOREST!9990.X16048!DESCRIPTION!}
 		(B#Walk the left hand path){B:0,KABU!WASTELAND!TORMA'S GIFT!0.000!DESCRIPTION!}
 		(C#Tread the revealed path){C:0,KABU!WASTELAND!SALT FOREST!23.X002!DESCRIPTION!}
@@ -4797,7 +4797,7 @@ to crystal abomination
 
 	[/KABU!WASTELAND!SALT FOREST!23.0020!DESCRIPTION!]
 		||
-		*Continuing down the path ever-further, Eidos witnesses something most remarkable: supported within an elegant, metallic structure is a crimson crystal, brilliantly and invintingly casting its rays in playful competition with the sun.*
+		*Continuing down the path ever-further, Eidos witnesses something most remarkable: supported within an elegant, metallic structure is a crimson crystal, brilliantly and invitingly casting its rays in playful competition with the sun.*
 		(B#Examine the crystal){B:1,KABU!WASTELAND!SALT FOREST!23.0021!DESCRIPTION!}
 		(C#Leave){C:1,KABU!WASTELAND!SALT FOREST!23.004!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!23.0020!DESCRIPTION!/]
@@ -4817,7 +4817,7 @@ to crystal abomination
 
 	[/KABU!WASTELAND!SALT FOREST!23.0023!DESCRIPTION!]
 		||
-		*The crystal, now inert, decomposes into dust from the burden of millenia of existence in a harsh and unforgiving Wasteland...*
+		*The crystal, now inert, decomposes into dust from the burden of millennia of existence in a harsh and unforgiving Wasteland...*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!23.003!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!23.0023!DESCRIPTION!/]
 
@@ -4871,7 +4871,7 @@ fought fwayya
 
 	[/KABU!WASTELAND!SALT FOREST!99.01!DESCRIPTION!]
 		||
-		*The crackling ring of crystal grating on crystal ripples throughout the air like aural fireworks. Then, the shockwave rips limbs from Falseflesh scattering them in all six directions as the intense heat causes everything around to evaporate instantaneously...*
+		*The crackling ring of crystal grating on crystal ripples throughout the air like aural fireworks. Then, the shock wave rips limbs from Falseflesh scattering them in all six directions as the intense heat causes everything around to evaporate instantaneously...*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!0.X000!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!99.01!DESCRIPTION!/]
 
@@ -4883,7 +4883,7 @@ fought fwayya
 
 	[/KABU!WASTELAND!SALT FOREST!99.51!DESCRIPTION!]
 		||
-		*The crackling ring of crystal grating on crystal ripples throughout the air like aural fireworks. Luin glows brightly, creating an impenetrable shield around Eidos. Though a perfect shield he may be from the superficial damage, Eidos weight is no match for the shockwave that casts her form out from the forest and into the darkness of the crater lurking below...*
+		*The crackling ring of crystal grating on crystal ripples throughout the air like aural fireworks. Luin glows brightly, creating an impenetrable shield around Eidos. Though a perfect shield he may be from the superficial damage, Eidos weight is no match for the shock wave that casts her form out from the forest and into the darkness of the crater lurking below...*
 		(A#...){A:0,KABU!WASTELAND!SALT FOREST!9990.X16048!DESCRIPTION!}
 	[KABU!WASTELAND!SALT FOREST!99.51!DESCRIPTION!/]
 
@@ -5082,7 +5082,7 @@ Came from the Dawn Fortress
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.0008!DESCRIPTION!]
 		||
-		*She regains consciousness, only now realising she had lost it. Myriad shards of the dark soil beneath her rake at her face. She must have collapsed completely.*
+		*She regains consciousness, only now realizing she had lost it. Myriad shards of the dark soil beneath her rake at her face. She must have collapsed completely.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.0009!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.0008!DESCRIPTION!/]
 
@@ -5133,7 +5133,7 @@ Came from the Dawn Fortress
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.0013!DESCRIPTION!]
 		||
-		*But Eidos does not react. She stands motionless, unsure of whether she is courageous, curious or simply resigned to whatever should be. She allows the procession of unholy abominations to march toward her, and soon, splinters of tooth and bone gnash all around her, as the draugnir drool their sooty fluids. The creatures circle around her like albino buzzards, eyeing a fresh corpse...*
+		*But Eidos does not react. She stands motionless, unsure of whether she is courageous, curious or simply resigned to whatever should be. She allows the procession of unholy abominations to march toward her, and soon, splinters of tooth and bone gnash all around her, as the draugnir drool their sooty fluids. The creatures circle around her like albino buzzards, eying a fresh corpse...*
 		(A#Warn them){A:1,KABU!WASTELAND!STILLED SAND CRATER!1.100!DESCRIPTION!}
 		(B#Calm them){B:1,KABU!WASTELAND!STILLED SAND CRATER!1.200!DESCRIPTION!}
 		(C#Do nothing){C:1,KABU!WASTELAND!STILLED SAND CRATER!1.300!DESCRIPTION!}
@@ -5161,7 +5161,7 @@ Came from the Dawn Fortress
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.300!DESCRIPTION!]
 		||
-		*The draugnir stagger their circles, giving the impression of a rotating spiral, with Eidos as the unmoving centre. Their furor increases, dancing to some perverse, inaudible beat. Yet they somehow seem utterly indifferent to Eidos... She senses no connection to these beings whatsoever. Indeed, her mind feels more isolated than ever, despite these beings' apparent desire to mirror her thoughts.*
+		*The draugnir stagger their circles, giving the impression of a rotating spiral, with Eidos as the unmoving center. Their furor increases, dancing to some perverse, inaudible beat. Yet they somehow seem utterly indifferent to Eidos... She senses no connection to these beings whatsoever. Indeed, her mind feels more isolated than ever, despite these beings' apparent desire to mirror her thoughts.*
 		(B#Ask them for information){B:1,KABU!WASTELAND!STILLED SAND CRATER!1.201!DESCRIPTION!}
 		(C#Leave){C:1,KABU!WASTELAND!STILLED SAND CRATER!1.301!DESCRIPTION!}
 		(D#Command them to attack each other){D:1,KABU!WASTELAND!STILLED SAND CRATER!9990.X16004-1!DESCRIPTION!}
@@ -5169,7 +5169,7 @@ Came from the Dawn Fortress
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.400!DESCRIPTION!]
 		||
-		*The draugnir stagger their circles, giving the impression of a rotating spiral, with Eidos as the unmoving centre. Their furor increases, dancing to some perverse, inaudible beat. Yet they somehow give the impression of being amenable to Eidos...	She senses no connection to these beings whatsoever. Indeed, her mind feels more isolated than ever, despite these beings' apparent desire to mirror her thoughts.*
+		*The draugnir stagger their circles, giving the impression of a rotating spiral, with Eidos as the unmoving center. Their furor increases, dancing to some perverse, inaudible beat. Yet they somehow give the impression of being amenable to Eidos...	She senses no connection to these beings whatsoever. Indeed, her mind feels more isolated than ever, despite these beings' apparent desire to mirror her thoughts.*
 		(C#Leave){C:1,KABU!WASTELAND!STILLED SAND CRATER!1.301!DESCRIPTION!}
 		(D#Command them to attack each other){D:1,KABU!WASTELAND!STILLED SAND CRATER!9990.X16004-1!DESCRIPTION!}
 		(E#Command them to attack the Dawn Fortress){E:1,KABU!WASTELAND!STILLED SAND CRATER!9990.X16004-2!DESCRIPTION!}
@@ -5177,7 +5177,7 @@ Came from the Dawn Fortress
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.500!DESCRIPTION!]
 		||
-		*The draugnir stagger their circles, giving the impression of a rotating spiral, with Eidos as the unmoving centre. Their furor increases, dancing to some perverse, inaudible beat. Yet they somehow give the impression of subservience to Eidos... She senses no connection to these beings whatsoever. Indeed, her mind feels more isolated than ever, despite these beings' apparent desire to mirror her thoughts.*
+		*The draugnir stagger their circles, giving the impression of a rotating spiral, with Eidos as the unmoving center. Their furor increases, dancing to some perverse, inaudible beat. Yet they somehow give the impression of subservience to Eidos... She senses no connection to these beings whatsoever. Indeed, her mind feels more isolated than ever, despite these beings' apparent desire to mirror her thoughts.*
 		(A#Command them to disperse){A:1,KABU!WASTELAND!STILLED SAND CRATER!1.101!DESCRIPTION!}
 		(D#Command them to attack each other){D:1,KABU!WASTELAND!STILLED SAND CRATER!9990.X16004-1!DESCRIPTION!}
 		(E#Command them to attack the Dawn Fortress){E:1,KABU!WASTELAND!STILLED SAND CRATER!9990.X16004-2!DESCRIPTION!}
@@ -5234,7 +5234,7 @@ Came from the Dawn Fortress
 __Re-living of Rikharr's Folly__
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.501!DESCRIPTION!]
 		||
-		*The draugnir legions let out a howl of exhaltation, signaling the pact between them and their new Jinnwraith. Having been thus accepted by her new charges, Eidos now walks across the void field of the Stilled Sand Crater towards Ark's Beacon with the ravening host of the pit at her back.
+		*The draugnir legions let out a howl of exaltation, signaling the pact between them and their new Jinnwraith. Having been thus accepted by her new charges, Eidos now walks across the void field of the Stilled Sand Crater towards Ark's Beacon with the ravening host of the pit at her back.
 		
 		Onwards they march through a corrupted and warped subset of space where time overlaps, folding in on itself, and the overwhelming weight of memory subjugates free will. All Eidos can do is watch as It acts through her, for she or It has chosen and will choose a similar path. And they will repeat this until the day the Elder Gods abandon this world to its cursed fate of fading into a forgotten memory...*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.5010!DESCRIPTION!}
@@ -5436,13 +5436,13 @@ From below w/o army
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!10.0013!DESCRIPTION!]
 		||
-		*But Eidos does not react. She stands motionless, unsure of whether she is courageous, curious or simply resigned to whatever should be. She allows the procession of unholy abominations to march toward her, and soon, splinters of tooth and bone gnash all around her, as the draugnir drool their sooty fluids. The creatures circle around her like albino buzzards, eyeing a fresh corpse...*
-		(A#Warn Them){A:1,KABU!WASTELAND!STILLED SAND CRATER!1.100!DESCRIPTION!}
-		(B#Calm Them){B:1,KABU!WASTELAND!STILLED SAND CRATER!1.200!DESCRIPTION!}
-		(C#Do Nothing){C:1,KABU!WASTELAND!STILLED SAND CRATER!1.300!DESCRIPTION!}
-		(D#Cajole Them){D:1,KABU!WASTELAND!STILLED SAND CRATER!1.400!DESCRIPTION!}
-		(E#Command Them){E:1,KABU!WASTELAND!STILLED SAND CRATER!1.500!DESCRIPTION!}
-		(F#Get Jiggy with Them){F:1,KABU!WASTELAND!STILLED SAND CRATER!1.600!DESCRIPTION!}
+		*But Eidos does not react. She stands motionless, unsure of whether she is courageous, curious or simply resigned to whatever should be. She allows the procession of unholy abominations to march toward her, and soon, splinters of tooth and bone gnash all around her, as the draugnir drool their sooty fluids. The creatures circle around her like albino buzzards, eying a fresh corpse...*
+		(A#Warn them){A:1,KABU!WASTELAND!STILLED SAND CRATER!1.100!DESCRIPTION!}
+		(B#Calm them){B:1,KABU!WASTELAND!STILLED SAND CRATER!1.200!DESCRIPTION!}
+		(C#Do nothing){C:1,KABU!WASTELAND!STILLED SAND CRATER!1.300!DESCRIPTION!}
+		(D#Cajole them){D:1,KABU!WASTELAND!STILLED SAND CRATER!1.400!DESCRIPTION!}
+		(E#Command them){E:1,KABU!WASTELAND!STILLED SAND CRATER!1.500!DESCRIPTION!}
+		(F#Get jiggy with them){F:1,KABU!WASTELAND!STILLED SAND CRATER!1.600!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!10.0013!DESCRIPTION!/]
 
 From below w/ army
@@ -5511,7 +5511,7 @@ From below w/ army
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!11.4000!DESCRIPTION!]
 		||
-		*Maws of white bite down on pallid skin, producing blooms of grayscale fluid that stain the ground in shining luminosity. A macabre pallate of shades is mixed as the black ichor of those that were refused death is mixed with the azure lifeblood of those who were never given life.
+		*Maws of white bite down on pallid skin, producing blooms of grayscale fluid that stain the ground in shining luminosity. A macabre palette of shades is mixed as the black ichor of those that were refused death is mixed with the azure lifeblood of those who were never given life.
 		
 		For every fallen enemy an ally likewise expires, and ultimately, both sides cease to exist. In the end, none are left to enact or thwart Eidos, the sole survivor of an unsung battle.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!11.4001!DESCRIPTION!}
@@ -5735,18 +5735,18 @@ inspect the beast
 >>>Saw Gulganna (11502)<<<
 	[/KABU!WASTELAND!THE VEDT!1.X000!DESCRIPTION!]
 		|^11502:KABU!WASTELAND!THE VEDT!1.000!DESCRIPTION!|
-		*She regards the beast with apprehension. Lifeless for centuries - perhaps millenia now - she ultimately concludes that the creature possess no apparent threat. Now approaching to scrutinize it, Eidos sees that the metallic blue sheen extends the length of its carapace. She likewise discovers two holes in the head, revealing what were once the void eyes of the creature. The calcified layer atop the metallic husk seems to have been a trait acquired post-mortem and cracks away at random intervals, flaking off and rejoining its dusty brethren upon the desert ground. What is visible of the carcass indicates that it is not of bone but of large segmented plates. However, their composition is unrecognizable, so encrusted and mineralized are they by the raging shardstorm that sweeps across the Wasteland.
+		*She regards the beast with apprehension. Lifeless for centuries - perhaps millennia now - she ultimately concludes that the creature possess no apparent threat. Now approaching to scrutinize it, Eidos sees that the metallic blue sheen extends the length of its carapace. She likewise discovers two holes in the head, revealing what were once the void eyes of the creature. The calcified layer atop the metallic husk seems to have been a trait acquired post-mortem and cracks away at random intervals, flaking off and rejoining its dusty brethren upon the desert ground. What is visible of the carcass indicates that it is not of bone but of large segmented plates. However, their composition is unrecognizable, so encrusted and mineralized are they by the raging shardstorm that sweeps across the Wasteland.
 		
-		Numerous gashes and puncture wounds provide a look into this beast's violent life, as well as its equally violent end. Peering into one of the wounds, the meagre rays of the sun that do reach inside unveil pools of blue liquid welled up within. Yet the sun is weak and frightened to reach deeper into this dark and deathly domain.*
+		Numerous gashes and puncture wounds provide a look into this beast's violent life, as well as its equally violent end. Peering into one of the wounds, the meager rays of the sun that do reach inside unveil pools of blue liquid welled up within. Yet the sun is weak and frightened to reach deeper into this dark and deathly domain.*
 		(A#Descend into the Salt Forest){A:0,KABU!WASTELAND!THE VEDT!1.001!DESCRIPTION!}
 		(B#Return to Land's End){B:0,KABU!WASTELAND!LAND'S END!3.000!DESCRIPTION!}
 	[KABU!WASTELAND!THE VEDT!1.X000!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!THE VEDT!1.000!DESCRIPTION!]
 		||
-		*She regards the beast with apprehension. Lifeless for centuries - perhaps millenia now - she ultimately concludes that the creature possess no apparent threat. Now approaching to scrutinize it, Eidos sees that the metallic blue sheen extends the length of its carapace. She likewise discovers two holes in the head, revealing what were once the void eyes of the creature. The calcified layer atop the metallic husk seems to have been a trait acquired post-mortem and cracks away at random intervals, flaking off and rejoining its dusty brethren upon the desert ground. What is visible of the carcass indicates that it is not of bone but of large segmented plates. However, their composition is unrecognizable, so encrusted and mineralized are they by the raging shardstorm that sweeps across the Wasteland.
+		*She regards the beast with apprehension. Lifeless for centuries - perhaps millennia now - she ultimately concludes that the creature possess no apparent threat. Now approaching to scrutinize it, Eidos sees that the metallic blue sheen extends the length of its carapace. She likewise discovers two holes in the head, revealing what were once the void eyes of the creature. The calcified layer atop the metallic husk seems to have been a trait acquired post-mortem and cracks away at random intervals, flaking off and rejoining its dusty brethren upon the desert ground. What is visible of the carcass indicates that it is not of bone but of large segmented plates. However, their composition is unrecognizable, so encrusted and mineralized are they by the raging shardstorm that sweeps across the Wasteland.
 		
-		Numerous gashes and puncture wounds provide a look into this beast's violent life, as well as its equally violent end. Peering into one of the wounds, the meagre rays of the sun that do reach inside unveil pools of blue liquid welled up within. Yet the sun is weak and frightened to reach deeper into this dark and deathly domain.*
+		Numerous gashes and puncture wounds provide a look into this beast's violent life, as well as its equally violent end. Peering into one of the wounds, the meager rays of the sun that do reach inside unveil pools of blue liquid welled up within. Yet the sun is weak and frightened to reach deeper into this dark and deathly domain.*
 		(A#...){A:0,KABU!WASTELAND!THE VEDT!1.001!DESCRIPTION!}
 	[KABU!WASTELAND!THE VEDT!1.000!DESCRIPTION!/]
 
@@ -5828,7 +5828,7 @@ inspect the beast
 		||
 		*After an endless slog through knee-high dunes, Eidos again approaches the desiccated husk of the long-dead beast - a lonely reminder of the fate meted out even to the strong on this unforgiving plane of existence.
 		
-		Heyar looks quizzically at the creature, alternately wringing his hands and letting out occaisonal yelps of excitement - somewhat akin to a buzzard's mating call, perhaps.*
+		Heyar looks quizzically at the creature, alternately wringing his hands and letting out occasional yelps of excitement - somewhat akin to a buzzard's mating call, perhaps.*
 		(A#Leave){A:0,KABU!WASTELAND!THE VEDT!2.012!DESCRIPTION!}
 		(B#Approach Heyar){B:0,KABU!WASTELAND!THE VEDT!3.X000!DESCRIPTION!}
 		(C#Re-examine the carcass){C:0,KABU!WASTELAND!THE VEDT!4.X000!DESCRIPTION!}
@@ -5865,18 +5865,18 @@ inspect the beast
 >>>Saw Gulganna (11502)<<<
 	[/KABU!WASTELAND!THE VEDT!4.X000!DESCRIPTION!]
 		|^11502:KABU!WASTELAND!THE VEDT!4.000!DESCRIPTION!|
-		*She regards the beast with apprehension. Lifeless for centuries - perhaps millenia now - she ultimately concludes that the creature possess no apparent threat. Now approaching to scrutinize it, Eidos sees that the metallic blue sheen extends the length of its carapace. She likewise discovers two holes in the head, revealing what were once the void eyes of the creature. The calcified layer atop the metallic husk seems to have been a trait acquired post-mortem and cracks away at random intervals, flaking off and rejoining its dusty brethren upon the desert ground. What is visible of the carcass indicates that it is not of bone but of large segmented plates. However, their composition is unrecognizable, so encrusted and mineralized are they by the raging shardstorm that sweeps across the Wasteland.
+		*She regards the beast with apprehension. Lifeless for centuries - perhaps millennia now - she ultimately concludes that the creature possess no apparent threat. Now approaching to scrutinize it, Eidos sees that the metallic blue sheen extends the length of its carapace. She likewise discovers two holes in the head, revealing what were once the void eyes of the creature. The calcified layer atop the metallic husk seems to have been a trait acquired post-mortem and cracks away at random intervals, flaking off and rejoining its dusty brethren upon the desert ground. What is visible of the carcass indicates that it is not of bone but of large segmented plates. However, their composition is unrecognizable, so encrusted and mineralized are they by the raging shardstorm that sweeps across the Wasteland.
 		
-		Numerous gashes and puncture wounds provide a look into this beast's violent life, as well as its equally violent end. Peering into one of the wounds, the meagre rays of the sun that do reach inside unveil pools of blue liquid welled up within. Yet the sun is weak and frightened to reach deeper into this dark and deathly domain.*
+		Numerous gashes and puncture wounds provide a look into this beast's violent life, as well as its equally violent end. Peering into one of the wounds, the meager rays of the sun that do reach inside unveil pools of blue liquid welled up within. Yet the sun is weak and frightened to reach deeper into this dark and deathly domain.*
 		(A#Leave){A:0,KABU!WASTELAND!THE VEDT!2.012!DESCRIPTION!}
 		(B#Approach Heyar){B:0,KABU!WASTELAND!THE VEDT!3.X000!DESCRIPTION!}
 	[KABU!WASTELAND!THE VEDT!4.X000!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!THE VEDT!4.000!DESCRIPTION!]
 		||
-		*She regards the beast with apprehension. Lifeless for centuries - perhaps millenia now - she ultimately concludes that the creature possess no apparent threat. Now approaching to scrutinize it, Eidos sees that the metallic blue sheen extends the length of its carapace. She likewise discovers two holes in the head, revealing what were once the void eyes of the creature. The calcified layer atop the metallic husk seems to have been a trait acquired post-mortem and cracks away at random intervals, flaking off and rejoining its dusty brethren upon the desert ground. What is visible of the carcass indicates that it is not of bone but of large segmented plates. However, their composition is unrecognizable, so encrusted and mineralized are they by the raging shardstorm that sweeps across the Wasteland.
+		*She regards the beast with apprehension. Lifeless for centuries - perhaps millennia now - she ultimately concludes that the creature possess no apparent threat. Now approaching to scrutinize it, Eidos sees that the metallic blue sheen extends the length of its carapace. She likewise discovers two holes in the head, revealing what were once the void eyes of the creature. The calcified layer atop the metallic husk seems to have been a trait acquired post-mortem and cracks away at random intervals, flaking off and rejoining its dusty brethren upon the desert ground. What is visible of the carcass indicates that it is not of bone but of large segmented plates. However, their composition is unrecognizable, so encrusted and mineralized are they by the raging shardstorm that sweeps across the Wasteland.
 		
-		Numerous gashes and puncture wounds provide a look into this beast's violent life, as well as its equally violent end. Peering into one of the wounds, the meagre rays of the sun that do reach inside unveil pools of blue liquid welled up within. Yet the sun is weak and frightened to reach deeper into this dark and deathly domain.*
+		Numerous gashes and puncture wounds provide a look into this beast's violent life, as well as its equally violent end. Peering into one of the wounds, the meager rays of the sun that do reach inside unveil pools of blue liquid welled up within. Yet the sun is weak and frightened to reach deeper into this dark and deathly domain.*
 		(A#...){A:0,KABU!WASTELAND!THE VEDT!4.001!DESCRIPTION!}
 	[KABU!WASTELAND!THE VEDT!4.000!DESCRIPTION!/]
 
@@ -5996,7 +5996,7 @@ seen Gurgadon/Gulganna
 
 	[/KABU!WASTELAND!THE VEDT!0.1000!HEYAR!]
 		||
-		*"Yes, in their epic battle against the Ataraxia around two millenia ago! Marvelous!"*
+		*"Yes, in their epic battle against the Ataraxia around two millennia ago! Marvelous!"*
 		(A#"..."){A:0,KABU!WASTELAND!THE VEDT!0.1001!HEYAR!}
 	[KABU!WASTELAND!THE VEDT!0.1000!HEYAR!/]
 
@@ -6031,7 +6031,7 @@ seen Gurgadon/Gulganna
 
 	[/KABU!WASTELAND!THE VEDT!0.2001!HEYAR!]
 		||
-		*"But why have the Daziran mages been hiding this knowledge from us?!"*
+		*"But why have the Daziran magi been hiding this knowledge from us?!"*
 		(A#"..."){A:0,KABU!WASTELAND!THE VEDT!0.2002!HEYAR!}
 	[KABU!WASTELAND!THE VEDT!0.2001!HEYAR!/]
 
@@ -6083,7 +6083,7 @@ seen Gurgadon/Gulganna
 
 	[/KABU!WASTELAND!THE VEDT!0.4003!HEYAR!]
 		||
-		*"But why have the Daziran mages been hiding this knowledge from us?!"*
+		*"But why have the Daziran magi been hiding this knowledge from us?!"*
 		(A#"..."){A:0,KABU!WASTELAND!THE VEDT!0.4004!HEYAR!}
 	[KABU!WASTELAND!THE VEDT!0.4003!HEYAR!/]
 
@@ -6144,7 +6144,7 @@ not seen Gurgadon/Gulganna
 
 	[/KABU!WASTELAND!THE VEDT!1.0000!HEYAR!]
 		||
-		*"Yes, in their epic battle against the Ataraxia around two millenia ago. Marvelous! You know some scholars even say the ancient structures dotting this land signify that this was the very location of the Ataraxian stronghold! And..."*
+		*"Yes, in their epic battle against the Ataraxia around two millennia ago. Marvelous! You know some scholars even say the ancient structures dotting this land signify that this was the very location of the Ataraxian stronghold! And..."*
 		(A#"..."){A:0,KABU!WASTELAND!THE VEDT!1.0001!HEYAR!}
 	[KABU!WASTELAND!THE VEDT!1.0000!HEYAR!/]
 
@@ -6169,7 +6169,7 @@ seen Gurgadon/Gulganna
 
 	[/KABU!WASTELAND!THE VEDT!1.0010!HEYAR!]
 		||
-		*"Yes, in their epic battle against the Ataraxia around two millenia ago. Marvelous! You know some scholars even say the ancient structures dotting this land signify that this was the very location of the Ataraxian stronghold! And..."*
+		*"Yes, in their epic battle against the Ataraxia around two millennia ago. Marvelous! You know some scholars even say the ancient structures dotting this land signify that this was the very location of the Ataraxian stronghold! And..."*
 		(A#"..."){A:0,KABU!WASTELAND!THE VEDT!1.0011!HEYAR!}
 	[KABU!WASTELAND!THE VEDT!1.0010!HEYAR!/]
 
@@ -6262,7 +6262,7 @@ seen Gurgadon/Gulganna
 
 	[/KABU!WASTELAND!THE VEDT!1.600!HEYAR!]
 		||
-		*"Though my knowledge is meagre, perhaps I can be of assistance!"*
+		*"Though my knowledge is meager, perhaps I can be of assistance!"*
 		(A#"What came first, the chicken or the egg?"){A:0,KABU!WASTELAND!THE VEDT!1.6000!HEYAR!}
 	[KABU!WASTELAND!THE VEDT!1.600!HEYAR!/]
 

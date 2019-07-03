@@ -1,0 +1,72 @@
+Direction of Conscientia
+
+This document serves to remind me of where I want to go with the project. In the event of an untimely death, I hope it serves Bruce to complete the project.
+
+Overarching Themes:
+	- Lovecraft: Player as the Haunter of the Dark
+	- Abbott: Flatland idea of uncertainty of realms beyond our own because we know of realms below us
+	- Attitude of how a deity (artificial or otherwise) might view us
+	- Ryuunosuke: Different experiences/agendas will taint the truth
+	- Stories unlocked through Awareness (unlocking Ormenos in Book of Torma or Muninn in Book of Rikharr)
+
+Book of Eidos:
+	- Major theme:
+	- Major Personality: Loon
+	- Major TODOs:
+		- Improve quality of writing (Dialogue, especially [e.g., make Famlicus less mustache-twirlingly stereotypical])
+		- Add in elements from other books for consistency (you're not locked into it like a physical book would be [e.g., Sigils])
+	- FEATURE COMPLETE
+
+Book of Thetian:
+	- Major theme: Life has meaning only if we give it meaning
+	- Major Personality: Neutral
+	- Major TODOs:
+		- Look through Bruce's old stuff and make it work
+
+Book of Torma:
+	- Major theme: The dangers of fanaticism/hubris
+	- Major Personality: Schemer
+	- Major TODOs:
+		- Improve the quality of the writing
+	- FEATURE COMPLETE
+
+Book of Rikharr:
+	- Major theme: What will happen, will happen; All is as it is, not as it should be
+	- Major Personality: Truthseeker
+	- IN PROGRESS
+
+Book of Wulfias:
+	- Major theme: The price of egoism
+	- Major Personality: Tyrant
+	- Divided in thirds:
+		- Part I: Life as a slave and the Muninn Experiment
+			- Establish how terrible his life is and why he thinks purely of himself
+			- He lies/uses Rikharr in the Interstice
+		- Part II: Becoming a legend
+			- He rises in the ranks of the Thiuda, ruffles some feathers, and gets sent off to attack the Ataraxia (as a 'reward')
+		- Part III: Fall from grace and suicide mission to destroy the Ataraxia
+			- Hel is unleashed in the middle of the Ataraxian settlement (the modern-day Stilled Sand Crater)
+				- She erases everything within from existence (including Biracul and the vast majority of Wulfias' army)
+
+Book of Biracul:
+	- Major theme: You can't please everybody
+	- Major Personality: Diplomat
+	- Divided into fourths:
+		- Parts II-V are dealt in random order
+		- Part I: Pre-Great Awakening to Creation in Empyrean
+			- Description of all the wonders of Tech
+				- Casters
+				- Water from thin air
+				- Flying vehicles
+				- Telepathy
+				- Etc.
+		- Part II: Jormungund & Hel
+			- ??? & Ark
+		- Part III: Kavu
+			- Establishing the original Biraculian System
+		- Part IV: Jer, Zemes, Okum
+			- Modifying the system, trying to improve it
+		- Part V: Eidos
+			- Prepares everything, but before she is born, Conscientia sends him back in time
+		- Part VI: The Ataraxia
+			- Biracul's rebellion against Conscientia

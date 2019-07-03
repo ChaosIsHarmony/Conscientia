@@ -1,0 +1,34 @@
+Conscientia Features:
+Combat
+	- References:
+		- Dark Souls
+		- Hollow Knight
+		- Hyper Light Drifter
+	- Main Features:
+		- Melee
+		- Magic
+		- Dynamic AI
+			- 5 classes of enemy based difficulty
+			- 9 levels of difficulty within each classes
+				- Reaction speed (1-3)
+				- Damage dealt (1-3)
+				- Density of attacks (1-3)
+			- Damage taken from a given class of enemy determines level
+				- Greater damage -> Lower AI level, vice versa
+				- Default is 5
+Exploration
+	- References:
+		- Dark Souls
+		- Castlevania
+		- Elder Scrolls
+	- Main Features:
+		- Open world
+		- Open timeline
+		- Loads of secrets
+	- Desired Features:
+		- Continuous narration (ala Bastion)
+Dialogue
+	- References:
+		- None
+	- Main Features:
+		- Six personality types

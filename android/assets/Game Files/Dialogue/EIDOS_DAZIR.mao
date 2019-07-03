@@ -88,7 +88,7 @@ ARBORETUM
 
 	[/KABU!DAZIR!ARBORETUM!10.X000!DESCRIPTION!]
 		|@:KABU!DAZIR!ARBORETUM!10.X100!DESCRIPTION!|
-		*Khaa leads Eidos to the centre of the Arboretum, the simple fountain and its rippling surface covering the awaiting Farcaster seal. Here he gestures to the pool expectantly.*
+		*Khaa leads Eidos to the center of the Arboretum, the simple fountain and its rippling surface covering the awaiting Farcaster seal. Here he gestures to the pool expectantly.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!9999.X0003!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!10.X000!DESCRIPTION!/]
 
@@ -129,7 +129,7 @@ ARBORETUM
 
 	[/KABU!DAZIR!ARBORETUM!11.002!DESCRIPTION!]
 		||
-		*Eidos walks towards the low building. Upon closer scrutiny, it is wholly unlike the rest of the surroundings. The gargantuan bricks that of which it is built are a dark sandstone, clearly quarried from a different region than the marble decorating the Arboretum. These bricks have also been cut in a much more rudimentary and less fanciful design. However, their apparent simplicity is constrasted by their fine work as they were clearly shaped with cunning exactitude and assembled with impeccable precision.
+		*Eidos walks towards the low building. Upon closer scrutiny, it is wholly unlike the rest of the surroundings. The gargantuan bricks that of which it is built are a dark sandstone, clearly quarried from a different region than the marble decorating the Arboretum. These bricks have also been cut in a much more rudimentary and less fanciful design. However, their apparent simplicity is contrasted by their fine work as they were clearly shaped with cunning exactitude and assembled with impeccable precision.
 		
 		Near the gate stands a guard, boasting an expression of an all-consuming boredom etched upon his face, which he barely raises at her approach.*
 		(A#Approach the guard){A:0,KABU!DAZIR!ARBORETUM!11.X005!DESCRIPTION!}
@@ -139,7 +139,7 @@ ARBORETUM
 
 	[/KABU!DAZIR!ARBORETUM!11.004!DESCRIPTION!]
 		||
-		*Looking around, Eidos sees Khaa's rather extravagant abode to the north, standing as the foreground to the cusp where the mountains meet the flats in the background. At the oppsite side of the Arboretum stands the austere structure of the Daziran Archives, while further into the Arboretum is the circular stone platform.*
+		*Looking around, Eidos sees Khaa's rather extravagant abode to the north, standing as the foreground to the cusp where the mountains meet the flats in the background. At the opposite side of the Arboretum stands the austere structure of the Daziran Archives, while further into the Arboretum is the circular stone platform.*
 		(A#Approach the Archives){A:0,KABU!DAZIR!ARBORETUM!11.002!DESCRIPTION!}
 		(B#Enter Khaa's Abode){B:0,KABU!DAZIR!MAGE'S ABODE!11.X000!DESCRIPTION!}
 		(C#Approach the floating platform){C:0,KABU!DAZIR!ARBORETUM!11.001!DESCRIPTION!}
@@ -214,7 +214,7 @@ Event 20001 - Blew up Moon Tower
 
 	[/KABU!DAZIR!ARBORETUM!100.002!DESCRIPTION!]
 		||
-		*Eidos suddenly notices some... thing... standing right next to her. At first glance, the creature appears to be a human, but is decidely something else entirely. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Yet every stitch of thread, each scrap of cloth is dyed some shade of red. It clutches in its grip a large wooden staff and hides its features behind a wide-brimmed hat, tinted in the hue of dried blood.*
+		*Eidos suddenly notices some... thing... standing right next to her. At first glance, the creature appears to be a human, but is decidedly something else entirely. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Yet every stitch of thread, each scrap of cloth is dyed some shade of red. It clutches in its grip a large wooden staff and hides its features behind a wide-brimmed hat, tinted in the hue of dried blood.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!100.X003!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!100.002!DESCRIPTION!/]
 
@@ -238,7 +238,7 @@ Event 20001 - Blew up Moon Tower
 
 	[/KABU!DAZIR!ARBORETUM!100.102!DESCRIPTION!]
 		||
-		*Eidos suddenly notices some... thing... standing right next to her. At first glance, the creature appears to be a human, but is decidely something else entirely. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Yet every stitch of thread, each scrap of cloth is dyed some shade of red. It clutches in its grip a large wooden staff and hides its features behind a wide-brimmed hat, tinted in the hue of dried blood.*
+		*Eidos suddenly notices some... thing... standing right next to her. At first glance, the creature appears to be a human, but is decidedly something else entirely. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Yet every stitch of thread, each scrap of cloth is dyed some shade of red. It clutches in its grip a large wooden staff and hides its features behind a wide-brimmed hat, tinted in the hue of dried blood.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!100.103!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!100.102!DESCRIPTION!/]
 
@@ -343,7 +343,7 @@ khaa killed
 	
 	[/KABU!DAZIR!ARBORETUM!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!999.103!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!999.102!DESCRIPTION!/]
 	
@@ -435,7 +435,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.1007!ASANSOR!]
 		||
-		*"Shut up! I'm old, not senile, you Jinn-lickin' fool!"*
+		*"Shut up! I'm old, not senile, you Jinnlickin' fool!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.1008!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.1007!ASANSOR!/]
 	
@@ -491,7 +491,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.2005!ASANSOR!]
 		||
-		*"It's been awakened to life by the Technocraft of Daziran artisans and mages."*
+		*"It's been awakened to life by the Technocraft of Daziran artisans and magi."*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.2006!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.2005!ASANSOR!/]
 	
@@ -727,7 +727,7 @@ final phrase
 	
 	[/KABU!DAZIR!ARBORETUM!1.X003!ASANSOR!]
 		|@:KABU!DAZIR!ARBORETUM!2.000!ASANSOR!|
-		*"Now off with you, you Jinn-lickin' fool! I'm trying to sleep!"*
+		*"Now off with you, you Jinnlickin' fool! I'm trying to sleep!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!9999.X9999!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!1.X003!ASANSOR!/]	
 	
@@ -1033,7 +1033,7 @@ KHAA
 
 	[/KABU!DAZIR!ARBORETUM!00.500!KHAA!]
 		||
-		*"Oh, you don't have to. Not when I can tear open the defences of your weak mind and learn whatever I please!"*
+		*"Oh, you don't have to. Not when I can tear open the defenses of your weak mind and learn whatever I please!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!00.5000!KHAA!}
 	[KABU!DAZIR!ARBORETUM!00.500!KHAA!/]
 	
@@ -1478,7 +1478,7 @@ KHAA
 	
 	[/KABU!DAZIR!ARBORETUM!0.4000!KHAA!]
 		||
-		*"Yet you have not mastered your mental defences, thereby allowing others to unweave the threads of your memories with the greatest of ease."*
+		*"Yet you have not mastered your mental defenses, thereby allowing others to unweave the threads of your memories with the greatest of ease."*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.4001!KHAA!}
 	[KABU!DAZIR!ARBORETUM!0.4000!KHAA!/]
 	
@@ -1577,7 +1577,7 @@ KHAA
 	
 	[/KABU!DAZIR!ARBORETUM!0.3010!KHAA!]
 		||
-		*"As the Tacrbian tribe seeks to dominate this region, their folly concerns the actions of all people of Kabu, as well as those 'in' Kabu."*
+		*"As the Tacribian tribe seeks to dominate this region, their folly concerns the actions of all people of Kabu, as well as those 'in' Kabu."*
 		(B#"What kind of knowledge does your civilization possess?"){B:1,KABU!DAZIR!ARBORETUM!0.202!KHAA!}
 		(C#"I'm an outlander; this feud doesn't interest me."){C:1,KABU!DAZIR!ARBORETUM!0.302!KHAA!}
 		(D#"Why is your survival at stake?"){D:1,KABU!DAZIR!ARBORETUM!0.402!KHAA!}
@@ -2062,7 +2062,7 @@ KHAA
 	
 	[/KABU!DAZIR!ARBORETUM!0.4044!KHAA!]
 		||
-		*"You're as gulieful as the Ruby Jinn himself..."*
+		*"You're as guileful as the Ruby Jinn himself..."*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.4045!KHAA!}
 	[KABU!DAZIR!ARBORETUM!0.4044!KHAA!/]
 	
@@ -2261,9 +2261,9 @@ ARCHIVES
 	
 	[/KABU!DAZIR!ARCHIVES!0.0000!DESCRIPTION!]
 		||
-		*Continuing her advance into the sanctum, Eidos observes the surroundings. The most stunning feature of this space is also the most dominant: a gargantuan tree, of ivory white, with an infinity of branches reaching high into the air and sprouting coutless shining silvered leaves. Its roots are perfectly concealed beneath the tiled floors, with mere hints of them penetrating at regular intervals.
+		*Continuing her advance into the sanctum, Eidos observes the surroundings. The most stunning feature of this space is also the most dominant: a gargantuan tree, of ivory white, with an infinity of branches reaching high into the air and sprouting countless shining silvered leaves. Its roots are perfectly concealed beneath the tiled floors, with mere hints of them penetrating at regular intervals.
 		
-		Crystalline protrusions peek through cracks in the pale bark, bizarre emanations of energistic waves pouring forth from them. At first these peculiar growths look to be spliting the wood with their angular mineral geometry. However, upon further scrutiny Eidos notes that a sparkling sap surrounds these protrusions, giving the impression that the crystals are in fact the congealed lifeblood of the plant's structure.*
+		Crystalline protrusions peek through cracks in the pale bark, bizarre emanations of energistic waves pouring forth from them. At first these peculiar growths look to be splitting the wood with their angular mineral geometry. However, upon further scrutiny Eidos notes that a sparkling sap surrounds these protrusions, giving the impression that the crystals are in fact the congealed lifeblood of the plant's structure.*
 		(A#Exit the Archives){A:0,KABU!DAZIR!ARBORETUM!990.01!DESCRIPTION!}
 		(B#Enter into communion with the tree){B:0,KABU!DAZIR!ARCHIVES!0.100!DESCRIPTION!}
 		(C#Look around the library){C:0,KABU!DAZIR!ARCHIVES!9990.X10115!DESCRIPTION!}		
@@ -2286,7 +2286,7 @@ ARCHIVES
 		|^13124:KABU!DAZIR!ARCHIVES!0.200!DESCRIPTION!|
 		*The entire archive seems carefully constructed to contain the tree's massive shape. The dimensions seem insufficient to allow further growth and most of the illumination seems to emanate from the subtly swaying leaves, blown by a wind only they sense.
 		
-		Walking around the perimiter reveals the austere, dark stone to be mostly unadorned but for a fresco at the side opposite the entrance. The painting looks to be a representation of the tree itself, though there are a number of notable discrepancies. While the leaves that hang from the branches above her are a pale silver, this tress seems to be in a full, green, springtide bloom. A yellow sun shines down from on high and a black bird is nestled among the boughs.
+		Walking around the perimeter reveals the austere, dark stone to be mostly unadorned but for a fresco at the side opposite the entrance. The painting looks to be a representation of the tree itself, though there are a number of notable discrepancies. While the leaves that hang from the branches above her are a pale silver, this tress seems to be in a full, green, springtime bloom. A yellow sun shines down from on high and a black bird is nestled among the boughs.
 		
 		Drawn over the tree are a series of circles in which many and varied shapes abide. They appear to have the look of Glyphs, though their function in this work is merely aesthetic, apparently conveying neither meaning nor power.*
 		(A#Exit the Archives){A:0,KABU!DAZIR!ARBORETUM!990.01!DESCRIPTION!}
@@ -2297,9 +2297,9 @@ ARCHIVES
 		||
 		*The entire archive seems carefully constructed to contain the tree's massive shape. The dimensions seem insufficient to allow further growth and most of the illumination seems to emanate from the subtly swaying leaves, blown by a wind only they sense.
 		
-		Walking around the perimiter reveals the austere, dark stone to be mostly unadorned but for a fresco at the side opposite the entrance. The painting looks much the same as the one she viewed in the Tambulan Archive, what feels like lifetimes ago. However, there are a number of notable discrepancies. While the leaves that hung from the branches in the Tambulan image were crimson, these are a full, green, springtide bloom. A white halo as a brilliant yellow sun, shines down from on high. The two crows from the other township are absent, replaced by but a single black bird, nestled among the boughs.
+		Walking around the perimeter reveals the austere, dark stone to be mostly unadorned but for a fresco at the side opposite the entrance. The painting looks much the same as the one she viewed in the Tambulan Archive, what feels like lifetimes ago. However, there are a number of notable discrepancies. While the leaves that hung from the branches in the Tambulan image were crimson, these are a full, green, springtime bloom. A white halo as a brilliant yellow sun, shines down from on high. The two crows from the other township are absent, replaced by but a single black bird, nestled among the boughs.
 		
-		Drawn over the tree are a series of circles in which many and varied shapes abide. They appear to have the look of Glyphs, though their funct in this work is merely aesthetic, apparently conveying neither meaning nor power.*
+		Drawn over the tree are a series of circles in which many and varied shapes abide. They appear to have the look of Glyphs, though their function in this work is merely aesthetic, apparently conveying neither meaning nor power.*
 		(A#Exit the Archives){A:0,KABU!DAZIR!ARBORETUM!990.01!DESCRIPTION!}
 		(B#Enter into communion with the tree){B:0,KABU!DAZIR!ARCHIVES!0.100!DESCRIPTION!}	
 	[KABU!DAZIR!ARCHIVES!0.200!DESCRIPTION!/]		
@@ -2348,7 +2348,7 @@ ARTISANS' MANSION
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.0001!DESCRIPTION!]
 		||
-		*Then inspecting the residences themselves, Eidos notes the finely painted mosaics adorning the entrances. Soft colors and frivolous themes give the area a sense of tranquility. Further enhancing this relaxed atmosphere are the cushioned benches lining the walls, shaded by blooming decorative trees. Masterfully sculpted fountains sit outside each door providing a continual flow of fresh water. Thirsty passersby stop to fill ornate flasks and then drinkly deeply under the scorching desert sun.*
+		*Then inspecting the residences themselves, Eidos notes the finely painted mosaics adorning the entrances. Soft colors and frivolous themes give the area a sense of tranquility. Further enhancing this relaxed atmosphere are the cushioned benches lining the walls, shaded by blooming decorative trees. Masterfully sculpted fountains sit outside each door providing a continual flow of fresh water. Thirsty passersby stop to fill ornate flasks and then drink deeply under the scorching desert sun.*
 		(A#Return to the Artisans' Plaza){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.000!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAZIR!ARTISANS' MANSION!0.X001!DESCRIPTION!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.0001!DESCRIPTION!/]
@@ -2365,7 +2365,7 @@ ARTISANS' MANSION
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.X0011!DESCRIPTION!]
 		|@:KABU!DAZIR!ARTISANS' MANSION!0.X002!DESCRIPTION!|
-		*Walking about this residential area, the folk here seem either idle and taskless, or engaged in deep discussions. Those that do meet Eidos' gaze do so with an unapproving sneer before briskly strolling away. The more friendly minority shoot her a nod and a smile.*
+		*Walking about this residential area, the folk here seem either idle and taskless, or engaged in deep discussions. Those that do meet Eidos' gaze do so with an disapproving sneer before briskly strolling away. The more friendly minority shoot her a nod and a smile.*
 		(A#A balding man in a turquoise robe){A:0,KABU!DAZIR!ARTISANS' MANSION!9999.X0064!DESCRIPTION!}
 		(B#The young girl reading a book){B:0,KABU!DAZIR!ARTISANS' MANSION!9999.X0065!DESCRIPTION!}
 		(C#A lazy-looking young fellow){C:0,KABU!DAZIR!ARTISANS' MANSION!9999.X0066!DESCRIPTION!}
@@ -2441,7 +2441,7 @@ khaa dead
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!ARTISANS' MANSION!999.103!DESCRIPTION!}
 	[KABU!DAZIR!ARTISANS' MANSION!999.102!DESCRIPTION!/]
 	
@@ -2646,7 +2646,7 @@ EGIMEN
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.4010!EGIMEN!]
 		||
-		*"What's more is that their minds cannot be touched by those of the mages, like the branded Unseen - only cure for the draugnir is the destruction of their Falseflesh."*
+		*"What's more is that their minds cannot be touched by those of the magi, like the branded Unseen - only cure for the draugnir is the destruction of their Falseflesh."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!0.1012!EGIMEN!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.4010!EGIMEN!/]
 
@@ -2811,7 +2811,7 @@ KORAY
 	[/KABU!DAZIR!ARTISANS' MANSION!0.6000!KORAY!]
 		||
 		*"Biracul's balls, you sound a bit Jinn-touched yourself; been out wandering the Wasteland lately, have you?"*
-		(F#"Jinntouched? Sounds like someone had a traumatising childhood..."){F:1,KABU!DAZIR!ARTISANS' MANSION!0.601!KORAY!}
+		(F#"Jinntouched? Sounds like someone had a traumatizing childhood..."){F:1,KABU!DAZIR!ARTISANS' MANSION!0.601!KORAY!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.6000!KORAY!/]
 	
 	
@@ -3210,7 +3210,7 @@ SIDIKA
 	
 	[/KABU!DAZIR!ARTISANS' MANSION!0.2010!SIDIKA!]
 		||
-		*"Beyond the Wasteland is Zemes where all the people live in tents; they're supposed to be even stronger than Tacbrians and drink the blood of their enemies!"*
+		*"Beyond the Wasteland is Zemes where all the people live in tents; they're supposed to be even stronger than Tacribians, OH! And they drink the blood of their enemies!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' MANSION!0.2011!SIDIKA!}
 	[KABU!DAZIR!ARTISANS' MANSION!0.2010!SIDIKA!/]
 		
@@ -3642,7 +3642,7 @@ ARTISANS' PLAZA
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.0001!DESCRIPTION!]
 		||
-		*One whole side of the area is open to the desert, allowing for a spectacular panoramic view of the desolate landscape - though to the south, constant dust cyclones kick up airborn sediment obscuring any distant landmarks. However, looking out from the mountains toward the east, a silver tower rejects the sun's rays, simultaneously inviting and forbidding perception with its blinding reflections. The township beneath it is barely visible amid the brilliance.*
+		*One whole side of the area is open to the desert, allowing for a spectacular panoramic view of the desolate landscape - though to the south, constant dust cyclones kick up airborne sediment obscuring any distant landmarks. However, looking out from the mountains toward the east, a silver tower rejects the sun's rays, simultaneously inviting and forbidding perception with its blinding reflections. The township beneath it is barely visible amid the brilliance.*
 		(A#...){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.0002!DESCRIPTION!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.0001!DESCRIPTION!/]
 	
@@ -3673,7 +3673,7 @@ already seen it
 		|@:KABU!DAZIR!ARTISANS' PLAZA!1.001!DESCRIPTION!|
 		*Three individuals look as though they are in no hurry to arrive at any particular destination.*
 		(A#A handsome man of indeterminate age){A:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X0054!DESCRIPTION!}
-		(B#The grey-haired man wearing a turquoise robe){B:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X0061!DESCRIPTION!}
+		(B#The gray-haired man wearing a turquoise robe){B:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X0061!DESCRIPTION!}
 		(C#A sullen boy with a dirty face){C:0,KABU!DAZIR!ARTISANS' PLAZA!9999.X0062!DESCRIPTION!}
 	[KABU!DAZIR!ARTISANS' PLAZA!1.X000!DESCRIPTION!/]
 	
@@ -3723,7 +3723,7 @@ khaa dead
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!ARTISANS' PLAZA!999.103!DESCRIPTION!}
 	[KABU!DAZIR!ARTISANS' PLAZA!999.102!DESCRIPTION!/]
 	
@@ -4081,7 +4081,7 @@ HAZAN
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.4003!HAZAN!]
 		||
-		*"He... approached a beautiful red-haired spectre. It was shortly after she emerged from one of the amber light fixtures."*
+		*"He... approached a beautiful red-haired specter. It was shortly after she emerged from one of the amber light fixtures."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.4004!HAZAN!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.4003!HAZAN!/]
 	
@@ -4158,7 +4158,7 @@ HAZAN
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.1011!HAZAN!]
 		||
-		*"Thus, we must do what we can to prepare our defences."*
+		*"Thus, we must do what we can to prepare our defenses."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.X1012!HAZAN!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.1011!HAZAN!/]
 	
@@ -4318,7 +4318,7 @@ SERPIL
 		||
 		*"Yes, may I help, foreigner?"*
 		(B#"On second thought, I would like to hear about the Vanquished."){B:1,KABU!DAZIR!ARTISANS' PLAZA!0.001!SERPIL!}
-		(C#"Nevermind."){C:1,KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!SERPIL!}
+		(C#"Never mind."){C:1,KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!SERPIL!}
 		(F#"I have this rash that I was hoping you could look at for me..."){F:1,KABU!DAZIR!ARTISANS' PLAZA!1.000!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.003!SERPIL!/]
 	
@@ -4405,7 +4405,7 @@ SERPIL
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.5001!SERPIL!]
 		||
-		*"None have even come close in the millenia since their fall."*
+		*"None have even come close in the millennia since their fall."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.5002!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.5001!SERPIL!/]
 	
@@ -4493,7 +4493,7 @@ SERPIL
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.201!SERPIL!]
 		||
-		*"There are a number of manuals inherited from the Shining One himself. They taught us the basics of architechture."*
+		*"There are a number of manuals inherited from the Shining One himself. They taught us the basics of architecture."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.2010!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.201!SERPIL!/]
 	
@@ -4559,7 +4559,7 @@ SERPIL
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.5010!SERPIL!]
 		||
-		*"Essentially all we do is replace one exhuasted crystal with a fresh one."*
+		*"Essentially all we do is replace one exhausted crystal with a fresh one."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.5011!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.5010!SERPIL!/]
 	
@@ -4661,7 +4661,7 @@ ATRIUM
 	
 	[/KABU!DAZIR!ATRIUM!0.002!DESCRIPTION!]
 		||
-		*At the eastern edge of the township is a worn adobe wall, cracks visible even from this great distance. The wall roughly a story tall. At its centre is what appears to be a gate - so clearly superior in its reflective metallic construction that is seems out of place. The gate itself is sealed by a massive, circular chunk of onyx. At the opposite end of the atrium is a large sandstone temple, which looks to have a number of folk burning incense at its perimeter.*
+		*At the eastern edge of the township is a worn adobe wall, cracks visible even from this great distance. The wall roughly a story tall. At its center is what appears to be a gate - so clearly superior in its reflective metallic construction that is seems out of place. The gate itself is sealed by a massive, circular chunk of onyx. At the opposite end of the atrium is a large sandstone temple, which looks to have a number of folk burning incense at its perimeter.*
 		(A#Approach the Temple of Biracul){A:0,KABU!DAZIR!ATRIUM!0.100!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAZIR!ATRIUM!0.X010!DESCRIPTION!}
 		(C#Approach the Gates){C:0,KABU!DAZIR!GATES OF DAZIR!0.500!DESCRIPTION!}
@@ -4671,7 +4671,7 @@ ATRIUM
 		|@:KABU!DAZIR!ATRIUM!0.010!DESCRIPTION!|
 		*Looking about the Atrium, Eidos surveys the folk. Most all of them seem beleaguered by menial tasks such as transporting goods, materials and water or sorting and preparing foodstuffs.
 		
-		Those in idleness seem to have their eyes cast upward, looking upon the narrow band of sky visible between the wall and the support structure of the upper level. Only a few seem open to her appraoch.*
+		Those in idleness seem to have their eyes cast upward, looking upon the narrow band of sky visible between the wall and the support structure of the upper level. Only a few seem open to her approach.*
 		(A#The woman in the magenta scarf){A:0,KABU!DAZIR!ATRIUM!9999.X0057!DESCRIPTION!}
 		(B#The tall, thick brute){B:0,KABU!DAZIR!ATRIUM!9999.X0051!DESCRIPTION!}
 		(C#A scrawny, greasy-haired young man){C:0,KABU!DAZIR!ATRIUM!9999.X0052!DESCRIPTION!}
@@ -4693,7 +4693,7 @@ ATRIUM
 		
 		There are a number of golden-robed folk burning incense and chanting incantations at the door. Still others enter the structure with empty urns, passing those on their way out who carry overflowing jars, water splashing to the ground from their frivolous maneuvering.
 		
-		Beyond the temple itself seems to be a somewhat more dilapidated area of town, with people of equal calibre loitering around the area.*
+		Beyond the temple itself seems to be a somewhat more dilapidated area of town, with people of equal caliber loitering around the area.*
 		(A#Enter the Temple of Biracul){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!0.X000!DESCRIPTION!}
 		(B#Enter the Slums){B:0,KABU!DAZIR!SLUMS!0.000!DESCRIPTION!}
 		(C#Return to the Atrium){C:0,KABU!DAZIR!ATRIUM!0.000!DESCRIPTION!}
@@ -4736,7 +4736,7 @@ khaa dead
 	
 	[/KABU!DAZIR!ATRIUM!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!ATRIUM!999.103!DESCRIPTION!}
 	[KABU!DAZIR!ATRIUM!999.102!DESCRIPTION!/]
 	
@@ -4958,7 +4958,7 @@ JERHAAK
 	
 	[/KABU!DAZIR!ATRIUM!0.5011!JERHAAK!]
 		||
-		*"Once I heard the Prophet say, 'Conscentia will awaken. He will cast the Form of Hai unto the blood of the people. Their dead shall be beyond the count of the stars.'"*
+		*"Once I heard the Prophet say, 'Conscientia will awaken. He will cast the Form of Hai unto the blood of the people. Their dead shall be beyond the count of the stars.'"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!0.5012!JERHAAK!}
 	[KABU!DAZIR!ATRIUM!0.5011!JERHAAK!/]
 	
@@ -5014,7 +5014,7 @@ JERHAAK
 	
 	[/KABU!DAZIR!ATRIUM!1.X0030!JERHAAK!]
 		|@:KABU!DAZIR!ATRIUM!1.X0031!JERHAAK!|
-		*"...Oh! At night there be no Jinn-born surprises! Too-ra-lee!"*
+		*"...Oh! At night there be no Jinnborn surprises! Too-ra-lee!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!JERHAAK!}
 	[KABU!DAZIR!ATRIUM!1.X0030!JERHAAK!/]
 	
@@ -5148,7 +5148,7 @@ MERT
 	
 	[/KABU!DAZIR!ATRIUM!0.201!MERT!]
 		||
-		*"E'erybody knows the fac' tha' they're dangerous!"*
+		*"E'erybody knows the fac' tha' they're dang'rous!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!0.2010!MERT!}
 	[KABU!DAZIR!ATRIUM!0.201!MERT!/]
 	
@@ -5166,13 +5166,13 @@ MERT
 
 	[/KABU!DAZIR!ATRIUM!0.2012!MERT!]
 		||
-		*"Arrrgg, talkin ta ya is like tradin' words with a Suyu'i goa' frem Tambul!"*
+		*"Arrrgg, talkin' ta ya is like tradin' words with a Suyu'i goa'lo'er frem Tambul!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!0.2013!MERT!}
 	[KABU!DAZIR!ATRIUM!0.2012!MERT!/]
 	
 	[/KABU!DAZIR!ATRIUM!0.2013!MERT!]
 		||
-		*"Ne'ermind, bu' 'member, the Tacribians are dangerous."*
+		*"Ne'er mind, bu' 'member, the Tacribians are dangerous."*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!0.2014!MERT!}
 	[KABU!DAZIR!ATRIUM!0.2013!MERT!/]
 	
@@ -5190,7 +5190,7 @@ MERT
 	
 	[/KABU!DAZIR!ATRIUM!0.X301!MERT!]
 		|@:KABU!DAZIR!ATRIUM!0.202!MERT!|
-		*"Arrrgg! Off with ya now, ya Suyu'i goa'; go play with the Jinns on the plain or somethin'."*
+		*"Arrrgg! Off with ya now, ya Suyu'i goa'lo'er; go play with the Jinns on the plain or somethin'."*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!MERT!}
 	[KABU!DAZIR!ATRIUM!0.X301!MERT!/]		
 	
@@ -5341,7 +5341,7 @@ MERT
 	
 	[/KABU!DAZIR!ATRIUM!0.X102!MERT!]
 		|@:KABU!DAZIR!ATRIUM!1.000!MERT!|
-		*"No reason fer ya to linger, ya Suyu'i goa'!"*
+		*"No reason fer ya to linger, ya Suyu'i goa'lo'er!"*
 		(A#"..."){A:0,KABU!DAZIR!ATRIUM!9999.X9999!MERT!}
 	[KABU!DAZIR!ATRIUM!0.X102!MERT!/]
 	
@@ -5670,9 +5670,9 @@ GATES
 	
 	[/KABU!DAZIR!GATES OF DAZIR!0.001!DESCRIPTION!]
 		||
-		*Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach - though she can faintly hear the sound of human voices distantly echoing from the stone slopes encompassing the tonwship. 
+		*Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach - though she can faintly hear the sound of human voices distantly echoing from the stone slopes encompassing the township. 
 		
-		Looking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished calibre, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
+		Looking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
 		
 		Stretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.*
 		(A#Go east toward the other settlement){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!}
@@ -5681,9 +5681,9 @@ GATES
 	
 	[/KABU!DAZIR!GATES OF DAZIR!0.X0010!DESCRIPTION!]
 		|@:KABU!DAZIR!GATES OF DAZIR!1.X000!DESCRIPTION!|
-		*Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach - though she can faintly hear the sound of human voices distantly echoing from the stone slopes encompassing the tonwship. 
+		*Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach - though she can faintly hear the sound of human voices distantly echoing from the stone slopes encompassing the township. 
 		
-		Looking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished calibre, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
+		Looking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
 		
 		Stretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.
 		
@@ -5737,7 +5737,7 @@ killed khaa or pak
 		||
 		*Walking up to the walls of Dazir, her trek is halted by a circular slab of dark yet resplendent onyx. Three to four times her height in diameter, it stands dispassionately before her, blocking the archway that serves as the entrance to the township. Canting her head skywards, Eidos sees no presence at the top of the walls, no sign of activity at her approach. In fact, a maddening absence of any sound whatsoever suggests the place has been abandoned. Though who would want to engage a mage-killer such as Eidos after all?
 		
-		Looking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished calibre, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
+		Looking beyond the gate, Eidos sees that vertically stacked tiers recess into the mountain the higher they go. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
 		
 		Stretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.*
 		(A#Go east toward the other settlement){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!}
@@ -5780,7 +5780,7 @@ Kicked out
 		|^13002:KABU!DAZIR!GATES OF DAZIR!9.000!DESCRIPTION!|
 		*Eidos is led to the high archway that serves as the sole exit to the outside world. As the guards escort her closer, the massive, circular stone slab that blocks the gate begins to steadily levitate, looking for all spectators as if it is being gently lifted by the hand of some invisible giant.
 		
-		The block is set down once more after she has crossed the threshold. Now on the outside, Eidos looks beyond the gate at the vertically stacked tiers of Dazir. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished calibre, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
+		The block is set down once more after she has crossed the threshold. Now on the outside, Eidos looks beyond the gate at the vertically stacked tiers of Dazir. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
 		
 		Stretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards the settlement with the silver tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.*
 		(A#Go east toward the other settlement){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!}
@@ -5791,7 +5791,7 @@ Kicked out
 		||
 		*Eidos is led to the high archway that serves as the only exit to the outside world. As the guards escort her closer, the massive stone slab that blocks the gate begins to rise without the aid of human or mechanism, looking for all spectators as if it is being gently lifted by the hand of some invisible giant. 
 		
-		The block is set down once more after she has crossed the threshold. Now on the outside, Eidos looks beyond the gate at the vertically stacked tiers of Dazir. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished calibre, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
+		The block is set down once more after she has crossed the threshold. Now on the outside, Eidos looks beyond the gate at the vertically stacked tiers of Dazir. The lowest level is invisible from this vantage point, but the top two levels give hints of the presence of master builders. The structures, though not of Vanquished caliber, are far from crude and the lush vegetation on the upper two levels - especially the uppermost - seem alien to the local desert's desolate flora.
 		
 		Stretching out from the mountains like hardened veins are two stony aqueducts. One leads across the desert towards Tambul with its silvery Moon Tower, glittering in the east and the other first bends south, then turning sharply toward the east and across the canyon.*
 		(A#Go east toward Tambul){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!}
@@ -5866,7 +5866,7 @@ khaa dead
 	
 	[/KABU!DAZIR!GATES OF DAZIR!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!GATES OF DAZIR!999.103!DESCRIPTION!}
 	[KABU!DAZIR!GATES OF DAZIR!999.102!DESCRIPTION!/]
 	
@@ -6047,7 +6047,7 @@ DYSMAS
 	
 	[/KABU!DAZIR!GATES OF DAZIR!0.1011!DYSMAS!]
 		||
-		*"The Hydroponics Facility is a marvel of Birculian innovation and the Moon Tower is truly a sight to behold - just another reminder of how little we yet know compared to the Vanquished."*
+		*"The Hydroponics Facility is a marvel of Biraculian innovation and the Moon Tower is truly a sight to behold - just another reminder of how little we yet know compared to the Vanquished."*
 		(A#"I shall endeavor to make it out there soon!"){A:1,KABU!DAZIR!GATES OF DAZIR!0.301!DYSMAS!}
 		(B#"You seem to suggest Tambul is the best place to visit."){B:1,KABU!DAZIR!GATES OF DAZIR!0.2012!DYSMAS!}
 		(E#"I'm afraid Tambul is not high on my priority list."){E:1,KABU!DAZIR!GATES OF DAZIR!0.2012!DYSMAS!}
@@ -6155,7 +6155,7 @@ DYSMAS
 	
 	[/KABU!DAZIR!GATES OF DAZIR!0.5010!DYSMAS!]
 		||
-		*"I suppose that's my cue to leave, any ways. Most of us Kabans aren't fond of a Famlicuslover, after all!"*
+		*"I suppose that's my cue to leave, any ways. Most of us Kabans aren't fond of a Famlazlover, after all!"*
 		(A#"Yes, leave."){A:1,KABU!DAZIR!GATES OF DAZIR!9999.X9999!DYSMAS!}
 		(D#"There's plenty of sand out there for you to hide your head in."){D:1,KABU!DAZIR!GATES OF DAZIR!9999.X9999!DYSMAS!}
 		(E#"My words aren't the only thing that cut."){E:1,KABU!DAZIR!GATES OF DAZIR!9999.X9999!DYSMAS!}
@@ -6232,7 +6232,7 @@ you accepted khaa's mission
 		*"I'd wager that those Tacribians are a bit parched by now and could use the water!"*
 		(C#"..."){C:1,KABU!DAZIR!GATES OF DAZIR!1.301!DYSMAS!}
 		(D#"What would happen in the unfortunate event of a mishap?"){D:1,KABU!DAZIR!GATES OF DAZIR!1.401!DYSMAS!}
-		(E#"You sound more like you're cursing them than sympathising."){E:1,KABU!DAZIR!GATES OF DAZIR!1.5011!DYSMAS!}
+		(E#"You sound more like you're cursing them than sympathizing."){E:1,KABU!DAZIR!GATES OF DAZIR!1.5011!DYSMAS!}
 	[KABU!DAZIR!GATES OF DAZIR!1.4000!DYSMAS!/]
 	
 	[/KABU!DAZIR!GATES OF DAZIR!1.500!DYSMAS!]
@@ -6475,13 +6475,13 @@ MAGE'S ABODE
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.X500!DESCRIPTION!]
 		|@:KABU!DAZIR!MAGE'S ABODE!0.004!DESCRIPTION!|
-		*Beginning to sit up, Eidos struggles to upright herself, the elderly woman simply raising a sceptical eyebrow. Rada begins to move toward a clay carafe before being brushed aside by an impatient Eidos, who lifts the vessel to her lips, drinking ravenously.*
+		*Beginning to sit up, Eidos struggles to upright herself, the elderly woman simply raising a skeptical eyebrow. Rada begins to move toward a clay carafe before being brushed aside by an impatient Eidos, who lifts the vessel to her lips, drinking ravenously.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!9999.X0068!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!0.X500!DESCRIPTION!/]
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.X600!DESCRIPTION!]
 		|@:KABU!DAZIR!MAGE'S ABODE!0.004!DESCRIPTION!|
-		*Beginning to sit up, Eidos struggles to upright herself, the elderly woman simply raising a sceptical eyebrow. Rada begins to move toward a clay carafe before being brushed aside by an impatient Eidos. Darting towards the container as though in a race, she arrives and throws her hands in the air celebrating her victory. In a fit of ecstasy, as if having achieved her lifelong dream, Eidos lifts the vessel and pours it all over her head, a steady deluge of fresh water dousing her entire person. After shaking herself dry like some farmyard beast, she punctuates the performance with a resounding caw.
+		*Beginning to sit up, Eidos struggles to upright herself, the elderly woman simply raising a skeptical eyebrow. Rada begins to move toward a clay carafe before being brushed aside by an impatient Eidos. Darting towards the container as though in a race, she arrives and throws her hands in the air celebrating her victory. In a fit of ecstasy, as if having achieved her lifelong dream, Eidos lifts the vessel and pours it all over her head, a steady deluge of fresh water dousing her entire person. After shaking herself dry like some farmyard beast, she punctuates the performance with a resounding caw.
 		
 		Stands dumbfounded only able to stare for a few moments. As Eidos begins to stare back, entering into another competition of her imagination with the elderly woman, Rada comes to and begins weaving the thread of conversation anew.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!9999.X0068!DESCRIPTION!}
@@ -6540,7 +6540,7 @@ MAGE'S ABODE
 	
 	[/KABU!DAZIR!MAGE'S ABODE!11.X000!DESCRIPTION!]
 		|@:KABU!DAZIR!MAGE'S ABODE!11.X900!DESCRIPTION!|
-		*Eidos enters Khaa's abode and sees the mage ponderously reviewing documents at his desk. The elderly mage feigns indifference and with a quick glance upwards acknowledges her presence, casting his eyes back down to his papers with equal haste. Despite his show of disinterest, he speaks to her with the eagreness that belies his charade.*
+		*Eidos enters Khaa's abode and sees the mage ponderously reviewing documents at his desk. The elderly mage feigns indifference and with a quick glance upwards acknowledges her presence, casting his eyes back down to his papers with equal haste. Despite his show of disinterest, he speaks to her with the eagerness that belies his charade.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!9999.X0003!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!11.X000!DESCRIPTION!/]	
 	
@@ -6595,7 +6595,7 @@ khaa dead
 	
 	[/KABU!DAZIR!MAGE'S ABODE!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!999.103!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!999.102!DESCRIPTION!/]
 	
@@ -6787,7 +6787,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!00.6000!KHAA!]
 		||
-		*"You see, you have been sent here due to your ability to farcast, foreigner."*
+		*"You see, you have been sent here due to your ability to Farcast, foreigner."*
 		(A#"What's wrong here?"){A:1,KABU!DAZIR!MAGE'S ABODE!0.000!KHAA!}
 		(E#"I'm uninterested in your plight."){E:1,KABU!DAZIR!MAGE'S ABODE!00.501!KHAA!}
 		(F#"If you need to destroy the gremlin menace, I'm with you all the way."){F:1,KABU!DAZIR!MAGE'S ABODE!00.601!KHAA!}
@@ -6887,7 +6887,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.4000!KHAA!]
 		||
-		*"Yet you have not mastered your mental defences, thereby allowing others to unweave the threads of your memories with the greatest of ease."*
+		*"Yet you have not mastered your mental defenses, thereby allowing others to unweave the threads of your memories with the greatest of ease."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.4001!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.4000!KHAA!/]
 	
@@ -6986,7 +6986,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.3010!KHAA!]
 		||
-		*"As the Tacrbian tribe seeks to dominate this region, their folly concerns the actions of all people of Kabu, as well as those 'in' Kabu."*
+		*"As the Tacribian tribe seeks to dominate this region, their folly concerns the actions of all people of Kabu, as well as those 'in' Kabu."*
 		(B#"What kind of knowledge does your civilization possess?"){B:1,KABU!DAZIR!MAGE'S ABODE!0.202!KHAA!}
 		(C#"I'm an outlander; this feud doesn't interest me."){C:1,KABU!DAZIR!MAGE'S ABODE!0.302!KHAA!}
 		(D#"Why is your survival at stake?"){D:1,KABU!DAZIR!MAGE'S ABODE!0.402!KHAA!}
@@ -7471,7 +7471,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.4044!KHAA!]
 		||
-		*"You're as gulieful as the Ruby Jinn himself..."*
+		*"You're as guileful as the Ruby Jinn himself..."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.4045!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.4044!KHAA!/]
 	
@@ -7781,7 +7781,7 @@ RADA
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.402!RADA!]
 		||
-		*"Do we need a reason to come to the aid of a dying traveler? What do you take us for, Tacribian Jinn worshippers?"*
+		*"Do we need a reason to come to the aid of a dying traveler? What do you take us for, Tacribian Jinn worshipers?"*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.4020!RADA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.402!RADA!/]
 	
@@ -7924,7 +7924,7 @@ RADA
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.603!RADA!]
 		||
-		*"I see... Perhaps madness is the explanation for your Jinn-lickin' sojourn - pardon my language!"*
+		*"I see... Perhaps madness is the explanation for your Jinnlickin' sojourn - pardon my language!"*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.6030!RADA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.603!RADA!/]
 	
@@ -8035,7 +8035,7 @@ khaa dead
 	
 	[/KABU!DAZIR!SLUMS!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!SLUMS!999.103!DESCRIPTION!}
 	[KABU!DAZIR!SLUMS!999.102!DESCRIPTION!/]
 	
@@ -8073,7 +8073,7 @@ ARKARA
 	
 	[/KABU!DAZIR!SLUMS!0.001!ARKARA!]
 		||
-		*"The impending assault of the savage illiterati from across the canyon weighs heavy upon our hearts! But we will do what we can to thwart their insidious efforts to erradicate the educated people of our homeland, for the glory of Dazir!"*
+		*"The impending assault of the savage illiterati from across the canyon weighs heavy upon our hearts! But we will do what we can to thwart their insidious efforts to eradicate the educated people of our homeland, for the glory of Dazir!"*
 		(A#"..."){A:1,KABU!DAZIR!SLUMS!0.002!ARKARA!}
 	[KABU!DAZIR!SLUMS!0.001!ARKARA!/]
 	
@@ -8131,13 +8131,13 @@ COZKUIN
 	
 	[/KABU!DAZIR!SLUMS!0.2000!COZKUIN!]
 		||
-		*"Did ya hear the story abou' wha' he did to Konki and Nerius the twinned Jinns?!"*
+		*"Did ya hear the story abou' wha' he did to Konki and Nerius, the twinned Jinns?!"*
 		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.2001!COZKUIN!}
 	[KABU!DAZIR!SLUMS!0.2000!COZKUIN!/]
 	
 	[/KABU!DAZIR!SLUMS!0.2001!COZKUIN!]
 		||
-		*"'Amythes demon, yer time has come!' Ka-POW! Jus' like tha'!"*
+		*"'Amythes' demon, yer time has come!' Ka-POW! Jus' like tha'!"*
 		(A#"I'm not sure if force is best met with force."){A:1,KABU!DAZIR!SLUMS!0.101!COZKUIN!}
 		(B#"Biracul? Where is he now?"){B:1,KABU!DAZIR!SLUMS!0.201!COZKUIN!}
 		(C#"Maybe he could... but he isn't here."){C:1,KABU!DAZIR!SLUMS!0.301!COZKUIN!}
@@ -8297,7 +8297,7 @@ COZKUIN
 	
 	[/KABU!DAZIR!SLUMS!1.X001!COZKUIN!]
 		|@:KABU!DAZIR!SLUMS!1.X002!COZKUIN!|
-		*"Biracul, Biracul, lead me to the path of righ...chestnuts."*
+		*"Biracul, Biracul, lead me to the path of righ...ches'nu's."*
 		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
 	[KABU!DAZIR!SLUMS!1.X001!COZKUIN!/]
 	
@@ -8338,7 +8338,7 @@ GALIP
 		||
 		*"Bu' I'm no' so skilled as the artisans who li'e in Dazir's middle tier."*
 		(A#"But aren't your skills just as important as theirs?"){A:1,KABU!DAZIR!SLUMS!0.101!GALIP!}
-		(B#"Who judged this to be the best method of organising society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
+		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
 		(E#"Strength is the only necessary skill."){E:1,KABU!DAZIR!SLUMS!0.501!GALIP!}
 	[KABU!DAZIR!SLUMS!0.1000!GALIP!/]
 	
@@ -8352,7 +8352,7 @@ GALIP
 		||
 		*"'Course, the artisans li'e abo'e the rest of us, being tha' they ha'e the bigges' skill o' all Kaban workers."*
 		(A#"What is it that makes you less important than them?"){A:1,KABU!DAZIR!SLUMS!0.101!GALIP!}
-		(B#"Who judged this to be the best method of organising society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
+		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
 		(C#"Then what are you complaining about?"){C:1,KABU!DAZIR!SLUMS!0.301!GALIP!}
 	[KABU!DAZIR!SLUMS!0.2000!GALIP!/]
 	
@@ -8365,7 +8365,7 @@ GALIP
 	[/KABU!DAZIR!SLUMS!0.3000!GALIP!]
 		||
 		*"Course, the artisans li'e abo'e the res' o' us, being tha' they ha'e the bigges' skill of all Kaban workers."*
-		(B#"Who judged this to be the best method of organising society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
+		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
 		(C#"Then what are you complaining about?"){C:1,KABU!DAZIR!SLUMS!0.301!GALIP!}
 		(D#"If you have any useful information, I could speak highly of you to my friend Khaa..."){D:1,KABU!DAZIR!SLUMS!0.401!GALIP!}
 	[KABU!DAZIR!SLUMS!0.3000!GALIP!/]
@@ -8437,7 +8437,7 @@ GALIP
 	
 	[/KABU!DAZIR!SLUMS!0.2010!GALIP!]
 		||
-		*"Bu', who cares?! The ways o' the good are clear as Biracul is shinin' to good, hones' folk - doub' a Suyu'i goa' such as ya'll e'er understand."*
+		*"Bu', who cares?! The ways o' the good are clear as Biracul is shinin' to good, hones' folk - doub' a Suyu'i goa'lo'er such as ya'll e'er understand."*
 		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X2011!GALIP!}
 	[KABU!DAZIR!SLUMS!0.2010!GALIP!/]
 	
@@ -8497,7 +8497,7 @@ GALIP
 	
 	[/KABU!DAZIR!SLUMS!0.X5011!GALIP!]
 		|@:KABU!DAZIR!SLUMS!1.000!GALIP!|
-		*"Jinns take ya, ya Suyu'i goa'!"*
+		*"Jinns take ya, ya Suyu'i goa'lo'er!"*
 		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
 	[KABU!DAZIR!SLUMS!0.X5011!GALIP!/]
 
@@ -8533,7 +8533,7 @@ ________________________________
 TEMPLE
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!0.X000!DESCRIPTION!]
 		||
-		*Walking through the haze of sacrificial smoke, Eidos enters the dim light of the Temple. While there are some narrow windows up high, the light without is too weak to illuminate the space within. Thus, hundreds of candles light numerous shrines in the wings of the complex, however, the central area is bathed in a cool blue light. At the centre of this structure is a gushing fountain, with a thousand points of glittering light shining from the stone beneath the water. 
+		*Walking through the haze of sacrificial smoke, Eidos enters the dim light of the Temple. While there are some narrow windows up high, the light without is too weak to illuminate the space within. Thus, hundreds of candles light numerous shrines in the wings of the complex, however, the central area is bathed in a cool blue light. At the center of this structure is a gushing fountain, with a thousand points of glittering light shining from the stone beneath the water. 
 		
 		All people in this site are silent as they approach the font. They prostrate themselves before it, mouth incantations and collect water in their vessels. Whatever is said in these whispering moments is drowned out by the sound of flowing water and remains unheard. The citizenry here seem utterly focused on their water-fetching efforts and one figure alone seems approachable: a man dressed in golden robes - clearly reciprocating a desire to speak, as he now stares intently at Eidos.*
 		(A#Approach the golden-robed figure){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!0.X001!DESCRIPTION!}
@@ -8542,7 +8542,7 @@ TEMPLE
 	
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!0.X001!DESCRIPTION!]
 		|@:KABU!DAZIR!TEMPLE OF BIRACUL!0.002!DESCRIPTION!|
-		*Eidos gently shoves her way through the crowd, eventually arriving to where the golden-robed man eagrely awaits.*
+		*Eidos gently shoves her way through the crowd, eventually arriving to where the golden-robed man eagerly awaits.*
 		(A#...){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!9999.X0055!DESCRIPTION!}
 	[KABU!DAZIR!TEMPLE OF BIRACUL!0.X001!DESCRIPTION!/]
 	
@@ -8556,7 +8556,7 @@ TEMPLE
 killed someone in the area
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!0099.000!DESCRIPTION!]
 		||
-		*As her victim's last breath floats up with the smoke of the burning incense, Eidos can hear shouts from the Slums outside. Soon the lithe figure of Khaa, the mage of Dazir, steps withing the darkened, smokey atmosphere of the Temple. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.
+		*As her victim's last breath floats up with the smoke of the burning incense, Eidos can hear shouts from the Slums outside. Soon the lithe figure of Khaa, the mage of Dazir, steps withing the darkened, smoky atmosphere of the Temple. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.
 		
 		Confidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...*
 		(A#...){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!9992.X0003!KHAA!}
@@ -8589,7 +8589,7 @@ khaa dead
 	
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!999.103!DESCRIPTION!}
 	[KABU!DAZIR!TEMPLE OF BIRACUL!999.102!DESCRIPTION!/]
 	
@@ -8652,7 +8652,7 @@ AYDIN
 	
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!0.1000!AYDIN!]
 		||
-		*"Naturally, Biracul proscribed against such violence, but the wastland-dwellers broke this covenant long ago when they built the Dawn Fortress."*
+		*"Naturally, Biracul proscribed against such violence, but the wasteland-dwellers broke this covenant long ago when they built the Dawn Fortress."*
 		(A#"..."){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!0.1001!AYDIN!}
 	[KABU!DAZIR!TEMPLE OF BIRACUL!0.1000!AYDIN!/]
 	
@@ -8939,7 +8939,7 @@ WORKSHOP
 	
 	[/KABU!DAZIR!WORKSHOP!0.X001!DESCRIPTION!]
 		|@:KABU!DAZIR!WORKSHOP!0.001!DESCRIPTION!|
-		*While most the folk here are hard at work. Closer inspection reveals that a distiction exists between those wearing turquoise merely as arm bands and those donning similarly colored robes: those wearing robes appear to have a more supervisory role, as they generally are not enaged in any of the harder labor. 
+		*While most the folk here are hard at work. Closer inspection reveals that a distinction exists between those wearing turquoise merely as arm bands and those donning similarly colored robes: those wearing robes appear to have a more supervisory role, as they generally are not engaged in any of the harder labor. 
 		
 		Two of these folk seem to be at loose ends, and as such, free to exchange words with Eidos.*
 		(A#A quick-eyed and restless fellow){A:0,KABU!DAZIR!WORKSHOP!9999.X0063!DESCRIPTION!}
@@ -8991,7 +8991,7 @@ khaa dead
 	
 	[/KABU!DAZIR!WORKSHOP!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!WORKSHOP!999.103!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP!999.102!DESCRIPTION!/]
 	
@@ -9049,7 +9049,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.0003!BEHIYE!]
 		||
-		*"Though I am an expert in Vanquished crystaline artifice, ever since our expulsion from the Wellspring I've been prevented from my customary metier."*
+		*"Though I am an expert in Vanquished crystalline artifice, ever since our expulsion from the Wellspring I've been prevented from my customary metier."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.0004!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.0003!BEHIYE!/]
 	
@@ -9211,7 +9211,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.X2010!BEHIYE!]
 		|@:KABU!DAZIR!WORKSHOP!1.000!BEHIYE!|
-		*"For you see, only the mage-leaders and their Librarians have knowledge of this orthographical marvel, so unless you can find one willing to teach you, they are as legible as ol' Famlaz is truthful! Hmm..."*
+		*"For you see, only the mage-leaders and their Librarians have knowledge of this orthographic marvel, so unless you can find one willing to teach you, they are as legible as ol' Famlaz is truthful! Hmm..."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!9999.X9999!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.X2010!BEHIYE!/]
 	
@@ -9313,7 +9313,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.5014!BEHIYE!]
 		||
-		*"Moreover! The fact that crystals seem imbued with Technocraftic skill, seems to suggest an analog between them and the minds of mages..."*
+		*"Moreover! The fact that crystals seem imbued with Technocraftic skill, seems to suggest an analog between them and the minds of magi..."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.X5015!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.5014!BEHIYE!/]
 	
@@ -9377,7 +9377,7 @@ BEHIYE
 RASHAK
 	[/KABU!DAZIR!WORKSHOP!0.000!RASHAK!]
 		||
-		*"Well now! Who is it that enters the domain of Rashak the Old, Chief of the Crystal Custodians, Most Learned of Lucent Loremasters, Miester of Minerals, Chairman of the Guild of Artisans for the Perservation and Conservation of Energy?"*
+		*"Well now! Who is it that enters the domain of Rashak the Old, Chief of the Crystal Custodians, Most Learned of Lucent Loremasters, Miester of Minerals, Chairman of the Guild of Artisans for the Preservation and Conservation of Energy?"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.001!RASHAK!}
 	[KABU!DAZIR!WORKSHOP!0.000!RASHAK!/]
 	
@@ -9431,7 +9431,7 @@ RASHAK
 	
 	[/KABU!DAZIR!WORKSHOP!0.X1002!RASHAK!]
 		|@:KABU!DAZIR!WORKSHOP!0.000!RASHAK!|
-		*"For instance, it is known that crystals cannot be repaired once broken - the knowledge is long lost, yes yes yes - but did you know that there's evidence of crystaline transmutation in reactive materials adjacent to energy crystals over time?"*
+		*"For instance, it is known that crystals cannot be repaired once broken - the knowledge is long lost, yes yes yes - but did you know that there's evidence of crystalline transmutation in reactive materials adjacent to energy crystals over time?"*
 		(A#"Sorry, none of this rings any bells - though I may have a memory problem."){A:1,KABU!DAZIR!WORKSHOP!0.101!RASHAK!}
 		(B#"Who would they listen to?"){B:1,KABU!DAZIR!WORKSHOP!0.101!RASHAK!}
 		(C#"Fascinating... but I must be going now..."){C:1,KABU!DAZIR!WORKSHOP!0.101!RASHAK!}
@@ -9443,7 +9443,7 @@ RASHAK
 	
 	[/KABU!DAZIR!WORKSHOP!0.101!RASHAK!]
 		||
-		*"And there is evidence that such new structures shared similar characterists to the ones that spawned them..."*
+		*"And there is evidence that such new structures shared similar characteristics to the ones that spawned them..."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.1010!RASHAK!}
 	[KABU!DAZIR!WORKSHOP!0.101!RASHAK!/]
 	
@@ -9545,7 +9545,7 @@ RASHAK
 	
 	[/KABU!DAZIR!WORKSHOP!0.1027!RASHAK!]
 		||
-		*"Think of it: with the proper apparatus, a kitchen oven, a water wheel, or even the heat from a human body could be converted into crystaline energy!"*
+		*"Think of it: with the proper apparatus, a kitchen oven, a water wheel, or even the heat from a human body could be converted into crystalline energy!"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.1028!RASHAK!}
 	[KABU!DAZIR!WORKSHOP!0.1027!RASHAK!/]
 	
@@ -9601,9 +9601,9 @@ WORKSHOP EXTERIOR
 		||
 		*The heat outside the workshop is unbearable. A completely shadowless junkyard, this area appears to serve as a repository for excess materials. Piles of stone and wood litter the cobblestone floor, while great stacks of spooled twine are nestled firmly up against the workshop's exterior walls. But set apart from all miscellany is a great lattice of crystals. What at first appears to be the blinding reflection from the sun's unforgiving rays instead reveals itself to be the radiant energy housed within the crystals themselves. So bright, so resplendent are they, that Eidos cannot help but avert her tear-filled eyes from them. This lattice appears to be of great importance as it is both isolated from all other areas and boasts a contingent of nearly thirty guards around the perimeter.*
 		
-		*A great number of turquoise-robed people mill about the place, ordering other about with grand gestures and stern faces. Those commanded wear heavy work aprons with turquoise bands tied around their upper arms. Mindlessly they obey all orders, moving with a praciticed efficiency well beyond the ordinary. Perfectly tuned, well-oiled cogs, they each perform their part flawlessly giving life to the machinery of Dazir.*
+		*A great number of turquoise-robed people mill about the place, ordering other about with grand gestures and stern faces. Those commanded wear heavy work aprons with turquoise bands tied around their upper arms. Mindlessly they obey all orders, moving with a practiced efficiency well beyond the ordinary. Perfectly tuned, well-oiled cogs, they each perform their part flawlessly giving life to the machinery of Dazir.*
 		
-		*At the eastern edge of the junkyard, is a bannister overlooking the Jenowin Plain. Several of the aproned workers appear to be here taking a rest from their back-breaking labor. Further north into town is a large plaza, speckled with thick, stone columns jutting out from the floor like the quills of a giant, rocky porcupine. At the centre of the plaza is a decadent fountain of massive proportions, towering over the tops of the columns, reaching nearly to the topmost tier of the township.*
+		*At the eastern edge of the junkyard, is a banister overlooking the Jenowin Plain. Several of the aproned workers appear to be here taking a rest from their back-breaking labor. Further north into town is a large plaza, speckled with thick, stone columns jutting out from the floor like the quills of a giant, rocky porcupine. At the center of the plaza is a decadent fountain of massive proportions, towering over the tops of the columns, reaching nearly to the topmost tier of the township.*
 		(A#Enter the Workshop){A:0,KABU!DAZIR!WORKSHOP!0.000!DESCRIPTION!}
 		(B#Explore the Artisans' Plaza){B:0,KABU!DAZIR!ARTISANS' PLAZA!0.000!DESCRIPTION!}
 		(C#Approach people to talk){C:0,KABU!DAZIR!WORKSHOP EXTERIOR!1.X000!DESCRIPTION!}
@@ -9661,7 +9661,7 @@ khaa dead
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!999.102!DESCRIPTION!]
 		||
-		*Not unresourceful in the least, they fetch a grey liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
+		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
 		(A#...){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!999.103!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!999.102!DESCRIPTION!/]
 	
@@ -10029,7 +10029,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!1.3010!CETIN!]
 		||
-		*"I shall cheer your efforts both of vigor and cunning from afar as I ponder the issues to which my prediliction directs me."*
+		*"I shall cheer your efforts both of vigor and cunning from afar as I ponder the issues to which my predilection directs me."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!2.X000!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!1.3010!CETIN!/]
 
@@ -10041,7 +10041,7 @@ CETIN
 
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!1.X601!CETIN!]
 		|@:KABU!DAZIR!WORKSHOP EXTERIOR!2.X000!CETIN!|
-		*"Indeed... discretion would be appreciated to prevent such an... embarassing fate from becoming a matter of public fun..."*
+		*"Indeed... discretion would be appreciated to prevent such an... embarrassing fate from becoming a matter of public fun..."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!9999.X9999!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!1.X601!CETIN!/]
 	

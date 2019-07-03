@@ -1,0 +1,96 @@
+Book of Rikharr Outline
+
+Prologue: Tacrivian Archives
+	- Explore the Archives
+		- Either enter into communion with Muninn and visit Interstice or Leave
+			- If Interstice active, then go to Munnin 1
+			- Else, a courier comes to summon Rikharr. Dazir's mage has died and Rik is the new mage.
+
+Muninn 1: Explore the Interstice
+	- See many events from the other books
+		- Player chooses what looks interesting from among 4-6 options
+			- Dip: [Biracul] Ascent of the Jinetes/Singularity
+			- Tru: [Rikharr] Jinnwraith vision
+			- Neu: [Thetian] Binding of Jormungund
+			- Sur: [Ormenos] Enclavean Slaughter
+			- Tyr: [Wulfias] Destruction of Ataraxia (Explosion in what is now the wasteland)
+			- Loo: A direct interaction w/ the player
+		- After 2 have been witnessed, Rik accidentally finds the exit and returns to his body
+	- After Rik returns to his body, having only been gone an instant, a courier comes to summon Rikharr. Dazir's mage has died and Rik is the new mage.
+
+
+
+Phase 1: Chaos Stirs
+	- Several issues will pop up in the background, but depending on player's affinity from previous games or the Prologue, three will slap Rikharr in the face
+		- DIP: Growing discontent among the Builder class has led to a decrease in productivity and whispers of rebellion. Rikharr's predecessor was quite severe and there is a long history of class division. As tensions rise, the player decides what to throw at Rik.
+			- DIP: The leader of the Builders wants to meet to discuss how to improve quality of life for his people
+			- TRU: Debate with the leader whether it is just or not to change
+			- TYR: A riot occurs, leading to Neverborn destruction as well as the deaths of many Builders
+		- TRU: A visiting mage, Lazham, talks to Rikharr about Muninn trees and the Interstice. Rik first goes to Wellspring, then goes back into the Muninn and meets Wulfias.
+			- DIP: Muninn and himself
+			- TRU: Muninns, in depth
+			- NEU: Muninns, simply Muninns
+		- NEU: Player goes immediately to the Wellspring to recover Luin and slay Gurgadon
+			- Rik's father, Drakos, has been prepared for the ceremony. He is to say the words and then carry his father, alone, into the Chamber of Bones. Here he discovers the Sigil of Wulfias, takes it, and then proceeds to the Cage. The Artisans finally repaired the Cage and are waiting for Rikharr to figure out how to work it.
+		- SUR: Tambulan mage tries talks to Rikharr about convincing the Tacrivian mage to give them Muninn saplings (Lazham is actually convincing her to sabotage the Muninn in Tacriva to turn the Jenowin Plain into a dessicated wasteland. *The Muninn tree and the Thought Wheel it's connected to in Tacriva manipulate local weather patterns between the contingents, making the land a veritable garden of Eden. If the Tambulan mage sabotages the Thought Wheel, she can wrest control of it from the Tacrivians when she repairs it and then control most of Kavu--she'll control it all once she takes the Wellspring from Rikharr. The Tambulan mage is of course being manipulated by Lazham and was involved in Rikharr's predecessor's death. Rik's inevitable slaughter of the Muninn will thwart her plans, as she will be unable to reverse the damage she had done.)
+			- NEU: Simple congrats on his ascension to Kharr. Mentions her intent to go to Tacriva and get Muninn saplings.
+			- SUR: Congrats, Muninn saplings, and as she's leaving, suggests a foreign alchemist might have had something to do with Drakos' death - the body preparer they sent from Tambul detected some bizarre compounds unknown on the Jenowin Plain.
+			- TYR: Congrats, Muninn saplings, and complains about having to oversee the draug preps at the Sun Tower	
+				- You can offer to replace her, and she says that's nice, but unacceptable by mage code; he has to study up on the responsibilities of being a mage now
+		- TYR: There has been an increase in draug activity in the Wasteland, attacks on the Sun Tower, not coordinated, but there are simply too many draug from all the exiles over the past few hundred years. It's time to cull the draug herd. Progress happens post-Wellspring resolution.
+		- LOO: A romance with the hot new Librarian? Don't mind if I do! Go for a stroll on the Jenowin Plain:
+			- DIP: Witness some violence with the Neverborn sentries and the Builders near the cloudstone when coming back.
+            - TRU: See Lazham strolling through the desert on the way to Tambul.
+            - NEU: Everything is oddly quiet.
+            - SUR: Meet Radysar's entourage en route to Tacriva.
+            - TYR: Receive news of draug attacks from a courier on the road to Tambul with a decree from the High Council that Radysar must deal with Overseeing the operation.
+            - LOO: Accidentally eat a mushroom {plucked it instead of grabbing the bread that was on the ground because was trying to listen to Ark}. See a vision of Roostor.
+	- When all of this is done, Rikharr inevitably ends up going to the Wellspring to recover Luin and Slay Gurgadon
+
+	
+Munnin 2: Meet Wulfias, save him, teach him *Note Wulfias gives a false name, a name Famlicus will use for him back in Thiudan times, so Rik doesn't know that he is Wulfias
+
+
+
+
+Phase 2: Chaos Seethes
+	- The main questline the player is one proceeds and the others quitely progress in the background with brief mentionings of them depending on who you chat with/where you go (e.g., if your main quest is the draugs, but you pass through the Slums in Dazir, you'll see the Builders' rally)
+		- DIP: Go to the slums
+			- DIP: Reforms will end branding and increase social mobility for Builders who prove themselves capable
+            - TRU: Public debate with Builders in attendance; a loss means negotiation, a win means a riot
+            - TYR: Rik suggests a public discussion, but they begin to riot and violence ensues.
+		- TRU: Hear new Muninn has arrived and been planted. Attempt communion, sense Wulfias is getting fucked by Hel, but can't get in. Rush to Tacriva, save Wulf and exit a changed man.
+		- NEU: Go directly to the Festival of Light
+		- SUR: The Tacrivian mage council gives two saplings to the other contingents, the Tambulan mage sabotages the Muninn in Tacriva
+			- NEU: Don't commune with the Muninn because something else comes up.
+			- SUR: Commune with Muninn and sense Radysar's treachery (Drakos' murder and Muninn meddling)
+			- TYR: Sense future self as Jinnwraith.
+		- TYR: Go inspect draug situation at the Sun Tower.
+			- DIP: Since they're still leaderless idiots, the Guardians can handle it, but if they attacked en masse, they might be overrun. Sleep falls upon him
+            - SUR: Nothing happens at Sun Tower, all the draugnir have vanished when Rik inspects. Sleep falls upon him.
+            - TYR: The draug are organized in rank and files and appear to have a leader. Looking closely, Rikos sees himself. Freaks and sleep falls upon him.
+		- LOO: After Ark wakes up from the Wellspring, go to the Feast Hall in the Artisans' Mansion, where she gets bored and then go slumming (in disguise), where you hear some raunchy songs. Ends with a kiss {you dog, you!}
+			- DIP: Builders try to bust you up when your disguise fails, but Neverborn sentries and Ark protect you
+			- TRU: Lazham lurks in the slums and mentions his interest in Muninns
+			- NEU: People keep talking about the Festival of Light and how it will be a needed distraction
+			- SUR: Whispers of how Drakos' death was unnatural and how he was Jinncursed for his cruelty
+			- TYR: Talks of draugs attacking the Sun Tower
+			- LOO: Someone spiked the Jinnliquor with something 'else' and Rikharr invents the funky chicken
+
+	
+Munnin 3: Sense from Muninn sapling that Wulf has awoken something terrible, rush to Tacriva to stop it.
+	- Rik tells Wulfias to help, but Wulfias actually runs away, trying to sacrifice Rikharr to save himself
+		- How?
+			- Deal like with Jormungund or Fenrir where Hel needs a vessel?
+	- Once Rik leaves the Interstice with Hel inside him, he freaks from the despair, kills the Muninn and flees to the Wasteland. When he reappears in the Sanctuary, he slaughters the Muninn and as he escapes from the guards, he destroys a section of stairs. Slowly following the way to the bottom, he unmakes the ancient seal keeping the door hidden and escapes to the Wastes.
+		- He loses control and cuts out big holes in the stone (Luin's Chamber, the Workshop)
+		- Why does he freak?
+			- Some amount of build up to this makes sense.
+				- Maybe he's already kind of nihilistic/fatalistic.
+				- Maybe in order to take on Hel, you must sacrifice a part of yourself (she'll take the rest in time)
+	- Fin.
+	
+Phase 3: Chaos Swells
+	- Here the non-Muninn main quests resolve at the Festival of Light, Rik dies in all scenarios
+		- A violent storm races across the Jenowin Plain (foreshadow with some heavy winds as Rik leads people across the Jenowin Plain) due to Radysar's meddling. Trees are uprooted and great bolts of lightning crack the dome over Tacriva, showers clusters of glass down upon the ground, killing most everyone there.
+	- Fin.

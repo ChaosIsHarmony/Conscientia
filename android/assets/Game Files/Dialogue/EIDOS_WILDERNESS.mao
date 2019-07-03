@@ -8,7 +8,7 @@ GATES OF DAZIR
 
 	[/KABU!WILDERNESS!GATES OF DAZIR!0.001!DESCRIPTION!]
 		||
-		*In time, high walls blocking the path appear, then draw near. While a gate presents itself as a means of entry, only a giant rock slab is present to greet her. The obstruction affords Eidos little chance of further progress down this route. Though she calls out and beats the barrier punishingly, her hails go unanswered, her reception as cold as the dispassionate stone.*
+		*In time, high walls blocking the path appear, then draw near. While a gate presents itself as a means of entry, only a giant rock slab is present to greet her. The obstruction affords Eidos little chance of further progress down this route. Though she calls out and beats the barrier with all her might, her hails go unanswered, her reception as cold as the dispassionate stone.*
 		(A#Turn back){A:0,KABU!WILDERNESS!MOUNTAIN PASS!0.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!GATES OF DAZIR!0.001!DESCRIPTION!/]
 
@@ -41,7 +41,7 @@ GATE OF THE HEATHEN
 
 	[/KABU!WILDERNESS!GATE OF THE HEATHEN!11.000!DESCRIPTION!]
 		||
-		*As the old man turns away, his robes whirl in a mesmerising spiral. And in that briefest of moments, Eidos sees with eyes that are not her own. From an indescribable space, she dimly perceives the mountainside, the path, the gate, herself and the shape of the alleged Doruk - though these forms are not as she knows them...*
+		*As the old man turns away, his robes whirl in a mesmerizing spiral. And in that briefest of moments, Eidos sees with eyes that are not her own. From an indescribable space, she dimly perceives the mountainside, the path, the gate, herself and the shape of the alleged Doruk - though these forms are not as she knows them...*
 		(A#...){A:0,KABU!WILDERNESS!GATE OF THE HEATHEN!11.001!DESCRIPTION!}
 	[KABU!WILDERNESS!GATE OF THE HEATHEN!11.000!DESCRIPTION!/]
 
@@ -109,7 +109,7 @@ FAMLICUS
 
 	[/KABU!WILDERNESS!GATE OF THE HEATHEN!10.0012!FAMLICUS!]
 		||
-		*"Khlutt has long held a smouldering hatred of our people, and I fear the fire of wrath now burning within the Dawn Fortress won't be quenched by the water you released..."*
+		*"Khlutt has long held a smoldering hatred of our people, and I fear the fire of wrath now burning within the Dawn Fortress won't be quenched by the water you released..."*
 		(A#"..."){A:0,KABU!WILDERNESS!GATE OF THE HEATHEN!10.0013!FAMLICUS!}
 	[KABU!WILDERNESS!GATE OF THE HEATHEN!10.0012!FAMLICUS!/]
 
@@ -391,7 +391,7 @@ From Dazir
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.011!DESCRIPTION!]
 		||
-		*As the Sun closes its weary eye, its myraid brothers and sisters descend into their nocturnal posts to light Eidos' way. Never was there a lightless night and never shall there be, so long as the celestial flames burn. They are the warming embrace of hope that remain within the bitter coldness and indifference of Eidos' universe.*
+		*As the Sun closes its weary eye, its myriad brothers and sisters descend into their nocturnal posts to light Eidos' way. Never was there a lightless night and never shall there be, so long as the celestial flames burn. They are the warming embrace of hope that remain within the bitter coldness and indifference of Eidos' universe.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!101.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.011!DESCRIPTION!/]
 
@@ -503,13 +503,13 @@ To Tambul
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.901!DESCRIPTION!]
 		||
-		*Eidos begins to walk, leaving the desert wayfarer in her past. Yet, she feels his ice-cold scrutiny as she departs, like a hawk eyeing some prairie vermin, more for sport than for food. She jerks her head around to look back and sees only the stranger's back as he walks towards the ruins whence she came...*
+		*Eidos begins to walk, leaving the desert wayfarer in her past. Yet, she feels his ice-cold scrutiny as she departs, like a hawk eying some prairie vermin, more for sport than for food. She jerks her head around to look back and sees only the stranger's back as he walks towards the ruins whence she came...*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.7211!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.901!DESCRIPTION!/]
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.902!DESCRIPTION!]
 		||
-		*Eidos begins to walk, leaving the desert wayfarer in her past. Yet, she feels his ice-cold scrutiny as she departs, like a hawk eyeing some prairie vermin, more for sport than for food. She jerks her head around to look back and sees only the stranger's back as he walks towards the ruins whence she came... She is tired. Her mind rests as her feet drag her towards...*
+		*Eidos begins to walk, leaving the desert wayfarer in her past. Yet, she feels his ice-cold scrutiny as she departs, like a hawk eying some prairie vermin, more for sport than for food. She jerks her head around to look back and sees only the stranger's back as he walks towards the ruins whence she came... She is tired. Her mind rests as her feet drag her towards...*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!0.000!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.902!DESCRIPTION!/]
 
@@ -600,7 +600,7 @@ Event 20001 - Blew up Moon Tower and Tacriba invasion
 >>>Have you seen the aqueduct (17009)<<<
 	[/KABU!WILDERNESS!JENOWIN PLAIN!101.X000!DESCRIPTION!]
 		|^17009:KABU!WILDERNESS!JENOWIN PLAIN!101.000!DESCRIPTION!|
-		*At the midpoint of her journey, Eidos arrives at the base of a massive pillar, serving to bear the stone aqueduct overhead. Looking around, Eidos sees the remains of a wooden scaffold that was hastily disassembled only recently. Eiods scans the conduit for any sign of damage which would explain the construction.
+		*At the midpoint of her journey, Eidos arrives at the base of a massive pillar, serving to bear the stone aqueduct overhead. Looking around, Eidos sees the remains of a wooden scaffold that was hastily disassembled only recently. Eidos scans the conduit for any sign of damage which would explain the construction.
 		
 		Even in the darkness of night, it is easy to determine which new addition to the structure merited the scaffold. A large network of chains has been wrapped around the point at which the pillar meets the arch. Within these chains is a number of large, angular glass objects. They join the nocturnal spectacle of the shining stars with a twinkling amber light of their own. However, there is no way to reach them from down here.*
 		(A#Keep walking towards the Sanctuary){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17009-2!DESCRIPTION!}
@@ -772,7 +772,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.05000!FAMLICUS!]
 		||
-		*"I doubt they'll fear a corpse... if you break bread with Pakahron in Tambul, you will be of no threat to anyone, traveller..."*
+		*"I doubt they'll fear a corpse... if you break bread with Pakahron in Tambul, you will be of no threat to anyone, traveler..."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.050000!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.05000!FAMLICUS!/]
 
@@ -1061,7 +1061,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!1.2010!FAMLICUS!]
 		||
-		*"No matter, it seems you're going to the Duskfang mountains. Most fortunate, indeed. When you arrive at the mountain township of Dazir, you must deliever a message for me."*
+		*"No matter, it seems you're going to the Duskfang mountains. Most fortunate, indeed. When you arrive at the mountain township of Dazir, you must deliver a message for me."*
 		(A#"Who's the recipient of this message?"){A:1,KABU!WILDERNESS!JENOWIN PLAIN!0.X202!FAMLICUS!}
 		(B#"What's your message?"){B:1,KABU!WILDERNESS!JENOWIN PLAIN!1.202!FAMLICUS!}
 		(C#"Am I likely to survive such a journey?"){C:1,KABU!WILDERNESS!JENOWIN PLAIN!0.X302!FAMLICUS!}
@@ -1192,7 +1192,7 @@ PAKAHRON INCRIMINATION & RESURRECTION ACQUISITION
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!3.005!FAMLICUS!]
 		||
-		*"Words are only as good as your ability to enact them, traveller."*
+		*"Words are only as good as your ability to enact them, traveler."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!3.0050!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!3.005!FAMLICUS!/]
 
@@ -1270,13 +1270,13 @@ PAKAHRON INCRIMINATION & RESURRECTION ACQUISITION
 acquired resurrection Techne
 	[/KABU!WILDERNESS!JENOWIN PLAIN!3.910!FAMLICUS!]
 		||
-		*"All living beings thrive off the energy of others and crystals are but a similacrum of life; they can act as vessels for such forces..."*
+		*"All living beings thrive off the energy of others and crystals are but a simulacrum of life; they can act as vessels for such forces..."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!3.9100!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!3.910!FAMLICUS!/]
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!3.9100!FAMLICUS!]
 		||
-		*"Resurrecting an inert crystal therefore means leaving an impression of yourself behind. You needn't fear this of course; the Trueflesh is inexhaustable after all..."*
+		*"Resurrecting an inert crystal therefore means leaving an impression of yourself behind. You needn't fear this of course; the Trueflesh is inexhaustible after all..."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!3.X911!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!3.9100!FAMLICUS!/]
 
@@ -1362,7 +1362,7 @@ MOUNTAIN PASS
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.0010!DESCRIPTION!]
 		||
-		*She now stands upon a plateau and discovers a makeshift encampment. Sitting near a diminutive felt tent and the smouldering embers of a camp fire, is an elderly man, wrapped up in a heavy blanket, head covered in a turquoise felt cap.
+		*She now stands upon a plateau and discovers a makeshift encampment. Sitting near a diminutive felt tent and the smoldering embers of a camp fire, is an elderly man, wrapped up in a heavy blanket, head covered in a turquoise felt cap.
 		
 		Beyond the camp, a cliff stretches upwards, reaching in a vainglorious attempt to join the sky. Eidos can see no means of scaling its sheer face, thus bringing a stone-cold end to her upwards trajectory.*
 		(A#...){A:0,KABU!WILDERNESS!MOUNTAIN PASS!0.00101!DESCRIPTION!}
@@ -1379,7 +1379,7 @@ MOUNTAIN PASS
 >>>Killed Doruk (10501)<<<
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.X002!DESCRIPTION!]
 		|^10501:KABU!WILDERNESS!MOUNTAIN PASS!2.000!DESCRIPTION!|
-		*Eidos descends from the Gate of the Heathen and into a plateau with a makeshift encampment. Sitting near a diminutive felt tent and the smouldering embers of a camp fire, is an elderly man, wrapped up in a heavy blanket, head covered in a turquoise felt cap.
+		*Eidos descends from the Gate of the Heathen and into a plateau with a makeshift encampment. Sitting near a diminutive felt tent and the smoldering embers of a camp fire, is an elderly man, wrapped up in a heavy blanket, head covered in a turquoise felt cap.
 		
 		Down the treacherous mountain path, she sees nothing but an unending path of dust and stone.*
 		(A#Return to the gate){A:0,KABU!WILDERNESS!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
@@ -1389,7 +1389,7 @@ MOUNTAIN PASS
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.100!DESCRIPTION!]
 		||
-		*Eidos travels through the darkness of the cave for what could have been days, months or years. When she finally emerges from the mouth of the cave, she squints her eyes against the harsh light and looks upon the grey slopes of an all-encompassing sea of mountains. The cave appears to have deposited her out onto a pathway that winds its way between the jagged crags.*
+		*Eidos travels through the darkness of the cave for what could have been days, months or years. When she finally emerges from the mouth of the cave, she squints her eyes against the harsh light and looks upon the gray slopes of an all-encompassing sea of mountains. The cave appears to have deposited her out onto a pathway that winds its way between the jagged crags.*
 		(A#Re-enter the Sunless Grotto){A:0,KABU!CANYON!SUNLESS GROTTO!1.X009!DESCRIPTION!}
 		(B#Ascend the mountain path){B:0,KABU!WILDERNESS!MOUNTAIN PASS!0.X001!DESCRIPTION!}
 		(C#Climb down and walk down the path to the township){C:0,KABU!WILDERNESS!GATES OF DAZIR!0.000!DESCRIPTION!}
@@ -1397,14 +1397,14 @@ MOUNTAIN PASS
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!1.000!DESCRIPTION!]
 		||
-		*Eidos climbs for hours before reaching the summit of the path once more. Returning to the Wellspring Gate, she looks once more upon the corpse of Doruk, the old man as lively as his extinguished camp fire. The arid climate of the mountain appears to have perserved his body from decay, though Eidos observes that hungry birds have already torn the eyes from their moorings.*
+		*Eidos climbs for hours before reaching the summit of the path once more. Returning to the Wellspring Gate, she looks once more upon the corpse of Doruk, the old man as lively as his extinguished camp fire. The arid climate of the mountain appears to have preserved his body from decay, though Eidos observes that hungry birds have already torn the eyes from their moorings.*
 		(A#Approach the gate){A:0,KABU!WILDERNESS!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
 		(B#Walk back down the mountain pass){B:0,KABU!WILDERNESS!MOUNTAIN PASS!0.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!MOUNTAIN PASS!1.000!DESCRIPTION!/]
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!2.000!DESCRIPTION!]
 		||
-		*Eidos drags her feet through the ruts of the well-trodden, yet unforgiving, mountain pass. Returning to the encampament of Doruk, she looks once more upon the corpse of her prey, the old man as lively as his extinguished camp fire. The arid climate of the mountain appears to have perserved his body from decay, though Eidos observes that hungry birds have already torn the eyes from their moorings.*
+		*Eidos drags her feet through the ruts of the well-trodden, yet unforgiving, mountain pass. Returning to the encampment of Doruk, she looks once more upon the corpse of her prey, the old man as lively as his extinguished camp fire. The arid climate of the mountain appears to have preserved his body from decay, though Eidos observes that hungry birds have already torn the eyes from their moorings.*
 		(A#Approach the gate){A:0,KABU!WILDERNESS!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
 		(B#Walk back down the mountain pass){B:0,KABU!WILDERNESS!MOUNTAIN PASS!0.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!MOUNTAIN PASS!2.000!DESCRIPTION!/]
@@ -1496,7 +1496,7 @@ DORUK
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.4001!DORUK!]
 		||
-		*"While Tacribs bleed like any other human, death at their hands is just as certain, and undoubtedly more cruel. You're just a Jinn-lickin' fool if you try to fight either Neverborn or a Tacrib."*
+		*"While Tacribs bleed like any other human, death at their hands is just as certain, and undoubtedly more cruel. You're just a Jinnlickin' fool if you try to fight either Neverborn or a Tacrib."*
 		(C#"You may be right. Perhaps I should leave."){C:1,KABU!WILDERNESS!MOUNTAIN PASS!0.X301!DORUK!}
 		(D#"I seek violence like I seek the plague. But, do tell me more of this region."){D:1,KABU!WILDERNESS!MOUNTAIN PASS!0.401!DORUK!}
 		(E#"Fear is for the spineless; it suits you."){E:1,KABU!WILDERNESS!MOUNTAIN PASS!0.501!DORUK!}
@@ -1645,7 +1645,7 @@ from sanc
 
 	[/KABU!WILDERNESS!TACRIBA!0.002!DESCRIPTION!]
 		||
-		*Eidos comes once more to the ruins of Tacriba. Abandoned and forgotten, it shares the fate of all who dared exist. The eldritch illumination of the faux stone dome still gives a hazy impression that the city itself is but a memory - devoid of substance, absent physicality. The ground still pretends to be some monstrous mouth agape in a perpetual howl, baring jagged teeth that dimly shimmer in the meager light.
+		*Eidos comes once more to the ruins of Tacriba. Abandoned and forgotten, it shares the fate of all who dared exist. The eldritch illumination of the false stone dome still gives a hazy impression that the city itself is but a memory - devoid of substance, absent physicality. The ground still pretends to be some monstrous mouth agape in a perpetual howl, baring jagged teeth that dimly shimmer in the meager light.
 		
 		Nothing new here in this graveyard for memories.*
 		(A#Go to the Jenowin Plain){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!}
@@ -1698,7 +1698,7 @@ from storm
 
 	[/KABU!WILDERNESS!TACRIBA!1.011!DESCRIPTION!]
 		||
-		*Getting up, Eidos can see that the storm has worsened. A wall of spiralling sands meets her gaze as she peers through the crevice. Unable to leave at this time, Eidos must seek shelter inside the Sanctuary until the storm passes.*
+		*Getting up, Eidos can see that the storm has worsened. A wall of spiraling sands meets her gaze as she peers through the crevice. Unable to leave at this time, Eidos must seek shelter inside the Sanctuary until the storm passes.*
 		(A#...){A:0,KABU!WILDERNESS!TACRIBA!9990.X17008!DESCRIPTION!}
 	[KABU!WILDERNESS!TACRIBA!1.011!DESCRIPTION!/]
 

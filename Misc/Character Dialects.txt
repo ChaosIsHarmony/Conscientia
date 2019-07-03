@@ -1,0 +1,70 @@
+Characters and their Dialects
+
+Jer
+	- Ormenos
+	- Thetian
+
+
+Kabu
+	- Dazir (Shades)
+		- Whabyn
+		- Cook Ding
+
+
+Neflim
+	- Sister Midnight
+
+
+Zhili
+	- Torma
+
+
+Vanquished
+	- Phonetics
+		- Voiced: l, b, m, n, v, z, zh (azure), d, dh (that), rr (perro), j, w, g
+		- Voiceless: p, th (thin), f, s, sh, t, k, ', h
+		- Vowels: a, e, i, o, u (pure)
+			- Dip: ia, ie... ui, uo
+	
+	- Morphology
+		- Syllable: C-V(-C) or V-C
+		- Agglutinative
+	
+	- Syntax
+		- Basic Structure: SOV
+		- Tense indicated by sentence initial time specifier (TS)
+		- Questions made by replacing missing word with question filler and using question marker
+		- NP: N-adj
+		- VP: V-adj (adj is an adv)
+		- Location Phrase: SOV(LP) [Loc-prep]
+	
+	- Examples
+		- ul*so*ma*gdhish*gulis*fei*rrezua*ian
+			- TS*S*O*adj*V*adv*Loc*prep
+			- "(Past) I him big hit hard park at" -> "I hit the big guy hard at the park"
+		- on*hagefuo*ku'*zhua
+			- TS*S-Uni*Comp*N
+			- "(Present) things all as ideal" -> "All things are as they should be"
+	
+	- General Lexicon
+		- TS: ul, on, ib -> past, present, future
+		- Verbs/Nouns/Adj: one word can be all these depending on place in the sentence (there are no such things as pure nouns)
+			- 'so' -> N = I/me; Adj = akin to me; V = act as me
+		- Question Words:
+			- Insert question marker at beginning
+				- tash*on*kaifafuo*ku'*zhua
+					- "?*(Present)*what-all*as*ideal" -> "What is all as it should be?"
+				- tash*on*hagekaisa*ku'*zhua
+					- "?*(Present)*things-what*as*ideal" -> "How many things are as they should be?"
+				- tash*sush*hagefuo*ku'*zhua
+					- "?*when*things-all*as*ideal" -> "When were/are/will all things (be) as they should be?"
+			- Yes/No
+				- tash*on*hagefuo*ku'*zhua
+					- "?*(Present)*things-all*as*ideal" -> "Are all things as they should be?"
+	
+	- General Rules
+		- TS*Main Clause*Connective*Dependent Clause
+		- ul*somagdhishgulisfeirrezuaian*torra'*soviokash
+		- *******************************because*I want
+		- TS, connectives, and transitions are separate from the clauses
+		

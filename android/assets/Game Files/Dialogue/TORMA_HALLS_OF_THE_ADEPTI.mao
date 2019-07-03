@@ -329,7 +329,7 @@ BEAST LORD
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!BEAST LORD!]
 		||
-        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on Munnins."*
+        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on Muninns."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00204!BEAST LORD!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00203!BEAST LORD!/]
 

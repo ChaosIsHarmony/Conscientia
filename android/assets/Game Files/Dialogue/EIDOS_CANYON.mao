@@ -71,7 +71,7 @@ Awareness cave
 		
 	[/KABU!CANYON!SUNLESS GROTTO!0.00210!DESCRIPTION!]
 		||	
-		*No, not even emptiness fills her now in this ineffable state of profuse confusion and awkward embarrasment. What was she in fact expecting? Why this elaborate setup for nothing? 
+		*No, not even emptiness fills her now in this ineffable state of profuse confusion and awkward embarrassment. What was she in fact expecting? Why this elaborate setup for nothing? 
 		
 		Anti-climactic, perhaps, but then again, expectation is the mother of disappointment.*
 		(A#...){A:0,KABU!CANYON!SUNLESS GROTTO!0.002100!DESCRIPTION!}			
@@ -110,7 +110,7 @@ Awareness cave
 		
 		Abruptly, the tunnel opens into a large cavern, made visible by sparse, delicate beams of sunlight cast through cracks in the ceiling. Another passage leads from this chamber beyond, but most importantly, a small trickle of water runs down a crack in one of the far walls. 
 		
-		The light unveils one more surprise, for a glimmer from the other side of the curtain of sunrays steals her attention: eyes, hawk-like, piercing through both darkness and light. Reclining against a stone across the chamber sits their owner in silent vigil, motionless, relentless.*
+		The light unveils one more surprise, for a glimmer from the other side of the curtain of sun rays steals her attention: eyes, hawk-like, piercing through both darkness and light. Reclining against a stone across the chamber sits their owner in silent vigil, motionless, relentless.*
 		(A#Leave the cavern){A:0,KABU!CANYON!SUNLESS GROTTO!1.X001!DESCRIPTION!}		
 		(B#Talk to the hermit){B:0,KABU!CANYON!SUNLESS GROTTO!1.X012!DESCRIPTION!}
 	[KABU!CANYON!SUNLESS GROTTO!1.000!DESCRIPTION!/]	
@@ -219,7 +219,7 @@ dealing w/ crystal
 >>>Have Luin Armor (12302)<<<
 	[/KABU!CANYON!SUNLESS GROTTO!9.X201!DESCRIPTION!]
 		|^12302:KABU!CANYON!SUNLESS GROTTO!9.201!DESCRIPTION!|
-		*Eidos casts the crystal down, shattering it into uncountable pieces. A blinding wave of blue energy washes over her, and for a brief time, all emotion is washed from her conciousness.*
+		*Eidos casts the crystal down, shattering it into uncountable pieces. A blinding wave of blue energy washes over her, and for a brief time, all emotion is washed from her consciousness.*
 		(A#...){A:0,KABU!CANYON!SUNLESS GROTTO!9.2010!DESCRIPTION!}	
 	[KABU!CANYON!SUNLESS GROTTO!9.X201!DESCRIPTION!/]
 		
@@ -233,7 +233,7 @@ dealing w/ crystal
 	
 	[/KABU!CANYON!SUNLESS GROTTO!9.201!DESCRIPTION!]
 		||
-		*Eidos casts the crystal down, shattering it into uncountable pieces. A blinding wave of blue energy washes over her, and for a brief time, all emotion is washed from her conciousness, leaving naught but the cold ambivalence of Luin's embrace.*
+		*Eidos casts the crystal down, shattering it into uncountable pieces. A blinding wave of blue energy washes over her, and for a brief time, all emotion is washed from her consciousness, leaving naught but the cold ambivalence of Luin's embrace.*
 		(A#...){A:0,KABU!CANYON!SUNLESS GROTTO!9.2011!DESCRIPTION!}	
 	[KABU!CANYON!SUNLESS GROTTO!9.201!DESCRIPTION!/]
 	
@@ -573,7 +573,7 @@ ADARIN
 	
 	[/KABU!CANYON!SUNLESS GROTTO!0.3021!ADARIN!]
 		||
-		*"You are the one who is stilled, walking in cirlces and blinded by the mind's fire."*
+		*"You are the one who is stilled, walking in circles and blinded by the mind's fire."*
 		(A#"..."){A:0,KABU!CANYON!SUNLESS GROTTO!0.3022!ADARIN!}
 	[KABU!CANYON!SUNLESS GROTTO!0.3021!ADARIN!/]
 	
@@ -760,7 +760,7 @@ ADARIN
 	
 	[/KABU!CANYON!SUNLESS GROTTO!0.4030!ADARIN!]
 		||
-		*"That old spectre."*
+		*"That old specter."*
 		(A#"..."){A:0,KABU!CANYON!SUNLESS GROTTO!0.4031!ADARIN!}
 	[KABU!CANYON!SUNLESS GROTTO!0.4030!ADARIN!/]
 	
@@ -942,7 +942,7 @@ ________________________________
 VALLEY OF BONES	
 	[/KABU!CANYON!VALLEY OF BONES!00.000!DESCRIPTION!]
 		||
-		*Eidos cautiously climbs down the ruined path until she has reached the belly of the canyon, its stomach strewn with the remains from milennia of feasting on hapless creatures, stones and rivers that had wandered this far.
+		*Eidos cautiously climbs down the ruined path until she has reached the belly of the canyon, its stomach strewn with the remains from millennia of feasting on hapless creatures, stones and rivers that had wandered this far.
 		
 		Despite the natural warnings, she slowly walks forward until the moment when she comes upon a bleak sight as she rounds a bend on the path...*
 		(A#Proceed){A:0,KABU!CANYON!VALLEY OF BONES!0.X000!DESCRIPTION!}	
@@ -1031,12 +1031,12 @@ VALLEY OF BONES
 		||
 		*Assala levels her spear at Eidos. In the space of a thought she is piercing through the air directly towards Eidos' face with the inhuman speed and fluidity of a seasoned veteran.
 		
-		Instinctively, Eidos stumbles backwards, raising her arms in defence. With a will not her own, she calls forth Luin and brings the ghelblade down upon the offending spearpoint, cleaving the steel in twain. Luin prepares to leap forth and dispatch their attacker, when Eidos observes that Assala's body has slackened, all trace of violent intent leaving her face, now replaced solely with incredulity and even adoration.
+		Instinctively, Eidos stumbles backwards, raising her arms in defense. With a will not her own, she calls forth Luin and brings the ghelblade down upon the offending spearpoint, cleaving the steel in twain. Luin prepares to leap forth and dispatch their attacker, when Eidos observes that Assala's body has slackened, all trace of violent intent leaving her face, now replaced solely with incredulity and even adoration.
 		
 		Eidos soon senses that the elder guard now resolutely moves in for a lethal attack...*
 		(A#Speak to the attackers){A:1,KABU!CANYON!VALLEY OF BONES!3.100!DESCRIPTION!}
 		(B#Dismiss Luin){B:1,KABU!CANYON!VALLEY OF BONES!3.200!DESCRIPTION!}	
-		(C#Stand in defence){C:1,KABU!CANYON!VALLEY OF BONES!3.300!DESCRIPTION!}
+		(C#Stand in defense){C:1,KABU!CANYON!VALLEY OF BONES!3.300!DESCRIPTION!}
 		(D#Strike the other guard){D:1,KABU!CANYON!VALLEY OF BONES!3.400!DESCRIPTION!}	
 		(E#Finish Assala){E:1,KABU!CANYON!VALLEY OF BONES!3.X500!DESCRIPTION!}
 		(F#Kill both of the disguised gremlins!){F:1,KABU!CANYON!VALLEY OF BONES!3.X600!DESCRIPTION!}			
@@ -1050,7 +1050,7 @@ VALLEY OF BONES
 	
 	[/KABU!CANYON!VALLEY OF BONES!3.X101!DESCRIPTION!]
 		|@:KABU!CANYON!VALLEY OF BONES!7.000!DESCRIPTION!|
-		*Yet it delivers not its promised kiss of death. Instead, the older warrior presses the spear menacingly upon her skin, simply scrutinising Eidos. Though his face may be bereft of emotion, it remains steadfastly focused.*
+		*Yet it delivers not its promised kiss of death. Instead, the older warrior presses the spear menacingly upon her skin, simply scrutinizing Eidos. Though his face may be bereft of emotion, it remains steadfastly focused.*
 		(A#...){A:0,KABU!CANYON!VALLEY OF BONES!9990.X14411!DESCRIPTION!}
 	[KABU!CANYON!VALLEY OF BONES!3.X101!DESCRIPTION!/]
 	
@@ -1062,7 +1062,7 @@ VALLEY OF BONES
 	
 	[/KABU!CANYON!VALLEY OF BONES!3.X201!DESCRIPTION!]
 		|@:KABU!CANYON!VALLEY OF BONES!7.000!DESCRIPTION!|
-		*Yet it delivers not its promised kiss of death. Instead, the older warrior presses the spear menacingly upon her skin, simply scrutinising Eidos. Though his face may be bereft of emotion, it remains steadfastly focused.*
+		*Yet it delivers not its promised kiss of death. Instead, the older warrior presses the spear menacingly upon her skin, simply scrutinizing Eidos. Though his face may be bereft of emotion, it remains steadfastly focused.*
 		(A#...){A:0,KABU!CANYON!VALLEY OF BONES!9990.X14411!DESCRIPTION!}
 	[KABU!CANYON!VALLEY OF BONES!3.X201!DESCRIPTION!/]	
 	
@@ -1074,7 +1074,7 @@ VALLEY OF BONES
 	
 	[/KABU!CANYON!VALLEY OF BONES!3.X301!DESCRIPTION!]
 		|@:KABU!CANYON!VALLEY OF BONES!7.000!DESCRIPTION!|
-		*Yet it delivers not its promised kiss of death. Instead, the older warrior presses the spear menacingly upon her skin, simply scrutinising Eidos. Though his face may be bereft of emotion, it remains steadfastly focused.*
+		*Yet it delivers not its promised kiss of death. Instead, the older warrior presses the spear menacingly upon her skin, simply scrutinizing Eidos. Though his face may be bereft of emotion, it remains steadfastly focused.*
 		(A#...){A:0,KABU!CANYON!VALLEY OF BONES!9990.X14411!DESCRIPTION!}
 	[KABU!CANYON!VALLEY OF BONES!3.X301!DESCRIPTION!/]	
 	
@@ -1111,7 +1111,7 @@ Provoked Assala and pulled out Luin
 	
 	[/KABU!CANYON!VALLEY OF BONES!7.001!DESCRIPTION!]
 		||
-		*Enemy, turned ally, turned martyr. Assala's actions have undertstandably shocked both spectators.*
+		*Enemy, turned ally, turned martyr. Assala's actions have understandably shocked both spectators.*
 		(A#...){A:0,KABU!CANYON!VALLEY OF BONES!7.002!DESCRIPTION!}
 	[KABU!CANYON!VALLEY OF BONES!7.001!DESCRIPTION!/]
 	
@@ -1142,7 +1142,7 @@ Provoked Assala and pulled out Luin
 Already spoke with them
 	[/KABU!CANYON!VALLEY OF BONES!10.X000!DESCRIPTION!]
 		|@:KABU!CANYON!VALLEY OF BONES!0.X000!DESCRIPTION!|
-		*Eidos finds herself in the Valley of Bones. The guards still stand nearby, eyeing her every step, but are not hindering her.*
+		*Eidos finds herself in the Valley of Bones. The guards still stand nearby, eying her every step, but are not hindering her.*
 		(A#Talk to someone){A:0,KABU!CANYON!VALLEY OF BONES!0.X0010!DESCRIPTION!}		
 		(B#Leave the Bone Pile){B:0,KABU!CANYON!VALLEY OF BONES!00.001!DESCRIPTION!}
 		(C#Examine the area){C:0,KABU!CANYON!VALLEY OF BONES!0.X003!DESCRIPTION!}
@@ -1189,7 +1189,7 @@ Killed the guards
 
 	[/KABU!CANYON!VALLEY OF BONES!99.000!DESCRIPTION!]
 		||
-		*The two guards who slaughtered Eidos previously do not like the surprise her return affords. Characteristic of veterans of their calibre, they move to intercept their undead enemy without hestitation. Assala nimbly scales the rock face, getting behind Eidos, while Hubbiyh takes advantage of the distraction to charge in for a frontal assault.
+		*The two guards who slaughtered Eidos previously do not like the surprise her return affords. Characteristic of veterans of their caliber, they move to intercept their undead enemy without hesitation. Assala nimbly scales the rock face, getting behind Eidos, while Hubbiyh takes advantage of the distraction to charge in for a frontal assault.
 		
 		In the face of the bizarre resurrection, the Tacribians have no fear. Quite the contrary, they appear to be eerily accustomed to it. But in the span of a heartbeat, the warriors have entered their formation to engage the threat.*
 		(A#...){A:0,KABU!CANYON!VALLEY OF BONES!9992.X0403!HUBBIYH!}		
@@ -1409,7 +1409,7 @@ ASSALA
 
 	[/KABU!CANYON!VALLEY OF BONES!0.X600!ASSALA!]
 		|@:KABU!CANYON!VALLEY OF BONES!10.000!ASSALA!|
-		*"The only skeleton getting bashed here is yours, Kharr-spawn!"*
+		*"The only skeleton getting bashed here is yours, Kharrspawn!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!9999.X9999!ASSALA!}
 	[KABU!CANYON!VALLEY OF BONES!0.X600!ASSALA!/]		
 	
@@ -1475,7 +1475,7 @@ ASSALA
 	
 	[/KABU!CANYON!VALLEY OF BONES!0.501!ASSALA!]
 		||
-		*"Take one more step and you will be dancing with Jinns in the Graylands, Kharr-spawn!"*
+		*"Take one more step and you will be dancing with Jinns in the Graylands, Kharrspawn!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!0.X1011!ASSALA!}
 	[KABU!CANYON!VALLEY OF BONES!0.501!ASSALA!/]		
 	
@@ -1548,13 +1548,13 @@ second encounter
 	
 	[/KABU!CANYON!VALLEY OF BONES!10.400!ASSALA!]
 		||
-		*"If there were, I certainly wouldn't be telling a Kharr-lover like you about it."*
+		*"If there were, I certainly wouldn't be telling a Kharrlover like you about it."*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!10.X101!ASSALA!}
 	[KABU!CANYON!VALLEY OF BONES!10.400!ASSALA!/]
 
 	[/KABU!CANYON!VALLEY OF BONES!10.X500!ASSALA!]
 		|@:KABU!CANYON!VALLEY OF BONES!11.X000!ASSALA!|
-		*"Death is too kind a punsihment for you, Kharr-spawn!"*
+		*"Death is too kind a punishment for you, Kharrspawn!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!10.X101!ASSALA!}
 	[KABU!CANYON!VALLEY OF BONES!10.X500!ASSALA!/]	
 	
@@ -1616,7 +1616,7 @@ Ark reborn
 
 	[/KABU!CANYON!VALLEY OF BONES!77.X500!ASSALA!]
 		|@:KABU!CANYON!VALLEY OF BONES!77.X900!ASSALA!|
-		*"I will never call a Kharr-loving outlander like you master! Now my spear demands an apology, fool!"*
+		*"I will never call a Kharrloving outlander like you master! Now my spear demands an apology, fool!"*
 		(A#Draw Luin){A:0,KABU!CANYON!VALLEY OF BONES!9999.X9999!ASSALA!}	
 	[KABU!CANYON!VALLEY OF BONES!77.X500!ASSALA!/]
 
@@ -1768,7 +1768,7 @@ Assala's flight
 		(A#"I am no mage; I merely seek passage."){A:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}	
 		(B#"I think it not; all I seek is understanding."){B:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}
 		(C#"I do not know."){C:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}
-		(D#"...Yes, I am a mage of great reknown!"){D:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}
+		(D#"...Yes, I am a mage of great renown!"){D:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}
 		(E#"All you need to know is that you live or die at my whim."){E:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}
 		(F#"No! I be an adventurer in search of the Jade Monkey!"){F:1,KABU!CANYON!VALLEY OF BONES!9999.X0402!HUBBIYH!}	
 	[KABU!CANYON!VALLEY OF BONES!7.X000!HUBBIYH!/]	
@@ -1925,7 +1925,7 @@ subsequent encounters
 	
 	[/KABU!CANYON!VALLEY OF BONES!21.000!HUBBIYH!]
 		||
-		*"I warned you, Kharr-spawn! Now you're going to dance with the Jinns in the Graylands!"*
+		*"I warned you, Kharrspawn! Now you're going to dance with the Jinns in the Graylands!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!9992.X0403!HUBBIYH!}	
 	[KABU!CANYON!VALLEY OF BONES!21.000!HUBBIYH!/]
 	

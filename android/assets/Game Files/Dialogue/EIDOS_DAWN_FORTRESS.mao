@@ -10,7 +10,7 @@ AMPHITHEATRE
 
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!0.000!DESCRIPTION!]
         ||
-		*Eidos finds herself in an austere amphitheatre nestled against the inner wall. Though perhaps the exact antithesis of ostentatious, it is no less remarkable for its impecable architecture. A smooth, alabaster quarter-dome acts as the stage, a subtly transluscent half-dome acting as the roof. Her footfalls echo from the stone surfaces all about, revealing the reasoning behind the placement of this structure. Surely whoever performed from the centre of this stage would be clearly heard by the spectators all around. Scanning the vacant stone benches, she can almost see a dim afterimage of an enthralled audience, cheering in raucous ecstasy.
+		*Eidos finds herself in an austere amphitheater nestled against the inner wall. Though perhaps the exact antithesis of ostentatious, it is no less remarkable for its impeccable architecture. A smooth, alabaster quarter-dome acts as the stage, a subtly translucent half-dome acting as the roof. Her footfalls echo from the stone surfaces all about, revealing the reasoning behind the placement of this structure. Surely whoever performed from the center of this stage would be clearly heard by the spectators all around. Scanning the vacant stone benches, she can almost see a dim afterimage of an enthralled audience, cheering in raucous ecstasy.
 		
 		Though Tacribians are known for their bellicose nature, this area hints at their more gentle side - the sheath to their blade.*
 		(A#...){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.001!DESCRIPTION!}
@@ -18,14 +18,14 @@ AMPHITHEATRE
 
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!0.001!DESCRIPTION!]
         ||
-		*The brutish grunts of exertion in the Proving Ground call her back to the stark reality of an empty theatre. While this place is well-maintained, it is utterly forsaken, but for a solitary man of middle age, dutifully sweeping the area free of dust.*
+		*The brutish grunts of exertion in the Proving Ground call her back to the stark reality of an empty theater. While this place is well-maintained, it is utterly forsaken, but for a solitary man of middle age, dutifully sweeping the area free of dust.*
         (A#Leave this area){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!4.000!DESCRIPTION!}
         (B#Talk to the old man){B:0,KABU!DAWN FORTRESS!AMPHITHEATRE!4.X002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!AMPHITHEATRE!0.001!DESCRIPTION!/]
     
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!1.000!DESCRIPTION!]
         ||
-		*Approaching the amphitheatre, Eidos notices a dramatic change in the environs. Standing upon the stage is Kambin and more than a few Tacribians are watching him sing. The walls and the air betwixt him and the audience resonate with the silvery timbre of his voice. It seems he was holding back when at the Hydroponic facility in Tambul.
+		*Approaching the amphitheater, Eidos notices a dramatic change in the environs. Standing upon the stage is Kambin and more than a few Tacribians are watching him sing. The walls and the air betwixt him and the audience resonate with the silvery timbre of his voice. It seems he was holding back when at the Hydroponic facility in Tambul.
 		
 		Even folk in the Proving Ground seem to be taking note of the performance, as those resting look on with approving stares. Qust too has taken pause in his work to look upon the Tambulan cultivator.*
         (A#Leave this area){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!4.000!DESCRIPTION!}
@@ -34,14 +34,14 @@ AMPHITHEATRE
 
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!2.000!DESCRIPTION!]
         ||
-		*Approaching the amphitheatre, Eidos notices a dramatic change in the environs. Standing upon the stage is Akkeber, cavorting about and gesticulating wildly as he weaves an epic tale in spoken song. Eidos sees that she is the sole audience member of the Forsaken Poet, as the Tacribians seem eager to ignore his impassioned performance. Even Qust seems to prefer the dust from the steps to the sub-mediocrity of the stage-infecting performer.*
+		*Approaching the amphitheater, Eidos notices a dramatic change in the environs. Standing upon the stage is Akkeber, cavorting about and gesticulating wildly as he weaves an epic tale in spoken song. Eidos sees that she is the sole audience member of the Forsaken Poet, as the Tacribians seem eager to ignore his impassioned performance. Even Qust seems to prefer the dust from the steps to the sub-mediocrity of the stage-infecting performer.*
         (A#Leave this area){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!4.000!DESCRIPTION!}
         (B#Talk to Qust){B:0,KABU!DAWN FORTRESS!AMPHITHEATRE!4.X002!DESCRIPTION!}        
     [KABU!DAWN FORTRESS!AMPHITHEATRE!2.000!DESCRIPTION!/] 
 
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!3.000!DESCRIPTION!]
         ||
-		*Approaching the amphitheatre, Eidos notices a dramatic change in the environs. Standing upon the stage is Kambin and more than a few Tacribians are watching him sing. The walls and the air betwixt him and the audience resonate with the silvery timbre of his voice. For better or for worse, he has been joined by Akkeber, who cavorts about as though in the grips of some ecstatic frenzy. Perhaps he is giving an interpretive dance of Kambin's folk song, but it would be impossible to plumb the depths of his unique motivations.
+		*Approaching the amphitheater, Eidos notices a dramatic change in the environs. Standing upon the stage is Kambin and more than a few Tacribians are watching him sing. The walls and the air betwixt him and the audience resonate with the silvery timbre of his voice. For better or for worse, he has been joined by Akkeber, who cavorts about as though in the grips of some ecstatic frenzy. Perhaps he is giving an interpretive dance of Kambin's folk song, but it would be impossible to plumb the depths of his unique motivations.
 		
 		Even folk in the Proving Ground seem to be taking note of the performance, as those resting from exercise look on with a mixture of appreciation and confusion. Qust too has taken pause in his work to look upon the juxtaposition of atrocity and melodiousness.*
         (A#Leave this area){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!4.000!DESCRIPTION!}
@@ -50,9 +50,9 @@ AMPHITHEATRE
 
     [/KABU!DAWN FORTRESS!AMPHITHEATRE!4.000!DESCRIPTION!]
         ||
-		*Eidos sees that there is a great deal of activity transpiring in the Proving Grounds, clearly visible through the nearly transluscent dome and equally audible through the doors leading in.
+		*Eidos sees that there is a great deal of activity transpiring in the Proving Grounds, clearly visible through the nearly translucent dome and equally audible through the doors leading in.
 		
-		However, in stark relief to the bustling exterior is a seemingly abandonded structure built from dark, brown sandstone. While it is impressive in size, more remarkable is that it bears an austere beauty unparalleled by the other structures of this fortress. Furthermore, the contentious Tacribian aqueduct appears to have emptied into this structure before it ran dry.
+		However, in stark relief to the bustling exterior is a seemingly abandoned structure built from dark, brown sandstone. While it is impressive in size, more remarkable is that it bears an austere beauty unparalleled by the other structures of this fortress. Furthermore, the contentious Tacribian aqueduct appears to have emptied into this structure before it ran dry.
 		
 		Looking to the imposing walls, Eidos sees that there is a staircase leading to the top of the battlements, though no one seems to be using them currently.*
         (A#Climb the stairs to the top of the wall){A:0,KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!}
@@ -70,7 +70,7 @@ AMPHITHEATRE
 killed someone in the area
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!0099.000!DESCRIPTION!]
 		||
-		*Before the middle-aged Tacribian warrior can succumb to injuries, a look of proud determination falls upon a point behind Eidos. Turning about, she sees that summons unheard have called forth the master of this fortress. The sinewy frame of Khlutt, commander of the Tacribian League, now silently glides into the Amphitheatre.*
+		*Before the middle-aged Tacribian warrior can succumb to injuries, a look of proud determination falls upon a point behind Eidos. Turning about, she sees that summons unheard have called forth the master of this fortress. The sinewy frame of Khlutt, commander of the Tacribian League, now silently glides into the Amphitheater.*
 		(A#...){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0099.001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!AMPHITHEATRE!0099.000!DESCRIPTION!/]
 	
@@ -89,7 +89,7 @@ killed khlutt
 	
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!AMPHITHEATRE!999.001!DESCRIPTION!/]
 	
@@ -119,7 +119,7 @@ killed khlutt
 	
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!AMPHITHEATRE!999.006!DESCRIPTION!/]
 	
@@ -150,7 +150,7 @@ QUST
 		||
 		*"Really, if it's fanciful distractions you seek, you'd find better amusement in your dreams, I suppose. But life here's nothin' but a wakin' nightmare."*
 		(A#"Why stay? Why not defect to Tambul?"){A:1,KABU!DAWN FORTRESS!AMPHITHEATRE!0.0001!QUST!}
-		(B#"Why is this place abandonded?"){B:1,KABU!DAWN FORTRESS!AMPHITHEATRE!0.0001!QUST!}
+		(B#"Why is this place abandoned?"){B:1,KABU!DAWN FORTRESS!AMPHITHEATRE!0.0001!QUST!}
 		(C#"I seek nothing."){C:1,KABU!DAWN FORTRESS!AMPHITHEATRE!0.0001!QUST!}
 		(D#"Perhaps I can be of service to you..."){D:1,KABU!DAWN FORTRESS!AMPHITHEATRE!0.0001!QUST!}
 		(E#"Such is the fate of the weak."){E:1,KABU!DAWN FORTRESS!AMPHITHEATRE!0.0001!QUST!}
@@ -171,13 +171,13 @@ QUST
 
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!0.800!QUST!]
 		||
-		*"Look, child, no offence to you, but I've some work to do now."*
+		*"Look, child, no offense to you, but I've some work to do now."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.801!QUST!}
 	[KABU!DAWN FORTRESS!AMPHITHEATRE!0.800!QUST!/]
 	
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!0.801!QUST!]
 		||
-		*"All of us have a duty to attend to, and mine is this theatre here."*
+		*"All of us have a duty to attend to, and mine is this theater here."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X802!QUST!}
 	[KABU!DAWN FORTRESS!AMPHITHEATRE!0.801!QUST!/]
 	
@@ -259,9 +259,9 @@ ARCHIVES
 >>>Entered Archives normally + logira knows portcullis is open (15107)<<<	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.X0000!DESCRIPTION!]
 		|^15107:KABU!DAWN FORTRESS!ARCHIVES!10.X000!DESCRIPTION!|
-		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Black iron brackets house crystalline illuminators, though their meagre light stretches well below the pinnacle of the vaulted ceiling high overhead. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
+		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Black iron brackets house crystalline illuminators, though their meager light stretches well below the pinnacle of the vaulted ceiling high overhead. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
 		
-		The centre of the chamber's floor is also marked by absence, a dirt-fllied circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for an addition, structure or decoration that was left unfinished.
+		The center of the chamber's floor is also marked by absence, a dirt-filled circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for an addition, structure or decoration that was left unfinished.
 		
 		Eidos' mucking about has aroused the attention of the Archive's sole occupant, a youthful lady with long, fiery hair tightly braided on top with the surplus cascading down upon her shoulders, framing her deep set eyes and prominent check bones. Her sharp countenance displays both a sense of ease as well as penetrating awareness.*
 		(A#Exit the Archives){A:0,KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!}
@@ -272,9 +272,9 @@ ARCHIVES
 came in thru caves
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.X001!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!ARCHIVES!10.X000!DESCRIPTION!|
-		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Black iron brackets house crystalline illuminators, though their meagre light stretches well below the pinnacle of the vaulted ceiling high overhead. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
+		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Black iron brackets house crystalline illuminators, though their meager light stretches well below the pinnacle of the vaulted ceiling high overhead. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
 		
-		The centre of the chamber's floor is also marked by absence, a dirt-fllied circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for an addition, structure or decoration that was left unfinished.
+		The center of the chamber's floor is also marked by absence, a dirt-filled circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for an addition, structure or decoration that was left unfinished.
 		
 		Eidos' rather unexpected spelunking and flamboyant entrance have aroused the attention of the Archive's sole occupant, a youthful lady with long, fiery hair tightly braided on top with the surplus cascading down upon her shoulders, framing her deep set eyes and prominent check bones. Her sharp countenance displays both a look of surprise as well as indomitable serenity. She opens her mouth to speak...*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!9999.X0201!DESCRIPTION!}	
@@ -297,9 +297,9 @@ chose exile
 killed khlutt and came in thru cave
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.X004!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!ARCHIVES!10.X001!DESCRIPTION!|
-		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Black iron brackets house crystalline illuminators, though their meagre light stretches well below the pinnacle of the vaulted ceiling high overhead. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
+		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Black iron brackets house crystalline illuminators, though their meager light stretches well below the pinnacle of the vaulted ceiling high overhead. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
 		
-		The centre of the chamber's floor is also marked by absence, a dirt-fllied circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for an addition, structure or decoration that was left unfinished.
+		The center of the chamber's floor is also marked by absence, a dirt-filled circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for an addition, structure or decoration that was left unfinished.
 		
 		Eidos' rather unexpected return to the Falseflesh has aroused the attention of the Archive's sole occupant, a youthful lady with long, fiery hair tightly braided on top with the surplus cascading down upon her shoulders, framing her deep set eyes, now set ablaze by her rage. Choking back tears, she opens her mouth to speak...*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!9999.X0201!DESCRIPTION!}	
@@ -308,7 +308,7 @@ killed khlutt and came in thru cave
 exploring
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.000!DESCRIPTION!]
 		||
-		*Looking around these adumbral Archives, Eidos sees that there is a sizeable fresco painted upon the wall, opposite the front entrance. While it is impossible to determine its age for certain, the art here looks relatively fresh, with vibrant colors visible even in the modest amber light from the crystalline sconces.
+		*Looking around these adumbral Archives, Eidos sees that there is a sizable fresco painted upon the wall, opposite the front entrance. While it is impossible to determine its age for certain, the art here looks relatively fresh, with vibrant colors visible even in the modest amber light from the crystalline sconces.
 		
 		The image is of an imposing silver tree with brilliant golden foliage. Its knotted roots are depicted as unfurling like white tendrils down into a tenebrous space beneath the earth. An army of hideous skeletal creatures appear to be assailing this structure, though they are held at bay by a woman wielding a spear painted in a shimmering metallic green.*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!1.001!DESCRIPTION!}
@@ -324,7 +324,7 @@ exploring
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.002!DESCRIPTION!]
 		||
-		*Casual viewing turns to scrutiny as Eidos sees yet another feature: at the base of the fresco is a metallic protrusion. This anomaly could be Techne operated or mechanical switch of sorts, but more likely, it is a mere decoration. However, upon examining it, Eidos can feel the watchful eye of the Librarian. Her smoldering stare seeming to impart meaning more than should be possible in a mere look. It leaves no doubt that further tampering with the device will be met with... resistance, to say the least. Eidos feels compelled to cease her invesitagtion of the switch for now and renews her exploration of the Archives.*
+		*Casual viewing turns to scrutiny as Eidos sees yet another feature: at the base of the fresco is a metallic protrusion. This anomaly could be Techne operated or mechanical switch of sorts, but more likely, it is a mere decoration. However, upon examining it, Eidos can feel the watchful eye of the Librarian. Her smoldering stare seeming to impart meaning more than should be possible in a mere look. It leaves no doubt that further tampering with the device will be met with... resistance, to say the least. Eidos feels compelled to cease her investigation of the switch for now and renews her exploration of the Archives.*
 		(A#Leave the Archives){A:0,KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!}
 		(B#Talk to the Librarian){B:0,KABU!DAWN FORTRESS!ARCHIVES!9999.X0201!DESCRIPTION!}
 		(C#Search for tomes){C:0,KABU!DAWN FORTRESS!ARCHIVES!9990.X15106!DESCRIPTION!}
@@ -384,7 +384,7 @@ killed khlutt previously
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!15.001!DESCRIPTION!]
 		||
-		*In an instant, Eidos is enveloped by and interwoven with these life-sucking threads, until she and what was once the Librarian of Tacriba join in an indivisible mass of flesh and bones. It is fortunate for her that the agonising pain lasts but a moment as Eidos' Trueflesh begins to rot away to its core, the complete and utter denial of existence. In a flash, nothing remains...*
+		*In an instant, Eidos is enveloped by and interwoven with these life-sucking threads, until she and what was once the Librarian of Tacriba join in an indivisible mass of flesh and bones. It is fortunate for her that the agonizing pain lasts but a moment as Eidos' Trueflesh begins to rot away to its core, the complete and utter denial of existence. In a flash, nothing remains...*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!15.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!ARCHIVES!15.001!DESCRIPTION!/]
 	
@@ -397,7 +397,7 @@ killed khlutt previously
 did not accept her mission	
 	[/KABU!DAWN FORTRESS!ARCHIVES!19.X000!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!ARCHIVES!0.X000!DESCRIPTION!|
-		*Logira stands dejected and silent, her eyes an unveiled window to the smouldering anger in her heart. It is not long before the tense silence is broken by the swift clicking sound of hobnail sandals upon the stone steps outside the front entrance. The metal door is kicked open revealing the glowering visage of the Tacribian mage, a small force of his warriors in train. The amber light mockingly plays upon their blades, attacking her sensitive eyes as a prelude to the violence to come. In the span of a heartbeat, the unarmed leader approaches Eidos, bile dripping from the words his snarling mouth now seeks to spit.*
+		*Logira stands dejected and silent, her eyes an unveiled window to the smoldering anger in her heart. It is not long before the tense silence is broken by the swift clicking sound of hobnail sandals upon the stone steps outside the front entrance. The metal door is kicked open revealing the glowering visage of the Tacribian mage, a small force of his warriors in train. The amber light mockingly plays upon their blades, attacking her sensitive eyes as a prelude to the violence to come. In the span of a heartbeat, the unarmed leader approaches Eidos, bile dripping from the words his snarling mouth now seeks to spit.*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!9999.X0014!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!ARCHIVES!19.X000!DESCRIPTION!/]		
 
@@ -423,7 +423,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!ARCHIVES!999.001!DESCRIPTION!/]
 	
@@ -453,7 +453,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!ARCHIVES!999.006!DESCRIPTION!/]
 	
@@ -642,13 +642,13 @@ killed and been revived
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!10.001!KHLUTT!]
 		||
-		*"But I care not for your cheap parlor tricks and machinations; for pur way to those spineless Kharrspawn is now clear and they will pay for their transgressions."* 
+		*"But I care not for your cheap parlor tricks and machinations; for the way to those spineless Kharrspawn is now clear and they will pay for their transgressions."* 
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!10.002!KHLUTT!}
 	[KABU!DAWN FORTRESS!ARCHIVES!10.001!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!10.002!KHLUTT!]
 		||
-		*"As to what we do with you, well it is clear that vile draug-brains such as you belong only in the Wastes!"*
+		*"As to what we do with you, well it's clear that the draug-brained belong only in the Wastes!"*
 		(C#"..."){C:1,KABU!DAWN FORTRESS!ARCHIVES!0.2010!KHLUTT!}
 		(E#"I will not go without a fight."){E:1,KABU!DAWN FORTRESS!ARCHIVES!0.501!KHLUTT!}
 	[KABU!DAWN FORTRESS!ARCHIVES!10.002!KHLUTT!/]
@@ -685,7 +685,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.001!LOGIRA!]
 		||
-		*"I see... While our historical records are meagre, I will do my best to accommodate your requests."*
+		*"I see... While our historical records are meager, I will do my best to accommodate your requests."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!0.0010!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.001!LOGIRA!/]
 	
@@ -714,7 +714,7 @@ LOGIRA
 		*"However, after the destruction of the Sun Tower, the peoples of Kabu jointly decided to construct the Dawn Fortress, and chose us to protect it."*
 		(A#"Where did the Tacribians hail from originally?"){A:1,KABU!DAWN FORTRESS!ARCHIVES!0.X101!LOGIRA!}
 		(B#"Why was moving to the Dawn Fortress necessary?"){B:1,KABU!DAWN FORTRESS!ARCHIVES!0.201!LOGIRA!}
-		(E#"And you only use this strength for defence?"){E:1,KABU!DAWN FORTRESS!ARCHIVES!0.501!LOGIRA!}
+		(E#"And you only use this strength for defense?"){E:1,KABU!DAWN FORTRESS!ARCHIVES!0.501!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.1001!LOGIRA!/]
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.200!LOGIRA!]
@@ -739,10 +739,10 @@ LOGIRA
 
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.500!LOGIRA!]
 		||
-		*"You will find that the Dawn Fortress has been more concerned with records of the defence of the canyon from the Wasteland. Moreover, we lack the Muninn Tree that would serve as a living vessel for our wisdom. Hence our 'inferior facilities'..."*
+		*"You will find that the Dawn Fortress has been more concerned with records of the defense of the canyon from the Wasteland. Moreover, we lack the Muninn Tree that would serve as a living vessel for our wisdom. Hence our 'inferior facilities'..."*
 		(A#"Where did the Tacribians hail from originally?"){A:1,KABU!DAWN FORTRESS!ARCHIVES!0.X101!LOGIRA!}
 		(D#"Why was moving to the Dawn Fortress necessary?"){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.401!LOGIRA!}
-		(E#"So your folk are merely concerned with defence and not action."){E:1,KABU!DAWN FORTRESS!ARCHIVES!0.501!LOGIRA!}
+		(E#"So your folk are merely concerned with defense and not action."){E:1,KABU!DAWN FORTRESS!ARCHIVES!0.501!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.500!LOGIRA!/]
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.600!LOGIRA!]
@@ -760,7 +760,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.1010!LOGIRA!]
 		||
-		*"After the Jinnwraith and its draugnir horde attempted an assault on Tambul, it was deemed necessary to build a perimiter around Heaven's Bridge, to keep the kharrspawn from crossing."*
+		*"After the Jinnwraith and its draugnir horde attempted an assault on Tambul, it was deemed necessary to build a perimeter around Heaven's Bridge, to keep the Kharrspawn from crossing."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!0.1011!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.1010!LOGIRA!/]
 	
@@ -780,7 +780,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.10101!LOGIRA!]
 		||
-		*"After the Jinnwraith and its draugnir horde attempted an assault on Tambul, it was deemed necessary to build a perimiter around Heaven's Bridge, to keep the kharrspawn from crossing."*
+		*"After the Jinnwraith and its draugnir horde attempted an assault on Tambul, it was deemed necessary to build a perimeter around Heaven's Bridge, to keep the Kharrspawn from crossing."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!0.10102!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.10101!LOGIRA!/]
 	
@@ -1098,7 +1098,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.2011!LOGIRA!]
 		||
-		*"However, days pass and our water reserves dwindle, and all we can rely on are the meagre handouts Tambul gives us."*
+		*"However, days pass and our water reserves dwindle, and all we can rely on are the meager handouts Tambul gives us."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!1.2012!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!1.2011!LOGIRA!/]
 	
@@ -1171,7 +1171,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.2021!LOGIRA!]
 		||
-		*"Moreover, his mental defences are much stronger than the other magi of the region, leaving his plans as inscrutable as even the Unseen."*
+		*"Moreover, his mental defenses are much stronger than the other magi of the region, leaving his plans as inscrutable as even the Unseen."*
 		(A#"Is there no one he will answer to?"){A:1,KABU!DAWN FORTRESS!ARCHIVES!1.103!LOGIRA!}
 		(B#"Why is Khlutt like this?"){B:1,KABU!DAWN FORTRESS!ARCHIVES!1.103!LOGIRA!}
 		(D#"How can I become a master of such power?"){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.403!LOGIRA!}
@@ -1185,7 +1185,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.4020!LOGIRA!]
 		||
-		*"Moreover, his mental defences are much stronger than the other magi of the region, leaving his inner thoughts as inscrutable as even the Unseen."*
+		*"Moreover, his mental defenses are much stronger than the other magi of the region, leaving his inner thoughts as inscrutable as even the Unseen."*
 		(B#"Why is Khlutt like this?"){B:1,KABU!DAWN FORTRESS!ARCHIVES!1.103!LOGIRA!}
 		(D#"Such power! How did he master these skills?"){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.403!LOGIRA!}
 		(E#"If you had courage, you would challenge Khlutt."){E:1,KABU!DAWN FORTRESS!ARCHIVES!1.503!LOGIRA!}		
@@ -1435,7 +1435,7 @@ khlutt is dead
 	[/KABU!DAWN FORTRESS!ARCHIVES!11.003!LOGIRA!]
 		||
 		*"Now, only you can prevent this, Eidos!"*
-		(A#"Maybe we can disuade him."){A:1,KABU!DAWN FORTRESS!ARCHIVES!11.100!LOGIRA!}
+		(A#"Maybe we can dissuade him."){A:1,KABU!DAWN FORTRESS!ARCHIVES!11.100!LOGIRA!}
 		(B#"I have no reason to trust you."){B:1,KABU!DAWN FORTRESS!ARCHIVES!12.200!LOGIRA!}
 		(E#"The approval of weaklings means nothing to me."){E:1,KABU!DAWN FORTRESS!ARCHIVES!15.500!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!11.003!LOGIRA!/]
@@ -1513,7 +1513,7 @@ will not help
 
 	[/KABU!DAWN FORTRESS!ARCHIVES!12.001!LOGIRA!]
 		||
-		*"Our water supply dwindles by the hour because the water from the Weelspring no longer flows to our fortress."*
+		*"Our water supply dwindles by the hour because the water from the Wellspring no longer flows to our fortress."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!12.002!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!12.001!LOGIRA!/]
 
@@ -1526,9 +1526,9 @@ will not help
 	[/KABU!DAWN FORTRESS!ARCHIVES!12.003!LOGIRA!]
 		||
 		*"The truth behind everything must lie in the Wellspring itself!"*
-		(A#"Maybe we can disuade him."){A:1,KABU!DAWN FORTRESS!ARCHIVES!11.100!LOGIRA!}
+		(A#"Maybe we can dissuade him."){A:1,KABU!DAWN FORTRESS!ARCHIVES!11.100!LOGIRA!}
 		(B#"I have no reason to trust you."){B:1,KABU!DAWN FORTRESS!ARCHIVES!12.200!LOGIRA!}
-		(C#"I don't want to get invovled in this."){C:1,KABU!DAWN FORTRESS!ARCHIVES!13.300!LOGIRA!}
+		(C#"I don't want to get involved in this."){C:1,KABU!DAWN FORTRESS!ARCHIVES!13.300!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!12.003!LOGIRA!/]
 
 	[/KABU!DAWN FORTRESS!ARCHIVES!12.200!LOGIRA!]
@@ -1817,7 +1817,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!BARRACKS!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!BARRACKS!999.001!DESCRIPTION!/]
 	
@@ -1847,7 +1847,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!BARRACKS!999.006!DESCRIPTION!/]
 	
@@ -1916,7 +1916,7 @@ CONVERSATION
 
 	[/KABU!DAWN FORTRESS!BARRACKS!1.000!XERK!]
 		||
-		*"Ha! Voices! Don't let Khultt hear you say that; he doesn't look favorably upon those who hit the Jinn-liquor during their watch."*
+		*"Ha! Voices! Don't let Khlutt hear you say that; he doesn't look favorably upon those who hit the Jinn-liquor during their watch."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!1.001!XERK!}
 	[KABU!DAWN FORTRESS!BARRACKS!1.000!XERK!/]
 	
@@ -1982,7 +1982,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!2.002!DIYA!]
 		||
-		*"You've never seen the wraithglow of the Forest... I'd not even wish it on a Jinn-lickin' Daziran!"*
+		*"You've never seen the wraithglow of the Forest... I'd not even wish it on a Jinnlickin' Daziran!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!2.003!DIYA!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.002!DIYA!/]
 	
@@ -2024,7 +2024,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!2.001!IMAT!]
 		||
-		*"You have sworn your bloodoath to obey your mage!"*
+		*"You have sworn your blood-oath to obey your mage!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!2.X002!IMAT!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.001!IMAT!/]	
 	
@@ -2145,7 +2145,7 @@ ___________________________________
 CAVERN
 	[/KABU!DAWN FORTRESS!CAVERN!0.000!DESCRIPTION!]
 		||
-		*Moving forward from the bridge, Eidos enters a darkened cavern. In the meagre sunlight illuminating the mouth of the entrance, it becomes clear that this passage must be artificial. The aperture is a nearly perfect semi-circle carved from the rock and arching support structures added. What's more, two timeworn ruts line the otherwise smooth floor, indicating that this passage once bore some kind of wheeled vehicle.*
+		*Moving forward from the bridge, Eidos enters a darkened cavern. In the meager sunlight illuminating the mouth of the entrance, it becomes clear that this passage must be artificial. The aperture is a nearly perfect semi-circle carved from the rock and arching support structures added. What's more, two timeworn ruts line the otherwise smooth floor, indicating that this passage once bore some kind of wheeled vehicle.*
 		(A#...){A:0,KABU!DAWN FORTRESS!CAVERN!0.0001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!CAVERN!0.000!DESCRIPTION!/]
 		
@@ -2234,7 +2234,7 @@ CAVERN
 Approaching caverns from Archives	
 	[/KABU!DAWN FORTRESS!CAVERN!11.000!DESCRIPTION!]
 		||
-		*Stepping through the doorway, Eidos stands in a cavern lit mostly by the dim crystal lights of the Archives, save two pitiful auxiliary crystalline sconces making their best effort to contribute with their meagre offerings of light. Before her are the ruined remains of cart and a track leading into complete darkness. 
+		*Stepping through the doorway, Eidos stands in a cavern lit mostly by the dim crystal lights of the Archives, save two pitiful auxiliary crystalline sconces making their best effort to contribute with their meager offerings of light. Before her are the ruined remains of cart and a track leading into complete darkness. 
 		
 		As the Archives door closes, it takes with it the brightness they cast upon the dank cavern. Knowing that the Archives are now a thing of the past, Eidos can only return to the bridge.*
 		(A#Return to the Star Bridge){A:0,KABU!SANCTUARY!STAR BRIDGE!1.X000!DESCRIPTION!}
@@ -2261,7 +2261,7 @@ virgin
 		|@:KABU!DAWN FORTRESS!COURTYARD!0.0010!DESCRIPTION!|
 		*Eidos now enters a vast, open area, small dust devils whirling up here and there, vanishing just as quickly as they appeared. While the environment is bounded by the titanic exterior wall, the most notable feature is in fact the massive, black iron gate and its retinue of Tacribian guards. With the exception of the warriors that stand silent vigil at this imposing portal, most of the people that are here seem to be busy and in transit to other areas.
 		
-		The other remarkable landmark are the rows of cages at the centre of the courtyard's dusty stone floor, not too far from a raised platform. Despite having numerous cages, Eidos can only spot a single prisoner: a turquoise-robed man gesticulating his silent soliloquy. An armed Tacribian is nearby, attending the small prison.*
+		The other remarkable landmark are the rows of cages at the center of the courtyard's dusty stone floor, not too far from a raised platform. Despite having numerous cages, Eidos can only spot a single prisoner: a turquoise-robed man gesticulating his silent soliloquy. An armed Tacribian is nearby, attending the small prison.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!COURTYARD!0.101!DESCRIPTION!}
 		(B#Speak to the guard){B:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0208!DESCRIPTION!}
 		(C#Speak to the prisoner){C:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0207!DESCRIPTION!}
@@ -2280,7 +2280,7 @@ recognize Heyar
 		|@:KABU!DAWN FORTRESS!COURTYARD!0.002!DESCRIPTION!|
 		*Eidos now enters a vast, open area, small dust devils whirling up here and there, vanishing just as quickly as they appeared. While the environment is bounded by the titanic exterior wall, the most notable feature is in fact the massive, black iron gate and its retinue of Tacribian guards. With the exception of the warriors that stand silent vigil at this imposing portal, most of the people that are here seem to be busy and in transit to other areas.
 		
-		The other remarkable landmark are the rows of cages at the centre of the courtyard's dusty stone floor, not too far from a raised platform. Despite having numerous cages, Eidos can only spot a single prisoner, one whose endless monologues she remembers all too well. An armed Tacribian is nearby, attending the small prison.*
+		The other remarkable landmark are the rows of cages at the center of the courtyard's dusty stone floor, not too far from a raised platform. Despite having numerous cages, Eidos can only spot a single prisoner, one whose endless monologues she remembers all too well. An armed Tacribian is nearby, attending the small prison.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!COURTYARD!0.101!DESCRIPTION!}	
 		(B#Speak to the guard){B:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0208!DESCRIPTION!}	
 		(C#Speak to the prisoner, Heyar){C:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0207!DESCRIPTION!}
@@ -2299,7 +2299,7 @@ recognize Dysmas not Heyar
 		|@:KABU!DAWN FORTRESS!COURTYARD!0.0040!DESCRIPTION!|
 		*Eidos now enters a vast, open area, small dust devils whirling up here and there, vanishing just as quickly as they appeared. While the environment is bounded by the titanic exterior wall, the most notable feature is in fact the massive, black iron gate and its retinue of Tacribian guards. With the exception of the warriors that stand silent vigil at this imposing portal, most of the people that are here seem to be busy and in transit to other areas.
 		
-		The other remarkable landmark are the rows of cages at the centre of the courtyard's dusty stone floor, not too far from a raised platform. Despite having numerous cages, Eidos can only spot two individuals sitting within their cages: a turquoise-robed man she does not recognize and a man more known to her... Dysmas of Tambul, thief of the Moon Tower. There is also an armed Tacribian attending the small prison.*
+		The other remarkable landmark are the rows of cages at the center of the courtyard's dusty stone floor, not too far from a raised platform. Despite having numerous cages, Eidos can only spot two individuals sitting within their cages: a turquoise-robed man she does not recognize and a man more known to her... Dysmas of Tambul, thief of the Moon Tower. There is also an armed Tacribian attending the small prison.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!COURTYARD!0.101!DESCRIPTION!}
 		(B#Speak to the guard){B:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0208!DESCRIPTION!}
 		(C#Speak to one of the prisoners){C:0,KABU!DAWN FORTRESS!COURTYARD!0.X102!DESCRIPTION!}
@@ -2310,7 +2310,7 @@ recognize Heyar and Dysmas
 		|@:KABU!DAWN FORTRESS!COURTYARD!0.0040!DESCRIPTION!|
 		*Eidos now enters a vast, open area, small dust devils whirling up here and there, vanishing just as quickly as they appeared. While the environment is bounded by the titanic exterior wall, the most notable feature is in fact the massive, black iron gate and its retinue of Tacribian guards. With the exception of the warriors that stand silent vigil at this imposing portal, most of the people that are here seem to be busy and in transit to other areas.
 		
-		The other remarkable landmark are the rows of cages at the centre of the courtyard's dusty stone floor, not too far from a raised platform. Despite having numerous cages, Eidos can see two individuals sitting within their cages: the loquacious scholar Heyar and the thief of the Moon Tower Dymas. There is also an armed Tacribian attending the small prison.*
+		The other remarkable landmark are the rows of cages at the center of the courtyard's dusty stone floor, not too far from a raised platform. Despite having numerous cages, Eidos can see two individuals sitting within their cages: the loquacious scholar Heyar and the thief of the Moon Tower Dysmas. There is also an armed Tacribian attending the small prison.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!COURTYARD!0.101!DESCRIPTION!}
 		(B#Speak to the guard){B:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0208!DESCRIPTION!}
 		(C#Speak to one of the prisoners){C:0,KABU!DAWN FORTRESS!COURTYARD!0.1020!DESCRIPTION!}
@@ -2353,7 +2353,7 @@ leaving
 W/ Assala
 	[/KABU!DAWN FORTRESS!COURTYARD!77.X000!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!COURTYARD!77.X001!DESCRIPTION!|
-		*The mage of the Dawn Fortress stands ill-at-ease - though eerily calm - before them. He is an old and sinewy man, yet also quite the imposing figure. His gazes seeming to melt any defences, Eidos stares at him paralysed by her own animal instincts. Eidos muscles continuously tighten like an endless spasm. Pain robs her of her ability to think clearly until the very moment the mage relaxes his scowl, releasing her from the trance. All her muscles relax simultaneously, causing her to fall to the floor, kneeling as if subservient before him. Confident in his victory from this initial confrontation, he deigns to speak.*
+		*The mage of the Dawn Fortress stands ill-at-ease - though eerily calm - before them. He is an old and sinewy man, yet also quite the imposing figure. His gazes seeming to melt any defenses, Eidos stares at him paralyzed by her own animal instincts. Eidos muscles continuously tighten like an endless spasm. Pain robs her of her ability to think clearly until the very moment the mage relaxes his scowl, releasing her from the trance. All her muscles relax simultaneously, causing her to fall to the floor, kneeling as if subservient before him. Confident in his victory from this initial confrontation, he deigns to speak.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0014!DESCRIPTION!}		
 	[KABU!DAWN FORTRESS!COURTYARD!77.X000!DESCRIPTION!/]
 	
@@ -2440,13 +2440,13 @@ killed someone in the area
 khlutt killed
 	[/KABU!DAWN FORTRESS!COURTYARD!999.X000!DESCRIPTION!]
 		||
-		*The battle has taken its toll on Eidos. Having exerted her Falseflesh far beyond its limits, she drops to her knees, breath quickening until she loses all control. Guards come pouring in and surround her. Several fearlessly step forward to restrain her, soon realising that her own body, acting as ally to her enemies, has already done them this favor. Eidos helplessly watches as they bind her hands and feet with coarse ropes that scrape her skin raw.*
+		*The battle has taken its toll on Eidos. Having exerted her Falseflesh far beyond its limits, she drops to her knees, breath quickening until she loses all control. Guards come pouring in and surround her. Several fearlessly step forward to restrain her, soon realizing that her own body, acting as ally to her enemies, has already done them this favor. Eidos helplessly watches as they bind her hands and feet with coarse ropes that scrape her skin raw.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!999.001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!999.X000!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!999.001!DESCRIPTION!/]
 	
@@ -2476,7 +2476,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!999.006!DESCRIPTION!/]
 		
@@ -2501,7 +2501,7 @@ trial stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!COURTYARD!92.X000!DESCRIPTION!|
-		*At Eidos' stirring, her fellow prisoner scuttles away like a frightened rabbit. But then an epiphany dawns on him, a realization that now he will have more than just himself to talk to - or talk at? Indeed, a euphoric wash of emotion nearly knocks the ghost clear from his Falseflesh. Then, attempting to correct his posture and feign an air of dignity and compsure, the gearwork of his jaw starts to wind up until its inevitable and interminable unwinding at the infelicitous opening of his mouth...*
+		*At Eidos' stirring, her fellow prisoner scuttles away like a frightened rabbit. But then an epiphany dawns on him, a realization that now he will have more than just himself to talk to - or talk at? Indeed, a euphoric wash of emotion nearly knocks the ghost clear from his Falseflesh. Then, attempting to correct his posture and feign an air of dignity and composure, the gearwork of his jaw starts to wind up until its inevitable and interminable unwinding at the infelicitous opening of his mouth...*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0207!DESCRIPTION!}					
 	[KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!/]
 
@@ -2652,7 +2652,7 @@ HEYAR
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!0.002!HEYAR!]
 		||
-		*"It must be so, given your unique vestiments - so uncharacteristic of the Kabu region, you see."*
+		*"It must be so, given your unique vestments - so uncharacteristic of the Kabu region, you see."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!0.003!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!0.002!HEYAR!/]
 	
@@ -4342,7 +4342,7 @@ trial
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!95.003!KHLUTT!]
 		||
-		*"Let us send this message into the void as our forebarers did in the days of Ark!"*
+		*"Let us send this message into the void as our forbearers did in the days of Ark!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X9999!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!95.003!KHLUTT!/]
 	
@@ -4368,13 +4368,13 @@ have hidden mind, but did wellspring stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.003!KHLUTT!]
 		||
-		*"Let us send this message into the void as our forbarers in the days of Ark!"*
+		*"Let us send this message into the void as our forbearers in the days of Ark!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.X004!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!96.003!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.X004!KHLUTT!]
 		|@:KABU!DAWN FORTRESS!COURTYARD!96.100!KHLUTT!|
-		*"Logira, read to us the defence of this woman."*
+		*"Logira, read to us the defense of this woman."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}	
 	[KABU!DAWN FORTRESS!COURTYARD!96.X004!KHLUTT!/]
 	
@@ -4436,7 +4436,7 @@ have hidden mind, but did wellspring stuff
 kicked out as Unseen from other township
 	[/KABU!DAWN FORTRESS!COURTYARD!100.000!KHLUTT!]
 		||
-		*"Even in our darkest hour, on the very brink of thrist, those fools still see it fit to send me their criminals..."*
+		*"Even in our darkest hour, on the very brink of thirst, those fools still see it fit to send me their criminals..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!100.001!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!100.000!KHLUTT!/]
 
@@ -4668,7 +4668,7 @@ GATES OF DAWN
 >>>Decided to leave through the Night Door (15006)<<<	
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.X002!DESCRIPTION!]
 		|^15006:KABU!DAWN FORTRESS!GATES OF DAWN!0.002!DESCRIPTION!|
-		*The foreboding door to the Wasteland now seems to pulsate, leaving Eidos mesmerized before it. The Wastes behind it belch wisps of sand, forced in through thin gaps in the bars. These omnious exhalations of anticipation seem a warning to her, a prelude to the untamed corruption waiting beyond the walls of the Dawn Fortress.
+		*The foreboding door to the Wasteland now seems to pulsate, leaving Eidos mesmerized before it. The Wastes behind it belch wisps of sand, forced in through thin gaps in the bars. These ominous exhalations of anticipation seem a warning to her, a prelude to the untamed corruption waiting beyond the walls of the Dawn Fortress.
 		
 		A shiver runs down her spine, breaking the spell. She soon turns on her heel and walks back to the courtyard.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!0.X000!DESCRIPTION!}
@@ -4676,7 +4676,7 @@ GATES OF DAWN
 
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!0.002!DESCRIPTION!]
 		||
-		*The foreboding door to the Wasteland now seems to pulsate, leaving Eidos mesmerized before it. The Wastes behind it belch wisps of sand, forced in through thin gaps in the bars. These omnious exhalations of anticipation seem a warning to her, a prelude to the untamed corruption waiting beyond the walls of the Dawn Fortress.*
+		*The foreboding door to the Wasteland now seems to pulsate, leaving Eidos mesmerized before it. The Wastes behind it belch wisps of sand, forced in through thin gaps in the bars. These ominous exhalations of anticipation seem a warning to her, a prelude to the untamed corruption waiting beyond the walls of the Dawn Fortress.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!0.0020!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!0.002!DESCRIPTION!/]
 
@@ -4707,7 +4707,7 @@ Eidos exiled after opening star bridge
 
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!92.001!DESCRIPTION!]
 		||
-		*Eidos now stares at the forebodding door to the Wasteland, frozen before it. The Wastes beyond belch wisps of sand, forced in through thin gaps in the gate's metallic grin.*
+		*Eidos now stares at the foreboding door to the Wasteland, frozen before it. The Wastes beyond belch wisps of sand, forced in through thin gaps in the gate's metallic grin.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!92.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!92.001!DESCRIPTION!/]
 
@@ -4732,7 +4732,7 @@ khlutt killed
 
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!GATES OF DAWN!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.001!DESCRIPTION!/]
 
@@ -4762,7 +4762,7 @@ khlutt killed
 
 	[/KABU!DAWN FORTRESS!GATES OF DAWN!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!GATES OF DAWN!999.006!DESCRIPTION!/]
 
@@ -4832,7 +4832,7 @@ MAGE'S ABODE
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.001!DESCRIPTION!]
 		||
-		*She begins to carve a path through the dust motes floating in the afternoon sun, getting ever closer to that motionless creature. Twenty paces off, the form comes into clearer focus: more an onyx statue than a human being, immobile, absolute, and intractable. Its oppresive aura is enough to make the brave cower and the belligerent docile.*
+		*She begins to carve a path through the dust motes floating in the afternoon sun, getting ever closer to that motionless creature. Twenty paces off, the form comes into clearer focus: more an onyx statue than a human being, immobile, absolute, and intractable. Its oppressive aura is enough to make the brave cower and the belligerent docile.*
 		(A#...){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.001!DESCRIPTION!/]
 	
@@ -4865,7 +4865,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!999.001!DESCRIPTION!/]
 	
@@ -4895,7 +4895,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!999.006!DESCRIPTION!/]
 	
@@ -5254,7 +5254,7 @@ begin convo
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.1020!KHLUTT!]
 		||
-		*"Ark annointed us as her dedicated long ago, and thus, it is here that we find our nemesis."*
+		*"Ark anointed us as her dedicated long ago, and thus, it is here that we find our nemesis."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.1021!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.1020!KHLUTT!/]
 	
@@ -5352,7 +5352,7 @@ begin convo
 		||
 		*"Now, my tolerance for your presence is at an end."*
 		(C#"Then, I will depart immediately."){C:1,KABU!DAWN FORTRESS!MAGE'S ABODE!0.X302!KHLUTT!}
-		(D#"I shall endeavour to remain your friend, honorable Khlutt."){D:1,KABU!DAWN FORTRESS!MAGE'S ABODE!0.X302!KHLUTT!}
+		(D#"I shall endeavor to remain your friend, honorable Khlutt."){D:1,KABU!DAWN FORTRESS!MAGE'S ABODE!0.X302!KHLUTT!}
 		(E#"I'll leave when it suits me to leave."){E:1,KABU!DAWN FORTRESS!MAGE'S ABODE!0.509!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.40222!KHLUTT!/]
 	
@@ -5526,7 +5526,7 @@ Have an agreement w/ Pakahron
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!1.2012!KHLUTT!]
 		||
-		*"I've dedicated my life to Kabu's defence and now that the enemies lurk within city limits, we will drive them out and restore order!"*
+		*"I've dedicated my life to Kabu's defense and now that the enemies lurk within city limits, we will drive them out and restore order!"*
 		(A#"This is not over; I will prevent this conflict!"){A:1,KABU!DAWN FORTRESS!MAGE'S ABODE!1.102!KHLUTT!}
 		(B#"Then I have learned all I can."){B:1,KABU!DAWN FORTRESS!MAGE'S ABODE!1.202!KHLUTT!}
 		(C#"So be it."){C:1,KABU!DAWN FORTRESS!MAGE'S ABODE!1.302!KHLUTT!}
@@ -5679,25 +5679,25 @@ ___________________________________
 PROVING GROUNDS
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.000!DESCRIPTION!]
 		||
-		*Eidos enters an area dominated by a large pit of cordoned-off sand. The Tacribian warriors here are seen thrusting blunt-ended spears at each other, dodging with practiced grace. The midday sun would broil their flesh were the pit not in the penumbra of a broken, yet nonetheless imposing, tower. Eidos notices that each soldier seems to keep their exhertions brief. Training for but a few minutes before stopping to rest as they begin to perspire. A youthful and hearty child walks among them dispensing small measures of water.*
+		*Eidos enters an area dominated by a large pit of cordoned-off sand. The Tacribian warriors here are seen thrusting blunt-ended spears at each other, dodging with practiced grace. The midday sun would broil their flesh were the pit not in the penumbra of a broken, yet nonetheless imposing, tower. Eidos notices that each soldier seems to keep their exertions brief. Training for but a few minutes before stopping to rest as they begin to perspire. A youthful and hearty child walks among them dispensing small measures of water.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.X001!DESCRIPTION!}		
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.000!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!DESCRIPTION!]
 		||
-		*The Proving Grounds naturally lead into what seems to be the central space of the Fortress complex, a large courtyard through which soldiers come and go and which serves as a defensive area behind a tremendous, black iron gate dwarved by the unfathomably large bulwark in which it is embedded. 
+		*The Proving Grounds naturally lead into what seems to be the central space of the Fortress complex, a large courtyard through which soldiers come and go and which serves as a defensive area behind a tremendous, black iron gate dwarfed by the unfathomably large bulwark in which it is embedded. 
 		
-		However, looking away from the courtyard reveals an area that looks to be an amphitheatre of some kind.*
+		However, looking away from the courtyard reveals an area that looks to be an amphitheater of some kind.*
 		(A#Go to the Courtyard){A:0,KABU!DAWN FORTRESS!COURTYARD!0.X000!DESCRIPTION!}
 		(B#Return to the Sun Keep){B:0,KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!}
-		(C#Enter the amphitheatre){C:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
+		(C#Enter the amphitheater){C:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!DESCRIPTION!/]	
 	
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.0000!DESCRIPTION!]
 		||
-		*Eidos stands in the proving grounds of the Dawn Fortress. The sounds of bodies striking the sand and grunts of exhertion ring loudly here. The mild stink of sweat is cleared by a light wind creeping over the walls. The eyes of many exhausted warriors lock upon her with glowers of suspicion, yet are quickly distracted when the water bearers reach them. Not even their battle-hardened faces are capable of masking their dire thirst.*
+		*Eidos stands in the proving grounds of the Dawn Fortress. The sounds of bodies striking the sand and grunts of exertion ring loudly here. The mild stink of sweat is cleared by a light wind creeping over the walls. The eyes of many exhausted warriors lock upon her with glowers of suspicion, yet are quickly distracted when the water bearers reach them. Not even their battle-hardened faces are capable of masking their dire thirst.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.X001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.0000!DESCRIPTION!/]	
@@ -5732,7 +5732,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!999.001!DESCRIPTION!/]
 	
@@ -5762,7 +5762,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!999.006!DESCRIPTION!/]
 	
@@ -5781,7 +5781,7 @@ CIRE
 		(A#"What course of action would you recommend?"){A:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.100!CIRE!}
 		(B#"What makes him a weak leader?"){B:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.200!CIRE!}
 		(C#"You may be right."){C:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.300!CIRE!}
-		(D#"What is Khultt planning?"){D:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.400!CIRE!}
+		(D#"What is Khlutt planning?"){D:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.400!CIRE!}
 		(E#"And yet you serve him... What does this say about you?"){E:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.500!CIRE!}
 		(F#"Yeah, I know."){F:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.600!CIRE!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!CIRE!/]
@@ -5827,7 +5827,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.2001!CIRE!]
 		||
-		*"I therefore proclaim, with exalted Ark as my witness, that Khlutt is the weakest of all mages!"*
+		*"I therefore proclaim, with exalted Ark as my witness, that Khlutt is the weakest of all magi!"*
 		(A#"Perhaps no mage could have avoided such a problem."){A:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.101!CIRE!}
 		(B#"How is he weak for being incapable of crossing an impassable canyon?"){B:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.201!CIRE!}
 		(C#"You sound like you know what you are talking about."){C:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.301!CIRE!}
@@ -5853,7 +5853,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.3002!CIRE!]
 		||
-		*"I therefore proclaim, with exalted Ark as my witness, that Khlutt is the weakest of all mages!"*
+		*"I therefore proclaim, with exalted Ark as my witness, that Khlutt is the weakest of all magi!"*
 		(B#"How is he weak for being incapable of crossing an impassable canyon?"){B:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.201!CIRE!}
 		(C#"You sound like you know what you are talking about."){C:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.301!CIRE!}
 		(D#"Are you suggesting he needs to be removed from power?"){D:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.401!CIRE!}
@@ -5931,7 +5931,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.6002!CIRE!]
 		||
-		*"I therefore proclaim, with exalted Ark as my witness, that Khlutt is the weakest of all mages!"*
+		*"I therefore proclaim, with exalted Ark as my witness, that Khlutt is the weakest of all magi!"*
 		(B#"How is he weak for being incapable of crossing an impassable canyon?"){B:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.201!CIRE!}
 		(C#"You sound like you know what you are talking about."){C:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.301!CIRE!}
 		(F#"Look, I get it."){F:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.601!CIRE!}
@@ -5996,7 +5996,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.2013!CIRE!]
 		||
-		*"Furthermore, he did not forsee this obvious outcome!"*
+		*"Furthermore, he did not foresee this obvious outcome!"*
 		(A#"How do you think Ark would get across the canyon?"){A:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.102!CIRE!}
 		(B#"I thought you said he was weak, not lacking in foresight?"){B:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.202!CIRE!}
 		(C#"It is true; you need a strong leader."){C:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.302!CIRE!}
@@ -6098,7 +6098,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.6011!CIRE!]
 		||
-		*"Yet, Khlutt was not able to make Khaa and the Dazirans fear him sufficiently. Further, he did not forsee this most obvious outcome."*
+		*"Yet, Khlutt was not able to make Khaa and the Dazirans fear him sufficiently. Further, he did not foresee this most obvious outcome."*
 		(F#"Riiiiiiiiiiiiight... Hey, I think it's time for me to..."){F:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.602!CIRE!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.6011!CIRE!/]
 	
@@ -6263,7 +6263,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.602!CIRE!]
 		||
-		*"Trust me, if you had the knowledge I possess of Tacribian history, it would be clear to you we have had a plethora of leaders who were more cabable than he is."*
+		*"Trust me, if you had the knowledge I possess of Tacribian history, it would be clear to you we have had a plethora of leaders who were more capable than he is."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.6020!CIRE!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.602!CIRE!/]
 	
@@ -6491,7 +6491,7 @@ FIDAN
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.1002!FIDAN!]
 		||
-		*"I myself am Daziran born, but I have made the defence of Kabu my life's work!"*
+		*"I myself am Daziran born, but I have made the defense of Kabu my life's work!"*
 		(A#"Do you wish to return there someday?"){A:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.101!FIDAN!}
 		(B#"So fighters were part of Biracul's design?"){B:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.201!FIDAN!}
 		(E#"And what have your bullshit ideals yielded? Betrayal and thirst."){E:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.501!FIDAN!}
@@ -6689,7 +6689,7 @@ FIDAN
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.X901!FIDAN!]
 		|@:KABU!DAWN FORTRESS!PROVING GROUNDS!0.X902!FIDAN!|
-		*"Hrmph... Korsala, you and your Shariken rest and take your water rations!"*
+		*"Hmph... Korsala, you and your Shariken rest and take your water rations!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9999.X9999!FIDAN!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.X901!FIDAN!/]
 	
@@ -6701,7 +6701,7 @@ FIDAN
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.X903!FIDAN!]
 		|@:KABU!DAWN FORTRESS!PROVING GROUNDS!0.X904!FIDAN!|
-		*"Slow is smooth and smooth is fast, youngins'!"*
+		*"Slow is smooth and smooth is fast, young'ns!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9999.X9999!FIDAN!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.X903!FIDAN!/]
 	
@@ -6727,7 +6727,7 @@ YARMAK
 
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.100!YARMAK!]
 		||
-		*"That may well be, but I doubt you've braved the Wastleland; that's the 'truest' proving ground."*
+		*"That may well be, but I doubt you've braved the Wasteland; that's the 'truest' proving ground."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.1000!YARMAK!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.100!YARMAK!/]
 	
@@ -6741,7 +6741,7 @@ YARMAK
 
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.200!YARMAK!]
 		||
-		*"Biracul's balls! Then you're as witless as you're defenceless!"*
+		*"Biracul's balls! Then you're as witless as you're defenseless!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.2000!YARMAK!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.200!YARMAK!/]
 	
@@ -7028,14 +7028,14 @@ SUN KEEP
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!]
 		||
-		*As she enters the keep proper, Eidos notices the Tacribian warriors eyeing her with dispassionate gazes, most seeming somewhat dismissive of her presence.	The stonework all around is competently cut and mortared, though the passage through the Keep here is narrow, apparently designed to trap invaders at a final choking point before stepping out onto the bridge. It looks as though there is but one way forward, yet the curving path prevents her from viewing its destination.*
+		*As she enters the keep proper, Eidos notices the Tacribian warriors eying her with dispassionate gazes, most seeming somewhat dismissive of her presence.	The stonework all around is competently cut and mortared, though the passage through the Keep here is narrow, apparently designed to trap invaders at a final choking point before stepping out onto the bridge. It looks as though there is but one way forward, yet the curving path prevents her from viewing its destination.*
 		(A#Walk forward into the fortress){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9990.X15000!DESCRIPTION!}
 		(B#Examine the tower){B:0,KABU!DAWN FORTRESS!SUN KEEP!0.X0012!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.X0012!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!SUN KEEP!0.0013!DESCRIPTION!|
-		*Eidos sees that human hands have bedecked the corpse of the tower in bizarre ornamentation. Spear points, arrow heads and knives have been driven into cracks in its blackened surface. Small alcoves have been hollowed out and filled with skillessly carved objects, cups and plates. Walking around the base, Eidos sees that there is an obscure shrine of some sort: a stone effigy of a vaugely feminine form clasping a jade sword. Standing in front of the shrine is an elderly woman looking at Eidos expectantly.*
+		*Eidos sees that human hands have bedecked the corpse of the tower in bizarre ornamentation. Spear points, arrow heads and knives have been driven into cracks in its blackened surface. Small alcoves have been hollowed out and filled with skillessly carved objects, cups and plates. Walking around the base, Eidos sees that there is an obscure shrine of some sort: a stone effigy of a vaguely feminine form clasping a jade sword. Standing in front of the shrine is an elderly woman looking at Eidos expectantly.*
 		(A#Walk forward into the fortress){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9990.X15000!DESCRIPTION!}
 		(B#Speak to the woman){B:0,KABU!DAWN FORTRESS!SUN KEEP!9999.X0204!DESCRIPTION!}				
 	[KABU!DAWN FORTRESS!SUN KEEP!0.X0012!DESCRIPTION!/]	
@@ -7064,7 +7064,7 @@ not welcome in Tacriba
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!10.002!DESCRIPTION!]
 		||
-		*Entering the keep, Eidos sees battle-hardened Tacribian soldiers eyeing her with focused glares; glares that turn to shock and indignance as they recognize the meddling foreigner they had been warned about. Springing into action, they surround her and mere moments later, the mage appears to exact Tacribian justice upon the intruder.*
+		*Entering the keep, Eidos sees battle-hardened Tacribian soldiers eying her with focused glares; glares that turn to shock and indignation as they recognize the meddling foreigner they had been warned about. Springing into action, they surround her and mere moments later, the mage appears to exact Tacribian justice upon the intruder.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!9992.X0014!KHLUTT!}
 	[KABU!DAWN FORTRESS!SUN KEEP!10.002!DESCRIPTION!/]
 	
@@ -7097,7 +7097,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!999.001!DESCRIPTION!/]
 	
@@ -7127,7 +7127,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!999.006!DESCRIPTION!/]
 	
@@ -7782,7 +7782,7 @@ met Rik and killed Ark
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!1.4112!MINAH!]
 		||
-		*"Did you know not that she alone among mages bound the Emerald Jinn to her will?"*
+		*"Did you know not that she alone among magi bound the Emerald Jinn to her will?"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!SUN KEEP!1.4113!MINAH!}
 	[KABU!DAWN FORTRESS!SUN KEEP!1.4112!MINAH!/]
 
@@ -7936,7 +7936,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!999.001!DESCRIPTION!/]
 	
@@ -7966,7 +7966,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!999.006!DESCRIPTION!/]
 	
@@ -8057,7 +8057,7 @@ RUHI
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.3000!RUHI!]
 		||
-		*"Many are they who are content to live on as though their life were an inexhaustable well."*
+		*"Many are they who are content to live on as though their life were an inexhaustible well."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.3001!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.3000!RUHI!/]
 	
@@ -8077,7 +8077,7 @@ RUHI
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4000!RUHI!]
 		||
-		*"Even if you find inexhaustable water, even if you defeat all your enemies, even if you outwit the wiles of the Jinns themselves, death is patiently waiting at the end of it all to rip your Trueflesh from the false!"*
+		*"Even if you find inexhaustible water, even if you defeat all your enemies, even if you outwit the wiles of the Jinns themselves, death is patiently waiting at the end of it all to rip your Trueflesh from the false!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4001!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4000!RUHI!/]
 	
@@ -8218,13 +8218,13 @@ RUHI
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.X001!RUHI!]
 		||
-		*"I see. Well, if you get a chance, you should visit; there is much to learn from the barren treebed there."*
+		*"I see. Well, if you get a chance, you should visit; there is much to learn from the barren tree bed there."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.X700!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.X001!RUHI!/]
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.002!RUHI!]
 		||
-		*"There perhaps you noticed the barren treebed? The spot where our Muninn should be?"*
+		*"There perhaps you noticed the barren tree bed? The spot where our Muninn should be?"*
 		(A#"I saw it."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.0030!RUHI!}
 		(B#"I don't recall."){B:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.0031!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.002!RUHI!/]
@@ -8237,7 +8237,7 @@ RUHI
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.0031!RUHI!]
 		||
-		*"Ah, well, there is much history permeating the empty soil of that treebed."*
+		*"Ah, well, there is much history permeating the empty soil of that tree bed."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.0032!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.0031!RUHI!/]
 	
@@ -8268,7 +8268,7 @@ RUHI
 >>>Absorbed Muninn Tome in Sanc (12308)<<<
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.X100!RUHI!]
 		|^12308:KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.1001!RUHI!|
-		*"When Ysmaz refused to recognize the mantle of Archmage, he not only stole away our destiny as the centre of a new Kabu, but condemned us to a life without a living memory."* 
+		*"When Ysmaz refused to recognize the mantle of Archmage, he not only stole away our destiny as the center of a new Kabu, but condemned us to a life without a living memory."* 
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.1000!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.X100!RUHI!/]
 	
@@ -8282,7 +8282,7 @@ RUHI
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.1001!RUHI!]
 		||
-		*"When Ysmaz refused to recognize the mantle of Archmage, he not only stole away our destiny as the centre of a new Kabu, but condemned us to a life without a living memory."* 
+		*"When Ysmaz refused to recognize the mantle of Archmage, he not only stole away our destiny as the center of a new Kabu, but condemned us to a life without a living memory."* 
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.1002!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.1001!RUHI!/]
 	
@@ -8455,7 +8455,7 @@ RUHI
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.6000!RUHI!]
 		||
-		*"No, I was referring to the fact that when Ysmaz refused to recognize the mantle of Archmage, he not only stole away our destiny as the centre of a new Kabu, but also condemned us to a life without a living memory."*
+		*"No, I was referring to the fact that when Ysmaz refused to recognize the mantle of Archmage, he not only stole away our destiny as the center of a new Kabu, but also condemned us to a life without a living memory."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.6001!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.6000!RUHI!/]
 	
@@ -8475,7 +8475,7 @@ RUHI
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.6003!RUHI!]
 		||
-		*"No, I was referring to the fact that when Ysmaz refused to recognize the mantle of Archmage, he not only stole away our destiny as the centre of a new Kabu, but also condemned us to a life without a living memory."*
+		*"No, I was referring to the fact that when Ysmaz refused to recognize the mantle of Archmage, he not only stole away our destiny as the center of a new Kabu, but also condemned us to a life without a living memory."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.6004!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.6003!RUHI!/]
 	
@@ -8721,7 +8721,7 @@ revived the Muninn tree
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!2.403!RUHI!]
 		||
-		*"Thank you, for shining the light of Awarness upon me once more, outlander."*
+		*"Thank you, for shining the light of Awareness upon me once more, outlander."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!2.X3001!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!2.403!RUHI!/]	
 	
@@ -8757,7 +8757,7 @@ WALLS
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0000!DESCRIPTION!]
 		||
-		*Barely revealed vistas swirl in and out of perceptibility. Whether the ever-shifting shapes be structures, mountains or some other bizarre and twisted feature is impossible to determine - as fixing her gaze on a single point fails to coax the distant dancing visions to coalesce into a definitive form.*
+		*Barely revealed vistas swirl in and out of perception. Whether the ever-shifting shapes be structures, mountains or some other bizarre and twisted feature is impossible to determine - as fixing her gaze on a single point fails to coax the distant dancing visions to coalesce into a definitive form.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.0001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0000!DESCRIPTION!/]
 	
@@ -8770,7 +8770,7 @@ WALLS
 	[/KABU!DAWN FORTRESS!WALLS!0.0002!DESCRIPTION!]
 		||
 		*Eidos soon brings her attention back to the woman herself. Hardened by sights unmentionable, tested by trials unbearable, yet retaining an unmistakable grace in spite of this. Eidos' eyes leave the foreground and sharpen their focus of what lies beyond the Wasteland-obsessed warrior: a passage of stairs toward the southern end of the wall leads down into the fortress wall itself.*
-		(A#Descend the stairs to the Amphitheatre){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
+		(A#Descend the stairs to the Amphitheater){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
 		(B#Descend the stairs leading into the wall){B:0,KABU!DAWN FORTRESS!ARCHIVES!0.X000!DESCRIPTION!}
 		(C#Approach the woman to talk){C:0,KABU!DAWN FORTRESS!WALLS!0.X001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0002!DESCRIPTION!/]
@@ -8783,14 +8783,14 @@ WALLS
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0006!DESCRIPTION!]
 		||
-		*Barely revealed vistas swirl in and out of perceptibility. Whether the ever-shifting shapes be structures, mountains or some other bizarre and twisted feature is impossible to determine - as fixing her gaze on a single point fails to coax the distant dancing visions to coalesce into a definitive form.*
+		*Barely revealed vistas swirl in and out of perception. Whether the ever-shifting shapes be structures, mountains or some other bizarre and twisted feature is impossible to determine - as fixing her gaze on a single point fails to coax the distant dancing visions to coalesce into a definitive form.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.0007!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0006!DESCRIPTION!/] 
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0007!DESCRIPTION!]
 		||	
 		*Looking about, Eidos sees that she is now utterly alone here. Fwayya, who was once gazed purposefully off toward the northeast, has already departed on her fateful journey into the Wastes. But not all has abandoned Eidos upon these walls, as the familiar passage of stairs toward the southern end of the wall leading to the Archives remains accessible.*
-		(A#Descend the stairs to the Amphitheatre){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
+		(A#Descend the stairs to the Amphitheater){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
 		(B#Descend the stairs leading into the wall){B:0,KABU!DAWN FORTRESS!ARCHIVES!0.X000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0007!DESCRIPTION!/]
 	
@@ -8803,28 +8803,28 @@ WALLS
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.X0010!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!WALLS!0.0011!DESCRIPTION!|
-		*The conversation now over, both Eidos and Fwayya stare off into the distance. The winds howl at the fortress gates, while the sun roasts the horizon, and in between the sands shift peacefully from dune to wretched dune in the grip of lifelessness. The Tacribian warrior seems to be attracted and bound to the inimical Wastes by some unseen and irresistible force, surely moreso than sanity would ever permit.*
+		*The conversation now over, both Eidos and Fwayya stare off into the distance. The winds howl at the fortress gates, while the sun roasts the horizon, and in between the sands shift peacefully from dune to wretched dune in the grip of lifelessness. The Tacribian warrior seems to be attracted and bound to the inimical Wastes by some unseen and irresistible force, surely more so than sanity would ever permit.*
 		(A#Take a final look and then leave){A:0,KABU!DAWN FORTRESS!WALLS!0.100!DESCRIPTION!}
 		(B#Address Fwayya once more){B:0,KABU!DAWN FORTRESS!WALLS!9999.X0205!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.X0010!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0011!DESCRIPTION!]
 		||
-		*Fwayya at last turns around, nods sullenly and begins her descent toward the Amphitheatre. Though her facade may be strong and independent, an innocent honesty betrays immeasurable sadness in her furrowed brow.*
+		*Fwayya at last turns around, nods sullenly and begins her descent toward the Amphitheater. Though her facade may be strong and independent, an innocent honesty betrays immeasurable sadness in her furrowed brow.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.100!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0011!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.100!DESCRIPTION!]
 		||
 		*Eidos stands atop the walls of the Dawn Fortress looking off into the distance one last time. A temporary focusing of the vapors and stilling of the winds reveals a clearer picture. Far off to the east is a structure leading down into a valley of some sort. To the southeast a shining black crater belches mephitic fumes. And scanning back toward the northeast she sees a forest of symmetrically arranged pillars of the whitest salt.*
-		(A#Go back down the stairs to the Amphitheatre){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
+		(A#Go back down the stairs to the Amphitheater){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
 		(B#Walk down the southern stairs into the Archives){B:0,KABU!DAWN FORTRESS!ARCHIVES!0.X000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.100!DESCRIPTION!/]
 	
 killed someone in the area
 	[/KABU!DAWN FORTRESS!WALLS!0099.000!DESCRIPTION!]
 		||
-		*Before the Fawayya can succumb to her injuries, a look of proud determination falls upon a point behind Eidos. Turning about, she sees that summons unheard have called forth the master of this fortress. The sinewy frame of Khlutt, commander of the Tacribian League, now silently glides up onto the walls.*
+		*Before Fwayya can succumb to her injuries, a look of proud determination falls upon a point behind Eidos. Turning about, she sees that summons unheard have called forth the master of this fortress. The sinewy frame of Khlutt, commander of the Tacribian League, now silently glides up onto the walls.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0099.001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0099.000!DESCRIPTION!/]
 	
@@ -8843,7 +8843,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!WALLS!999.001!DESCRIPTION!]
 		||
-		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stonefaced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
+		*Other guards inspect the body of their fallen mage and shake their heads in confirmation of his departure from the Falseflesh. In clockwork unison, the warriors gather around Eidos. Wordlessly, they move, as though compelled by the unspoken directives of their slain commander, the flame of his instructions still burning brightly within them. Stone-faced, they begin their task, like a cadre of unthinking, unfeeling Neverborn automata.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!999.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!999.001!DESCRIPTION!/]
 	
@@ -8873,7 +8873,7 @@ khlutt killed
 	
 	[/KABU!DAWN FORTRESS!WALLS!999.006!DESCRIPTION!]
 		||
-		*The warriors sombrely sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
+		*The warriors somberly sing a mournful dirge for their fallen leader as they witness Eidos' departure from the Falseflesh, knowing she will now go to do battle with Khlutt in the Graylands...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!999.006!DESCRIPTION!/]
 	

@@ -1027,7 +1027,7 @@ MATHETIA
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!]
 		||
-        *His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, caught in its invisible vortex. Closer, closer, ever closer he falls, in towards the goliath's center. Round and round he goes, soon brushing up against the dark iron railing surrounding the tree. The body's fear instinctively draws eyes to the bottomless chasm the other side of the railing, that mysterious pit housing the Muninn's roots. All attempts to plumb its depths are always just rewarded with death and confusion. A stone dropped into the darkness will make no sound upon hitting the bottom - if it ever does. Even the Munnin's ghostly light eventually succumbs to the abyss' appetite...*
+        *His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, caught in its invisible vortex. Closer, closer, ever closer he falls, in towards the goliath's center. Round and round he goes, soon brushing up against the dark iron railing surrounding the tree. The body's fear instinctively draws eyes to the bottomless chasm the other side of the railing, that mysterious pit housing the Muninn's roots. All attempts to plumb its depths are always just rewarded with death and confusion. A stone dropped into the darkness will make no sound upon hitting the bottom - if it ever does. Even the Muninn's ghostly light eventually succumbs to the abyss' appetite...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X00112!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!/]
 
@@ -1215,7 +1215,7 @@ BEAST LORD
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00203!BEAST LORD!]
 		||
-        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on Munnins."*
+        *"Ormenos has been utterly negligent in his duties to us, his only family! Idling time away as though it grew on Muninns."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00204!BEAST LORD!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00203!BEAST LORD!/]
 
@@ -2484,7 +2484,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00138!DESCRIPTION!]
 		||
-		*Though abundant beyond measure are the Munnin's memories, even it does not know infinity. But now, Ormenos feels the crushing weight of the boundless on his Trueflesh. In an instant, all knowledge - past, future, and present - flows through him.*
+		*Though abundant beyond measure are the Muninn's memories, even it does not know infinity. But now, Ormenos feels the crushing weight of the boundless on his Trueflesh. In an instant, all knowledge - past, future, and present - flows through him.*
         (A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.001380!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00138!DESCRIPTION!/]
 
