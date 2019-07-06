@@ -11,21 +11,21 @@ khaa
 	
 	She can do nothing as Khaa casually walks forward while producing a knife, this one quite real, from his robes. He smiles contemptuously as he draws a matching grin across her throat with his blade...
 	
-	His smile fades as Eidos feels her skin harden and crystalize against the knife edge. Using the moment of confusion, she grips his wrinkled throat in one hand and drives diamond-hard knuckles into his face with the other. 
+	His smile fades as Eidos feels her skin harden and crystallize against the knife edge. Using the moment of confusion, she grips his wrinkled throat in one hand and drives diamond-hard knuckles into his face with the other. 
 	
-	As his teeth fall from his jaw, so too does whatever hold over her mind he once held. Within moments, Khaa lies dead upon the ground, his head stove in by Eidos' bloddy fist.3*	
+	As his teeth fall from his jaw, so too does whatever hold over her mind he once held. Within moments, Khaa lies dead upon the ground, his head stove in by Eidos' bloody fist.3*	
 	*14:
 	Eidos feels her temples burn in pain as Khaa calls forth Glyphs to dissect her will and memory. As she sends forth the Glyph of Corruption in her counterstroke, the mage's eyes narrow in seeming recognition. 
 	
 	It seems as if his Glyphs of control act as a conduit through which Eidos can perceive the agony beginning to wrack his body, as though his very blood were boiling. 
 	
-	Khaa opens his mouth to scream but all that comes forth is a torrent of blood and gore as he begins vomitting up his liquefying organs. 
+	Khaa opens his mouth to scream but all that comes forth is a torrent of blood and gore as he begins vomiting up his liquefying organs. 
 	
 	Eidos is released from his hold when she finally feels Glyphs dissolve along with what remains of her victim's brain.14*
 	@
 	Eidos moves to attack Khaa, but soon finds herself nearly blind with pain. It is as if her temples were being assaulted by knives of white hot fire. 
 	
-	She can do nothing as Khaa casually summons forth an immolating Glyph. Beads of sweat form upon her brow and her temperature steadily rises, rises, soars. Suddenly, she feels all the organs in her body simultaenously ignite turning her into a human torch while her ghost is burned out of her.@
+	She can do nothing as Khaa casually summons forth an immolating Glyph. Beads of sweat form upon her brow and her temperature steadily rises, rises, soars. Suddenly, she feels all the organs in her body simultaneously ignite turning her into a human torch while her ghost is burned out of her.@
 [3/]
 
 famlicus
@@ -67,17 +67,17 @@ adarin
 	*1:
 	Eidos closes distance and strikes Adarin with her bare fists. The blow knocks him to the cold cave floor. Equally cold blue eyes stare at Eidos lacking all emotion as she mounts her victim's chest and slams her palm into the bridge of his nose. 
 	
-	The former mage makes no attempts to defend himself as she grabs his head and bashes it continously against the rocky floor of the stone. Black blood begins to pool and takes on a hue of crimson as it creeps into the shaft of light. 
+	The former mage makes no attempts to defend himself as she grabs his head and bashes it continuously against the rocky floor of the stone. Black blood begins to pool and takes on a hue of crimson as it creeps into the shaft of light. 
 	
 	The killing at its end, the limp, lifeless body is all that remains of Adarin.1*
 	*2:
-	Eidos draws back Luin to strike. Her feint to his head before thrusting into his heart is unneccessary, as Adarin makes no effort to defend himself. 
+	Eidos draws back Luin to strike. Her feint to his head before thrusting into his heart is unnecessary, as Adarin makes no effort to defend himself. 
 	
 	The hermit only utters a soft involuntary moan as his lungs are deflated when Luin is drawn from the gaping wound.
 	
 	The killing at its end, the limp, lifeless body is all that remains of Adarin.2*
 	*3:
-	Eidos' skin hardens like diamond before impacting the skull of Adarin. The shockwave liquefies his brain killing him instantly. 
+	Eidos' skin hardens like diamond before impacting the skull of Adarin. The shock wave liquefies his brain killing him instantly. 
 	
 	The killing at its end, the limp, lifeless body is all that remains of Adarin, the Beast Lord. He offered no resistance and thus his blood sours Luin's tongue.3* 
 	*14:
@@ -85,7 +85,7 @@ adarin
 	@ADARIN WILL NOT FIGHT BACK UNDER ANY CIRCUMSTANCES@
 [12/]
 
-pakharon
+pakahron
 [/13]
 	*14:
 	Eidos can immediately feel Pakahron's mind calling forth multiple Glyphs. As though through instinct, her thoughts immediately project the Glyph of Corruption. Whatever phrases of destructive Techne the mage may have been calling forth are abruptly halted by putrefaction sweeping through his brain. 
@@ -100,7 +100,7 @@ pakharon
 khlutt
 [/14]
 	*14:
-	Khlutt's mind reaches forth to dull Eidos' reflexes, as he loads up a strike to her face. As the centre of his body unwinds to release the blow, the fibres of muscle that drive his motion unravel and are putrefied by the Glyph of Corruption. 
+	Khlutt's mind reaches forth to dull Eidos' reflexes, as he loads up a strike to her face. As the center of his body unwinds to release the blow, the fibers of muscle that drive his motion unravel and are putrefied by the Glyph of Corruption. 
 	
 	His misdirected momentum casts his body to the floor, landing with a sickening splatter of bone-eating plasma. The Glyph he had conjured dissipates and Eidos is free to witness the spasming heap of melting flesh that was once such a formidable physical force quickly dissolve into nothing.14*
 	@
@@ -167,7 +167,7 @@ doruk
 mert
 [/51]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Mert crumbles in a blood-soaked heap.2*
 	*3:
@@ -202,7 +202,7 @@ jerhaak
 cetin
 [/53]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Cetin crumbles in a blood-soaked heap.2*
 	*3:
@@ -222,7 +222,7 @@ cetin
 serpil 
 [/54]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Serpil crumbles in a blood-soaked heap.2*
 	*3:
@@ -258,7 +258,7 @@ aydin
 cozkuin
 [/56]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Cozkuin crumbles in a blood-soaked heap.2*
 	*3:
@@ -294,7 +294,7 @@ pembe
 rashak
 [/58]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Rashak crumbles in a blood-soaked heap.2*
 	*3:
@@ -314,9 +314,9 @@ rashak
 akara
 [/59]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
-	A ragged exhalation serves as the song's cadence as Galip crumbles in a blood-soaked heap.2*
+	A ragged exhalation serves as the song's cadence as Akara crumbles in a blood-soaked heap.2*
 	*3:
 	Luin's thirst for blood, now shared by Eidos, beckons for a Daziran sacrifice. Eidos, cripples her foe with kicks that smash her bones. 
 	
@@ -334,7 +334,7 @@ akara
 galip
 [/60]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Galip crumbles in a blood-soaked heap.2*
 	*3:
@@ -370,7 +370,7 @@ hazan
 diygu
 [/62]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Diygu crumbles in a blood-soaked heap.2*
 	*3:
@@ -414,7 +414,7 @@ egimen
 	
 	In but a few moments, what remains of the Daziran artisan is barely recognizable as human.14*
 	@
-	Eidos takes a wild swing at Hazan's head. As the two begin to brawl, it is not long before other Dazirans come to their fellow's aid. 
+	Eidos takes a wild swing at Egimen's head. As the two begin to brawl, it is not long before other Dazirans come to their fellow's aid. 
 	
 	Eidos is quickly beaten to death by the enraged mob of Dazirans.@
 [64/]
@@ -422,7 +422,7 @@ egimen
 sidika
 [/65]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The youg girl's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The young girl's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Sidika crumbles in a blood-soaked heap.2*
 	*3:
@@ -456,7 +456,7 @@ koray
 kadir
 [/67]
 	*2:
-	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signalling the blade's rough entrance into its victim's rib cage.
+	As Eidos draws forth Luin, a faint resonance can be heard drifting through the air. The Daziran's eyes widen in horror as the crystalline tone is joined in harmony by the sound of glass scraping on bone, signaling the blade's rough entrance into its victim's rib cage.
 	
 	A ragged exhalation serves as the song's cadence as Kadir crumbles in a blood-soaked heap.2*
 	*3:
@@ -478,7 +478,7 @@ rada
 	*2:
 	The elderly woman moves as one would expect. Eidos taunts her with stabs that pierce the crone's limbs, but soon tires of it as the old hag's screams only weaken with each wound. 
 	
-	Luin's interest is frusterated with such trivial play. Eidos can feel the urge for more violence radiating down through the blade's hilt.2*
+	Luin's interest is frustrated with such trivial play. Eidos can feel the urge for more violence radiating down through the blade's hilt.2*
 	*3:
 	The elderly woman moves as one would expect. Eidos taunts her by breaking all the major bones her body in sequence, but soon tires of it as the old hag's screams only weaken with each fracture. 
 	
@@ -510,7 +510,7 @@ quangjo
 	*14:
 	Quangjo's eyes widen in a mixture of recognition and horror as the Glyph of Corruption unravels the forms that bind his flesh, organs and bone together. Eidos can feel him desperately calling a Glyph to mind as he begins shrieking in agony. 
 	
-	Suddenly, the scream becomes an idiotic moan and his techne is snuffed like a candle. The frail man's eyes begin leaking blood before his fragile skull caves in as his brain collapses. 
+	Suddenly, the scream becomes an idiotic moan and his Techne is snuffed like a candle. The frail man's eyes begin leaking blood before his fragile skull caves in as his brain collapses. 
 	
 	Quangjo's dark robe is now little more that a cloth bag holding what remains of the Librarian's rotting corpse.14*
 	@
@@ -522,11 +522,11 @@ asansor
 	*2:
 	The elderly man moves as one would expect. Eidos taunts him with stabs that pierce his limbs, but soon tires of it as the old fool's screams only weaken with each wound. 
 	
-	Luin's interest is frusterated with such trivial play. Eidos can feel the urge for more violence radiating down through the blade's hilt.2*
+	Luin's interest is frustrated with such trivial play. Eidos can feel the urge for more violence radiating down through the blade's hilt.2*
 	*3:
 	The elderly man moves as one would expect. Eidos taunts him by breaking all the major bones his body in sequence, but soon tires of it as the old fool's screams only weaken with each fracture. 
 	
-	Luin's interest is frusterated with such trivial play. Eidos can feel the urge for more violence radiating from within her bones.3*
+	Luin's interest is frustrated with such trivial play. Eidos can feel the urge for more violence radiating from within her bones.3*
 	*14:
 	Asansor shrieks in agony as the Glyph of Corruption unravels the forms that bind his flesh, organs and bone together. He screams and screams, until his lungs are dissolved from within. 
 	
@@ -614,7 +614,7 @@ dary
 kaleki
 [/106]
 	*2:
-	As Eidos draws Luin, the Librarian begins clumsily muttering what might be the vocalisation of a Glyph. Before her utterance has completed, the ghelblade cuts through the air in her direction. 
+	As Eidos draws Luin, the Librarian begins clumsily muttering what might be the vocalization of a Glyph. Before her utterance has completed, the ghelblade cuts through the air in her direction. 
 	
 	While once the Kaleki may have pored over volumes in this Archive, now she pours only her blood upon the floor from the stump where head was but a moment ago.2*
 	*3:
@@ -634,7 +634,7 @@ reba
 	
 	Rage. Joy. Hatred. Exhilaration. Disgust. Regret. Eidos feels all these emotions and more. Is it she or Luin that is the source of these feelings? Has she been robbed of her will? Is she a victim of her passions and not their master? 
 	
-	Looking down upon the sour expression of the lumpen face staring up at her, the torrent of emotion in her twined soul is centred, though by no means diminished, and all doubt is banished like mist in the sun by a clarion conviction: It does not matter. 
+	Looking down upon the sour expression of the lumpen face staring up at her, the torrent of emotion in her twined soul is centered, though by no means diminished, and all doubt is banished like mist in the sun by a clarion conviction: It does not matter. 
 	
 	Nothing matters now. Nothing but the fulfillment of their mission.
 	
@@ -710,7 +710,7 @@ ablah
 	*3:
 	Without warning, Eidos seizes the head of the Tambulan and pulls it into her rising knee. The blow pulverizes the neck vertebrae with an audible pop, ending Ablah's life immediately.3*
 	*14:
-	Ablahs' hands grip his throat as the Glyph of Corruption takes hold. The scream that erupts from him pierces the dry air and is halted only when his mouth becomes filled with blood. 
+	Ablah's hands grip his throat as the Glyph of Corruption takes hold. The scream that erupts from him pierces the dry air and is halted only when his mouth becomes filled with blood. 
 	
 	Crimson tears weeping from his eyes, ears and nose, the Tambulan casts himself to the dust, writhing about for only a second before all life has been snuffed, leaving a pile of flesh melting from ruddy bones.14*
 	@
@@ -774,7 +774,7 @@ dysmas
 	
 	Dysmas slips free of the hold and steps around, expertly landing a powerful blow into her liver. 
 	
-	Eidos collapes to her knees in crippling pain before Dysmas swings his shin directly into her skull...@
+	Eidos collapses to her knees in crippling pain before Dysmas swings his shin directly into her skull...@
 [114/]
 
 brus
@@ -878,7 +878,7 @@ logira
 	*14:
 	Logira clutches her abdomen in pain as the Glyph of Corruption takes hold in her form. She moves to strike at Eidos, but instead collapses on the ground, coughing up bile. 
 	
-	This bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by her self-annihilating plasma.14*
+	This bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by her self-annihilating plasma.14*
 	@
 	Before Eidos can make a motion, she sees that Logira has drawn a wide, curved sword from within the folds of her robe. With preternatural awareness, the Librarian steps away from the space where Eidos' blow will land and slices cleanly through her leg. 
 	
@@ -900,7 +900,7 @@ yarmak
 	*14:
 	Yarmak clutches her abdomen in pain as the Glyph of Corruption takes hold in her form. She moves to strike at Eidos, but instead collapses on the ground, coughing up bile. 
 	
-	This bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by her self-annihilating plasma.14*
+	This bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by her self-annihilating plasma.14*
 	@
 	Eidos takes a wild swing and strikes nothing but air as the Tacribian skillfully steps out of range. 
 	
@@ -914,17 +914,17 @@ fidan
 	
 	However, Luin seems more than up to the task. Having no choice, Eidos gives her free will up to her weapon. As soon as it is freed from her command, the sword immediately deflects an oncoming cut from one hand and strikes the fingers from the other. 
 	
-	While the Tacribian is not finished, neither is Luin. Eidos is compelled to feign retreat before thrusting into Findan's wild swing, slamming the ghelblade into his sternum. 
+	While the Tacribian is not finished, neither is Luin. Eidos is compelled to feign retreat before thrusting into Fidan's wild swing, slamming the ghelblade into his sternum. 
 	
-	The fighter is dead and Edios can tell Luin will not release her until all others meet the same fate.2*
+	The fighter is dead and Eidos can tell Luin will not release her until all others meet the same fate.2*
 	*3:
 	Eidos swings her unbreakable fist towards the warrior. Though, Eidos is surprised to strike nothing but air. The warrior draws two knives and begins launching a flurry of attacks towards Eidos' face. The blades leave nary a scratch on her diamond-hard skin. 
 	
-	Eidos then easily seizes both her assailant's wrists and begins slamming her forehead into her face. Findan lies at her feet, groaning, bleeding and dying.3*
+	Eidos then easily seizes both her assailant's wrists and begins slamming her forehead into her face. Fidan lies at her feet, groaning, bleeding and dying.3*
 	*14:
 	Fidan clutches his abdomen in pain as the Glyph of Corruption takes hold in his form. He moves to strike at Eidos but instead collapses on the ground, coughing up bile. 
 	
-	This bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by his self-annihilating plasma.14*
+	This bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by his self-annihilating plasma.14*
 	@
 	Eidos takes a wild swing and strikes nothing but air as the Tacribian skillfully steps out of range. 
 	
@@ -940,7 +940,7 @@ minah
 	
 	While the Tacribian is not finished, neither is Luin. Eidos is compelled to feign retreat before thrusting into Minah's wild swing, slamming the ghelblade into her sternum. 
 	
-	The fighter is dead and Edios can tell Luin will not release her until all others meet the same fate.2*
+	The fighter is dead and Eidos can tell Luin will not release her until all others meet the same fate.2*
 	*3:
 	Eidos swings her unbreakable fist towards the warrior. Though, Eidos is surprised to strike nothing but air. The warrior draws two knives and begins launching a flurry of attacks towards Eidos' face. The blades leave nary a scratch on her diamond-hard skin. 
 	
@@ -948,7 +948,7 @@ minah
 	*14:
 	Minah clutches her abdomen in pain as the Glyph of Corruption takes hold in her form. He moves to strike at Eidos but instead collapses on the ground, coughing up bile. 
 	
-	This bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by her self-annihilating plasma.14*
+	This bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by her self-annihilating plasma.14*
 	@
 	Eidos takes a wild swing and strikes nothing but air as the Tacribian skillfully steps out of range. 
 	
@@ -974,7 +974,7 @@ fwayya
 	*14:
 	Fwayya clutches her abdomen in pain as the Glyph of Corruption takes hold in her form. She moves to strike at Eidos, but instead collapses on the ground, coughing up bile. 
 	
-	This bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by her self-annihilating plasma.
+	This bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by her self-annihilating plasma.
 	
 	Collapsing to the ground, Fwayya whispers what is clearly a name of some sort, perhaps 'Shen' or 'Shan,' before becoming silent. She then simply lies there, bleeding, glowering at Eidos, awaiting the moment of her death as a proud Tacribian.14*
 	@
@@ -992,7 +992,7 @@ ruhi
 	
 	While the Tacribian is not finished, neither is Luin. Eidos is compelled to feign retreat before thrusting into Ruhi's wild swing, slamming the ghelblade into her sternum. 
 	
-	The zealot is dead and Edios can tell Luin will not release her until all others meet the same fate.2*
+	The zealot is dead and Eidos can tell Luin will not release her until all others meet the same fate.2*
 	*3:
 	Eidos swings her unbreakable fist towards the elderly fanatic. Though, Eidos is surprised to strike nothing but air. The warrior draws two knives and begins launching a flurry of attacks towards Eidos' face. The blades leave nary a scratch on her diamond-hard skin. 
 	
@@ -1000,7 +1000,7 @@ ruhi
 	*14:
 	Ruhi clutches her abdomen in pain as the Glyph of Corruption takes hold in her form. She moves to strike at Eidos, but instead collapses on the ground, coughing up bile. 
 	
-	This bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by her self-annihilating plasma.14*
+	This bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by her self-annihilating plasma.14*
 	@
 	Eidos takes a wild swing and strikes nothing but air as the Tacribian skillfully steps out of range. 
 	
@@ -1044,7 +1044,7 @@ issam
 	*14:
 	Issam clutches his abdomen in pain as the Glyph of Corruption takes hold in his form. He moves to strike at Eidos but instead collapses on the ground, coughing up bile. 
 	
-	The bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by his self-annihilating plasma.14*
+	The bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by his self-annihilating plasma.14*
 	@
 	Eidos takes a wild swing and strikes nothing but air as the Tacribian skillfully steps out of range. 
 	
@@ -1060,7 +1060,7 @@ cire
 	
 	While the Tacribian is not finished, neither is Luin. Eidos is compelled to feign retreat before thrusting into Cire's wild swing, slamming the ghelblade into his sternum. 
 	
-	The verbose fighter is dead and Edios can tell Luin will not release her until all others meet the same fate.2*
+	The verbose fighter is dead and Eidos can tell Luin will not release her until all others meet the same fate.2*
 	*3:
 	Eidos swings her unbreakable fist towards the Tacribian warrior's flapping mouth. She is surprised to strike nothing but air, especially since the fool had been prattling on, seemingly heedless of her intent to end his blather once and for all. 
 	
@@ -1072,7 +1072,7 @@ cire
 	*14:
 	Cire clutches his abdomen in pain as the Glyph of Corruption takes hold in his form. He moves to strike at Eidos but instead collapses on the ground, coughing up bile. 
 	
-	The bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by his self-annihilating plasma.14*
+	The bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by his self-annihilating plasma.14*
 	@
 	Eidos takes a wild swing and strikes nothing but air as the Tacribian skillfully steps out of range. 
 	
@@ -1083,7 +1083,7 @@ diya
 [/211]
 	*--impossible to kill--*
 	@
-	The three conversants attack Eidos in unison; they are obviously well-practiced in team combat. 
+	The trio attacks Eidos in unison; they are obviously well-practiced in team combat. 
 	
 	Before Eidos' knows it, she is cornered. With the ever-changing array of thrusts, slashes, parries and ripostes, Eidos is battered about. It is only as her consciousness wanes that she realizes she had received several mortal, concussive wounds. 
 	
@@ -1094,7 +1094,7 @@ imat
 [/212]
 	*--impossible to kill--*
 	@
-	The three conversants attack Eidos in unison; they are obviously well-practiced in team combat. 
+	The trio attacks Eidos in unison; they are obviously well-practiced in team combat. 
 	
 	Before Eidos' knows it, she is cornered. With the ever-changing array of thrusts, slashes, parries and ripostes, Eidos is battered about. It is only as her consciousness wanes that she realizes she had received several mortal, concussive wounds. 
 	
@@ -1105,7 +1105,7 @@ xerk
 [/213]
 	*--impossible to kill--*
 	@
-	The three conversants attack Eidos in unison; they are obviously well-practiced in team combat. 
+	The trio attacks Eidos in unison; they are obviously well-practiced in team combat. 
 	
 	Before Eidos' knows it, she is cornered. With the ever-changing array of thrusts, slashes, parries and ripostes, Eidos is battered about. It is only as her consciousness wanes that she realizes she had received several mortal, concussive wounds. 
 	
@@ -1121,7 +1121,7 @@ karra
 	
 	But Luin does not slow its pace, raising high only to come down in a cleaving motion upon the aged woman's left shoulder.
 	
-	The zealot is dead and Edios can tell Luin will not release her until all others meet the same fate.2*
+	The zealot is dead and Eidos can tell Luin will not release her until all others meet the same fate.2*
 	*3:
 	Eidos swings her unbreakable fist towards the elderly Valvorthr. Though, Eidos is surprised to strike nothing but air. The zealot draws two knives and begins launching a flurry of attacks towards Eidos' face. 
 	
@@ -1129,9 +1129,9 @@ karra
 	*14:
 	Karra clutches her abdomen in pain as the Glyph of Corruption takes hold in her form. She staggers towards Eidos before collapsing on the floor, coughing up bile. 
 	
-	The bile gives way to blood, and the blood gives way to liquified organs as the aged woman is eaten from within by her self-annihilating plasma.14*
+	The bile gives way to blood, and the blood gives way to liquefied organs as the aged woman is eaten from within by her self-annihilating plasma.14*
 	@
-	Eidos takes a wild swing and strikes nothing but air as the aged Valvorthr steps under the blow with suprising agility. 
+	Eidos takes a wild swing and strikes nothing but air as the aged Valvorthr steps under the blow with surprising agility. 
 	
 	Eidos strikes again, only to discover blood flowing freely from a wound in her side. She begins to feel faint. 
 	
@@ -1147,7 +1147,7 @@ qust
 	
 	While the Tacribian is not finished, neither is Luin. Eidos is compelled to feign retreat before thrusting into Qust's wild swing, slamming the ghelblade into his sternum. 
 	
-	The fighter is dead and Edios can tell Luin will not release her until all others meet the same fate.2*
+	The fighter is dead and Eidos can tell Luin will not release her until all others meet the same fate.2*
 	*3:
 	Eidos swings her unbreakable fist towards the warrior. Though, Eidos is surprised to strike nothing but air. The warrior draws two knives and begins launching a flurry of attacks towards Eidos' face. The blades leave nary a scratch on her diamond-hard skin. 
 	
@@ -1155,7 +1155,7 @@ qust
 	*14:
 	Qust clutches his abdomen in pain as the Glyph of Corruption takes hold in his form. He moves to strike at Eidos but instead collapses on the ground, coughing up bile. 
 	
-	The bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by his self-annihilating plasma.14*
+	The bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by his self-annihilating plasma.14*
 	@
 	Eidos takes a wild swing and strikes nothing but air as the Tacribian skillfully steps out of range. 
 	
@@ -1171,7 +1171,7 @@ malik
 	
 	While the Tacribian is not finished, neither is Luin. Eidos is compelled to feign retreat before thrusting into Malik's wild swing, slamming the ghelblade into his sternum. 
 	
-	The fighter is dead and Edios can tell Luin will not release her until all others meet the same fate.2*
+	The fighter is dead and Eidos can tell Luin will not release her until all others meet the same fate.2*
 	*3:
 	Eidos swings her unbreakable fist towards the elderly fanatic. Though, Eidos is surprised to strike nothing but air. The warrior draws two knives and begins launching a flurry of attacks towards Eidos' face. The blades leave nary a scratch on her diamond-hard skin. 
 	
@@ -1179,7 +1179,7 @@ malik
 	*14:
 	Malik clutches his abdomen in pain as the Glyph of Corruption takes hold in his form. He moves to strike at Eidos but instead collapses on the ground, coughing up bile. 
 	
-	The bile gives way to blood, and the blood gives way to liquified organs as the warrior is eaten from within by his self-annihilating plasma.14*
+	The bile gives way to blood, and the blood gives way to liquefied organs as the warrior is eaten from within by his self-annihilating plasma.14*
 	@
 	Eidos takes a wild swing and strikes nothing but air as the Tacribian skillfully steps out of range. 
 	
@@ -1257,7 +1257,7 @@ hubbiyh
 	*14:
 	The muscles of the two warriors flex instinctively as a wave of agony ripples through their flesh. Their strength and training become meaningless as their bones, muscles and brains are assailed from within. They scream until their lungs collapse. They live until their hearts burst. They quiver until their very being is erased.14*
 	@
-	The old Tacribian veteran wastes no time and immediately severs all of Eidos' tendons, leaving her immobile. An immobility that lasts for the length of a hyperventalitive breath as the final swing of his spear lops Eidos' head cleanly off.@
+	The old Tacribian veteran wastes no time and immediately severs all of Eidos' tendons, leaving her immobile. An immobility that lasts for the length of a hyperventilative breath as the final swing of his spear lops Eidos' head cleanly off.@
 [403/]
 
 nadub
@@ -1269,19 +1269,19 @@ nadub
 	
 	Brimming with joy, the blade pulls Eidos into a reckless forward roll, swinging upwards and dividing the torso of its opponent in a vertical cut.
 	
-	Eidos looks around but her initial target seems to have vanished in the fray. Nardub is nowhere to be seen.2*
+	Eidos looks around but her initial target seems to have vanished in the fray. Nadub is nowhere to be seen.2*
 	*3:
 	Nadub screams and runs as the Tacribian guards rush to his defense. They deal countless cuts and thrusts to Eidos, in a flurry that would have ended her life many times over were it not for Luin's protection. When exhaustion begins to slow their movements, their attack becomes hampered further by bone-shattering blows. In a few more moments it is over.
 	
-	Eidos looks around but her initial target seems to have vanished in the fray. Nardub is nowhere to be seen.3*
+	Eidos looks around but her initial target seems to have vanished in the fray. Nadub is nowhere to be seen.3*
 	*14:
-	Nadub screams and runs as the Tacribian guards rush to his defense. Alas, the muscles of two warriors flex instinctively as a wave of agony ripples through their flesh. Their strength and training become meaningless as their bones, muscles and brain are assailed from within. They scream until their lungs collapse. They live until their hearts burst. They quiver until their very being is disolved.
+	Nadub screams and runs as the Tacribian guards rush to his defense. Alas, the muscles of two warriors flex instinctively as a wave of agony ripples through their flesh. Their strength and training become meaningless as their bones, muscles and brain are assailed from within. They scream until their lungs collapse. They live until their hearts burst. They quiver until their very being is dissolved.
 	
-	Eidos looks around but her initial target seems to have vanished in the fray. Nardub is nowhere to be seen.14*
+	Eidos looks around but her initial target seems to have vanished in the fray. Nadub is nowhere to be seen.14*
 	@
 	Nadub screams in horror and runs for dear life. Hubbiyh, with a speed uncharacteristic of his age, comes to his defense. 
 	
-	He immediately severs all of Eidos' tendons, leaving her immobile. An immobility that lasts for the length of a hyperventalitive breath as the final swing of his spear lops Eidos' head cleanly off.@
+	He immediately severs all of Eidos' tendons, leaving her immobile. An immobility that lasts for the length of a hyperventilative breath as the final swing of his spear lops Eidos' head cleanly off.@
 [404/]
 
 
@@ -1298,7 +1298,7 @@ clockwork crows
 	
 	In the briefest of moments, the ghelblade abandons her skin and Luin arcs up through the bodies of the two creatures, dividing them in twain and splattering an azure fluid over her body.
 	
-	Eidos rises wearily to her feet and gazes upon the avian beings as their forms crumble away into piles of oxidied dust, then upon the quickly drying liquid that covers her body. She sees numerous gashes on her torso and feels a few more in her face. In the brief time of Luin's awakening, the talons punctured her flesh. 
+	Eidos rises wearily to her feet and gazes upon the avian beings as their forms crumble away into piles of oxidized dust, then upon the quickly drying liquid that covers her body. She sees numerous gashes on her torso and feels a few more in her face. In the brief time of Luin's awakening, the talons punctured her flesh. 
 	
 	The green shimmer within her skin tells her that the weapon slumbers within her once more.3*
 	@
@@ -1308,7 +1308,7 @@ clockwork crows
 mathelian
 [/503]
 	*2:
-	Eidos moves to unsheath Luin, but the Valvorthr act with surprising speed. In but a moment, they are upon her, crusted nails and rotten teeth biting into her flesh and bone. 
+	Eidos moves to unsheathe Luin, but the Valvorthr act with surprising speed. In but a moment, they are upon her, crusted nails and rotten teeth biting into her flesh and bone. 
 	
 	Before her death, Eidos sees her attackers spit her blood and skin from their darkened mouths in disgust.2*
 	*3:
@@ -1410,7 +1410,7 @@ magda
 [/607]
 	*--impossible to kill--*
 	@
-	Eidos lashes out and the unsuspecting woman immediately succumbs to the assault. The ragged denizens flee from their meagre living area while Eidos proceeds to end the fortune teller's worthless life. Scanning her eyes about, she looks for her next victim only to see guardians rushing from the Hall of Vanargand. There is little she can do against such a mob, and the striking blows from their crude cudgels soon render Eidos threatless. 
+	Eidos lashes out and the unsuspecting woman immediately succumbs to the assault. The ragged denizens flee from their meager living area while Eidos proceeds to end the fortune teller's worthless life. Scanning her eyes about, she looks for her next victim only to see guardians rushing from the Hall of Vanargand. There is little she can do against such a mob, and the striking blows from their crude cudgels soon render Eidos threatless. 
 	
 	It is not long before she is bound up in a rough net and borne aloft.@
 [607/]
@@ -1419,7 +1419,7 @@ whabyn
 [/608]
 	*--impossible to kill--*
 	@
-	Eidos lashes out and the unsuspecting man immediately succumbs to the assault. The ragged denizens flee from their meagre living area while Eidos proceeds to end the peddler's worthless life. Scanning her eyes about, she looks for her next victim only to see guardians rushing from the Hall of Vanargand. There is little she can do against such a mob, and the striking blows from their crude cudgels soon render Eidos threatless. 
+	Eidos lashes out and the unsuspecting man immediately succumbs to the assault. The ragged denizens flee from their meager living area while Eidos proceeds to end the peddler's worthless life. Scanning her eyes about, she looks for her next victim only to see guardians rushing from the Hall of Vanargand. There is little she can do against such a mob, and the striking blows from their crude cudgels soon render Eidos threatless. 
 	
 	It is not long before she is bound up in a rough net and borne aloft.@
 [608/]
@@ -1428,7 +1428,7 @@ gapa
 [/609]
 	*--impossible to kill--*
 	@
-	Eidos lashes out and the unsuspecting woman immediately succumbs to the assault. The ragged denizens flee from their meagre living area while Eidos proceeds to end the gossip's worthless life. Scanning her eyes about, she looks for her next victim only to see guardians rushing from the Hall of Vanargand. There is little she can do against such a mob, and the striking blows from their crude cudgels soon render Eidos threatless. 
+	Eidos lashes out and the unsuspecting woman immediately succumbs to the assault. The ragged denizens flee from their meager living area while Eidos proceeds to end the gossip's worthless life. Scanning her eyes about, she looks for her next victim only to see guardians rushing from the Hall of Vanargand. There is little she can do against such a mob, and the striking blows from their crude cudgels soon render Eidos threatless. 
 	
 	It is not long before she is bound up in a rough net and borne aloft.@
 [609/]
@@ -1455,7 +1455,7 @@ samesh
 [/612]
 	*--impossible to kill--*
 	@
-	Eidos lashes out and the unsuspecting woman immediately succumbs to the assault. There is no one nearby who can do anything to stop her as Eidos proceeds to end the despondant mother's worthless life. Scanning her eyes about, she looks for her next victim only to see guardians rushing from the Greenhouse. There is little she can do against such a mob, and the striking blows from their crude cudgels soon render Eidos threatless. 
+	Eidos lashes out and the unsuspecting woman immediately succumbs to the assault. There is no one nearby who can do anything to stop her as Eidos proceeds to end the despondent mother's worthless life. Scanning her eyes about, she looks for her next victim only to see guardians rushing from the Greenhouse. There is little she can do against such a mob, and the striking blows from their crude cudgels soon render Eidos threatless. 
 	
 	It is not long before she is bound up in a rough net and borne aloft.@
 [612/]
@@ -1481,7 +1481,7 @@ ark
 	
 	Ark strides forth and the shape strides with her. Glyphs begin manifesting all about Eidos. From the very Graylands itself the Glyphs arise and Eidos finds all perception has become warped and twisted. Her heart slows, her breath shallows and her blood begins to freeze. As her vision darkens, all feeling and thought are annihilated. She is reduced to nothing until the only thing that remains is her death...
 	
-	But then, luin comes from the inner recesses of Eidos' mind, as though of instinct, to strike his former companion through the heart. Death dealt without anger, without malice, this is the nature of the ghelblade Luin. Wielder of the past is not a title Luin recognizes, as it was never encoded into his being.
+	But then, Luin comes from the inner recesses of Eidos' mind, as though of instinct, to strike his former companion through the heart. Death dealt without anger, without malice, this is the nature of the ghelblade Luin. Wielder of the past is not a title Luin recognizes, as it was never encoded into his being.
 	
 	Ark, shocked to see, much less be slain by her former sword, realizes what this means and who she is facing. She collapses, thus ending the battle.2*
 	*3:
@@ -1489,7 +1489,7 @@ ark
 	
 	Ark strides forth and the shape strides with her. Glyphs begin manifesting all about Eidos. From the very Graylands itself the Glyphs arise and Eidos finds all perception has become warped and twisted. Her heart slows, her breath shallows and her blood begins to freeze. As her vision darkens, all feeling and thought are annihilated. She is reduced to nothing until the only thing that remains is her death...
 	
-	But then, luin springs forth from Eidos enveloping her form; what's more, purely of instinct, Luin strikes his former companion through the heart. Death dealt without anger, without malice, this is the nature of the ghelblade Luin. Wielder of the past is not a title Luin recognizes, as it was never encoded into his being.
+	But then, Luin springs forth from Eidos enveloping her form; what's more, purely of instinct, Luin strikes his former companion through the heart. Death dealt without anger, without malice, this is the nature of the ghelblade Luin. Wielder of the past is not a title Luin recognizes, as it was never encoded into his being.
 	
 	Ark, shocked to see, much less be slain by her former sword, realizes what this means and who she is facing. She collapses, thus ending the battle.3*
 	@
@@ -1543,15 +1543,15 @@ beast lord
 	*2:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Before the Beast Lord can react, his left arm is severed, though the wound is cauterized by the intense heat of the blade. Yet, he remains unphased, coldly signalling the other enforcers begin their counterattck.
+	Before the Beast Lord can react, his left arm is severed, though the wound is cauterized by the intense heat of the blade. Yet, he remains unfazed, coldly signaling the other enforcers begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
 	*3:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Before the Beast Lord can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unphased, coldly signalling the other enforcers begin their counterattck as he evades blow after blow from Ormenos' guided limbs.
+	Before the Beast Lord can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unfazed, coldly signaling the other enforcers begin their counterattack as he evades blow after blow from Ormenos' guided limbs.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
 	
 	Ormenos himself cannot believe that he has killed his brothers. What could have possessed him to take such actions? His mind spins with half-baked explanations and excuses for his actions. So overwhelmed is he that his psyche becomes crushed under the unbearable weight of awareness that his hands are tainted with the blood of innocent magi of his Order... There's no turning back now. All is lost. All is...3*
 	*14:
@@ -1559,9 +1559,9 @@ beast lord
 	
 	Yet he was not alone, was he? And Ormenos has this epiphany as the world before his eyes begins to darken and fade into nothingness.14*
 	@
-	Knowing absoluetly nothing about combat, Techne-based or otherwise, Ormenos charges at the Enforcer in some vain attempt to strike him down. The understandably shocked Beast Lord simply side steps the brutish assault, causing the off-balanced Ormenos to go careening into the rather unforgiving rigidity of a wall.
+	Knowing absolutely nothing about combat, Techne-based or otherwise, Ormenos charges at the Enforcer in some vain attempt to strike him down. The understandably shocked Beast Lord simply side steps the brutish assault, causing the off-balanced Ormenos to go careening into the rather unforgiving rigidity of a wall.
 	
-	The Beast Lord now regaining his compsure begins his counter-offensive against his dazed assailant. Before Ormenos can tell where he is being attacked from, a precisely landed strike causes the world around him to dim...@
+	The Beast Lord now regaining his composure begins his counter-offensive against his dazed assailant. Before Ormenos can tell where he is being attacked from, a precisely landed strike causes the world around him to dim...@
 [1200/]
 
 gate keeper
@@ -1569,19 +1569,19 @@ gate keeper
 	*2:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Ormenos pounces upon the grotesque and misshapen form of the Gate Keeper, slicing clean through her Falseflesh. So enthralled is Ormenos with the primal violence of his actions, he fails to notice that he continues to flay a lifeless pile of flesh, spraying unnamable bodily fluids in the six directions. Though perhaps more alarming is that a contingent of Enforcers have now arrived on the scene catching Ormenos quite literally red-handed.
+	Ormenos pounces upon the grotesque and misshapen form of the Gate Keeper, slicing clean through her Falseflesh. So enthralled is Ormenos with the primal violence of his actions, he fails to notice that he continues to flay a lifeless pile of flesh, spraying unnameable bodily fluids in the six directions. Though perhaps more alarming is that a contingent of Enforcers have now arrived on the scene catching Ormenos quite literally red-handed.
 
-	Before the leader can react, his left arm is severed, though the wound is cauterized by the intense heat of the blade. Yet, he remains unphased, coldly signalling the other enforcers begin their counterattck.
+	Before the leader can react, his left arm is severed, though the wound is cauterized by the intense heat of the blade. Yet, he remains unfazed, coldly signaling the other enforcers begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays two Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays two Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
 	*3:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
 	Ormenos pounces upon the grotesque and misshapen form of the Gate Keeper, landing powerful blows upon her Falseflesh. So enthralled is Ormenos with the primal violence of his actions, he fails to notice that he continues to bash a lifeless pile of flesh into a messier pulp. Though perhaps more alarming is that a contingent of Enforcers have now arrived on the scene catching Ormenos quite literally red-handed.
 	
-	Before the leader can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unphased, coldly signalling the other enforcers begin their counterattck as he evades blow after blow from Ormenos' guided limbs.
+	Before the leader can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unfazed, coldly signaling the other enforcers begin their counterattack as he evades blow after blow from Ormenos' guided limbs.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
 	
 	Ormenos himself cannot believe that he has killed his brothers. What could have possessed him to take such actions? His mind spins with half-baked explanations and excuses for his actions. So overwhelmed is he that his psyche becomes crushed under the unbearable weight of awareness that his hands are tainted with the blood of innocent magi of his Order... There's no turning back now. All is lost. All is...3*
 	*14:
@@ -1599,15 +1599,15 @@ Jinn slayer
 	*2:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Unable to fully control the barbaric instincts of this living weapon, Ormenos cuts through the crowd separating the Jinn Slayer and himself, thus eliminating the element of surprise, yet retaining at least the element of confusion. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay lifeless lumps of flesh, spraying unnamable bodily fluids in the six directions. Though perhaps more alarming is that the contingent of Enforcers who accompany the Jinn Slayer spring into action.
+	Unable to fully control the barbaric instincts of this living weapon, Ormenos cuts through the crowd separating the Jinn Slayer and himself, thus eliminating the element of surprise, yet retaining at least the element of confusion. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay lifeless lumps of flesh, spraying unnameable bodily fluids in the six directions. Though perhaps more alarming is that the contingent of Enforcers who accompany the Jinn Slayer spring into action.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays two Enforcers before Ormenos is belted with impressive force from behind. As he collapses to the floor, the culprit of his demise appears in his fading field of vision: the very object of his assault, the Jinn Slayer has felled Ormenos.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays two Enforcers before Ormenos is belted with impressive force from behind. As he collapses to the floor, the culprit of his demise appears in his fading field of vision: the very object of his assault, the Jinn Slayer has felled Ormenos.2*
 	*3:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Unable to fully control the barbaric instincts of this living weapon, Ormenos pummels his way through the crowd separating the Jinn Slayer and himself, thus eliminating the element of surprise, yet retaining at least the element of confusion. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to pound lifeless lumps of flesh, spraying unnamable bodily fluids in the six directions. Though perhaps more alarming is that the contingent of Enforcers who accompany the Jinn Slayer spring into action.
+	Unable to fully control the barbaric instincts of this living weapon, Ormenos pummels his way through the crowd separating the Jinn Slayer and himself, thus eliminating the element of surprise, yet retaining at least the element of confusion. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to pound lifeless lumps of flesh, spraying unnameable bodily fluids in the six directions. Though perhaps more alarming is that the contingent of Enforcers who accompany the Jinn Slayer spring into action.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
 	
 	Ormenos himself cannot believe that he has killed his brothers. What could have possessed him to take such actions? His mind spins with half-baked explanations and excuses for his actions. So overwhelmed is he that his psyche becomes crushed under the unbearable weight of awareness that his hands are tainted with the blood of innocent magi of his Order... There's no turning back now. All is lost. All is...3*
 	*14:
@@ -1627,7 +1627,7 @@ mind seer
 	*2:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces... though as Ormenos thinks upon it, he realizes Brother Mind Seer poses no threat whatsoever, for if ever there were a meeker mage than himself, it would be the Mind Seer.
 	
-	However, unable to fully control the barbaric instincts of this living weapon, Ormenos cuts through the weak Falseflesh of his compatriot. So enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay a lifeless lump of flesh, spraying unnamable bodily fluids in the six directions.
+	However, unable to fully control the barbaric instincts of this living weapon, Ormenos cuts through the weak Falseflesh of his compatriot. So enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay a lifeless lump of flesh, spraying unnameable bodily fluids in the six directions.
 	
 	Coming to his senses, Ormenos belts out a soul-wrenching cry. The weight of this decision wears heavy upon his soul. He has killed his Jeran Brother. His psyche splinters into a thousand pieces, carving the memory into his Trueflesh. Then, putting Luin to his throat, he threatens to end the life of this wretched beast he has become.
 	
@@ -1635,7 +1635,7 @@ mind seer
 	*3:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. Yet, it moves of its own bloodlust, seeking to end the threat Ormenos now faces... though as Ormenos thinks upon it, he realizes Brother Mind Seer poses no threat whatsoever, for if ever there were a meeker mage than himself, it would be the Mind Seer.
 	
-	However, unable to fully control the barbaric instincts of this living weapon, Ormenos mashes and tears the weak Falseflesh of his compatriot. So enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to pummel the pulp of a lifeless corpse, spraying unnamable bodily fluids in the six directions.
+	However, unable to fully control the barbaric instincts of this living weapon, Ormenos mashes and tears the weak Falseflesh of his compatriot. So enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to pummel the pulp of a lifeless corpse, spraying unnameable bodily fluids in the six directions.
 	
 	Coming to his senses, Ormenos belts out a soul-wrenching cry. The weight of this decision wears heavy upon his soul. He has killed his Jeran Brother. His psyche splinters into a thousand pieces, carving the memory into his Trueflesh. Then, bundling up his burlap robe, he thrusts it down his own throat, threatening to end the life of this wretched beast he has become.
 	
@@ -1679,31 +1679,31 @@ form forger
 	*2:
 	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
-	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the Architects of the Huginn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Form Forger has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of Falseflesh separate and collapse to the ground.
+	All these thoughts are pushed aside as the verdant luster of the brilliant weapon becomes manifest in reality, understandably shocking all the Architects of the Huginn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Form Forger has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of Falseflesh separate and collapse to the ground.
 	
-	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble Architects' ranks, slicing through one mage after another, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire specturm of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble Architects' ranks, slicing through one mage after another, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire spectrum of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
-	Luin shifts its attention to the tastier morsels that are the Enforcers, severing the leader's arm from her Falseflesh, though the wound is cauterized by the intense heat of the blade. Yet, she remains unphased, coldly signalling the other enforcers begin their counterattck.
+	Luin shifts its attention to the tastier morsels that are the Enforcers, severing the leader's arm from her Falseflesh, though the wound is cauterized by the intense heat of the blade. Yet, she remains unfazed, coldly signaling the other enforcers begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
 	*3:
 	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
-	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the Architects of the Huginn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Form Forger has been mashed into a shape unidentifiable as human remains.
+	All these thoughts are pushed aside as the verdant luster of the brilliant weapon becomes manifest in reality, understandably shocking all the Architects of the Huginn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Form Forger has been mashed into a shape unidentifiable as human remains.
 	
-	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble Architects' ranks, smashing through one mage after another, cracking bones and ripping flesh, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire specturm of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble Architects' ranks, smashing through one mage after another, cracking bones and ripping flesh, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire spectrum of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
-	Luin shifts its attention to the tastier morsels that are the Enforcers, Luin darts toward the leader, bringing Ormenos' Falseflesh along for the ride. Yet, the battle-hardened Enforcer remains unphased, coldly signalling the other enforcers begin their counterattck as he evades blow after blow from Ormenos' guided limbs.
+	Luin shifts its attention to the tastier morsels that are the Enforcers, Luin darts toward the leader, bringing Ormenos' Falseflesh along for the ride. Yet, the battle-hardened Enforcer remains unfazed, coldly signaling the other enforcers begin their counterattack as he evades blow after blow from Ormenos' guided limbs.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
 	
 	Ormenos himself cannot believe that he has killed his brothers. What could have possessed him to take such actions? His mind spins with half-baked explanations and excuses for his actions. So overwhelmed is he that his psyche becomes crushed under the unbearable weight of awareness that his hands are tainted with the blood of innocent magi of his Order... There's no turning back now. All is lost. All is...3*
 	*14:
-	Ormenos conjures up the vilest imagery from the bubblings pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
+	Ormenos conjures up the vilest imagery from the bubbling pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
 	
-	The Form Forger begins to melt from inside out, the liquefied remains of her organs spilling out as her abdominal cavity becomes expose for all to see. The excruciating pain she suffers from this soul-wrenching Techne cause her to left out blood-curdling cries of agony until the bottom of her lungs melt into a fetid goo. Her cries, now voiceless yet equally disturbing, understandly shock all the Architects of the Huginn Grove. In the space of a thought, what the Form Forger has now become is no more than a nameless ooze.
+	The Form Forger begins to melt from inside out, the liquefied remains of her organs spilling out as her abdominal cavity becomes expose for all to see. The excruciating pain she suffers from this soul-wrenching Techne cause her to left out blood-curdling cries of agony until the bottom of her lungs melt into a fetid goo. Her cries, now voiceless yet equally disturbing, understandably shock all the Architects of the Huginn Grove. In the space of a thought, what the Form Forger has now become is no more than a nameless ooze.
 	
-	Pandemonium ensues, for Ormenos, as of instinct, begins casting his disintegrating Techne hither, thither and yon, felling mage after feeble mage. The entire specturm of human emotion, all on display with magi running in terror, the Corruption's ambivalent destruction, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for Ormenos, as of instinct, begins casting his disintegrating Techne hither, thither and yon, felling mage after feeble mage. The entire spectrum of human emotion, all on display with magi running in terror, the Corruption's ambivalent destruction, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
 	In truth, Ormenos can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@
@@ -1719,35 +1719,35 @@ memory keeper
 	
     Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
-	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the Archivists of the Muninn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Memory Keeper has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of Falseflesh separate and collapse to the ground.
+	All these thoughts are pushed aside as the verdant luster of the brilliant weapon becomes manifest in reality, understandably shocking all the Archivists of the Muninn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Memory Keeper has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of Falseflesh separate and collapse to the ground.
 	
-	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble Archivists' ranks, slicing through one mage after another, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire specturm of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble Archivists' ranks, slicing through one mage after another, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire spectrum of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
-	Luin shifts its attention to the tastier morsels that are the Enforcers, severing the leader's arm from her Falseflesh, though the wound is cauterized by the intense heat of the blade. Yet, she remains unphased, coldly signalling the other enforcers begin their counterattck.
+	Luin shifts its attention to the tastier morsels that are the Enforcers, severing the leader's arm from her Falseflesh, though the wound is cauterized by the intense heat of the blade. Yet, she remains unfazed, coldly signaling the other enforcers begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
 	*3:
     The Memory Keeper lunges at Ormenos in a wild display of animal instinct. It is as though he were a powder keg awaiting the spark that would set him off. Well, here it comes!
 
 	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
-	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the Archivists of the Muninn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Memory Keeper has been mashed into a shape unidentifiable as human remains.
+	All these thoughts are pushed aside as the verdant luster of the brilliant weapon becomes manifest in reality, understandably shocking all the Archivists of the Muninn Grove. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Memory Keeper has been mashed into a shape unidentifiable as human remains.
 	
-	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble Archivists' ranks, smashing through one mage after another, cracking bones and ripping flesh, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire specturm of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble Archivists' ranks, smashing through one mage after another, cracking bones and ripping flesh, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire spectrum of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
-	Luin shifts its attention to the tastier morsels that are the Enforcers, Luin darts toward the leader, bringing Ormenos' Falseflesh along for the ride. Yet, the battle-hardened Enforcer remains unphased, coldly signalling the other enforcers begin their counterattck as he evades blow after blow from Ormenos' guided limbs.
+	Luin shifts its attention to the tastier morsels that are the Enforcers, Luin darts toward the leader, bringing Ormenos' Falseflesh along for the ride. Yet, the battle-hardened Enforcer remains unfazed, coldly signaling the other enforcers begin their counterattack as he evades blow after blow from Ormenos' guided limbs.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
 	
 	Ormenos himself cannot believe that he has killed his brothers. What could have possessed him to take such actions? His mind spins with half-baked explanations and excuses for his actions. So overwhelmed is he that his psyche becomes crushed under the unbearable weight of awareness that his hands are tainted with the blood of innocent magi of his Order... There's no turning back now. All is lost. All is...3*
 	*14:
     The Memory Keeper lunges at Ormenos in a wild display of animal instinct. It is as though he were a powder keg awaiting the spark that would set him off. Well, here it comes!
 
-	Ormenos conjures up the vilest imagery from the bubblings pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
+	Ormenos conjures up the vilest imagery from the bubbling pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
 	
-	The Memory Keeper begins to melt from inside out, the liquefied remains of his organs spilling out as his abdominal cavity becomes expose for all to see. The excruciating pain he suffers from this soul-wrenching Techne cause his to left out blood-curdling cries of agony until the bottom of his lungs melt into a fetid goo. His cries, now voiceless yet equally disturbing, understandly shock all the Archivists of the Muninn Grove. In the space of a thought, what the Memory Keeper has now become is no more than a nameless ooze.
+	The Memory Keeper begins to melt from inside out, the liquefied remains of his organs spilling out as his abdominal cavity becomes expose for all to see. The excruciating pain he suffers from this soul-wrenching Techne cause his to left out blood-curdling cries of agony until the bottom of his lungs melt into a fetid goo. His cries, now voiceless yet equally disturbing, understandably shock all the Archivists of the Muninn Grove. In the space of a thought, what the Memory Keeper has now become is no more than a nameless ooze.
 	
-	Pandemonium ensues, for Ormenos, as of instinct, begins casting his disintegrating Techne hither, thither and yon, felling mage after feeble mage. The entire specturm of human emotion, all on display with magi running in terror, the Corruption's ambivalent destruction, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for Ormenos, as of instinct, begins casting his disintegrating Techne hither, thither and yon, felling mage after feeble mage. The entire spectrum of human emotion, all on display with magi running in terror, the Corruption's ambivalent destruction, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
 	In truth, Ormenos can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@
@@ -1763,31 +1763,31 @@ midnight
 	*2:
 	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
-	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the magi in the Mathetia. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, Sister Midnight has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of Falseflesh separate and collapse to the ground.
+	All these thoughts are pushed aside as the verdant luster of the brilliant weapon becomes manifest in reality, understandably shocking all the magi in the Mathetia. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, Sister Midnight has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of Falseflesh separate and collapse to the ground.
 	
-	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble magi's ranks, slicing through one mage after another, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire specturm of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble magi's ranks, slicing through one mage after another, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire spectrum of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
-	Luin shifts its attention to the tastier morsels that are the Enforcers, severing the leader's arm from her Falseflesh, though the wound is cauterized by the intense heat of the blade. Yet, she remains unphased, coldly signalling the other enforcers begin their counterattck.
+	Luin shifts its attention to the tastier morsels that are the Enforcers, severing the leader's arm from her Falseflesh, though the wound is cauterized by the intense heat of the blade. Yet, she remains unfazed, coldly signaling the other enforcers begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
 	*3:
 	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
-	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the magi in the Mathetia. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, Sister Midnight has been mashed into a shape unidentifiable as human remains.
+	All these thoughts are pushed aside as the verdant luster of the brilliant weapon becomes manifest in reality, understandably shocking all the magi in the Mathetia. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, Sister Midnight has been mashed into a shape unidentifiable as human remains.
 	
-	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble magi's ranks, smashing through one mage after another, cracking bones and ripping flesh, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire specturm of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble magi's ranks, smashing through one mage after another, cracking bones and ripping flesh, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire spectrum of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
-	Luin shifts its attention to the tastier morsels that are the Enforcers, Luin darts toward the leader, bringing Ormenos' Falseflesh along for the ride. Yet, the battle-hardened Enforcer remains unphased, coldly signalling the other enforcers begin their counterattck as he evades blow after blow from Ormenos' guided limbs.
+	Luin shifts its attention to the tastier morsels that are the Enforcers, Luin darts toward the leader, bringing Ormenos' Falseflesh along for the ride. Yet, the battle-hardened Enforcer remains unfazed, coldly signaling the other enforcers begin their counterattack as he evades blow after blow from Ormenos' guided limbs.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
 	
 	Ormenos himself cannot believe that he has killed his brothers. What could have possessed him to take such actions? His mind spins with half-baked explanations and excuses for his actions. So overwhelmed is he that his psyche becomes crushed under the unbearable weight of awareness that his hands are tainted with the blood of innocent magi of his Order... There's no turning back now. All is lost. All is...3*
 	*14:
-	Ormenos conjures up the vilest imagery from the bubblings pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
+	Ormenos conjures up the vilest imagery from the bubbling pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
 	
-	Sister Midnight begins to melt from inside out, the liquefied remains of her organs spilling out as her abdominal cavity becomes expose for all to see. The excruciating pain she suffers from this soul-wrenching Techne cause her to left out blood-curdling cries of agony until the bottom of her lungs melt into a fetid goo. Her cries, now voiceless yet equally disturbing, understandly shock all the magi in the Mathetia. In the space of a thought, what Sister Midnight has now become is no more than a nameless ooze.
+	Sister Midnight begins to melt from inside out, the liquefied remains of her organs spilling out as her abdominal cavity becomes expose for all to see. The excruciating pain she suffers from this soul-wrenching Techne cause her to left out blood-curdling cries of agony until the bottom of her lungs melt into a fetid goo. Her cries, now voiceless yet equally disturbing, understandably shock all the magi in the Mathetia. In the space of a thought, what Sister Midnight has now become is no more than a nameless ooze.
 	
-	Pandemonium ensues, for Ormenos, as of instinct, begins casting his disintegrating Techne hither, thither and yon, felling mage after feeble mage. The entire specturm of human emotion, all on display with magi running in terror, the Corruption's ambivalent destruction, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for Ormenos, as of instinct, begins casting his disintegrating Techne hither, thither and yon, felling mage after feeble mage. The entire spectrum of human emotion, all on display with magi running in terror, the Corruption's ambivalent destruction, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
 	In truth, Ormenos can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@
@@ -1801,23 +1801,23 @@ oath abettor
 	*2:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Unable to fully control the barbaric instincts of this living weapon, Ormenos cuts the Oath Abettor down instantly. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay lifeless lumps of flesh, spraying unnamable bodily fluids in the six directions. Though perhaps more alarming is that the other Enforcers who accompanied him spring into action.
+	Unable to fully control the barbaric instincts of this living weapon, Ormenos cuts the Oath Abettor down instantly. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay lifeless lumps of flesh, spraying unnameable bodily fluids in the six directions. Though perhaps more alarming is that the other Enforcers who accompanied him spring into action.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade looks to slay the other two Enforcers, but fails in the attempt as Ormenos is struck on the nape with impressive force from behind. The world fades and Ormenos consciousness likewise wanes to nothingness.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade looks to slay the other two Enforcers, but fails in the attempt as Ormenos is struck on the nape with impressive force from behind. The world fades and Ormenos consciousness likewise wanes to nothingness.2*
 	*3:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Before the Oath Abettor can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unphased, coldly following the well-rehearsed attack patterns with the other enforcers as they begin their counterattck.
+	Before the Oath Abettor can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unfazed, coldly following the well-rehearsed attack patterns with the other enforcers as they begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade looks to slay the Enforcer trio, but fails in the attempt as Ormenos is knocked down from behind. The trio then bind Ormenos and drag him off to meet his doom.3*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade looks to slay the Enforcer trio, but fails in the attempt as Ormenos is knocked down from behind. The trio then bind Ormenos and drag him off to meet his doom.3*
 	*14:
 	Images of warping and putrefaction come to Ormenos' mind as of instinct. He visualizes the rotting innards of his current foe, attempting to manifest his desires beyond the jurisdiction of the Graylands. The Oath Abettor succumbs to these malignant machinations as his gut begins to dissolve, leaving a rather visual aperture in his viscera. And in the space of a thought, this threat is no more...
 	
 	Yet, despite his elation at overcoming this hurdle, his success is short-lived as the infelicitous call to action of the Enforcers accompanying the fallen mage seems to have escaped his notice. In truth, he can only tell indirectly that they took action when a precisely landed strike causes the world around him to dim...14*
 	@
-	Knowing absoluetly nothing about combat, Techne-based or otherwise, Ormenos charges at the Enforcer in some vain attempt to strike him down. The understandably shocked Enforcer simply side steps the brutish assault, causing the off-balanced Ormenos to go careening into the rather unforgiving rigidity of a wall.
+	Knowing absolutely nothing about combat, Techne-based or otherwise, Ormenos charges at the Enforcer in some vain attempt to strike him down. The understandably shocked Enforcer simply side steps the brutish assault, causing the off-balanced Ormenos to go careening into the rather unforgiving rigidity of a wall.
 	
-	The Oath Abettor now regaining his compsure begins his counter-offensive against his dazed assailant, his cronies chiming in with their deft movements, as though performing a symphony of pure and elegant violence. Before Ormenos can tell where he is being attacked from, a precisely landed strike causes the world around him to dim...@
+	The Oath Abettor now regaining his composure begins his counter-offensive against his dazed assailant, his cronies chiming in with their deft movements, as though performing a symphony of pure and elegant violence. Before Ormenos can tell where he is being attacked from, a precisely landed strike causes the world around him to dim...@
 [1215/]
 
 chaos tamer
@@ -1825,23 +1825,23 @@ chaos tamer
 	*2:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Unable to fully control the barbaric instincts of this living weapon, Ormenos cuts the Chaos Tamer down instantly. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay lifeless lumps of flesh, spraying unnamable bodily fluids in the six directions. Though perhaps more alarming is that the other Enforcers who accompanied him spring into action.
+	Unable to fully control the barbaric instincts of this living weapon, Ormenos cuts the Chaos Tamer down instantly. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay lifeless lumps of flesh, spraying unnameable bodily fluids in the six directions. Though perhaps more alarming is that the other Enforcers who accompanied him spring into action.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade looks to slay the other two Enforcers, but fails in the attempt as Ormenos' is struck on the nape with impressive force from behind. The world fades and Ormenos consciousness likewise wanes to nothingness.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade looks to slay the other two Enforcers, but fails in the attempt as Ormenos' is struck on the nape with impressive force from behind. The world fades and Ormenos consciousness likewise wanes to nothingness.2*
 	*3:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Before the Chaos Tamer can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unphased, coldly following the well-rehearsed attack patterns with the other enforcers as they begin their counterattck.
+	Before the Chaos Tamer can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unfazed, coldly following the well-rehearsed attack patterns with the other enforcers as they begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade looks to slay the Enforcer trio, but fails in the attempt as Ormenos is knocked down from behind. The trio then bind Ormenos and drag him off to meet his doom.3*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade looks to slay the Enforcer trio, but fails in the attempt as Ormenos is knocked down from behind. The trio then bind Ormenos and drag him off to meet his doom.3*
 	*14:
 	Images of warping and putrefaction come to Ormenos' mind as of instinct. He visualizes the rotting innards of his current foe, attempting to manifest his desires beyond the jurisdiction of the Graylands. The Chaos Tamer succumbs to these malignant machinations as his gut begins to dissolve, leaving a rather visual aperture in his viscera. And in the space of a thought, this threat is no more...
 	
 	Yet, despite his elation at overcoming this hurdle, his success is short-lived as the infelicitous call to action of the Enforcers accompanying the fallen mage seems to have escaped his notice. In truth, he can only tell indirectly that they took action when a precisely landed strike causes the world around him to dim...14*
 	@
-	Knowing absoluetly nothing about combat, Techne-based or otherwise, Ormenos charges at the Enforcer in some vain attempt to strike him down. The understandably shocked Enforcer simply side steps the brutish assault, causing the off-balanced Ormenos to go careening into the rather unforgiving rigidity of a wall.
+	Knowing absolutely nothing about combat, Techne-based or otherwise, Ormenos charges at the Enforcer in some vain attempt to strike him down. The understandably shocked Enforcer simply side steps the brutish assault, causing the off-balanced Ormenos to go careening into the rather unforgiving rigidity of a wall.
 	
-	The Chaos Tamer now regaining his compsure begins his counter-offensive against his dazed assailant, his cronies chiming in with their deft movements, as though performing a symphony of pure and elegant violence. Before Ormenos can tell where he is being attacked from, a precisely landed strike causes the world around him to dim...@
+	The Chaos Tamer now regaining his composure begins his counter-offensive against his dazed assailant, his cronies chiming in with their deft movements, as though performing a symphony of pure and elegant violence. Before Ormenos can tell where he is being attacked from, a precisely landed strike causes the world around him to dim...@
 [1216/]
 
 law bringer
@@ -1849,23 +1849,23 @@ law bringer
 	*2:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Unable to fully control the barbaric instincts of this living weapon, Ormenos cuts the Law Bringer down instantly. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay lifeless lumps of flesh, spraying unnamable bodily fluids in the six directions. Though perhaps more alarming is that the other Enforcers who accompanied him spring into action.
+	Unable to fully control the barbaric instincts of this living weapon, Ormenos cuts the Law Bringer down instantly. However, so enthralled is Ormenos with the primal violence of his actions that he fails to notice that he continues to flay lifeless lumps of flesh, spraying unnameable bodily fluids in the six directions. Though perhaps more alarming is that the other Enforcers who accompanied him spring into action.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade looks to slay the other two Enforcers, but fails in the attempt as Ormenos' is struck on the nape with impressive force from behind. The world fades and Ormenos consciousness likewise wanes to nothingness.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade looks to slay the other two Enforcers, but fails in the attempt as Ormenos' is struck on the nape with impressive force from behind. The world fades and Ormenos consciousness likewise wanes to nothingness.2*
 	*3:
 	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
 	
-	Before the Law Bringer can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unphased, coldly following the well-rehearsed attack patterns with the other enforcers as they begin their counterattck.
+	Before the Law Bringer can react, Luin is upon him, bringing Ormenos' Falseflesh along for the ride. Yet, he remains unfazed, coldly following the well-rehearsed attack patterns with the other enforcers as they begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade looks to slay the Enforcer trio, but fails in the attempt as Ormenos is knocked down from behind. The trio then bind Ormenos and drag him off to meet his doom.3*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade looks to slay the Enforcer trio, but fails in the attempt as Ormenos is knocked down from behind. The trio then bind Ormenos and drag him off to meet his doom.3*
 	*14:
 	Images of warping and putrefaction come to Ormenos' mind as of instinct. He visualizes the rotting innards of his current foe, attempting to manifest his desires beyond the jurisdiction of the Graylands. The Law Bringer succumbs to these malignant machinations as his gut begins to dissolve, leaving a rather visual aperture in his viscera. And in the space of a thought, this threat is no more...
 	
 	Yet, despite his elation at overcoming this hurdle, his success is short-lived as the infelicitous call to action of the Enforcers accompanying the fallen mage seems to have escaped his notice. In truth, he can only tell indirectly that they took action when a precisely landed strike causes the world around him to dim...14*
 	@
-	Knowing absoluetly nothing about combat, Techne-based or otherwise, Ormenos charges at the Enforcer in some vain attempt to strike him down. The understandably shocked Enforcer simply side steps the brutish assault, causing the off-balanced Ormenos to go careening into the rather unforgiving rigidity of a wall.
+	Knowing absolutely nothing about combat, Techne-based or otherwise, Ormenos charges at the Enforcer in some vain attempt to strike him down. The understandably shocked Enforcer simply side steps the brutish assault, causing the off-balanced Ormenos to go careening into the rather unforgiving rigidity of a wall.
 	
-	The Law Bringer now regaining his compsure begins his counter-offensive against his dazed assailant, his cronies chiming in with their deft movements, as though performing a symphony of pure and elegant violence. Before Ormenos can tell where he is being attacked from, a precisely landed strike causes the world around him to dim...@
+	The Law Bringer now regaining his composure begins his counter-offensive against his dazed assailant, his cronies chiming in with their deft movements, as though performing a symphony of pure and elegant violence. Before Ormenos can tell where he is being attacked from, a precisely landed strike causes the world around him to dim...@
 [1217/]
 
 message bearer
@@ -1873,31 +1873,31 @@ message bearer
 	*2:
 	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
-	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the magi in the Hall of Reckoning. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Message Bearer has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of Falseflesh separate and collapse to the ground.
+	All these thoughts are pushed aside as the verdant luster of the brilliant weapon becomes manifest in reality, understandably shocking all the magi in the Hall of Reckoning. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Message Bearer has been shred to veritable ribbons with such speed and precision that no blood is drawn before the slices of Falseflesh separate and collapse to the ground.
 	
-	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble magi's ranks, slicing through one mage after another, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire specturm of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, plus the Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble magi's ranks, slicing through one mage after another, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire spectrum of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, plus the Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
-	Luin shifts its attention to the tastier morsels that are the Enforcers, severing the leader's arm from her Falseflesh, though the wound is cauterized by the intense heat of the blade. Yet, she remains unphased, coldly signalling the other enforcers begin their counterattck.
+	Luin shifts its attention to the tastier morsels that are the Enforcers, severing the leader's arm from her Falseflesh, though the wound is cauterized by the intense heat of the blade. Yet, she remains unfazed, coldly signaling the other enforcers begin their counterattack.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked unconscious from behind, casting the Graylands denizen back whence it came.2*
 	*3:
 	Ormenos brings the Glyph of Luin to the forefront of his thoughts, now aware of his seemingly long-standing, inherited covenant with the ghelblade, though just when it was he learned the Glyph escapes his ken.
 	
-	All these thoughts are pushed aside as the verdant lustre of the brilliant weapon becomes manifest in reality, understandly shocking all the magi in the Hall of Reckoning. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Message Bearer has been mashed into a shape unidentifiable as human remains.
+	All these thoughts are pushed aside as the verdant luster of the brilliant weapon becomes manifest in reality, understandably shocking all the magi in the Hall of Reckoning. Luin intuits his master's purpose and gleefully enacts what is willed. In the space of a thought, the Message Bearer has been mashed into a shape unidentifiable as human remains.
 	
-	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble magi's ranks, smashing through one mage after another, cracking bones and ripping flesh, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire specturm of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and of course the Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for a single life cannot sate the bloodlust of the blade of Vanargand! No, it is then that Luin proceeds to decimate the feeble magi's ranks, smashing through one mage after another, cracking bones and ripping flesh, leaving artistically arrayed dollops blood and nuggets of offal scattered in the six directions. The entire spectrum of human emotion, all on display with magi running in terror, Luin slaying euphorically, Ormenos grieving at what he has done, and of course the Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
-	Luin shifts its attention to the tastier morsels that are the Enforcers, Luin darts toward the leader, bringing Ormenos' Falseflesh along for the ride. Yet, the battle-hardened Enforcer remains unphased, coldly signalling the other enforcers begin their counterattck as he evades blow after blow from Ormenos' guided limbs.
+	Luin shifts its attention to the tastier morsels that are the Enforcers, Luin darts toward the leader, bringing Ormenos' Falseflesh along for the ride. Yet, the battle-hardened Enforcer remains unfazed, coldly signaling the other enforcers begin their counterattack as he evades blow after blow from Ormenos' guided limbs.
 	
-	Though immensely powerful and dextrous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
+	Though immensely powerful and dexterous, Luin is not omnipotent. The ghelblade but slays several Enforcers before Ormenos is knocked down from behind, the remaining Enforcers then bind Ormenos and drag him off to meet his doom.
 	
 	Ormenos himself cannot believe that he has killed his brothers. What could have possessed him to take such actions? His mind spins with half-baked explanations and excuses for his actions. So overwhelmed is he that his psyche becomes crushed under the unbearable weight of awareness that his hands are tainted with the blood of innocent magi of his Order... There's no turning back now. All is lost. All is...3*
 	*14:
-	Ormenos conjures up the vilest imagery from the bubblings pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
+	Ormenos conjures up the vilest imagery from the bubbling pits of chaos deep in the Graylands. He knows now that the Glyph of Corruption is responding to his call for smiting his enemies. What he does not realize is the unstoppable destructive quality of this Glyph, but this awareness now begins to dawn on him as the extent of its volatility becomes manifest.
 	
-	The Message Bearer begins to melt from inside out, the liquefied remains of her organs spilling out as her abdominal cavity becomes expose for all to see. The excruciating pain she suffers from this soul-wrenching Techne cause her to left out blood-curdling cries of agony until the bottom of her lungs melt into a fetid goo. Her cries, now voiceless yet equally disturbing, understandly shock all the Architects of the Huginn Grove. In the space of a thought, what the Form Forger has now become is no more than a nameless ooze.
+	The Message Bearer begins to melt from inside out, the liquefied remains of her organs spilling out as her abdominal cavity becomes expose for all to see. The excruciating pain she suffers from this soul-wrenching Techne cause her to left out blood-curdling cries of agony until the bottom of her lungs melt into a fetid goo. Her cries, now voiceless yet equally disturbing, understandably shock all the Architects of the Huginn Grove. In the space of a thought, what the Form Forger has now become is no more than a nameless ooze.
 	
-	Pandemonium ensues, for Ormenos, as of instinct, begins casting his disintegrating Techne hither, thither and yon, felling mage after feeble mage. The entire specturm of human emotion, all on display with magi running in terror, the Corruption's ambivalent destruction, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
+	Pandemonium ensues, for Ormenos, as of instinct, begins casting his disintegrating Techne hither, thither and yon, felling mage after feeble mage. The entire spectrum of human emotion, all on display with magi running in terror, the Corruption's ambivalent destruction, Ormenos grieving at what he has done, and the newly arrived Enforcers awed and angered by the senseless slaughter of their comrades at Ormenos' hand.
 	
 	In truth, Ormenos can only tell indirectly that they arrived when a precisely landed strike causes the world around him to dim...14*
 	@

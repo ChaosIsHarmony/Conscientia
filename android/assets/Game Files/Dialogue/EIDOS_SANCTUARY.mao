@@ -1250,13 +1250,13 @@ AWAKENING CHAMBER
 		
 		Light floods in, burning her vision white hot. Agony crushes perception, forcing teary lids shut anew.
 		
-		Defiant, she pries them open again, sheer will her only lever.*
+		Defiant, she again pries them open, sheer will her only lever.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!]
 		||
-		*Soft, amber light soon bleeds in through trembling slits. Wider, wider, ever-widening, her efforts bear fruit. Vision, though blurred, is now otherwise unimpeded.*
+		*Soft, amber light soon bleeds in through trembling slits. Wider, wider, ever-widening, her efforts begin to bear fruit. Vision, though blurred, is now otherwise unimpeded.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.002!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!/]
 
@@ -1264,7 +1264,7 @@ AWAKENING CHAMBER
 		||
 		*Suddenly remembering to breathe, a heaving gasp fills her lungs with the chamber's chill air.
 		
-		Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the thunderous march of her heartbeats.
+		Then remembering to hear, a rushing noise floods her ears, drowning out all sound but the thunderous march of her heart.
 		
 		Swaying as though on violent seas, the room seems to spin.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.003!DESCRIPTION!}
@@ -1401,7 +1401,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.010!DESCRIPTION!]
 		||
-		*Eidos stands at the center of an octagonal room. The pale amber illumination comes not from windows, but from dully shining crystalline sconces adorning the eight corners of the chamber. Though subdued, the light is sufficient to chase away most shadows.*
+		*Eidos stands at the center of an octagonal room. Its pale amber illumination comes not from windows, but from dully shining crystalline sconces adorning the eight corners of the chamber. Though subdued, the light is sufficient to chase away most shadows.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0100!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.010!DESCRIPTION!/]
 
@@ -1413,9 +1413,9 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!]
 		||
-		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass embedded chest-high into a wall likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze injects shivers into every fiber of her being, an eternal instant of gloom and despair washing over her.
+		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass embedded chest-high into a wall likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze injects shivers into every fiber of her being, trapping her in an eternal instant of gloom and despair.
 		
-		Cold feet draw her attention to the floor. The metallic platform she now stands upon seems to sap her body's warmth - showing no signs of stopping.*
+		Yet cold feet soon break the spell, drawing her attention to the floor. The metallic platform she now stands upon seems to sap her body's warmth - showing no signs of stopping.*
 		(A#Approach one of the doors){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!}
 		(B#Peer into the glass){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
 		(C#Examine the platform){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!}
@@ -1521,7 +1521,9 @@ AWAKENING CHAMBER
 >>>Met Fenrir (12900)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!]
 		|^12900:KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!|
-		*The twinkle of reflecting light off the dark glass sparks her curiosity, drawing her ever nearer. Though it looks like a hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage. Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon her warping image is replaced with an unsettling apparition...*
+		*Her eyes catch an anomaly, and immediately gravitate towards it. It came from the chest-high glass, the disturbing one. But now, the twinkle of reflecting light off the dark glass seems benign, inviting even. It draws her ever nearer, each step further erasing her initial apprehension.	Though it looks like a hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage.
+		
+		Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon her warping image is replaced with an unsettling apparition...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X051!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!/]
 
