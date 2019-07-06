@@ -34,7 +34,7 @@ _________GLYPHS_________
 	dt. Primeval Era*
 	@Glyph of Luin: Armor@
 	$Glyphs/Luin Armor.png$
-	#Luin slumbers within the host's Falseflesh and marrow, augmenting their strength so that their structure is symetrical, durable and resilient. Once bound to a host, Luin intermingles with its Trueflesh in perpetuity.
+	#Luin slumbers within the host's Falseflesh and marrow, augmenting their strength so that their structure is symmetrical, durable and resilient. Once bound to a host, Luin intermingles with its Trueflesh in perpetuity.
 	
 	As craftsman of the Masters, Vanargand labored to ensure that every device of his making would become an extension of the user. In spite of - or perhaps because of - the mercurial nature of these instruments, their possession has moved entire cultures to war.#
 [3/]
@@ -118,7 +118,7 @@ _________GLYPHS_________
 	dt. Vanquished Era*
 	@Glyph of Resurrection@
 	$Glyphs/Resurrection Glyph.png$
-	#The Glyph of Resurrection, repesenting the height of Vanquished achievement, the Techne contained within allows the branded Trueflesh to distill their living essence and impart it to a crystalline structure.
+	#The Glyph of Resurrection, representing the height of Vanquished achievement, the Techne contained within allows the branded Trueflesh to distill their living essence and impart it to a crystalline structure.
 	
 	The glassy material of old was dubbed 'ghel' by its creators. Spun from the mind, made form by the will, it was an attempt to create perfect realizations of physicality. Though deemed illusory by some and heretical by others, its utility could not be denied. This Techne may be ostensibly used to heal, yet so horrific were the deeds of certain crystal architecture that their rebirth was anything but benevolent.
 	
@@ -132,7 +132,7 @@ _________GLYPHS_________
 	dt. Vanquished Era*
 	@Glyph of Purification@
 	$Glyphs/Purification Glyph.png$
-	#The Glyph of Purification, capable of transforming poisons of both body and mind, this allows its branded Trueflesh to be perserver of life and health. 
+	#The Glyph of Purification, capable of transforming poisons of both body and mind, this allows its branded Trueflesh to be preserver of life and health. 
 	
 	This Glyph derived as an antecedent to its destructive twin, a foil to its corrupt effects. The relationship between Corruption and Purification was discovered within the Red Tower, yet the Vanquished lacked the Awareness to understand this duality. It was thus that the construction of the Empyrean's crucible began.#
 [10/]
@@ -187,11 +187,11 @@ _________TOMES_________
 	trans. Adarin of Kabu*
 	@On the Combat Arts@
 	$Tomes/Tome.jpg$
-	#The principles of combat have remained unchanged since the very dawn of humanity. Given that the first technique to land will have the first effect, it is imperative that our attack arrive before the enemy can react. This self-evident truth notwithstanding, we cannot forget that the force of our attack must also be considered. Thus, it is that under current methodolgy, we must first observe our opponent's stance to determine the speed with which he will strike; then we are to choose a response that is faster, yet that maximizes our power. 
+	#The principles of combat have remained unchanged since the very dawn of humanity. Given that the first technique to land will have the first effect, it is imperative that our attack arrive before the enemy can react. This self-evident truth notwithstanding, we cannot forget that the force of our attack must also be considered. Thus, it is that under current methodology, we must first observe our opponent's stance to determine the speed with which he will strike; then we are to choose a response that is faster, yet that maximizes our power. 
 	
 	As an example, if our foe were to stand with their weapon at their hip, it would mean that they are about to strike with an attack of moderate speed and power. We must therefore act with a swift thrust to disrupt and intercept this strike, yielding a clean strike for us and a fatal miss for them. 
 	
-	Practice is required to gain experience and experience is required to survive. Only when we can determine the speed and power level from a stance can we survive. Remeber: Forewarned is forearmed. As always, we must study judiciously to make the best use of time.#
+	Practice is required to gain experience and experience is required to survive. Only when we can determine the speed and power level from a stance can we survive. Remember: Forewarned is forearmed. As always, we must study judiciously to make the best use of time.#
 [50/]
 
 [/51]
@@ -203,7 +203,7 @@ _________TOMES_________
 	$Tomes/Tome.jpg$
 	#Few have seen the Farcaster as intimately as I have. It has revealed more to me than to any since the time of the Vanquished. In truth, I have discovered several key components to its inner workings!
 	
-	For one, long had scholars been bewildered by the Farcaster's lack of a crystalline power source. It was thought to be unique among the technical achievements of Vanquished magi in that it drew power from the user. I can now safely put this theory to rest as I have discovered that the location of the amethyst crystal is within the contraption itself. We all know the volatility of the energy housed within crystals and their unruly tendency to detonate. Perhaps our ancestors viewed it necessary to protect the users from harm by housing it inside the Farcaster itself. One wonders then, why other Vanquished marvels did not follow suit. Though it seems likely that the Throne Rooms in Tacriba's Archives and in the upper Wellspring may operate under similar principles. Perhaps all Vanquished technology was designed this way and externalisation of crystals is a recent Thiudan phenomenon?
+	For one, long had scholars been bewildered by the Farcaster's lack of a crystalline power source. It was thought to be unique among the technical achievements of Vanquished magi in that it drew power from the user. I can now safely put this theory to rest as I have discovered that the location of the amethyst crystal is within the contraption itself. We all know the volatility of the energy housed within crystals and their unruly tendency to detonate. Perhaps our ancestors viewed it necessary to protect the users from harm by housing it inside the Farcaster itself. One wonders then, why other Vanquished marvels did not follow suit. Though it seems likely that the Throne Rooms in Tacriba's Archives and in the upper Wellspring may operate under similar principles. Perhaps all Vanquished technology was designed this way and externalization of crystals is a recent Thiudan phenomenon?
 	
 	Secondly, none can use the Farcaster because knowledge of the Glyph has been lost to time. However, more good news cometh as I have seen through the noise of writing on the machine itself and identified several possible candidates for Glyphs. Once identified, it will be a matter of the usual meditation to internalize it before attempting the Path of Discipline! I vow that I will learn the Glyph of Farcasting within my lifetime!
 	
@@ -222,7 +222,7 @@ _________TOMES_________
 	
 	As the final remnants and true inheritors of our once noble - albeit primitive - society, we alone truly understand the language of the Glyphs. Though a Glyph can speak to the uninitiated, the user cannot reply and is thus limited in its use. Yet, we of the Thiuda understand that the Glyph encapsulates a living memory of a mage from times since passed. We have been bequeathed the Techne of communicating with this memory to better wield the Glyph itself. Despite a dearth - or downright absence - of Writers, save the Masters, I speculate that in time those beneath will rediscover this ability. I postulate that we will learn to transcend Reading through this very communion with the souls of the Glyphs!
 	
-	Of note too is that the Archmage Vanargand has purpotedly implanted not just memories, but complete, fabricated Truefleshes into Glyphs! This implies that those beneath might also live on in perpetuity through the Glyphs, enacting our wills through the next generation. Though the Falseflesh may rot, our Trueflesh will pervade on the great network of the Mindscape. This is the priceless gift of our leaders and this is the ultimate and fundamental nature of the Glyphs themselves.#
+	Of note too is that the Archmage Vanargand has purportedly implanted not just memories, but complete, fabricated Truefleshes into Glyphs! This implies that those beneath might also live on in perpetuity through the Glyphs, enacting our wills through the next generation. Though the Falseflesh may rot, our Trueflesh will pervade on the great network of the Mindscape. This is the priceless gift of our leaders and this is the ultimate and fundamental nature of the Glyphs themselves.#
 [52/]
 
 [/53]
@@ -242,9 +242,9 @@ _________TOMES_________
 [/54]
 	*EXCAVATION REPORT II
 	
-	'Beastiary of Falitan'
+	'Bestiary of Falitan'
 	cr. Art. Falitan of Kabu*
-	@The Beastiary of Falitan@
+	@The Bestiary of Falitan@
 	$Tomes/Tome.jpg$
 	#Falitan, artisan of Dazir, and overseer of the New Work of the Honorable Mage Khaa, beloved and watched by Biracul may he be, has set to record a full tabulation of the beings known to inhabit the Wellspring, both those well known to the Technocraft of Dazir of Old, as well as those to which the New Work has brought to the sight of man - and the Shining One that guides him. May Biracul guide my pen and assure this report's veracity and comprehensiveness.
 	
@@ -252,7 +252,7 @@ _________TOMES_________
 	
 	The glory of the New Work is attested in what we have learned from the Neverborn unearthed from the excavation. These spawn of Famlicus are crafted in the avian form of their progenitor, with the beak of a hawk, taloned feet and clawed hands. Kushkucu has failed in his attempts to perceive their minds, though it may be that the Ruby Jinn has bestowed them with the gift of the Occult Mind of the loathsome Unseen. Thus, I fear these beings will not respond to the Glyph of Wulfias.
 	
-	They bear a resemblance to the idols that are housed within the accursed temple. As, the wisdom of Khaa has unearthed this evil, I beg for his wisdom in guiding us in how to proceed with this new Awareness. I only pray that our people have not been watched with the smouldering eyes of the Enemy all these long years.#
+	They bear a resemblance to the idols that are housed within the accursed temple. As, the wisdom of Khaa has unearthed this evil, I beg for his wisdom in guiding us in how to proceed with this new Awareness. I only pray that our people have not been watched with the smoldering eyes of the Enemy all these long years.#
 [54/]
 
 [/55]
@@ -268,7 +268,7 @@ _________TOMES_________
 	
 	Even as we desecrated the Chamber of Bones, our success was 'blessed' by the Ruby Jinn. Neverborn creatures bearing the mark of Famlicus were unearthed as we penetrated a path into the underhalls of the Wellspring. 
 	
-	Now I know the smouldering eyes look upon us from the accursed temple. If Khaa ever does sit upon the rumored Throne of the lower levels, I have no doubt that only desolation awaits.
+	Now I know the smoldering eyes look upon us from the accursed temple. If Khaa ever does sit upon the rumored Throne of the lower levels, I have no doubt that only desolation awaits.
 	
 	I hope to return home as soon as Khaa's weekly inspection concludes. It will be good to be among my loved ones again. Would that the Shining One have shone His light upon the shadows blinding Khaa, so that I would never have been tasked with this lunacy!
 	
@@ -328,7 +328,7 @@ _________TOMES_________
 	$Tomes/Tome.jpg$
 	#If it be north that one will fare, one would do well to a means of sailing westward find. For it is on the waves that one may a means of traversing the Wasteland attain. And so, it is by this road that I first my eyes upon the land of Jer set. 
 	
-	While this folk has been to ways of Biracul guided, just as those in Kavu have, it was as if I were now in the company of those whose ways I nothing knew. Their knowledge ours surpasses, yet it them makes unseemingly proud. They both farsighted and myopic be, strong in learning weak in wisdom. It seemed as if they openly the Obsidian Master worshiped, though they too had her name forgotten and would, when pressed, deny.
+	While this folk has been to ways of Biracul guided, just as those in Kavu have, it was as if I were now in the company of those whose ways I nothing knew. Their knowledge ours surpasses, yet it them makes unseemly proud. They both farsighted and myopic be, strong in learning weak in wisdom. It seemed as if they openly the Obsidian Master worshiped, though they too had her name forgotten and would, when pressed, deny.
 	
 	I still with the sight of Biracul see, though my sacred mission demanded that I in their blasphemous ritual partake...#
 [58/]
@@ -367,7 +367,7 @@ _________TOMES_________
 	
 	Kambesh by their will perished. His Glyphs stolen were. He supplanted was.
 	
-	Flight from the region my sole option was, and in fear I to the Jenowin Plain took, so that I at their behest would not Kambesh into the afterlife follow. Though it was in the Jenowin Plain I most nearly died. Were it not for Biracul's grace and my great fortune of His blessing, I would have surely succumbed. He me nourished and me gave passage back to Valonheim. He rightfully worshipped by many is.
+	Flight from the region my sole option was, and in fear I to the Jenowin Plain took, so that I at their behest would not Kambesh into the afterlife follow. Though it was in the Jenowin Plain I most nearly died. Were it not for Biracul's grace and my great fortune of His blessing, I would have surely succumbed. He me nourished and me gave passage back to Valonheim. He rightfully worshiped by many is.
 	
 	Though not much, I this confession to aid his daughter leave. Do not the magi Khaa and Pakahron trust. They only treachery and deceit know!
 	
@@ -399,7 +399,7 @@ _________TOMES_________
 	1021 y. 12 d. of our Lord Biracul
 	Jr. Cult. Nouri,
 	
-	I need not remind you that your intention to test the Redgrain goes against the express order of Pakahron, an offence punishable by dismissal from the Cultivator caste at best, exile at worst. However, your hesitance to actually carry out your little experiment, combined with the testimony from Kambin on your behalf has given me pause. It is only by the grace of his reputation that yours will remain unsullied... For now. 
+	I need not remind you that your intention to test the Redgrain goes against the express order of Pakahron, an offense punishable by dismissal from the Cultivator caste at best, exile at worst. However, your hesitance to actually carry out your little experiment, combined with the testimony from Kambin on your behalf has given me pause. It is only by the grace of his reputation that yours will remain unsullied... For now. 
 	
 	I understand your reservations about this project, but as senior Cultivator it is my responsibility to make certain that the will of both Pakahron and Biracul are appeased and not yours. I swear to you by the Eye of Awareness I will verify Redgrain's safety myself, and you will feel ashamed at questioning Pakahron!
 	
@@ -555,7 +555,7 @@ _________TOMES_________
 	cr. Khloud of Kavu*
 	@The Three Trials@
 	$Tomes/Tome.jpg$
-	#The path of the Valvorthr, should one survive, will lead to judgement by Our Lady. Any who meet the stone-cold gaze of the twinned Arks will be slain. Only through the annihilation of the mind can these neverborn be appeased.
+	#The path of the Valvorthr, should one survive, will lead to judgment by Our Lady. Any who meet the stone-cold gaze of the twinned Arks will be slain. Only through the annihilation of the mind can these Neverborn be appeased.
 	
 	Then will come the Nattverthr: the Holy Supper at which the Valvorthr must dine. But no sustenance will be upon at that table. Instead, one must sup upon the soup of shadows.
 	
@@ -649,7 +649,7 @@ UNUSED???
 	
 	Moons rose and set, before a prison of man appeared. Blasphemous Vanquished retribution made form. But what of this Stone Circle? For such a labor the Kavans had no capacity when this massacre took place. Nothing in the edicts of Biracul nor of the Thiuda demand such a formation of monoliths, though a circle could clearly to the One refer.
 	
-	Only when beneath the dead tree I stood. There upon the crushed heads of those who fell to the grandfathers of the Kavan mages. There the truth I met. 
+	Only when beneath the dead tree I stood. There upon the crushed heads of those who fell to the grandfathers of the Kavan magi. There the truth I met. 
 	
 	No circle there stood, but a spiral!#
 [68/]
@@ -677,7 +677,7 @@ UNUSED???
 	cr. Vanargand of Turrok*
 	@Thought Collectors@
 	$Tomes/Tome.jpg$
-	#If specialisation is the key to depth, why then do specialists accomplish no great works independently? It is thus, the Spiral came to be: a method through which specialists interconnect, a method through which It can accomplish divine works!
+	#If specialization is the key to depth, why then do specialists accomplish no great works independently? It is thus, the Spiral came to be: a method through which specialists interconnect, a method through which It can accomplish divine works!
 	
 	When all nodes share connections through the Spiral, we leverage the knowledgeable specialist and the managerial generalist. All minds collected into a singular consciousness, working in concert.
 	
@@ -695,7 +695,7 @@ UNUSED???
 	
 	Though we are currently one cycle behind schedule, it should be noted that the demands of Vanargand were such that we execute this flawlessly. Even the smallest misstep could result in disastrous consequences.
 	
-	Konki and Nerius are currently meticulously scrutinising all procedures implemented thus far and shall provide a detailed report of what Fanicas will need to adjust prior to activation of Conscientia.
+	Konki and Nerius are currently meticulously scrutinizing all procedures implemented thus far and shall provide a detailed report of what Fanicas will need to adjust prior to activation of Conscientia.
 	
 	Though we are closer than ever to reaching our goals, we cannot let giddiness get the better of us. But in the end, all is as it should be.#
 [71/]	
@@ -809,7 +809,7 @@ UNUSED???
 	
 	As I walked along the purple meadows of the Interstice, to me appeared a traveler in the land of dreams, famous among dreamers, known only as Katah. To the primordial chaos he traveled and he alone had seen the secrets of an era predating the Old Gods of Sumarkund, an era predating Time itself. 
 	
-	Escaping an ancient and unnamable evil, Katah fell through the ether and absorbed into his Trueflesh the milk of Awareness. After this, he found contentment in a blade of grass, fulfillment in a tranquil breeze, excitation in nothing.
+	Escaping an ancient and unnameable evil, Katah fell through the ether and absorbed into his Trueflesh the milk of Awareness. After this, he found contentment in a blade of grass, fulfillment in a tranquil breeze, excitation in nothing.
 	
 	Of many topics he spoke, as we walked the path of the Muninn's fabricated time; yet now but a singular theme persists: the Eidos. This creature's sire was a heathen - unknown to our people, but a god to the southern savages - whom is said to have arisen from a Circle of Stones. Unto the world he brought the light of Awareness - blasphemous drivel, I am aware, but I record my memories as they are, not as they should be. 
 	
@@ -830,7 +830,7 @@ UNUSED???
 	$Tomes/Tome.jpg$
 	#The ancients speak of a frog, seated comfortable as king of a small well. He would leap around his lily-filled kingdom haughtily declaring himself to be master of all he surveyed. 
 	
-	Until one day a tortoise strolled by the well and peaked in with his massive head. The frog boasted to the itinerant quadruped that his was the greatest kingdom of all, adding that the reptilian visitor should come join the frog king in his lily-spotted well. Congenially, the tortoise attempted to enter, but nary a one of his crust-covered feet would fit into the miniscule entrance to the frog king's dominion.
+	Until one day a tortoise strolled by the well and peaked in with his massive head. The frog boasted to the itinerant quadruped that his was the greatest kingdom of all, adding that the reptilian visitor should come join the frog king in his lily-spotted well. Congenially, the tortoise attempted to enter, but nary a one of his crust-covered feet would fit into the minuscule entrance to the frog king's dominion.
 	
 	'Twas then the tortoise finally proclaimed, "My friend, the water of this well is but a drop of the Great Waters. A thousand years of rain would not increase Its size, nor would a millennium of drought decrease it. You can only praise your humble well because you are truth-blind of the perfect majesty and magnitude of the Great Waters!"#
 [78/]
@@ -845,7 +845,7 @@ UNUSED???
 	$Tomes/Tome.jpg$
 	#Into the forbidden forest I ventured to catch my prey, as dinner was soon at hand! No perils could deter me from relieving the king of some small game, for my hunger was great. So great that the growls and roars of my insufferable belly almost masked the cry of a passing sparrow - the perfect meal!
 	
-	As I sought the sparrow's chosen perch, I noticed a cicada seated upon a leaf, calmly lapping up its fill of dew. Unbeknownst to it, a praying mantis stalks from close behind, closing in on the oblivious creature! Yet the mantis too, blinded with desire for a meal, sees not the sparrow eyeing it closely, seeking to fill its own feathered belly...
+	As I sought the sparrow's chosen perch, I noticed a cicada seated upon a leaf, calmly lapping up its fill of dew. Unbeknownst to it, a praying mantis stalks from close behind, closing in on the oblivious creature! Yet the mantis too, blinded with desire for a meal, sees not the sparrow eying it closely, seeking to fill its own feathered belly...
 	
 	I take aim at the sparrow, and only then realize that perhaps there is greater danger in trespassing upon the king's hunting reserve than of enduring a few more hours of hunger; for death cannot be cured as hunger can! As I move to leave, I notice a sentry of the king's patrolling the path I am on and take flight before he spots me!#
 [79/]
@@ -859,9 +859,9 @@ UNUSED???
 	$Tomes/Tome.jpg$
 	#The operation of the all but magical apparatuses of the Vanquished inscrutable remain, even now. Though undeniable progress by those of the Order has been made indeed. One such instance of progress in the form of maintenance protocol clear is. As an example, all works of artifice, save crystals, of robust construction are, yet worn and cracked ones poorly to the addition of water respond. The addition of heat, on the other hand, as a catalyst acts, for an innate self-healing mechanism crafted into their godly design was. This first discovered was when fragments of a broken warbeast cast as scrap into a kiln were, only to later them find into a pristine panel reforged - one that could once more the husk of its source against harm secure.
 	
-	Not only this, but further discovery of internal mechanisms we celebrated. They specific orientations for constituent parts have, the most common formation towards the Glyph of said artifact directed, as in metal seals in cloudstones or portals found, such as those in the Throne Rooms of Vanquished ruins.
+	Not only this, but further discovery of internal mechanisms we celebrated. They specific orientations for constituent parts have, the most common formation towards the Glyph of said artifact directed, as in metal seals in Cloudstones or portals found, such as those in the Throne Rooms of Vanquished ruins.
 	
-	A final piece of recent progress in crystalography resides - and a useful one, in truth! Through painstaking trial and error, finally the way to mend superficial imperfections in crystals rediscovered is. Humble though this may be, a significant leap in crystal safety it is, and vastly has it crystal longevity increased.#
+	A final piece of recent progress in crystallography resides - and a useful one, in truth! Through painstaking trial and error, finally the way to mend superficial imperfections in crystals rediscovered is. Humble though this may be, a significant leap in crystal safety it is, and vastly has it crystal longevity increased.#
 [80/]
 
 [/81]
@@ -890,7 +890,7 @@ UNUSED???
     A contingent of war-weary Adepti led.
     Here to the current locus of our Order.
 	Tasked were they.
-    With the defence of knowledge.
+    With the defense of knowledge.
     From the malignant clutches of the Biracul.
     And his pernicious deity.
 	
@@ -1005,21 +1005,21 @@ UNUSED???
 	
 		- Cannot travel beyond Turrok
 		- Few memories partially consumed
-		- Many memories inaccesible
+		- Many memories inaccessible
 		- Task entrusted to the subsequent Senior Thought-Weaver
 	
 	Report of Senior Thought-Weaver, Paz of Kabu -
 	
 		- Gained limited access to Kabu and Jer
 		- Few memories partially consumed
-		- Many memories inaccesible
+		- Many memories inaccessible
 		- Task entrusted to the subsequent Senior Thought-Weaver
 	
 	Report of Senior Thought-Weaver, Misk of Ogum -
 		
 		- Cannot travel beyond Zemes
 		- Few memories partially consumed
-		- Many memories inaccesible
+		- Many memories inaccessible
 		- Consumption of memories interrupted by subject
 		- Retired from service
 		- Task entrusted to the subsequent Senior Thought-Weaver
@@ -1028,7 +1028,7 @@ UNUSED???
 	
 		- Cannot travel beyond Turrok
 		- No memories consumed
-		- Most memories inaccesible
+		- Most memories inaccessible
 		- Task entrusted to the subsequent Senior Thought-Weaver
 	
 	Report of Senior Thought-Weaver, Ormenos of Jer -
@@ -1043,7 +1043,7 @@ UNUSED???
 	cr. Skyl*
 	@Codex of Prime Archons@
 	$Tomes/Tome.jpg$
-	#To ensure the safety of humanity, the Masters and their Adepti once combatted the Spiral Abomination and Its Biraculian legions by means of the Thiudan Project. The Technical skills of the Thiudan magi was only exceeded by we of Turrok; however, the Thiudans had that which we of Turrok lacked: purpose. Thence derived their true strength!
+	#To ensure the safety of humanity, the Masters and their Adepti once combated the Spiral Abomination and Its Biraculian legions by means of the Thiudan Project. The Technical skills of the Thiudan magi was only exceeded by we of Turrok; however, the Thiudans had that which we of Turrok lacked: purpose. Thence derived their true strength!
 	
 	And yet still they failed. The curse of the Spiral Abomination still plagues our brothers and sisters to this day. But we are not without recourse: divided we conquer; united we fall. Thus, the Masters will disband and attack the Spiral Abomination from all angles like a relentless cancer, until we break the endless servitude it seeks to impose upon us. Only then can we be truly free.
 	
@@ -1313,7 +1313,7 @@ _____________MINDSCAPE NPCs_________
 	*GULGANNA*
 	@Gulganna@
 	$Glyphs/Awareness Glyph.png$
-	#A neverborn creature that was fashioned as a beast of war at the Twilight of the Vanquished. Gulganna once wandered the Vedt before it was tamed by the Thiudan Adepti Wulfias. It served in his campaigns until the Doom of Ataraxia.
+	#A Neverborn creature that was fashioned as a beast of war at the Twilight of the Vanquished. Gulganna once wandered the Vedt before it was tamed by the Thiudan Adepti Wulfias. It served in his campaigns until the Doom of Ataraxia.
 	
 	Gulganna disappeared along with Wulfias into the Ataraxian mountain range, where its soul and Techne gave life to its master's designs: the Wellspring.#
 [106/]
@@ -1324,7 +1324,7 @@ _____________MINDSCAPE NPCs_________
 	$Glyphs/Awareness Glyph.png$
 	#Vanargand. Nargund. The Emerald Jinn. The Sylvan Architect. Skyl. Crafter of the Jinetes, his command of materiality was unrivaled. Yet, the more masterful his work, the more it gave rise to dissolution, destruction and death. 
 	
-	Worshipped as a god of both OOrder and Entropy, he produced many creations, including the immortal bodies cloaking those of his ilk.#
+	Worshiped as a god of both OOrder and Entropy, he produced many creations, including the immortal bodies cloaking those of his ilk.#
 [107/]
 
 [/108]
@@ -1333,5 +1333,5 @@ _____________MINDSCAPE NPCs_________
 	$Glyphs/Awareness Glyph.png$
 	#Famlicus. Famlaz. The Ruby Jinn. Rust-covered Hamlik. Thinker of the Jinetes, his command of the mind was unrivaled. Yet, the more he understood, the more his thoughts would warp the fabric of his subject. His victims minds would deform, twisting, corrupting until they were again unknown to him.
 	
-	Worshipped as a god of change and trickery, his only children were lies. Many of his offspring still live on in the minds of man, some even birthing successors of their own.#
+	Worshiped as a god of change and trickery, his only children were lies. Many of his offspring still live on in the minds of man, some even birthing successors of their own.#
 [108/]

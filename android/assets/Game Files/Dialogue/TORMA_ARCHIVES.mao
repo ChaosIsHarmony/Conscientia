@@ -33,7 +33,7 @@ acq glyph of Prime Archon prev
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0020!DESCRIPTION!]
 		||
-		*Increduously, he advances towards it; reluctantly, he steps upon it.*
+		*Incredulously, he advances towards it; reluctantly, he steps upon it.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0021!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!00.0020!DESCRIPTION!/]
 
@@ -87,7 +87,7 @@ acq glyph of Prime Archon prev
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00220!DESCRIPTION!]
 		||
-		*Light innudates the chamber as the once listless Neverborn now so brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent approval. Yet, in this timeless moment of sublime bewilderment, Ormenos barely notices the walls parting behind the sentries, a tunnel burrowing into the unknown depths of the Enclave beyond.*
+		*Light inundates the chamber as the once listless Neverborn now so brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent approval. Yet, in this timeless moment of sublime bewilderment, Ormenos barely notices the walls parting behind the sentries, a tunnel burrowing into the unknown depths of the Enclave beyond.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00221!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.00220!DESCRIPTION!/]
 
@@ -170,7 +170,7 @@ acq glyph of Prime Archon prev
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!]
 		||
-		*From the depths of the Graylands a Glyph materializes. Gracefully loping from the shadows into the forefront of awareness, Ormenos recognizes the Glyph of Extraction made form. The fog seems to coalesce into memory, bringing with it awareness. Though he knows not why, Ormenos remembers Fenrir; he remembers their pact, made in forgotten eras with characters beyond Ormenos' ken. Fenrir has come to honor their convenant by consuming the crystal's energy and leaving bare its contents.*
+		*From the depths of the Graylands a Glyph materializes. Gracefully loping from the shadows into the forefront of awareness, Ormenos recognizes the Glyph of Extraction made form. The fog seems to coalesce into memory, bringing with it awareness. Though he knows not why, Ormenos remembers Fenrir; he remembers their pact, made in forgotten eras with characters beyond Ormenos' ken. Fenrir has come to honor their covenant by consuming the crystal's energy and leaving bare its contents.*
 		(#A...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0052!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0051!DESCRIPTION!/]
 
@@ -231,7 +231,7 @@ came in with Babel after confronting him with knowledge of Pr Ar
 
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!]
 		||
-		*Light innudates the chamber as the once listless Neverborn now brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent rigidity. In this timeless moment of confusion, Ormenos barely notices the walls parting behind the sentries, where beyond them a tunnel burrows into the unknown depths of the Enclave.*
+		*Light inundates the chamber as the once listless Neverborn now brightly burn with the fire of purpose. In unison they turn, saluting their commander with their silent rigidity. In this timeless moment of confusion, Ormenos barely notices the walls parting behind the sentries, where beyond them a tunnel burrows into the unknown depths of the Enclave.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0020!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.002!DESCRIPTION!/]
 
@@ -509,7 +509,7 @@ HUGINN GROVE
 virgin run
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!]
 		||
-		*Ormenos squints as tears blur his vision. Entering the grove from the darkness of the halls is no less than stepping into a midday summer from a wintery midnight. Light burns his eyes, tormenting him like an unwanted truth. Myriad crystals here ensure that light is in no short supply, as they droop from Huginn branches like ripened fruits. But where there is light there are also shadows, the ever-present promise that the light will wane. The shadows shift, however, with the movement of crystals being carefully transported between the trees.*
+		*Ormenos squints as tears blur his vision. Entering the grove from the darkness of the halls is no less than stepping into a midday summer from a wintry midnight. Light burns his eyes, tormenting him like an unwanted truth. Myriad crystals here ensure that light is in no short supply, as they droop from Huginn branches like ripened fruits. But where there is light there are also shadows, the ever-present promise that the light will wane. The shadows shift, however, with the movement of crystals being carefully transported between the trees.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!00.001!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.000!DESCRIPTION!/]
 
@@ -557,7 +557,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!DESCRIPTION!]
 		||
-		*The inquisitive mage begins to stroll through the supernatural grove, admiring the fantastic and variegated fruits of the Huginn trees. Though this is certainly not his first time here, he nonetheless remains in awe of the immensity of this underground grove. The chamber extends so far back that the halos of distant light seem to bleed into one another, choking out any shadows between the trees. Likewise, the ceiling is a distant sea of radiance, consuming magi riding cloudstones up into its heights. The cloudstones shrink to the size of a pebble before completely disappearing.*
+		*The inquisitive mage begins to stroll through the supernatural grove, admiring the fantastic and variegated fruits of the Huginn trees. Though this is certainly not his first time here, he nonetheless remains in awe of the immensity of this underground grove. The chamber extends so far back that the halos of distant light seem to bleed into one another, choking out any shadows between the trees. Likewise, the ceiling is a distant sea of radiance, consuming magi riding Cloudstones up into its heights. The Cloudstones shrink to the size of a pebble before completely disappearing.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0020!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.002!DESCRIPTION!/]
 
@@ -576,7 +576,7 @@ virgin run
 >>>Saw proper alignment clue (2079)<<<
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0022!DESCRIPTION!]
 		|^2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0023!DESCRIPTION!|
-		*But, Ormenos knows that most of these artifacts confound and even defy his erudition. There are blackened mirrors displaying spectral images of hidden dimensions. There are schematics displayed from the fiery tongue of a display lamp, a loping wolf dancing in its flames. And perhaps most out of place in its subdued and unassuming appearance is a collection of scattered stones with arrows etched into them, resting next to a miniscule metallic disk. Hovering over them like starving buzzards are two magi, fastidiously toying with the ruined artifact.*
+		*But, Ormenos knows that most of these artifacts confound and even defy his erudition. There are blackened mirrors displaying spectral images of hidden dimensions. There are schematics displayed from the fiery tongue of a display lamp, a loping wolf dancing in its flames. And perhaps most out of place in its subdued and unassuming appearance is a collection of scattered stones with arrows etched into them, resting next to a minuscule metallic disk. Hovering over them like starving buzzards are two magi, fastidiously toying with the ruined artifact.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(B#Talk to the Overseer){B:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.X001!DESCRIPTION!}
 		(C#Observe the magi work){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-1!DESCRIPTION!}
@@ -624,7 +624,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!DESCRIPTION!]
 		||
-		*The inquisitive mage begins to stroll through the supernatural grove, admiring the fantastic and variegated fruits of the Huginn trees. Though this is certainly not his first time here, he nonetheless remains in awe of the immensity of this underground grove. The chamber extends so far back that the halos of distant light seem to bleed into one another, choking out any shadows between the trees. Likewise, the ceiling is a distant sea of radiance, consuming magi riding cloudstones up into its heights. The cloudstones shrink to the size of a pebble before completely disappearing.*
+		*The inquisitive mage begins to stroll through the supernatural grove, admiring the fantastic and variegated fruits of the Huginn trees. Though this is certainly not his first time here, he nonetheless remains in awe of the immensity of this underground grove. The chamber extends so far back that the halos of distant light seem to bleed into one another, choking out any shadows between the trees. Likewise, the ceiling is a distant sea of radiance, consuming magi riding Cloudstones up into its heights. The Cloudstones shrink to the size of a pebble before completely disappearing.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0030!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.003!DESCRIPTION!/]
 
@@ -643,7 +643,7 @@ virgin run
 >>>Saw proper alignment clue (2079)<<<
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0032!DESCRIPTION!]
 		|^2079:ENCLAVE!ARCHIVES!HUGINN GROVE!0.0033!DESCRIPTION!|
-		*But, Ormenos knows that most of these artifacts confound and even defy his erudition. There are blackened mirrors displaying spectral images of hidden dimensions. There are schematics displayed from the fiery tongue of a display lamp, a loping wolf dancing in its flames. And perhaps most out of place in its subdued and unassuming appearance is a collection of scattered stones with arrows etched into them, resting next to a miniscule metallic disk. Hovering over them like starving buzzards are two magi, fastidiously toying with the ruined artifact.*
+		*But, Ormenos knows that most of these artifacts confound and even defy his erudition. There are blackened mirrors displaying spectral images of hidden dimensions. There are schematics displayed from the fiery tongue of a display lamp, a loping wolf dancing in its flames. And perhaps most out of place in its subdued and unassuming appearance is a collection of scattered stones with arrows etched into them, resting next to a minuscule metallic disk. Hovering over them like starving buzzards are two magi, fastidiously toying with the ruined artifact.*
 		(A#Return to Mathetia){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.00121!DESCRIPTION!}
 		(C#Observe the magi work){C:0,ENCLAVE!ARCHIVES!HUGINN GROVE!9990.X2079-2!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.X0032!DESCRIPTION!/]
@@ -750,7 +750,7 @@ FORM FORGER
 
 	[/ENCLAVE!ARCHIVES!HUGINN GROVE!0.0041!FORM FORGER!]
 		||
-		*"Medical advances deter death and disease. Meterological advances help predict devastating weather. Technological advances provide weapons against the cruel universe that spawned us."*
+		*"Medical advances deter death and disease. Meteorological advances help predict devastating weather. Technological advances provide weapons against the cruel universe that spawned us."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!HUGINN GROVE!0.0042!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!HUGINN GROVE!0.0041!FORM FORGER!/]
 
@@ -977,7 +977,7 @@ MATHETIA
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.001!DESCRIPTION!]
 		||
-		*Through the arched corridor lies a chamber wide enough to escape vision's periphery and tall enough to break a neck. Several thousands of stories compose this cyclopean structure, rings spiraling around a void pillar. From above, light cascades in through a massive aperture to the midday sky. Myriad rooms are carved into the rocky skin of the mountain's interior as they impertinently climb heavenbound, ever-reaching for the heights the Vanquished once soared.
+		*Through the arched corridor lies a chamber wide enough to escape vision's periphery and tall enough to break a neck. Several thousands of stories compose this cyclopean structure, rings spiraling around a void pillar. From above, light cascades in through a massive aperture to the midday sky. Myriad rooms are carved into the rocky skin of the mountain's interior as they impertinently climb heaven-bound, ever-reaching for the heights the Vanquished once soared.
 		
 		At the center stands a Muninn tree, perhaps larger than all other Muninns combined. Its knotted, pearlescent branches reach forth from a mighty trunk, yearning for and growing towards the white crystals dotting the rooms along the walls.
 		
@@ -1027,7 +1027,7 @@ MATHETIA
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!]
 		||
-        *His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, caught in its invisible vortex. Closer, closer, ever closer he falls, in towards the goliath's center. Round and round he goes, soon brushing up against the dark iron railing surrounding the tree. The body's fear instinctively draws eyes to the bottomless chasm the other side of the railing, that mysterious pit housing the Muninn's roots. All attempts to plumb its depths are always just rewarded with death and confusion. A stone dropped into the darkness will make no sound upon hitting the bottom - if it ever does. Even the Muninn's ghostly light eventually succumbs to the abyss' appetite...*
+        *His mind and feet continue to meander, slowly spiraling in towards the great white trunk and its forgotten past. Soon he finds himself circling the Muninn, caught in its invisible vortex. Closer, closer, ever closer he falls, in towards the giant's center. Round and round he goes, soon brushing up against the dark iron railing surrounding the tree. The body's fear instinctively draws eyes to the bottomless chasm the other side of the railing, that mysterious pit housing the Muninn's roots. All attempts to plumb its depths are always just rewarded with death and confusion. A stone dropped into the darkness will make no sound upon hitting the bottom - if it ever does. Even the Muninn's ghostly light eventually succumbs to the abyss' appetite...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.X00112!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.00111!DESCRIPTION!/]
 
@@ -1123,7 +1123,7 @@ completed two events
 		||
 		*As Ormenos walks by, all seem to cast furtive half-glances at him. Whispers of thoughts reach his mindsight as he hears people chastising him for his vagrancy. Long ago was he to have reported to the Choir of Archons and he is pushing the boundaries of their collective patience. For the good of the Enclave, all must fall in line and the nail that rears its impetuous head will be summarily smashed into its proper place.*
 		(A#Go to the Nave to report to the Choir of Archons){A:1,ENCLAVE!ARCHIVES!MATHETIA!0.0030!DESCRIPTION!}
-		(E#The Choir can wait; my needs take precendence){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!DESCRIPTION!}
+		(E#The Choir can wait; my needs take precedence){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.0031!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.003!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0030!DESCRIPTION!]
@@ -1548,7 +1548,7 @@ FORM FORGER
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.X002!FORM FORGER!]
 		|@:ENCLAVE!ARCHIVES!MATHETIA!0.X003!FORM FORGER!|
-		*"Brother Memory Keeper, the senior Thought-Weaver Brother Inquisitor is among us. Perhaps he can explain to you the heirarchy of our importances in a way that is more palatable and comprehensible."*
+		*"Brother Memory Keeper, the senior Thought-Weaver Brother Inquisitor is among us. Perhaps he can explain to you the hierarchy of our importances in a way that is more palatable and comprehensible."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!9999.X1210!FORM FORGER!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.X002!FORM FORGER!/]
 
@@ -2024,7 +2024,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0214!MIDNIGHT!]
 		||
-		*"An hour a day at the Path helps temper any negative effects, no? But others busier might fare warse than a... a Suyuti's goat... wait, that's Kaban... far Jer it'd be... than virgin with the Wyrm, no?"*
+		*"An hour a day at the Path helps temper any negative effects, no? But others busier might fare warse than a... a Suyuti's goat... wait, that's Kaban... far Jer it'd be... than a virgin with the Wyrm, no?"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MATHETIA!0.0215!MIDNIGHT!}
 	[ENCLAVE!ARCHIVES!MATHETIA!0.0214!MIDNIGHT!/]
 
@@ -2302,7 +2302,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!]
 		||
-		*Many junior Archivists hustle about, busy at work, often tending to sapplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task winds a bitter smirk into Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves as his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem a hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
+		*Many junior Archivists hustle about, busy at work, often tending to saplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task winds a bitter smirk into Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves as his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem a hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
         (A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00102!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00101!DESCRIPTION!/]
 
@@ -2332,14 +2332,14 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0010!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0011!DESCRIPTION!|
-		*Ormenos approaches the Curator to speak. The Curator lazily scrutinizes of some documents chaotically strewn about his desk, trying his best to ignore the visitor. Curiosity and pride battle ferociously across his face. Eyes twitch and brows furrow; snarls roll in waves across his upper lip; and breifly his hands join the fight, seemingly trying to compress his cheeks into a single point. Yet almost as soon as it had started, the war ends, curiosity the victor - a safe bet with any Enclavean.*
+		*Ormenos approaches the Curator to speak. The Curator lazily scrutinizes of some documents chaotically strewn about his desk, trying his best to ignore the visitor. Curiosity and pride battle ferociously across his face. Eyes twitch and brows furrow; snarls roll in waves across his upper lip; and briefly his hands join the fight, seemingly trying to compress his cheeks into a single point. Yet almost as soon as it had started, the war ends, curiosity the victor - a safe bet with any Enclavean.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!9999.X1210!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0010!DESCRIPTION!/]
 
 >>>Agreed to go Gremlin Hunting (2077)<<<
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0011!DESCRIPTION!]
 		|^2077:ENCLAVE!ARCHIVES!MUNINN GROVE!0.00110!DESCRIPTION!|
-		*The conversation at an end, the Memory Keeper resumses his active ignoring, randomly rearranging piles of documents while inaudibly conversing with himself - though this is an exclusive conversation, it seems.*
+		*The conversation at an end, the Memory Keeper resumes his active ignoring, randomly rearranging piles of documents while inaudibly conversing with himself - though this is an exclusive conversation, it seems.*
 		(A#Stroll through the grove){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0012!DESCRIPTION!}
 		(B#Leave){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.00120!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.X0011!DESCRIPTION!/]
@@ -2362,13 +2362,13 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00120!DESCRIPTION!]
 		||
-		*A thought, a command, a necessity. Like the sun emerging from behind a stormcloud, it was always there, simply hidden from view. Before he gives the word, his feet already carry him deeper into the grove. He does this despite knowing he is incapable of communing with the trees, lacking the Techne and the powerful artifacts of the Archivists. Thus, he must content himself with the warm glow of the Order's collective knowledge growing before him.*
+		*A thought, a command, a necessity. Like the sun emerging from behind a storm cloud, it was always there, simply hidden from view. Before he gives the word, his feet already carry him deeper into the grove. He does this despite knowing he is incapable of communing with the trees, lacking the Techne and the powerful artifacts of the Archivists. Thus, he must content himself with the warm glow of the Order's collective knowledge growing before him.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00120!DESCRIPTION!/]
 	
     [/ENCLAVE!ARCHIVES!MUNINN GROVE!0.00121!DESCRIPTION!]
 		||
-		*A thought, a command, a necessity. Like the sun emerging from behind a stormcloud, it was always there, simply hidden from view. Before he gives the word, his feet already carry him deeper into the grove.*
+		*A thought, a command, a necessity. Like the sun emerging from behind a storm cloud, it was always there, simply hidden from view. Before he gives the word, his feet already carry him deeper into the grove.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.00122!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.00121!DESCRIPTION!/]
 
@@ -2732,7 +2732,7 @@ completed more than one event
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0020!DESCRIPTION!]
 		||
-		*Many junior Archivists bustle about, busy at work, often tending to sapplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task winds a bitter smirk into Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves as his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem a hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
+		*Many junior Archivists bustle about, busy at work, often tending to saplings or arranging crystalline arrays to direct their growth. The more senior Archivists likewise sweat over their labors, sharing memories to slake the larger Muninns' thirsts for information. Recorded thought abounds within the network of Muninns, enough to make the stars seem countable. Not even centuries of Archivist delving has revealed more than a pitiful fraction of the memories predating the Order. The impossibility of the task winds a bitter smirk into Ormenos' face, lifting lip edges ever so slightly skyward. These curls begin to spiral in on themselves as his mind wanders to the Thought Wheel of the Beginning. Its contents will make this grove seem a hair to a mane; even if everyone everywhere became an Archivist, an eternity would still leave some thoughts undiscovered in its depths.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0021!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0020!DESCRIPTION!/]
 
@@ -2911,7 +2911,7 @@ MEMORY KEEPER
 		||
 		*"Is that so? Then I apologize for wasting the illustrious Inquisitor's time! Forgive me, wise Thought-Weaver! Bah!"*
 		(A#"I'm sorry, I should not have said that."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
-		(D#"Grovelling suits you, Memory Keeper."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
+		(D#"Groveling suits you, Memory Keeper."){D:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 		(E#"Move along, peasant. I now have both tolerance and time in short supply."){E:1,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.015!MEMORY KEEPER!/]
 
@@ -3102,7 +3102,7 @@ MEMORY KEEPER
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!]
 		||
-		*"Oh! So even to a bellycrawler of the Huginn Swamp, the Muninn trees hold some value?"*
+		*"Oh! So even to a belly-crawler of the Huginn Swamp, the Muninn trees hold some value?"*
 		(A#"..."){A:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0020!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.002!MEMORY KEEPER!/]
 
@@ -3114,7 +3114,7 @@ MEMORY KEEPER
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0021!MEMORY KEEPER!]
 		||
-		*"Just please do not remain long, as I'd rather not find out if truth-blindess is infectious."*
+		*"Just please do not remain long, as I'd rather not find out if truth-blindness is infectious."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!10.X000!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0021!MEMORY KEEPER!/]
 
@@ -3227,7 +3227,7 @@ MEMORY KEEPER
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!]
 		||
         *"Nay, Brother! The first is the archiving and preservation of memories for posterity!"*
-		(F#"By Roostors Comb! Such a noble - albeit boring - deed!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!}
+		(F#"By Roostor's Comb! Such a noble - albeit boring - deed!"){F:1,ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!1.0164!MEMORY KEEPER!/]
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!1.0165!MEMORY KEEPER!]
@@ -3333,13 +3333,13 @@ SCRIPTORIUM
 	
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!]
 		||
-		*Stumbling over a hill of throw pillows, Ormenos takes a dive through the ground, sinking deeply into a viscous ether. Ever-deeper, the light fades, and along with it all sorrow, worry, excitation, anticipation, and emotion. A hypnotic wave of pure energy washes away the stains of the imagined, leaving behind only that which is. As though in a profound sleep, but with an unparalleled awareness, the perceiver dreams the waking life for years, milennia, eons.*
+		*Stumbling over a hill of throw pillows, Ormenos takes a dive through the ground, sinking deeply into a viscous ether. Ever-deeper, the light fades, and along with it all sorrow, worry, excitation, anticipation, and emotion. A hypnotic wave of pure energy washes away the stains of the imagined, leaving behind only that which is. As though in a profound sleep, but with an unparalleled awareness, the perceiver dreams the waking life for years, millennia, eons.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.00100!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!]
 		|@:ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0012!DESCRIPTION!|
-		*Emerging from the sea of cleansing ether the revived consciousness witnesses its physical form, the Falseflesh it had apparently left behind, now reclining among the throw pillows and alongside a kindred spirit, of countenance so relaxed, so unperturbed as to be urecognizable as human, a mirror image made flesh. The Sister image peers back, deep into his truth, and smiles.*
+		*Emerging from the sea of cleansing ether the revived consciousness witnesses its physical form, the Falseflesh it had apparently left behind, now reclining among the throw pillows and alongside a kindred spirit, of countenance so relaxed, so unperturbed as to be unrecognizable as human, a mirror image made flesh. The Sister image peers back, deep into his truth, and smiles.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!1.000!DESCRIPTION!}
 		(B#Touch the Sister's mind){B:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!9999.X1212!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.X0011!DESCRIPTION!/]
@@ -3405,7 +3405,7 @@ spoke to word smith
 spoke with word weaver
 	[/ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!DESCRIPTION!]
 		||
-		*Now growing perhaps too accustomed to this state of physical and spiritual intoxication, Ormenos is no longer as affected as he once was. He walks in and sees a room, devoid of all things but a massive, luminscent emerald casting its eldritch light upon the faces of mesmerized magi, heads perched upon uneven stones of the coarsest grain.*
+		*Now growing perhaps too accustomed to this state of physical and spiritual intoxication, Ormenos is no longer as affected as he once was. He walks in and sees a room, devoid of all things but a massive, luminescent emerald casting its eldritch light upon the faces of mesmerized magi, heads perched upon uneven stones of the coarsest grain.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SCRIPTORIUM!0.0030!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SCRIPTORIUM!0.003!DESCRIPTION!/]
 
@@ -3702,7 +3702,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!]
 		||
-		*Seeing all these abandoned relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean pride. Countless unnamed and unremembered individuals exhuasted their life force to yield only feeble fruits, if any at all. He wonders if he will even be worth discarding, like these lifeless scraps, or if his very existence will simply vanish from memory.*
+		*Seeing all these abandoned relics of the past, Ormenos cannot help but feel a tinge of futility stain his Enclavean pride. Countless unnamed and unremembered individuals exhausted their life force to yield only feeble fruits, if any at all. He wonders if he will even be worth discarding, like these lifeless scraps, or if his very existence will simply vanish from memory.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2106!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0002!DESCRIPTION!/]
 
@@ -3844,7 +3844,7 @@ agreed to go to the nave
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001090!DESCRIPTION!]
 		||
-		*And then, as if in a state of supreme, habitual subordination, Ormenos relinquishes control of his feet, then his legs, and soon every part of his Falseflesh. His meekness and subjgation of will to the Choir acts as a loyal guide, hearkening to the call of duty.*
+		*And then, as if in a state of supreme, habitual subordination, Ormenos relinquishes control of his feet, then his legs, and soon every part of his Falseflesh. His meekness and subjugation of will to the Choir acts as a loyal guide, hearkening to the call of duty.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001090!DESCRIPTION!/]
 
@@ -4105,7 +4105,7 @@ had been admonished
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112002!DESCRIPTION!]
 		||
-		*Crushing and fracturing, utterly smashing, and pulverising the crystalline structures, Ormenos sates a destructive lust he hardly knee he possessed. Indeed, the volatile candy of instant gratification feeds his frenzied crusade against crystals, and soon all that remain are a few scattered shards, hapless survivors crippled in their fragmentation.*
+		*Crushing and fracturing, utterly smashing, and pulverizing the crystalline structures, Ormenos sates a destructive lust he hardly knee he possessed. Indeed, the volatile candy of instant gratification feeds his frenzied crusade against crystals, and soon all that remain are a few scattered shards, hapless survivors crippled in their fragmentation.*
 		(A#Leave){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0013!DESCRIPTION!}
 		(C#Inspect the other items){C:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00110!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00112002!DESCRIPTION!/]
@@ -4206,7 +4206,7 @@ dirt
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011311!DESCRIPTION!]
 		||
-		*He tries to look around with eyes frozen in space, observing only the still image before them. The fog remains immobile; the water static in midfall; all has stopped, all except for Awareness. Confusion, spiced with terror and impotence, feed Ormenos' chaotic thoughts, promising to grant him his long-awaited inheritance...*
+		*He tries to look around with eyes frozen in space, observing only the still image before them. The fog remains immobile; the water static in mid-fall; all has stopped, all except for Awareness. Confusion, spiced with terror and impotence, feed Ormenos' chaotic thoughts, promising to grant him his long-awaited inheritance...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011312!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011311!DESCRIPTION!/]
 
@@ -4251,7 +4251,7 @@ dirt
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!]
 		||
-		*Against his better judgment, Ormenos channels the master painter within. Soon he begins ecstactically crafting an unequalled masterpiece of earthen tones upon his fleshy canvas. Ecstasy then become frenzy, manifesting in haphazard spinning. Even while spiraling inward like a leaf in a vortex, his fingers leave broad strokes of dirt lines more complex than the most cryptic Glyphs. The whirling mage spews maniacal laughter, louder with every stroke, until his medium begins to exhaust itself.*
+		*Against his better judgment, Ormenos channels the master painter within. Soon he begins ecstatically crafting an unequaled masterpiece of earthen tones upon his fleshy canvas. Ecstasy then become frenzy, manifesting in haphazard spinning. Even while spiraling inward like a leaf in a vortex, his fingers leave broad strokes of dirt lines more complex than the most cryptic Glyphs. The whirling mage spews maniacal laughter, louder with every stroke, until his medium begins to exhaust itself.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001131010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00113101!DESCRIPTION!/]
 
@@ -4307,7 +4307,7 @@ water
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011324!DESCRIPTION!]
 		||
-		*He tries to look around with eyes frozen in space, observing only the still image before them. The fog remains immobile; the water static in midfall; all has stopped, all except for Awareness. Confusion, spiced with terror and impotence, feed Ormenos' chaotic thoughts, promising to grant him his long-awaited inheritance...*
+		*He tries to look around with eyes frozen in space, observing only the still image before them. The fog remains immobile; the water static in mid-fall; all has stopped, all except for Awareness. Confusion, spiced with terror and impotence, feed Ormenos' chaotic thoughts, promising to grant him his long-awaited inheritance...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011325!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011324!DESCRIPTION!/]
 
@@ -4339,7 +4339,7 @@ water
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132100!DESCRIPTION!]
 		||
-		*But, in an undeniable bout of cosmic irony, water begins to fall over the plants from pipe-fed spigots in the ceiling. Clearly the vegetation could have never reached such monstruous levels of growth had it lacked access to water.*
+		*But, in an undeniable bout of cosmic irony, water begins to fall over the plants from pipe-fed spigots in the ceiling. Clearly the vegetation could have never reached such monstrous levels of growth had it lacked access to water.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132101!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132100!DESCRIPTION!/]
 
@@ -4353,7 +4353,7 @@ water
 >>>Extinguished braziers (2086)<<<
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113211!DESCRIPTION!]
 		|^2086:ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001132110!DESCRIPTION!|
-		*Ormenos hurriedly runs to and fro between the rivulet and the smoke-churning braziers, filling his repurposed crystalline cup with water and innudating the braziers with its fire-choking baths.*
+		*Ormenos hurriedly runs to and fro between the rivulet and the smoke-churning braziers, filling his re-purposed crystalline cup with water and inundating the braziers with its fire-choking baths.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2086!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.X00113211!DESCRIPTION!/]
 
@@ -4399,7 +4399,7 @@ braziers
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011333!DESCRIPTION!]
 		||
-		*He tries to look around with eyes frozen in space, observing only the still image before them. The fog remains immobile; the water static in midfall; all has stopped, all except for Awareness. Confusion, spiced with terror and impotence, feed Ormenos' chaotic thoughts, promising to grant him his long-awaited inheritance...*
+		*He tries to look around with eyes frozen in space, observing only the still image before them. The fog remains immobile; the water static in mid-fall; all has stopped, all except for Awareness. Confusion, spiced with terror and impotence, feed Ormenos' chaotic thoughts, promising to grant him his long-awaited inheritance...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011334!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0011333!DESCRIPTION!/]
 
@@ -4431,7 +4431,7 @@ braziers
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133200!DESCRIPTION!]
 		||
-		*As the initial shock wanes, he regains control over his rogue musculature. Gripping his damaged hand with the untainted one, he lifts himself up. Gradually, and much to his surprise, the pain vanishes until nothing remains. Absent the hideous imprint of the devilsh coal upon his palm, Ormenos would never even suspect that he had been foolish enough to reach into a brazier to play with fire.*
+		*As the initial shock wanes, he regains control over his rogue musculature. Gripping his damaged hand with the untainted one, he lifts himself up. Gradually, and much to his surprise, the pain vanishes until nothing remains. Absent the hideous imprint of the devilish coal upon his palm, Ormenos would never even suspect that he had been foolish enough to reach into a brazier to play with fire.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133201!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001133200!DESCRIPTION!/]
 
@@ -4600,7 +4600,7 @@ exploding crystal
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00955!DESCRIPTION!]
 		||
-		*Perhaps all is always as it should be. Ormenos is destined to survive, regardless of his will. A shockwave roars at him, slamming the mage violently into some unseen surface. Consciousness drains from his weakened Falseflesh...*
+		*Perhaps all is always as it should be. Ormenos is destined to survive, regardless of his will. A shock wave roars at him, slamming the mage violently into some unseen surface. Consciousness drains from his weakened Falseflesh...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00956!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00955!DESCRIPTION!/]
 
@@ -4743,7 +4743,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001027!BABEL!]
 		||
-		*"...Well, the truth is a little... embarassing..."*
+		*"...Well, the truth is a little... embarrassing..."*
 		(A#"Well, now I have to know!"){A:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001028!BABEL!}
 		(B#"Personal reasons? I suppose I'll be on my way, then."){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001029!BABEL!}
 		(E#"Well, doesn't matter; I need to get going anyway."){E:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001029!BABEL!}
@@ -5018,13 +5018,13 @@ ormenos opened the sylvan refuge
 
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!]
 		||
-		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must perservere.*
+		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must persevere.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0011!DESCRIPTION!/]
 
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!]
 		||
-        *Among the scattered spectres and various artifacts are objects more mundane. A chair here, a workbench there. He grounds himself in their banality, only to find their dimensions are no trick of perspective. Every table, every stool, everything is massive, fit for a form of equal proportions.*
+        *Among the scattered specters and various artifacts are objects more mundane. A chair here, a workbench there. He grounds himself in their banality, only to find their dimensions are no trick of perspective. Every table, every stool, everything is massive, fit for a form of equal proportions.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0013!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0012!DESCRIPTION!/]
 
@@ -5065,7 +5065,7 @@ ormenos opened the sylvan refuge
 
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!]
 		||
-		*His courage breaks and his psyche splinters. He falls to his kness and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding. Time seems to stretch and all memory fades...*
+		*His courage breaks and his psyche splinters. He falls to his knees and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding. Time seems to stretch and all memory fades...*
         (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.00160!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0016!DESCRIPTION!/]
 
@@ -5097,7 +5097,7 @@ comes in w babel
 
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!]
 		||
-		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must perservere. A derisive smirk curls Babels lips as he motions with his head to look again at the room.*
+		*Shock and terror war across his face, as projections of enormous sea snakes, skinned wolves, and myriad other half-finished horrors dance mid-air before him. A persistent sense of dread tears at the tattered frays of his sanity, threatening to pull him under. But he is used to this by now. He can beat it; he must persevere. A derisive smirk curls Babels lips as he motions with his head to look again at the room.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0022!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0021!DESCRIPTION!/]
 
@@ -5151,7 +5151,7 @@ comes in w babel
 
 	[/ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!]
 		||
-        *Despair seeps into him like water into a sinking ship, and soon every fiber of his being is getting pulled into the abyss. He falls to his kness and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding.*
+        *Despair seeps into him like water into a sinking ship, and soon every fiber of his being is getting pulled into the abyss. He falls to his knees and begins a desperate crawl back up the stairs. Pitiful whimpers leak through his trembling lips, the shadows of strangled screams too weak to come out from hiding.*
         (A#...){A:0,ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.0030!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!SYLVAN REFUGE!0.003!DESCRIPTION!/]
 

@@ -83,7 +83,7 @@ came from Crypt of Archons
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.0083!DESCRIPTION!]
 		||
-        *He crawls along the ground, attempting to find the walls of the chamber. Further and further into the void, the light of the circle ever-diminishes as he panickedly scrambles away from it.*
+        *He crawls along the ground, attempting to find the walls of the chamber. Further and further into the void, the light of the circle ever-diminishes as his distance from it grows.*
         (A#...){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.0084!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.0083!DESCRIPTION!/]
 
@@ -617,7 +617,7 @@ Went directly to the Nave
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00101!DESCRIPTION!]
 		||
-        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equalled by the bumbling hands that would imitate them after the Great Awakening.*
+        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equaled by the bumbling hands that would imitate them after the Great Awakening.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00102!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00101!DESCRIPTION!/]
 
@@ -731,7 +731,7 @@ witness Khlutt
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00123!DESCRIPTION!]
 		||
-		*But Ormenos cannot quite anticipate where all this will lead. Nor does he feel the need to. For now, he simply wishes to obey those commands the Choir gave. For now, he just wants to... what was he supposed to do again? The memory seems to rest just outside consciousness, a malformed and urneadable mess, present but impossible to decipher. For now, then, all he can do is leave the Nave.*
+		*But Ormenos cannot quite anticipate where all this will lead. Nor does he feel the need to. For now, he simply wishes to obey those commands the Choir gave. For now, he just wants to... what was he supposed to do again? The memory seems to rest just outside consciousness, a malformed and unreadable mess, present but impossible to decipher. For now, then, all he can do is leave the Nave.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00123!DESCRIPTION!/]
 
@@ -797,7 +797,7 @@ Taken to Dissent's Remorse
 ---Have option to fight and if he has Corruption etc. he can wreak havoc---
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0015!DESCRIPTION!]
 		||
-		*Enforcers surround Ormenos, preparing for resistance. As the trapped mage considers what to do, the doors contract, revealing the young and impetuous Enforcer known as the Jinn Slayer framed by the radiance of the outter hallway. He arrives unannounced, unexpected, demanding an audience with the Choir... An audience Ormenos will not witness, as he feels a sharp pain steal his consciousness, witnessing one last...*
+		*Enforcers surround Ormenos, preparing for resistance. As the trapped mage considers what to do, the doors contract, revealing the young and impetuous Enforcer known as the Jinn Slayer framed by the radiance of the outer hallway. He arrives unannounced, unexpected, demanding an audience with the Choir... An audience Ormenos will not witness, as he feels a sharp pain steal his consciousness, witnessing one last...*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0015!DESCRIPTION!/]
 
@@ -806,7 +806,7 @@ Taken to Soul Stasis Cell
 ---Have option to fight and if he has Corruption etc. he can wreak havoc---
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0016!DESCRIPTION!]
 		||
-		*Enforcers surround Ormenos, preparing for resistance. As the trapped mage considers what to do, the doors contract, revealing the young and impetuous Enforcer known as the Jinn Slayer framed by the radiance of the outter hallway. He arrives unannounced, unexpected, demanding an audience with the Choir... An audience Ormenos will not witness, as he feels a sharp pain steal his consciousness, witnessing one last...*
+		*Enforcers surround Ormenos, preparing for resistance. As the trapped mage considers what to do, the doors contract, revealing the young and impetuous Enforcer known as the Jinn Slayer framed by the radiance of the outer hallway. He arrives unannounced, unexpected, demanding an audience with the Choir... An audience Ormenos will not witness, as he feels a sharp pain steal his consciousness, witnessing one last...*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!6.500!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0016!DESCRIPTION!/]
 
@@ -820,7 +820,7 @@ Dilly-dallied a little (one or two events)
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00201!DESCRIPTION!]
 		||
-        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equalled by the bumbling hands that would imitate them after the Great Awakening.*
+        *The doors begin to fade, breaking the silence not with their own noise but with the din that comes from beyond them, from within the Nave itself. Ormenos enters, walking into a hall much longer than it is wide. Countless unseeing eyes stare down from vaulted ceilings and out from painted walls; here extravagant gilded depictions of familiar Vanquished mythology adorn the six directions. Infamously anything but reserved when it came to their artwork, the Vanquished left behind countless frescoes and mosaics never quite equaled by the bumbling hands that would imitate them after the Great Awakening.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.00202!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00201!DESCRIPTION!/]
 
@@ -858,7 +858,7 @@ Dilly-dallied a little (one or two events)
 Dragged here by the enforcers
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003!DESCRIPTION!]
 		||
-		*Ormenos seems to awaken from his waking slumber, finding his Enforcer escort has brought him to Judgment's doorstep. One prods Ormenos from behind, forcing him to clumisly renew his stride toward the massive wooden doors of the Nave. They stand like two lone trees clinging to an otherwise barren cliffside. Out of place to be sure, but somehow majestic because of their oddity. Etched deep into their collective surface is one lonely symbol - alone because it is all that needs be there - the very symbol of the Enclave. Four alpha omega chimeras stare inward toward a single point, never quite touching at it; four corners suggest a broken square containing them. Shivers sneak their way down his spine - the unwelcome prelude to speaking before the Choir.*
+		*Ormenos seems to awaken from his waking slumber, finding his Enforcer escort has brought him to Judgment's doorstep. One prods Ormenos from behind, forcing him to clumsily renew his stride toward the massive wooden doors of the Nave. They stand like two lone trees clinging to an otherwise barren cliffside. Out of place to be sure, but somehow majestic because of their oddity. Etched deep into their collective surface is one lonely symbol - alone because it is all that needs be there - the very symbol of the Enclave. Four alpha omega chimeras stare inward toward a single point, never quite touching at it; four corners suggest a broken square containing them. Shivers sneak their way down his spine - the unwelcome prelude to speaking before the Choir.*
         (A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0030!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003!DESCRIPTION!/]
 
@@ -893,19 +893,19 @@ Dragged here by the enforcers
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00331!DESCRIPTION!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0036!DESCRIPTION!|
-		*As Ormenos begins his plea for clemency, his escort of Enforcers renew their grips and drag the recalcitrant mage up to the front, where they stand him upon a miniscule dais.*
+		*As Ormenos begins his plea for clemency, his escort of Enforcers renew their grips and drag the recalcitrant mage up to the front, where they stand him upon a minuscule dais.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00331!DESCRIPTION!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00332!DESCRIPTION!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0036!DESCRIPTION!|
-		*Ormenos walks dutifully to the opposite end of the hall and steps upon a miniscule speaking dais, ready to address the Choir of Archons.*
+		*Ormenos walks dutifully to the opposite end of the hall and steps upon a minuscule speaking dais, ready to address the Choir of Archons.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00332!DESCRIPTION!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00333!DESCRIPTION!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.X0036!DESCRIPTION!|
-		*Ormenos stands looking quizzically about at his frowning and appalled colleagues. It is not long before his escort of Enforcers renew their grips and drag the recalcitrant mage up to the front, where they stand him upon a miniscule dais.*
+		*Ormenos stands looking quizzically about at his frowning and appalled colleagues. It is not long before his escort of Enforcers renew their grips and drag the recalcitrant mage up to the front, where they stand him upon a minuscule dais.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!DESCRIPTION!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X00333!DESCRIPTION!/]
 
@@ -1076,7 +1076,7 @@ went directly to the nave
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.00021!CHOIR OF ARCHONS!]
 		||
-		*"Then, the Wayfarer travelled the Path of Awareness..."*
+		*"Then, the Wayfarer traveled the Path of Awareness..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000210!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.00021!CHOIR OF ARCHONS!/]
 
@@ -1312,7 +1312,7 @@ went directly to the nave
 		(C#"As you wish."){C:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!}
 		(D#"Kambesh? But I was the one who found it! Only I truly understand!"){D:1,ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2020!CHOIR OF ARCHONS!}
 		(E#"Clearly I'm the superior choice. Kambesh is nothing."){E:1,ENCLAVE!THE NAVE!HALL OF RECKONING!9990.X2020!CHOIR OF ARCHONS!}
-		(F#"Oh! That's the guy that gets killed by Khaa and Pakharon!"){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000916!CHOIR OF ARCHONS!}
+		(F#"Oh! That's the guy that gets killed by Khaa and Pakahron!"){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000916!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009100!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.000911!CHOIR OF ARCHONS!]
@@ -1391,7 +1391,7 @@ went directly to the nave
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.000916!CHOIR OF ARCHONS!]
 		||
 		*"...Is this a threat upon your Brother's life, Inquisitor?"*
-		(F#"No, look, I'm a time-traveller and spoiler alert... he dies!"){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009160!CHOIR OF ARCHONS!}
+		(F#"No, look, I'm a time-traveler and spoiler alert... he dies!"){F:1,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009160!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000916!CHOIR OF ARCHONS!/]
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.0009160!CHOIR OF ARCHONS!]

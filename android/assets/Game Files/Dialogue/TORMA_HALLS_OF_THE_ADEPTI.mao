@@ -16,7 +16,7 @@ CALEFACTORY
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00100!DESCRIPTION!]
 		||
-		*Frigid bones quickly thawing, Ormenos looks around for a place to rest. Though Ormenos looks only half-heartedly, as nary a chair would be empty at this time of day. Months' worth of fatigue hits his weary Falseflesh all at once, buckling his knees. A hand reaches for the doorframe to stabilize the crumbling mage. Resigned laughter weakly leaves his lips no louder than dying whispers. Unintentionally he loses the reins to his Falseflesh and unintentionally he regains them. Nothing is within his control.*
+		*Frigid bones quickly thawing, Ormenos looks around for a place to rest. Though Ormenos looks only half-heartedly, as nary a chair would be empty at this time of day. Months' worth of fatigue hits his weary Falseflesh all at once, buckling his knees. A hand reaches for the door frame to stabilize the crumbling mage. Resigned laughter weakly leaves his lips no louder than dying whispers. Unintentionally he loses the reins to his Falseflesh and unintentionally he regains them. Nothing is within his control.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00101!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00100!DESCRIPTION!/]
 
@@ -81,7 +81,7 @@ Completed two events
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!DESCRIPTION!]
 		||
-		*Frigid bones quickly thawing, Ormenos looks around for a place to rest. Though Ormenos looks only half-heartedly, as nary a chair would be empty at this time of day. Months' worth of fatigue hits his weary Falseflesh all at once, buckling his knees. A hand reaches for the doorframe to stabilize the crumbling mage. Resigned laughter weakly leaves his lips no louder than dying whispers. Unintentionally he loses the reins to his Falseflesh and unintentionally he regains them. Nothing is within his control.*
+		*Frigid bones quickly thawing, Ormenos looks around for a place to rest. Though Ormenos looks only half-heartedly, as nary a chair would be empty at this time of day. Months' worth of fatigue hits his weary Falseflesh all at once, buckling his knees. A hand reaches for the door frame to stabilize the crumbling mage. Resigned laughter weakly leaves his lips no louder than dying whispers. Unintentionally he loses the reins to his Falseflesh and unintentionally he regains them. Nothing is within his control.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00201!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00200!DESCRIPTION!/]
 
@@ -126,7 +126,7 @@ Completed two events
 Completed three events
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!DESCRIPTION!]
 		||
-		*Warmth banishes the chill hiding in Ormenos' bones. So subtly did the wintery halls rob him of heat that he barely even noticed. Only now in the presence of warmth does he realize just how little heat remained within him. The Inquisitor had often thought this of Time, but only now does he connect the two events, wondering what other resource of his now slowly - nay, imperceptibly - diminishes beyond his awareness...*
+		*Warmth banishes the chill hiding in Ormenos' bones. So subtly did the wintry halls rob him of heat that he barely even noticed. Only now in the presence of warmth does he realize just how little heat remained within him. The Inquisitor had often thought this of Time, but only now does he connect the two events, wondering what other resource of his now slowly - nay, imperceptibly - diminishes beyond his awareness...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0030!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.003!DESCRIPTION!/]
 
@@ -164,7 +164,7 @@ Completed three events
 Heard Khlutt's outburst
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!DESCRIPTION!]
 		||
-		*Embers fade to ash, the dying breaths of the Calefactory's two great fires. The moon has risen and all magi should be in their quarters. Should be. Yet, crystalline laterns carve light from the shadows, revealing a sizeable crowd, all of the Enforcer caste given their cloaks. Where there should be none, dozens congregate. This breach of protocol is just another mystery tickling the Inquisitor's greatest weakness: his curiosity.*
+		*Embers fade to ash, the dying breaths of the Calefactory's two great fires. The moon has risen and all magi should be in their quarters. Should be. Yet, crystalline lanterns carve light from the shadows, revealing a sizable crowd, all of the Enforcer caste given their cloaks. Where there should be none, dozens congregate. This breach of protocol is just another mystery tickling the Inquisitor's greatest weakness: his curiosity.*
         (A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0040!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.004!DESCRIPTION!/]
 
@@ -182,7 +182,7 @@ Heard Khlutt's outburst
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!DESCRIPTION!]
 		||
-		*The roused crowd responds with a unison clamor of affirmations and nonsensical celebratory hoots. These, the greatest minds of the era, have devolved into an unsophisticated and ambiguous entity, into an unthinking and indivisble unit, into a mere mob.*
+		*The roused crowd responds with a unison clamor of affirmations and nonsensical celebratory hoots. These, the greatest minds of the era, have devolved into an unsophisticated and ambiguous entity, into an unthinking and indivisible unit, into a mere mob.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0043!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0042!DESCRIPTION!/]
 
@@ -225,7 +225,7 @@ post khlutt dialogue
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0053!DESCRIPTION!]
 		||
-		*No, in fact, he is more alone than ever, caught in the shadow of some gargatuan mind, some greater entity formed from the will of the many magi of the Enclave. Crushed by the oppresive weight of the majority, he has little choice. His future is uncertain, nebulous...*
+		*No, in fact, he is more alone than ever, caught in the shadow of some gargantuan mind, some greater entity formed from the will of the many magi of the Enclave. Crushed by the oppressive weight of the majority, he has little choice. His future is uncertain, nebulous...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0054!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0053!DESCRIPTION!/]
 
@@ -261,7 +261,7 @@ post khlutt dialogue
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0059!DESCRIPTION!]
 		||
-		*Shivers course through the mage's tensing musculature, in imitation of the recent quake. His nerves are candlewicks fried and frayed beyond repair; unable to sustain prolonged mimicry, the shaking soon abates. The exhuasted Inquisitor now lies motionless on the ground, soaking in the post-traumatic peace. Another disaster survived; another crisis averted.*
+		*Shivers course through the mage's tensing musculature, in imitation of the recent quake. His nerves are candlewicks fried and frayed beyond repair; unable to sustain prolonged mimicry, the shaking soon abates. The exhausted Inquisitor now lies motionless on the ground, soaking in the post-traumatic peace. Another disaster survived; another crisis averted.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.00590!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0059!DESCRIPTION!/]
 
@@ -644,7 +644,7 @@ CHAOS TAMER
 
     [/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!CHAOS TAMER!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!CHAOS TAMER!|
-        *"Soon Brother Jinn Slayer will shatter the false mirror our puppetmasters cloak themselves behind!"*
+        *"Soon Brother Jinn Slayer will shatter the false mirror our puppet-masters cloak themselves behind!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!9999.X1215!CHAOS TAMER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X001!CHAOS TAMER!/]
 
@@ -1474,7 +1474,7 @@ sleeps
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.002!DESCRIPTION!]
 		||
-		*The Thought Wheel of the Beginning - if what the Thiuda believed is true - would propel all back into the golden era of the Vanquished. But if it were so easily found, how could Wuflias have missed it as he razed the Ataraxia to the ground? How could countless generations of magi have simply left the mastercraft of the Vanquished to be covered by the sands of Kabu?*
+		*The Thought Wheel of the Beginning - if what the Thiuda believed is true - would propel all back into the golden era of the Vanquished. But if it were so easily found, how could Wulfias have missed it as he razed the Ataraxia to the ground? How could countless generations of magi have simply left the master craft of the Vanquished to be covered by the sands of Kabu?*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.003!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!1.002!DESCRIPTION!/]
 
@@ -1661,13 +1661,13 @@ Virgin run
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!]
 		||
-		*He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose backstory defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
+		*He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose back story defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X00101!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X00101!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0010!DESCRIPTION!|
-        *Ormenos' survey has revealed no available seats, and so he conisders whether to talk to Cook Ding to pass the time, or simply to leave and ignore his stomach's complaints.*
+        *Ormenos' survey has revealed no available seats, and so he considers whether to talk to Cook Ding to pass the time, or simply to leave and ignore his stomach's complaints.*
 		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!}
 		(B#Talk to the Cook){B:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!9999.X1208!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X00101!DESCRIPTION!/]
@@ -1686,7 +1686,7 @@ Virgin run
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0012!DESCRIPTION!]
 		||
-        *Ormenos feeds along with all his other nameless, pig brethren. They are all lost in this decadent moment of carnal indulgence. Hand to food, and food to mouth, they perform their rhythmic dance. Juices stream down their jowls as they shovel and chew, shovel and chew. Diminutive cloudstones busily deliver more dishes and wines for them to quench their voracious appetites.*
+        *Ormenos feeds along with all his other nameless, pig brethren. They are all lost in this decadent moment of carnal indulgence. Hand to food, and food to mouth, they perform their rhythmic dance. Juices stream down their jowls as they shovel and chew, shovel and chew. Diminutive Cloudstones busily deliver more dishes and wines for them to quench their voracious appetites.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0013!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0012!DESCRIPTION!/]
 
@@ -1698,7 +1698,7 @@ Virgin run
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0014!DESCRIPTION!]
 		||
-        *Ormenos rises from his seat, ready to depart. He stumbles away from the table, half-comatose, wondering why those of the Order only abandon the path of Disciplince when in the Refectory - especially when it is elsewhere enforced with utmost severity. The Phrygian wisemen once said that a string wound too tightly is prone to snapping. An adequate explanation? At any rate, he no longer cares, for the blood from his brain now quietly transfers to his gut in order to better cope with the mess he has created down there...*
+        *Ormenos rises from his seat, ready to depart. He stumbles away from the table, half-comatose, wondering why those of the Order only abandon the path of Discipline when in the Refectory - especially when it is elsewhere enforced with utmost severity. The Phrygian wisemen once said that a string wound too tightly is prone to snapping. An adequate explanation? At any rate, he no longer cares, for the blood from his brain now quietly transfers to his gut in order to better cope with the mess he has created down there...*
 		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!10.X000!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0014!DESCRIPTION!/]
 
@@ -1721,13 +1721,13 @@ Met Cook Ding
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!]
 		||
-        *He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose backstory defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
+        *He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose back story defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X0021!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X0021!DESCRIPTION!]
 		|@:ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0010!DESCRIPTION!|
-        *Ormenos' survey has revealed no available seats, and so he conisders whether to talk to Cook Ding to pass the time, or simply to leave and ignore his stomach's complaints.*
+        *Ormenos' survey has revealed no available seats, and so he considers whether to talk to Cook Ding to pass the time, or simply to leave and ignore his stomach's complaints.*
 		(A#Return to Calefactory){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!}
 		(B#Talk to the Cook){B:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!9999.X1208!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X0021!DESCRIPTION!/]

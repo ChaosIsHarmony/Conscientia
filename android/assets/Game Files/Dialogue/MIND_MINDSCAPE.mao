@@ -45,7 +45,7 @@ CRIMSON FIELD
 
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.000!DESCRIPTION!]
 		||
-		*The Self stands among the swaying Redgrain stalks of a windswept plain. Dense, chest-high fields cover the flat land like wolly carpets, spread out as far as the eye can see. The fields seem to meld seamlessly into a sky caught in the crimson haze of a perpetual dusk.
+		*The Self stands among the swaying Redgrain stalks of a windswept plain. Dense, chest-high fields cover the flat land like woolly carpets, spread out as far as the eye can see. The fields seem to meld seamlessly into a sky caught in the crimson haze of a perpetual dusk.
 		
 		As the Self strides forward, the sizzling sound of grain against thigh becomes a comfortable whisper, lulling it into a calmed state. Carving a path through the vermilion carpet, the Self feels as though it could spend the rest of eternity in this peaceful place...*
 		(A#Continue onwards to eternal bliss){A:0,MIND!MINDSCAPE!CRIMSON FIELD!9990.X21000-1!DESCRIPTION!}
@@ -54,7 +54,7 @@ CRIMSON FIELD
 
 	[/MIND!MINDSCAPE!CRIMSON FIELD!0.001!DESCRIPTION!]
 		||
-		*The Self stops. Darkness streams down the ruddy sky like black paint on window. Pitiful stars creep what light they can through the nightmarish heavens. While sun and moon both weakly occupy oppsite corners of the sky, it is nearly impossible to tell which is master. One sphere is an ashen disk bathed in a smoldering red glow, the other, simply a lump of rust bleeding forth dull light like blood from the face of a ruined god.
+		*The Self stops. Darkness streams down the ruddy sky like black paint on window. Pitiful stars creep what light they can through the nightmarish heavens. While sun and moon both weakly occupy opposite corners of the sky, it is nearly impossible to tell which is master. One sphere is an ashen disk bathed in a smoldering red glow, the other, simply a lump of rust bleeding forth dull light like blood from the face of a ruined god.
 		
 		Tall grasses are made to bend before these dying lords as the winds heave breaths of dry air. Bearing the fruits of this crop, the wind tastes of a mixture of malt and phosphorus.*
 		(A#...){A:0,MIND!MINDSCAPE!CRIMSON FIELD!0.0010!DESCRIPTION!}
@@ -913,8 +913,8 @@ in farmstead
 
 	[/MIND!MINDSCAPE!CRIMSON FIELD!11.603!FAMLICUS!]
 		||
-		*"You are as urbane as you are sharp-witted. But nevermind. If you care not for understanding, then you must journey forward in ignorance."*
-		(F#"Sure! Never travelled in one of those before..."){F:1,MIND!MINDSCAPE!CRIMSON FIELD!11.X1022!FAMLICUS!}
+		*"You are as urbane as you are sharp-witted. But never mind. If you care not for understanding, then you must journey forward in ignorance."*
+		(F#"Sure! Never traveled in one of those before..."){F:1,MIND!MINDSCAPE!CRIMSON FIELD!11.X1022!FAMLICUS!}
 	[MIND!MINDSCAPE!CRIMSON FIELD!11.603!FAMLICUS!/]
 
 
@@ -1343,7 +1343,7 @@ Torma + Adarin convo
 		|@:MIND!MINDSCAPE!GRAYLANDS!5.X100!DESCRIPTION!|
 		*As this Self walks into the Graylands upon the reflective surface of the floor, its silent footsteps begin to acquire sound, a dull monotonous thud, at an unwavering marching tempo. Deeper into the grayness do the footsteps penetrate, until this Self hears the sounds of a mirror gait, slow in its approach.
 		
-		As the Awareness of this presence dawns, its form and apellation become known. Thus, this Self realizes its form, Adarin, Beast Lord of the Enforcer caste. The Enclave, a memory, when from remains unclear in this timeless realm, but all memory can only be perceived in the present.*
+		As the Awareness of this presence dawns, its form and appellation become known. Thus, this Self realizes its form, Adarin, Beast Lord of the Enforcer caste. The Enclave, a memory, when from remains unclear in this timeless realm, but all memory can only be perceived in the present.*
 		(A#...){A:0,MIND!MINDSCAPE!GRAYLANDS!9999.X1200!DESCRIPTION!}
 	[MIND!MINDSCAPE!GRAYLANDS!5.X000!DESCRIPTION!/]
 
@@ -1380,7 +1380,7 @@ Torma + Adarin convo
 
 	[/MIND!MINDSCAPE!GRAYLANDS!5.202!DESCRIPTION!]
 		||
-		*The final thread of memories unravelled.*
+		*The final thread of memories unraveled.*
 		(A#...){A:0,MIND!MINDSCAPE!GRAYLANDS!5.203!DESCRIPTION!}
 	[MIND!MINDSCAPE!GRAYLANDS!5.202!DESCRIPTION!/]
 
@@ -1407,7 +1407,7 @@ ADARIN
 		(C#"My final memory is of Urugh and its Thought Wheel."){C:1,MIND!MINDSCAPE!GRAYLANDS!0.300!BEAST LORD!}
 		(D#"This could be done, but what do I get in return?"){D:1,MIND!MINDSCAPE!GRAYLANDS!0.400!BEAST LORD!}
 		(E#"Just try to rip it from my mind..."){E:1,MIND!MINDSCAPE!GRAYLANDS!0.500!BEAST LORD!}
-		(F#"Beastboy! In the Book of Eidos you become a weirdo in a cave!"){F:1,MIND!MINDSCAPE!GRAYLANDS!0.600!BEAST LORD!}
+		(F#"Beastboy! We met in that cave, in the Book of Eidos! Remember?"){F:1,MIND!MINDSCAPE!GRAYLANDS!0.600!BEAST LORD!}
 	[MIND!MINDSCAPE!GRAYLANDS!0.X000!BEAST LORD!/]
 
 	[/MIND!MINDSCAPE!GRAYLANDS!0.100!BEAST LORD!]
@@ -2074,7 +2074,7 @@ MIMIR
 		|@:MIND!MINDSCAPE!MIMIR!1.X001!DESCRIPTION!|
 		*As the ringing clang of metal on metal becomes louder and clearer, the Self is plunged into a space that can only be defined as a symmetry incarnate. The fine wood carvings have given way to strong beams of oak supporting walls of precisely cut black granite. The chamber is octagonal in its floor plan, but the ceiling is a multi-faceted dome, though no trace of curve or roundness disturbs the perfect angularity of these surroundings. The source of the clamoring noise stands at the room's center.
 		
-		A man of middling years works before an anvil in what is evidently a smithy. His curly hair is the color of un-worked iron, while his muscles are taut, and twist with each blow in sublime perfection. The regularity of his strikes are matched by the breathing of the bellows as they are driven by a waterwheel emerging from the wall, of which only one third can be seen. With a pair of tongs, he draws a glowing blue substance from the furnace beside him, and with a hammer beats it into the material he is working. It seems he might be crafting the face of a young woman, though it is too unfinished to determine its identity.
+		A man of middling years works before an anvil in what is evidently a smithy. His curly hair is the color of unworked iron, while his muscles are taut, and twist with each blow in sublime perfection. The regularity of his strikes are matched by the breathing of the bellows as they are driven by a waterwheel emerging from the wall, of which only one third can be seen. With a pair of tongs, he draws a glowing blue substance from the furnace beside him, and with a hammer beats it into the material he is working. It seems he might be crafting the face of a young woman, though it is too unfinished to determine its identity.
 		
 		While the chamber and the smith reflect an uncompromising sense of order, the room is filled to bursting with myriad shapes and figures of varied design and material.*
 		(A#Talk to the smith){A:0,MIND!MINDSCAPE!MIMIR!9999.X0020!DESCRIPTION!}
@@ -2536,7 +2536,7 @@ VANARGAND
 
 	[/MIND!MINDSCAPE!MIMIR!0.201!VANARGAND!]
 		||
-		*"The stream is called Lifwed, but the pool is named Mimisbrunnr. The difference is important, but for what reason I am uncertain."*
+		*"The stream is called Lifwed, but the pool is named Mimisbrunnr. The difference is important. Now if only I knew why..."*
 		(A#"..."){A:0,MIND!MINDSCAPE!MIMIR!0.X2010!VANARGAND!}
 	[MIND!MINDSCAPE!MIMIR!0.201!VANARGAND!/]
 
@@ -2716,7 +2716,7 @@ VANARGAND
 	[/MIND!MINDSCAPE!MIMIR!1.600!VANARGAND!]
 		||
 		*"Perhaps, but one nightmare is replaced with another, and on and on. But speak your mind! I am eager to hear of your wants and desires."*
-		(F#"I need a jetpack, so that I can fly like Roostor."){F:1,MIND!MINDSCAPE!MIMIR!1.601!VANARGAND!}
+		(F#"I need a jet pack, so that I can fly like Roostor."){F:1,MIND!MINDSCAPE!MIMIR!1.601!VANARGAND!}
 	[MIND!MINDSCAPE!MIMIR!1.600!VANARGAND!/]
 
 
@@ -2902,7 +2902,7 @@ MISTY WOOD
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X006!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
-		*Having grown tired of this drab forest, Stalfos Gremlinsbane banishes the gray fog and replaces it with a purple haze. The mushroom folk of the forest blow trumpets heralding the arrival of the world's savior.
+		*Having grown tired of this drab forest, Stalphos Gremlinsbane banishes the gray fog and replaces it with a purple haze. The mushroom folk of the forest blow trumpets heralding the arrival of the world's savior.
 		
 		As the squirrels, eagles and grizzly bears come out bearing gifts, fine food and a luxurious folding chair, a charcoal wolf named Fenny D moonwalks over to our hero for some major news.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
@@ -2949,7 +2949,7 @@ MISTY WOOD
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.001!DESCRIPTION!|
-		*The Self is surrounded by the shapes of trees both great and small in a forest bedecked with a mantle of fog. Tall conifers stretch up into a hidden sky all around, while the gnarled limbs of oak, ash and elm offer an infinity of leaves to obscure its surroundings. The only sound in this place seems to be the gentle drip of water on the undergrowth as the mist gathers into dew upon the soaked bark. The rhythmic sound is joined by the whipser of paw steps as the shape of a lone wolf is breathed into view. The creature watches the Self from a short distance.
+		*The Self is surrounded by the shapes of trees both great and small in a forest bedecked with a mantle of fog. Tall conifers stretch up into a hidden sky all around, while the gnarled limbs of oak, ash and elm offer an infinity of leaves to obscure the surroundings. The only sound in this place seems to be the gentle drip of water on the undergrowth as the mist gathers into dew upon the soaked bark. The rhythmic sound is joined by the whisper of paw steps as the shape of a lone wolf is breathed into view. The creature watches the Self from a short distance.
 		
 		Through the trees, not far from here, the reflection of light upon a watery surface targets the Self's eyes.*
 		(A#Talk to the wolf){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
@@ -3332,7 +3332,7 @@ TOWER OF DISCIPLINE
 		||
 		*The Self perceives that it is within the cold, stony innards of a tower. The bloodied bodies of robed men and women, bearing the Glyph of Discipline upon their backs, carpet the floor of this place.
 		
-		Beyond all of this carnage is a diminutive, thin man, heartlessly peering out through the sole window of this tower, his back turned on the slain mages.*
+		Beyond all of this carnage is a diminutive, thin man, heartlessly peering out through the sole window of this tower, his back turned on the slain magi.*
 		(A#Talk to Ormenos){A:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X0004!DESCRIPTION!}
 		(B#Leave the Tower){B:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
 	[MIND!MINDSCAPE!TOWER OF DISCIPLINE!1.X000!DESCRIPTION!/]
@@ -3341,7 +3341,7 @@ TOWER OF DISCIPLINE
 		||
 		*The Self perceives that it is within the cold, stony innards of a tower. The bloodied bodies of robed men and women, bearing the Glyph of Discipline upon their backs, carpet the floor of this place.
 		
-		Beyond all of this carnage is a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain mages.
+		Beyond all of this carnage is a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain magi.
 		
 		A closer look at the aperture reveals that the window stares out into a void with a resplendent golden halo framing the utter nothingness within.*
 		(A#Talk to Ormenos){A:0,MIND!MINDSCAPE!TOWER OF DISCIPLINE!9999.X0004!DESCRIPTION!}
@@ -3353,7 +3353,7 @@ TOWER OF DISCIPLINE
 		||
 		*The Self perceives that it is within the cold, stony innards of a tower. The bloodied bodies of robed men and women, bearing the Glyph of Discipline upon their backs, carpet the floor of this place.
 		
-		Beyond all of this carnage is a portrait of a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain mages.*
+		Beyond all of this carnage is a portrait of a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain magi.*
 		(A#Leave the Tower){A:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
 		(B#Leave the Mindscape){B:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
 	[MIND!MINDSCAPE!TOWER OF DISCIPLINE!3.X000!DESCRIPTION!/]
@@ -3362,7 +3362,7 @@ TOWER OF DISCIPLINE
 		||
 		*The Self perceives that it is within the cold, stony innards of a tower. The bloodied bodies of robed men and women, bearing the Glyph of Discipline upon their backs, carpet the floor of this place.
 		
-		Beyond all of this carnage is a portrait of a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain mages.
+		Beyond all of this carnage is a portrait of a diminutive, thin man, heartlessly peering out through the sole window of this tower, with his back turned on the slain magi.
 		
 		A closer look at the aperture reveals that the window stares out into a void with a resplendent golden halo framing the utter nothingness within.*
 		(A#Leave the Tower){A:0,MIND!MINDSCAPE!ISTARIATH!0.X000!DESCRIPTION!}
@@ -4377,7 +4377,7 @@ Prelude to Adarin interrogation
 
 	[/MIND!MINDSCAPE!THE VOID!5.202!DESCRIPTION!]
 		||
-		*The final thread of memories unravelled.*
+		*The final thread of memories unraveled.*
 		(A#...){A:0,MIND!MINDSCAPE!THE VOID!5.203!DESCRIPTION!}
 	[MIND!MINDSCAPE!THE VOID!5.202!DESCRIPTION!/]
 

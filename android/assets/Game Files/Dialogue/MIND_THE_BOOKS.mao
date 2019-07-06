@@ -39,7 +39,7 @@ RIKHARR
 		||
 		*"The ancients believed all was preordained, that we were subject to the whims of savage gods. Their successors then believed the future was uncertain, inscrutable. Both were wrong, misguided.
 		
-		Soon the god we birthe will not only see the future, but also manipulate it on our behalves."
+		Soon the god we birth will not only see the future, but also alter it on our behalves."
 		
 		Mind of the Spiral, Vol. VI*
 		(A#...){A:0,KAVU!DAZIL!MAGE'S ABODE!0.X000!DESCRIPTION!}
@@ -128,7 +128,7 @@ UNFINISHED SHIT
 		||
 		*Schemes... Manipulation... Awareness... All tools required for survival. But the one who laughs last, laughs best... Indeed. Yet caution must be observed and celebration postponed until victory - absolute and undeniable - peeks its rosy visage above tomorrow's horizon.
 		
-		However, tomorrow delays its arrival, and at today's uncertain edge it is impossible to see anything but the shadows of ignorance. Silent, dreadful, oppresive, this abyssal chaos waxes as our sanity wanes and patiently waits for it to exhaust itself in the solitude of our thoughts. But darkness does not last forever... Does it?*
+		However, tomorrow delays its arrival, and at today's uncertain edge it is impossible to see anything but the shadows of ignorance. Silent, dreadful, oppressive, this abyssal chaos waxes as our sanity wanes and patiently waits for it to exhaust itself in the solitude of our thoughts. But darkness does not last forever... Does it?*
 		(A#...){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!4.000!DESCRIPTION!/]
 
@@ -144,6 +144,6 @@ UNFINISHED SHIT
 		||
 		*...Oh, hey, you found this... well, uh... I can guarantee you that I'm no gremlin wizard trying to mislead you... NO! I swear it! By Roostor's mighty comb, I swear it! So believe me when I say that the gremlins ate this book! Indeed, the author fought long and hard against the blasted vermin. But alas! Ultimately, the malodorous wretches birthed from a Jinn's colon outmaneuvered him through a clever ruse! They pointed over yonder, drawing the author's gaze thence, and next proceeded to pilfer the manuscript while he conscientiously sought what they had seen.
 		
-		Unfortunately, the true victims are the readers! For now they must wait another eternity - or two - for this to be re-written! But fortunately, you can kill gremlins ad nauseum in one of the other available titles until this one comes out!*
+		Unfortunately, the true victims are the readers! For now they must wait another eternity - or two - for this to be re-written! But fortunately, you can kill gremlins ad nauseam in one of the other available titles until this one comes out!*
 		(A#TALLY HO){A:0,END GAME!END GAME!END GAME!}
 	[MIND!UNFINISHED BUSINESS!NOT THE END!6.000!DESCRIPTION!/]

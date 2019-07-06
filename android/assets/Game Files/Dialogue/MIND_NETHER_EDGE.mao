@@ -113,7 +113,7 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!]
 		||
-		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a diminutive waterfall not too far off. Dragonflies hover above lillies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
+		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a diminutive waterfall not too far off. Dragonflies hover above lilies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
 		
 		But soon, another sound enters her Self's awareness: the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!}
@@ -189,7 +189,7 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!10.0003!DESCRIPTION!]
 		||
-		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a diminutive waterfall not too far off. Dragonflies hover above lillies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
+		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a diminutive waterfall not too far off. Dragonflies hover above lilies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
 		
 		But soon, another sound enters her Self's awareness: the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!10.0004!DESCRIPTION!}
@@ -634,7 +634,7 @@ virgin speech
 
 	[/MIND!NETHER EDGE!GARDEN!0.X3020!NARGUND!]
 		|@:MIND!NETHER EDGE!GARDEN!1.X000!NARGUND!|
-		*"I recommend you use the Faracster now. Come back when you have learned more. Perhaps we can continue our little talk then."*
+		*"I recommend you use the Farcaster now. Come back when you have learned more. Perhaps we can continue our little talk then."*
 		(A#"..."){A:0,MIND!NETHER EDGE!GARDEN!9999.X9999!NARGUND!}
 	[MIND!NETHER EDGE!GARDEN!0.X3020!NARGUND!/]
 
@@ -859,7 +859,7 @@ SELF DEFENSE
 
 	[/MIND!NETHER EDGE!GARDEN!1.1491!NARGUND!]
 		||
-		*"What kind of green man would I be if I were only equipped with an axe? Better to have a belt full of tools, each for its task, than a simple blunt instrument..."*
+		*"What kind of green man would I be if I were only equipped with an ax? Better to have a belt full of tools, each for its task, than a simple blunt instrument..."*
 		(A#"..."){A:0,MIND!NETHER EDGE!GARDEN!1.1492!NARGUND!}
 	[MIND!NETHER EDGE!GARDEN!1.1491!NARGUND!/]
 
