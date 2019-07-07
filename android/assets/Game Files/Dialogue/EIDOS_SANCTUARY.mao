@@ -1968,7 +1968,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.002!FENRIR!]
 		||
-		*"Glyphs through their use, not their reading, known be. Sigils as reader act, so that without knowing you may the Glyphs use."*
+		*"For Glyphs through their use, not their reading, known be. Sigils as reader act, so that without knowing you may the Glyphs use."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.003!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.002!FENRIR!/]
 
