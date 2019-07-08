@@ -5803,7 +5803,7 @@ HYDROPONIC FARM
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.0002!DESCRIPTION!]
 		||
-		*Descending the nearest staircase, Eidos notes that a strict order governs everything. There are multiple tiers, scores of sections and hundreds of workers. Each section hosts clearly delineated crops; each tended to according to their needs. Temperatures vary from tier to tier, as does humidity, and all conditions are held in homeostatic perfection.*
+		*Descending the nearest staircase, Eidos notes that a strict order governs everything. There are multiple tiers, scores of sections and hundreds of workers. Each section hosts clearly delineated crops, all tended to according to their needs. Temperatures vary from tier to tier, as does humidity, and all conditions are held in homeostatic perfection.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.X001!DESCRIPTION!}
 		(B#Return to the Residence District){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!0.0002!DESCRIPTION!/]
@@ -10636,7 +10636,7 @@ TEMPLE
 farcaster entrance
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!1.000!DESCRIPTION!]
 		||
-		*A localized beam of energy precedes Eidos' reformation onto a familiar metallic disk. She regards the building, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of an enormous aqueduct - this space generously hosts the sun's falling rays. Eidos appears to be standing at the center of the room, sunshine reflecting as contacts the Farcaster disk beneath her feet.*
+		*A localized beam of energy precedes Eidos' reformation onto a familiar metallic disk. She regards the building, estimating it to be a square of some hundred paces in width and of equal length. Bereft of roof - only barely covered by the end of an enormous aqueduct - this space generously hosts the sun's falling rays. The metallic disk beneath Eidos' feet steals the light, reflecting it in a pale imitation of its source - though it certainly is bright enough to irritate her eyes.*
 		(A#Explore){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!1.X001!DESCRIPTION!}
 		(B#_Use the Sigil of Farcasting_){B:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!1.000!DESCRIPTION!/]

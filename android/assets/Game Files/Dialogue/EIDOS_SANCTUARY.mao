@@ -1250,7 +1250,7 @@ AWAKENING CHAMBER
 		
 		Light floods in, burning her vision white hot. Agony crushes perception, forcing teary lids shut anew.
 		
-		Defiant, she again pries them open, sheer will her only lever.*
+		Defiant, she pries them open, sheer will her only lever.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!000.001!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X000!DESCRIPTION!/]
 
@@ -1341,7 +1341,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.020!DESCRIPTION!]
 		||
-		*Eidos focuses her thoughts inward. Thoughts? These are new to her. She remembers... nothing. No memories. Not even hints of memories. She has nothing - or near nothing, rather, for now thoughts and the words to describe them come conjured up from from depths unfathomed.*
+		*Eidos focuses her thoughts inward. Thoughts? These are new to her. She remembers... nothing. No memories. Not even hints of memories. She has nothing - or near nothing, rather, for now thoughts and the words to describe them come conjured up from depths unfathomed.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!00.021!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.020!DESCRIPTION!/]
 
@@ -1507,7 +1507,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.041!DESCRIPTION!]
 		||
-		*At the recognition of her name, Eidos can feel the Glyph respond. The portal shimmers, showering the room in chaotic waves of luminescence. The surface quickly becomes sharply reflective, casting her image in fine detail. Staring back at her is the figure of a young woman with braided hair, draped in a simple shirt, breeches, and a red traveling robe.*
+		*At the recognition of her name, Eidos can feel the Glyph respond. The portal shimmers, showering the room in chaotic waves of luminescence. The door's surface quickly becomes sharply reflective, casting her image in fine detail. Staring back at her is the figure of a young woman with braided hair, draped in a simple shirt, breeches, and a red traveling robe.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X041!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.041!DESCRIPTION!/]
 
@@ -1545,7 +1545,7 @@ AWAKENING CHAMBER
 >>>Learned Farcaster glyph (12403)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X060!DESCRIPTION!]
 		|^12403:KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!|
-		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol, is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
+		*Eidos crouches, running her fingers along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol, is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
 		(A#Examine the door of immaculate white){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(B#Examine the door of murky indigo){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X031!DESCRIPTION!}
 		(C#Peer into the glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -1554,7 +1554,7 @@ AWAKENING CHAMBER
 >>>Used Farcaster (12007)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!]
 		|^12007:KABU!SANCTUARY!AWAKENING CHAMBER!0.062!DESCRIPTION!|
-		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. The device speaks to her as a child to its mother, calling for the Sigil Eidos carries to speak its name...*
+		*Eidos crouches, running her fingers along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. The device speaks to her as a child to its mother, calling for the Sigil Eidos carries to speak its name...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0610!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!/]
 		
@@ -1669,7 +1669,7 @@ been here before
 >>>Glyph of Farcasting (12403)<<<
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.X060!DESCRIPTION!]
 		|^12403:KABU!SANCTUARY!AWAKENING CHAMBER!0.X061!DESCRIPTION!|
-		*Eidos crouches, running her hands along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol, is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
+		*Eidos crouches, running her fingers along a polished, silvered surface. The platform consists of a metallic disk, roughly as wide as she is tall, seamlessly embedded into the tiled floor. Its face is etched with a dizzying array of lines, curves and spirals, all culminating in a Glyph at the center. This Glyph, this symbol, is meaningless to Eidos - yet at least she recollects that it is a Glyph, even in the absence of memory.*
 		(A#Examine the door of immaculate white){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X040!DESCRIPTION!}
 		(B#Examine the door of murky indigo){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.X031!DESCRIPTION!}
 		(C#Peer into the glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
