@@ -5852,7 +5852,7 @@ HYDROPONIC FARM
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.001!DESCRIPTION!]
 		||
-		*Set on leaving, Eidos first feels compelled to inhale deeply one last time. High on purity of the air, she cants her head toward the naked dome above and peering up into the cloudless sky recalls the dry and stale air awaiting her outside this oasis.*
+		*Set on leaving, Eidos first feels compelled to inhale deeply one last time. High on the air's purity, she cants her head toward the naked dome above and peering up into the cloudless sky recalls the dry and stale air awaiting her outside this oasis.*
 		(A#...){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.002!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.001!DESCRIPTION!/]
 	
@@ -5864,13 +5864,13 @@ HYDROPONIC FARM
 	
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.003!DESCRIPTION!]
 		||
-		*A crash, a clang, metal on stone. An embarrassed worker collects his fallen bucket and hurries off about his business, hoping all would forget his clumsiness; and soon enough all with. However, along with it seems to have vanished the unformed truth Eidos nearly stumbled upon. Try as she may, she can recall nothing of it. Working her way through the steps that led her here, she attempts to reconstruct the moment.*
+		*A crash, a clang, metal on stone. An embarrassed worker collects his fallen bucket and hurries off about his business, hoping all would forget his unseemly clumsiness - and soon enough all will. However, the unformed truth Eidos nearly stumbled upon now seems to have vanished along with the graceless worker. Try as she may, she can recall nothing of it.*
 		(A#...){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.004!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.003!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.004!DESCRIPTION!]
 		||
-		*She had walked up the stairs, breathed in the sweet air, looked skyward, was looked upon by the moon and then...*
+		*Working her way through the steps that led her here, she attempts to reconstruct the moment. She had walked up the stairs, breathed in the sweet air, looked skyward, was looked upon by the moon and then...*
 		(A#...){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.X005!DESCRIPTION!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.004!DESCRIPTION!/]
 
@@ -7452,7 +7452,7 @@ Gate stuff
 
 	[/KABU!TAMBUL!MOON KEEP!0.X101!DESCRIPTION!]
 		|@:KABU!TAMBUL!MOON KEEP!0.X102!DESCRIPTION!|
-		*Eidos moves to walk through the transparent distortion in the gateway. Immediately, a guard frantically scrambles to get her attention, grabbing her by the arm and frantically pulling her away from the gate.*
+		*Eidos moves to walk through the transparent distortion in the gateway. A guard frantically scrambles to get her attention, grabbing her by the arm and firmly pulling her away from the gate.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!9999.X0115!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.X101!DESCRIPTION!/]
 
@@ -7509,7 +7509,7 @@ Tower & Dysmas event
 		||
 		*Circumnavigating the base for several minutes, Eidos notes that windows abound on this structure, giving it an unsettling semblance to a honeycomb - though all are too high to access. Within the span of a hundred paces, she stumbles upon a narrow stairway leading upwards. She climbs and climbs until she reaches a landing high above the keep's ramparts.
 		
-		Casting her gaze out over the canyon, she absorbs the wonders of the landscape both natural and artificial. To the east, fortress stands between her and a black point melting into the horizon. To the north of the inky dot is a sea of sparkling white. To the south, nothing but dust and sand.
+		Casting her gaze out over the canyon, she absorbs the wonders of the landscape both natural and artificial. To the east, a sprawling fortress stands between her and a black point melting into the horizon. To the north of the inky dot is a sea of sparkling white. To the south, nothing but dust and sand.
 		
 		A gentle breeze blows in from the west, cooling her sun-baked skin. Yet the air carries its characteristic lifeless scent.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!0.X301!DESCRIPTION!}

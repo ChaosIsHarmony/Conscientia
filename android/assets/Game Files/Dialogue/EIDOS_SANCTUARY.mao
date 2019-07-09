@@ -4319,13 +4319,13 @@ WINDING STAIR
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.003!DESCRIPTION!]
 		||
-		*Searching skywards, she sees that all light here leaks in through an aperture at the top of this monolithic shaft - so high above as to appear equidistant from the terminus of the bottomless void below. Golden rays weave their way down the shaft with spindly arms scraping at the darkness, as though greedily searching for some stolen treasure. Yet, the darkness nips back at the shiny intruders, jealously guarding what it hides in its depths.*
+		*Searching skywards, she sees that all light here leaks in through an aperture at the top of this monolithic shaft - so high above as to appear equidistant from the terminus of the bottomless void below. Golden rays weave their way down the shaft with spindly arms scraping at the darkness, as though greedily searching for some stolen treasure. Yet, the darkness nips back at the shiny intruders, jealously guarding what it hides in the depths.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.004!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.003!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.004!DESCRIPTION!]
 		||
-		*Returning her attention to the more immediate surroundings, Eidos finds that the door has vanished. The chamber beyond is now nothing but the shadow of a fading memory, of an event that may or may not have ever been.*
+		*Returning her attention to the more immediate surroundings, Eidos finds that the door has vanished. The chamber beyond is now nothing but the shadow of a fading memory - the memory of an event that may or may not have ever been.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.005!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.004!DESCRIPTION!/]
 
