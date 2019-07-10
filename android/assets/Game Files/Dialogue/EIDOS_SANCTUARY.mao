@@ -4331,7 +4331,7 @@ WINDING STAIR
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.005!DESCRIPTION!]
 		||
-		*Under current circumstances, it seems that the only way out is through. Though, a nagging feeling gnaws at her, begging her to confirm the veracity of her memory.*
+		*Under the current circumstances, it seems that the only way out is through. Though, a nagging feeling gnaws at her, begging her to confirm the veracity of her memory.*
 		(A#Climb the stairs){A:0,KABU!SANCTUARY!WINDING STAIR!1.000!DESCRIPTION!}
 		(B#Descend the stairs){B:0,KABU!SANCTUARY!WINDING STAIR!01.X000!DESCRIPTION!}
 		(C#Examine the wall){C:0,KABU!SANCTUARY!WINDING STAIR!0.010!DESCRIPTION!}
