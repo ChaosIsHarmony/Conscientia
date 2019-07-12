@@ -707,7 +707,7 @@ From falling
 
 	[/KABU!WELLSPRING!DEEP LAKE!0.0011!DESCRIPTION!]
 		||
-		*In an instant, a burning sensation races through her blood. Just as she is seized with a sudden rush of nausea, the hand of her rescuer jerks her head violently to the side in time for Eidos to vomit off into the subterranean lake. When she has ceased the vice-like grip releases her, and for a time, all Eidos can hear is the sound of the craft gently rocking.*
+		*In an instant, a burning sensation races through her blood. Just as she is seized with a sudden rush of nausea, the hand of her rescuer jerks her head violently to the side in time for Eidos to vomit off into the subterranean lake. Her stomach now empty, the vice-like grip releases her, and for a time, all Eidos can hear is the sound of the craft gently rocking.*
 		(A#...){A:0,KABU!WELLSPRING!DEEP LAKE!0.X0012!DESCRIPTION!}
 	[KABU!WELLSPRING!DEEP LAKE!0.0011!DESCRIPTION!/]
 
@@ -719,7 +719,9 @@ From falling
 
 	[/KABU!WELLSPRING!DEEP LAKE!0.002!DESCRIPTION!]
 		||
-		*Quangjo turns and takes up a nearby oar. He dips it into the still surface of the lake and begins to paddle, slowly and deliberately. Sitting up, Eidos sees that the craft is crudely fashioned with a flat bottom and hastily lashed together with fraying rope and rusting nails. The raft creaks softly as it slowly lurches towards a curtain of shadows untouched by the starlight above. Soon they are bathed in complete darkness, as the vessel glides beneath a stone overhang. At this, Quangjo abruptly halts his paddling, allowing the boat to coast. Eidos cannot make out his shape, but from his absolute silence, he likely stands unmoving, still as death. Simply waiting...*
+		*Quangjo turns and takes up a nearby oar. He dips it into the still surface of the lake and begins to paddle, slowly and deliberately. Sitting up, Eidos sees that the craft is crudely fashioned, its flat bottom hastily lashed together with fraying rope and rusting nails. The raft creaks softly as it slowly lurches towards a curtain of shadows untouched by the starlight above.
+
+        Soon they are bathed in complete darkness, as the vessel glides beneath a stone overhang. At this, Quangjo abruptly halts his paddling, allowing the boat to coast. Eidos cannot make out his shape, but from his absolute silence, he likely stands unmoving, still as death. Simply waiting...*
 		(A#...){A:0,KABU!WELLSPRING!DEEP LAKE!0.0020!DESCRIPTION!}
 	[KABU!WELLSPRING!DEEP LAKE!0.002!DESCRIPTION!/]
 
@@ -2736,7 +2738,7 @@ RAVINE
 
 	[/KABU!WELLSPRING!RAVINE!0.002!DESCRIPTION!]
 		||
-		*The abyss within her seems to resonate with the one below; it calls her. A vision of casting herself from the ledge seizes her with vivid clarity. She can see herself crashing into the void and joining in its solitude, becoming nothing in its all-encompassing embrace. A powerful desire to peer into this tenebrous patch of midnight wraps its tendrils around Eidos, compelling her look to upon the other side of death...*
+		*The abyss within her seems to resonate with the one below; it calls her. A vision of casting herself from the ledge seizes her with vivid clarity. She can see herself crashing into the void and joining in its solitude, becoming nothing in its all-encompassing embrace. A powerful desire to peer into this tenebrous patch of midnight wraps its tendrils around Eidos, guiding her to look upon the other side of death...*
 		(A#Wait for it to pass){A:1,KABU!WELLSPRING!RAVINE!0.003!DESCRIPTION!}
 		(F#Succumb to the gravity of emotion){F:1,KABU!WELLSPRING!RAVINE!5.010!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.002!DESCRIPTION!/]
@@ -2816,7 +2818,7 @@ back from silver throne
 
 	[/KABU!WELLSPRING!RAVINE!5.001!DESCRIPTION!]
 		||
-		*Suddenly, the abyss within seems to resonate with the one below, calling out to her. A vision of casting herself from the platform seizes her with vivid clarity. She can see herself crashing into the void and joining in its solitude, becoming nothing in its all-encompassing embrace. A powerful desire to peer into this tenebrous patch of midnight wraps its tendrils around Eidos, compelling her look to upon on the other side of death.*
+		*Suddenly, the abyss within seems to resonate with the one below, calling out to her. A vision of casting herself from the platform seizes her with vivid clarity. She can see herself crashing into the void and joining in its solitude, becoming nothing in its all-encompassing embrace. A powerful desire to peer into this tenebrous patch of midnight wraps its tendrils around Eidos, guiding her to look upon on the other side of death.*
 		(A#Wait for it to pass){A:1,KABU!WELLSPRING!RAVINE!5.002!DESCRIPTION!}
 		(F#Succumb to the gravity of emotion){F:1,KABU!WELLSPRING!RAVINE!5.010!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!5.001!DESCRIPTION!/]

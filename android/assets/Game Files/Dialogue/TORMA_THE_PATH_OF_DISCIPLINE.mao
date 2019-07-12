@@ -449,7 +449,7 @@ Just came in
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00141!DESCRIPTION!]
 		||
 		*The frame surrounding the scaly shutter springs to luminescence, and the massive metal door begins to reveal what lays beyond. Splitting, dividing, it fragments into myriad smaller plates that are then sequentially drawn into the walls. The eerie silence breaks only when air floods in from the adjoining area, a waking giant's great exhalation. The air carries with it a distinctly odorless scent, as if suppressing all sense of smell.*
-		(A#Begin){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X000!DESCRIPTION!}
+		(A#Begin){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.000!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.00141!DESCRIPTION!/]
 
 
@@ -1889,28 +1889,62 @@ ARBITER
 
 ________________________________________________________________________
 INEPTITUDE'S DECEIT
-???
-	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X000!DESCRIPTION!]
-		|@:ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.001!DESCRIPTION!|
-		*Ormenos steps foot into a mist-filled chamber, dully illuminated with the amber light of obfuscated crystals. The combination of the fog and the scant illumination leads to a constant barrage of shadowy illusions. 
-		
-		And for a moment, dread fills Ormenos' anxious heart...*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X001!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X000!DESCRIPTION!/]
-	
-	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X001!DESCRIPTION!]
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.000!DESCRIPTION!]
+		||
+		*Footsteps click on unyielding stone, and unflinching light locks all shadows in place. The world seems still, frozen, timeless. A feigned stillness, the mage muses. His learning reminds him that sound would not be possible in a frozen world, nor would motion. Illusions are but shadows cast by fools facing away from the light. Odd how even the Biraculian tradition of mindless sheep espoused this belief. Oh, yes, Ormenos could still quote the Biraculian Verses. His father repeated one such verse with such frequency he practically owned it.*
+        (A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0010!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.000!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0010!DESCRIPTION!]
+		||
+        *"All shadows are cast by the light of Awareness; and so too by its light are they banished." And its inevitable companion verse, "Stand not in the way of light and shadows disappear..."*
+        (A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0010!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!DESCRIPTION!]
+		||
+        *What use is new learning if all he remembers are these old verses? Try as he may, Ormenos cannot outrun his past.*
+        (A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!DESCRIPTION!]
+		||
+        *Soon, time appears to unfreeze as whispy, white tendrils seem to snake towards him through the corridor. It seems he now reaches the next chamber.*
+        (A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!DESCRIPTION!]
+		||
+        *The mage plunges into a lake of cold, spectral mist. Deeper, deeper, ever deeper, he dives; and though his feet yet meet the solid stone, he soon loses any sense of direction.*
+        (A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0013!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0013!DESCRIPTION!]
+		||
+        *Ormenos abruptly stops to think, and the mist races to catch up to his stillness. He notes the chamber lacks both the aromatic and sonic charms of the Scriptorium, yet it retains a strikingly similar atmosphere.*
+        (A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0014!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0013!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0014!DESCRIPTION!]
+		||
+		*The fog finally settles - and with it, all motion. Soon, breathing slows; senses dull; thought stops. An end...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X0015!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0014!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X0015!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.002!DESCRIPTION!|
-		*That is until the familiar whirring of the Thought Wheel dispels the illusions by stealing his attention away from his imagination.*
+		*But suddenly, the familiar whirring of the Thought Wheel steals Ormenos' attention from his imagination, freeing him from its bonds.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!9999.X1207!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X001!DESCRIPTION!/]
-	
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.X0015!DESCRIPTION!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.002!DESCRIPTION!]
 		||
-		*The misty shroud vanishes into the memories of the past, revealing a robust door in the process of folding in upon itself in spiraling halves until it is no more. Ormenos' passage is clear.*
+		*The misty shroud fades into a memory, revealing a robust door, now in the process of folding in upon itself in spiraling halves until it is no more. The path is clear.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.002!DESCRIPTION!/]
-	
-	
+
+
+???
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.000!ARBITER!]
 		||
