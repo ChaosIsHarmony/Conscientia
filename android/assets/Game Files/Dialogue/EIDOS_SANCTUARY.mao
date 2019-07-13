@@ -848,9 +848,9 @@ ARCHIVES
 	
 	[/KABU!SANCTUARY!ARCHIVES!0.000!DESCRIPTION!]
 		||
-		*Her footfalls echo off into the immense darkness, as though fleeing from some unseen evil. Cracked tiles whisper beneath her feet with every step. Deep into the hall, stands a massive tree, its tremendous trunk bursting forth from the floor in defiance of the rigid granite. Though it was no doubt mighty in its prime, splintering bark and leafless branches betray its current frailty. Charred gashes in its roots weakly pulsate with a dying, greenish luminescence while exposing the tree's ancient innards.
+		*Her footfalls echo off into the immense darkness, as though fleeing from some unseen evil. Cracked tiles complain with every step. Deep into the hall, stands a massive tree, its tremendous trunk bursting forth from the floor in defiance of the rigid granite. Though it was no doubt mighty in its prime, splintering bark and leafless branches betray its current frailty. Charred gashes in its roots weakly pulsate with a dying, greenish luminescence while exposing the tree's ancient innards.
 		
-		Incredibly, this tree is clearly visible despite the hall's pervading darkness. Dimly it glows, as if caught in the fading rays of twilight. The absence of an obvious source of light suggests that the tree is made visible through some inner power - one as frail and decayed as the withered tree itself.
+		Incredibly, this tree is clearly visible despite the hall's pervading darkness. Dimly it glows, as if caught in the fading rays of twilight. The absence of an obvious source of light suggests that the tree is made visible through some inner power - one as frail and decayed as the withered giant itself.
 
         Although much of the room's illumination seems to come from the interaction between the tree and her vision, Eidos also senses a faint, green glow oozing in from the depths of the underground Archive - its source yet invisible to her.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!9990.X12003!DESCRIPTION!}
@@ -858,13 +858,13 @@ ARCHIVES
 
 	[/KABU!SANCTUARY!ARCHIVES!0.001!DESCRIPTION!]
 		||
-		*Though the tree appears to dominate much of the space, the enormous size of the hall containing it slowly becomes apparent. The vaulted ceiling of this chamber is unfathomably high, consumed by shadows at its peak. Between each support column, rows of aged, wooden shelves line the hall; they in turn are lined with the cracked and withered remains of countless tomes. Arranged in concentric circles rippling outward from the tree are many long tables, benches and writing desks - no doubt placed here for the reading and copying of texts.*
+		*Though the tree appears to dominate much of the space, the enormous size of the hall containing it slowly becomes apparent. The vaulted ceiling is unfathomably high, consumed by shadows at its peak. Between each support column, rows of aged, wooden shelves line the hall; they in turn are lined with the cracked and brittle remains of countless tomes. Arranged in concentric circles rippling outward from the tree are many long tables, benches and writing desks - no doubt placed here for the reading and copying of texts.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.0010!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.001!DESCRIPTION!/]
     
     [/KABU!SANCTUARY!ARCHIVES!0.0010!DESCRIPTION!]
         ||
-        *Walking forward, Eidos notes that the majority of the tomes and shelves share the same dusty blanket as the stairs leading down. Yet evidence that the area has seen more recent use abounds. Certain tables have stacks of books piled upon them and a number of volumes lie open as if abandoned in mid-read.*
+        *Walking forward, Eidos notes that the majority of the tomes and shelves share the same dusty blanket as the stairs that lead here. Yet evidence that the area has seen more recent use abounds. Certain tables have stacks of books piled upon them and a number of volumes lie open as if abandoned in mid-read.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.00100!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.0010!DESCRIPTION!/]
 	
@@ -876,7 +876,7 @@ ARCHIVES
 	
     [/KABU!SANCTUARY!ARCHIVES!0.001000!DESCRIPTION!]
         ||
-        *The emerald incandescence illuminates yet another discovery, however, for laying motionless on the dusty floor are two corpses. The one to the left is slumped against a wall, smeared with blood, while the other is lying face down in front of the archway. The bodies lie next to a platform, raised perhaps a handspan above the ground.*
+        *The emerald incandescence illuminates yet another discovery, however, for laying motionless on the dusty floor are two corpses. The one to the left is slumped against a wall, smeared with blood, while the other is lying face down in front of the archway. Next to the bodies is a curious platform, raised perhaps a handspan above the ground and emanating a faint violet haze.*
         (A#Search the Archive){A:0,KABU!SANCTUARY!ARCHIVES!0.100!DESCRIPTION!}
         (B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
 		(C#Step upon the platform){C:0,KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!}
@@ -1172,7 +1172,7 @@ ARCHIVES
 	
 	[/KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!]
 		||
-		*As soon as she steps upon the platform, a violet glow traces the curves of the Glyph etched into its surface. A slow rumble and it begins to levitate, taking her skywards through the invisible shaft hidden among the ceiling's shadows.*
+		*As soon as she steps upon it, the violet glow strengthens, tracing the curves of the Glyph etched into its surface. A slow rumble and it begins to levitate, taking her skywards, up through the invisible shaft hidden among the ceiling's shadows.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SENTRIES!1.001!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.600!DESCRIPTION!/]
 	
@@ -2445,7 +2445,7 @@ HALL OF SENTRIES
 >>>Met sentry (12002)<<<
 	[/KABU!SANCTUARY!HALL OF SENTRIES!0.X001!DESCRIPTION!]
 		|^12002:KABU!SANCTUARY!HALL OF SENTRIES!5.000!DESCRIPTION!|
-		*This short and narrow hallway is lined with the graven images of men and women at arms. They are finely carved, with no trace nor marks of the tools that wrought them. Yet, their forms are rough and simplistic, comprised of simple angles and lines but few curves.
+		*This short and narrow hallway is lined with the graven images of men and women at arms. They are finely carved, with no trace nor marks of the tools that wrought them. Yet, their forms are rough and simplistic, primarily comprised of simple angles and straight lines.
 		
 		The ceiling hangs low enough to touch with a short leap, and the corridor's width scarcely exceeds her armspan. A dim light seeps in from the opening at the far end where the hall pours into a vast chamber, though something thwarts the light from completely consuming the doorway.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SENTRIES!0.X002!DESCRIPTION!}
@@ -2453,7 +2453,7 @@ HALL OF SENTRIES
 
 	[/KABU!SANCTUARY!HALL OF SENTRIES!0.X002!DESCRIPTION!]
 		|@:KABU!SANCTUARY!HALL OF SENTRIES!0.X000!DESCRIPTION!|
-		*As she draws nearer to the opening, the source of the blockage becomes apparent. What once appeared to be simply a void carved from light gains detail. Its weaker shadows emphasize its smooth contours and rugged features. Immobile before her stands a tall, statuesque figure, a spear held at its side. Its expression is cold, and its demeanor dispassionate. As if carved from stone, its features are flawless but for the large gashes rent into its face and abdomen - surely not the signs of an easy occupation. Glistening blue liquid slowly leaks from the wounds, serving as a natural highlight of the sentry's figure.
+		*Eidos walks toward the doorway. As she draws nearer to the opening, the source of the blockage becomes apparent. What once appeared to be simply a void carved from light gains detail. Its weaker shadows emphasize its smooth contours and rugged features. Immobile before her stands a tall, statuesque figure, a spear held at its side. Its expression is cold, and its demeanor dispassionate. As if carved from stone, its features are flawless but for the large gashes rent into its face and abdomen - surely not the signs of an easy occupation. Glistening, blue liquid slowly leaks from its wounds, serving as a natural highlight of the sentry's figure.
 		
 		In an alcove, nearly consumed in shadows, a Glyph appears to call to her; it offers an escape.*
 		(A#Approach the figure){A:0,KABU!SANCTUARY!HALL OF SENTRIES!0.X003!DESCRIPTION!}
@@ -2517,7 +2517,7 @@ HALL OF SENTRIES
 	
 	[/KABU!SANCTUARY!HALL OF SENTRIES!1.001!DESCRIPTION!]
 		||
-		*The floating platform speeds up through the shaft, bathing Eidos in stale air as she rushes towards her journey's terminus. Slowing to a halt, she emerges from the ground, into a shadowy alcove within a narrow hall.*
+		*The floating platform speeds up through the shaft, bathing Eidos in stale air as she rushes towards this little journey's terminus. Slowing to a halt, she emerges up from the ground and into a shadowy alcove within a narrow hall.*
 		(A#...){A:0,KABU!SANCTUARY!HALL OF SENTRIES!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!HALL OF SENTRIES!1.001!DESCRIPTION!/]
 

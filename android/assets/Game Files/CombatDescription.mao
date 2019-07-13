@@ -137,7 +137,7 @@ sanctuary sentry
 	
 	Yet Eidos still rushes forward, thrusting her hand through the spear and sentry, ripping out its innards and showering the hall in a geyser of blue blood.3*
 	@
-	Eidos runs in the direction of the sentry but only manages to impale herself on his spear. As she loses consciousness, the sentry drops her body on the floor and brushes it aside with the butt of his spear only to return to his previous posture. 
+	Eidos runs in the direction of the sentry but only manages to impale herself on his spear. As she loses consciousness, the sentry drops her motionless body on the floor and brushes it aside with the butt of its spear before resuming its previous posture. 
 	
 	Beating this foe will require more than just bravado.@
 [49/]
