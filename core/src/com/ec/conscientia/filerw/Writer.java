@@ -186,7 +186,7 @@ public class Writer {
 		int npcInd = file.readString()
 				.indexOf("%" + lessThanTen + fileMan.conscientia.getConscVar().currentSavedGameNum);
 		npcInd = file.readString().indexOf(":",
-				file.readString().indexOf(currentLocation, file.readString().indexOf("[/" + NPCname, npcInd))) + 1;
+				file.readString().indexOf(currentLocation+":", file.readString().indexOf("[/" + NPCname, npcInd))) + 1; //must be currentLocation+":" or else leads to nasty overwrite errors post some combat encounters
 
 		// writes to file
 		file.writeString(file.readString().substring(0, npcInd) + currentAddress

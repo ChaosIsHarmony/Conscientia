@@ -653,8 +653,6 @@ public class CombatMenu {
 
 					combatEndAddress = playerVictorious ? "KABU!WASTELAND!CRESCENT CANYON!0.X500!DESCRIPTION!"
 							: mgScr.getCues().get("DRAUG END").get(0);
-					;
-
 					// need to save here or it will take you to the last
 					// address before combat
 					fileRW.writer.saveNPCstats("DESCRIPTION", combatEndAddress, mgScr.getCurrentLocation());

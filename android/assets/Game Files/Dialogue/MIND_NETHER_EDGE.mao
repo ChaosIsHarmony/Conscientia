@@ -2,27 +2,27 @@ ________________________________
 ATELIER
 	[/MIND!NETHER EDGE!ATELIER!0.X000!DESCRIPTION!]
 		||
-		*Streams of thoughts, ideas, perceptions - remembered, not truly felt - flood Eidos' mind. They converge into a single large flow bringing with it an awareness of self. Eidos thus is again, though she now feels nothing...*
+		*Streams of thoughts, ideas, perceptions - remembered, not truly felt - flood Eidos' mind. They converge into a single large flow, bringing with it an awareness of Self. Eidos' Self thus 'is' again, though she now feels nothing...*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!0.001!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!0.X000!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!ATELIER!0.001!DESCRIPTION!]
 		||
-		*A memory of hearing, the use of ears and their connection to her - and yet she feels no ears. Suddenly, a muffled sound in the darkness. This noise brings about greater awareness and more questions still. How long her mind had been submerged in this sensory deprivation?*
+		*A memory of hearing comes, and she knows the use of ears and their connection to her - yet, she feels no ears. Suddenly, a muffled sound in the darkness. This noise brings about greater awareness and more questions still. She wonders... how long had her mind been submerged in this sensory deprivation?*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!0.X002!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!0.001!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!ATELIER!0.X002!DESCRIPTION!]
-		|@:MIND!NETHER EDGE!ATELIER!1.X000!DESCRIPTION!|
-		*Soon, a memory of time, the universal heartbeat and she finds that her heartbeat is not present. The passage of time is only marked by the auditory experience and her contemplation of it. Her attention focuses on the sound. Warped tones soon sharpen into something comprehensible... a man's voice.*
+		|@:MIND!NETHER EDGE!ATELIER!1.000!DESCRIPTION!|
+		*Then comes a memory of time, that universal heartbeat, and she finds her own heartbeat absent. Each moment, marked only by the auditory experience and her contemplation of it, passes both swiftly and slowly. Her attention focuses on the sound. Warped tones soon sharpen into something comprehensible... a man's voice.*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!9999.X0019!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!0.X002!DESCRIPTION!/]
 
-	[/MIND!NETHER EDGE!ATELIER!1.X000!DESCRIPTION!]
+	[/MIND!NETHER EDGE!ATELIER!1.000!DESCRIPTION!]
 		||
 		*She can sense no counterpart to the solitary voice and the darkness prevents her from knowing whether the speaker is addressing her directly or if she is simply overhearing a solemn soliloquy.*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!1.001!DESCRIPTION!}
-	[MIND!NETHER EDGE!ATELIER!1.X000!DESCRIPTION!/]
+	[MIND!NETHER EDGE!ATELIER!1.000!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!ATELIER!1.001!DESCRIPTION!]
 		||
