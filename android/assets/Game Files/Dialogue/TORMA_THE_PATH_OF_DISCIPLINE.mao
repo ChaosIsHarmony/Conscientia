@@ -1,5 +1,6 @@
 ________________________________________________________________________
 AWARENESS' SEED
+???
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X000!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X001!DESCRIPTION!|
 		*Passing through the portal, Ormenos now enters a room filled with stacks upon stacks of volumes copied from the imposing Archives of the Enclave. The knowledge is in utter disarray with titles sorted seemingly at random, and utterly inaccessible as there are towers of tomes stacked at thrice the height of an average Muninn tree.
@@ -30,7 +31,7 @@ AWARENESS' SEED
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.0011!DESCRIPTION!/]
 	
 	
-
+??? Make Arbiter terse (ref. Edge of Ignorance dialogue)
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.000!ARBITER!]
 		||
@@ -1944,51 +1945,57 @@ INEPTITUDE'S DECEIT
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.002!DESCRIPTION!/]
 
 
-??? Make Arbiter terse (ref. Edge of Ignorance dialogue)
+
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.000!ARBITER!]
 		||
-		*"It is fine to know you wish to learn, but here we meet our first Paradox of Ignorance: how can we know what we lack, if we indeed lack it?"*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.001!ARBITER!}
+		*"The desire to learn is a start. But, the first Paradox of Ignorance is certain."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0000!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.000!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0000!ARBITER!]
+		||
+		*"Ignorance entails lacking. You do not know, hence the desire to know. Ignorance entails blindness. You do not know, hence how to learn is obscure."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.001!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0000!ARBITER!/]
 	
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.001!ARBITER!]
 		||
-		*"Tell me then, Brother Inquisitor, if the cube's nature is to the square undecipherable, how then does the square learn this?"*
+		*"Speak then, Inquisitor. If the cube's nature is to the square undecipherable, how does the square learn this truth?"*
 		(A#"That's a good question!"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!ARBITER!}
 		(B#"The square is but a shadow cast by the cube."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0010!ARBITER!}
-		(C#"I do not know."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!ARBITER!}
-		(D#"A cube does not learn! Wouldn't you agree, Arbiter?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!ARBITER!}
-		(E#"Does it need to learn this?"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!ARBITER!}
+		(C#"I can't say for certain."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!ARBITER!}
+		(D#"A mere 'cube' cannot learn! Wouldn't you agree, Arbiter?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!ARBITER!}
+		(E#"Does it even need to learn this? It's probably just wasting its time."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.001!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0010!ARBITER!]
 		||
-		*"Perhaps it is. And yet still, the shadow is not the caster. But its limits can be overcome when it gains Awareness they exist."*
+		*"Partial truth. The shadow cannot see its caster. But limits are learned when Awareness of them exist. Limits learned can be overcome."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0010!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!ARBITER!]
 		||
-		*"Accepting that some knowledge is beyond our reach is the first step to understanding that which eludes us."*
+		*"Knowledge of ignorance is the first step to understanding."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0011!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!ARBITER!]
 		||
-		*"Ask the right questions and you will get the right answers; ask no questions and your gains will be commensurate."* 
+		*"The right questions asked, the right answers revealed. A question asked, an answer revealed. No questions asked, what hope of revelation?"* 
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0013!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0012!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0013!ARBITER!]
 		||
-		*"You may now pass through the gate of Ineptitude's Deceit; for its only key is awareness, not acceptance.*
+		*"Pass through the gate of Ineptitude's Deceit. Its only key is awareness of lack, not acceptance of it.*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!INEPTITUDE'S DECEIT!0.0013!ARBITER!/]
-	
-	
-	
-	
+
+
+
+
 ________________________________________________________________________
 SKILL'S AWAKENING
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!DESCRIPTION!]
