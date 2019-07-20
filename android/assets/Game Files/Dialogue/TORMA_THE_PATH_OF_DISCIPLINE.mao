@@ -23,11 +23,15 @@ AWARENESS' SEED
 		*Then, the sound of myriad beasts stampeding in perfect synchronous fills the air, signaling the Arbiter's arrival.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X003!DESCRIPTION!/]
-???
+
 >>>You passed Arbiter's second challenge (2064)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X004!DESCRIPTION!]
 		|^2064:ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.005!DESCRIPTION!|
-		*Having failed the tests, Ormenos' path is blocked. The road to Discipline has proven incompatible with the Inquisitor and to the entrance he must now return.*
+		*The room brightens, revealing a single door. Above the door, a single word reveals the result of his test...
+		
+		Sightless.
+		
+		The door opens, revealing the path back to the beginning. The road to Discipline has proven incompatible with the Inquisitor and to the entrance he must now return.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2038!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X004!DESCRIPTION!/]
 
@@ -39,22 +43,22 @@ AWARENESS' SEED
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.006!DESCRIPTION!]
 		||
-		*And in asking the question, the miscellany begins to fade, the myriad stacks containing innumerable volumes all disappear into the ether; and along with each volume fades a door until a single door remains.*
+		*And in asking the question, the irrelevant miscellany begins to fade from view and into memory. The myriad stacks containing innumerable volumes all disappear into the ether; and with each stack fades a door until a single door remains...*
 		(A#Proceed){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.006!DESCRIPTION!/]
 
 	
-??? Make Arbiter terse (ref. Edge of Ignorance dialogue)
+
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.000!ARBITER!]
 		||
-		*"Knowing a fault exists is not enough. Now you must correct it."*
+		*"Knowing a fault exists is not enough. Correction is imperative for meaning to arise."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.000!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001!ARBITER!]
 		||
-		*"Behold. The vast knowledge of the Enclave lies before you. How many lifetimes fill these pages? How many more do not?"*
+		*"Behold. The vast knowledge of the Enclave here lies. How many lifetimes fill these pages? How many more do not?"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.0010!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001!ARBITER!/]
 
@@ -72,10 +76,10 @@ ARBITER
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.0011!ARBITER!]
 		||
-		*"Legendary Uqbar may hold the key. Speak, Inquisitor, what does the word 'HRONIR' mean?"*
+		*"Legendary Uqbar holds the key. Speak, Inquisitor, what does the word 'HRONIR' mean?"*
 		(A#"What do the people of Uqbar value most?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00111!ARBITER!}
 		(B#"I'll need more than just the word to guide me."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00112!ARBITER!}
-		(C#"How am I to know?"){C:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00113!ARBITER!}
+		(C#"How should I know?"){C:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00113!ARBITER!}
 		(D#"Perhaps you could give me a clue..."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00114!ARBITER!}
 		(E#"Just tell me what it means and get on with it."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00115!ARBITER!}
 		(F#"Uqbar is fictional, man; so it can mean anything we want it to."){F:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00116!ARBITER!}
@@ -89,7 +93,7 @@ ARBITER
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001110!ARBITER!]
 		||
-		*"A distillation of a whole race's desires is impossible."*
+		*"A distillation of an entire civilization's desires is impossible."*
 		(A#"Then I ask, what works of art and artifice have they produced?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00121!ARBITER!}
 		(B#"Is it an object, action, or descriptor?"){B:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00122!ARBITER!}
 		(E#"Fine, then. Just tell me what it means and get on with it."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00115!ARBITER!}
@@ -97,7 +101,7 @@ ARBITER
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00112!ARBITER!]
 		||
-		*"Then ask your questions, Brother Inquisitor."*
+		*"Then ask your questions, Inquisitor."*
 		(A#"What do the people of Uqbar value most?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00111!ARBITER!}
 		(B#"Is it an object, action, or descriptor?"){B:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00122!ARBITER!}
 		(C#"I don't know what to ask."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00113!ARBITER!}
@@ -117,7 +121,7 @@ ARBITER
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001140!ARBITER!]
 		||
-		*"Now ask your questions or answer mine, Brother Inquisitor."*
+		*"Now ask your questions or answer mine, Inquisitor."*
 		(C#"I can't think of any questions to ask."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00113!ARBITER!}
 		(D#"Of course, then could you tell me how this item is used?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00124!ARBITER!}
 		(E#"I tire of these games."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00115!ARBITER!}
@@ -125,86 +129,92 @@ ARBITER
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00115!ARBITER!]
 		||
-		*"The name 'Inquisitor' ill-suits you. Too arrogant to ask. Too rigid to mould. Too set to learn."*
+		*"The name 'Inquisitor' ill-suits you. Too arrogant to ask. Too rigid to mold. Too set to learn."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00113!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00115!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00116!ARBITER!]
 		||
 		*"Then you have Awareness of Uqbar and its origins."*
-		(F#"Oh, I have seen some shit you wouldn't believe!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2064!ARBITER!}
+		(F#"Oh, I've seen shit you wouldn't believe, Arby!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2064!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00116!ARBITER!/]
 
-???
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00121!ARBITER!]
 		||
-		*"They have made no product, to speak of. For Uqbar is fictitious, as fictitious as the HRONIR they produce."*
-		(A#"Then this was but a ruse?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00131!ARBITER!}
+		*"They have made nothing. Uqbar is a fiction. As fictitious as the HRONIR they produce."*
+		(A#"Then this was just a ruse?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00131!ARBITER!}
 		(B#"To what end do you ask these questions?"){B:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!}
-		(E#"No more games!"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00135!ARBITER!}
+		(E#"A trick, then? Do that again and we'll see if you bleed oil..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00135!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00121!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00122!ARBITER!]
 		||
-		*"It is none of these, for HRONIR are as fictitious as Uqbar whence they came."*
-		(A#"Then this was but a ruse?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00131!ARBITER!}
+		*"It is none of these. HRONIR are as fictitious as Uqbar is."*
+		(A#"Then this was just a ruse?"){A:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00131!ARBITER!}
 		(B#"To what end do you ask these questions?"){B:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!}
 		(C#"..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00122!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00124!ARBITER!]
 		||
-		*"No use for this item is had, for HRONIR are as fictitious as Uqbar whence they came."*
+		*"They are not used. HRONIR are as fictitious as Uqbar is."*
 		(C#"..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!}
-		(D#"Fascinating... Any more red herrings for me?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00134!ARBITER!}
-		(E#"No more games!"){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00135!ARBITER!}
+		(D#"Fascinating... Any more false trails for me?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00134!ARBITER!}
+		(E#"A trick, then? Do that again and we'll see if you bleed oil..."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00135!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00124!ARBITER!/]
-	
-	
+
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00131!ARBITER!]
 		||
-		*"No ruse. No Trick."*
+		*"No ruse. No games."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00131!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001310!ARBITER!]
 		||
-		*"The myriad volumes lining the shelves contain more that is not relevant than that which is."*
+		*"The ocean is vast. Where do you first search for fish?"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001311!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001310!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001311!ARBITER!]
 		||
-		*"Thus, it is imperative that we narrow our scope in order to advance."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2064!ARBITER!}
+		*"And when you find them, a net too large may yield a big catch. Bigger than you can lift."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001312!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001311!ARBITER!/]
-	
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001312!ARBITER!]
+		||
+		*"Your questions decide your answers. Your answers decide your Awareness."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2064!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001312!ARBITER!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!]
 		||
-		*"The seed of awareness is sown only when the the right questions are formulated; and the right questions are only formulated when questions are asked at all."*
+		*"The seed of Awareness is sown when the right questions are formulated. The right questions only come when questions are actually asked."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.001310!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00134!ARBITER!]
 		||
 		*"On the Path, you will encounter many such false starts."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00134!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00135!ARBITER!]
 		||
 		*"No games. No tricks."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00132!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.00135!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.002!ARBITER!]
 		||
-		*"You have passed, Inquisitor; and now you may proceed."*
+		*"You have passed, Inquisitor. Proceed."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.002!ARBITER!/]
-	
-	
-	
+
+
+
 
 ________________________________________________________________________
 BITTERSWEET EPIPHANY
@@ -316,7 +326,7 @@ BITTERSWEET EPIPHANY
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!ARBITER!]
 		||
-		*"Brother Inquisitor, you have reached the final trial: the Bittersweet Epiphany that the Path of Discipline is unending, a repeated loop beginning where it ended and ending where it began."*
+		*"Inquisitor, you have reached the final trial: the Bittersweet Epiphany that the Path of Discipline is unending, a repeated loop beginning where it ended and ending where it began."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!ARBITER!/]
 	
@@ -546,7 +556,7 @@ returned to the path after having been kicked out
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.000!ARBITER!]
 		||
-		*"Brother Inquisitor. Seeker of judgment. I am the Arbiter."*
+		*"Inquisitor. Seeker of judgment. I am the Arbiter."*
 		(A#"I wish to use the Path of Discipline."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!}
 		(B#"I seek the wisdom of Discipline."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.001!ARBITER!}
 		(C#"I don't know what I seek."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.003!ARBITER!}
@@ -1069,7 +1079,7 @@ FAITH'S ADVENT
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.000!ARBITER!]
 		||
-		*"Brother Inquisitor, your progress is remarkable!"*
+		*"Inquisitor, your progress is remarkable!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0000!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.000!ARBITER!/]
 	
@@ -1256,7 +1266,7 @@ ARBITER
 	
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00126!ARBITER!]
 		||
-		*"Like anything, Brother Inquisitor, excellence is a habit."*
+		*"Like anything, Inquisitor, excellence is a habit."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00127!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00126!ARBITER!/]
 	
@@ -1281,7 +1291,7 @@ ARBITER
 	
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0020!ARBITER!]
 		||
-		*"I see no recollection of having heard the tale in your thought bank, Brother Inquisitor; though your attempt at deceit would please the Old Crimson Master, surely..."*
+		*"I see no recollection of having heard the tale in your thought bank, Inquisitor; though your attempt at deceit would please the Old Crimson Master, surely..."*
 		(A#"But really, I have!"){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0021!ARBITER!}
 		(B#"Why ask when you know I have not."){B:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0020!ARBITER!/]
@@ -1475,7 +1485,7 @@ end of arbiter convo
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!ARBITER!]
 		||
-		*"All your hard-earned skills and wisdom have brought you to this point, Brother Inquisitor; for this you may feel pride."*
+		*"All your hard-earned skills and wisdom have brought you to this point, Inquisitor; for this you may feel pride."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0000!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!ARBITER!/]
 	
@@ -1595,7 +1605,7 @@ ARBITER
 	
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00161!ARBITER!]
 		||
-		*"In either case, you may pass on to the final trial, Brother Inquisitor."*
+		*"In either case, you may pass on to the final trial, Inquisitor."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00161!ARBITER!/]
 	
@@ -1987,6 +1997,7 @@ ARBITER
 
 ________________________________________________________________________
 SKILL'S AWAKENING
+???
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!DESCRIPTION!|
 		*Guided by the sounds of rushing water, Ormenos marches forth into the next chamber. Here he sees a grotto bisected by a subterranean river, along whose edges grow a vibrant, emerald moss. Pools of stagnant water - vile and rank, surely poisonous to the touch, judging from the vast array of toxic substances calling them home - likewise dot the floor.
@@ -2158,7 +2169,7 @@ SKILL'S AWAKENING
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0032!DESCRIPTION!/]
 	
 	
-	
+!!!	Make Arbiter terse (ref. Edge of Ignorance dialogue)
 ARBITER
 >>>You will learn Purification (2065)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!ARBITER!]

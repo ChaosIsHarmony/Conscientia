@@ -704,7 +704,7 @@ UNUSED???
 	*ON HUMAN NATURE
 	
 	'The Art of Blindsight'
-	cr. Rikar of Kabu*
+	cr. Rikharr of Kabu*
 	@On Human Nature@
 	$Tomes/Tome.jpg$
 	#Of a beast I will speak. A blind, idiot beast of the deepest abyss. Its gaping maw hungers for the most meager essence to consume, so that it may feel at one with that from which it is sundered. This creature, the Self I name.
@@ -742,7 +742,7 @@ UNUSED???
 	$Tomes/Tome.jpg$
 	#Mythos and legends among the myriad peoples of both land and sea abound; yet none such heights of splendor as those of my humble birthplace achieve. More widespread and more acclaimed the tales of Kavu than of any other peoples are. From distances as great as Zhili, I of reference to the rust-covered Hamlik have heard - a clear derivative of our very own Famlaz, the Rubied Jinn. Yes, Jinnlore beyond the confines of our city walls extends, with numerous references made to the likes of Vanargand, Melinoe, Konki and Nerius, generally their pigmented associations retaining.
 	
-	Unsurprising then that our worship of Biracul should likewise to places as remote as Zemes and Sumarkund extend. Though Kavu the first to feel His blessed touch may be, we certainly not the last were! Shocking still, the consistency of terms Biracul and the Shining One are. No other terms beyond these two with any definitude appear. Though one Archivist, Eterslum of Sumarkund, a link between Biracul and Viracocha proposed, this theory, by and large rejected is - primarily to Viracocha's dubious origins due, given he only in certain post-Vanquished aprocrypha appears.
+	Unsurprising then that our worship of Biracul should likewise to places as remote as Zemes and Sumarkund extend. Though Kavu the first to feel His blessed touch may be, we certainly not the last were! Shocking still, the consistency of terms Biracul and the Shining One are. No other terms beyond these two with any definitude appear. Though one Archivist, Eterslum of Sumarkund, a link between Biracul and Viracocha proposed, this theory, by and large rejected is - primarily to Viracocha's dubious origins due, given he only in certain post-Vanquished apocrypha appears.
 	
 	One final mythos in recent times has risen: the Valvorthr cult to Ark. Ark's apotheosis solely a local revelation is, reach extending nary near as far and wide as other Kavan exports. The most vile threat to assault Kavu since the Punishing Wars, the fallen mage Rikharr taken by the wraithglow was and as Jinnwraith expectorated to the leader of the loathsome draugnir horde become. Ark's sacrifice the people shielded, reminiscent of the Shining One's actions during the Punishing Wars, truly. 
 	
@@ -780,7 +780,7 @@ UNUSED???
 		
 	Principle of the Higher Order
 		
-		All relationships held between objects knowable to the Trueflesh obey the Rule of Heirarchy; the magnitude of a given quality determines rank among sets. Thus, ten exceeds one, but is dwarfed by a thousand.
+		All relationships held between objects knowable to the Trueflesh obey the Rule of Hierarchy; the magnitude of a given quality determines rank among sets. Thus, ten exceeds one, but is dwarfed by a thousand.
 		
 	Principle of Function
 		
@@ -1112,7 +1112,7 @@ UNUSED???
 
     "Of a creature [beast?] I will speak. A blind ... beast of the deepest abyss. Its gaping maw hungers for the most meager essence to consume so that it may feel at one with that from which it is sundered. ...[It] the Self I name."
 	
-	These, the opening words of the tortured mage be. Rikharr of Kavu by Chaos itself touched, nihilistic views adopted and to it upon all force opted. His reasoning though sound, his endgoals antagonistic to right-minded individuals are. He thus implies: that if we but the pawns of some cosmic manipulator are, if it us moves as pieces on a gameboard, then only one way to break the grip of this invisible hand remains: we must the pieces destroy.
+	These, the opening words of the tortured mage be. Rikharr of Kavu by Chaos itself touched, nihilistic views adopted and to it upon all force opted. His reasoning though sound, his end goals antagonistic to right-minded individuals are. He thus implies: that if we but the pawns of some cosmic manipulator are, if it us moves as pieces on a gameboard, then only one way to break the grip of this invisible hand remains: we must the pieces destroy.
 	
 	All games must end, yet mage Rikharr a way to force the 'blind beast' found, one in which to his own rules enforce instead of to the dispassionate whims of the transcendent follow. Therein the brilliance of this maligned Kavan lies.
 	
@@ -1138,7 +1138,7 @@ UNUSED???
 	cr. Joffris of Okum*
 	@Before the Fall - I@
 	$Tomes/Tome.jpg$
-	#	A dark winter's night creeps over the land, clawing its way westward with icy fingers, belching chill snow round the Dark Lord's keep. But tonight, the Master of Night faces the inevitability of his own demise. For years now, he knew his final night would drew near, its end wrought by his own cursed hands.
+	#	A dark winter's night creeps over the land, clawing its way westward with icy fingers, belching chill snow round the Dark Lord's keep. But tonight, winter ends for the Master of Night; all ends for him. Tonight, he faces the inevitability of his own demise. The world was too similar to how it had been, too many coincidences to be mere chance. He has known for a while now that his final night draws near, its end wrought by his own cursed hands.
 
     Sitting upon his sullied throne, the Dark Lord raps his crusted fingernails upon its pewter arm. Slowly, steadily, ever-gaining in frequency and intensity, he clicks his gnarled digits against the metal. Waiting. Eternally. Expectantly. For his sworn enemy's arrival.
 
@@ -1178,7 +1178,7 @@ UNUSED???
 
     Next, he becomes a sailor, very soon finding his sea legs to be made of gelatin. The summer season spent draped over the bow, the hero hangs listless, hopeless, utterly useless to his captain. Wan in face, he incessantly retches the contents of his unsympathetic stomach into the ocean.
 
-    One final attempt he makes leads him to study trade. He learns to buy and sell a quarry most mundane--that is compared to the horns of slain demons. Yet his trusting nature and honesty lead to unwise investments, costing him all of his remaining coin.
+    One final attempt he makes leads him to study trade. He learns to buy and sell a quarry most mundane--that is, compared to the horns of slain demons. Yet his trusting nature and honesty lead to unwise investments, costing him all of his remaining coin.
 
     Ten years thus pass in the span of a breath, not even the shadow of success in sight. Ten years of toil, agony and failure have aged his body tenfold. Now looking upon his withered and gnarled hands, he no longer recognizes them as his own. He had once been the strongest in the land, but now none weaker remain.
 
@@ -1188,11 +1188,11 @@ UNUSED???
 
     One day, as he wanders the grimy streets of a dispassionate city, he decides to finally search for a suitable place to die. And find it he does. Along an unmarked alley in a forgotten part of town, he falls to the ground, kissing stone with cracked, bloody lips, unable and unwilling to move.
 
-    Twenty years have elapsed since he freed the traitorous world from their horrific overlord. Twenty years he has suffered the forgetfulness of ingrates and hypocrites. Though a mere drop in the ocean of time, these two decades were time enough to break the spirit of the one man whose optimism once save the world. And now, he will die unmourned, unremembered, unwanted...
+    Twenty years have elapsed since he freed the traitorous world from their horrific overlord. Twenty years he has suffered the forgetfulness of ingrates and hypocrites. Though two small drops in an ocean unfathomably vast, these two decades were time enough to break the spirit of the one man whose optimism once saved the world. And now, he will die unmourned, unremembered, unwanted...
 
     But out from the darkness of that trash-filled alley comes a cloaked individual, staring down upon the broken man's wretched form. A simple raising of this unknown figure's hand levitates the ragged, dying body from the floor. Yet another deft gesture gently propels it through the air and toward an opened door at the end of the forgotten alley. The cloaked figure follows the floating body in and the door shuts behind them.
 
-    In this dusty, ill-lit room are jars housing a frightening menagerie of creatures, at many stages of development, suspended in viscous fluids of many colors--some even thrash about in their glassy containers. Cauldrons bubble absent fire. Furniture moved my unseen hands clears a path. Leather-bound tomes strewn about a table shut themselves and fly to their appointed places upon distant shelves.
+    In this dusty, ill-lit room are jars housing a frightening menagerie of creatures, at many stages of development, suspended in viscous fluids of many colors--some even thrash about in their glassy prisons. Cauldrons bubble absent fire. Furniture moved by unseen hands carves a path through the chaos. Leatherbound tomes strewn about a table shut themselves and fly to their appointed places upon distant shelves.
 
     When the former warrior finally stirs, he finds his form bound to a cold metal surface. There he lies, naked and afraid. Fear? But of what? Was he not searching for death? The cloaked figure appears before him, scarlet lips curled into a sinister grin.
 
@@ -1225,7 +1225,7 @@ EDIT???
 
     At his whim, all creatures of the forest congregate before him, bowing at his feet. With the mere flick of his wrist, their forms warp and distort into hideous, mixed beasts. Wolves meld with stags and bears with cougars, birthing terrible, demonic creatures. This depraved, unnatural army, built solely for the purpose of slaughter and destruction, eagerly awaits its commands.
 
-    With the deft swinging of his arm, the wizard sets his nightmare army in motion. Howls act as trumpets, heralding the twisted horde's march through the midnight forest. Their four-pawed gallop carries them through the trees with inhuman speed. Their master follows, carried on the wailing winds. Faster and faster the misshapen beasts weave through pines and firs, until they reach the edge of the forest. A sleeping village. His vengeance begins.
+    With the mere swing of an arm, the wizard sets his nightmare army in motion. Howls act as trumpets, heralding the twisted horde's march through the midnight forest. Their four-pawed gallop carries them through the trees with inhuman speed. Their master follows, carried on the wailing winds. Faster and faster the misshapen beasts weave through pines and firs, until they reach the edge of the forest. A sleeping village. His vengeance begins.
 
     The demonic soldiers raze the town, murdering indiscriminately. Peasant blood irrigates the burning fields, screams fill the midnight air, and corpses litter the landscape. In a final display of wanton destruction, the wizard lights the buildings ablaze with a grand motion of lifting arms and clenching fists. But his hunger is yet unsated; this is simply the beginning!
 
@@ -1237,7 +1237,7 @@ EDIT???
 
     For ten more years, he rules by force of reputation alone, never using his remaining power. He sits patiently upon his pewter throne signing edicts and performing the mundane tasks any lord might. When anyone sows the seeds of rebellion, he burns and salts the fields, quelling even the desire for change. He knows that none will rise to save these arrogant humans, that they are getting what they deserve!
 
-    But at the end of these ten years, he receives a report which leaves him mouth agape, not knowing whether to laugh or cry. A new hero has arisen among the people, one who has promised to vanquish the Dark Lord and to free the people from his oppression. The reality of this familiar situation hits him like an earthquake, shaking the very foundations of his resolve. His meager candle's wick grows dark, flameless with only a single wisp of smoke rising from it.
+    But at the end of these ten years, he receives a report which leaves his mouth agape, not knowing whether to laugh or cry. A new hero has arisen among the people, one who has promised to vanquish the Dark Lord and to free the people from his oppression. The reality of this familiar situation hits him like an earthquake, shaking the very foundations of his resolve. His meager candle's wick grows dark, flameless with only a single wisp of smoke rising from it.
 
     As he sits upon his sullied throne, clicking his crusty fingernails on its arm, he waits for his final guest. Gazing at an all too familiar oaken door, he knows that at any minute through it a fated warrior will appear. The wind rips open the door, allowing the confident figure to come traipsing through. The wrinkled and broken Dark Lord then sees before him his youthful self staring back, ablaze with that forgotten fire burning in those hungry eyes. In tacit sympathy, the youth shares a spark, lighting the cold, black wick of the aged wizard's spent candle.
 
