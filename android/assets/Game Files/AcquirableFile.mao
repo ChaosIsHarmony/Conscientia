@@ -872,9 +872,9 @@ UNUSED???
 	trans. Rosenth of Thiuda*
 	@Knowledge Singularity@
 	$Tomes/Tome.jpg$
-	#It has come to my attention that knowledge generates a burning desire for more of its ilk. Further, the more that is accumulated, the greater this desire burns. As the intensity increases, the yearning becomes all consuming, trapping any other emotions in a perpetually compressing focus and sense of purpose.
+	#It has come to my attention that knowledge generates a burning desire for more of its ilk. Further, the more one accumulates, the greater this desire burns. As the intensity increases, the yearning becomes all consuming, trapping any other emotions in a perpetually compressing focus and sense of purpose.
 	
-	I fear that we may have strayed from what is right in our lustful pursuit of knowledge, victims of our own desire. At first, it was merely a snowflake landing upon a blanketed mountain, but ever did it descend, gathering confederates, gaining strength and momentum, until the avalanche has now taken over our very souls. Our moral compasses spin chaotically having forgotten true north.
+	I fear that we may have strayed from what is right in our lustful pursuit of knowledge, victims of our own desire. At first, it was merely a snowflake landing upon a blanketed mountain, but ever did it descend, gathering confederates, gaining in strength and momentum, until its avalanche has now taken over our very souls. Our moral compasses spin chaotically having forgotten true north.
 	
 	May the great minds of humanity save us if we have erred. I only pray that it will not be too late.#
 [81/]
@@ -892,7 +892,7 @@ UNUSED???
 	Tasked were they.
     With the defense of knowledge.
     From the malignant clutches of the Biracul.
-    And his pernicious deity.
+    And his pernicious demon-god.
 	
     The first Patrons of Wisdom.
     Skyl and the twinned Master Konki and Nerius.
@@ -1128,10 +1128,9 @@ UNUSED???
 	
 	And in parting, he us with the pinnacle of his thoughtless thought withdraws, with the solution to all our ills... For which I now an alternative reading propose, one in contrast to Rikharr the mage, but in keeping with Rikharr the man.
 		
-		If we acknowledge that only death, annihilation, non-existence can all our problems solve, yet still to snuff the flame of the Mind's Fire refuse, our Falseflesh's eradication resist, then our only alternative clear is: we must with the ugliness which mirrors beauty coexist. To the pain which accompanies pleasure accept. Do we not then a greater appreciation for what we must do find? Do we not above what we wish to do this hold? Time will the answer reveal.#
+	If we acknowledge that only death, annihilation, non-existence can all our problems solve, yet still to snuff the flame of the Mind's Fire refuse, our Falseflesh's eradication resist, then our only alternative clear is: we must with the ugliness which mirrors beauty coexist. To the pain which accompanies pleasure accept. Do we not then a greater appreciation for what we must do find? Do we not above what we wish to do this hold? Time will the answer reveal.#
 [87/]
 
-EDIT???
 [/88]
 	*BEFORE THE FALL - I
 	
@@ -1139,23 +1138,25 @@ EDIT???
 	cr. Joffris of Okum*
 	@Before the Fall - I@
 	$Tomes/Tome.jpg$
-	#	A dark winter's night creeps over the land, clawing its way westward with icy fingers, belching chill snow round the Dark Lord's keep. But tonight, the Master of Night faces the inevitability of his own demise. A night he knew would come--for was it not a fall wrought by his own cursed hands?
+	#	A dark winter's night creeps over the land, clawing its way westward with icy fingers, belching chill snow round the Dark Lord's keep. But tonight, the Master of Night faces the inevitability of his own demise. For years now, he knew his final night would drew near, its end wrought by his own cursed hands.
 
     Sitting upon his sullied throne, the Dark Lord raps his crusted fingernails upon its pewter arm. Slowly, steadily, ever-gaining in frequency and intensity, he clicks his gnarled digits against the metal. Waiting. Eternally. Expectantly. For his sworn enemy's arrival.
 
-    In the space of a thought, the heavy oak barriers squeal on their hinges, propelled further by the savage winter winds. The darkness of night obscures all beyond the keep's portal. Yet soon there is motion. Barely perceptible at first, the confident stride of a cloaked figure gains in clarity as the figure gains in proximity. The Dark Lord's slayer cometh.
+    Two heavy oak doors squeal on rusty hinges, seemingly propelled by the savage winter winds. The darkness of night obscures all beyond the keep's portal. Yet soon motion splits the shadows. Barely perceptible at first, the confident stride of a familiar cloaked figure gains in clarity as it gains in proximity. The Dark Lord's slayer cometh.
 
-    What had appeared to be confidence in gait was perhaps a mere illusion born of shadows and anticipation, as the figure limping through the great oaken door can do little more than stand--this itself is a minor miracle, after having cut through the demon hordes defending the battlements. Yet a fire burns in those eyes, fueled by righteous furor and a lust for glory. In truth, it is the same fire that once burned in those coal-black eyes of the man sitting upon the pewter throne.
+    What had appeared to be confidence in gait was perhaps a mere illusion born of shadows and anticipation, as the figure limping through the great oaken doors can do little more than stand--this itself a minor miracle, after having cut through the demon hordes defending the battlements. Yet a fire burns in those eyes, fueled by righteous furor and glory-lust. In truth, it is the same fire that once raged within the coal-black eyes of the man sitting upon the pewter throne.
 
-    The Master of Night muses back upon his flawed existence, wondering now what he should regret, if anything. Wisely he sates his hunger for one to blame with only himself. In the end, he knew that though the universe may have thrust a sword into his hand, it was he who chose to use it.
+    The Master of Night muses back upon his flawed existence, wondering now what he should regret--if he should regret. Wisely, he sates his ego's thirst for blame with only himself. In the end, he knew that though the universe may have thrust a sword into his hand, it was he who chose to wield it.
+	
+	Acceptance returns him to a long forgotten state--a state more legend than truth to him in recent decades. Absurdity absolves him of his sins and renews his trust in chaos. Now, he vows, now his enmity with destiny ends, at long last. Life's shackles unlock, freeing him from any fear of death. He leaves these heavy bonds to his slayer--a final yet unending irony.
 
-    With his peace made, the Dark Lord rises from his throne and raises a wrinkled hand into the air, only to lower it as a clenched fist. His knotted fingers crack against his palm as his grip tightens, compressing the very air into powder. A forgotten passion temporarily reignites within the cold void of his soul.
+    Peace made with fate, the Dark Lord rises from his throne and raises a wrinkled hand into the air, lowering it as a clenched fist. Gnarled joints crack against his palm as his grip tightens, compressing the very air into powder. A forgotten passion temporarily reignites within the cold void of his soul; his coal-black eyes alight anew.
 
-    The battered warrior at the door gains the strength of a desperate man, drawing it from the unplumbed depths of his soul. A strength that bolsters his structure for a final assault on his chosen evil. He darts forward, the Master of Night responding in kind.
+    The battered warrior at the door gains the strength of a desperate man, drawing it from the unplumbed depths of his soul--a strength that bolsters his structure for a final assault on his chosen evil. He darts forward, the Master of Night responding in kind.
 
-    Their two voices erupt into twinned battle cries determined to beat the odds and punish the cruelty of fate. Ever-closer do they draw. Ever-fiercer do they grow. Until the moment they collide. That moment sealed by fate many cycles before the slayer was born. That moment expected by the slain ever since he realized whose flesh he had assumed those many moons ago.
+    Their two voices erupt into twinned battle cries, echoing and crescendoing within the empty hall. Ever-closer drawing. Ever-fiercer growing. Until the moment they collide. The promised moment etched forever in time. The known moment expected ever since the slain realized whose flesh he had assumed those many moons ago.
 
-    Upon the warrior's blade the Dark Lord's body rested, the struggle now over, true peace finally attained. What is the beginning for one man, is likewise his end.#
+    Upon the warrior's blade the Dark Lord's body rests, his struggle now over, true peace finally attained. The beginning for one man is likewise his end.#
 [88/]
 
 [/89]
@@ -1165,41 +1166,42 @@ EDIT???
 	cr. Joffris of Okum*
 	@Before the Fall - II@
 	$Tomes/Tome.jpg$
-	#	The warrior's fame spreads far and wide. He is now known by numerous epithets--Darksbane, Nightslayer, and Hopebringer among them. He has conquered the evil besetting the kingdom and brought peace to the world, and his heroic deeds have earned him a place in the hearts of all folk.
+	#	The warrior's fame spreads far and wide. He is now known by numerous epithets--Darksbane, Nightslayer, and Hopebringer among them. He has conquered the evil besetting the kingdom and brought peace to the world, and these heroic deeds have earned him a place in the hearts of all folk.
 
-    Years come and they go and along with them vanish the painful memories of oppression and subjugation under the Dark Lord's regime. No demons remain to torment. No coal-black clouds hang perpetually in the skies. And soon, no trace will linger of a past evil at all. The people have truly entered an age of great prosperity, peace now reigning in evil's stead.
+    Yet, the years come and they go and along with them vanish the painful memories of oppression and subjugation under the Dark Lord's regime. No demons remain to torment. No inky clouds hang perpetually in the skies. And soon, no trace will linger of a past evil at all. The people have truly entered an age of great prosperity, peace now reigning in evil's stead.
 
-    But the warrior who brought it all about suffers. His entire life he had spent training to slay the demonic, to purge the malevolent. But now that no evil remains, he is without purpose, without function...
+    The warrior who brought it all about, though, now suffers greatly. His entire life he had spent training to slay the demonic, to purge the malevolent. But now that no evil remains, he is without purpose, without function...
 
-    Initially, he attempts to shuck the yoke of his heroic past and reintegrate into society. Yet his failures are so absolute that soon none would hire him, even in spite of his status as savior.
+    He thus vows to shuck the yoke of his heroic past and reintegrate into society--a final victory, well-suited to a hero.
 
-    First, he becomes a farmhand, but one day while clumsily pitching hay, he accidentally knocks over an oil lamp in a stable. Mere moments later, the whole structure is ablaze, burning throughout the night, leaving only ash where the region's most profitable horse stable once stood.
+    First, he becomes a farmhand, but one day while clumsily pitching hay, he accidentally knocks over an oil lamp in the stable. In the space of a thought, the whole structure is ablaze, burning throughout the night, leaving only ash where the region's most profitable horse stable once stood. Needless to say, the owner was displeased.
 
-    Next, he becomes a sailor, very soon finding his sea legs to be made of gelatin. He spends the season draped over the bow, wan in face and incessantly retching the contents of his unsympathetic stomach into the ocean.
+    Next, he becomes a sailor, very soon finding his sea legs to be made of gelatin. The summer season spent draped over the bow, the hero hangs listless, hopeless, utterly useless to his captain. Wan in face, he incessantly retches the contents of his unsympathetic stomach into the ocean.
 
-    Last, he makes an effort to study trade. He learns to buy and sell mundane quarry--that is compared to the horns of slain demons--such as silks and textiles. Yet his trusting nature and honesty lead to unwise investments, costing him all of his remaining coin.
+    One final attempt he makes leads him to study trade. He learns to buy and sell a quarry most mundane--that is compared to the horns of slain demons. Yet his trusting nature and honesty lead to unwise investments, costing him all of his remaining coin.
 
-    Ten years thus pass in the space of a thought, and without even the shadow of success in sight. Ten years of toil, agony and failure have aged his body tenfold. Now looking upon his withered and gnarled hands, he no longer recognizes them as his own. He had once been the strongest in the land, but now there are none weaker.
+    Ten years thus pass in the span of a breath, not even the shadow of success in sight. Ten years of toil, agony and failure have aged his body tenfold. Now looking upon his withered and gnarled hands, he no longer recognizes them as his own. He had once been the strongest in the land, but now none weaker remain.
 
-    To his misfortune, news of his legendary incompetence for anything but demon-slaying spreads and he is soon without recourse. Doors shut in his face; dismissive hands wave him away. Even as a beggar he fails, for none are willing to approach him, much less drop a coin into his grotesque hands. Mothers warn children to keep their distance; people divert their course to avoid passing near him. Soon none even remember who he is or why they spurn him; they just know to do so with religious fervor.
+    To his misfortune, news of his legendary incompetence for anything but demon-slaying spreads and he is soon without recourse. Doors shut in his face; dismissive hands wave him away. Even as a beggar he fails, for none are willing to approach him, much less drop a coin into his grotesque hands. Mothers warn children to keep their distance; people divert their course to avoid passing near him. Soon none even remember who he is or why they spurn him; they just know to do so with religious regularity.
 
-    Ten more years pass in the blink of an eye. This former hero spends his miserable days hunting rats and digging through refuse to find some half-spoiled head of cabbage. He has become utterly unrecognizable.
+    Soon, ten more years come and go. The former hero now spends his miserable days hunting rats and digging through refuse to find some half-spoiled head of cabbage. More feral beast than lauded savior, he has become utterly unrecognizable.
 
-    One day, he finds himself wandering the grimy streets of a dispassionate city, and he decides to finally search for an appropriate place to collapse and end his tragic existence. And find it he does. Along an unmarked alley in a forgotten part of town, he falls to the ground, kissing stone, unable and unwilling to move any longer.
+    One day, as he wanders the grimy streets of a dispassionate city, he decides to finally search for a suitable place to die. And find it he does. Along an unmarked alley in a forgotten part of town, he falls to the ground, kissing stone with cracked, bloody lips, unable and unwilling to move.
 
-    Twenty years have elapsed since he freed the traitorous world from their horrific overlord. Though a mere drop in the ocean of time, these two decades were time enough to break the spirit of the one man who had the optimism to save the world. And now, he will die unmourned, unremembered, unwanted...
+    Twenty years have elapsed since he freed the traitorous world from their horrific overlord. Twenty years he has suffered the forgetfulness of ingrates and hypocrites. Though a mere drop in the ocean of time, these two decades were time enough to break the spirit of the one man whose optimism once save the world. And now, he will die unmourned, unremembered, unwanted...
 
-    But out from the darkness of that trash-filled alley comes a cloaked individual, staring down upon the broken man's wretched form. A simple raising of this unknown figure's hand levitates the body from the floor. Yet another deft gesture gently propels it through the air and toward an opened door at the end of the forgotten alley. The cloaked figure follows the floating body in and the door shuts behind them.
+    But out from the darkness of that trash-filled alley comes a cloaked individual, staring down upon the broken man's wretched form. A simple raising of this unknown figure's hand levitates the ragged, dying body from the floor. Yet another deft gesture gently propels it through the air and toward an opened door at the end of the forgotten alley. The cloaked figure follows the floating body in and the door shuts behind them.
 
-    In this dusty, ill-lit room are jars housing a frightening menagerie of creatures suspended in viscous fluids of many colors. Cauldrons bubble absent fire. Furniture clears a path, compelled by some invisible force. Leather-bound tomes shut themselves and fly to their appointed places upon distant shelves.
+    In this dusty, ill-lit room are jars housing a frightening menagerie of creatures, at many stages of development, suspended in viscous fluids of many colors--some even thrash about in their glassy containers. Cauldrons bubble absent fire. Furniture moved my unseen hands clears a path. Leather-bound tomes strewn about a table shut themselves and fly to their appointed places upon distant shelves.
 
-    When the former warrior finally stirs, he finds his form bound to a cold metal surface. There he lies, naked and afraid. Fear? But of what? Was he not searching for death? The cloaked figure appears before him, lips curled into a sinister grin.
+    When the former warrior finally stirs, he finds his form bound to a cold metal surface. There he lies, naked and afraid. Fear? But of what? Was he not searching for death? The cloaked figure appears before him, scarlet lips curled into a sinister grin.
 
-    The trapped man now feels a burning rage surge within him. But he soon realizes that this devil standing before him is not the object of his anger. Then who? The images of all who had betrayed him flash before his mind's eye. All the shopkeepers, the housewives, the sailors and farmers, the merchants and children, all of them appear with their mocking laughter, fingers pointed at him.
+    The trapped man now feels a burning rage surge within him. But he soon realizes this devil before him is not the object of his anger. Then who? The images of all who had betrayed him flash before his mind's eye. All the shopkeepers, the housewives, the sailors and farmers, the merchants and children, all of them appear with their mocking laughter, fingers pointed at him.
 
     These memories, both constructed and real, come pouring forth from the depths of his soul, culminating in a clarion cry of absolute pain. His vision blurs, all colors merging, gaining in brightness and intensity. Soon all he sees is white. And in a flash of blinding light, his body disappears.#
 [89/]
 
+EDIT???
 [/90]
 	*BEFORE THE FALL - III
 	
@@ -1235,7 +1237,7 @@ EDIT???
 
     For ten more years, he rules by force of reputation alone, never using his remaining power. He sits patiently upon his pewter throne signing edicts and performing the mundane tasks any lord might. When anyone sows the seeds of rebellion, he burns and salts the fields, quelling even the desire for change. He knows that none will rise to save these arrogant humans, that they are getting what they deserve!
 
-    But at the end of these ten years, he receives a report which leaves him mouth agape, not knowing whether to laugh or cry. A new hero has arisen among the people, one who has promised to vanquish the Dark Lord and to free the people from his oppression. The reality of this familiar situation hits him like an earthquake, shaking the very foundations of his resolve. His meager candle's wick grows dark, flameless with only a single wisp of smoke rising from it..
+    But at the end of these ten years, he receives a report which leaves him mouth agape, not knowing whether to laugh or cry. A new hero has arisen among the people, one who has promised to vanquish the Dark Lord and to free the people from his oppression. The reality of this familiar situation hits him like an earthquake, shaking the very foundations of his resolve. His meager candle's wick grows dark, flameless with only a single wisp of smoke rising from it.
 
     As he sits upon his sullied throne, clicking his crusty fingernails on its arm, he waits for his final guest. Gazing at an all too familiar oaken door, he knows that at any minute through it a fated warrior will appear. The wind rips open the door, allowing the confident figure to come traipsing through. The wrinkled and broken Dark Lord then sees before him his youthful self staring back, ablaze with that forgotten fire burning in those hungry eyes. In tacit sympathy, the youth shares a spark, lighting the cold, black wick of the aged wizard's spent candle.
 
