@@ -132,7 +132,7 @@ _________GLYPHS_________
 	dt. Vanquished Era*
 	@Glyph of Purification@
 	$Glyphs/Purification Glyph.png$
-	#The Glyph of Purification, capable of transforming poisons of both body and mind, this allows its branded Trueflesh to be preserver of life and health. 
+	#The Glyph of Purification, capable of transforming poisons of both body and mind, begets the Absolution Techne. This allows its branded Trueflesh to be preserver of life and health. 
 	
 	This Glyph derived as an antecedent to its destructive twin, a foil to its corrupt effects. The relationship between Corruption and Purification was discovered within the Red Tower, yet the Vanquished lacked the Awareness to understand this duality. It was thus that the construction of the Empyrean's crucible began.#
 [10/]
@@ -156,11 +156,11 @@ _________GLYPHS_________
 	dt. Vanquished Era*
 	@Glyph of Corruption@
 	$Glyphs/Corruption Glyph.png$
-	#The Glyph of Corruption decomposes the very essence of matter, in such a way that even the smallest mote of life can become a bane to its fellows. The Falseflesh of any creature born of womb will be annihilated by the Trueflesh bearing this Glyph, should they wish it.  
+	#The Glyph of Corruption and its Putrefaction Techne decompose the very essence of matter, in such a way that even the smallest mote of life can become a bane to its fellows. The Falseflesh of any creature born of womb will be annihilated by the Trueflesh bearing this Glyph, should they wish it.  
 	
 	Such was the cunning of the Vanquished that it is said they once fashioned a simulacrum of life that could bear the poison of this Glyph without succumbing to its effects - a sheath to an otherwise hostile blade. But most can only ever use its power indirectly.
 	
-	The fated combination of Corruption with its twinned Glyph led to unexpected complications for the Vanquished - complications ultimately inducing their inevitable demise.#
+	The fated combination of Corruption with its twinned Glyph led to unexpected complications for the Vanquished - complications ultimately inducing their demise.#
 [14/]
 
 [/15]

@@ -4369,7 +4369,7 @@ WINDING STAIR
 >>>Saw bodies (12003)<<<
 	[/KABU!SANCTUARY!WINDING STAIR!01.X000!DESCRIPTION!]
 		|^12003:KABU!SANCTUARY!WINDING STAIR!01.010!DESCRIPTION!|
-		*Eidos begins her descent, deeper into the maw of darkness. Time passes as surely as her feet continue to step, stumble and engage in other gravity-aided motion. Surprisingly, the light high above never seems to dwindle as she spirals down indefinitely. Likewise, the darkness always seems to hide yet another length of stairs.*
+		*Eidos begins her descent, deeper into the maw of darkness. Time passes as surely as her feet continue to step, stumble, and engage in other gravity-aided motion. Surprisingly, the light high above never seems to dwindle as she spirals down indefinitely. Likewise, the darkness always seems to hide yet another length of stairs.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!01.001!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!01.X000!DESCRIPTION!/]
 

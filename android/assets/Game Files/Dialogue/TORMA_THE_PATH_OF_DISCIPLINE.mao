@@ -1058,14 +1058,14 @@ FAITH'S ADVENT
 		But there is no rest for the weary, as the familiar whirring sound acts as a prelude to the voice of the Arbiter.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X000!DESCRIPTION!/]
-	
+
 >>>You have left in shame from Faith's Advent (2068)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X001!DESCRIPTION!]
 		|^2068:ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0010!DESCRIPTION!|
 		*In an instant, the intricately woven carpet shrinks and the pillows disappear. Then the now diminutive carpet begins to levitate, elevating Ormenos with it, as a hole in the floor opens allowing passage to a chamber beneath. The carpet and its cargo descend.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0010!DESCRIPTION!]
 		||
 		*In what can only be described as the opposite of a flash, all lights disappear and Ormenos is simply left in a darkness so absolute, that it will inevitable take much effort just to discover the exit, let alone return to the beginning...
@@ -1073,229 +1073,229 @@ FAITH'S ADVENT
 		But what choice does he have?*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2040!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0010!DESCRIPTION!/]
-	
-	
-	
+
+
+!!!	Make Arbiter terse (ref. Edge of Ignorance dialogue)
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.000!ARBITER!]
 		||
 		*"Inquisitor, your progress is remarkable!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0000!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.000!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0000!ARBITER!]
 		||
 		*"You must be tempted to rest on your laurels and call it a day..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0000!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0001!ARBITER!]
 		||
 		*"But I wonder if you've heard of the tale of the Old Crimson Master, Hamlik?"*
 		(A#"I have."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X002!ARBITER!}
 		(B#"I have not."){B:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2067!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0001!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.001!ARBITER!]
 		||
 		*"Then allow me to tell the tale of the Crimson wizard, Hamlik, who when but a young boy, had already begun his walk down the Path of Deceit."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00100!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.001!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00100!ARBITER!]
 		||
 		*"The Verdant Master a sword did craft and while he slept, it was 'misplaced'."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00101!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00100!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00101!ARBITER!]
 		||
 		*"Now, old Vanargand held his suspicions that Hamlik's sticky hands might have vanished the ghelblade from his workshop; and as such, Vanargand went to Hamlik's home to inquire."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00102!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00101!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00102!ARBITER!]
 		||
 		*"Denial was both expected and received, so Vanargand sought to use his wit to plumb the depths of Hamlik's sincerity."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00103!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00102!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00103!ARBITER!]
 		||
 		*"He asked Hamlik three plus one questions."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00104!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00103!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00104!ARBITER!]
 		||
 		*"'Have you seen my newly forged blade?' The Verdant Master asked."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00105!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00104!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00105!ARBITER!]
 		||
 		*"'I have not,' the Rusted Master replied."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00106!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00105!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00106!ARBITER!]
 		||
 		*"'Then have you been in my workshop?' Vanargand subsequently inquired."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00107!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00106!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00107!ARBITER!]
 		||
 		*"'I have not,' young Hamlik answered."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00108!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00107!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00108!ARBITER!]
 		||
 		*"'Then did you take Luin?' Was Vanargand's next question."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00109!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00108!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00109!ARBITER!]
 		||
 		*"'I told you, I didn't take your blade!' Exclaimed the youthful trickster."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00110!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00109!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00110!ARBITER!]
 		||
 		*"'Then how did you know its name?' Was the master craftsman's final question."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00111!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00110!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00111!ARBITER!]
 		||
 		*"Hamlik knew he had been caught and was summarily punished for his deceit: the Verdant Master crafted for him a hideous beak and merged it with his Trueflesh for all time."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00112!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00111!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00112!ARBITER!]
 		||
 		*"But did he abandon the Path of Deceit?"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00113!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00112!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00113!ARBITER!]
 		||
 		*"Of course not!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00114!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00113!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00114!ARBITER!]
 		||
 		*"For next the Verdant Master produced a beast of war, four legs upon the earth and breath to melt even diamonds!"* 
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00115!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00114!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00115!ARBITER!]
 		||
 		*"This too went missing."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00116!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00115!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00116!ARBITER!]
 		||
 		*"And once more to the Crimson Master went Vanargand in search, but now craftier and more skilled had he become..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00117!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00116!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00117!ARBITER!]
 		||
 		*"Three plus one questions were asked and three plus one answers he received."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00118!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00117!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00118!ARBITER!]
 		||
 		*"'Have you seen my newly forged beast of war?' Asked the master craftsman."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00119!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00118!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00119!ARBITER!]
 		||
 		*"'I have not,' the youthful trickster replied."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00120!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00119!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00120!ARBITER!]
 		||
 		*"'Have you been in my workshop?' Was the Verdant Master's second inquiry."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.001200!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00120!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.001200!ARBITER!]
 		||
 		*"'I have not stepped foot in there.' Was Hamlik's answer."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00121!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.001200!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00121!ARBITER!]
 		||
 		*"'Did you take Gulganna?' Was Vanargand's next question."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00122!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00121!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00122!ARBITER!]
 		||
 		*"'What's that?' Slyly answered the Crimson Master."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00123!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00122!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00123!ARBITER!]
 		||
 		*"The master craftsman's ruse had been stymied; he had been outwitted, outdone."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00124!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00123!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00124!ARBITER!]
 		||
 		*"The wisdom of 'practice' was not lost on the devious Hamlik; and thus 'talent' became 'competence'; and 'competence' turned to 'mastery'."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00125!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00124!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00125!ARBITER!]
 		||
 		*"With even the Verdant Master fooled, now none could remain unbeguiled by the Crimson Master."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00126!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00125!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00126!ARBITER!]
 		||
 		*"Like anything, Inquisitor, excellence is a habit."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00127!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00126!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00127!ARBITER!]
 		||
 		*"Perform your Techne to the best of your abilities every time, for your whole life and even the Masters will tremble in their boots at the sound of your name!"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00128!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00127!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00128!ARBITER!]
 		||
 		*"Now continue along the Path of Discipline, to complete your training."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.00128!ARBITER!/]
-	
+
 >>>You have heard the tale of Hamlik (2067)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X002!ARBITER!]
 		|^2067:ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.002!ARBITER!|
 		*"A master of occluding thoughts you may be, but imperfect your technique remains."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0020!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X002!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0020!ARBITER!]
 		||
 		*"I see no recollection of having heard the tale in your thought bank, Inquisitor; though your attempt at deceit would please the Old Crimson Master, surely..."*
 		(A#"But really, I have!"){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0021!ARBITER!}
 		(B#"Why ask when you know I have not."){B:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0020!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0021!ARBITER!]
 		||
 		*"Indeed... Then why is the Master Hamlik so skilled in deceit, Brother?"*
@@ -1306,13 +1306,13 @@ ARBITER
 		(E#"He is clearly a powerful mage."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0022!ARBITER!}
 		(F#"Well, he's fooled me a couple of times already!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0022!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0021!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0022!ARBITER!]
 		||
 		*"You are in error, Brother."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0023!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0022!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0023!ARBITER!]
 		||
 		*"Would you like to dispel the shadow of ignorance cast by your arrogance?"*
@@ -1320,34 +1320,34 @@ ARBITER
 		(E#"I have gotten what I need; you are no longer necessary."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0024!ARBITER!}
 		(F#"Look, bro, I know more about this series than you do!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0024!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0023!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0024!ARBITER!]
 		||
 		*"Then in darkness you will leave."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9990.X2068!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0024!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0025!ARBITER!]
 		||
 		*"So you follow Hamlik's footsteps down the Path of Deceit?"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0026!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0025!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0026!ARBITER!]
 		||
 		*"Though deceitful you may be, unwise you are not."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0027!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0026!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0027!ARBITER!]
 		||
 		*"You may pass."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.0027!ARBITER!/]
-	
 
 
-	
+
+
 ________________________________________________________________________
 HUBRIS' DEMISE
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!DESCRIPTION!]
@@ -1997,24 +1997,23 @@ ARBITER
 
 ________________________________________________________________________
 SKILL'S AWAKENING
-???
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!DESCRIPTION!|
-		*Guided by the sounds of rushing water, Ormenos marches forth into the next chamber. Here he sees a grotto bisected by a subterranean river, along whose edges grow a vibrant, emerald moss. Pools of stagnant water - vile and rank, surely poisonous to the touch, judging from the vast array of toxic substances calling them home - likewise dot the floor.
+		*Ormenos quickly strides forth into the next chamber. Here, a subterranean river cuts off a portion of the grotto, as it rushes noisily on its way. Along its edges grows a vibrant, emerald moss - nearly too perfectly arrayed for nature's chaotic hand. In the opposite corner, pools of stagnant water dot the floor with precise regularity; uniformly vile and rank - surely poisonous to the touch - their bubbly belching sours the air nearby.
 		
-		Once more, the deafening voice of the Arbiter rings out.*
+		Once more, the deafening grind heralds the Arbiter's unseen presence.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!DESCRIPTION!]
 		||
-		*Ormenos again turns his attention to the scenery before his eyes.*
-		(A#Examine the river){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X002!DESCRIPTION!}
-		(B#Examine the pool){B:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X003!DESCRIPTION!}
+		*The dying echoes of the Arbiter's commands range wide toward the opposing bodies of water. Keen to make use of his newfound ability, the Inquisitor soon moves toward...*
+		(A#Examine the pristine river){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X002!DESCRIPTION!}
+		(B#Examine the stagnant pools){B:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X003!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!DESCRIPTION!/]
-	
-	
-	
+
+
+
 >>>You have Purification (11100)<<<
 >>>You have Corruption (13113)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X002!DESCRIPTION!]
@@ -2022,75 +2021,101 @@ SKILL'S AWAKENING
 		*MULTICHECKER*
 		(A#...){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X002!DESCRIPTION!/]
-	
-	
-	
+
+
+???
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0020!DESCRIPTION!]
 		||
 		*Standing before the life-giving river, Ormenos chooses to...*
 		(A#__Use Putrefaction Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00200!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0020!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00200!DESCRIPTION!]
 		||
-		*Summoning forth the Glyph of Corruption from the Graylands, Ormenos directs his focus toward the river. The water begins to bubble, releasing a mephitic vapor that hits Ormenos hard, robbing him of consciousness and causing his Falseflesh to collapse...*
+		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
+		
+		Now summoned forth from the Graylands, Ormenos directs the Glyph of Corruption toward the untainted river. Bubbles release a mephitic vapor, hitting Ormenos hard, robbing him of consciousness and causing his Falseflesh to collapse...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00201!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00200!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00201!DESCRIPTION!]
 		||
-		*...Pale light from crystalline sconces pours in to the gradually opening eyes of the fallen mage. An indeterminate amount of time has elapsed since his collapse to the cavern floor.
-		
-		He props himself up, but promptly empties the contents of his stomach - the unpropitious effect of standing too near the site of his devastation. Though now the noxious odor that assault Ormenos has dissipated, its effects are clear: none of the vibrant foliage of the river has survived.
-		
-		Truly this is a volatile ability he has gained.
-		
-		Subsequently, beyond the foreground scene of floral carnage comes into focus the background: a portal has revealed itself, leading onward to newer insights. Though having obtained what he came for, Ormenos wonders if perhaps it would be wise to cut his losses and go make his report to the Choir of Archons before their patience wears too thin.*
+		*...Pale light from crystalline sconces pours into the gradually opening eyes of the fallen mage. An indeterminate amount of time has elapsed since his collapse to the cavern floor.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002010!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00201!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002010!DESCRIPTION!]
+		||
+		*He props himself up, but soon violently empties the contents of his stomach - the unpropitious effect of standing too near the site of his devastation. Though now the noxious odor that assaults Ormenos has dissipated, its effects are manifest in the death of all foliage once thriving riverside.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002011!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002010!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002011!DESCRIPTION!]
+		||
+		*Volatility made thought, and from thought it is reborn unto the world. This is a talent most dangerous he now possesses...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002012!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002011!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002012!DESCRIPTION!]
+		||
+		*He recalls Brother Entropy Stayer had once discovered this and its twin walking the Path. Rare that two magi should find the same Glyph when so many exist and so few ever share the same need...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002013!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002012!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002013!DESCRIPTION!]
+		||
+		*Motion seizes the Inquisitor's attention. Beyond the foreground scene of floral carnage some spectral shape comes into focus the background. Shadow becomes form and this form becomes a portal, one leading onward to newer insights. Though having obtained what he came for, Ormenos wonders if perhaps it would be wise to instead go make his report to the Choir of Archons before their patience wears too thin.*
 		(B#Proceed along the Path){B:1,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X000!DESCRIPTION!}
 		(D#Exit the Path of Discipline){D:1,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2039!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00201!DESCRIPTION!/]
-	
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.002013!DESCRIPTION!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0021!DESCRIPTION!]
 		||
 		*Standing before the life-giving river, Ormenos chooses to...*
 		(A#__Use Absolution Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00210!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0021!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00210!DESCRIPTION!]
 		||
-		*The mage reaches into the depths of the Graylands to retrieve a thought given form: Purification. He casts his focused attention upon the unsuspecting river. Gaining ever in clarity, his mind executes the Techne of Absolution and then...*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00211!DESCRIPTION!}
+		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
+		
+		His thought made form, Ormenos casts his focus upon the incessant flow. Gaining ever in clarity, his mind executes the Techne of Absolution and then...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00211!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00210!DESCRIPTION!/]
-	
->>>You will learn Purification (2065)<<<
-	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00211!DESCRIPTION!]
-		|^2065:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00212!DESCRIPTION!|
-		*Nothing. 
-		
-		Well, perhaps it is because of a lack of experience or perhaps it's simply because purifying an already immaculate water source was a blunder as clear as the virgin waters themselves. Even the boisterous water seems to mock him as it loudly courses forth...
-		
-		Maybe instead of bestowing upon these pristine waters a quality they already possess, revoking from them this unsullied status would be best.*
-		(A#__Use Putrefaction Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-1!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00211!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00211!DESCRIPTION!]
+		||
+		*Nothing.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00212!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00211!DESCRIPTION!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00212!DESCRIPTION!]
 		||
-		*Nothing. 
-		
-		Well, perhaps it is because of a lack of experience or perhaps it's simply because purifying an already immaculate water source was a blunder as clear as the virgin waters themselves. Even the boisterous water seems to mock him as it loudly courses forth...
-		
-		Maybe instead it would be best to attempt such an act on the more sullied pools of stagnant filth marring the grotto.*
-		(A#Examine the pool){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X003!DESCRIPTION!}
+		*Perhaps a lack of experience is responsible for this utter failure - he has only just learned this Glyph. Or perhaps purifying an already immaculate water source was as necessary as spitting in it to make it wetter. Even the water seems to mock him, snickering as it rushes by...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00213!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00212!DESCRIPTION!/]
-	
+???
+>>>You will learn Purification (2065)<<<
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00213!DESCRIPTION!]
+		|^2065:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00214!DESCRIPTION!|
+		*Maybe instead of bestowing upon these pristine waters a quality they already possess, revoking from them this unsullied status would be best.*
+		(A#__Use Putrefaction Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-1!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00213!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00214!DESCRIPTION!]
+		||
+		*Maybe instead it would be best to attempt such an act on the more sullied pools of stagnant filth marring the grotto.*
+		(A#Examine the pool){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X003!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00214!DESCRIPTION!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0022!DESCRIPTION!]
 		||
 		*Standing before the life-giving river, Ormenos chooses to...*
 		(A#__Use Absolution Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00210!DESCRIPTION!}
 		(B#__Use Putrefaction Techne__){B:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-1!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0022!DESCRIPTION!/]
-	
-	
+
+
 >>>You have Purification (11100)<<<
 >>>You have Corruption (13113)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X003!DESCRIPTION!]
@@ -2098,27 +2123,27 @@ SKILL'S AWAKENING
 		*MULTICHECKER*
 		(A#...){A:0,NO ADDRESS}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X003!DESCRIPTION!/]
-	
-	
-		
+
+
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0030!DESCRIPTION!]
 		||
 		*Standing before the stagnant pool, Ormenos chooses to...*
 		(A#__Use Absolution Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-2!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0030!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00300!DESCRIPTION!]
 		||
 		*The mage stands over entropy's toxic concoction barely able to maintain consciousness. Yet through sheer strength of will, he summons from the Graylands a thought; this thought takes form and traces out the Glyph of Purification. As naturally as he breathes, Ormenos then executes the Techne of Absolution.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00301!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00300!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00301!DESCRIPTION!]
 		||
 		*Soon its physical effects begin to manifest themselves. The ripples in the pool of water begin to cascade inward toward their beginning. The filth staining the liquid soon begins to collapse in upon itself until it utterly disappears from memory and from existence.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00302!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00301!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00302!DESCRIPTION!]
 		||
 		*Ormenos stares at the miraculous pool seeing nothing but his reflection staring back. Only a moment later he sees yet another sight to behold, in the reflection of this pool: a portal exiting the grotto appears, gently swaying back and forth upon the surface.
@@ -2127,117 +2152,138 @@ SKILL'S AWAKENING
 		(B#Proceed along the Path){B:1,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X000!DESCRIPTION!}
 		(D#Exit the Path of Discipline){D:1,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2039!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00302!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0031!DESCRIPTION!]
 		||
 		*Standing before the stagnant pool, Ormenos chooses to...*
 		(A#__Use Putrefaction Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00310!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0031!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00310!DESCRIPTION!]
 		||
 		*Conjuring a thought up from the ether of the Graylands, the Glyph of Corruption manifests, ready to defile whatever it may touch. Ormenos proceeds to cast his Techne of Putrefaction upon the vile and rank pool of filth...*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00311!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00311!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00310!DESCRIPTION!/]
-	
->>>You will learn Purification (2065)<<<
-	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00311!DESCRIPTION!]
-		|^2065:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00312!DESCRIPTION!|
-		*...to no avail. 
-		
-		It seems that some things are indeed already corrupted in the extreme. The bubbles breaching the surface of the foul concoction burst, releasing a gas so noxious that Ormenos finds himself swaying on his feet one moment and vomiting on all fours the next.
-		
-		Perhaps his corrupting talents would be best used on the unsullied waters of the nearby river.*
-		(A#Examine the river){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X002!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00311!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00311!DESCRIPTION!]
+		||
+		*...to no avail.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00312!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00311!DESCRIPTION!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00312!DESCRIPTION!]
 		||
-		*...to no avail.
-		
-		It seems that some things are indeed already corrupted in the extreme. The bubbles breaching the surface of the foul concoction burst, releasing a gas so noxious that Ormenos finds himself swaying on his feet one moment and vomiting on all fours the next.
-		
-		Perhaps his corrupting talents here are as the hammer is to the screw: a fine tool, but uncalled for under the circumstances. Or perhaps Ormenos requires a different approach to revive this rotten pool...*
-		(A#__Use Absolution Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-2!DESCRIPTION!}
+		*It seems that some things are indeed already corrupted in the extreme. The bubbles breaching the surface of the foul concoction burst, releasing a gas so noxious that Ormenos finds himself swaying on his feet one moment and vomiting on all fours the next.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00313!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00312!DESCRIPTION!/]
-	
+
+>>>You will learn Purification (2065)<<<
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00313!DESCRIPTION!]
+		|^2065:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00314!DESCRIPTION!|		
+		*Perhaps his corrupting talents would be best used on the unsullied waters of the nearby river.*
+		(A#Examine the river){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X002!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X00313!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00314!DESCRIPTION!]
+		||
+		*Perhaps his corrupting talents here are as the hammer is to the screw: a fine tool, but uncalled for under the circumstances. Or perhaps Ormenos requires a different approach to revive this rotten pool...*
+		(A#__Use Absolution Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-2!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00314!DESCRIPTION!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0032!DESCRIPTION!]
 		||
 		*Standing before the stagnant pool, Ormenos chooses to...*
 		(A#__Use Absolution Techne__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2066-2!DESCRIPTION!}
 		(B#__Use Putrefaction Techne__){B:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00310!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0032!DESCRIPTION!/]
-	
-	
-!!!	Make Arbiter terse (ref. Edge of Ignorance dialogue)
+
+
+
 ARBITER
->>>You will learn Purification (2065)<<<
-	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!ARBITER!]
-		|^2065:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.000!ARBITER!|
-		*"The preparations complete, you are now in possession of the Glyph's potentiality within your Trueflesh."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0000!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X000!ARBITER!/]
-	
-	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0000!ARBITER!]
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.000!ARBITER!]
 		||
-		*"You must visualize the foul and putrid effects of Corruption."*
+		*"The preparations are complete. You now possess your desired Glyph's potentiality within your Trueflesh."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X0000!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.000!ARBITER!/]
+
+>>>You will learn Purification (2065)<<<
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X0000!ARBITER!]
+		|^2065:ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.000!ARBITER!|
+		*"First, visualize the blighting effects of Corruption."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0001!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0000!ARBITER!/]
-	
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.X0000!ARBITER!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0001!ARBITER!]
+		||
+		*"A leaf falling from its bough rots among its kin. Contagion multiplying exponentially devours its host."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0002!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0001!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0002!ARBITER!]
+		||
+		*"See the death and decay the universe presents as examples. Follow their processes."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0003!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0002!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0003!ARBITER!]
 		||
 		*"Meditate upon this."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X13113!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0001!ARBITER!/]
-	
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0003!ARBITER!/]
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!ARBITER!]
 		||
 		*"..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0010!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.001!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0010!ARBITER!]
 		||
-		*"And thus the seed bears fruit."*
+		*"Thus, the seed bears fruit."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0011!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0010!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0011!ARBITER!]
 		||
-		*"But the only way forward is to make use of this newfound Techne."* 
+		*"Now, use this newfound Techne. Or else your fruit will wither."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0012!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0011!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0012!ARBITER!]
 		||
-		*"Now, go forth and explore."*
+		*"Go forth. Explore and expand your limits."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0012!ARBITER!/]
-		
-		
+
+
 purification	
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.000!ARBITER!]
 		||
-		*"The preparations complete, you are now in possession of the Glyph's potentiality within your Trueflesh."*
+		*"First, visualize the cleansing effects of Purification."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.000!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.001!ARBITER!]
 		||
-		*"You must visualize the chaste and rejuvenating effects of Purification."*
+		*"A seed planted sprouts to life offering nourishment. Sleep well-timed negates the day's injuries."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.002!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.001!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.002!ARBITER!]
+		||
+		*"See both birth and repair as the universe presents them. Follow their processes."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.003!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.002!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.003!ARBITER!]
 		||
 		*"Meditate upon this."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X11100!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.002!ARBITER!/]
-	
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!1.003!ARBITER!/]
 
-	
-	
-	
+
+
+
 ________________________________________________________________________
 EVENT WRITERS
 	[/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!9990.X2038!DESCRIPTION!]
