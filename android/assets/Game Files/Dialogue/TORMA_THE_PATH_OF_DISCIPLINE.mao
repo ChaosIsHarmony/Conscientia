@@ -1353,21 +1353,20 @@ ARBITER
 
 ________________________________________________________________________
 HUBRIS' DEMISE
-???
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!DESCRIPTION!]
+?[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!DESCRIPTION!]
 		||
-		*The mysterious carpet slowly carries its passenger toward the watery surface of this room, but stops roughly twice Ormenos' height from the water itself. The mage scans about, seeing if there might be an appropriate place to alight and in so doing, his eyes fall upon the unusual sight of a wide river traveling upwards along the surface of the dome, disappearing into a hole at the top.
+		*Floating gently down through the ground, carpet and all, Ormenos emerges in a chamber flooded below by water and above by light. Slowly the carpet carries its passenger toward the mellow waves, stopping roughly twice the mage's height from the water itself. He scans the surroundings, seeking an appropriate place to alight. His eyes almost immediately fall upon the unusual sight of a wide river traveling upwards along the surface of the dome. At first he believes it to be a trick of vision, but as he traces it skywards, he confirms its gravity-defying climb, as well as it ultimate disappearance into a hole at the top.
 		
-		However, his exploratory gazes reveal no solid ground upon which to alight, and the conspicuous absence of Arbiter's resounding voice troubles him thoroughly.*
-		(B#Wait){B:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.002!DESCRIPTION!}
-		(E#Alight){E:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.001!DESCRIPTION!}
+		Soon, he has traversed the whole chamber with his exploratory gaze, finding no solid ground. Perhaps more troubling, though, is the conspicuous absence of Arbiter's resounding voice.*
+		(B#Wait and observe){B:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.002!DESCRIPTION!}
+		(E#Alight into the water){E:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.001!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.001!DESCRIPTION!]
 		||
 		*Ormenos' feet tentatively seek the edges of the carpet. After pouring his legs over the side, he sits his rump firmly behind them, remaining within the certainty and the safety of the carpet.
 		
-		The water's gently swaying surface is not much of a drop from here. He...*
+		The water's gently swaying surface seems inviting. He likewise notes that it is not much of a drop from his current locus. He...*
 		(A#Leaps feet first, ready to sink){A:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0011!DESCRIPTION!}
 		(B#Throws something at the surface of the water){B:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0012!DESCRIPTION!}
 		(C#Nonchalantly let's himself off the carpet){C:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0013!DESCRIPTION!}
@@ -1375,7 +1374,7 @@ HUBRIS' DEMISE
 		(E#Fears nothing and jumps straight off){E:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0015!DESCRIPTION!}
 		(F#Pinches his nose and dives head first!){F:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0016!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.001!DESCRIPTION!/]
-
+???
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0011!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X003!DESCRIPTION!|
 		*Ormenos casts himself off and soon finds the surface of the water to be as hard as solid rock. So he crumples into a ball of shivering, whimpering agony, rubbing his throbbing feet. Only then does the absent whirring of the Thought Wheel make its appearance...*
