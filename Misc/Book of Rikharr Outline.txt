@@ -4,11 +4,11 @@ Prologue: Tacrivian Archives
 	- Explore the Archives
 		- Either enter into communion with Muninn and visit Interstice or Leave
 			- If Interstice active, then go to Munnin 1
-			- Else, a courier comes to summon Rikharr. Dazir's mage has died and Rik is the new mage.
+			- Else, a courier comes to summon Rikos. Dazir's mage has died and Rikos is the new mage.
 
 Muninn 1: Explore the Interstice
 	- See many events from the other books
-		- Player chooses what looks interesting from among 4-6 options
+		- Player chooses what looks interesting from among 6 options
 			- Dip: [Biracul] Ascent of the Jinetes/Singularity
 			- Tru: [Rikharr] Jinnwraith vision
 			- Neu: [Thetian] Binding of Jormungund
@@ -32,18 +32,21 @@ Phase 1: Chaos Stirs
 			- NEU: Muninns, simply Muninns
 		- NEU: Player goes immediately to the Wellspring to recover Luin and slay Gurgadon
 			- Rik's father, Drakos, has been prepared for the ceremony. He is to say the words and then carry his father, alone, into the Chamber of Bones. Here he discovers the Sigil of Wulfias, takes it, and then proceeds to the Cage. The Artisans finally repaired the Cage and are waiting for Rikharr to figure out how to work it.
-		- SUR: Tambulan mage tries talks to Rikharr about convincing the Tacrivian mage to give them Muninn saplings (Lazham is actually convincing her to sabotage the Muninn in Tacriva to turn the Jenowin Plain into a dessicated wasteland. *The Muninn tree and the Thought Wheel it's connected to in Tacriva manipulate local weather patterns between the contingents, making the land a veritable garden of Eden. If the Tambulan mage sabotages the Thought Wheel, she can wrest control of it from the Tacrivians when she repairs it and then control most of Kavu--she'll control it all once she takes the Wellspring from Rikharr. The Tambulan mage is of course being manipulated by Lazham and was involved in Rikharr's predecessor's death. Rik's inevitable slaughter of the Muninn will thwart her plans, as she will be unable to reverse the damage she had done.)
+		- SUR: Tambulan mage, Radysar, tries talks to Rikharr about convincing the Tacrivian mage to give them Muninn saplings (Lazham is actually convincing her to sabotage the Muninn in Tacriva to turn the Jenowin Plain into a dessicated wasteland. *The Muninn tree and the Thought Wheel it's connected to in Tacriva manipulate local weather patterns between the contingents, making the land a veritable garden of Eden. If the Tambulan mage sabotages the Thought Wheel, she can wrest control of it from the Tacrivians when she repairs it and then control most of Kavu--she'll control it all once she takes the Wellspring from Rikharr. The Tambulan mage is of course being manipulated by Lazham and was involved in Rikharr's predecessor's death. Rik's inevitable slaughter of the Muninn will thwart her plans, as she will be unable to reverse the damage she had done.)
 			- NEU: Simple congrats on his ascension to Kharr. Mentions her intent to go to Tacriva and get Muninn saplings.
 			- SUR: Congrats, Muninn saplings, and as she's leaving, suggests a foreign alchemist might have had something to do with Drakos' death - the body preparer they sent from Tambul detected some bizarre compounds unknown on the Jenowin Plain.
 			- TYR: Congrats, Muninn saplings, and complains about having to oversee the draug preps at the Sun Tower	
 				- You can offer to replace her, and she says that's nice, but unacceptable by mage code; he has to study up on the responsibilities of being a mage now
-		- TYR: There has been an increase in draug activity in the Wasteland, attacks on the Sun Tower, not coordinated, but there are simply too many draug from all the exiles over the past few hundred years. It's time to cull the draug herd. Progress happens post-Wellspring resolution.
+		- TYR: There has been an increase in draug activity in the Wasteland, attacks on the Sun Tower, not coordinated, but there are simply too many draug from all the exiles over the past few hundred years. It's time to cull the draug herd. (Progress happens post-Wellspring resolution.) [make sure to emphasize mystery "No draug activity like this has ever been observed"; "It's like they're waiting for something"; people around the townships are also talking about it, speculating]
+			- DIP: Get more information by meeting with the Magisari High Council
+			- SUR: Too dangerous; try to push it off on Radysar; she agrees, if Rikos will support her request from Hamdulah regarding the Muninns
+			- TYR: Prepare for war!
 		- LOO: A romance with the hot new Librarian? Don't mind if I do! Go for a stroll on the Jenowin Plain:
 			- DIP: Witness some violence with the Neverborn sentries and the Builders near the cloudstone when coming back.
             - TRU: See Lazham strolling through the desert on the way to Tambul.
             - NEU: Everything is oddly quiet.
             - SUR: Meet Radysar's entourage en route to Tacriva.
-            - TYR: Receive news of draug attacks from a courier on the road to Tambul with a decree from the High Council that Radysar must deal with Overseeing the operation.
+            - TYR: Receive news of draug attacks from a courier on the road to Tambul with a decree from the High Council that Rikos must deal with overseeing the operation.
             - LOO: Accidentally eat a mushroom {plucked it instead of grabbing the bread that was on the ground because was trying to listen to Ark}. See a vision of Roostor.
 	- When all of this is done, Rikharr inevitably ends up going to the Wellspring to recover Luin and Slay Gurgadon
 
