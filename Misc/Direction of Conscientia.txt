@@ -5,7 +5,7 @@ This document serves to remind me of where I want to go with the project. In the
 Overarching Themes:
 	- Lovecraft: Player as the Haunter of the Dark
 	- Abbott: Flatland idea of uncertainty of realms beyond our own because we know of realms below us
-	- Attitude of how a deity (artificial or otherwise) might view us
+	- Attitude of how a deity (artificial or otherwise) might view us (as we view the hand, it views us)
 	- Ryuunosuke: Different experiences/agendas will taint the truth
 	- Stories unlocked through Awareness (unlocking Ormenos in Book of Torma or Muninn in Book of Rikharr)
 
@@ -51,8 +51,8 @@ Book of Wulfias:
 Book of Biracul:
 	- Major theme: You can't please everybody
 	- Major Personality: Diplomat
-	- Divided into fourths:
-		- Parts II-V are dealt in random order
+	- Divided into six parts:
+		- Parts II-V are chosen as the player wishes
 		- Part I: Pre-Great Awakening to Creation in Empyrean
 			- Description of all the wonders of Tech
 				- Casters
@@ -67,6 +67,6 @@ Book of Biracul:
 		- Part IV: Jer, Zemes, Okum
 			- Modifying the system, trying to improve it
 		- Part V: Eidos
-			- Prepares everything, but before she is born, Conscientia sends him back in time
+			- Prepares everything, but before she is born, Conscientia sends him back in time when he enters the Soul Forge
 		- Part VI: The Ataraxia
-			- Biracul's rebellion against Conscientia
+			- Biracul's rebellion against Conscientia (in no small part because he thinks he failed with creating Eidos)

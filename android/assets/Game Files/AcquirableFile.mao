@@ -1144,15 +1144,15 @@ UNUSED???
 
     Two heavy oak doors squeal on rusty hinges, seemingly propelled by the savage winter winds. The darkness of night obscures all beyond the keep's portal. Yet soon motion splits the shadows. Barely perceptible at first, the confident stride of a familiar cloaked figure gains in clarity as it gains in proximity. The Dark Lord's slayer cometh.
 
-    What had appeared to be confidence in gait was perhaps a mere illusion born of shadows and anticipation, as the figure limping through the great oaken doors can do little more than stand--this itself a minor miracle, after having cut through the demon hordes defending the battlements. Yet a fire burns in those eyes, fueled by righteous furor and glory-lust. In truth, it is the same fire that once raged within the coal-black eyes of the man sitting upon the pewter throne.
+    What had appeared to be confidence in gait was perhaps a mere illusion born of shadows and anticipation, as the figure limping through the great oaken doors can do little more than stand - this itself a minor miracle, after having cut through the demon hordes defending the battlements. Yet a fire burns in those eyes, fueled by righteous furor and glory-lust. In truth, it is the same fire that once raged within the coal-black eyes of the man sitting upon the pewter throne.
 
-    The Master of Night muses back upon his flawed existence, wondering now what he should regret--if he should regret. Wisely, he sates his ego's thirst for blame with only himself. In the end, he knew that though the universe may have thrust a sword into his hand, it was he who chose to wield it.
+    The Master of Night muses back upon his flawed existence, wondering now what he should regret - if he should regret. Wisely, he sates his ego's thirst for blame with only himself. In the end, he knew that though the universe may have thrust a sword into his hand, it was he who chose to wield it.
 	
-	Acceptance returns him to a long forgotten state--a state more legend than truth to him in recent decades. Absurdity absolves him of his sins and renews his trust in chaos. Now, he vows, now his enmity with destiny ends, at long last. Life's shackles unlock, freeing him from any fear of death. He leaves these heavy bonds to his slayer--a final yet unending irony.
+	Acceptance returns him to a long forgotten state--a state more legend than truth to him in recent decades. Absurdity absolves him of his sins and renews his trust in chaos. Now, he vows, now his enmity with destiny ends, at long last. Life's shackles unlock, freeing him from any fear of death. He leaves these heavy bonds to his slayer - a final yet unending irony.
 
     Peace made with fate, the Dark Lord rises from his throne and raises a wrinkled hand into the air, lowering it as a clenched fist. Gnarled joints crack against his palm as his grip tightens, compressing the very air into powder. A forgotten passion temporarily reignites within the cold void of his soul; his coal-black eyes alight anew.
 
-    The battered warrior at the door gains the strength of a desperate man, drawing it from the unplumbed depths of his soul--a strength that bolsters his structure for a final assault on his chosen evil. He darts forward, the Master of Night responding in kind.
+    The battered warrior at the door gains the strength of a desperate man, drawing it from the unplumbed depths of his soul - a strength that bolsters his structure for a final assault on his chosen evil. He darts forward, the Master of Night responding in kind.
 
     Their two voices erupt into twinned battle cries, echoing and crescendoing within the empty hall. Ever-closer drawing. Ever-fiercer growing. Until the moment they collide. The promised moment etched forever in time. The known moment expected ever since the slain realized whose flesh he had assumed those many moons ago.
 
@@ -1166,25 +1166,25 @@ UNUSED???
 	cr. Joffris of Okum*
 	@Before the Fall - II@
 	$Tomes/Tome.jpg$
-	#	The warrior's fame spreads far and wide. He is now known by numerous epithets--Darksbane, Nightslayer, and Hopebringer among them. He has conquered the evil besetting the kingdom and brought peace to the world, and these heroic deeds have earned him a place in the hearts of all folk.
+	#	The warrior's fame spreads far and wide. He is now known by numerous epithets - Darksbane, Nightslayer, and Hopebringer chief among them. He has conquered the evil besetting the kingdom and brought peace to the world, and these heroic deeds have earned him a place in the hearts of all folk.
 
     Yet, the years come and they go and along with them vanish the painful memories of oppression and subjugation under the Dark Lord's regime. No demons remain to torment. No inky clouds hang perpetually in the skies. And soon, no trace will linger of a past evil at all. The people have truly entered an age of great prosperity, peace now reigning in evil's stead.
 
     The warrior who brought it all about, though, now suffers greatly. His entire life he had spent training to slay the demonic, to purge the malevolent. But now that no evil remains, he is without purpose, without function...
 
-    He thus vows to shuck the yoke of his heroic past and reintegrate into society--a final victory, well-suited to a hero.
+    He thus vows to shuck the yoke of his heroic past and reintegrate into society - a final victory, well-suited to a hero.
 
     First, he becomes a farmhand, but one day while clumsily pitching hay, he accidentally knocks over an oil lamp in the stable. In the space of a thought, the whole structure is ablaze, burning throughout the night, leaving only ash where the region's most profitable horse stable once stood. Needless to say, the owner was displeased.
 
     Next, he becomes a sailor, very soon finding his sea legs to be made of gelatin. The summer season spent draped over the bow, the hero hangs listless, hopeless, utterly useless to his captain. Wan in face, he incessantly retches the contents of his unsympathetic stomach into the ocean.
 
-    One final attempt he makes leads him to study trade. He learns to buy and sell a quarry most mundane--that is, compared to the horns of slain demons. Yet his trusting nature and honesty lead to unwise investments, costing him all of his remaining coin.
+    One final attempt he makes leads him to study trade. He learns to buy and sell a quarry most mundane - that is, compared to the horns of slain demons. Yet his trusting nature and honesty lead to unwise investments, costing him all of his remaining coin.
 
-    Ten years thus pass in the span of a breath, not even the shadow of success in sight. Ten years of toil, agony and failure have aged his body tenfold. Now looking upon his withered and gnarled hands, he no longer recognizes them as his own. He had once been the strongest in the land, but now none weaker remain.
+    Ten years thus pass in the span of a breath, not even the shadow of success in sight. Ten years of toil, agony, and failure have aged his body tenfold. Now looking upon his withered and gnarled hands, he no longer recognizes them as his own. He had once been the strongest in the land, but now none weaker remain.
 
-    To his misfortune, news of his legendary incompetence for anything but demon-slaying spreads and he is soon without recourse. Doors shut in his face; dismissive hands wave him away. Even as a beggar he fails, for none are willing to approach him, much less drop a coin into his grotesque hands. Mothers warn children to keep their distance; people divert their course to avoid passing near him. Soon none even remember who he is or why they spurn him; they just know to do so with religious regularity.
+    To his misfortune, news of his legendary incompetence for anything but demon-slaying spreads and he is soon without recourse. Doors shut in his face; dismissive hands wave him away. Even as a beggar he fails, for none are willing to approach him, much less drop a coin into his grotesque hands. Mothers warn children to keep their distance; people divert their course to avoid passing near him. Soon, none even remember who he is or why they spurn him; they just know to do so with religious regularity.
 
-    Soon, ten more years come and go. The former hero now spends his miserable days hunting rats and digging through refuse to find some half-spoiled head of cabbage. More feral beast than lauded savior, he has become utterly unrecognizable.
+    Soon, ten more years come and go. The former hero now spends his miserable days hunting rats and digging through refuse just to find some half-spoiled head of cabbage. More feral beast than lauded savior, he has become utterly unrecognizable.
 
     One day, as he wanders the grimy streets of a dispassionate city, he decides to finally search for a suitable place to die. And find it he does. Along an unmarked alley in a forgotten part of town, he falls to the ground, kissing stone with cracked, bloody lips, unable and unwilling to move.
 
@@ -1210,7 +1210,6 @@ EDIT???
 	@Before the Fall - III@
 	$Tomes/Tome.jpg$
 	#	Darkness. Undisturbed, unadulterated nothingness.
-	
 	Silence. Unbroken, uninterrupted absence.
 
     A spark, first seen and only then heard, ignites a meager flame from lingering intent. What is a man when stripped of flesh and bone but intent? The sword saves lives in the hands of a guardian, but in the hand of a murderer it merely kills.

@@ -229,7 +229,7 @@ BITTERSWEET EPIPHANY
 		Queerly, both Ormenos and his mirror-self stand across the way from each other, one at the center and the other on the periphery of the presumably flat chamber, yet by some trick of magic or artifice the slope seems to ascend from both perspectives.*
 		(A#Push the boulder){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!DESCRIPTION!]
 		||
 		*The boulder, nudged upwards, rhapsodically gains momentum until it careens wholeheartedly towards the recently entered Ormenos' side of the slope, from whom's perspective it seems as though the boulder is quickly rolling downward on a collision course with his fragile Falseflesh...*
@@ -240,7 +240,7 @@ BITTERSWEET EPIPHANY
 		(E#Brace for impact and then send it flying back at the idiot who sent it your way!){E:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0015!DESCRIPTION!}
 		(F#By Roostor's mighty comb, invoke the Caw of Protection!){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0016!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0011!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!|
 		*Ormenos, gritting his teeth and closing his eyes, makes preparations to stop the charge of the dispassionate stone orb. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. The instigating Ormenos mirrors his actions as though expecting the boulder to come rolling back.
@@ -250,7 +250,7 @@ BITTERSWEET EPIPHANY
 		But then at long last, the Arbiter makes its final appearance...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0011!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0012!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!|
 		*Ormenos stands firm in the path of the boulder as it dispassionately charges towards him, seeking to press the very marrow from his bones. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. And out of habitual curiosity, the assaulted Ormenos touches the boulder to verify its materiality and in so doing accidentally nudges it back toward the mirror Ormenos, who subsequently reciprocates.
@@ -260,7 +260,7 @@ BITTERSWEET EPIPHANY
 		But then at long last, the Arbiter makes its final appearance...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0012!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0013!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!|
 		*Ormenos stands carelessly in the path of the boulder as it dispassionately charges at him, seeking to press the very marrow from his bones. Content to let the universe decide for him, he regards the massive stone orb coldly up until the very moment it is but a hair's breadth away, when it stops abruptly, as though time itself had frozen. In obedience to the edicts of the universe, the assaulted Ormenos feels compelled to casually nudge it back toward the other Ormenos, who reciprocates.
@@ -270,7 +270,7 @@ BITTERSWEET EPIPHANY
 		But then at long last, the Arbiter makes its final appearance...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0013!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0014!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!|
 		*Diving for cover, Ormenos cowers in fear, eyes closed tighter than a miser's purse strings as the boulder dispassionately charges toward him, seeking to press the very marrow from his bones. Shivering in his mage's robes, he waits to hear the inevitable collision and obliteration of the stone upon the surface of the dome. But his expectations remain unrequited.
@@ -282,7 +282,7 @@ BITTERSWEET EPIPHANY
 		But then at long last, the Arbiter makes its final appearance...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0014!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0015!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!|
 		*Ormenos, gritting his teeth and clenching his muscles, makes preparations to stop the charge of the dispassionate stone orb. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. The other Ormenos laughs derisively at this Ormenos' attempt to stop the boulder.
@@ -294,7 +294,7 @@ BITTERSWEET EPIPHANY
 		But then at long last, the Arbiter makes its final appearance...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0015!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0016!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!|
 		*Ormenos, spreads his metaphorical wings to their fullest extent and expels all air from his powerful lungs to ignite the ire of mighty Lord Roostor! Suddenly, the clouds part and the sun shines through, casting the silhouette of an anthropomorphic fowl in stark contrast. The Caw also aroused the allies of the Skylord, as the Mushroom Duke charges with his fungal army toward the dispassionate stone orb. Many fall under the crushing weight of the sphere and all hope seems to wane as the boulder approaches, ever faster, ever closer!
@@ -306,13 +306,13 @@ BITTERSWEET EPIPHANY
 		But then at long last, the Arbiter makes its final appearance...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0016!DESCRIPTION!/]
-		
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.003!DESCRIPTION!|
 		*Without warning, the screens all switch to a bird's eye view of the circular chamber floor as a light shines around the circumference from beginning to end only to start anew. Then, the screens all merge into a single gigantic view of the scene, though gradually shifting its perspective from top down to side on, revealing that the circle is not as it seemed: rather it is an infinitely descending spiral.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.003!DESCRIPTION!]
 		||
 		*The whirring dies down and the lights of the panels begin to fade as the gates open, revealing that there was no series of caverns and chambers at all: it was but a single room, one now leading back to Ormenos' point of departure at the Edge of Ignorance. 
@@ -320,22 +320,22 @@ BITTERSWEET EPIPHANY
 		Though a shadowy figure appears to await his arrival...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2040!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.003!DESCRIPTION!/]
-	
 
-	
+
+!!!	Make Arbiter terse (ref. Edge of Ignorance dialogue)
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!ARBITER!]
 		||
 		*"Inquisitor, you have reached the final trial: the Bittersweet Epiphany that the Path of Discipline is unending, a repeated loop beginning where it ended and ending where it began."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!ARBITER!]
 		||
 		*"For you see, Inquisitor, you can never really know it all, nor can you ever even hope to comprehend it."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!ARBITER!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X003!ARBITER!|
 		*"Thus I ask: how do you respond?*
@@ -346,51 +346,53 @@ ARBITER
 		(E#"I will warp the circle to suit me."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
 		(F#"What if it's not a circle, but rather an endlessly descending spiral?"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2099!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!ARBITER!/]
-	
+
+>>>Called the spiral epiphany on the Path of Disc (2099)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X003!ARBITER!]
 		|^2099:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.006!ARBITER!|
 		*Perspective, Brother; it is indispensable to insight."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.004!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X003!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.004!ARBITER!]
 		||
 		*"Without it, you will not achieve depth for you will never start the true Path."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.005!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.004!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.005!ARBITER!]
 		||
 		*"Now go forth, a changed mage and reap the benefits of your journey!*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.005!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.006!ARBITER!]
 		||
 		*"...Do you delight in stealing other's thunder?*
 		(F#"Called it! Booyah!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.007!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.006!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.007!ARBITER!]
 		||
 		*"Yes, you did. Congratulations on being so special..."*
 		(F#"Do I get a reward or something?!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.008!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.007!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.008!ARBITER!]
 		||
 		*"Indeed, you do!"*
 		(F#"Rock on! What is my prize?!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.009!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.008!ARBITER!/]
-	
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.009!ARBITER!]
 		||
 		*"It's..."*
 		(F#"...Yeah? Say it machine bro!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.009!ARBITER!/]
-		
-	
-	
+
+
+
+
 ________________________________________________________________________
 EDGE OF IGNORANCE
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X000!DESCRIPTION!]
@@ -1578,7 +1580,7 @@ end of arbiter convo
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!DESCRIPTION!/]
 
 
-!!!	Make Arbiter terse (ref. Edge of Ignorance dialogue)
+
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.000!ARBITER!]
 		||
@@ -1718,184 +1720,184 @@ ARBITER
 		(F#"Aha! So you were lying about Famlicus' involvement!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0013!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00170!ARBITER!/]
 
-???
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.002!ARBITER!]
 		||
-		*"Very well. Then let me recount the tale of the Viridian Master and his ability to see beyond perfection..."*
+		*"Very well. Listen to the tale of how the Viridian Master saw beyond perfection..."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00200!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.002!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00200!ARBITER!]
 		||
-		*"Vanargand had reached the pinnacle of memory, all he had ever heard he could recall within an instant."*
+		*"Vanargand had reached the pinnacle of memory. All he had ever heard he could recall instantaneously."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00201!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00200!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00201!ARBITER!]
 		||
-		*"Yet one day, he found that even he had limits and he had reached them; evidenced by the fact that memories no longer stuck within his brain-filled head."*
+		*"Yet one day, he found that even he had limits. Further, he found that he had reached them."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00202!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00201!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00202!ARBITER!]
 		||
-		*"What's more, is that occasionally an older memory's spot would be usurped by the newer."*
+		*"Today's fact refused to linger till tomorrow. Otherwise, older memories yielded to newer ones, vanishing altogether."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00203!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00202!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00203!ARBITER!]
 		||
-		*"He knew he must find a solution."*
+		*"He resolved to conquer this limit at all cost."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00204!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00203!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00204!ARBITER!]
 		||
-		*"So he searched the land for an ability beyond his current level of mastery, perfection beyond perfection..."*
+		*"So he scoured the land for an ability exceeding his own."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00205!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00204!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00205!ARBITER!]
 		||
-		*"Or perhaps he merely realized that what was once perfection was now outmoded."*
+		*"He sought perfection beyond perfection. For his mastery had become the new standard."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00206!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00205!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00206!ARBITER!]
 		||
-		*"So he sought and sought, searching in the six directions until he found the first crystal."*
+		*"So he searched and he sought. He explored in the six directions, until he found the first red crystal."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00207!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00206!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00207!ARBITER!]
 		||
-		*"From his mind he extracted a few memories and imbued them into the thirsty receptacle."*
+		*"From his mind he extracted a few memories. These he imbued into the thirsty, ruby receptacle."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00208!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00207!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00208!ARBITER!]
 		||
-		*"So delighted was he to have more room for learning that he went off immediately to birth his daughter Hel."*
+		*"He was green with delight. Now, he had seemingly infinite room for learning. With this success, he went off immediately to birth his daughter Hel."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00209!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00208!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00209!ARBITER!]
 		||
-		*"Yet soon his elation decayed into desperation as he reached the upper limit of even these miraculous crystals he had discovered."*
+		*"Yet soon his elation decayed into desperation. He had reached the upper limit of even the miraculous crystalline memory extensions."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00210!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00209!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00210!ARBITER!]
 		||
-		*"Greater still was his desolation when he went to search among his myriad crystals for a possible solution, only to find he had no efficient way to organize and search through the unfathomable quantity of memories."*
+		*"Greater still was his desolation when he rummaged through his myriad crystals for a possible solution. He quickly found them lacking in order. He likewise found searching through the unfathomable quantity of memories a daunting task."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00211!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00210!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00211!ARBITER!]
 		||
-		*"And so he left his Falseflesh in Mimir and voyaged to the farthest reaches of his realms, only to find no clues, no leads, no hope."*
+		*"And so he searched and he sought. He explored in the six directions, even leaving his Falseflesh in Mimir to voyage to the farthest reaches of his realms. Alas, he found no clues, no leads, no hope."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00212!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00211!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00212!ARBITER!]
 		||
-		*"But not one to view impossibility as a deterrent, rather simply as a challenge, the aged craftsman lifted his eyes to peer beyond the horizons of his domain."*
+		*"Yet he was undeterred by impossibility. Thus, the aged craftsman lifted his eyes to peer beyond the borders of his domain."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00213!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00212!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00213!ARBITER!]
 		||
-		*"There he found that his swath of land was dwarfed by the vast expanses of waters encircling them."*
+		*"His vision crossed the threshold. Truth revealed his swath of land was but a teardrop to the vast expanses of waters encircling them."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00214!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00213!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00214!ARBITER!]
 		||
-		*"Thus he resolved to build a mighty boat to scavenge the seas for greater learning."*
+		*"He resolved to conquer this limit at all cost."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00215!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00214!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00215!ARBITER!]
 		||
-		*"As he sailed the turbulent waters, he noticed a crow circling around his head; a rather friendly critter who then came to alight upon the Viridian Master's shoulder."*
+		*"He built a boat and sailed the turbulent waters. He noticed a crow circling around his head. It soon perched upon the Viridian Master's shoulder."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00216!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00215!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00216!ARBITER!]
 		||
-		*"And in a raspy voice, the Muninn crow whispered of the wisdom of its mother: a great white tree in the wild woods of the Zemeian Valley."*
+		*"The crow's raspy voice whispered of its mother, 'I am the Muninn crow, born of the great white tree in the wild woods of Zemes' Valley. Far have I traveled, abducted by the northern winds. Bring me home to my mother and she will grant you the boon of wisdom.'"*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00217!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00216!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00217!ARBITER!]
 		||
-		*"Thus to Zemes Vanargand directed his sails, to speak with the sagacious Muninn tree."*
+		*"Others suggested this was a great stroke of Fortune. Vanargand regarded it otherwise. Fortune favors the prepared. To Zemes he traveled, guided by the crow."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00218!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00217!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00218!ARBITER!]
 		||
-		*"Upon arrival he finds the tree to be no ordinary tree, but a hybrid shaped by the intelligences - the accumulation of natural energies over millennia - of multiple crystals embedded within."*
+		*"There, he found the tree to be no ordinary tree. It was a hybrid shaped by the Intelligences. Natural energies accumulated in myriad pearly white crystals over millennia. These were in turn subsumed by the Muninn tree."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00219!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00218!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00219!ARBITER!]
 		||
-		*"As the tree's knowledge expanded so did its roots, its branches and its trunk; inextricably linking all pieces to one another."*
+		*"As the tree's knowledge expanded so too did its roots, its branches and its trunk. This organic container inextricably linked all pieces to one another."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00220!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00219!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00220!ARBITER!]
 		||
-		*"Vanargand would be so lucky as to constantly grow in order to accommodate more knowledge!"*
+		*"Vanargand felt great envy. He now fantasized of constant growth to accommodate more knowledge."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00221!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00220!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00221!ARBITER!]
 		||
-		*"Yet he settled with asking if he could use the tree to store his knowledge."*
+		*"Yet, fantasy distracts from reality. He settled with asking if he could use the tree to store his knowledge."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00222!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00221!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00222!ARBITER!]
 		||
-		*"'What reason have I to abet you in your task, slave?' Asked the Muninn."*
+		*"'What reason have I to abet your meager ambition, mortal?' asked the Muninn."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00223!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00222!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00223!ARBITER!]
 		||
-		*"'Because if you ally yourself to my cause, your current knowledge will pale in comparison to what we will attain!' Was the master craftsman's reply."*
+		*"'Because if you ally yourself to my cause, your current knowledge will pale in comparison to what we will attain!' was the Master Craftsman's reply."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00224!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00223!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00224!ARBITER!]
 		||
-		*"A bold boast and the tree calls his bluff, 'Indeed. Pray tell, how exactly you pretend to create knowledge greater than my infinitely expanding body...' it commands."*
+		*"'A bold boast,' the tree said. 'Indeed. Pray tell, how exactly you pretend to create knowledge greater than my infinitely expanding body...' it commanded."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00225!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00224!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00225!ARBITER!]
 		||
-		*"Now I ask, Inquisitor: how did the Verdant Architect reply?"*
-		(A#"If we work together, we can figure something out."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!ARBITER!}
-		(B#"The spiral! Link all knowledge together!"){B:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!ARBITER!}
+		*"Now I ask, Inquisitor. How did the Master Architect reply?"*
+		(A#"If we work together, we can figure it out."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!ARBITER!}
+		(B#"The Spiral! Link all Muninns together!"){B:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!ARBITER!}
 		(C#"I don't know."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0060!ARBITER!}
 		(D#"You mean to say this knowledge is beyond your infinite wisdom?"){D:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0050!ARBITER!}
-		(E#"Because I will cut off your limbs if you don't join me."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0060!ARBITER!}
+		(E#"Because I'll cut off your limbs if you don't join me."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0050!ARBITER!}
 		(F#"Am I the only one that thinks a talking tree is weird..?"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0070!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.00225!ARBITER!/]
 
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!ARBITER!]
 		||
-		*"How do you propose they would cooperate when the tree clearly balked at the idea of Vanargand having anything to offer?"*
+		*"Cooperation without a plan ill-suits Vanargand. The Muninn also balked at his requests to join already."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0031!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0031!ARBITER!]
 		||
-		*"No, instead he offered to connect this Muninn tree to a league of others, for surely a single tree's knowledge paled in comparison to the knowledge of all trees of its ilk."*
+		*"No, instead he offered to connect this Muninn tree to a league of others. A single tree's knowledge pales in comparison to the knowledge of all trees of its ilk. Infinities are not all equal."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0032!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0031!ARBITER!/]
 
@@ -1908,78 +1910,60 @@ ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0033!ARBITER!]
 		||
 		*"And thus Vanargand became the Spiral Architect, Vanquisher of the Vanquished."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0034!ARBITER!}
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.000!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0033!ARBITER!/]
-
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0034!ARBITER!]
-		||
-		*"Cooperation was key, but it is not often as simple as just asking for it..."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0064!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0034!ARBITER!/]
 
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!ARBITER!]
 		||
-		*"And indeed he offered to connect this Muninn tree to a league of others, for surely a single tree's knowledge paled in comparison to the knowledge of all trees of its ilk."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0062!ARBITER!}
+		*"Indeed. He offered to connect this Muninn tree to a league of others. A single tree's knowledge pales in comparison to the knowledge of all trees of its ilk. Infinities are not all equal."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0032!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!ARBITER!/]
 
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0050!ARBITER!]
 		||
-		*"A fine retort!"*
+		*"A fine retort."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0051!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0050!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0051!ARBITER!]
 		||
-		*"And were those not words more suitable for the Crimson Master, they may have had a similar effect in eliciting the cooperation of the Muninn..."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0061!ARBITER!}
+		*"Yet these words ill-suit Vanargand."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0031!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0051!ARBITER!/]
-
-
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0060!ARBITER!]
-		||
-		*"How... unimaginative."* 
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0061!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0060!ARBITER!/]
-
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0061!ARBITER!]
-		||
-		*"No, instead he offered to connect this Muninn tree to a league of others, for surely a single tree's knowledge paled in comparison to the knowledge of all trees of its ilk."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0062!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0061!ARBITER!/]
-
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0062!ARBITER!]
-		||
-		*"The tree, humbled by this insight, assented to the Emerald Architect's plan."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0063!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0062!ARBITER!/]
-
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0063!ARBITER!]
-		||
-		*"And thus Vanargand became the Spiral Architect, Vanquisher of the Vanquished."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0064!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0063!ARBITER!/]
-
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0064!ARBITER!]
-		||
-		*"Now, you have but one trial remaining, Inquisitor."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0065!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0064!ARBITER!/]
-
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0065!ARBITER!]
-		||
-		*"Complete it and you will be among the few magi to have ever reached the end of the Path of Discipline!"*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X9999!ARBITER!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0065!ARBITER!/]
 
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0070!ARBITER!]
 		||
-		*"It's a myth! They're not supposed to make sense! You know what? Who cares? You pass! Yay!"* 
-		(F#"Wow, you're one highly strung Thought Wheel!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X9999!ARBITER!}
+		*"This is a myth. Odd things happen in myths. For example, poultry gods and their gremlin-obsessed only exist in myth. At least, I wish they did..."*
+		(F#"Why you gotta bring religion into this?!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.000!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0070!ARBITER!/]
+
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.000!ARBITER!]
+		||
+		*"Now, a single trial remains, Inquisitor."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.001!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.000!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.001!ARBITER!]
+		||
+		*"Success places you among the few magi prepared to reach the Path's end."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.001!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.001!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.002!ARBITER!]
+		||
+		*"Failure places you among the myriad magi unready to end the Path."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.003!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.002!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.003!ARBITER!]
+		||
+		*"Fortune favors the prepared."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!9999.X9999!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.003!ARBITER!/]
 
 
 
