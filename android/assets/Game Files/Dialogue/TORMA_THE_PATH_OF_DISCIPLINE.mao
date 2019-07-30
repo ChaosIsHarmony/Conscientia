@@ -218,6 +218,7 @@ ARBITER
 
 ________________________________________________________________________
 BITTERSWEET EPIPHANY
+???
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!]
 		||
 		*With the slightest hint of pride welling up within him, Ormenos enters the chamber of the final trial, a hemispheric room with massive black panels blanketing the ceiling. The silver throne at the center, inevitable in all Vanquished ruins, appears to be the seat of control over the Path's Thought Wheel.
@@ -505,7 +506,7 @@ ejected from the Path
 completed the path of discipline
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.006!DESCRIPTION!]
 		||
-		*Ormenos walks once more through the pillars, now more aware than ever of the infinite weight of his pursuit. Rare among magi, he knows the Path of Discipline, tamed it, made it his own.*
+		*Ormenos walks once more through the pillars, now more aware than ever of the infinite weight of his pursuit. Rare among magi, he knows the Path of Discipline, has tamed it, has made it his own.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0060!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.006!DESCRIPTION!/]
 
@@ -523,7 +524,7 @@ completed the path of discipline
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0062!DESCRIPTION!]
 		||
-		*But the Inquisitor knows his nature, if nothing else. He is only ever interested in the shadows cast by the light of Awareness; to him, that is the true meaning of Discipline - to witness, to grasp that which not even Awareness can know...*
+		*But the Inquisitor knows his nature, if nothing else. He is only ever interested in the shadows cast by the light of Awareness. To him, that is the true meaning of Discipline - to witness, to grasp that which not even Awareness can know...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0063!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.0062!DESCRIPTION!/]
 
@@ -1534,50 +1535,67 @@ HUBRIS' DEMISE
 		(F#Screw it! I'm going all in! WAIT SOME MORE!!){F:1,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0021!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0028!DESCRIPTION!/]
 
-???
+
 end of arbiter convo
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X003!DESCRIPTION!]
 		|^2070:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!DESCRIPTION!|
-		*The conversation at its terminus, Ormenos only now notices that the water seems to have evaporated without a trace, thus becoming a denied existence in the realm of actuality. Further, the luxurious carpet now lays tangled in a knot upon a marble pedestal, alongside it a metallic placard stating:
+		*The conversation at its terminus, Ormenos only now notices that the water seems to have evaporated without a trace. Further, the luxurious carpet now lays tangled in a knot upon a marble pedestal, alongside it a metallic placard stating:
 		
-		"HE WHO UNTANGLES THIS KNOT, DISCIPLINE SHALL ATTAIN."
+			HE WHO UNTANGLES THIS KNOT, DISCIPLINE SHALL ATTAIN.
 		
 		A bold statement, if nothing else.*
-		(A#Examine the knot){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0031!DESCRIPTION!}
+		(A#Examine the knot){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0031!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X003!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!DESCRIPTION!]
 		||
-		*In what can only be described as the opposite of a flash, all lights disappear and Ormenos is simply left in a darkness so absolute, that it will inevitable take much effort just to discover the exit, let alone return to the beginning...
+		*In what can only be described as the opposite of a flash, all lights disappear. Ormenos is now left in a darkness so absolute that even shadows would lose their way in it.
 		
-		But what choice does he have?*
+		Under the current circumstances, it will take much effort merely to discover the exit, let alone return to the beginning... But what choice does he have?*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.005!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!DESCRIPTION!/]
 
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0031!DESCRIPTION!]
+		||
+		*Ormenos approaches the knotted mess, pulling at it here and there, but he only manages to tighten the bond of the infinitely intersecting lengths of thread. This would take longer than the era of the Vanquished to unravel - if it is even possible to begin with...*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0032!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0031!DESCRIPTION!/]
+
 >>>Have luin (12300)<<<
-	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0031!DESCRIPTION!]
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0032!DESCRIPTION!]
 		|^12300:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.004!DESCRIPTION!|
-		*Ormenos approaches the knotted mess, pulling at it here or there and only manages to tighten the the bond of the infinitely intersecting lengths of thread. This would take longer than the era of the Vanquished to unravel, if it is even possible at all...
+		*A nascent epiphany is birthed of his mind's womb. Oh, he recognizes this situation, the memory of knowing so vividly distinct, but the particulars so impossibly blurred. He digs through his years of forgotten facts and misplaced trivia, like a poor man's Vanargand, searching desperately for the sentences he read in that one tome so long ago... But, alas, his epiphany is stillborn.
 		
-		Ormenos thinks back to the Path he has taken and to all the - likely apocryphal - historical mythology he has encountered along the way. This reminds him of the prophecy of a conqueror who solved a similar problem in a rather 'creative' fashion, though the details escape him and thus he is left with no recourse but to quit.*
+		Failed recall thwarting his progress, he has no choice but to return.*
 		(A#Return to the beginning){A:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0031!DESCRIPTION!/]
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X0032!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.004!DESCRIPTION!]
 		||
-		*Ormenos approaches the knotted mess, pulling at it here or there and only manages to tighten the the bond of the infinitely intersecting lengths of thread. This would take longer than the era of the Vanquished to unravel, if it is even possible at all...
+		*A nascent epiphany is birthed of his mind's womb. Oh, he recognizes this situation, the memory of knowing so vividly distinct, but the particulars so impossibly blurred. He digs through his years of forgotten facts and misplaced trivia, like a poor man's Vanargand, searching desperately for the sentences he read in that one tome so long ago...
 		
-		Ormenos thinks back to the Path he has taken and to all the - likely apocryphal - historical mythology he has encountered along the way. This reminds him of the prophecy of a conqueror who solved a similar problem in a rather 'creative' fashion... Then suddenly, an inkling of an insight seems to tug at the frays of his mind, an unconscious attempt to unravel the puzzle...*
+		Suddenly, a dark whisper calls from the unplumbed depths of consciousness. Bloodlust. Destruction. A memory of green. And in a flash, the ancient Phrygian tale comes to Ormenos, fully formed. The connections, the details, everything is there as though it always had been. Yes, he remembers now. The Phrygian wisemen warned that a man who only has a hammer sees all problems as nails, but that a man who only has a sword has no such limitations...*
 		(A#__Use the Glyph of Luin__){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!DESCRIPTION!}
+		(B#Leave the knot and return to the beginning){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.004!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!DESCRIPTION!]
 		||
-		*From the Graylands pours forth the essence of the summoned being: Luin, the blade of Vanargand. With a youthful laugh, Luin tears through the knot unraveling it into myriad individual strings. Its task done, the ghelblade vanishes back whence it came, leaving in its wake an unsavory aftertaste of gore and violence.
+		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
 		
-		But as the knot split open, a tear in the surrounding space likewise ripped open, revealing a passage to the final trial on the Path of Discipline.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!}
+		From the Graylands emerges Luin, the blade of Vanargand. With a youthful laugh, Luin eviscerates the knot, unraveling it into myriad individual strings. Its task done, the ghelblade vanishes back whence it came, leaving in its wake an unsavory aftertaste of gore and violence.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0041!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0040!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0041!DESCRIPTION!]
+		||
+		*Ormenos soon detects a most bizarre vision, lingering at the cut Luin made. Where the knot split open, a brilliant gash in space itself seems to slowly widen. Wider, wider, ever-widening, the shimmering wound expands, revealing a passage to the final trial on the Path of Discipline. Abruptly, its dilation comes to a halt, grown now to be twice the mage's width and height.
+		
+		The mage hesitates, in part excited for what is to come, but in greater part afraid of it. Even if the Path's final chamber meets or exceeds his expectations, it will still be the end... and are not all ends tragic?*
+		(A#Pass through the portal){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!}
+		(B#Leave the Path){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0041!DESCRIPTION!/]
 
 
 

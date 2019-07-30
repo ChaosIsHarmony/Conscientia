@@ -974,9 +974,9 @@ ARCHIVES
 	
 	[/KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!]
 		||
-		*Eidos first examines the body stretched out before the archway. Her fingers reach to touch it, and she discovers that the skin more closely resembles a supple, metallic husk than a leather hide. Whatever these things were, they were decidedly not human. 
+		*Eidos first examines the body stretched out before the archway. Fingers reaching to touch it, she discovers that the skin more closely resembles a supple, metallic husk than a leather hide. Whatever these things were, they were decidedly not human. 
 
-        Tracing the fallen creature's form with her fingertips, she comes upon a trail of dark, blue fluid. Her eyes follow the curious substance as it leads to the gash that likely ended it. Too neat, too precise, too lonely, nothing about it suggests a struggle. The body is also lightly coated with dust - not as much as the steps leading here, but enough to hint at lengthy passage of time. Remarkably, though, no visible decay has marred the pale skin.*
+        Tracing the fallen creature's form with her fingertips, she comes upon a trail of dark, blue fluid. Her eyes follow the curious substance as it leads to the gash that likely ended it. Too neat, too precise, too lonely, nothing about it suggests a struggle. The body is also lightly coated with dust - not as much as the steps leading here, but enough to hint at a lengthy passage of time. Remarkably, though, no visible decay has marred the pale skin.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.102!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!/]
 	
@@ -988,7 +988,7 @@ ARCHIVES
 
 	[/KABU!SANCTUARY!ARCHIVES!0.103!DESCRIPTION!]
 		||
-		*Eidos steps closer to the streaks of blue on the wall. Oddly, they remain aqueous in nature, simply refusing to dry or even drip to the floor below. Bringing her nose closer, a few quick inhalations reveal no discernible smell. This close to the wall, she finally sees it. Not the blood, not the impenetrable barrier, but rather the wall itself - or rather what it was.*
+		*She steps closer to the streaks of blue on the wall. Oddly, they remain aqueous in nature, simply refusing to dry or even drip to the floor below. Bringing her nose closer, a few quick inhalations reveal no discernible smell. This close to the wall, she finally sees it. Not the blood, not the impenetrable barrier, but rather the wall itself - or rather what it was.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.104!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.103!DESCRIPTION!/]
 
@@ -1054,7 +1054,7 @@ ARCHIVES
 >>>Resurrected the Tree?(12307)<<<
     [/KABU!SANCTUARY!ARCHIVES!0.X300!DESCRIPTION!]
         |^12307:KABU!SANCTUARY!ARCHIVES!1.300!DESCRIPTION!|
-        *Some remains of a broken metal fixture in the floor have fused into the bark, seeming to indicate that the room was constructed with the plant in mind but that the growth of the trunk had long since overwhelmed the fixture in its abandonment. 
+        *Drawing nearer to the tree, she soon observes that some remains of a broken metal fixture in the floor have fused into the bark. It appears that the room was constructed with the plant in mind, but that the growth of the trunk had long since overwhelmed the fixture in its abandonment. 
 		
 		Eidos' eyes are drawn upward as they follow the massive trunk. Its branches stretch out to the vaulted ceiling and beyond as their growth seems to have been of sufficient force to crack through the stonework above in places. However, this must have happened ages before the current furnishings, as no fallen rubble litters the floor.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X301!DESCRIPTION!}
