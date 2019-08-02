@@ -884,7 +884,7 @@ ARCHIVES
 	
     [/KABU!SANCTUARY!ARCHIVES!0.100!DESCRIPTION!]
         ||
-        *While the room is vast and its contents numerous, there are three points of obvious interest here. The first is the magnificent tree whose branches spread overhead like the withered and grasping hands of a skeletal giant. Further, there are the tomes that litter the tables and shelves all around. Finally, there are the two corpses that lie in deathly companionship to the lifeless tree.*
+        *While the room is vast and its contents numerous, there are three points of obvious interest here. The first is the magnificent tree whose branches spread overhead like the withered hands of a skeletal giant. Further, there are the tomes that litter the tables and shelves all around. Finally, there are the two corpses that lie in deathly companionship to the lifeless tree.*
         (A#Investigate the bodies){A:0,KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!}
         (B#Survey the tree){B:0,KABU!SANCTUARY!ARCHIVES!0.X300!DESCRIPTION!}
         (C#Search through the tomes){C:0,KABU!SANCTUARY!ARCHIVES!0.X2000!DESCRIPTION!}
@@ -3061,7 +3061,7 @@ LUIN'S CHAMBER
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.900!DESCRIPTION!]
 		||
-		*Eidos approaches the crystal, entranced by its rhythmic pulsations. Tentatively raising a hand, she reaches out to touch the crystal. The pulsations increases with an unbridled frenzy the closer her hand comes. Then, contact; and like a cracked dam giving way, its toxic contents - thoughts of bloodlust, innocence, death, protection - all rush through her head.*
+		*Eidos approaches the crystal, entranced by its rhythmic pulsations. Tentatively raising a hand, she reaches out to touch the crystal. The pulsations increase with an unbridled frenzy the closer her hand comes. Then, contact. And like a cracked dam giving way, its toxic contents - thoughts of bloodlust, innocence, death, protection - all rush through her head.*
 		(A#Absorb crystal){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12001-1!DESCRIPTION!}
 		(C#Peer into the dark glass){C:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X001!DESCRIPTION!}
 		(F#Destroy the crystal){F:2,KABU!SANCTUARY!LUIN'S CHAMBER!9990.X12011!DESCRIPTION!}
@@ -3075,7 +3075,7 @@ LUIN'S CHAMBER
 
 	[/KABU!SANCTUARY!LUIN'S CHAMBER!0.X9080!DESCRIPTION!]
 		|@:KABU!SANCTUARY!LUIN'S CHAMBER!2.000!DESCRIPTION!|
-		*Without warning, a verdant firestorm erupts, tearing through the very fabric of space. The overwhelming speed and force with which it hits Eidos causes her Falseflesh to flash out of existence.*
+		*Without warning, a viridian firestorm erupts, tearing through the very fabric of space. The overwhelming speed and force with which it hits Eidos causes her Falseflesh to flash out of existence.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
 	[KABU!SANCTUARY!LUIN'S CHAMBER!0.X9080!DESCRIPTION!/]
 

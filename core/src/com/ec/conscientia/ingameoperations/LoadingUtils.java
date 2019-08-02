@@ -163,7 +163,8 @@ public class LoadingUtils {
 		if (mgScr.getCurrentLocAddress(2).contains("MIND!"))
 			return false;
 		else if (mgScr.mgVar.currentNPC == mgScr.mgVar.NPCbyNum.get("FAMLICUS")
-				|| mgScr.mgVar.currentNPC == mgScr.mgVar.NPCbyNum.get("EIDOS"))
+				|| mgScr.mgVar.currentNPC == mgScr.mgVar.NPCbyNum.get("EIDOS") 
+                || mgScr.mgVar.currentNPC == mgScr.mgVar.NPCbyNum.get("NARGUND"))
 			return false;
 		// during trial
 		else if ((mgScr.mgVar.currentNPC == mgScr.mgVar.NPCbyNum.get("HEYAR")
