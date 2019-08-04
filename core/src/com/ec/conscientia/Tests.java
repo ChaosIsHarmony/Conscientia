@@ -57,8 +57,8 @@ public class Tests {
         FileHandle file;
 
         // populates list of files to check
-//        for (String str : fileNamesBoE)
-//            filesToCheck.add(str);
+        for (String str : fileNamesBoE)
+            filesToCheck.add(str);
         for (String str : fileNamesBoT)
             filesToCheck.add(str);
         // for (String str : fileNamesBoTh)

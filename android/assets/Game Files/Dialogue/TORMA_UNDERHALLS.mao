@@ -12,7 +12,7 @@ Virgin run
 >>>Experienced the first sphere (2060)<<<
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X001!DESCRIPTION!]
 		|^2060:ENCLAVE!UNDERHALLS!FIRST SPHERE!0.0014!DESCRIPTION!|
-		*Ormenos has walked these familiar underhalls myriad times previously, but it is as though he were only now truly seeing them for the first time. Never before had he noticed the strange juxtaposition of the exquisite Vanquished artistry, with the lacklustre Thiudan attempts at imitation. To be sure, by all measures the Thiudan works are genuinely masterful, yet somehow they remain prosaic, dull, overshadowed by the incomparably sublime works of the Vanquished. He wonders how he had never noticed the two shared the same walls before now. Feeling the familiar rush of an epiphany's advent, he asks himself what this new Awareness burgeoning within him could be.*
+		*Ormenos has walked these familiar underhalls myriad times previously, but it is as though he were only now truly seeing them for the first time. Never before had he noticed the strange juxtaposition of the exquisite Vanquished artistry, with the lackluster Thiudan attempts at imitation. To be sure, by all measures the Thiudan works are genuinely masterful, yet somehow they remain prosaic, dull, overshadowed by the incomparably sublime works of the Vanquished. He wonders how he had never noticed the two shared the same walls before now. Feeling the familiar rush of an epiphany's advent, he asks himself what this new Awareness burgeoning within him could be.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!9990.X2060!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X001!DESCRIPTION!/]
 	
@@ -90,7 +90,7 @@ Told to stop by Choir of Archons and heard Khlutt's outburst
 	
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0012!DESCRIPTION!]
 		||
-		*The sullen mage begins to shift his feet towards his quarters to rest, for did the Choir not command him to rest? But a deliquent though then crosses his consciousness: what if he were to go back to the Vault... to see the Wayfarer one last time? The Choir merely demanded that he perform no further dives via the Mind-Loom; certainly, looking one last time upon the subject of Ormenos' interrogations once more before her disposal would not spark the ire of the Enclavean leaders...*
+		*The sullen mage begins to shift his feet towards his quarters to rest, for did the Choir not command him to rest? But a delinquent though then crosses his consciousness: what if he were to go back to the Vault... to see the Wayfarer one last time? The Choir merely demanded that he perform no further dives via the Mind-Loom; certainly, looking one last time upon the subject of Ormenos' interrogations once more before her disposal would not spark the ire of the Enclavean leaders...*
 		(A#Go back and see the Wayfarer one last time){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
 		(B#Return to quarters to rest){B:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!9990.X2019!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0012!DESCRIPTION!/]
@@ -125,7 +125,7 @@ Virgin run
 	
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0011!DESCRIPTION!]
 		||
-		*In one of the many panels, they appear to be installing the numerous Thought Wheels of the Enclave. In another, they are setting up the apiary that is the Vault, with its infinity of Soul Stasis and Containment cells. Others depict the magnificent Archives with its majestic Muninn, then just a sappling. But finally Ormenos' eyes fall upon a curious sight, something he had never noticed before: the creation of a massive workshop beneath the Archives, where the giant Sylvan Architect appears to have installed himself, taking root in a gargantuan throne cast of the finest silver.*
+		*In one of the many panels, they appear to be installing the numerous Thought Wheels of the Enclave. In another, they are setting up the apiary that is the Vault, with its infinity of Soul Stasis and Containment cells. Others depict the magnificent Archives with its majestic Muninn, then just a sapling. But finally Ormenos' eyes fall upon a curious sight, something he had never noticed before: the creation of a massive workshop beneath the Archives, where the giant Sylvan Architect appears to have installed himself, taking root in a gargantuan throne cast of the finest silver.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0012!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0011!DESCRIPTION!/]
 	
@@ -137,7 +137,7 @@ Virgin run
 	
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0013!DESCRIPTION!]
 		||
-		*Returning to his present cricumstances, Ormenos now ponders where he might venture.*
+		*Returning to his present circumstances, Ormenos now ponders where he might venture.*
 		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!}
 		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0013!DESCRIPTION!/]
@@ -177,7 +177,7 @@ one event
 	
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0020!DESCRIPTION!]
 		||
-		*With a cold shiver, Ormenos returns to his Falseflesh. Though the ripples of his ancestors' actions cause distortions even in his own time, he realizes that if he is to do something about it in the present, then he should not perseverate in obsessing at the past. Thus he decides where to venture next.*
+		*With a cold shiver, Ormenos returns to his Falseflesh. Though the ripples of his ancestors' actions cause distortions even in his own time, he realizes that if he is to do something about it in the present, then he should not perseverate in obsessing with the past. Thus he decides where to venture next.*
 		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!}
 		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0020!DESCRIPTION!/]
@@ -225,7 +225,7 @@ Virgin run
 	
 	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0012!DESCRIPTION!]
 		||
-		*Ormenos is once more subject to the gaze of his saintly predecesors and the gentle light they cast. Briefly looking up, he notices one of the windows has a slight crack spidering its way through Sister Rosenth's melancholy visage. The first and last of the Prime Archons, she set the Enclave on its current trajectory establishing the Choir and its oligarchic rule.*
+		*Ormenos is once more subject to the gaze of his saintly predecessors and the gentle light they cast. Briefly looking up, he notices one of the windows has a slight crack spidering its way through Sister Rosenth's melancholy visage. The first and last of the Prime Archons, she set the Enclave on its current trajectory establishing the Choir and its oligarchic rule.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0013!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0012!DESCRIPTION!/]
 	
@@ -259,7 +259,7 @@ Virgin run
 one event
 	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.002!DESCRIPTION!]
 		||
-		*Ormenos is again among the solemn gaze of his illustrious predecesors. Their light feels as though it touches his very Trueflesh with its wisdom. Yet a darker more sinister implication of the scene takes hold of his thoughts for a moment.*
+		*Ormenos is again among the solemn gaze of his illustrious predecessors. Their light feels as though it touches his very Trueflesh with its wisdom. Yet a darker more sinister implication of the scene takes hold of his thoughts for a moment.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0020!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.002!DESCRIPTION!/]
 	

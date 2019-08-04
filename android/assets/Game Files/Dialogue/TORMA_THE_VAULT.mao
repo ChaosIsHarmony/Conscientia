@@ -104,13 +104,13 @@ post-first interrogation
 Witnessed Khlutt outburst and not spoke w Thetian
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.001!DESCRIPTION!]
 		||
-		*Ormenos walks in on a suprising scene, for there is a prior arrival to Torma's chambers: Brother Mind Seer. He is now connected to the Thought Wheel and has dived into the Wayfarer's mind. Ormenos can only speculate about what his young acolyte is searching for and dares not wake him, as many a ghost has been lost in the Graylands from a premature awakening.*
+		*Ormenos walks in on a surprising scene, for there is a prior arrival to Torma's chambers: Brother Mind Seer. He is now connected to the Thought Wheel and has dived into the Wayfarer's mind. Ormenos can only speculate about what his young acolyte is searching for and dares not wake him, as many a ghost has been lost in the Graylands from a premature awakening.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.00100!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.001!DESCRIPTION!/]
 	
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.00100!DESCRIPTION!]
 		||
-		*But Ormenos needn't wait long, as the young Thought-Weaver begins frothing at the mouth, silently screaming and in severe anguish. He rips the Mind-Loom from his scalp and drops down to the floor vomitting blood and convulsing violently.*
+		*But Ormenos needn't wait long, as the young Thought-Weaver begins frothing at the mouth, silently screaming and in severe anguish. He rips the Mind-Loom from his scalp and drops down to the floor vomiting blood and convulsing violently.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.00101!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.00100!DESCRIPTION!/]
 	
@@ -134,7 +134,7 @@ Witnessed Khlutt outburst and not spoke w Thetian
 	
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0012!DESCRIPTION!]
 		||
-		*Their conversation over, the Mind Seer skulks off, noticeably distraught and letahrgic.*
+		*Their conversation over, the Mind Seer skulks off, noticeably distraught and lethargic.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0013!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0012!DESCRIPTION!/]
 	
@@ -163,7 +163,7 @@ Witnessed Khlutt outburst and not spoke w Thetian
 post-second interrogation
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.002!DESCRIPTION!]
 		||
-		*Ormenos rips off the Mind-Loom from his scalp severing the connection. This time, however, he is prepared for the pain that accompanies it and takes care not to let his heartrate spiral off toward infinity.*
+		*Ormenos rips off the Mind-Loom from his scalp severing the connection. This time, however, he is prepared for the pain that accompanies it and takes care not to let his heart rate spiral off toward infinity.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0020!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.002!DESCRIPTION!/]
 	
@@ -209,7 +209,7 @@ out as torma CG
 	
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.002!DESCRIPTION!]
 		||
-		*Suddenly, there is a cataclysmic perturbation that jars her container, making it shake uncontrollably until it inevitavly topples to the ground, cracking the glass and spreading the fluid across the floor along with Torma's limp body. 
+		*Suddenly, there is a cataclysmic perturbation that jars her container, making it shake uncontrollably until it inevitably topples to the ground, cracking the glass and spreading the fluid across the floor along with Torma's limp body. 
 		
 		She tries to move, yet finds her muscles unresponsive. It has been so long since she had commanded a physical shell that she had forgotten how to issue commands.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.X003!DESCRIPTION!}
@@ -235,7 +235,7 @@ out as torma CG
 	
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.006!DESCRIPTION!]
 		||
-		*Taking a moment to become accustomed to the incessant throbbing, she drags herself up on to all fours; and only after several excrutiating maneuvers, she finally manages to stand. *
+		*Taking a moment to become accustomed to the incessant throbbing, she drags herself up on to all fours; and only after several excruciating maneuvers, she finally manages to stand. *
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.007!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.006!DESCRIPTION!/]
 	
@@ -267,7 +267,7 @@ out as ormenos CG
 	
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.002!DESCRIPTION!]
 		||
-		*Suddenly, there is a cataclysmic perturbation that jars his container, making it shake uncontrollably until it inevitavly topples to the ground, cracking the glass and spreading the fluid across the floor along with Ormenos' limp body. 
+		*Suddenly, there is a cataclysmic perturbation that jars his container, making it shake uncontrollably until it inevitably topples to the ground, cracking the glass and spreading the fluid across the floor along with Ormenos' limp body. 
 		
 		He tries to move, yet finds his muscles unresponsive. He hopes that his muscles have not atrophied during his internment, for centuries could have passed for all he knew.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X003!DESCRIPTION!}
@@ -275,7 +275,7 @@ out as ormenos CG
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X003!DESCRIPTION!]
 		|@:ENCLAVE!THE VAULT!SOUL STASIS CELL!40.004!DESCRIPTION!|
-		*Without warning, a voice rings out, within the paralysed mage's head...*
+		*Without warning, a voice rings out, within the paralyzed mage's head...*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1204!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X003!DESCRIPTION!/]
 	
@@ -293,7 +293,7 @@ out as ormenos CG
 	
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.006!DESCRIPTION!]
 		||
-		*Taking a moment to become accustomed to the incessant throbbing, he drags himself up on to all fours; and only after several excrutiating maneuvers, he finally manages to stand. *
+		*Taking a moment to become accustomed to the incessant throbbing, he drags himself up on to all fours; and only after several excruciating maneuvers, he finally manages to stand. *
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.007!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.006!DESCRIPTION!/]
 	
@@ -765,7 +765,7 @@ GATE KEEPER
 	
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!]
 		||
-		*"Usually affected magi spiral into an ever-deepening pit of madness soon after the Wayfarer senses them in the mindscape."*
+		*"Usually affected magi spiral into an ever-deepening pit of madness soon after the Wayfarer senses them in the Mindscape."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00214!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!/]
 	

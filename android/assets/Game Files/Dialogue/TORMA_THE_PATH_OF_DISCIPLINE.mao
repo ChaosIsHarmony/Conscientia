@@ -14,7 +14,7 @@ AWARENESS' SEED
 
     [/ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.002!DESCRIPTION!]
 		||
-        *Ormenos then sees beyond the imposter trees to the end of the chamber, where countless doors line the walls with no clear indicator as to which lead to progress and which to nowhere.*
+        *Ormenos then sees beyond the impostor trees to the end of the chamber, where countless doors line the walls with no clear indicator as to which lead to progress and which to nowhere.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.X003!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!AWARENESS' SEED!0.002!DESCRIPTION!/]
 
@@ -218,180 +218,256 @@ ARBITER
 
 ________________________________________________________________________
 BITTERSWEET EPIPHANY
-???
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!]
 		||
-		*With the slightest hint of pride welling up within him, Ormenos enters the chamber of the final trial, a hemispheric room with massive black panels blanketing the ceiling. The silver throne at the center, inevitable in all Vanquished ruins, appears to be the seat of control over the Path's Thought Wheel.*
+		*Courage, hidden in the depths of his Trueflesh, seems to propel him through the portal. Yet, it seems less like him walking through it and more like it walking through him. As that shimmering gate absorbs his Falseflesh, the room transforms around him, massive black panels now starting to blanket the ceiling where only rough, rocky surfaces once were. People zip by as Ormenos remains static, nearly frozen in time. The panels flicker on and off, displaying images too quickly for the mage to interpret.
+		
+		But soon, the many people become fewer; the lights flicker less and less; and finally no movement, no light at all. In a state near either sleep or death, the room awaits - the object of its waiting uncertain.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0001!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0001!DESCRIPTION!]
 		||
-		*But what is less palatable is that there is clearly someone already occupying this throne. Call it a doppelganger, an illusory twin or whatever is most convincing, but the fact is that this individual is indistinguishable from Ormenos himself. In fact, he is both seeing himself walk into the room and sitting in the chair simultaneously; perceiving the scene from two perspectives in synchronous simultaneity, each's perception every bit as real as the other's.*
+		*In the stationary silence, Ormenos has time to reflect on what he just witnessed. The effect is much greater, much wider-reaching even, than a simple change of decorations. No, it more closely resembles watching a boy become a man, seeing a blossom become fruit. It is seeing latent potential finally realized. This is the final stage, the inevitable outcome of the myriad chance encounters that led the mage here.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0002!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0002!DESCRIPTION!]
 		||
-		*Then, the enthroned Ormenos rises and directly in front of and in between the two bewildered magi, appears a most prodigious slope with a most imposing boulder placed atop. The boulder is of dimensions coequal to an Ormenos' height in all three planes. The slope's sudden appearance at first startles the twinned magi, though quickly they realize that it may have been here all along and only gave the appearance of phasing into existence when it finally drew their attention.
-		
-		Queerly, both Ormenos and his mirror-self stand across the way from each other, one at the center and the other on the periphery of the presumably flat chamber, yet by some trick of magic or artifice the slope seems to ascend from both perspectives.*
-		(A#Push the boulder){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!DESCRIPTION!}
+		*Winking into consciousness, Ormenos now notes the presence of a silver throne at the center - the inevitable fixture in all Vanquished ruins. He wonders whether it was always there and he failed to notice or if it really had just appeared. But a more pressing issue pries his thoughts away from his answerless questions: someone seems to have already be occupying this throne.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0003!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0002!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0003!DESCRIPTION!]
+		||
+		*Call it a doppelganger, an illusory twin, or whatever is most convincing, but the fact is that this individual is indistinguishable from Ormenos himself. In fact, he is now both standing where the portal was and sitting in the chair at the same time. He perceives the scene from two perspectives in synchronous simultaneity, each's perception every bit as real as the other's.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0004!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0003!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0004!DESCRIPTION!]
+		||
+		*Then, the enthroned Ormenos rises, as suddenly, directly in front of and in between the two bewildered magi, appears a most prodigious slope with a most imposing boulder placed atop. The boulder is of dimensions coequal to an Ormenos' height in all three planes. The slope's surprising appearance at first startles the twinned magi, though quickly they wonder if it too may have been here all along, only giving the appearance of phasing into existence when it finally drew their attention.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0005!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0004!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0005!DESCRIPTION!]
+		||
+		*Queerly, both Ormenos and his mirror-self stand across the way from each other, one at the center and the other on the periphery of the presumably flat chamber, yet by some trick of magic or artifice the slope seems to ascend from both perspectives.*
+		(A#Push the boulder){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0005!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!DESCRIPTION!]
 		||
 		*The boulder, nudged upwards, rhapsodically gains momentum until it careens wholeheartedly towards the recently entered Ormenos' side of the slope, from whom's perspective it seems as though the boulder is quickly rolling downward on a collision course with his fragile Falseflesh...*
-		(A#Stop the boulder in its tracks so that it cannot be launched again){A:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0011!DESCRIPTION!}
+		(A#Stop the boulder before it can cause any damage.){A:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0011!DESCRIPTION!}
 		(B#Stand firm in the path of the illusory boulder - how could it not be fake?){B:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0012!DESCRIPTION!}
-		(C#Do nothing; let fate decide){C:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0013!DESCRIPTION!}
-		(D#Quickly jump to safety; no point in taking chances){D:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0014!DESCRIPTION!}
+		(C#Do nothing; let fate decide.){C:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0013!DESCRIPTION!}
+		(D#Quickly jump to safety - no point in taking chances.){D:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0014!DESCRIPTION!}
 		(E#Brace for impact and then send it flying back at the idiot who sent it your way!){E:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0015!DESCRIPTION!}
 		(F#By Roostor's mighty comb, invoke the Caw of Protection!){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0016!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0011!DESCRIPTION!]
 		||
-		*Ormenos, gritting his teeth and closing his eyes, makes preparations to stop the charge of the dispassionate stone orb. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. The instigating Ormenos mirrors his actions as though expecting the boulder to come rolling back.
-		
-		The twin Inquisitors begin to stare at one another in stupefaction, when suddenly the whirring of the Thought Wheel causes the dark panels to buzz and glow, one-by-one giving birth to an image of an Ormenos pair engaging in the simple and seemingly pointless act of repeatedly pushing boulders and staring at each other across this slope connecting them.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
+		*Gritting his teeth and closing his eyes, Ormenos makes preparations to stop the charge of the dispassionate stone. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. The instigating Ormenos mirrors his actions as though expecting the boulder to come rolling back.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X00110!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0011!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X00110!DESCRIPTION!]
+		||@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!||
+		*The twin Inquisitors begin to stare at one another in stupefaction, when suddenly the whirring of the Thought Wheel causes the dark panels to buzz and glow, one-by-one giving birth to an image of an Ormenos pair engaging in the simple and seemingly pointless act of repeatedly pushing boulders and staring at each other across this slope connecting them.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X00110!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0012!DESCRIPTION!]
 		||
-		*Ormenos stands firm in the path of the boulder as it dispassionately charges towards him, seeking to press the very marrow from his bones. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. And out of habitual curiosity, the assaulted Ormenos touches the boulder to verify its materiality and in so doing accidentally nudges it back toward the mirror Ormenos, who subsequently reciprocates.
-		
-		Back and forth, the boulder rolls between the inquisitive twin Ormenoses, when suddenly the whirring of the Thought Wheel causes the dark panels to hum and glow, one-by-one giving birth to an image of an Ormenos pair engaging in the simple and seemingly pointless act of repeatedly rolling a boulder up and down - or is it up and up? - this slope connecting them.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+		*Ormenos stands firm in the path of the boulder as it dispassionately charges towards him, seeking to press the very marrow from his bones. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. And out of habitual curiosity, the assaulted Ormenos touches the boulder to confirm or deny its materiality. In so doing, he accidentally nudges it back toward the mirror Ormenos, who subsequently reciprocates.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00120!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0012!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00120!DESCRIPTION!]
+		||
+		*Back and forth, the boulder rolls between the inquisitive twin Ormenoses. Suddenly, the whirring of the Thought Wheel causes the dark panels to hum and glow, one-by-one birthing pairs of Ormenoses engaged in the simple, and seemingly pointless, act of repeatedly rolling a boulder up and down - or is it up and up? - the slope connecting them.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00120!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0013!DESCRIPTION!]
 		||
-		*Ormenos stands carelessly in the path of the boulder as it dispassionately charges at him, seeking to press the very marrow from his bones. Content to let the universe decide for him, he regards the massive stone orb coldly up until the very moment it is but a hair's breadth away, when it stops abruptly, as though time itself had frozen. In obedience to the edicts of the universe, the assaulted Ormenos feels compelled to casually nudge it back toward the other Ormenos, who reciprocates.
-		
-		Back and forth, the boulder rolls between the indifferent twin Inquisitors, when suddenly the whirring of the Thought Wheel causes the dark panels to buzz and glow, one-by-one giving birth to an image of an Ormenos pair engaging in the simple and seemingly pointless act of repeatedly rolling a boulder up and down - or is it up and up? - this slope connecting them.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+		*Ormenos stands unconcernedly in the path of the dispassionate boulder charging at him, as it seeks to press the very marrow from his bones. Content to let the universe decide for him, he regards the massive stone orb coldly up until the very moment it is but a hair's breadth away, when it stops abruptly, as though time itself had frozen. A sudden desire to push it back compels the indifferent mage to casually nudge it back toward the other Ormenos, who in sympathetic conformity reciprocates.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00130!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0013!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00130!DESCRIPTION!]
+		||
+		*Back and forth, the boulder rolls between the indifferent twin Inquisitors. Suddenly, the whirring of the Thought Wheel causes the dark panels to hum and glow, one-by-one birthing pairs of Ormenoses engaged in the simple, and seemingly pointless, act of repeatedly rolling a boulder up and down - or is it up and up? - the slope connecting them.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00130!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0014!DESCRIPTION!]
 		||
-		*Diving for cover, Ormenos cowers in fear, eyes closed tighter than a miser's purse strings as the boulder dispassionately charges toward him, seeking to press the very marrow from his bones. Shivering in his mage's robes, he waits to hear the inevitable collision and obliteration of the stone upon the surface of the dome. But his expectations remain unrequited.
-
-		His trembling ceases when he looks up to see that the stone orb has stopped abruptly right at the base of the slope, just as though time itself had frozen. Perhaps in shame for his cowardice, or perhaps in retribution for the mirror Ormenos' inane act of treachery, the slighted Ormenos kicks the boulder back towards the instigating Ormenos at the center of the room, who likewise cowers in fear and then, under similar motivations, propels the boulder back towards his assailant.
-		
-		Back and forth, they cower at and thrust the boulder in turn. Suddenly the whirring of the Thought Wheel causes the dark panels to hum and glow, one-by-one giving birth to an image of an Ormenos pair engaging in the devious and seemingly pointless act of repeatedly rolling a boulder to try to harm the other Ormenos.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+		*Diving for cover, Ormenos cowers in fear, eyes closed tighter than a miser's purse strings as the boulder dispassionately charges toward him, seeking to press the very marrow from his bones. Shivering in his mage's robes, he waits to hear the inevitable collision and obliteration of the stone upon the surface of the dome. But his expectations remain unrequited.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00140!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0014!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00140!DESCRIPTION!]
+		||
+		*He looks up and his trembling ceases. The stony orb has stopped abruptly right at the base of the slope, just as though time itself had frozen. Perhaps ashamed of his cowardice, or perhaps in retribution for the mirror Ormenos' act of treachery, the slighted Ormenos kicks the boulder back towards his instigating twin. The newly threatened mage now likewise cowers in fear until the boulder stops before him, too. Then, similarly motivated by vengeance or shame, he propels the boulder back towards his assailant.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00141!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00140!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00141!DESCRIPTION!]
+		||
+		*Back and forth, they cower at and thrust forth the boulder in turn. But suddenly, the whirring of the Thought Wheel causes the dark panels to hum and glow, one-by-one birthing pairs of Ormenoses engaged in the devious, and seemingly pointless, act of repeatedly hurling a boulder with ill intent, up and down - or is it up and up? - the slope connecting them.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00141!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0015!DESCRIPTION!]
 		||
-		*Ormenos, gritting his teeth and clenching his muscles, makes preparations to stop the charge of the dispassionate stone orb. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. The other Ormenos laughs derisively at this Ormenos' attempt to stop the boulder.
-		
-		In a fit of rage and bravado, the threatened Ormenos propels the boulder back in the direction whence it came, this time with even greater force! The throne-side Ormenos likewise braces for impact, receives mockery from the assailing Ormenos and now, even angrier, sends the rocky sphere careening back.
-		
-		An eye for and eye and a tooth for a tooth, until all available body parts have been annihilated in turn! Suddenly the whirring of the Thought Wheel causes the dark panels to buzz and glow, one-by-one giving birth to an image of an Ormenos pair engaging in the savage and seemingly pointless act of repeatedly rolling a boulder to try to harm the other Ormenos.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+		*Gritting his teeth and closing his eyes, Ormenos makes preparations to stop the charge of the dispassionate stone. Yet when it is but a hair's breadth away, it stops abruptly, as though time itself had frozen. The other Ormenos laughs derisively at his twin's weak attempt to stop the boulder.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00150!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0015!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00150!DESCRIPTION!]
+		||
+		*In a fit of rage and bravado, the threatened Ormenos propels the boulder back in the direction whence it came, this time with even greater force. The throne-side Ormenos likewise braces for impact, receives mockery from the assailing Ormenos, and now, even angrier, sends the rocky sphere careening back again.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00151!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00150!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00151!DESCRIPTION!]
+		||
+		*An eye for and eye and a tooth for a tooth, until all available body parts have been annihilated in turn. But suddenly, the whirring of the Thought Wheel causes the dark panels to hum and glow, one-by-one birthing pairs of Ormenoses engaged in the savage, and seemingly pointless, act of repeatedly hurling a boulder with ill intent, up and down - or is it up and up? - the slope connecting them.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00151!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0016!DESCRIPTION!]
 		||
-		*Ormenos, spreads his metaphorical wings to their fullest extent and expels all air from his powerful lungs to ignite the ire of mighty Lord Roostor! Suddenly, the clouds part and the sun shines through, casting the silhouette of an anthropomorphic fowl in stark contrast. The Caw also aroused the allies of the Skylord, as the Mushroom Duke charges with his fungal army toward the dispassionate stone orb. Many fall under the crushing weight of the sphere and all hope seems to wane as the boulder approaches, ever faster, ever closer!
-		
-		But the Master of the Skies swoops down from on high and with a mighty flap of His feathered wings, He blasts the boulder back whence it came!
-		
-		In a fit of ecstasy, the throne-side Ormenos likewise invokes the most sacred of Caws, repeating this bizarre, cyclical rhapsody - a cycle which would normally continue ad infinitum, except the floral and faunal warriors appear to tire of the cycle and take breaks to smoke and gamble in between, while the stones and both Ormenoses patiently wait.*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+		*Ormenos, spreads his metaphorical wings to their fullest extent and caws till his lungs prune. This, he knows instinctively, is the summoning ritual, the one act to ignite the ire of almighty Roostor!*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00160!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0016!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00160!DESCRIPTION!]
+		||
+		*Suddenly, the clouds part and golden rays sparkle along the silver linings, casting the silhouette of an anthropomorphic fowl in stark contrast. The Caw, so powerful, has also aroused the allies of the Skylord. Soon, the Mushroom Duke appears, charging in with his fungal army toward the dispassionate stone orb. Many fall under the crushing weight of the sphere, leaving little more than a gooey memory. All hope seems to wane as the boulder approaches, ever faster, ever closer, ever mowing down the proud knights of the Toadstool Order!*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00161!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00160!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00161!DESCRIPTION!]
+		||
+		*But, out of nowhere, the Master of the Skies swoops down from on high and with a mighty flap of His feathery wings, He blasts the boulder back whence it came!*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00162!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00161!DESCRIPTION!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00162!DESCRIPTION!]
+		||
+		*In a fit of ecstasy, the throne-side Ormenos likewise invokes the most sacred of Caws, repeating this bizarre, cyclical rhapsody - a cycle which would normally continue ad infinitum, except the floral and faunal warriors appear to tire of the cycle and take breaks to smoke and gamble in between, while the stones and both Ormenoses patiently wait.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.00162!DESCRIPTION!/]
 
     [/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!|
-        *But then at long last, the Arbiter makes its final call...*
+        *But then, at long last, the Arbiter makes its final call...*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X0017!DESCRIPTION!/]
 
-
+after circle v. spiral
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.003!DESCRIPTION!|
-		*Without warning, the screens all switch to a bird's eye view of the circular chamber floor as a light shines around the circumference from beginning to end only to start anew. Then, the screens all merge into a single gigantic view of the scene, though gradually shifting its perspective from top down to side on, revealing that the circle is not as it seemed: rather it is an infinitely descending spiral.*
+		*Without warning, the screens all switch to a bird's eye view of the circular chamber floor. A light soon races around the circumference from beginning to end only to start anew. Then, the screens all merge into a single gigantic view of the scene, though gradually shifting its perspective from top down to side on, revealing that the circle is not as it seems. In truth, it is an infinitely descending spiral.*
 		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X1207!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!DESCRIPTION!/]
 
+at the end of convo
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.003!DESCRIPTION!]
 		||
-		*The whirring dies down and the lights of the panels begin to fade as the gates open, revealing that there was no series of caverns and chambers at all: it was but a single room, one now leading back to Ormenos' point of departure at the Edge of Ignorance. 
-		
-		Though a shadowy figure appears to await his arrival...*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2040!DESCRIPTION!}
+		*The Arbiter's voice vanishes and the panels' lights begin to fade. New light rushes in to replace it through a familiar set of receding metallic scales. As these peel away, they reveal the entrance to the Path.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0030!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.003!DESCRIPTION!/]
 
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0030!DESCRIPTION!]
+		||
+		*Then it dawns on him... There was no series of caverns and chambers at all; it was always just a single room, one now leading back to Ormenos' point of departure at the Edge of Ignorance.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0031!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0030!DESCRIPTION!/]
 
-!!!	Make Arbiter terse (ref. Edge of Ignorance dialogue)
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0031!DESCRIPTION!]
+		||
+		*Perhaps it is all just a loop after all.*
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2040!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0031!DESCRIPTION!/]
+
+
+
 ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!ARBITER!]
 		||
-		*"Inquisitor, you have reached the final trial: the Bittersweet Epiphany that the Path of Discipline is unending, a repeated loop beginning where it ended and ending where it began."*
+		*"Inquisitor, you have reached the final trial. You are now at the Bittersweet Epiphany."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!ARBITER!]
 		||
-		*"For you see, Inquisitor, you can never really know it all, nor can you ever even hope to comprehend it."*
+		*"You now know the true nature of the Path of Discipline. It is unending, a loop repeated. It begins where it ended and ends where it began."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.001!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!ARBITER!]
 		|@:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X003!ARBITER!|
-		*"Thus I ask: how do you respond?*
-		(A#"It is only impossible until someone does it."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
-		(B#"I will pursue knowledge for its own sake."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
+		*"How do you respond to this circular limitation?*
+		(A#"It's only impossible until someone does it."){A:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
+		(B#"I'll pursue knowledge for its own sake."){B:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
 		(C#"It's pointless."){C:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
 		(D#"Walking around in circles? I think I'll look for my own path instead."){D:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
-		(E#"I will warp the circle to suit me."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
-		(F#"What if it's not a circle, but rather an endlessly descending spiral?"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2099!ARBITER!}
+		(E#"I'll warp the circle to a shape that suits me."){E:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
+		(F#"Not a circle, a spiral! It says so before the Book of Eidos."){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9990.X2099!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X002!ARBITER!/]
 
 >>>Called the spiral epiphany on the Path of Disc (2099)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X003!ARBITER!]
 		|^2099:ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.006!ARBITER!|
-		*Perspective, Brother; it is indispensable to insight."*
+		*Perspective, Brother, is indispensable to insight."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.004!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.X003!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.004!ARBITER!]
 		||
-		*"Without it, you will not achieve depth for you will never start the true Path."*
+		*"Without it, none achieve depth. They never even start the true Path."*
 		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.005!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.004!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.005!ARBITER!]
 		||
-		*"Now go forth, a changed mage and reap the benefits of your journey!*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
+		*"Go forth, a changed mage."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0050!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.005!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0050!ARBITER!]
+		||
+		*"Your Path begins now.*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.0050!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.006!ARBITER!]
 		||
-		*"...Do you delight in stealing other's thunder?*
+		*"...Well aren't you clever?*
 		(F#"Called it! Booyah!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.007!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.006!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.007!ARBITER!]
 		||
-		*"Yes, you did. Congratulations on being so special..."*
+		*"Yes, you did..."*
 		(F#"Do I get a reward or something?!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.008!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.007!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.008!ARBITER!]
 		||
-		*"Indeed, you do!"*
-		(F#"Rock on! What is my prize?!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.009!ARBITER!}
+		*"Certainly."*
+		(F#"Rock on! What's my prize?!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.009!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.008!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.009!ARBITER!]
 		||
-		*"It's..."*
-		(F#"...Yeah? Say it machine bro!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
+		*"Your prize is the Path's true purpose. The Path was made to..."*
+		(F#"...Yeah? Say it, machine bro!"){F:1,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!9999.X9999!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.009!ARBITER!/]
 
 
@@ -1540,6 +1616,7 @@ HUBRIS' DEMISE
 
 
 end of arbiter convo
+>>>Kicked out of path of discipline (2070)<<<
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.X003!DESCRIPTION!]
 		|^2070:ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0030!DESCRIPTION!|
 		*The conversation at its terminus, Ormenos only now notices that the water seems to have evaporated without a trace. Further, the luxurious carpet now lays tangled in a knot upon a marble pedestal, alongside it a metallic placard stating:
@@ -1597,7 +1674,7 @@ end of arbiter convo
 		
 		The mage hesitates, in part excited for what is to come, but in greater part afraid of it. Even if the Path's final chamber meets or exceeds his expectations, it will still be the end... and are not all ends tragic?*
 		(A#Pass through the portal){A:0,ENCLAVE!THE PATH OF DISCIPLINE!BITTERSWEET EPIPHANY!0.000!DESCRIPTION!}
-		(B#Leave the Path){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!}
+		(B#Leave the Path instead){B:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.004!DESCRIPTION!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0041!DESCRIPTION!/]
 
 
@@ -1955,6 +2032,19 @@ ARBITER
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0051!ARBITER!/]
 
 
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0060!ARBITER!]
+		||
+		*"Then listen and learn."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0061!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0060!ARBITER!/]
+
+	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0061!ARBITER!]
+		||
+		*He offered to connect this Muninn tree to a league of others. A single tree's knowledge pales in comparison to the knowledge of all trees of its ilk. Infinities are not all equal."*
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0032!ARBITER!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0061!ARBITER!/]
+
+
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!0.0070!ARBITER!]
 		||
 		*"This is a myth. Odd things happen in myths. For example, poultry gods and their gremlin-obsessed only exist in myth. At least, I wish they did..."*
@@ -1971,7 +2061,7 @@ ARBITER
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.001!ARBITER!]
 		||
 		*"Success places you among the few magi prepared to reach the Path's end."*
-		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.001!ARBITER!}
+		(A#"..."){A:0,ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.002!ARBITER!}
 	[ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.001!ARBITER!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!HUBRIS' DEMISE!1.002!ARBITER!]
@@ -2257,15 +2347,15 @@ SKILL'S AWAKENING
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00303!DESCRIPTION!]
 		||
 		*Gaping as the miracle unfolds, Ormenos soon stares into a pool, seeing nothing but his dumbstruck reflection staring back. A mere moment later, he sees yet another sight to behold in the reflection of this pool: a portal exiting the grotto has appeared, gently swaying back and forth upon the surface...*
-		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00303!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00302!DESCRIPTION!/]
+		(A#...){A:0,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00304!DESCRIPTION!}
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00303!DESCRIPTION!/]
 
-	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00303!DESCRIPTION!]
+	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00304!DESCRIPTION!]
 		||
 		*The way forward is now clear, though having obtained what he came for, Ormenos wonders if perhaps it would be wise to instead go make his report to the Choir of Archons before their patience wears too thin.*
 		(B#Proceed along the Path){B:1,ENCLAVE!THE PATH OF DISCIPLINE!FAITH'S ADVENT!0.X000!DESCRIPTION!}
 		(D#Exit the Path of Discipline){D:1,ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!9990.X2039!DESCRIPTION!}
-	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00303!DESCRIPTION!/]
+	[ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.00304!DESCRIPTION!/]
 
 	[/ENCLAVE!THE PATH OF DISCIPLINE!SKILL'S AWAKENING!0.0031!DESCRIPTION!]
 		||
