@@ -10,44 +10,44 @@ FOREST OF DECEPTION
 virgin run
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001!DESCRIPTION!]
 		||
-		*The refreshing aromas of a pristine cedar forest offers a welcome relief from the dank underhalls of the Enclave. None of his Order ever need to set foot outside, save for the Itinerant caste on their recruitment missions. Thus, Ormenos finds himself alone among the coniferous trees of this woodland, able to bask in the natural beauty of this solitary refuge. The tall trees block out well over half the sun's avaricious attempts to coat the earth with its rays. The streams of light which do cut through the dancing limbs sway hypnotically in time with the shifting breezes.*
+		*A shy fog glides through the cedar forest, obscuring visibility while simultaneously amplifying the ambient light. Earthy scents mixed with the trees' natural perfume ride on gentle breezes, offering a welcome relief from the dank underhalls of the Enclave. None of his Order ever truly need to set foot outside, save for the Itinerant caste on their recruitment missions, and as such, Ormenos finds himself alone among the coniferous denizens of this woodland refuge. The woody giants' canopy high above blocks most of the sun's attempts to coat the earth with its rays. Those streams of light which do manage to cut through the cedars' dancing limbs, sway hypnotically in time with the shifting breezes.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001000!DESCRIPTION!]
 		||
-		*Turning his attention to the fauna, Ormenos listens as the birds sing out their grievances regarding his presence. He is an intruder in their land, just as he has always seemed to be no matter where he goes. Indeed, it was in great part this feeling of being the perpetual outcast which led him to joining the Order in the first place.*
+		*The birds soon sing out their grievances regarding their unwanted visitor's presence. Ormenos is an intruder in their land, just as he always seems to be no matter where he goes. Indeed, it was in great part this feeling of perpetual pariahood which led him to join the Order in the first place.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001001!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001000!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001001!DESCRIPTION!]
 		||
-		*And so Ormenos' mind finally shifts to his home. Jeran township limits are only a day's journey through this ancient forest. But no one dares come this way, as the Enclave have done their part to make sure the Forest of Deception deserved its name. None who are not of the Order have ever penetrated the forest for as they enter, all sense of direction is lost and the would be interloper simply returns to their point of origin.*
+		*And so Ormenos' mind finally shifts to his home. Jeran township limits are only a day's trek through this ancient forest. But none come this way, as the Enclave have done their part to make sure the Forest of Deception deserves its name. Those not of the Order never penetrate the forest. Unsanctioned entry guarantees a loss of all sense of direction, leaving the would-be interloper to simply return to their point of origin.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001002!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001002!DESCRIPTION!]
 		||
-		*But Ormenos can see that he need not spend any more time here; it is time to move on.*
+		*But Ormenos can see that he need not spend any more time here. And so, he moves on...*
 		(A#Return to the courtyard){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.X000!DESCRIPTION!}
 		(B#Leave the Enclave){B:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0010!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001002!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0010!DESCRIPTION!]
 		||
-		*Leave? The Enclave? Not once since his arrival had Ormenos ever even dreamed of entertaining such a dangerous idea... So firm are the reins upon him, so severe the fear of the consequences, that the timid mage feels a shiver shoot down his spine at just the thought.*
+		*Leave? The Enclave? Not once since his arrival had Ormenos ever even dreamed of entertaining such a dangerous idea... So deep are the hooks within him, so severe the fear of the consequences, that the timid mage feels a shiver shoot down his spine at the mere thought.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00100!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0010!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00100!DESCRIPTION!]
 		||
-		*Yet, he feels that this may be his only chance to make such a decision and that if he chooses not to leave now, he would likely be trapped in the shadow of fear for the rest of his miserable existence...*
+		*Yet, he feels this may be his only chance to make such a decision, that if he chooses not to leave now, he would likely be trapped in the shadow of fear for the rest of his miserable existence...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00101!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00100!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00101!DESCRIPTION!]
 		||
-		*But the idea has been had, now and it cannot be unthought... So he decides...*
+		*But the idea has been thought now, and it cannot be unthought... So he decides...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00102!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00101!DESCRIPTION!/]
 
@@ -59,7 +59,7 @@ virgin run
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00103!DESCRIPTION!]
 		||
-		*Thus, having decided to flee this barless prison, Ormenos feels as though the yoke of the Enclave has finally been lifted from his weary shoulders. Empowered and invigorated, he feels he can travel anywhere! But then where should he go?*
+		*Yes, he will flee this barless prison! Ormenos feels as though a yoke - unseen and unknown - has suddenly been lifted from his weary shoulders. Empowered and invigorated, he feels he can travel anywhere!*
 		(A#To Turrok){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0011!DESCRIPTION!}
 		(B#To the Interstice){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0012!DESCRIPTION!}
 		(C#To Jer){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0013!DESCRIPTION!}
@@ -76,43 +76,43 @@ virgin run
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00110!DESCRIPTION!]
 		||
-		*Yes, this chosen place is both remote in space and time relative to the Inquisitor, but somehow he knows that he will nevertheless arrive at his destination...*
+		*His chosen place is both remote in space and time, relative to the Inquisitor. Nevertheless, he somehow knows that he will always arrive at this destination...*
 		(A#...){A:0,MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00110!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0012!DESCRIPTION!]
 		||
-		*The Interstice, the fabled region the Trueflesh of the Muninn trees reside. Though merely a theoretical device used to explain the sentience of the trees, perhaps there is more to it that just that...*
+		*The Interstice, the fabled region the Trueflesh of the Muninn trees reside. He once thought it merely a theoretical device used to explain the sentience of the trees, but perhaps there is more to it than just that...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00120!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0012!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00120!DESCRIPTION!]
 		||
-		*Yes, though the way to this chosen place is unknown to the Inquisitor, he somehow knows that he will nevertheless arrive at his destination...*
+		*Yet, the way to this chosen place was unknown even to wisest magi the Order has ever produced, much less Ormenos. Even still, he somehow knows that he will always arrive at his destination...*
 		(A#...){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00120!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0013!DESCRIPTION!]
 		||
-		*Home, a place he never thought he would return. But perhaps a journey to his past will help demistify his future. Just at the edge of this cedar-filled labyrinth crash the salty waves of his forsaken homeland.*
+		*Home, a place he never thought he would return. But perhaps a journey to his past will help to demistify his future. Just at the edge of this cedar-filled labyrinth crash the salty waves of his forsaken homeland.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00130!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0013!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00130!DESCRIPTION!]
 		||
-		*Yes, this chosen place indeed suits the Inquisitor, and thus he directs his feet to Jer, guided by the arrow of his memory...*
+		*Yes, this chosen place indeed suits the Inquisitor. As such, he directs his feet to Jer, guided by the arrow of memory, knowing he will always arrive at this destination...*
 		(A#...){A:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00130!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0014!DESCRIPTION!]
 		||
-		*And yet, perhaps this new sense of freedom is but an illusion. For would the Order not send Enforcers to bring back a truant mage? Ormenos knows what his fate would be: to be hunted and then cast among the prisoners of the Vault.*
+		*And yet, perhaps this new sense of freedom is but an illusion. For would the Order not send Enforcers to bring back a truant mage? Ormenos well knows what his fate would be, and he scarcely desires to be hunted down, only to then join the prisoners of the Vault he has spent his life interrogating.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00140!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0014!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00140!DESCRIPTION!]
 		||
-		*And thus he feels the pull of his invisible shackles and directs his feet back towards his masters...*
+		*As such, he feels the pull of invisible reins, directing obedient feet back towards his masters...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00140!DESCRIPTION!/]
 
@@ -124,7 +124,7 @@ virgin run
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00150!DESCRIPTION!]
 		||
-		*Yes, though the way to this chosen place is unknown to the Inquisitor, he somehow knows that he will nevertheless arrive at his destination...*
+		*Yes, though the way to this chosen place is unknown to the Inquisitor, he still knows that he will always arrive at his destination...*
 		(A#...){A:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00150!DESCRIPTION!/]
 
@@ -136,11 +136,11 @@ virgin run
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00160!DESCRIPTION!]
 		||
-		*Yes, this chosen place is remote in space and mostly unknown to the Inquisitor, but somehow he knows that he will nevertheless arrive at his destination...*
+		*Yes, this chosen place is remote in space and known to the Inquisitor only in name. Yet, still he knows that he will always arrive at his destination...*
 		(A#...){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00160!DESCRIPTION!/]
 
-
+???
 opened sylvan refuge
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X002!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0020!DESCRIPTION!|
