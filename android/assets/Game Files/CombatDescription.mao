@@ -125,9 +125,9 @@ SANCTUARY
 sanctuary sentry
 [/49]
 	*2:
-	The sentry engages with a flurry of stabs, all invisible to Eidos' eye. Yet she remains undamaged, as Luin, taking the form of a sword, has deflected all of the pinpoint strikes.
+	The sentry engages with a flurry of stabs, all invisible to Eidos. Yet she remains undamaged, as Luin, taking the form of a sword, has deflected all of the pinpoint strikes.
 	
-	Suddenly, a bloodlust wells up within her, almost certainly originating from her emerald ally. She leaps forward for a counter-offensive. The sentry, however, appears to have anticipated the strategy and has adopted a defensive stance, spear upraised, ready to block. Yet it blocks nothing as Luin cleaves, ripping through the spear and sentry alike, as though through empty space.
+	Suddenly, a bloodlust wells up within her, almost certainly originating from her emerald ally. She leaps forward for a counter-offensive. The sentry, however, appears to have anticipated the strategy, already in a defensive stance, spear upraised, ready to block. Yet it blocks nothing as Luin cleaves, ripping through the spear and sentry alike, as though through empty space.
 	
 	A geyser of blue blood showers the surrounding bas reliefs, giving them a grim makeover.2*
 	*3:
