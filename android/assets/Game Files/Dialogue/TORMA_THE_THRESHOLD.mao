@@ -140,21 +140,27 @@ virgin run
 		(A#...){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.00160!DESCRIPTION!/]
 
-???
+
 opened sylvan refuge
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X002!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0020!DESCRIPTION!|
-		*In a mad dash, Ormenos sprints out through the massive gateway entrance to the Enclave only to see a pensive Brother Mind Seer lurking in the shade of nearby boulder. Here he stands in solitary contemplation, right outside the walls of the entrance to the Enclavean courtyard.*
+		*In a mad dash, Ormenos sprints out through the massive gateway only to see a pensive Brother Mind Seer pacing in the shade of nearby boulder. Ormenos shifts course, rushing toward him, scattering his solitary contemplation like a flock of startled crows.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X1203!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X002!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0020!DESCRIPTION!]
 		||
-		*Still confused and reeling from the overwhelming burden of awareness, Thetian looks upon Ormenos as he rushes away from the Enclave and through the Forest of Deception. Though hesitant at first, Thetian realizes that regardless of what the circumstances leading to Ormenos' flight may be, he could not leave his Brother and mentor alone to his madness. Thus, Thetian boldly decides to embark on his journey to an uncertain future with Ormenos.
+		*Yet confused and reeling from the overwhelming burden of awareness, Thetian looks upon Ormenos as he rushes away from the Enclave. Though hesitant at first, Thetian realizes that regardless of what the circumstances leading to Ormenos' flight may be, he could not leave his Brother and mentor alone to his madness. Thus, Thetian boldly decides to embark on his journey toward an uncertain future with Ormenos.
 		
-		Still, what could Ormenos have witnessed to cause such a drastic change of heart. His words clearly could not convey the desperation his actions so easily show. These thoughts, among others, possess Thetian as he slips into a trance from the rhythmic footwork of fleeing through the forest...*
-		(A#Dream){A:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
+		He quickly chases after his fellow Jeran, racing to keep pace. Soon the two lock steps, the unmistakable unison of a collective mind.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0021!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0020!DESCRIPTION!/]
+
+	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0021!DESCRIPTION!]
+		||
+		*Still, what could Ormenos have witnessed to cause such a drastic change of heart. His words failed to convey the desperation his actions so easily reveal. These thoughts, among others, possess Thetian as he slips into a trance. The rhythmic footwork of fleeing through the forest ever-repeating, left, right, left...*
+		(A#Dream){A:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0021!DESCRIPTION!/]
 
 
 
@@ -169,13 +175,15 @@ opened sylvan refuge
 Out as Ormenos CG
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!40.X001!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!40.0010!DESCRIPTION!|
-		*The Mind Seer Thetian's vision refocuses to see that he is running through the Forest of Deception outside the Enclave. He and Ormenos have come upon a moss-covered ruin where they stop to catch their fugitive breath.*
+		*The Mind Seer Thetian's vision refocuses. Sunlight. Trees. Ormenos. Running. Gasping. He yet lives, heart and feet both racing. He now runs through the Forest of Deception outside the Enclave.
+		
+		Soon, he and Ormenos come upon a moss-covered ruin, stopping to catch their fugitive breath.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X1203!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!40.X001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!40.0010!DESCRIPTION!]
 		||
-		*The voyage towards an uncertain future then renews. When will this journey of discovery terminate in genuine epiphany? Or is there any guarantee it ever will? These thoughts, among others, possess Thetian as he slips into a trance from the rhythmic footwork of their flight through the forest...*
+		*Ormenos takes off. Their voyage towards an uncertain future then renews. When will this journey of discovery yield a genuine epiphany? Or is there any guarantee it ever will? These thoughts, among others, possess Thetian as he slips into a trance. The rhythmic footwork of fleeing through the forest ever-repeating, left, right, left...*
 		(A#Dream){A:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!40.0010!DESCRIPTION!/]
 
@@ -185,35 +193,35 @@ THETIAN
 >>>Out as Ormenos CG (2015)<<<
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!MIND SEER!]
 		|^2015:ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.000!MIND SEER!|
-		*"Brother Inquisitor, what manner of ill luck has assaulted you?!"*
+		*"Wyrm's legs, Brother! What manner of ill luck has befallen you?!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0000!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0000!MIND SEER!]
 		||
 		*"You look as pale as the full moon!"*
-		(A#"Brother, you must come with me at once! The Enclave is no longer safe!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001!MIND SEER!}
-		(B#"All I know is that this place is not what it seems."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.002!MIND SEER!}
-		(C#"I am... fine."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.003!MIND SEER!}
-		(D#"There is no time to waste, I must leave the wretched place!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.004!MIND SEER!}
-		(E#"There is evil in these halls and I must go find the strength to combat it!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.005!MIND SEER!}
-		(F#"Oh, nothing. I just saw Vanargand, but this guy flipped out and ran away."){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.006!MIND SEER!}
+		(A#"Come with me at once, Thetian! The Enclave is no longer safe!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001!MIND SEER!}
+		(B#"All I know is that this place isn't what it seems."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.002!MIND SEER!}
+		(C#"I'm... fine."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.003!MIND SEER!}
+		(D#"No time to waste! I must leave the wretched place!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.004!MIND SEER!}
+		(E#"An evil lurks here! One I'll destroy, but first I need power. Real power."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.005!MIND SEER!}
+		(F#"Not much. Just saw Vanargand, but Bore-menos here flipped out and fled."){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.006!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0000!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001!MIND SEER!]
 		||
-		*"What do you mean it is... unsafe?"*
-		(A#"The Choir of Archons is merely the shadow of the true 'Master' of the Order!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.011!MIND SEER!}
-		(B#"I have uncovered the secret history of the Enclave's origins."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
-		(E#"We have been deceived into slavery, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.015!MIND SEER!}
+		*"What do you mean it's... unsafe?"*
+		(A#"The Choir is merely the shadow of the Order's true 'Master'!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.011!MIND SEER!}
+		(B#"I've uncovered the secret history of the Enclave's origins!"){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
+		(E#"We've been duped into slavery, Brother!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.015!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.001!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.002!MIND SEER!]
 		||
-		*"What do you mean it is... not as it seems?"*
-		(A#"The Choir of Archons is merely the shadow of the true 'Master' of the Order!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.011!MIND SEER!}
-		(B#"I have uncovered the secret history of the Enclave's origins."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
-		(C#"There is so much we do not understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
+		*"What do you mean it's... not as it seems?"*
+		(A#"The Choir is merely the shadow of the Order's true 'Master'!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.011!MIND SEER!}
+		(B#"I've uncovered the secret history of the Enclave's origins!"){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
+		(C#"There's so much we don't yet understand, Brother..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.002!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.003!MIND SEER!]
@@ -230,30 +238,30 @@ THETIAN
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0031!MIND SEER!]
 		||	
-		*"Brother, I implore you; share with me your woes, that together we may find strength in each other."*
-		(B#"I have uncovered the secret history of the Enclave's origins."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
-		(C#"There is so much we do not understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
-		(D#"We are at the mercy of dark and uncaring forces!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.014!MIND SEER!}
+		*"Brother, please, share with me your woes, that together we may find strength in each other."*
+		(B#"I've uncovered the secret history of the Enclave's origins!"){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
+		(C#"There's so much we don't yet understand, Brother..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
+		(D#"We're at the mercy of dark and uncaring forces, Thetian!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.014!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0031!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.004!MIND SEER!]
 		||
-		*"But if you leave, they will send the Enforcers to retrieve you; and you know the Choir will not gently mete out a punishment for a deserter of the Order!"*
+		*"But if you leave, they'll just send the Enforcers to 'collect' you, and when they do, the Choir won't gently mete out punishment for a deserter!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0040!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.004!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0040!MIND SEER!]
 		||
-		*"Even knowing this you still wish to flee? Why?!"*
+		*"Even knowing this, you still wish to flee? Why?!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0041!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0040!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0041!MIND SEER!]
 		||
-		*"Brother, I implore you; share with me your woes, that together we may find strength in each other."*
-		(C#"There is so much we do not understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
-		(D#"We are at the mercy of dark and uncaring forces!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.014!MIND SEER!}
-		(E#"We have been deceived into slavery, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.015!MIND SEER!}
+		*"Brother, please, share with me your woes, that together we may find strength in each other."*
+		(C#"There's so much we don't yet understand, Brother..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
+		(D#"We're at the mercy of dark and uncaring forces, Thetian!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.014!MIND SEER!}
+		(E#"We've been duped into slavery, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.015!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0041!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.005!MIND SEER!]
@@ -264,75 +272,75 @@ THETIAN
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0050!MIND SEER!]
 		||
-		*"What has happened to make Brother Inquisitor draw such alarming conclusions?!"*
-		(A#"The Choir of Archons is merely the shadow of the true 'Master' of the Order!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.011!MIND SEER!}
-		(D#"We are at the mercy of dark and uncaring forces!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.014!MIND SEER!}
-		(E#"We have been deceived into slavery, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.015!MIND SEER!}
+		*"What led you to such alarming conclusions, Brother?!"*
+		(A#"The Choir is merely the shadow of the Order's true 'Master'!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.011!MIND SEER!}
+		(D#"We're at the mercy of dark and uncaring forces, Thetian!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.014!MIND SEER!}
+		(E#"We've been duped into slavery, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.015!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0050!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.006!MIND SEER!]
 		||
-		*"Vanargand?! You mean the very Mind of the Masters walks among our Order and we are blind to his wanderings!?"*
-		(A#"Were were tricked! And it is he who has tricked us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!}
-		(B#"Yes, he is behind the secret history of the Enclave."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
-		(C#"There is so much we do not understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
-		(F#"Hard to miss him: he's literally a giant in this book..."){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.016!MIND SEER!}
+		*"Vanargand?! You mean the very Mind of the Masters walks among us and we're blind to his wanderings!?"*
+		(A#"We were tricked! And it's he who tricked us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!}
+		(B#"Yes, he's behind the secret history of the Enclave."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!}
+		(C#"There's so much we don't yet understand, Brother..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
+		(F#"Hard to miss him - he's literally a giant tree dude in this book..."){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.016!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.006!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.011!MIND SEER!]
 		||
-		*"Brother, speak plainly: who is the true master of our Order?"*
-		(A#"The giant, the Sylvan Architect is real!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!}
-		(B#"The Architect of the Masters: Vanargand."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.006!MIND SEER!}
-		(E#"Suffice it to say that it is not us, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.025!MIND SEER!}
+		*"Brother, speak plainly. Who exactly is the true master of our Order?"*
+		(A#"The giant! The Sylvan Architect is real!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!}
+		(B#"None other than the very Architect of the Masters... Vanargand."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.006!MIND SEER!}
+		(E#"Suffice it to say that it's not us, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.025!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.011!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!]
 		||
-		*"Our Orders secret history?"*
+		*"Our Order's secret history?"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0120!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.012!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0120!MIND SEER!]
 		||
-		*"Though we know little, at least we know for certain our origins, Brother!"*
+		*"We may not know much, but at least we know for certain our origins, Brother!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0121!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0120!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0121!MIND SEER!]
 		||
-		*"Our Order was established by the Patrons of Wisdom: the twins Conquis and Guerniq along with their blood brother Skyl."*
+		*"Our Order was established by the Patrons of Wisdom, the twins Conquis and Guerniq along with their blood brother Skyl."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0122!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0121!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0122!MIND SEER!]
 		||
-		*"How could it be other than it is?"*
-		(A#"Were were tricked! And it is the Sylvan Architect who has tricked us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!}
-		(B#"Skyl may well be the Sylvan Architect, as well as Vanargand."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.022!MIND SEER!}
-		(C#"There is so much we do not understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
+		*"These are well documented facts."*
+		(A#"We were tricked! And it's the Sylvan Architect who tricked us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!}
+		(B#"Yes, and Skyl may well be the Sylvan Architect - as well as Vanargand."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.022!MIND SEER!}
+		(C#"There's so much we don't yet understand, Brother..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0122!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!]
 		||
-		*"This is true, but this is precisely why we have sacrificed everything, past, present and future, so that we could learn!"*
+		*"This is true, but this is precisely why we've sacrificed everything - past, present and future - so we could learn!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0130!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0130!MIND SEER!]
 		||
 		*"What could cause you to betray your purpose?"*
-		(B#"I don't want spoon-fed knowledge; I want wisdom. I must go now, farewell."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(B#"My purpose is unchanged, but time is short. Farewell, Thetian."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 		(C#"Then I must sacrifice it once more for freedom. Goodbye, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 		(D#"The shadow cast by the Sylvan Architect obscures 'true' knowledge!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.024!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0130!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.014!MIND SEER!]
 		||
-		*"Brother, speak plainly: what are these forces of which you speak?"*
-		(C#"There is so much we do not understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
-		(D#"We are out of time, Brother. I must flee, before it's too late."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(E#"Suffice it to say that we are to them as the ant is to us."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.025!MIND SEER!}
+		*"Brother, speak plainly. What are these forces of which you speak?"*
+		(C#"There's so much we don't yet understand, Brother..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
+		(D#"We're out of time, Brother! I must flee, before it's too late."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(E#"Suffice it to say that we are to them as mere ants are to us."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.025!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.014!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.015!MIND SEER!]
@@ -344,70 +352,70 @@ THETIAN
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0150!MIND SEER!]
 		||
 		*"We alone are learned among the fallen remnants of the Vanquished's children."*
-		(A#"Were were tricked! And it is the Sylvan Architect who has tricked us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!}
-		(D#"We are out of time, Brother. I must flee, before it's too late!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(A#"We were tricked! And it's the Sylvan Architect who tricked us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!}
+		(D#"We're out of time, Brother! I must flee, before it's too late!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 		(E#"We can never be free, unless we leave. Goodbye, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0150!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.016!MIND SEER!]
 		||
 		*"Book? Is this some theoretical musing you heard in the Mathetia or read of in the Muninn Grove?"*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0160!MIND SEER!}
+		(A#"Ugh, you've never read the Book of Eidos, so it's hard to explain."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0160!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.016!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0160!MIND SEER!]
 		||
 		*"Your words continue to puzzle me, Brother."*
-		(F#"By Biracul's balls, you're dense! Just follow me; this is how this story ends."){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(F#"Biracul's balls, you're dense! Just follow me; this is how this book ends."){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0160!MIND SEER!/]
 
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!]
 		||
-		*"Brother, the Sylvan Architect is but a widely discredited myth."*
+		*"Brother, the Sylvan Architect is just a widely discredited myth."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0210!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.021!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0210!MIND SEER!]
 		||
-		*"He is no more real than Conscientia; all learned magi of the Enclave agree upon this point."*
+		*"He's no more real than Conscientia. Among all theories and conjectures, this is the only one all learned magi of the Enclave agree on."*
 		(A#"All I can say is that if you wish to live, flee; otherwise, take care, Brother!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(B#"Absence of evidence is not sufficient evidence of absence. Goodbye, Brother."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(E#"The myth is false, but the being is real. I will leave it at that. Farewell."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(B#"Absence of evidence isn't evidence of absence. Goodbye, Brother."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(E#"The myth is false, but the being is real. I'll leave it at that. Farewell."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0210!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.022!MIND SEER!]
 		||
-		*"Long have I suspected that something as magnificent as the Enclave could have only been orchestrated by the destroyers of the Vanquished..."*
+		*"I suppose it stands to reason that something as magnificent as the Enclave could've only been orchestrated by the destroyers of the Vanquished..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0220!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.022!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0220!MIND SEER!]
 		||
-		*"But this is simply too much for me to believe without further proof; after all, Brother, the Sylvan Architect is but a widely discredited myth."*
+		*"But this is simply too much to take in, and where's the proof? After all, Brother, the Sylvan Architect is but a widely discredited myth."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0221!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0220!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0221!MIND SEER!]
 		||
-		*"He is no more real than Conscientia; all learned magi of the Enclave agree upon this point."*
+		*"He's no more real than Conscientia. Among all theories and conjectures, this is the only one all learned magi of the Enclave agree on."*
 		(A#"All I can say is that if you wish to live, flee; otherwise, take care, Brother!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(B#"Absence of evidence is not sufficient evidence of absence. Goodbye, Brother."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(C#"There is so much we do not understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
+		(B#"Absence of evidence isn't evidence of absence. Goodbye, Brother."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(C#"There's so much we don't yet understand, Brother..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0221!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.024!MIND SEER!]
 		||
-		*"Brother, the Sylvan Architect is but a widely discredited myth."*
+		*"Brother, the Sylvan Architect is just a widely discredited myth."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0240!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.024!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0240!MIND SEER!]
 		||
-		*"He is no more real than Conscientia; all learned magi of the Enclave agree upon this point."*
-		(C#"There is so much we do not understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
-		(D#"We are out of time, Brother. I must flee, before it's too late!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(E#"The myth is false, but the being is real. I will leave it at that. Farewell."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		*"He's no more real than Conscientia. Among all theories and conjectures, this is the only one all learned magi of the Enclave agree on."*
+		(C#"There's so much we don't yet understand, Brother."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.013!MIND SEER!}
+		(D#"We're out of time, Brother! I must flee, before it's too late!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(E#"The myth is false, but the being is real. I'll leave it at that. Farewell."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0240!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.025!MIND SEER!]
@@ -419,12 +427,12 @@ THETIAN
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0250!MIND SEER!]
 		||
 		*"What could cause you to betray your purpose?"*
-		(A#"All I can say is that if you wish to live, flee; otherwise, take care, Brother!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(D#"We are out of time, Brother. I must flee, before it's too late!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(E#"Strength does not come from following orders. Farewell, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(B#"My purpose is unchanged, but time is short. Farewell, Thetian."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(D#"We're out of time, Brother! I must flee, before it's too late!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(E#"Strength doesn't come from following orders. Farewell, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0250!MIND SEER!/]
 
-
+???
 running from CG
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.000!MIND SEER!]
 		||
