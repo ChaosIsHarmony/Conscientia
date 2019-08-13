@@ -432,75 +432,87 @@ THETIAN
 		(E#"Strength doesn't come from following orders. Farewell, Brother."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.0250!MIND SEER!/]
 
-???
+
 running from CG
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.000!MIND SEER!]
 		||
-		*"This place was the seat of my desires, but it seems as though I had merely too readily delivered my trust into the volatile once more..."*
+		*"This place was supposed to be the cradle for our withering dreams..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0000!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.000!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0000!MIND SEER!]
 		||
-		*"Will we ever be free, Brother Inquisitor?"*
-		(A#"Now is not the time for this, we must leave, Brother Mind Seer!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.001!MIND SEER!}
+		*"It was supposed to bring us freedom, Ormenos..."*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0001!MIND SEER!}
+	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0000!MIND SEER!/]
+
+	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0001!MIND SEER!]
+		||
+		*"But it's just another Jeran nightmare!"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0002!MIND SEER!}
+	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0001!MIND SEER!/]
+
+	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0002!MIND SEER!]
+		||
+		*"Will we ever be free?"*
+		(A#"Now isn't the time for this! We must leave, Thetian!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.001!MIND SEER!}
 		(B#"We can only be free if we keep our wits about us."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.002!MIND SEER!}
 		(C#"..."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.003!MIND SEER!}
-		(D#"In Kabu we will be free!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.004!MIND SEER!}
-		(E#"Shut up, fool! I will go to Kabu and you will join!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.005!MIND SEER!}
+		(D#"In Kabu there is true freedom! Now hurry!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.004!MIND SEER!}
+		(E#"Shut up, fool! Kabu has what we need! Now stop wasting time!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.005!MIND SEER!}
 		(F#"By Roostor's mighty comb! We're already free!"){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.006!MIND SEER!}
-	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0000!MIND SEER!/]
+	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0002!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.001!MIND SEER!]
 		||
-		*"No, of course, you're right, Brother."*
+		*"No, of course. You're right, Ormenos."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0010!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.001!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0010!MIND SEER!]
 		||
-		*"I simply feel overwhelmed."*
+		*"I'm just feeling a little... overwhelmed is all."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0011!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0010!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0011!MIND SEER!]
 		||
-		*"All that I have known is gone in an instant."*
+		*"All that we've known here just vanished - in the mere space of a thought..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0012!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0011!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0012!MIND SEER!]
 		||
-		*"A fragile flower consumed amid the conflagration."*
+		*"Reality is just a fragile flower consumed amid the conflagration."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0013!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0012!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0013!MIND SEER!]
 		||
-		*"All but the memory of it has been taken from me!"*
-		(A#"We are alive right now, Thetian! Now let's go!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.011!MIND SEER!}
+		*"All but the memory of it has been taken from us!"*
+		(A#"We're alive right now, Thetian! That's all that matters!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.011!MIND SEER!}
 		(B#"All can be overcome with Awareness and Discipline."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.012!MIND SEER!}
-		(E#"You are weak, but I will guide you to strength. We travel to Kabu!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.015!MIND SEER!}
+		(E#"You're weak, but I'll guide you to strength. We travel to Kabu!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.015!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0013!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.002!MIND SEER!]
 		||
-		*"No, of course, you're right, Brother..."*
+		*"No, of course. You're right, Ormenos..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0020!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.002!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0020!MIND SEER!]
 		||
-		*"But what can we do in the face of such supernatural horrors?"*
+		*"But you saw those... those monsters! What can we do in the face of such supernatural horrors?!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0021!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0020!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0021!MIND SEER!]
 		||
-		*"How could we ever persevere?!"*
-		(A#"We are alive right now, are we not? Now we must leave!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.011!MIND SEER!}
-		(B#"Nothing is supernatural; we will learn about it and thus gain mastery of it!"){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.012!MIND SEER!}
-		(C#"Pessimism is as much a choice as optimism. We can either proceed or forfeit."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.013!MIND SEER!}
+		*"The Masters ruin us to this very day! There's no escape!"*
+		(A#"We're alive right now, aren't we? Let's keep it that way. Come on!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.011!MIND SEER!}
+		(B#"Nothing is supernatural. Learn enough, and you become a master."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.012!MIND SEER!}
+		(C#"Pessimism is as much a choice as optimism. Proceed or forfeit."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.013!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0021!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.003!MIND SEER!]
@@ -511,15 +523,15 @@ running from CG
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0030!MIND SEER!]
 		||
-		*"So then even you agree that we are doomed to live in fear under the shadows cast by our supernatural masters?!"*
-		(B#"Nothing is supernatural; we will learn about it and thus gain mastery of it!"){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.012!MIND SEER!}
-		(C#"Pessimism is as much a choice as optimism. We can either proceed or forfeit."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.013!MIND SEER!}
-		(D#"You are free you give up, but I will survive!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.014!MIND SEER!}
+		*"So then even you agree that we're doomed! Forced to live in fear under the shadows cast by our supernatural masters?!"*
+		(B#"Nothing is supernatural. Learn enough, and you become a master."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.012!MIND SEER!}
+		(C#"Pessimism is as much a choice as optimism. Proceed or forfeit."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.013!MIND SEER!}
+		(D#"You're free to cower and quit! But me? No, I'll survive!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.014!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0030!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.004!MIND SEER!]
 		||
-		*"And Kabu is somehow immune to and beyond the grasp of our supernatural masters?!"*
+		*"And Kabu is somehow beyond their grasp?!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0040!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.004!MIND SEER!/]
 
@@ -531,15 +543,15 @@ running from CG
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0041!MIND SEER!]
 		||
-		*"How could we ever possibly hope to escape their reach!?"*
-		(C#"Pessimism is as much a choice as optimism. We can either proceed or forfeit."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.013!MIND SEER!}
-		(D#"You are free you give up, but I will survive!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.014!MIND SEER!}
-		(E#"You are weak, but I will guide you to strength. We travel to Kabu!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.015!MIND SEER!}
+		*"How could we ever possibly hope to escape those monsters' reach!?"*
+		(C#"Pessimism is as much a choice as optimism. Proceed or forfeit."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.013!MIND SEER!}
+		(D#"You're free to cower and quit! But me? No, I'll survive!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.014!MIND SEER!}
+		(E#"You're weak, but I'll guide you to strength. We travel to Kabu!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.015!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0041!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.005!MIND SEER!]
 		||
-		*"And Kabu is somehow immune to and beyond the grasp of our supernatural masters?!"*
+		*"And Kabu is somehow beyond their grasp?!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0050!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.005!MIND SEER!/]
 
@@ -558,14 +570,14 @@ running from CG
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0052!MIND SEER!]
 		||
 		*"OUR DEATH IS INEVITABLE!!"*
-		(A#"We are alive right now, are we not? Now we must leave!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.011!MIND SEER!}
-		(D#"You are free you give up, but I will survive!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.014!MIND SEER!}
-		(E#"You are weak, but I will guide you to strength. We travel to Kabu!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.015!MIND SEER!}
+		(A#"We're alive right now, you idiot! Now let's keep it that way!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.011!MIND SEER!}
+		(D#"You're free to cower and quit! But me? No, I'll survive!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.014!MIND SEER!}
+		(E#"You're weak, but I'll guide you to strength. We travel to Kabu!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.015!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0052!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.006!MIND SEER!]
 		||
-		*"We are?"*
+		*"We... we are?"*
 		(F#"Well, not you. But I can do whatever I want!"){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.016!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.006!MIND SEER!/]
 
@@ -584,35 +596,35 @@ running from CG
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0111!MIND SEER!]
 		||
-		*"And though I remain fearful, I likewise remain with a desire to persist."*
+		*"Sorry, I'm just so afraid."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0112!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0111!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0112!MIND SEER!]
 		||
-		*"What is it we must do, Brother?"*
-		(A#"We will travel to Kabu."){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0113!MIND SEER!}
+		*"What do we need to do to survive, Ormenos?"*
+		(A#"We'll travel to Kabu."){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0113!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0112!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0113!MIND SEER!]
 		||
 		*"Why there of all places...? Is there a connection with the Thought Wheel of the Beginning?!"*
-		(A#"Yes, only there can we transcend these evils which haunt us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0114!MIND SEER!}
-		(B#"According to my findings, it is likely to be located in Kabu."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0114!MIND SEER!}
-		(E#"We will go and find out."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0114!MIND SEER!}
+		(A#"Yes, and it holds the key to true power! To transcendence!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0114!MIND SEER!}
+		(B#"According to my findings, it's likely located in Kabu."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0114!MIND SEER!}
+		(E#"Don't ask so many questions. We have to go!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0114!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0113!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0114!MIND SEER!]
 		||
-		*"Then we should first travel to Jer; for from there we can go to Zemes by sea."*
+		*"Then we should first travel to Jer... From there we can go to Zemes by sea..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0115!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0114!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0115!MIND SEER!]
 		||
-		*"And then we can proceed from Zemes to Kabu by land; it is the safest way."*
-		(A#"Let's go! Together, Brother."){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(B#"I hope it is the most efficient way."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		*"And then we can proceed from Zemes to Kabu by land; it's the safest way."*
+		(A#"Let's go! Together, Thetian."){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(B#"It's the most efficient way. Time to go."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 		(E#"Then follow me!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0115!MIND SEER!/]
 
@@ -630,35 +642,59 @@ running from CG
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0121!MIND SEER!]
 		||
-		*"And we had made great strides towards progress before this tragedy, so perhaps we can rebuild..."*
+		*"Even now you hold to it? With all things falling apart..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0122!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0121!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0122!MIND SEER!]
 		||
-		*"What is it we must do, Brother?"*
-		(B#"We will travel to Kabu."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0123!MIND SEER!}
+		*"I've always admired your strength, Ormenos."*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0123!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0122!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0123!MIND SEER!]
 		||
-		*"Why there of all places...? Is there a connection with the Thought Wheel of the Beginning?!"*
-		(A#"Yes, only there can we transcend these evils which haunt us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0124!MIND SEER!}
-		(B#"According to my findings, it is likely to be located in Kabu."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0124!MIND SEER!}
-		(C#"The possibility exists."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0124!MIND SEER!}
+		*"I've always relied on it."*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0124!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0123!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0124!MIND SEER!]
 		||
-		*"Then we should first travel to Jer, for from there we can go to Zemes by sea. Then we can proceed from Zemes to Kabu by land; it is the safest way."*
-		(A#"Let's go! Together, Brother."){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(B#"I hope it is the most efficient way."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(C#"All is as it should be."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		*"Thank you. I feel better now. Still afraid, but at least willing to try."*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0125!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0124!MIND SEER!/]
+
+	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0125!MIND SEER!]
+		||
+		*"Lead me, Ormenos. What should we do next?"*
+		(B#"We travel to Kabu."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0126!MIND SEER!}
+	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0125!MIND SEER!/]
+
+	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0126!MIND SEER!]
+		||
+		*"Why there of all places...? Is there a connection with the Thought Wheel of the Beginning?!"*
+		(A#"Yes, and it holds the key to true power! To transcendence!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0127!MIND SEER!}
+		(B#"According to my findings, it's likely located in Kabu."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0127!MIND SEER!}
+		(C#"The possibility exists."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0127!MIND SEER!}
+	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0126!MIND SEER!/]
+
+	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0127!MIND SEER!]
+		||
+		*"Then we should first travel to Jer... From there we can go to Zemes by sea..."*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0128!MIND SEER!}
+	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0127!MIND SEER!/]
+
+	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0128!MIND SEER!]
+		||
+		*"And then we can proceed from Zemes to Kabu by land; it's the safest way."*
+		(A#"Let's go! Together, Thetian."){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(B#"It's the most efficient way. Time to go."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(C#"All is as it should be."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0128!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.013!MIND SEER!]
 		||
-		*"...Your positivity in the face of catastrophe astonishes me, Brother."*
+		*"Your... positivity... astonishes me, Ormenos."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0130!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.013!MIND SEER!/]
 
@@ -670,170 +706,164 @@ running from CG
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0131!MIND SEER!]
 		||
-		*"So why focus on the possibility of failure, when success is equally likely given sufficient preparations?"*
+		*"So why focus on the possibility of failure, when success is equally likely - given sufficient preparations?"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0132!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0131!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0132!MIND SEER!]
 		||
-		*"Fine, Brother, I will defer to your judgment and I will follow you."*
+		*"I concede. I'll defer to your judgment and follow you... to the ends of the Earth!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0133!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0132!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0133!MIND SEER!]
 		||
-		*"What is it we must do?"*
-		(C#"Let's first leave this place and go to Kabu."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0134!MIND SEER!}
+		*"What do we do next?"*
+		(C#"We go to Kabu."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0134!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0133!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0134!MIND SEER!]
 		||
 		*"Why there of all places...? Is there a connection with the Thought Wheel of the Beginning?!"*
-		(B#"According to my findings, it is likely to be located in Kabu."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0135!MIND SEER!}
+		(B#"According to my findings, it's likely located in Kabu."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0135!MIND SEER!}
 		(C#"The possibility exists."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0135!MIND SEER!}
-		(D#"I did not spend years mining the Wayfarer's mind for naught..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0135!MIND SEER!}
+		(D#"Oh, I didn't spend years mining the Wayfarer's mind for naught..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0135!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0134!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0135!MIND SEER!]
 		||
-		*"Then we should first travel to Jer, for from there we can go to Zemes by sea."*
+		*"Then we should first travel to Jer... From there we can go to Zemes by sea..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0136!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0135!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0136!MIND SEER!]
 		||
-		*"And then we can proceed from Zemes to Kabu by land; it is the safest way."*
-		(B#"I hope it is the most efficient way."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		*"And then we can proceed from Zemes to Kabu by land; it's the safest way."*
+		(B#"It's the most efficient way. Time to go."){B:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 		(C#"All is as it should be."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(D#"I hope it is the safest way..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(D#"Yes, yes. No time to waste!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0136!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.014!MIND SEER!]
 		||
-		*"For survival is prerequisite to progress..."*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0140!MIND SEER!}
+		*"Survive?! Even with those monsters at large?! Ha... Are you serious?"*
+		(A#"Yes, really. He survives in the end is the true victor!"){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0140!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.014!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0140!MIND SEER!]
 		||
-		*"I thank you, Brother; I feel that am now able to think more clearly."*
+		*"...Your courage inspires strength, Ormenos."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0141!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0140!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0141!MIND SEER!]
 		||
-		*"But I need still ask: What is it we must do?"*
-		(D#"We will make for the safety of Kabu!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0142!MIND SEER!}
+		*"But how do we survive?"*
+		(D#"We make for the safety of Kabu!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0142!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0141!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0142!MIND SEER!]
 		||
 		*"Why there of all places...? Is there a connection with the Thought Wheel of the Beginning?!"*
 		(C#"The possibility exists."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0143!MIND SEER!}
-		(D#"I did not spend years mining the Wayfarer's mind for naught..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0143!MIND SEER!}
-		(E#"We will go and find out."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0143!MIND SEER!}
+		(D#"Oh, I didn't spend years mining the Wayfarer's mind for naught..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0143!MIND SEER!}
+		(E#"Don't ask so many questions. We have to go!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0143!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0142!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0143!MIND SEER!]
 		||
-		*"Then we should first travel to Jer, for from there we can go to Zemes by sea."*
+		*"Then we should first travel to Jer... From there we can go to Zemes by sea..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0144!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0143!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0144!MIND SEER!]
 		||
-		*"Then we can proceed from Zemes to Kabu by land; it is the safest way."*
+		*"And then we can proceed from Zemes to Kabu by land; it's the safest way."*
 		(C#"All is as it should be."){C:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(D#"I hope it is the safest way..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(D#"Yes, yes. No time to waste!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 		(E#"Then follow me!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0144!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.015!MIND SEER!]
 		||
-		*"I am indeed weak, Ormenos!"*
+		*"Weak? Who isn't compared to those monsters?!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0150!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.015!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0150!MIND SEER!]
 		||
-		*"But in the face of those unnamed horrors, whose knees would not buckle under the oppressive weight of fear?!"*
+		*"How do you remain so confident despite seeing the maddening difference between them and us?!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0151!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0150!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0151!MIND SEER!]
 		||
-		*"How is it you remain so confident despite seeing the maddening difference between us?!"*
+		*"We are to them as an ant is to us - helpless, ignorant, insignificant!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0152!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0151!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0152!MIND SEER!]
 		||
-		*"We are to them as an ant is to us: helpless, ignorant and insignificant."*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0153!MIND SEER!}
+		*"Tell me what can anyone hope to do against the Masters?!"*
+		(E#"We get stronger - strong enough to make them tremble!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0154!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0152!MIND SEER!/]
-
-	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0153!MIND SEER!]
-		||
-		*"Tell me what can we do against such terrible beasts?!"*
-		(E#"We can get stronger. Strong enough to make them tremble."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0154!MIND SEER!}
-	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0153!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0154!MIND SEER!]
 		||
 		*"And how would we do that?"*
-		(E#"You will come with me to Kabu and find out."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0155!MIND SEER!}
+		(E#"When we get to Kabu you'll see."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0155!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0154!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0155!MIND SEER!]
 		||
-		*"Why there of all places...? Is there a connection with the Thought Wheel of the Beginning?!"*
-		(A#"Yes, only there can we transcend these evils which haunt us!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0156!MIND SEER!}
-		(D#"I did not spend years mining the Wayfarer's mind for naught..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0156!MIND SEER!}
-		(E#"We will go and find out."){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0156!MIND SEER!}
+		*"Kabu? Why there of all places...? Is there a connection with the Thought Wheel of the Beginning?!"*
+		(A#"Yes, and it holds the key to true power! To transcendence!"){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0156!MIND SEER!}
+		(D#"Oh, I didn't spend years mining the Wayfarer's mind for naught..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0156!MIND SEER!}
+		(E#"Don't ask so many questions. We have to go!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0156!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0155!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0156!MIND SEER!]
 		||
-		*"Then we should first travel to Jer, for from there we can go to Zemes by sea."*
+		*"Then we should first travel to Jer... From there we can go to Zemes by sea..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0157!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0156!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0157!MIND SEER!]
 		||
-		*"And then we can proceed from Zemes to Kabu by land; it is the safest way."*
-		(A#"Let's go! Together, Brother."){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
-		(D#"I hope it is the safest way..."){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		*"And then we can proceed from Zemes to Kabu by land; it's the safest way."*
+		(A#"Yes. Now come with me, Thetian."){A:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		(D#"Yes, yes. No time to waste!"){D:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 		(E#"Then follow me!"){E:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0157!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.016!MIND SEER!]
 		||
-		*"You toy with my emotions even in such a dire time, Brother?"*
-		(F#"Look, if you read the other book, you and I end up going to Kabu. So let's get on it!"){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0160!MIND SEER!}
+		*"You pull at the fraying threads of my sanity, do you?"*
+		(F#"Look, you and I end up going to Kabu according to the first book, so..."){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0160!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.016!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0160!MIND SEER!]
 		||
-		*"I am confused and uncertain of the meaning of your words..."*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0161!MIND SEER!}
+		*"I'm confused... Are you trying to rebuild or demolish what remains of my tenuous grip on reality?"*
+		(F#"Ooo, tough question! Both?"){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0161!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0160!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0161!MIND SEER!]
 		||
-		*"Though one thing at least is undeniably true: you saved me from certain death back in the courtyard."*
+		*"...Though one thing at least is undeniably true: you did save me from certain death back in the courtyard."*
 		(F#"Sho' nuff!"){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0162!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0161!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0162!MIND SEER!]
 		||
-		*"Had you not pulled me from the edge of madness, I would have surely been lost forever..."*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0163!MIND SEER!}
+		*"Had you not pulled me from the edge of madness, I would've... well, who knows what would've happened?"*
+		(F#"You'd have died - I'm 110% certain about that."){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0163!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0162!MIND SEER!/]
 
 	[/ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0163!MIND SEER!]
 		||
-		*"I will travel with you, wherever it may be, Brother."*
-		(F#"Great, now let's move the plot forward!"){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
+		*"Right. In any event, if you will lead me once more to salvation, I'll follow you, Ormenos."*
+		(F#"TALLY HO! Now let's move the plot forward!"){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!9999.X9999!MIND SEER!}
 	[ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!10.0163!MIND SEER!/]
 
 
@@ -848,7 +878,7 @@ STONE CIRCLE
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X000!DESCRIPTION!/]
 
 
-
+???
 Virgin run
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!DESCRIPTION!]
 		||

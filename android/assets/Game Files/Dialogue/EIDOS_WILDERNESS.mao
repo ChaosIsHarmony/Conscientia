@@ -1636,7 +1636,7 @@ TACRIBA
 from sanc
 	[/KABU!WILDERNESS!TACRIBA!0.001!DESCRIPTION!]
 		||
-		*Eidos scans the ruins now making up her surroundings, witnessing the remains of what once was a bustling town. Though the place appears to have lain deserted for uncounted centuries, the buildings yet stand, all but unscathed by the passage of time. Jutting up from the ground like teeth in some beastial maw are thick shards of glass, wider than Eidos is tall and twice again her height. As she walks by, these jagged fangs seem to shimmer in the meager light of the environs.
+		*Eidos scans the ruins now making up her surroundings, witnessing the remains of what once was a bustling town. Though the place appears to have lain deserted for uncounted centuries, the buildings yet stand, all but unscathed by the passage of time. Jutting up from the ground like teeth in some bestial maw are thick shards of glass, wider than Eidos is tall and twice again her height. As she walks by, these jagged fangs seem to shimmer in the meager light of the environs.
 		
 		What light does bathe the abandoned settlement appears to come from a break in the massive stone dome that shelters the place. Though, upon closer inspection the area is far too well illuminated for this to be the case. Turning her attention to the dome itself, Eidos discovers a subtle translucence to it, its stony appearance the result of the sun's rays being scattered, refracted and otherwise disturbed.*
 		(A#Walk through the opening){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!}

@@ -13,9 +13,11 @@ ANTECHAMBER
 leaving the antechamber
 [/KABU!SANCTUARY!ANTECHAMBER!0.200!DESCRIPTION!]
 		||
-		*Step summing upon step, an apparently unending ascension skywards up the shaft of a large square tower tries Eidos' patience, stretching it to a hair's breadth. That she makes her way up is clear; that there is any reward in this climb remains a mystery.
+		*Feet guide her to the rising stairs. This stairwell is large, but not so large as the one below. Further differences arise in the square shape and lack of railing. But a kindred trait does it find in that here, too, all light is natural light seeping in through an opening at its zenith.
 		
-		But as she presses on and climbs up, the passage seems to get ever warmer, and in time, she reaches the top, evidenced by the now visible portal inviting her to exit the indifferent infinity of stairs.*
+		She begins her climb. Step summing upon step, an apparently unending ascension skywards up the shaft of a large square tower tries Eidos' patience, stretching it to a hair's breadth. That she makes her way up is clear; that there is any reward in this climb remains a mystery.
+		
+		But as she presses on, the passage seems to get ever warmer, and in time, she reaches the top - evidenced by the now visible portal inviting her to exit the indifferent infinity of stairs.*
 		(A#...){A:0,KABU!WILDERNESS!TACRIBA!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.200!DESCRIPTION!/]
 	
@@ -49,9 +51,9 @@ Crystal unchanged
 	
 	[/KABU!SANCTUARY!ANTECHAMBER!1.002!DESCRIPTION!]
 		||
-		*The portcullis, large and of metallic construction as it is, promises to resist motion with all the might of its unparalleled ally: gravity. Beyond it is a lengthy bridge, scaled like a shimmering serpent, slithering across the chasm it overlooks.
+		*The portcullis, large and of metallic construction as it is, promises to resist motion with all the might of gravity - its indefatigable ally. Peering through its checkered apertures, Eidos' eyes overcome the barrier that would thwart her Falseflesh's progress. Beyond it is a lengthy bridge, scaled like a shimmering serpent, slithering across the chasm it overlooks.
 		
-		The serpentine bridge seems to terminate at a similar gateway on the opposite end of the chasm, though no portcullis obstructs passage there. To the left of the portcullis seems to be an apparatus or mechanism by which it is lifted through some trick of magic or artifice - likely related to the inert crystal it houses.*
+		The serpentine bridge seems to terminate at a similar gateway, at the opposite end of the chasm, though no portcullis obstructs passage there. To the left of the portcullis seems to be an apparatus or mechanism by which it is lifted through some trick of magic or artifice - likely related to the inert crystal it houses.*
 		(A#Return attention to the room){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(B#Examine the mechanism){B:0,KABU!SANCTUARY!ANTECHAMBER!1.X003!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.002!DESCRIPTION!/]
