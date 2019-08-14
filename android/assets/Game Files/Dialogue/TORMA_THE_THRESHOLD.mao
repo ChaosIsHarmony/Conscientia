@@ -878,43 +878,47 @@ STONE CIRCLE
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X000!DESCRIPTION!/]
 
 
-???
+
 Virgin run
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!DESCRIPTION!]
 		||
-		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. Only two sources cast light into the area: one high above, a vast hole in the skin of the mountain, illuminating an arrangement of stones laid out in concentric circles right outside the entrance to the underhalls; the other, a gargantuan door in a bulwark of perfectly-masoned granite blocks walling off the cave mouth leading to the outside world.*
+		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. A vast gash in the mountain's skin high above showers light down on an arrangement of stones - rippling out from a central Muninn. At the other end of the courtyard, a gargantuan door in a bulwark of perfectly-masoned granite walls off the cave mouth leading to the outside world. The diminutive apertures in the thick wall allow minor and fleeting incursions from the light, but little else can penetrate so mighty a defense.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0010!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0010!DESCRIPTION!]
 		||
-		*The light is sufficient to keep at bay the ignorance entrenched within the world of shadows, but it is clearly only enough to give the illusion of understanding. Truly, far more of the surroundings remain shrouded in darkness than unveiled in light.*
+		*Only near the Stone Circle and the great bulwark is the light sufficient to keep at bay the ignorance entrenched within the world of shadows. All illumination here otherwise faces summary annihilation as it collides with the darkness, thus leaving the true dimensions of this place an utter mystery. Though a crystalline lattice could easily rectify the deficiency, the Order's forebearers had always preferred the courtyard's shadowy shroud, and the current roster of magi seem to have inherited this willful oblivion.*
 		(A#Return to the Underhalls of the Enclave){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
 		(B#Study the Stone Circle){B:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0011!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0010!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0011!DESCRIPTION!]
 		||
-		*Ormenos walks out into the Stone Circle and starts to examine the swirling patterns etched upon the rock. All that is known about these circles is that they predate even the Vanquished and were later re-purposed as primitive altars to the worship of the Biracul - a typical custom of the savage people's after the Punishing Wars had decimated what remained of reason and will following the demise of the Vanquished.*
+		*Ormenos walks out into the Stone Circle and starts to examine the bizarre, swirling patterns etched into the rock faces. All the Order knows about these circles is that they predate even the Vanquished, and that they were later re-purposed as primitive altars to the worship of the Biracul - a tradition beginning only after the Punishing Wars had decimated what little remained of reason.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0012!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0011!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0012!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0013!DESCRIPTION!|
-		*It is then that Ormenos becomes aware of a presence. A fellow Enclavean with judicious eyes that have seen far more than their youth should permit. A earthy-haired boy sits among the stones in a burlap robe marked by the insignia of the Order. He seems as though caught in reverie, yet his gaze pierces straight through Ormenos' Trueflesh, just as though he could fathom the darkest depths Ormenos dare not even explore himself...*
+		*Suddenly, Ormenos becomes aware of a presence: a fellow Enclavean with judicious eyes that have seen far more than their youth should permit. A baby-faced lad - hair darker than soil and sporting an ill-advised mustache - sits among the stones in a burlap robe marked with the insignia of the Order. He looks to be caught in reverie, yet his gaze pierces straight through Ormenos' Trueflesh, just as though he could fathom the darkest depths Ormenos dare not even explore himself...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0012!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0013!DESCRIPTION!]
 		||
-		*Babel rises, solemnly bows his head and takes his leave. Ormenos remains momentarily, processing what transpired. He feels powerless, as though struggling to control a rudderless ship, purely at the mercy of the waves and the winds...
-		
-		Eventually, however, he composes himself and seeks to proceed.*
-		(A#Return to the Underhalls of the Enclave){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
-		(B#Exit the courtyard){B:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
+		*Babel rises, deferentially bows his head, and subsequently takes his leave. Ormenos remains motionless, processing what has just transpired. He feels powerless, as though struggling to control a rudderless ship in a storm of merciless waves and implacable winds...*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0014!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0013!DESCRIPTION!/]
 
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0014!DESCRIPTION!]
+		||
+		*But this too passes - as it always seems to do. Eventually, he composes himself and seeks to proceed. For what more could he do?*
+		(A#Return to the Underhalls of the Enclave){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
+		(B#Exit the courtyard){B:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0014!DESCRIPTION!/]
 
+???
 Met Babel but not this playthrough
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!DESCRIPTION!]
 		||
