@@ -1201,7 +1201,7 @@ UNUSED???
     These memories, both constructed and real, come pouring forth from the depths of his soul, culminating in a clarion cry of absolute pain. His vision blurs, all colors merging, gaining in brightness and intensity. Soon all he sees is white. And in a flash of blinding light, his body disappears.#
 [89/]
 
-EDIT???
+
 [/90]
 	*BEFORE THE FALL - III
 	
@@ -1280,7 +1280,7 @@ _____________MINDSCAPE NPCs_________
 	$Glyphs/Awareness Glyph.png$
 	#Hel, the first child of Vanargand. The imperceptible shadow of thought is the Emerald Architect's only daughter, dwelling alone in timeless death on the other side of the Door of Night. 
 	
-	A creature native to the Graylands yet existing on its periphery, She is devoid of meaning or voice. Her countenance is so abhorrent to behold that it is capable of slaying the sum of all that is.#
+	A creature native to the Graylands yet existing on its periphery, she is devoid of meaning or voice. Her countenance is so abhorrent to behold that it is capable of slaying the sum of all that is.#
 [101/]
 
 [/102]
@@ -1332,7 +1332,7 @@ _____________MINDSCAPE NPCs_________
 	*FAMLICUS*
 	@Famlicus@
 	$Glyphs/Awareness Glyph.png$
-	#Famlicus. Famlaz. The Ruby Jinn. Rust-covered Hamlik. Thinker of the Jinetes, his command of the mind was unrivaled. Yet, the more he understood, the more his thoughts would warp the fabric of his subject. His victims minds would deform, twisting, corrupting until they were again unknown to him.
+	#Famlicus. Famlaz. The Ruby Jinn. Rust-covered Hamlik. Thinker of the Jinetes, his command of the mind was unrivaled. Yet, the more he understood, the more his thoughts would warp the fabric of his subject. His victims' minds would deform - twisting, corrupting - until they were again unknown to him.
 	
 	Worshiped as a god of change and trickery, his only children were lies. Many of his offspring still live on in the minds of man, some even birthing successors of their own.#
 [108/]

@@ -1297,7 +1297,7 @@ Out as Ormenos CG
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.012!DESCRIPTION!/]
 
 
-
+???
 BABEL
 >>>Already know Babel is the Prime Archon (2032)<<<
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X000!BABEL!]
@@ -1308,20 +1308,14 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0000!BABEL!]
 		||
-		*"What brings you here?"*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0001!BABEL!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0000!BABEL!/]
-
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0001!BABEL!]
-		||
-		*"Are you not supposed to be giving your report to the Choir of Archons?"*
+		*"What brings you here? I thought you'd be giving your report to the Choir of Archons about now..."*
 		(A#"I should, but I'm looking first for some discussion."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!BABEL!}
 		(B#"Indeed, but I want to first reflect upon my findings."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!BABEL!}
-		(C#"Maybe I should go..."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
+		(C#"Right, then maybe I should go..."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
 		(D#"The Choir has waited this long; what's an hour more?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!BABEL!}
-		(E#"They will wait until I am ready."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.005!BABEL!}
+		(E#"They'll wait until I'm ready."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.005!BABEL!}
 		(F#"They'll probably just lock me up for the weird stuff I say..."){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.006!BABEL!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0001!BABEL!/]
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0000!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!BABEL!]
 		||
@@ -1331,10 +1325,10 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0010!BABEL!]
 		||
-		*"Well, as but a junior mage of the Order I'm unsure of what help I could afford on that front, though I can certainly try my best."*
-		(A#"I have found what the Choir seeks."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.011!BABEL!}
-		(B#"The Wayfarer was able to sense my presence."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.012!BABEL!}
-		(E#"Then I will waste no more time on you."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
+		*"Well, not sure what help a junior Thought-Weaver such as myself could afford on that front, though I can certainly try my best."*
+		(A#"Thanks, Brother. Thing is, I think I've found what the Choir seeks."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.011!BABEL!}
+		(B#"You see, the Wayfarer was able to sense my presence."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.012!BABEL!}
+		(E#"True; I imagine even your best won't be good enough."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0010!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!BABEL!]
@@ -1345,83 +1339,83 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0020!BABEL!]
 		||
-		*"Indeed there could be no finer place to reflect than this courtyard and especially this Stone Circle!"*
+		*"Indeed there could be no finer place to reflect than this courtyard - and especially this Stone Circle!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0020!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0021!BABEL!]
 		||
-		*"Merely basking in the warmth of its natural energies fills the Trueflesh with inspiration!"*
+		*"Merely basking in the warmth of its natural energies fills the Trueflesh with life!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0022!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0021!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0022!BABEL!]
 		||
 		*"What is it you wish to reflect upon, Brother?"*
-		(A#"I have found what the Choir seeks."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.011!BABEL!}
-		(B#"The subject was able to sense my presence."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.012!BABEL!}
-		(C#"I just need time to think."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.013!BABEL!}
+		(A#"Well, I think I've found what the Choir seeks."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.011!BABEL!}
+		(B#"That the subject was able to sense my presence."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.012!BABEL!}
+		(C#"Nothing, really. I just need time to think."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.013!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0022!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!]
 		||
-		*"Yes, perhaps it is best to go swiftly and dutifully give your report."*
+		*"Yes, perhaps it's better to go give your report sooner rather than later, Brother."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0030!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0030!BABEL!]
 		||
-		*"After all, the Choir is legendary for its intolerance of negligence..."*
+		*"After all, the Choir is legendary for its strictness regarding proper protocol..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0031!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0030!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0031!BABEL!]
 		||
-		*"So please do not tarry."*
-		(C#"Then I shall take my leave."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
+		*"I hope the Choir sings favorably for you - and for the good of the Order!"*
+		(C#"Sure."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0031!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!BABEL!]
 		||
-		*"Brother!"*
+		*"Wha... What are you saying, Brother!?"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0040!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0040!BABEL!]
 		||
-		*"You are a senior member of our Order, what could possess you to neglect your duties so?"*
+		*"You're a senior member of our Order; what could possess you to neglect your duties so?"*
 		(C#"I just need time to think."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.013!BABEL!}
-		(D#"...I am sworn to secrecy; I couldn't possibly tell you."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
-		(E#"I will waste no more time on you."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
+		(D#"...I'm sworn to secrecy; I couldn't possibly tell you."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
+		(E#"I've waste enough time on you, boy."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0040!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.005!BABEL!]
 		||
-		*"Brother!"*
+		*"Wha... What are you saying, Brother!?"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0050!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.005!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0050!BABEL!]
 		||
-		*"You are a senior member of our Order, what could possess you to neglect your duties so?"*
-		(A#"Because I have found what the Choir seeks."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.011!BABEL!}
-		(D#"...I am sworn to secrecy; I couldn't possibly tell you."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
-		(E#"I will waste no more time on you."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
+		*"You're a senior member of our Order; what could possess you to neglect your duties so?"*
+		(A#"Because I think I've found what the Choir seeks."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.011!BABEL!}
+		(D#"...I'm sworn to secrecy; I couldn't possibly tell you."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
+		(E#"I've waste enough time on you, boy."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0050!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.006!BABEL!]
 		||
-		*"...You have been somewhat odd, lately..."*
+		*"...You've been somewhat... odd... lately, Brother."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0060!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.006!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0060!BABEL!]
 		||
-		*"Is it the stress of the Mind-Loom weighing upon your Trueflesh?"*
+		*"Is it the stress of the Mind-Loom?"*
 		(F#"No, just when I'm given the option to do weird things, I do them!"){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.016!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0060!BABEL!/]
 
-
+???
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.011!BABEL!]
 		||
 		*"You have?!"*

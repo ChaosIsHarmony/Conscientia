@@ -110,7 +110,7 @@ came from Crypt of Archons
 BABEL
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!BABEL!]
 		|@:ENCLAVE!THE NAVE!ARCHONS' APSE!0.001!BABEL!|
-		*"Brother Inquisitor, come forth to kneel before your predecessors; come pay tribute to their selfless contributions to our Order."*
+		*"Brother Inquisitor, approach and kneel before your predecessors; come pay tribute to their selfless contributions to our Order."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!9999.X9999!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.X000!BABEL!/]
 
@@ -140,7 +140,7 @@ BABEL
 
 	[/ENCLAVE!THE NAVE!ARCHONS' APSE!0.00110!BABEL!]
 		||
-		*"These statues are more than mere onyx: they are crystallized memory with an awareness of their own; they are the fate of all Prime Archons."*
+		*"These statues are more than mere onyx: they are crystallized memory with an awareness of their own... they are the fate of all Prime Archons."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!ARCHONS' APSE!0.00111!BABEL!}
 	[ENCLAVE!THE NAVE!ARCHONS' APSE!0.00110!BABEL!/]
 

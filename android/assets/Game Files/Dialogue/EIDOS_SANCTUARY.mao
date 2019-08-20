@@ -853,8 +853,8 @@ ARCHIVES
 		*Her footfalls echo off into the immense darkness, as though fleeing from some unseen evil. Cracked tiles complain with every step. Deep into the hall, stands a massive tree, its tremendous trunk bursting forth from the floor in defiance of the rigid granite. Though it was no doubt mighty in its prime, splintering bark and leafless branches betray its current frailty. Charred gashes in its roots weakly pulsate with a dying, greenish luminescence while exposing the tree's ancient innards.
 		
 		Incredibly, this tree is clearly visible despite the hall's pervading darkness. Dimly it glows, as if caught in the fading rays of twilight. The absence of an obvious source of light suggests that the tree is made visible through some inner power - one as frail and decayed as the withered giant itself.
-
-        Although much of the room's illumination seems to come from the interaction between the tree and her vision, Eidos also senses a faint, green glow oozing in from the depths of the underground Archive - its source yet invisible to her.*
+		
+		Although much of the room's illumination seems to come from the interaction between the tree and her vision, Eidos also senses a faint, green glow oozing in from the depths of the underground Archive - its source yet invisible to her.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!9990.X12003!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.000!DESCRIPTION!/]
 

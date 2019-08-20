@@ -4649,7 +4649,7 @@ virgin run
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0000!BABEL!]
 		||
 		*"Wha... Why are you here, Brother Inquisitor? Aren't you supposed to be in the Nave giving your report"*
-		(A#"It's as you say. Thanks for the reminder!"){A:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-1!BABEL!}
+		(A#"That I should! Thanks for the reminder!"){A:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-1!BABEL!}
 		(B#"I'm unsure of what to say."){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022!BABEL!}
 		(C#"I suppose you're right."){C:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-2!BABEL!}
 		(D#"...I was just on my way there, actually!"){D:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-1!BABEL!}
@@ -4674,7 +4674,7 @@ virgin run
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001010!BABEL!]
 		||
 		*"Ah, yes! Whispered words oft go unheard, but we Thought-Weavers seek even the tiniest echo of information!"*
-		(A#"Someday you'll make a fine Thought-Weaver."){A:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001011!BABEL!}
+		(A#"Someday you'll make a fine Loom Master."){A:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001011!BABEL!}
 		(B#"Just remember to consider the source with care."){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001012!BABEL!}
 		(E#"You presume too much; you're not yet a full Thought-Weaver!"){E:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001050!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001010!BABEL!/]
@@ -4693,7 +4693,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010120!BABEL!]
 		||
-		*"I hope the Choir sings favorably for you and for the good of the Order."*
+		*"I hope the Choir sings favorably for you - and for the good of the Order!"*
 		(A#"Yes, for the good of the Enclave."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010120!BABEL!/]
 
@@ -4757,7 +4757,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010280!BABEL!]
 		||
-		*"Of all the Seniors of all the castes, only one person's name was always mentioned in as a paragon of Discipline. And when they gave you the Wayfarer, everyone said you'd be the one to solve her, that you'd find the Thought Wheel of the Beginning..."*
+		*"Of all the Seniors of all the castes, only one person's name was always mentioned as a paragon of Discipline. And when they gave you the Wayfarer, everyone said you'd be the one to solve her, that you'd find the Thought Wheel of the Beginning..."*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010281!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010280!BABEL!/]
 
@@ -4769,15 +4769,21 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001029!BABEL!]
 		||
-		*"Oh, I'm sorry! I was just so excited to speak with you that I forgot all about your report!"*
+		*"Oh, I'm sorry! Not in a bad way! That's not what I meant! I meant it in a good way!"*
 		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010290!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001029!BABEL!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010290!BABEL!]
 		||
+		*"I was just so excited to speak with you that I forgot all about your report!"*
+		(A#"..."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010291!BABEL!}
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010290!BABEL!/]
+
+	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010291!BABEL!]
+		||
 		*"I'll delay you no longer! For the good of the Enclave!"*
 		(A#"For the good of the Order."){A:0,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9999.X9999!BABEL!}
-	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010290!BABEL!/]
+	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0010291!BABEL!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.001050!BABEL!]
 		||
@@ -4913,7 +4919,7 @@ loon
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00262!BABEL!]
 		||
 		*"Indeed, how could I not have known?"*
-		(F#"Maybe because sarcasm clouds judgment better than beer!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00263!BABEL!}
+		(F#"Maybe 'cause sarcasm is worse for objectivity than beer, cheeky bastard!"){F:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00263!BABEL!}
 	[ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00262!BABEL!/]
 
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.00263!BABEL!]
@@ -4957,8 +4963,8 @@ know babel is Pr. Ar.
 	[/ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!1.0000!BABEL!]
 		||
 		*"Wha... Why are you here, Brother Inquisitor? Aren't you supposed to be in the Nave giving your report?"*
-		(A#"It's as you say. Thanks for the reminder!"){A:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-1!BABEL!}
-		(B#"Why hide that you're the Prime Archon?"){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0022!BABEL!}
+		(A#"True! Thanks for the reminder!"){A:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-1!BABEL!}
+		(B#"Why try to hide that you're the Prime Archon?"){B:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2033!BABEL!}
 		(C#"I suppose you're right."){C:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2031-2!BABEL!}
 		(D#"As you command, Prime Archon Babel..."){D:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!9990.X2033!BABEL!}
 		(E#"I go where I please, when I please."){E:1,ENCLAVE!ARCHIVES!SEAT OF THE TRUE ARCHON!0.0025!BABEL!}
