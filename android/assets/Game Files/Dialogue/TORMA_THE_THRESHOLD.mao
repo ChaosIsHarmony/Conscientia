@@ -1383,7 +1383,7 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0040!BABEL!]
 		||
-		*"You're a senior member of our Order; what could possess you to neglect your duties so?"*
+		*"You're a senior member of our Order; what could possess you to neglect your duties?"*
 		(C#"I just need time to think."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.013!BABEL!}
 		(D#"...I'm sworn to secrecy; I couldn't possibly tell you."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
 		(E#"I've waste enough time on you, boy."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
@@ -1415,7 +1415,7 @@ BABEL
 		(F#"No, just when I'm given the option to do weird things, I do them!"){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.016!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0060!BABEL!/]
 
-???
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.011!BABEL!]
 		||
 		*"You have?!"*
@@ -1424,33 +1424,33 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0110!BABEL!]
 		||
-		*"Then you have learned where the Thought Wheel of the Beginning lies?!"*
+		*"So you've discovered where the Thought Wheel of the Beginning lies?!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0111!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0110!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0111!BABEL!]
 		||
-		*"Amazing work, Brother Inquisitor! Your reputation is undeniably well-earned!"*
+		*"Amazing work, Brother Inquisitor! But who'd dare expect anything less of you?"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0112!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0111!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0112!BABEL!]
 		||
-		*"Where then is it located?"*
+		*"Where's it located? I'm dying to know!"*
 		(A#"I hope the Choir is equally impressed, Brother."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.021!BABEL!}
-		(B#"How is it you know what the Choir seeks?"){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.022!BABEL!}
+		(B#"How'd you know what the Choir sought?"){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.022!BABEL!}
 		(E#"Your flattery is neither needed, nor desired."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.025!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0112!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.012!BABEL!]
 		||
-		*"...This is most surprising news, Brother."*
+		*"Really? ...This is most surprising news, Brother."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0120!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.012!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0120!BABEL!]
 		||
-		*"I am but a junior Thought-Weaver, yet even I realize this is..."*
+		*"Even a junior Thought-Weaver such as me knows this is..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0121!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0120!BABEL!/]
 
@@ -1462,16 +1462,16 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0122!BABEL!]
 		||
-		*"It is imperative that you report this to the Choir at once!"*
+		*"You should report this to the Choir at once!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0123!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0122!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0123!BABEL!]
 		||
-		*"Only they will know what to do!"*
+		*"They'll know what to do!"*
 		(A#"I suppose you're right, Brother."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.021!BABEL!}
-		(B#"They are wise, but not omniscient..."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0124!BABEL!}
-		(C#"Then I will take my leave."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
+		(B#"They're wise, not omniscient..."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0124!BABEL!}
+		(C#"Then I'll take my leave."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0123!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0124!BABEL!]
@@ -1490,14 +1490,14 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0130!BABEL!]
 		||
-		*"Well, I beseech you: tarry not long before giving your report, Brother!"*
+		*"Well, these stones can be rather mesmerizing; take care they don't lead you into too lengthy a reflection, Brother!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0131!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0130!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0131!BABEL!]
 		||
-		*"For the Masters hath no fury as the Choir scorned..."*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
+		*"And making the Choir wait on their report is ill-advised. For the good of the Order!"*
+		(A#"Sure, for the good of the Order."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0131!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!]
@@ -1508,29 +1508,23 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0140!BABEL!]
 		||
-		*"Please forgive my impertinence; as I now understand that I should not have said anything, and not have asked anything."*
+		*"Please, forgive my impertinence! I should neither have said anything, nor asked anything!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0141!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0140!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0141!BABEL!]
 		||
-		*"I will not delay you any longer."*
+		*"May the Choir sing your praises at hearing your report!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0142!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0141!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0142!BABEL!]
 		||
-		*"Though I must reiterate once more that it would be unwise to keep the Choir waiting."*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0143!BABEL!}
+		*"For the good of the Order!"*
+		(C#"Sure, for the good of the Order."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
+		(D#"You're forgiven, Brother. Now be on your way."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
+		(E#"The Choir'll be singing your dirge if you don't leave me alone!"){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0142!BABEL!/]
-
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0143!BABEL!]
-		||
-		*"But please, have a pleasant day!"*
-		(C#"Then I will take my leave."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
-		(D#"You are forgiven, good Brother. Now be on your way."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
-		(E#"It would be 'unwise' to give unsolicited advice."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0143!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!]
 		||
@@ -1540,22 +1534,22 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0150!BABEL!]
 		||
-		*"I did not intend to be a burden, Brother Inquisitor!"*
+		*"I didn't intend to be a burden, Brother Inquisitor! I'll cease to disrupt your peace, presently."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0151!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0150!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0151!BABEL!]
 		||
-		*"So, I will leave you to your musings - though please bear in mind it would be unwise to keep the Choir waiting!"*
+		*"May the Choir sing your praises at hearing your report!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0152!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0151!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0152!BABEL!]
 		||
-		*"And please, have a pleasant day!"*
-		(A#"I bid you farewell, junior Brother."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
+		*"For the good of the Order!"*
+		(A#"And for the future of Humanity."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 		(D#"Finally you show some deference to your superior..."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
-		(E#"It would be 'unwise' to give unsolicited advice."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
+		(E#"The Choir'll be singing your dirge if you don't leave me alone!"){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0152!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.016!BABEL!]
@@ -1579,13 +1573,13 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0211!BABEL!]
 		||
-		*"Indeed, we are most fortunate to be guided by them and their wisdom!"*
-		(A#"Indeed, then I should not keep our benevolent Choir in waiting!"){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
+		*"Indeed, we're most fortunate to be guided by them and their wisdom!"*
+		(A#"Indeed, then I shouldn't keep our benevolent Choir waiting!"){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0211!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.022!BABEL!]
 		||
-		*"...as a Thought-Weaver, I am well appraised of the comings and going in the Hall of Reckoning."*
+		*"...Oh, perhaps because I'm well appraised of the comings and going in the Hall of Reckoning."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0220!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.022!BABEL!/]
 
@@ -1605,52 +1599,52 @@ BABEL
 		||
 		*"And I intend to do so by solving the Riddle of the Cloudstone in the Archives!"*
 		(A#"I wish you luck in this endeavor!"){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0223!BABEL!}
-		(B#"What is this riddle of which you speak?"){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032!BABEL!}
+		(B#"What riddle is this?"){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032!BABEL!}
 		(C#"Indeed, but I fear I must be going."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.013!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0222!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0223!BABEL!]
 		||
-		*"I am humbled, Brother!"*
+		*"I'm humbled, Brother..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0224!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0223!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0224!BABEL!]
 		||
-		*"I am most appreciative of your kind thoughts and encouragement."*
+		*"... Your encouragement means the world to me."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0225!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0224!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0225!BABEL!]
 		||
-		*"But, I believe I have delayed you long enough!"*
+		*"But, I've said to much and have delayed you for far too long already!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0226!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0225!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0226!BABEL!]
 		||
-		*"So, I implore you to make haste to the Hall of Reckoning; I doubt the Choir will be of good humor after so long a wait!"*
-		(A#"I will make my way there, then. Farewell, Brother."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
+		*"May the Choir sing your praises at hearing your report!"*
+		(A#"For the good of the Order!"){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0226!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.025!BABEL!]
 		||
-		*"I am... sincerely sorry, Brother!"*
+		*"Oh, uh... well, I'm sincerely sorry, Brother!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0250!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.025!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0250!BABEL!]
 		||
-		*"I of course intended no harm with my praises!"*
+		*"I meant no offense! Please accept my apologies!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0251!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0250!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0251!BABEL!]
 		||
-		*"I simply wished to know more of you and the tasks of such a respected senior Thought-Weaver as yourself..."*
-		(A#"Do not meddle with affairs beyond your competence, junior Thought-Weaver."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
-		(D#"Well, I must be careful with whom I confer, for I am sworn to secrecy!"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
-		(E#"I will waste no more time on you."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
+		*"I was just so excited to hear the news!"*
+		(A#"Don't meddle with affairs beyond your competence, junior Thought-Weaver."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
+		(D#"Well, I must be careful with whom I confer, for I'm sworn to secrecy!"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
+		(E#"Why am I even wasting my time on you?"){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.015!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0251!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.026!BABEL!]
@@ -1661,22 +1655,11 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0260!BABEL!]
 		||
-		*"In truth, I did not intend to be a burden, Brother Inquisitor!"*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0261!BABEL!}
+		*"I didn't intend to burden you, Brother Inquisitor!"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0151!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0260!BABEL!/]
 
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0261!BABEL!]
-		||
-		*"So, I will leave you to your musings - though I must reiterate once more that it would be unwise to keep the Choir waiting."*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0262!BABEL!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0261!BABEL!/]
-
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0262!BABEL!]
-		||
-		*"Please, have a pleasant day."*
-		(F#"Peace out, nerd!"){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0262!BABEL!/]
-
+???
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032!BABEL!]
 		||
 		*"I am surprised one as learned and as well-informed as Brother Inquisitor has not yet heard of such a trial..."*
@@ -1721,7 +1704,7 @@ BABEL
 		||
 		*"True enough, but your reticence to recall such basic information leads me to suspect you are not being truthful with me, Brother Inquisitor."*
 		(B#"You seem to know I have not actually heard this story."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!}
-		(D#"I have had enough of your accusations, junior Thought-Weaver!"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
+		(D#"I've had enough of your accusations, junior Thought-Weaver!"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03242!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03243!BABEL!]
