@@ -245,7 +245,7 @@ JENOWIN PLAIN
 Virgin entrance
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.000!DESCRIPTION!]
 		||
-		*The exit is surprisingly wide, perhaps enough for twenty men abreast. Its shallow depth surprises in equal measure; but a dozen strides delivers her to the to the blistering heat of a shadowless desert. The sun beats down upon cracked earth as a strong wind blows spiraling plumes of dust into the air. Straining her eyes, she spots a number of landmarks in the distance.*
+		*The exit is surprisingly wide, perhaps enough for twenty men abreast. Its shallow depth surprises in equal measure; but a dozen strides delivers her to the blistering heat of a shadowless desert. The sun beats down upon cracked earth as a strong wind blows spiraling plumes of dust into the air. Straining her eyes, she spots a number of landmarks in the distance.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0000!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.000!DESCRIPTION!/]
 
