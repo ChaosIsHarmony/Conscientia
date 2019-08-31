@@ -951,7 +951,7 @@ VALLEY OF BONES
 
 	[/KABU!CANYON!VALLEY OF BONES!00.001!DESCRIPTION!]
 		||
-		*Seeking to move, Eidos finds herself near the location whence she descended into the canyon. She recalls that up the treacherous path is the way to the walls of Tambul; the Bone Pile is to her right; and further access to the canyon is left.*
+		*Seeking to move, Eidos finds herself near the location whence she descended into the canyon. She recalls that up the treacherous path is the way to the walls of Tambul; the Bone Pile is to her right; and further access deeper into the canyon is left.*
 		(A#Walk to Bone Pile){A:0,KABU!CANYON!VALLEY OF BONES!0.X000!DESCRIPTION!}	
 		(B#Ascend to city walls){B:0,KABU!TAMBUL!MOON TOWER!10.001!DESCRIPTION!}
 		(C#Walk deeper into the canyon){C:0,KABU!CANYON!VALLEY OF BONES!0.X002!DESCRIPTION!}
@@ -982,7 +982,7 @@ VALLEY OF BONES
 
 	[/KABU!CANYON!VALLEY OF BONES!0.X001!DESCRIPTION!]
 		|@:KABU!CANYON!VALLEY OF BONES!0.X999!DESCRIPTION!|
-		*As Eidos walks forward, the guards mirror her motions, coming forth to meet her. One is an elderly man, the other a young woman, eager to be heard, surely, as it is she who speaks the first words.*
+		*As Eidos walks forward, the guards mirror her motions, coming forth to meet her. One is a grizzled veteran, gray of beard, lithe of step. His companion is a young woman, ripe with the impetuous impulses of youth - actions taken before good judgment gives the order, words spoken before thoughts can rein them in...*
 		(A#...){A:0,KABU!CANYON!VALLEY OF BONES!9999.X0402!DESCRIPTION!}		
 	[KABU!CANYON!VALLEY OF BONES!0.X001!DESCRIPTION!/]	
 
@@ -1039,7 +1039,7 @@ VALLEY OF BONES
 		(C#Stand in defense){C:1,KABU!CANYON!VALLEY OF BONES!3.300!DESCRIPTION!}
 		(D#Strike the other guard){D:1,KABU!CANYON!VALLEY OF BONES!3.400!DESCRIPTION!}	
 		(E#Finish Assala){E:1,KABU!CANYON!VALLEY OF BONES!3.X500!DESCRIPTION!}
-		(F#Kill both of the disguised gremlins!){F:1,KABU!CANYON!VALLEY OF BONES!3.X600!DESCRIPTION!}			
+		(F#Kill both of the disguised gremlins!){F:1,KABU!CANYON!VALLEY OF BONES!3.X600!DESCRIPTION!}
 	[KABU!CANYON!VALLEY OF BONES!3.000!DESCRIPTION!/]	
 
 	[/KABU!CANYON!VALLEY OF BONES!3.100!DESCRIPTION!]
@@ -1123,13 +1123,15 @@ Provoked Assala and pulled out Luin
 	
 	[/KABU!CANYON!VALLEY OF BONES!7.003!DESCRIPTION!]
 		||
-		*Ark. Mouthing this single syllable, form making its final descent onto the canyon floor, Assala is no more.*
+		*Ark.
+		
+		Mouthing this single syllable, her form falls limp to the canyon floor. Assala is no more.*
 		(A#...){A:0,KABU!CANYON!VALLEY OF BONES!7.004!DESCRIPTION!}
 	[KABU!CANYON!VALLEY OF BONES!7.003!DESCRIPTION!/]
 	
 	[/KABU!CANYON!VALLEY OF BONES!7.004!DESCRIPTION!]
 		||
-		*Running to the limp shell that once contained Assala, Hubbiyh holds her to his chest. Weeping, just as a father would weep for the death of their child, Hubbiyh draws a knife from his belt. Looking skywards, face awash with a chaotic look of despondence, he plunges the blade directly into his throat, following his charge into the uncertainty of death. Choking on the blood from the self-inflicted wound, he leaves his Falseflesh behind.*
+		*Running to the ghostless shell that once contained Assala, Hubbiyh holds her to his chest. Weeping, just as a father would for their dying child, Hubbiyh draws a knife from his belt. Looking skywards, face awash with a chaotic despondence, he plunges the blade directly into his throat, following his charge into the uncertainty of death. Choking on the blood from the self-inflicted wound, he leaves his Falseflesh behind.*
 		(A#...){A:0,KABU!CANYON!VALLEY OF BONES!7.005!DESCRIPTION!}
 	[KABU!CANYON!VALLEY OF BONES!7.004!DESCRIPTION!/]
 	
@@ -1575,10 +1577,10 @@ Ark reborn
 	[/KABU!CANYON!VALLEY OF BONES!77.000!ASSALA!]
 		||
 		*"Halt, outlander! You approach the Valley of Bones, a most sacred Kaban site."*
-		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!77.001!ASSALA!}
+		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!77.X001!ASSALA!}
 	[KABU!CANYON!VALLEY OF BONES!77.000!ASSALA!/]
 	
-	[/KABU!CANYON!VALLEY OF BONES!77.001!ASSALA!]
+	[/KABU!CANYON!VALLEY OF BONES!77.X001!ASSALA!]
 		||
 		*"What business could you possibly have here!?"*
 		(A#"Which of you is Valvorthr Assala?"){A:1,KABU!CANYON!VALLEY OF BONES!77.X100!ASSALA!}
@@ -1587,7 +1589,7 @@ Ark reborn
 		(D#"...You are known to me."){D:1,KABU!CANYON!VALLEY OF BONES!77.X400!ASSALA!}
 		(E#"Your master has returned."){E:1,KABU!CANYON!VALLEY OF BONES!77.X500!ASSALA!}
 		(F#"I hope you're wearing socks, because I'm about to knock them off!"){F:1,KABU!CANYON!VALLEY OF BONES!77.X600!ASSALA!}
-	[KABU!CANYON!VALLEY OF BONES!77.001!ASSALA!/]
+	[KABU!CANYON!VALLEY OF BONES!77.X001!ASSALA!/]
 
 
 	[/KABU!CANYON!VALLEY OF BONES!77.X100!ASSALA!]

@@ -549,7 +549,6 @@ public class CombatMenu {
 							combatEndAddress = "KABU!DAWN FORTRESS!BARRACKS!999.X000!DESCRIPTION!";
 							break;
 						case "KABU!DAWN FORTRESS!COURTYARD!":
-
 							combatEndAddress = "KABU!DAWN FORTRESS!COURTYARD!999.X000!DESCRIPTION!";
 							break;
 						case "KABU!DAWN FORTRESS!GATES OF DAWN!":

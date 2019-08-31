@@ -2349,39 +2349,41 @@ leaving
 		(B#The prisoner, Heyar){B:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0207!DESCRIPTION!}
 		(C#Leave this area){C:0,KABU!DAWN FORTRESS!COURTYARD!0.101!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!0.1020!DESCRIPTION!/]
-	
+
+
 W/ Assala
 	[/KABU!DAWN FORTRESS!COURTYARD!77.X000!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!COURTYARD!77.X001!DESCRIPTION!|
-		*The mage of the Dawn Fortress stands ill-at-ease - though eerily calm - before them. He is an old and sinewy man, yet also quite the imposing figure. His gazes seeming to melt any defenses, Eidos stares at him paralyzed by her own animal instincts. Eidos muscles continuously tighten like an endless spasm. Pain robs her of her ability to think clearly until the very moment the mage relaxes his scowl, releasing her from the trance. All her muscles relax simultaneously, causing her to fall to the floor, kneeling as if subservient before him. Confident in his victory from this initial confrontation, he deigns to speak.*
+		*The mage of the Dawn Fortress stands alert - though eerily calm - before them. Though seemingly just an old and sinewy man, his eyes speak volumes of the unspeakable atrocities he has witnessed. Those eyes merely gaze at her, but Eidos stares back, paralyzed by her own animal instincts. Her muscles continuously tighten like an endless spasm. Pain robs her of her ability to think clearly, until the very moment the mage relaxes his scowl, releasing her from the trance. Every ounce of her relaxes simultaneously; she falls, kneeling as if subservient before the dour mage. Confident in his victory from this initial confrontation, he deigns to speak.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0014!DESCRIPTION!}		
 	[KABU!DAWN FORTRESS!COURTYARD!77.X000!DESCRIPTION!/]
 	
 >>>Acquire Glyph of Corruption (13113)<<<
 	[/KABU!DAWN FORTRESS!COURTYARD!77.X001!DESCRIPTION!]
 		|^13113:KABU!DAWN FORTRESS!COURTYARD!78.000!DESCRIPTION!|
-		*Khlutt begins to glide effortlessly towards Eidos and before she can react, a barrage of seemingly invisible blows of meteoric momentum descend upon her. She did not sense the use of any Techne as he pummels her into a state of harmless confusion. Losing all control over her body, Eidos slumps to the ground, aware but broken.*
-		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!77.002!DESCRIPTION!}
+		*Khlutt begins to glide effortlessly towards Eidos and before she can react, a barrage of seemingly invisible blows of meteoric momentum descend upon her. She did not sense the use of any Techne as he pummels her into a state of harmless confusion. Losing all control, Eidos slumps to the ground, aware but broken.*
+		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!77.X002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!77.X001!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!77.001!DESCRIPTION!]
 		||
-		*Khlutt begins to glide effortlessly towards Eidos and before she can react, a barrage of seemingly invisible blows of meteoric momentum descend upon her. She did not sense the use of any Techne as he pummels her into a state of harmless confusion. Losing all control over her body, Eidos slumps to the ground, aware but broken.*
-		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!77.002!DESCRIPTION!}
+		*Khlutt begins to glide effortlessly towards Eidos and before she can react, a barrage of seemingly invisible blows of meteoric momentum descend upon her. She did not sense the use of any Techne as he pummels her into a state of harmless confusion. Losing all control, Eidos slumps to the ground, aware but broken.*
+		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!77.X002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!77.001!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!78.000!DESCRIPTION!]
 		||
-		*Time seems to slow as Eidos becomes aware of a Glyph begging to be drawn from the ether. Volatile, corrosive, promising complete annihilation of any who stands in its way. But Eidos barely manages to contain the urge - however temporary said containment might be.*
+		*Time seems to slow as Eidos becomes aware of a Glyph begging to be drawn from the ether. Volatile, corrosive, promising complete annihilation of any who stand in its way. But Eidos barely manages to contain the urge - however temporary said containment might be.*
 		(C#Do nothing){C:1,KABU!DAWN FORTRESS!COURTYARD!77.001!DESCRIPTION!}
 		(E#Unleash its fury upon Khlutt){E:1,KABU!DAWN FORTRESS!COURTYARD!9992.X0014!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!78.000!DESCRIPTION!/]
-	
-	[/KABU!DAWN FORTRESS!COURTYARD!77.002!DESCRIPTION!]
+
+//must be .x because it is a unique event (luin gets stolen)
+	[/KABU!DAWN FORTRESS!COURTYARD!77.X002!DESCRIPTION!]
 		||
 		*The world spins around in her eyes, making it impossible to focus on what her malefactor now does. All she can tell from the blurred images reaching her is that Khlutt walks towards her with some bizarre device.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!77.003!DESCRIPTION!}
-	[KABU!DAWN FORTRESS!COURTYARD!77.002!DESCRIPTION!/]
+	[KABU!DAWN FORTRESS!COURTYARD!77.X002!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!77.003!DESCRIPTION!]
 		||
@@ -4118,7 +4120,7 @@ W/ Assala
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!77.001!KHLUTT!]
 		||
-		*"I warn you, outlander, you may be able to fool this Valvorthr, but you will have a more difficult time converting me."*
+		*"I warn you, outlander, you may be able to fool this Valvorthr, but you'll find me a more reluctant convert."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!77.002!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!77.001!KHLUTT!/]
 	
@@ -4130,13 +4132,13 @@ W/ Assala
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!77.003!KHLUTT!]
 		||
-		*"If you are truly Ark, then you should have no problem defeating me."*
+		*"If you're truly Ark, then you should have no problem defeating me."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!77.X004!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!77.003!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!77.X004!KHLUTT!]
 		|@:KABU!DAWN FORTRESS!COURTYARD!78.000!KHLUTT!|
-		*"If you are not... Well, then the fallen Archmage remains in the Graylands and you will soon join her."*
+		*"And if you're not... Well, then the fallen Archmage remains in the Graylands and you'll soon join her."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X9999!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!77.X004!KHLUTT!/]
 	
