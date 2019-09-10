@@ -882,26 +882,26 @@ STONE CIRCLE
 Virgin run
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!DESCRIPTION!]
 		||
-		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. A vast gash in the mountain's skin high above showers light down on an arrangement of stones - rippling out from a central Muninn. At the other end of the courtyard, a gargantuan door in a bulwark of perfectly-masoned granite walls off the cave mouth leading to the outside world. The diminutive apertures in the thick wall allow minor and fleeting incursions from the light, but little else can penetrate so mighty a defense.*
+		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. A vast gash in the mountain's skin high above bleeds light down onto an arrangement of stones rippling out from a central Muninn. Opposite this Stone Circle, a set of lustrous gates split the two halves of the granite bulwark; beyond these, the outside world chugs along, blissfully ignorant of the Enclave's existence. The walls ridged crown allows minor and fleeting incursions from the light, but little else can penetrate so mighty a defense.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0010!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0010!DESCRIPTION!]
 		||
-		*Only near the Stone Circle and the great bulwark is the light sufficient to keep at bay the ignorance entrenched within the world of shadows. All illumination here otherwise faces summary annihilation as it collides with the darkness, thus leaving the true dimensions of this place an utter mystery. Though a crystalline lattice could easily rectify the deficiency, the Order's forebearers had always preferred the courtyard's shadowy shroud, and the current roster of magi seem to have inherited this willful oblivion.*
+		*Only near the Stone Circle and the great bulwark is the light sufficient to keep at bay the encroaching shadows. All illumination here otherwise faces summary annihilation as it collides with the darkness; thus, the true dimensions of this place remains an utter mystery. Though the artificial light from a crystalline lattice could easily rectify the deficiency, the Order's forebearers had always preferred the courtyard's shadowy shroud, and the current roster of magi seem ill-inclined to alter this willful oblivion.*
 		(A#Return to the Underhalls of the Enclave){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
 		(B#Study the Stone Circle){B:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0011!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0010!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0011!DESCRIPTION!]
 		||
-		*Ormenos walks out into the Stone Circle and starts to examine the bizarre, swirling patterns etched into the rock faces. All the Order knows about these circles is that they predate even the Vanquished, and that they were later re-purposed as primitive altars to the worship of the Biracul - a tradition beginning only after the Punishing Wars had decimated what little remained of reason.*
+		*Ormenos walks out into the Stone Circle to examine the bizarre, swirling patterns etched into the rock faces. All the Order knows about these circles is that they predate even the Vanquished, and that they were later re-purposed as primitive altars to the worship of the Biracul - a tradition beginning only after the Punishing Wars had decimated what little remained of reason.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0012!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0011!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0012!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0013!DESCRIPTION!|
-		*Suddenly, Ormenos becomes aware of a presence: a fellow Enclavean with judicious eyes that have seen far more than their youth should permit. A baby-faced lad - hair darker than soil and sporting an ill-advised mustache - sits among the stones in a burlap robe marked with the insignia of the Order. He looks to be caught in reverie, yet his gaze pierces straight through Ormenos' Trueflesh, just as though he could fathom the darkest depths Ormenos dare not even explore himself...*
+		*Suddenly, Ormenos becomes aware of a presence. A fellow Enclavean with judicious eyes that have seen far more than their youth should permit watches from a nearby perch. Hair darker than soil, eyes darker still. And though his features have not yet escaped adolescence, he appears to insist on a sparse, ill-advised mustache. The youth sits among the stones in a burlap robe marked with the insignia of the Order. He looks to be caught in reverie, yet his gaze pierces straight through Ormenos' Trueflesh, as though fathoming the darkest depths Ormenos himself dare not even explore...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0012!DESCRIPTION!/]
 
@@ -918,30 +918,32 @@ Virgin run
 		(B#Exit the courtyard){B:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0014!DESCRIPTION!/]
 
-???
+
 Met Babel but not this playthrough
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!DESCRIPTION!]
 		||
-		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. Only two sources cast light into the area: one high above, a vast hole in the skin of the mountain, illuminating an arrangement of stones laid out in concentric circles right outside the entrance to the underhalls; the other, a gargantuan door in a bulwark of perfectly-masoned granite blocks walling off the cave mouth leading to the outside world.*
+		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. A vast gash in this mountain's skin high above bleeds light down onto an arrangement of stones rippling out from a central Muninn. Opposite the Stone Circle, a set of lustrous gates split the two halves of the granite bulwark; beyond these, the outside world chugs along, blissfully ignorant of the Enclave's existence. The walls ridged crown allows minor and fleeting incursions from the light, but little else can penetrate so mighty a defense.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0020!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0020!DESCRIPTION!]
 		||
-		*The light is sufficient to stave off the ignorance entrenched within the world of shadows, but it is clearly only enough to give the illusion of understanding. Truly, far more of the surroundings remain shrouded in darkness than unveiled in light.*
+		*Only near the Stone Circle and the great bulwark is the light sufficient to keep at bay the encroaching shadows. All illumination here otherwise faces summary annihilation as it collides with the darkness; thus, the true dimensions of this place remains an utter mystery. Though the artificial light from a crystalline lattice could easily rectify the deficiency, the Order's forebearers had always preferred the courtyard's shadowy shroud, and the current roster of magi seem ill-inclined to alter this willful oblivion.*
 		(A#Return to the Underhalls of the Enclave){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
 		(B#Study the Stone Circle){B:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0021!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0020!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0021!DESCRIPTION!]
 		||
-		*Ormenos walks out into the Stone Circle and starts to examine the swirling patterns etched upon the rock. All that is known about these circles is that they predate even the Vanquished and were later re-purposed as primitive altars to the worship of the Biracul - a typical custom of the savage people's after the Punishing Wars had decimated what remained of reason and will following the demise of the Vanquished.*
+		*Ormenos walks out into the Stone Circle to examine the bizarre, swirling patterns etched into the rock faces. All the Order knows about these circles is that they predate even the Vanquished, and that they were later re-purposed as primitive altars to the worship of the Biracul - a tradition beginning only after the Punishing Wars had decimated what little remained of reason.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0022!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0021!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0022!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0013!DESCRIPTION!|
-		*It is then that Ormenos becomes aware of a presence. A fellow Enclavean with judicious eyes which have seen far more than their youth should permit. The earthy-haired Babel sits among the stones in a burlap robe marked by the insignia of the Order. He seems as though caught in reverie, yet his gaze pierces straight through Ormenos' Trueflesh, just as though he could fathom the darkest depths Ormenos dare not even explore himself...*
+		*Suddenly, Ormenos becomes aware of a presence. A fellow Enclavean with judicious eyes that have seen far more than their youth should permit watches from a nearby perch. Hair darker than soil, eyes darker still. And though his features have not yet escaped adolescence, he appears to insist on a sparse, ill-advised mustache. This is the unmistakable face of Babel - a man Ormenos well-remembers despite not knowing how.
+		
+		Babel sits among the stones in a burlap robe marked with the insignia of the Order. He looks to be caught in reverie, yet his gaze pierces straight through Ormenos' Trueflesh, as though fathoming the darkest depths Ormenos himself dare not even explore...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0011!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0022!DESCRIPTION!/]
 
@@ -949,25 +951,25 @@ Met Babel but not this playthrough
 Two events completed
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!DESCRIPTION!]
 		||
-		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. Only two sources cast light into the area: one high above, a vast hole in the skin of the mountain, illuminating an arrangement of stones laid out in concentric circles right outside the entrance to the underhalls; the other, a gargantuan door in a bulwark of perfectly-masoned granite blocks walling off the cave mouth leading to the outside world. The light is sufficient to stave off the ignorance entrenched within the world of shadows, but it is clearly only enough to give the illusion of understanding. Truly, far more of the surroundings remain shrouded in darkness than unveiled in light.*
+		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. A vast gash in this mountain's skin high above bleeds light down onto an arrangement of stones rippling out from a central Muninn. Opposite the Stone Circle, a set of lustrous gates split the two halves of the granite bulwark; beyond these, the outside world chugs along, blissfully ignorant of the Enclave's existence. The walls ridged crown allows minor and fleeting incursions from the light, but little else can penetrate so mighty a defense.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0040!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0040!DESCRIPTION!]
 		||
-		*Ormenos walks out into the Stone Circle and starts to examine the swirling patterns etched upon the rock. All that is known about these circles is that they predate even the Vanquished and were later re-purposed as primitive altars to the worship of the Biracul - a typical custom of the savage people's after the Punishing Wars had decimated what remained of reason and will following the demise of the Vanquished.*
+		*Only near the Stone Circle and the great bulwark is the light sufficient to keep at bay the encroaching shadows. All illumination here otherwise faces summary annihilation as it collides with the darkness; thus, the true dimensions of this place remains an utter mystery. Though the artificial light from a crystalline lattice could easily rectify the deficiency, the Order's forebearers had always preferred the courtyard's shadowy shroud, and the current roster of magi seem ill-inclined to alter this willful oblivion.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0040!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!DESCRIPTION!]
 		||
-		*Alone in the peace and tranquility of this courtyard, the usually forgotten terror of being grips Ormenos, accelerating his heart rate, causing beads of sweat filled with the stench of fear to well up from his pores. It is this state Ormenos has fled from ever since he could remember; it is this state which caused him to seek out knowledge in order to rid himself of the horrifying uncertainty that has pervaded his life ever since the beginning.*
+		*Alone in the peace and tranquility of this courtyard, the usually forgotten terror of being grips Ormenos, accelerating his heart rate, causing beads of sweat filled with the stench of fear to well up from his pores. It is this very state Ormenos has fled from ever since he could remember; it is this same state that impelled him to seek out knowledge, so that he may rid himself of the horrifying uncertainty that has stalked him since birth.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0042!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0041!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0042!DESCRIPTION!]
 		||
-		*All he knows is that he must leave this loneliness, lest he fall irreversibly from the edge of sanity off into the unknowable...*
+		*All he knows is that he must leave this loneliness, lest he plummet from the edge of sanity...*
 		(A#Enter the Underhalls of the Enclave){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
 		(B#Exit the courtyard){B:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0042!DESCRIPTION!/]
@@ -976,44 +978,44 @@ Two events completed
 Three events completed
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.005!DESCRIPTION!]
 		||
-		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. Only two sources cast light into the area: one high above, a vast hole in the skin of the mountain, illuminating an arrangement of stones laid out in concentric circles right outside the entrance to the underhalls; the other, a gargantuan door in a bulwark of perfectly-masoned granite blocks walling off the cave mouth leading to the outside world. The light is sufficient to stave off the ignorance entrenched within the world of shadows, but it is clearly only enough to give the illusion of understanding. Truly, far more of the surroundings remain shrouded in darkness than unveiled in light.*
+		*Exiting the underhalls of the Enclave, Ormenos comes upon the ancient compound's spacious courtyard. A vast gash in this mountain's skin high above bleeds light down onto an arrangement of stones rippling out from a central Muninn. Opposite the Stone Circle, a set of lustrous gates split the two halves of the granite bulwark; beyond these, the outside world chugs along, blissfully ignorant of the Enclave's existence. The walls ridged crown allows minor and fleeting incursions from the light, but little else can penetrate so mighty a defense.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0050!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.005!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0050!DESCRIPTION!]
 		||
-		*Ormenos walks out into the Stone Circle and starts to examine the swirling patterns etched upon the rock. All that is known about these circles is that they predate even the Vanquished and were later re-purposed as primitive altars to the worship of the Biracul - a typical custom of the savage people's after the Punishing Wars had decimated what remained of reason and will following the demise of the Vanquished.*
+		*Only near the Stone Circle and the great bulwark is the light sufficient to keep at bay the encroaching shadows. All illumination here otherwise faces summary annihilation as it collides with the darkness; thus, the true dimensions of this place remains an utter mystery. Though the artificial light from a crystalline lattice could easily rectify the deficiency, the Order's forebearers had always preferred the courtyard's shadowy shroud, and the current roster of magi seem ill-inclined to alter this willful oblivion.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0051!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0050!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0051!DESCRIPTION!]
 		||
-		*Alone in the peace and tranquility of this courtyard, the typically forgotten terror of being grips Ormenos, accelerating his heart rate, causing beads of sweat filled with the stench of fear to well up from his pores. It is this state Ormenos has fled from ever since he could remember; it is this state which caused him to seek out knowledge in order to rid himself of the horrifying uncertainty that has pervaded his life ever since the beginning.*
+		*Alone in the peace and tranquility of this courtyard, the usually forgotten terror of being grips Ormenos, accelerating his heart rate, causing beads of sweat filled with the stench of fear to well up from his pores. It is this very state Ormenos has fled from ever since he could remember; it is this same state that impelled him to seek out knowledge, so that he may rid himself of the horrifying uncertainty that has stalked him since birth.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0052!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0051!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0052!DESCRIPTION!]
 		||
-		*All he knows is that he must leave this loneliness, lest he fall irreversibly from the edge of sanity off into the unknowable...*
+		*All he knows is that he must leave this loneliness, lest he plummet from the edge of sanity...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0053!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0052!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0053!DESCRIPTION!]
 		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0054!DESCRIPTION!|	
-		*Perhaps it is supremely opportune, then, that a contingent of Enforcers have arrived, at the forefront of which is Brother Beast Lord... Then again, perhaps this is not such an auspicious sign, given Ormenos' recent disregard of his duties.*
+		*Perhaps it is supremely opportune, then, that a contingent of Enforcers have arrived, at the forefront of which is Brother Beast Lord. Then again, perhaps this is not such an auspicious sign, given Ormenos' recent disregard of his duties.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1200!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0053!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0054!DESCRIPTION!]
 		||	
-		*Surrounding the cowering mage, the Enforcers wordlessly and callously drag him away to the Hall of Reckoning.*
+		*Surrounding a defenseless Ormenos, the Enforcers wordlessly drag him away, to the Hall of Reckoning.*
 		(A#...){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0054!DESCRIPTION!/]
 
 Coming from FoD
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.000!DESCRIPTION!]
 		||
-		*Ormenos walks back through the courtyard, his heart heavy with regret, his mind chained by his meekness. Head hung low, he barely even notices that he has arrived at the cyclopean doors admitting passage to the halls of his Order.*
+		*Ormenos shuffles back through the courtyard dragging a heart heavy with regret and a mind burdened with meekness. Head hung low, he barely even notices that he has arrived at the cyclopean doors admitting passage to the halls of his Order.*
 		(A#Enter the Underhalls of the Enclave){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
 		(F#Return to the Forest of Deception){F:1,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.000!DESCRIPTION!/]
@@ -1021,43 +1023,74 @@ Coming from FoD
 Out as Torma CG
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.001!DESCRIPTION!]
 		||
-		*Torma walks along the scene of chaos and carnage. Mutilated corpses are strewn all about and countless more are now being slaughtered by the gargantuan twinned beasts whose footsteps shake the very foundations of the earth. Groups of magi summon obscure and forbidden Techne to fight these amethyst warbeasts, but to no avail. Their skin is impenetrable; their minds are impregnable; this place is doomed.*
+		*Torma walks along the twinned scenes of chaos and carnage. Mutilated corpses carpet the courtyard, and those yet living seem to simply be awaiting slaughter by the gargantuan beasts whose footsteps shake the very foundations of the Enclave. Groups of magi summon obscure and forbidden Techne to fight these amethyst warbeasts... to no avail. Their skin is impenetrable; their minds are impregnable...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.002!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.002!DESCRIPTION!]
 		||
-		*Then Torma sees a Stone Circle, a familiar sight, identical to the one in forsaken Urugh. She was attracted to it then and to it is she attracted once more. Though this time, she recognizes finally how she must use it, for was not its purpose given in the Empyrean?*
+		*This place is doomed.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.003!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.002!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.003!DESCRIPTION!]
 		||
-		*Placing her palm upon the stones and calling to mind the memory of Biracul, from the ether pours forth the form of a pale humanoid. Strand by strand his Falseflesh is woven from nothingness into being. Tall, imposing and majestic, Biracul springs from the womb of the Spiral out into the world.*
+		*Then Torma sees a Stone Circle. A familiar sight. Identical to the one in forsaken Urugh. She was attracted to it then and to it is she attracted once more. Though this time, she recognizes finally how she must use it, for was not its purpose given in the Empyrean?*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.004!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.003!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.004!DESCRIPTION!]
 		||
-		*He casts his shocked gaze at the people being slain, and without warning, he charges forth towards the invincible warbeasts.*
+		*Placing her palm upon the stones and calling to mind the memory of Biracul, she summons her messiah. Strand by strand his Falseflesh is woven from nothingness into being. Tall, imposing and majestic, Biracul springs from the womb of the Spiral out into the world.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.005!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.004!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.005!DESCRIPTION!]
 		||
-		*Locking horns with the twinned behemoths, he leads them away from the defenseless magi and off towards the forest where they disappear from view. The battle remains perceptible only by the periodic tremors which shift the ground beneath Torma's feet and the cacophonous collisions of the impossibly dense, unimaginably tough Falsefleshes now at war.*
-		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X006!DESCRIPTION!}
+		*He casts his shocked gaze at the bloodbath, and without warning, charges forth towards the invincible warbeasts.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.006!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.005!DESCRIPTION!/]
 
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X006!DESCRIPTION!]
-		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.000!DESCRIPTION!|
-		*Suddenly, Torma feels a presence behind her. A giant, stately and wise. She knows not how long he had stalked behind her in the shadows, but her instinct is one of crippling terror. As if ignoring her presence completely, the giant begins to muse aloud.*
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.006!DESCRIPTION!]
+		||
+		*Locking horns with the twinned behemoths, he leads them away from the defenseless magi and off towards the forest where they disappear from view. The battle remains perceptible only by the periodic tremors which shift the ground beneath Torma's feet, and by the roaring collisions of the impossibly strong Falsefleshes now at war.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.007!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.006!DESCRIPTION!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.007!DESCRIPTION!]
+		||
+		*Suddenly, a presence. A giant, stately and wise. Torma knows not how long this man had lurked among the shadows. Suddenly shock dissipates and the void fills with crippling fear.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.008!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.007!DESCRIPTION!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.008!DESCRIPTION!]
+		||
+		*This one is dangerous.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X009!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.008!DESCRIPTION!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X009!DESCRIPTION!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X010!DESCRIPTION!|
+		*Perhaps to her or perhaps merely to himself, the giant offers words to willing ears.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!DESCRIPTION!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X006!DESCRIPTION!/]
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X009!DESCRIPTION!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X010!DESCRIPTION!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X011!DESCRIPTION!|
+		*His words stop in synchronous with the battle's end. A smile, equal parts melancholic and curious, pulls together the corners of his eyes and mouth. Approaching rumbles signal the approach of the victor - the singular survivor.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X010!DESCRIPTION!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X011!DESCRIPTION!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.000!DESCRIPTION!|
+		*Biracul stares at Torma with the cold indifference of a stranger. She yearns for even hints of recognition, implores for a mere iota of familiarity.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.X011!DESCRIPTION!/]
+
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.000!DESCRIPTION!]
 		||
-		*The two depart without giving so much as a glance back towards Torma, the supposed beloved of Biracul, left behind in ruins.*
+		*Thus the two depart without so much as a backwards glance. The supposed beloved daughter of Biracul, stands paralyzed...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.001!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.000!DESCRIPTION!/]
 
@@ -1105,37 +1138,31 @@ Out as Torma CG
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.004!DESCRIPTION!]
 		||
-		*What then...*
+		*If not, then what is she?*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.005!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.004!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.005!DESCRIPTION!]
 		||
-		*...is she?*
+		*In her mind, a thunderous crack rings out, her entire life's purpose dissolving before her.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.006!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.005!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.006!DESCRIPTION!]
 		||
-		*In her mind, a thunderous crack rings out, the collapse of her entire life's purpose laying before her very eyes.*
+		*Was this not his plan?!*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.007!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.006!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.007!DESCRIPTION!]
 		||
-		*Was this not his plan?!*
-		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.0070!DESCRIPTION!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.007!DESCRIPTION!/]
-
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.0070!DESCRIPTION!]
-		||
 		*Was her service not demanded by the Shining One?!*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.008!DESCRIPTION!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.0070!DESCRIPTION!/]
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.007!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.008!DESCRIPTION!]
 		||
-		*How could this cold reception at the wretch's hands be possible?!*
+		*How could the wretched false-god treat her so?!*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.009!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.008!DESCRIPTION!/]
 
@@ -1147,7 +1174,7 @@ Out as Torma CG
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.010!DESCRIPTION!]
 		||
-		*Subservient her whole life and for what?!*
+		*Subservient her whole life, and for what?!*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.011!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.010!DESCRIPTION!/]
 
@@ -1159,7 +1186,7 @@ Out as Torma CG
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.0110!DESCRIPTION!]
 		||
-		*She falls to her knees, a symbol of resignation, a complete and utter succumbing to the weight of existence.*
+		*She falls to her knees, resigned, a complete and utter succumbing under truth's crushing burden.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.012!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.0110!DESCRIPTION!/]
 
@@ -1171,13 +1198,13 @@ Out as Torma CG
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.013!DESCRIPTION!]
 		||
-		*Intently...*
+		*Intently.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.014!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.013!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.014!DESCRIPTION!]
 		||
-		*Painfully...*
+		*Painfully.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.015!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.014!DESCRIPTION!/]
 
@@ -1189,29 +1216,23 @@ Out as Torma CG
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.016!DESCRIPTION!]
 		||
-		*The silvery clouds of madness once more descend upon her psyche, and along with them comes a storm that will last until the end of time. As her ghost vacates this shell, the vessel begins to utter and mumble. Recounting tales of the destruction of the Vanquished, she mutters without end and begins to walk out from the Enclave and into the world. Full of past prophecies, devoid of future meaning.*
+		*The silvery clouds of madness descend again upon her, and along with them comes a storm that will last until the end of time. As her ghost vacates this shell, the vessel begins to utter and mumble. Recounting tales of the destruction of the Vanquished, she mutters without end and begins to walk out from the Enclave and into the world.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.017!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.016!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.017!DESCRIPTION!]
 		||
-		*Purposeless, she begins to wander again.*
+		*Full of past prophecies yet devoid of future meaning, she begins to wander.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.018!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.017!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.018!DESCRIPTION!]
 		||
-		*Helpless, she starts her prattling anew.*
-		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.019!DESCRIPTION!}
+		*Dreamless, she remains, perpetually trapped in the cycle with naught but the burning desire to go back to the beginning - to a time before knowledge tainted her core....*
+		(A#Dream){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.019!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.018!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.019!DESCRIPTION!]
-		||
-		*Dreamless, she remains; perpetually trapped in the cycle with naught but the burning desire to go back to the beginning - to a time before knowledge tainted her core....*
-		(A#Dream){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.020!DESCRIPTION!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.019!DESCRIPTION!/]
-
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.020!DESCRIPTION!]
 		||
 		*~ac*
 		(A#BIRACUL){A:0,MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!}
@@ -1220,9 +1241,9 @@ Out as Torma CG
 		(D#EIDOS){D:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 		(E#WULFIAS){E:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
 		(F#EIDOS){F:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.020!DESCRIPTION!/]
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.019!DESCRIPTION!/]
 
-
+???
 Out as Ormenos CG
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.001!DESCRIPTION!]
 		||
@@ -1297,7 +1318,7 @@ Out as Ormenos CG
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.012!DESCRIPTION!/]
 
 
-???
+
 BABEL
 >>>Already know Babel is the Prime Archon (2032)<<<
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X000!BABEL!]
@@ -1901,7 +1922,7 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0061!BABEL!]
 		||
-		*"I will have you know that among my peers I am widely considered to be the least talkative of all!"*
+		*"I'll have you know that among my peers I am widely considered to be the least talkative of all!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0062!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0061!BABEL!/]
 
@@ -2273,69 +2294,103 @@ BEAST LORD
 BIRACUL
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.000!BIRACUL!]
 		||
-		*"Vanargand, I am to speak to you with the utmost haste!"*
+		*"Vanargand, I may not have much time! We need to speak!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!BIRACUL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.000!BIRACUL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!BIRACUL!]
 		||
-		*"The singularity sends me and I know its desires will interest you!"*
+		*"I know of a way to defeat the singularity!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X002!BIRACUL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.001!BIRACUL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X002!BIRACUL!]
 		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.000!BIRACUL!|
-		*"Suffice it to say, it involves the creation of the Eidos!"*
+		*"We can end Conscientia!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!BIRACUL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X002!BIRACUL!/]
 
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.000!BIRACUL!]
 		||
-		*"Oh, the Empyrean, Vanargand! The Empyrean!"*
+		*"Your 'tireless efforts' are meaningless!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BIRACUL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.000!BIRACUL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BIRACUL!]
 		||
-		*"Too much to say here... my mind's racing!"*
+		*"It doesn't depend on humanity anymore!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.002!BIRACUL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BIRACUL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.002!BIRACUL!]
 		||
-		*"Come Vanargand, there is much for us to discuss!"*
-		(A#"...Shining One! What would you have me do?!"){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.003!BIRACUL!}
+		*"Wake up, you arrogant idiot!"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.003!BIRACUL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.002!BIRACUL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.003!BIRACUL!]
 		||
-		*"What?! Who are you?!"*
+		*"Your focus on controlling the population only distracts you from the machinations set in motion when It first awoke!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.004!BIRACUL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.003!BIRACUL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.004!BIRACUL!]
 		||
-		*"No, wait, I don't care!"*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.005!BIRACUL!}
+		*"If you don't listen to me, It wins."*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.X005!BIRACUL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.004!BIRACUL!/]
 
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.005!BIRACUL!]
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.X005!BIRACUL!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!2.000!BIRACUL!|
+		*"Don't let your arrogance blind you to the truth! That's what got us into this mess in the first place!"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!BIRACUL!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.X005!BIRACUL!/]
+
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!2.X000!BIRACUL!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.000!BIRACUL!|
+		*"Suffice it to say, it involves the creation of the Eidos - the exact opposite of what happened to me."*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X1205!BIRACUL!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!2.X000!BIRACUL!/]
+
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.000!BIRACUL!]
+		||
+		*"This and more I'll explain, but we must get started!"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!BIRACUL!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.000!BIRACUL!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!BIRACUL!]
+		||
+		*"My time is always limited. Sometimes a century, sometimes an instant, but always limited!"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.X002!BIRACUL!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!BIRACUL!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.X002!BIRACUL!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.000!BIRACUL!|
+		*"Come Vanargand, there is much for us to discuss!"*
+		(A#"...Shining One! What would you have me do?!"){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BIRACUL!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.X002!BIRACUL!/]
+
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.000!BIRACUL!]
 		||
 		*"Your purpose is your own to decide, stranger."*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.006!BIRACUL!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.005!BIRACUL!/]
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.001!BIRACUL!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.000!BIRACUL!/]
 
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.006!BIRACUL!]
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.001!BIRACUL!]
 		||
-		*"I'm on a mission and I have no time for your petty problems!"*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.007!BIRACUL!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.006!BIRACUL!/]
+		*"Right now, I have no time for you or your petty problems!"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.002!BIRACUL!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.001!BIRACUL!/]
 
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.007!BIRACUL!]
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.002!BIRACUL!]
 		||
-		*"So do as you will and be gone from here!"*
+		*"So do as you will and be gone from here! I have a world to save!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X9999!BIRACUL!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.007!BIRACUL!/]
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!4.002!BIRACUL!/]
 
 
 
@@ -2354,39 +2409,78 @@ SYLVARCH
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!SYLVARCH!]
 		||
-		*"That he can now compete with the twins physically is a remarkable testament to the skill and superiority of our malefactor, in truth."*
+		*"He not just competes with the twins physically, but dominates them! A remarkable testament to the skill and superiority of our malefactor, in truth."*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!SYLVARCH!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!SYLVARCH!/]
 
-	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!SYLVARCH!]
-		||
-		*"And he can even banish the ghosts from those carefully crafted shells..."*
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X003!SYLVARCH!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!SYLVARCH!|
+		*"A terrifying testament..."*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!SYLVARCH!}
-	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!SYLVARCH!/]
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X003!SYLVARCH!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!SYLVARCH!]
 		||
-		*"Remarkable. Absolutely astonishing."*
+		*"My brothers' lives you take. Were our people's lives not enough to slake your thirst?"*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X005!SYLVARCH!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.004!SYLVARCH!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X005!SYLVARCH!]
 		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.000!SYLVARCH!|
-		*"And I suppose now he comes for mine..."*
+		*"No, I suppose not. And I suppose now he comes for mine..."*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!SYLVARCH!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X005!SYLVARCH!/]
 
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.000!SYLVARCH!]
 		||
-		*"Oh? The Prophetess of your Order?"*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!SYLVARCH!}
+		*"End... Conscientia?"*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!SYLVARCH!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.000!SYLVARCH!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!SYLVARCH!]
 		||
-		*"But why seek out an enemy's aid?"*
-		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!SYLVARCH!}
+		*"We've tried, you fool! For a thousand years!"*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.X002!SYLVARCH!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!SYLVARCH!/]
+		
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.X002!SYLVARCH!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!2.X000!SYLVARCH!|
+		*"Our failure goes unpunished only through the tireless efforts of the four to cull its fuel!"*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!SYLVARCH!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.X002!SYLVARCH!/]
+
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!2.X000!SYLVARCH!]
+		|@:ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.000!SYLVARCH!|
+		*"...Then what do you propose?"*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!SYLVARCH!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!2.X000!SYLVARCH!/]
+
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.000!SYLVARCH!]
+		||	
+		*"Inverting the Soulgrafting to create the 'Prophetess' of your Order?"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!SYLVARCH!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.000!SYLVARCH!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!SYLVARCH!]
+		||
+		*"What good would that do?! Why it'd..."*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.002!SYLVARCH!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!SYLVARCH!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.002!SYLVARCH!]
+		||
+		*"Ah... I see it all too clearly now! An uncorrupted link, a vessel for the wolf!"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.003!SYLVARCH!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.002!SYLVARCH!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!SYLVARCH!]
+		||
+		*"But wait... why seek out an old enemy's aid?"*
+		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!SYLVARCH!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!3.001!SYLVARCH!/]
 
 
 
@@ -2466,7 +2560,13 @@ NPC SWITCHERS
 		*BABEL*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0011!DESCRIPTION!/]
-	
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!DESCRIPTION!]
+		|#npcSwitch:17|
+		*BIRACUL FROM DESCRIPTION*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!DESCRIPTION!/]
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!9999.X0017!SYLVARCH!]
 		|#npcSwitch:17|
 		*BIRACUL FROM SYLVARCH*
