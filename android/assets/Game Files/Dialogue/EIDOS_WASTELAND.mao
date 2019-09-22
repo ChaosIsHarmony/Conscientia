@@ -3117,7 +3117,7 @@ disaster
 	
 	[/KABU!WASTELAND!GATES OF DAWN!1.0022!HEYAR!]
 		||
-		*"You mean to say you don't recall opening a path for Khlutt to cross the Crescent Canyon and thus bringing his murderous fury - no! WRATH! - down upon Dazir?! Falling like a cosmic hammer of self-righteousness to shatter a millennium of Kaban stability!?"*
+		*"You mean to say you don't recall opening a path for the Tacribians to cross the Crescent Canyon, thus unleashing their murderous fury - no! WRATH! - down upon Dazir?! Falling like a cosmic hammer of self-righteousness to shatter a millennium of Kaban stability!?"*
 		(A#"..."){A:0,KABU!WASTELAND!GATES OF DAWN!1.0023!HEYAR!}
 	[KABU!WASTELAND!GATES OF DAWN!1.0022!HEYAR!/]
 

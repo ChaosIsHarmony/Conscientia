@@ -223,10 +223,10 @@
 {KABU!DAWN FORTRESS!COURTYARD!90.X000!LOGIRA!}
 
 {KABU!DAWN FORTRESS!COURTYARD!92.X999!LOGIRA!}
-// You open the flood gate
-|11414:KABU!DAWN FORTRESS!COURTYARD!92.X200!LOGIRA!,
 // Destroy flood gate crystal
 |11427:KABU!DAWN FORTRESS!COURTYARD!92.X000!LOGIRA!,
+// You open the flood gate (11414)
+|-1:KABU!DAWN FORTRESS!COURTYARD!92.X200!LOGIRA!,
 {KABU!DAWN FORTRESS!COURTYARD!92.X999!LOGIRA!}
 
 {KABU!DAWN FORTRESS!MAGE'S ABODE!0.X000!KHLUTT!}
@@ -420,12 +420,14 @@
 {b}
 |^12008^*12011^:KABU!SANCTUARY!AWAKENING CHAMBER!9999.X9999!FENRIR!,
 |^*12008^12011^:KABU!SANCTUARY!AWAKENING CHAMBER!9999.X9999!FENRIR!,
+|-1:KABU!SANCTUARY!AWAKENING CHAMBER!9999.X9999!FENRIR!,
 {b}
 // got awareness but haven't destroyed both Luin and Workshop
 |12400:c,
 {c}
 |^12408^*12011^:KABU!SANCTUARY!AWAKENING CHAMBER!9999.X9999!FENRIR!,
 |^*12408^12011^:KABU!SANCTUARY!AWAKENING CHAMBER!9999.X9999!FENRIR!,
+|-1:KABU!SANCTUARY!AWAKENING CHAMBER!9999.X9999!FENRIR!,
 {c}
 // haven't yet met fenrir i.e. event 20000 is true from previous saveFile
 |*12900:KABU!SANCTUARY!AWAKENING CHAMBER!20.000!FENRIR!,
@@ -791,14 +793,20 @@
 // Exiled poisoning + travelling with Heyar or not met him yet + Heyar not dead
 |^11417^*16023^:a,
 {a}
+// Traveling with Heyar or Not traveling with H but met once
 |$16020$*16021$:KABU!WASTELAND!ARK'S BEACON!1.000!DESCRIPTION!,
+// need to terminate
+|-1:KABU!WASTELAND!ARK'S BEACON!1.000!DESCRIPTION!,
 {a}
 // Exiled for poisoning no heyar
 |11417:KABU!WASTELAND!ARK'S BEACON!2.000!DESCRIPTION!,
 // Exiled + heyar convo possible + khlutt stole luin
 |^20003^*16023^:b,
 {b}
+// Traveling with Heyar or Not traveling with H but met once
 |$16020$*16021$:KABU!WASTELAND!ARK'S BEACON!1.000!DESCRIPTION!,
+// need to terminate
+|-1:KABU!WASTELAND!ARK'S BEACON!1.000!DESCRIPTION!,
 {b}
 // Exiled + luin stolen + no heyar
 |20003:KABU!WASTELAND!ARK'S BEACON!2.000!DESCRIPTION!,
@@ -834,7 +842,10 @@
 // Exiled + travelling with Heyar or not met him yet + heyar not dead
 |^11417^*16023^:a,
 {a}
+// Traveling with Heyar or Not traveling with H but met once
 |$16020$*16021$:KABU!WASTELAND!CRESCENT CANYON!2.X000!DESCRIPTION!,
+// need to terminate
+|-1:KABU!WASTELAND!CRESCENT CANYON!2.X000!DESCRIPTION!,
 {a}
 // Exited of own accord
 |-1:KABU!WASTELAND!CRESCENT CANYON!0.0000!DESCRIPTION!,
@@ -894,6 +905,8 @@
 |15108:KABU!WASTELAND!GATES OF DAWN!1.0022!HEYAR!,
 //Khlutt is dead
 |15999:KABU!WASTELAND!GATES OF DAWN!1.0020!HEYAR!,
+// needs to terminate or else can cause crash when loading from save
+|-1:KABU!WASTELAND!GATES OF DAWN!1.0022!HEYAR!,
 {KABU!WASTELAND!GATES OF DAWN!1.X002!HEYAR!}
 
 {KABU!WASTELAND!GATES OF DAWN!1.X0040!HEYAR!}
@@ -901,6 +914,8 @@
 |15108:KABU!WASTELAND!GATES OF DAWN!1.0042!HEYAR!,
 //Khlutt is dead
 |15999:KABU!WASTELAND!GATES OF DAWN!1.0041!HEYAR!,
+// needs to terminate or else can cause crash when loading from save
+|-1:KABU!WASTELAND!GATES OF DAWN!1.0042!HEYAR!,
 {KABU!WASTELAND!GATES OF DAWN!1.X0040!HEYAR!}
 
 {KABU!WASTELAND!OBSIDIAN RUIN!0.X000!DESCRIPTION!}
@@ -915,7 +930,9 @@
 // See Hel at Obsidian Ruin
 |16105#16105:KABU!WASTELAND!OBSIDIAN RUIN!0.500!DESCRIPTION!, 
 // See Jormungund at Obsidian Ruin
-|16106#16106:KABU!WASTELAND!OBSIDIAN RUIN!0.600!DESCRIPTION!, 
+|16106#16106:KABU!WASTELAND!OBSIDIAN RUIN!0.600!DESCRIPTION!,
+// needs to terminate or else can cause crash when loading from save
+|-1:KABU!WASTELAND!OBSIDIAN RUIN!0.100!DESCRIPTION!,
 {KABU!WASTELAND!OBSIDIAN RUIN!0.X000!DESCRIPTION!}
 
 {KABU!WASTELAND!SALT FOREST!10.X000!DESCRIPTION!}
@@ -1024,7 +1041,10 @@
 // Exiled + travelling with Heyar or not met him yet + heyar not dead
 |^11417^*16023^:a,
 {a}
+// Traveling with Heyar or Not traveling bbut met him once
 |$16020$*16021$:KABU!WASTELAND!THE VEDT!2.X000!DESCRIPTION!,
+// needs to terminate or can cause crash when loading from save
+|-1:KABU!WASTELAND!THE VEDT!2.X000!DESCRIPTION!,
 {a}
 // Exited of own accord
 |-1:KABU!WASTELAND!THE VEDT!0.X0000!DESCRIPTION!,
@@ -1288,6 +1308,8 @@
 |$11409$11410$11411$:a,
 {a}
 |*11429:KABU!WELLSPRING!THRONE ROOM!10.000!DESCRIPTION!,
+// must terminate or can cause crash when loading from save
+|-1:KABU!WELLSPRING!THRONE ROOM!10.000!DESCRIPTION!,
 {a}
 // virgin entrance
 |-1:KABU!WELLSPRING!THRONE ROOM!0.000!DESCRIPTION!,

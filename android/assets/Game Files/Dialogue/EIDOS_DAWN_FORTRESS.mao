@@ -2421,7 +2421,7 @@ W/ Assala
 		
 		Two men stay behind to collect the defeated Eidos and a caged Daziran, and then, rather unceremoniously, march them to the gates.
 		
-		Eidos and Heyar's bonds are removed and they are thrust out onto the burning sands at spearpoint. The gate begins to close begrudgingly, groans of iron on iron voicing its complaints...*
+		Eidos and the other prisoner are soon thrust out onto the burning sands at spearpoint. The gate begins to close begrudgingly, groans of iron on iron voicing its complaints...*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!77.008!DESCRIPTION!/]
 	

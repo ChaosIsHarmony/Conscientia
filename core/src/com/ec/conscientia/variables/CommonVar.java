@@ -34,7 +34,8 @@ public class CommonVar {
 			Acquirable.WHISPERED_PROPHECY_TOME, Acquirable.BOOK_OF_QUANGJO_VOL_XVII_TOME,
 			Acquirable.BOOK_OF_QUANGJO_VOL_XX_TOME, Acquirable.ART_AND_ARTIFICE, Acquirable.THE_INFINITE_PURSUIT,
 			Acquirable.ORIGINS_OF_THE_SCHISM, Acquirable.PRIMORDIAL_TECHNOCRAFT, Acquirable.SPECTRAL_PROJECTION,
-			Acquirable.WAYFARER_EXTRACTIONS, Acquirable.PRIME_ARCHON_LIST, Acquirable.BEFORE_THE_FALL_I, Acquirable.BEFORE_THE_FALL_II, Acquirable.BEFORE_THE_FALL_III,
+			Acquirable.WAYFARER_EXTRACTIONS, Acquirable.PRIME_ARCHON_LIST, Acquirable.BEFORE_THE_FALL_I,
+			Acquirable.BEFORE_THE_FALL_II, Acquirable.BEFORE_THE_FALL_III,
 			// MINDSCAPE NPCs
 			Acquirable.FENRIR, Acquirable.HEL, Acquirable.JORMUNGUND, Acquirable.LUIN, Acquirable.ORMENOS,
 			Acquirable.GULGANNA, Acquirable.NARGUND, Acquirable.FAMLICUS, Acquirable.CONQUISTIS_GUERNICUS,
