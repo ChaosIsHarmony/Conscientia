@@ -443,13 +443,13 @@ sanctuary
 |12011:false, Destroyed Luin crystal
 |12300:false, Got Luin (per)
 |12301:false, Got Luin blade (per)
-|12302:false, Got Luin armour (per)
+|12302:false, Got Luin armor (per)
 |12303:false, Collected tongues glyph tome (per)
 |12304:false, Learned hidden mind (per)
 |12305:false, Collected Glyphs tome (per)
 |12306:false, Collected Thetian tome (per)
-|12307:false, Ressurrected the muninn tree (per)
-|12308:false, Collected the muninn tree tome (per)
+|12307:false, Resurrected the Muninn tree (per)
+|12308:false, Collected the Muninn tree tome (per)
 |12400:false, Learned Awareness glyph
 |12401:false, Learned workshop clue (per)
 |12402:false, Unlocked workshop

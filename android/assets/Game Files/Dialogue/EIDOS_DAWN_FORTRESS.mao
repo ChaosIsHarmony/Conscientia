@@ -2487,7 +2487,7 @@ trial stuff
 >>>Met Heyar (15005)<<<
 	[/KABU!DAWN FORTRESS!COURTYARD!90.X000!DESCRIPTION!]
 		|^15005:KABU!DAWN FORTRESS!COURTYARD!91.000!DESCRIPTION!|
-		*Eidos awakens. Hands and feet bound, the coarse ropes leaving painful abrasions as they mercilessly writhed around her wrists and ankles. She is inside a cage in the middle of a dust-covered courtyard with high sandstone walls for as far as the eye can see. Not far from her, a lanky man reclines in one of the corners. 
+		*Eidos awakens. Hands and feet bound, the coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. She is inside a cage in the middle of a dust-covered courtyard with high sandstone walls for as far as the eye can see. Not far from her, a lanky man reclines in one of the corners. 
 		
 		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of a great pyre.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!}
@@ -2495,7 +2495,7 @@ trial stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!91.000!DESCRIPTION!]
 		||
-		*Eidos awakens. Hands and feet bound, the coarse ropes leaving painful abrasions as they mercilessly writhed around her wrists and ankles. She is inside the cage in the middle of the Dawn Fortress courtyard. Not far from her, the familiar form of Heyar reclines in one of the corners. 
+		*Eidos awakens. Hands and feet bound, the coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. She is inside the cage in the middle of the Dawn Fortress courtyard. Not far from her, the familiar form of Heyar reclines in one of the corners. 
 		
 		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of a great pyre.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!}
@@ -4252,7 +4252,7 @@ trial
 		(C#"..."){C:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(D#"I tell you, this witch is speaking lies! I did not do this!"){D:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(E#"I wanted you all to die."){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
-		(F#"My policy: go big or go home! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
+		(F#"My policy is maximum randomness! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!93.X000!KHLUTT!/]
 
 	[/KABU!DAWN FORTRESS!COURTYARD!93.X100!KHLUTT!]
@@ -4263,7 +4263,7 @@ trial
 		(C#"..."){C:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(D#"I intended to save you, but I was betrayed by this witch!"){D:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(E#"That is none of your concern."){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
-		(F#"My policy: go big or go home! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
+		(F#"My policy is maximum randomness! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!93.X100!KHLUTT!/]
 
 	[/KABU!DAWN FORTRESS!COURTYARD!93.X200!KHLUTT!]
@@ -4274,7 +4274,7 @@ trial
 		(C#"..."){C:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(D#"I intended to save you, of course!"){D:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(E#"That is none of your concern."){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
-		(F#"My policy: go big or go home! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
+		(F#"My policy is maximum randomness! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!93.X200!KHLUTT!/]		
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!93.X300!KHLUTT!]
@@ -4285,7 +4285,7 @@ trial
 		(C#"..."){C:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(D#"I'm not to blame! A lunatic in the Wellspring caused this!"){D:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(E#"I wanted you all to die."){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
-		(F#"My policy: go big or go home! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
+		(F#"My policy is maximum randomness! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!93.X300!KHLUTT!/]	
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!93.X400!KHLUTT!]
@@ -4296,7 +4296,7 @@ trial
 		(C#"..."){C:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(D#"Khaa commanded me to do this! The fault is his!"){D:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 		(E#"I wanted you all to die."){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
-		(F#"My policy: go big or go home! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
+		(F#"My policy is maximum randomness! How could I refuse?"){E:1,KABU!DAWN FORTRESS!COURTYARD!9999.X0201!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!93.X400!KHLUTT!/]	
 
 	
@@ -4382,25 +4382,25 @@ have hidden mind, but did wellspring stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.100!KHLUTT!]
 		||
-		*"Then she is stained!? Stained as the Unseen!"*
+		*"Then she is stained!? A filthy Unseen!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.101!KHLUTT!}	
 	[KABU!DAWN FORTRESS!COURTYARD!96.100!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.101!KHLUTT!]
 		||
-		*"But that is impossible... Did Khaa work this evil?"*
+		*"But that's impossible... Did Khaa work this evil?"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.102!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!96.101!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.102!KHLUTT!]
 		||
-		*"No... This villainy runs deeper..."*
+		*"No... This villainy runs deeper still..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.103!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!96.102!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.103!KHLUTT!]
 		||
-		*"The spawn of Jinns you must be!"*
+		*"The spawn of a Jinn, that's what you must be!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.104!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!96.103!KHLUTT!/]
 	
@@ -4424,13 +4424,13 @@ have hidden mind, but did wellspring stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.107!KHLUTT!]
 		||
-		*"The desolation of your will and word shall be ground to nothing by sand and time!"*
+		*"The desolation of your will and word shall be ground to nothing by the wind and sand!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.108!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!96.107!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.108!KHLUTT!]
 		||
-		*"To the Wasteland, you will return!"*
+		*"From the corrupted Wastes you come, and to them you return!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X9999!KHLUTT!}	
 	[KABU!DAWN FORTRESS!COURTYARD!96.108!KHLUTT!/]	
 
@@ -4633,19 +4633,19 @@ LOGIRA
 have hidden mind
 	[/KABU!DAWN FORTRESS!COURTYARD!95.000!LOGIRA!]
 		||
-		*"...Her mind... it's inscrutable..!"*
+		*"...Her mind... it's Unseen!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!95.001!LOGIRA!}
 	[KABU!DAWN FORTRESS!COURTYARD!95.000!LOGIRA!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!95.001!LOGIRA!]
 		||
-		*"She but not by our design..."*
+		*"But how odd, it's clearly not by our design..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!95.002!LOGIRA!}
 	[KABU!DAWN FORTRESS!COURTYARD!95.001!LOGIRA!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!95.002!LOGIRA!]
 		||
-		*"She is marked by another."*
+		*"She is marked by another!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0014!LOGIRA!}
 	[KABU!DAWN FORTRESS!COURTYARD!95.002!LOGIRA!/]
 	

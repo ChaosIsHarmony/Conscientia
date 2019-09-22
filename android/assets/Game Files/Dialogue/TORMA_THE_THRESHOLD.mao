@@ -1023,7 +1023,7 @@ Coming from FoD
 Out as Torma CG
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.001!DESCRIPTION!]
 		||
-		*Torma walks along the twinned scenes of chaos and carnage. Mutilated corpses carpet the courtyard, and those yet living seem to simply be awaiting slaughter by the gargantuan beasts whose footsteps shake the very foundations of the Enclave. Groups of magi summon obscure and forbidden Techne to fight these amethyst warbeasts... to no avail. Their skin is impenetrable; their minds are impregnable...*
+		*Torma passes through the splintering remnants of what were once oak doors. Her traversal brings her to a vast courtyard alight with ephemeral yet consistent flashes and sparks. She walks along the twinned scenes of chaos and carnage. Mutilated corpses carpet the courtyard, and those yet living seem to simply be waiting to join. Two gargantuan beasts, mirror reflections of each other, force the transition between life and death, meticulously slaughtering all present. Groups of magi summon obscure and forbidden Techne to fight these amethyst warbeasts... to no avail. Their skin is impenetrable; their minds are impregnable...*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.002!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!30.001!DESCRIPTION!/]
 
@@ -1243,17 +1243,17 @@ Out as Torma CG
 		(F#EIDOS){F:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!31.019!DESCRIPTION!/]
 
-???
+
 Out as Ormenos CG
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.001!DESCRIPTION!]
 		||
-		*Ormenos stumbles through the mighty Enclave doors and into pandemonium. Walking along the scene of chaos and carnage, the wearied mage witnesses the mutilated corpses strewn all about, with countless more now being slaughtered by the gargantuan beasts whose footsteps shake the very foundations of the earth. Groups of Enclavean Enforcers summon obscure and forbidden Techne to fight these amethyst warbeasts, but to no avail.*
+		*Ormenos stumbles through a set of mighty oaken doors and into pandemonium. He walks along the twinned scenes of chaos and carnage. Mutilated corpses carpet the courtyard, and those yet living seem to simply be waiting to join. Two gargantuan beasts, mirror reflections of each other, force the transition between life and death, meticulously slaughtering all present. Groups of magi summon obscure and forbidden Techne to fight these amethyst warbeasts... to no avail.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.002!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.002!DESCRIPTION!]
 		||
-		*Their hide is impenetrable.*
+		*Their hides are impenetrable.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.003!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.002!DESCRIPTION!/]
 
@@ -1271,51 +1271,63 @@ Out as Ormenos CG
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.005!DESCRIPTION!]
 		||
-		*Amid the chaos, Ormenos then notices nearby that his apprentice, the Mind Seer, stares on fear-stricken, horrified and broken. They both know they are trapped, condemned to perish at the hands of this unknown demon of old, this slayer of the Vanquished, this Master whom they had feared their whole existence, yet never realized it.* 
+		*Amid the chaos, Ormenos notices his apprentice nearby, the Mind Seer. He stares on fear-stricken, horrified, broken. They both know they are trapped, condemned to perish at the hands of this unknown demon of old, this slayer of the Vanquished. This is the embodiment of their unspoken fears, the falling into place of tumbling dice. Before there was uncertainty... maybe, just maybe the Masters and their destructive legacy were mere myths. But, with the myths of old now come to life, little doubt remains of how very vulnerable humanity really is.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.006!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.005!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.006!DESCRIPTION!]
 		||
 		*This is the end.*
-		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.007!DESCRIPTION!}
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.0060!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.006!DESCRIPTION!/]
+	
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.0060!DESCRIPTION!]
+		||
+		*Ormenos grabs the Mind Seer into a desperate embrace - whether seeking to give or to receive comfort, panic blurs the distinction. He tries to close his eyes, but cannot. A moth to the flame, he seems entranced by the source of his own destruction.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.007!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.0060!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.007!DESCRIPTION!]
 		||
-		*As this thought begins evanesce into the greedy void along with all hope, out from the depths of the Enclave emerges a familiar figure. Indeed, the very subject of Ormenos' constant attention for the last few years, Torma the Wayfarer comes forth from the crumbling underhalls. She too has somehow managed to shuck the bonds of her captivity and walks once more in the Falseflesh.*
+		*Then, out from the depths of the Enclave emerges a familiar figure. Indeed, the very subject of Ormenos' constant attention for the last few years. Through the shattered remnants of the Enclave's doors, Torma the Wayfarer comes forth. She too has somehow managed to shuck the bonds of her captivity and walks once more in the Falseflesh.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.008!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.007!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.008!DESCRIPTION!]
 		||
-		*After ambling toward the Stone Circle, she unhesitatingly performs some bizarre and supernatural Techne, illuminating the ancient circle with a terrible brilliance. What remains when the light dies down shocks Ormenos to the core. For birthed from the ether, a tall, pale humanoid materializes. In the space of a thought, the summoned being rushes toward the two destructive behemoths, driving them away from the defenseless magi and off towards the forest where they disappear from view.*
+		*She ambles toward the Stone Circle where she unhesitatingly performs the most bizarre and complex Techne Ormenos has ever witness. Its effects are not immediately apparent, yet soon the ancient circle is awash with a terrible brilliance. What remains when the light dies down shocks the observer to the core.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.009!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.008!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.009!DESCRIPTION!]
 		||
-		*The battle between these awful forces of artifice remains perceptible only by the earth-shattering tremors which shift the ground beneath Ormenos' feet and the cacophonous collisions of impossibly dense, unimaginably tough Falsefleshes.*
+		*Birthed from the ether, a tall, pale humanoid materializes. In the space of a thought, the summoned being rushes toward the two destructive behemoths - a mantis charging a loaded hay cart. Yet against all odds, Torma's guardian drives the twinned beasts away from the defenseless magi and off towards the forest.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.010!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.009!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.010!DESCRIPTION!]
 		||
-		*Finally, the dismal clouds of despair part, allowing a single ray of hope to shine upon Ormenos. A moment of lucidity reveals that this is his only chance to escape.*
+		*The battle between these awful forces of artifice is not so much seen as heard and felt, remaining perceptible only by the earth-shattering tremors which shift the ground and the cacophonous collisions of impossibly dense, unimaginably tough Falsefleshes.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.011!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.010!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.011!DESCRIPTION!]
-		||
-		*Grabbing his young acolyte - out of fear of loneliness or out of genuine concern is impossible to tell - he runs for the destroyed gates of the courtyard and to the uncertainty of what lies ahead. All he knows is that preferable to the unforgiving definiteness of death is the uncertainty of flight.*
+		||		
+		*Finally, the dismal clouds of despair part, allowing a single ray of hope to shine upon Ormenos. A moment of lucidity reveals that this is his only chance to escape.*
 		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.012!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.011!DESCRIPTION!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.012!DESCRIPTION!]
 		||
-		*The Mind Seer, as if in a dream, runs, terrified both of life and of death, knowing not which to choose. His mind is on the brink of completely shutting down, a way to let fate decide. Then...*
-		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
+		*Grabbing his young acolyte, he runs for the fallen gates leading to the Forest of Deception. All he knows is that preferable to the unforgiving definiteness of death is the uncertainty of flight.*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.013!DESCRIPTION!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.012!DESCRIPTION!/]
+
+	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.013!DESCRIPTION!]
+		||
+		*The Mind Seer, as if in a dream, runs, terrified both of life and of death, knowing not which one to choose. His mind is on the brink of complete collapse, a way to let fate decide. Then...*
+		(A#...){A:0,ENCLAVE!THE THRESHOLD!FOREST OF DECEPTION!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!40.013!DESCRIPTION!/]
 
 
 
@@ -1680,32 +1692,32 @@ BABEL
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0151!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0260!BABEL!/]
 
-???
+
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032!BABEL!]
 		||
-		*"I am surprised one as learned and as well-informed as Brother Inquisitor has not yet heard of such a trial..."*
+		*"I'm surprised one as learned and as well-informed as Brother Inquisitor has not yet heard of such a trial..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0320!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0320!BABEL!]
 		||
-		*"If you have greater interest in learning of this trial, perhaps you could go to the Seat of the True Archon in the Archives to learn more of it!"*
+		*"But then again, not many go to the Seat of the True Archon anymore. A tragedy, really."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0321!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0320!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0321!BABEL!]
 		||
-		*"That is of course, only after completing your pending report to the Choir of Archons, I would assume."*
-		(C#"Then, I shall take my leave."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
-		(D#"How is it you know so much about this?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0324!BABEL!}
+		*"But I've probably wasted enough of your time already; wouldn't want to delay your report to the Choir of Archons!"*
+		(C#"Sure, it's about time for that, I guess."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
+		(D#"How is it you know so much about this trial?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0324!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0321!BABEL!/]
 
 >>>Heard the tale of the mantis and the cicada (2074)<<<
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0324!BABEL!]
 		|^2074:ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0424!BABEL!|
 		*"...Tell me, Brother Inquisitor, have you heard the old Phrygian tale of the mantis hunting the cicada?"*
-		(B#"I have not."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!}
-		(D#"...Yes of course, what of it?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03240!BABEL!}
+		(B#"I haven't; enlighten me."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!}
+		(D#"...Yes, of course, what of it?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03240!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0324!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03240!BABEL!]
@@ -1717,14 +1729,14 @@ BABEL
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03241!BABEL!]
 		||
 		*"But refresh my memory, what was the moral of the tale?"*
-		(B#"I apologize. I must have been thinking of another story."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!}
-		(D#"...It seems peculiar you would bring up a story without knowing why..."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03242!BABEL!}
+		(B#"I apologize. I must've been thinking of another story."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!}
+		(D#"...It seems peculiar you'd bring up a story without knowing why..."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03242!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03241!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03242!BABEL!]
 		||
-		*"True enough, but your reticence to recall such basic information leads me to suspect you are not being truthful with me, Brother Inquisitor."*
-		(B#"You seem to know I have not actually heard this story."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!}
+		*"True enough, but your reticence to recall such basic information leads me to suspect you're not being forthcoming with me, Brother Inquisitor."*
+		(B#"You seem to know I haven't actually heard this story..."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2074!BABEL!}
 		(D#"I've had enough of your accusations, junior Thought-Weaver!"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.014!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03242!BABEL!/]
 
@@ -1736,13 +1748,13 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03244!BABEL!]
 		||
-		*"One day, a lone cicada was perched upon a tree siphoning the lifeblood sap of a given forest tree."*
+		*"One day, a lone cicada was perched upon a tree, coaxing the lifeblood from it for its midday meal."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03245!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03244!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03245!BABEL!]
 		||
-		*"Yet, unbeknownst to it, lurking in the shadows behind it was a mantis, looking to satisfy the very urge the cicada now satisfied."* 
+		*"Yet, unbeknownst to the cicada, a mantis lurked within the shadows beyond, looking to satisfy the very urge the cicada now satisfied."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03246!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03245!BABEL!/]
 
@@ -1754,13 +1766,13 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03247!BABEL!]
 		||
-		*"For a famished bird traveling from the south spotted the mantis, whose attention was placed far too firmly upon its prey to notice the danger it itself faced."* 
+		*"For a famished bird traveling from the south spotted the mantis, whose attention was placed far too firmly upon its own prey to notice its own peril."* 
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03248!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03247!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03248!BABEL!]
 		||
-		*"This bird, though, held not only similar urges, but likewise a similar fate!"*
+		*"This bird, though, held not only similar urges to its unfortunate victims, but likewise a similar fate!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03249!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03248!BABEL!/]
 
@@ -1772,9 +1784,9 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032490!BABEL!]
 		||
-		*"Now, dearest Brother, who hunts the man?"*
-		(B#"It is impossible to know, since he is focused on the bird."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032491!BABEL!}
-		(D#"...I would rather not stick around to find out..."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
+		*"But this leaves one question, Brother... Who hunts the man?"*
+		(B#"It's impossible to know, as he's focused on the bird."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032491!BABEL!}
+		(D#"...I'd rather not stick around to find out..."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032490!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032491!BABEL!]
@@ -1791,32 +1803,32 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032493!BABEL!]
 		||
-		*"One need simply focus too much on their prey and the answer will natural pounce upon them..."*
+		*"One need simply focus too much on their prey and the answer will naturally pounce upon them..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032494!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032493!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032494!BABEL!]
 		||
-		*"But I will delay you no longer, Brother!"*
+		*"Inevitably, the answer becomes clear..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032495!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032494!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032495!BABEL!]
 		||
-		*"For I wish not to be implicated in preventing you from completing your duties!"*
+		*"But I've wasted enough of your precious time and will delay your report to the Choir no longer, Brother!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032496!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032495!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032496!BABEL!]
 		||
-		*"Farewell, Brother; and have a pleasant day!"*
+		*"For the good of the Order!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.032496!BABEL!/]
 
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0424!BABEL!]
 		||
-		*"...Have you heard the old Phrygian tale of mantis hunting the cicada?"*
+		*"...Tell me, Brother Inquisitor, have you heard the old Phrygian tale of mantis hunting the cicada?"*
 		(B#"I have."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X04240!BABEL!}
 		(D#"...No, please enlighten me."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03243!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.0424!BABEL!/]
@@ -1831,8 +1843,8 @@ BABEL
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04241!BABEL!]
 		||
 		*"But refresh my memory, what was the moral of the tale?"*
-		(B#"I know not what lurks behind if I focus too much on what's in front."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04242!BABEL!}
-		(D#"It was ages ago that I heard this story! So please refresh my memory..."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03242!BABEL!}
+		(B#"What lurks behind is invisible to those who focus on what's in front."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04242!BABEL!}
+		(D#"It was ages ago that I heard this story! So please, refresh my memory..."){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.03242!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04241!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04242!BABEL!]
@@ -1843,21 +1855,22 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04243!BABEL!]
 		||
-		*"Then my point is made and I will take my leave."*
+		*"Then my point is made and I'll take my leave."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04244!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04243!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04244!BABEL!]
 		||
-		*"For I wish not to be implicated in preventing you from completing your duties!"*
+		*"Wouldn't want to keep you from completing your duties!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04245!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04244!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04245!BABEL!]
 		||
-		*"Farewell, Brother; and have a pleasant day!"*
+		*"For the good of the Order!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04245!BABEL!/]
+
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04246!BABEL!]
 		||
@@ -1868,13 +1881,13 @@ BABEL
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04247!BABEL!]
 		||
 		*"But refresh my memory, what was the moral of the tale?"*
-		(B#"I know not what lurks behind if I focus too much on what's in front."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04243!BABEL!}
-		(D#"Would the Prime Archon not be more qualified to pontificate upon its moral..?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04248!BABEL!}
+		(B#"What lurks behind is invisible to those who focus on what's in front."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04242!BABEL!}
+		(D#"Wouldn't the Prime Archon be more qualified to pontificate upon its moral..?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04248!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04247!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04248!BABEL!]
 		||
-		*"...You are highly qualified indeed, Brother Ormenos. But only time will tell whether you have understood the terrifying implications of this parable fully. Until then, I bid you farewell."*
+		*"...You're highly qualified indeed, Brother Ormenos. But only time will tell whether you've truly understood the terrifying implications of this parable. Until then, I bid you farewell."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!9990.X2021!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.04248!BABEL!/]
 
@@ -1887,30 +1900,30 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0000!BABEL!]
 		||
-		*"What brings you here? Are you not supposed to be giving your report to the Choir of Archons?"*
+		*"What brings you here? I thought you'd be giving your report to the Choir of Archons about now..."*
 		(A#"I should, but I wonder if the Prime Archon could spare a moment for me."){A:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BABEL!}
-		(B#"Indeed, but I want to first reflect upon my findings."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!BABEL!}
+		(B#"True, but I wanted to first reflect upon my findings."){B:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.002!BABEL!}
 		(C#"Maybe I should go..."){C:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.003!BABEL!}
-		(D#"What brings the Prime Archon to the Stone Circle?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BABEL!}
-		(E#"You will wait until I'm ready, you sly bastard."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.005!BABEL!}
+		(D#"Perhaps I should ask, what brings the Prime Archon to the Stone Circle?"){D:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BABEL!}
+		(E#"You'll wait until I'm ready, you sly bastard."){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.005!BABEL!}
 		(F#"Hey, I know you! You're the secret leader that speaks too much!"){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.006!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0000!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BABEL!]
 		||
-		*"...I must say, I am taken aback by your words, Brother Ormenos..."*
+		*"...I must say, I'm taken aback by your words, Brother Ormenos..."*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X0324!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.005!BABEL!]
 		||
-		*"Have I offended you, Brother Inquisitor? It was not my intent to do so!"*
+		*"Have I offended you, Brother Inquisitor? It certainly wasn't my intent to do so!"*
 		(E#"Drop the act, 'Prime Archon' Babel!"){E:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.005!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.006!BABEL!]
 		||
-		*"I do not speak too much!"*
+		*"I do NOT speak too much!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0060!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.006!BABEL!/]
 
@@ -1922,14 +1935,14 @@ BABEL
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0061!BABEL!]
 		||
-		*"I'll have you know that among my peers I am widely considered to be the least talkative of all!"*
+		*"I'll have you know that among my peers I'm widely considered to be the tersest of talkers, the succinctest of speakers!"*
 		(A#"..."){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0062!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0061!BABEL!/]
 
 	[/ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0062!BABEL!]
 		||
 		*"And furthermore!... wait... did you say secret leader?"*
-		(F#"Though you're no Mushroom Duke, you are the Prime Archon: the Babbler."){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BABEL!}
+		(F#"Though you're no Mushroom Duke, you ARE the Prime Archon - the Babbler!"){F:1,ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.001!BABEL!}
 	[ENCLAVE!THE THRESHOLD!STONE CIRCLE!1.0062!BABEL!/]
 
 
