@@ -42,8 +42,10 @@ public class LogMenu {
 		final ImageButtonStyle imgLogBS = new ImageButtonStyle();
 		final ImageButton logImgAreaButton = new ImageButton(imgLogBS);
 		final Label logVersionLabel;
-		if (mgScr.getConscientia().isUseAltFont())
-			logVersionLabel = new Label("", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			logVersionLabel = new Label("", skin);
+			logVersionLabel.setStyle(mgScr.loadingUtils.getLabelStyle(24));
+		}
 		else
 			logVersionLabel = new Label("", skin);
 
@@ -56,8 +58,10 @@ public class LogMenu {
 
 		// text explanation area
 		final Label textExplanationArea;
-		if (mgScr.getConscientia().isUseAltFont())
-			textExplanationArea = new Label("", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			textExplanationArea = new Label("", skin);
+			textExplanationArea.setStyle(mgScr.loadingUtils.getLabelStyle(24));
+		}
 		else
 			textExplanationArea = new Label("", skin);
 		textExplanationArea.setWrap(true);
@@ -74,8 +78,10 @@ public class LogMenu {
 		logs.setDisabled(true);
 
 		final List<Log> list;
-		if (mgScr.getConscientia().isUseAltFont())
-			list = new List<Log>(skin, "whiners_no_bg");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			list = new List<Log>(skin);
+			list.setStyle(mgScr.loadingUtils.getListStyle("no_bg"));
+		}
 		else
 			list = new List<Log>(skin, "no_bg");
 		ArrayList<Log> tempList = new ArrayList<Log>();
@@ -106,8 +112,10 @@ public class LogMenu {
 
 		// resume button
 		final TextButton resume;
-		if (mgScr.getConscientia().isUseAltFont())
-			resume = new TextButton("Resume", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			resume = new TextButton("Resume", skin);
+			resume.setStyle(mgScr.loadingUtils.getTextButtonStyle("default"));
+		}
 		else
 			resume = new TextButton("Resume", skin);
 		resume.addListener(new ClickListener() {
@@ -121,8 +129,10 @@ public class LogMenu {
 		});
 
 		final TextButton back;
-		if (mgScr.getConscientia().isUseAltFont())
-			back = new TextButton("Back", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			back = new TextButton("Back", skin);
+			back.setStyle(mgScr.loadingUtils.getTextButtonStyle("default"));
+		}
 		else
 			back = new TextButton("Back", skin);
 		back.addListener(new ClickListener() {

@@ -28,8 +28,10 @@ public class OptionsMenu {
 
 		// sound checkbox
 		final CheckBox soundCB;
-		if (mgScr.getConscientia().isUseAltFont())
-			soundCB = new CheckBox(" SFX On/Off", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			soundCB = new CheckBox(" SFX On/Off", skin);
+			soundCB.setStyle(mgScr.loadingUtils.getCheckBoxStyle("default"));
+		}
 		else
 			soundCB = new CheckBox(" SFX On/Off", skin);
 		soundCB.addListener(new ClickListener() {
@@ -54,8 +56,10 @@ public class OptionsMenu {
 
 		// bgm checkbox
 		final CheckBox bgmCB;
-		if (mgScr.getConscientia().isUseAltFont())
-			bgmCB = new CheckBox(" BGM On/Off", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			bgmCB = new CheckBox(" BGM On/Off", skin);
+			bgmCB.setStyle(mgScr.loadingUtils.getCheckBoxStyle("default"));
+		}
 		else
 			bgmCB = new CheckBox(" BGM On/Off", skin);
 		bgmCB.addListener(new ClickListener() {
@@ -81,8 +85,10 @@ public class OptionsMenu {
 
 		// whiner's font
 		final CheckBox altFontCB;
-		if (mgScr.getConscientia().isUseAltFont())
-			altFontCB = new CheckBox(" Change Font", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			altFontCB = new CheckBox(" Change Font", skin);
+			altFontCB.setStyle(mgScr.loadingUtils.getCheckBoxStyle("default"));
+		}
 		else
 			altFontCB = new CheckBox(" Change Font", skin);
 		altFontCB.addListener(new ClickListener() {
@@ -99,8 +105,10 @@ public class OptionsMenu {
 		altFontCB.setChecked(mgScr.getConscientia().isUseAltFont());
 
 		TextButton returnToMainMenu;
-		if (mgScr.getConscientia().isUseAltFont())
-			returnToMainMenu = new TextButton("End Session", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			returnToMainMenu = new TextButton("End Session", skin);
+			returnToMainMenu.setStyle(mgScr.loadingUtils.getTextButtonStyle("default"));
+		}
 		else
 			returnToMainMenu = new TextButton("End Session", skin);
 		returnToMainMenu.addListener(new ClickListener() {

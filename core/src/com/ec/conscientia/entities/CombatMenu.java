@@ -60,16 +60,20 @@ public class CombatMenu {
 		Window combatBattleLogWindow = new Window("", skin, "no_bg");
 		combatBattleLogWindow.setMovable(false);
 		TextField battleLogTitle;
-		if (mgScr.getConscientia().isUseAltFont())
-			battleLogTitle = new TextField("BATTLE LOG", skin, "whiners_npcArea");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			battleLogTitle = new TextField("BATTLE LOG", skin);
+			battleLogTitle.setStyle(mgScr.loadingUtils.getTextFieldStyle("npcArea"));
+		}
 		else
 			battleLogTitle = new TextField("BATTLE LOG", skin);
 		battleLogTitle.setDisabled(true);
 		battleLogTitle.setAlignment(Align.center);
 		Window textAreaWindow = new Window("", skin);
 		textAreaWindow.setMovable(false);
-		if (mgScr.getConscientia().isUseAltFont())
-			battleLog = new Label(battleOutcome, skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			battleLog = new Label(battleOutcome, skin);
+			battleLog.setStyle(mgScr.loadingUtils.getLabelStyle(24));
+		}
 		else
 			battleLog = new Label(battleOutcome, skin);
 		battleLog.setWrap(true);
@@ -101,8 +105,10 @@ public class CombatMenu {
 		textAreaWindow.add(canScrollLabel).align(Align.center).expandX().setActorHeight(5);
 
 		// Act button
-		if (mgScr.getConscientia().isUseAltFont())
-			proceed = new TextButton("PROCEED", skin, "whiners_npcArea");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			proceed = new TextButton("PROCEED", skin);
+			proceed.setStyle(mgScr.loadingUtils.getTextButtonStyle("npcArea"));
+		}
 		else
 			proceed = new TextButton("PROCEED", skin);
 		proceed.addListener(new ClickListener() {

@@ -34,9 +34,7 @@ import com.ec.conscientia.variables.CommonVar;
 public class GenerateDisplayWin {
 	MainGameScreen mgScr;
 
-	public GenerateDisplayWin(MainGameScreen mgScr) {
-		this.mgScr = mgScr;
-	}
+	public GenerateDisplayWin(MainGameScreen mgScr) { this.mgScr = mgScr; }
 
 	public Table createTable() {
 		// location area
@@ -184,8 +182,7 @@ public class GenerateDisplayWin {
 	public void setResponseAreaLabels() {
 		if (mgScr.mgVar.responseOneArea != null && mgScr.mgVar.conscientia.isUseAltFont()) {
 			TextButtonStyle resAreaStyle = new TextButtonStyle();
-			// for some reason 24 is bigger than 28???
-			resAreaStyle.font = mgScr.mgVar.skin.getFont("whiners_font_28");
+			resAreaStyle.font = mgScr.mgVar.skin.getFont("open_sans_font_24");
 			resAreaStyle.fontColor = mgScr.mgVar.responseOneArea.getStyle().fontColor;
 			resAreaStyle.up = mgScr.mgVar.responseOneArea.getStyle().up;
 			resAreaStyle.over = mgScr.mgVar.responseOneArea.getStyle().over;
@@ -210,7 +207,7 @@ public class GenerateDisplayWin {
 			mgScr.mgVar.responseTwoArea = new TextButton("", mgScr.mgVar.skin, "resArea");
 			mgScr.mgVar.responseThreeArea = new TextButton("", mgScr.mgVar.skin, "resArea");
 			TextButtonStyle resAreaStyle = new TextButtonStyle();
-			resAreaStyle.font = mgScr.mgVar.skin.getFont("whiners_font_28");
+			resAreaStyle.font = mgScr.mgVar.skin.getFont("open_sans_font_24");
 			resAreaStyle.fontColor = mgScr.mgVar.responseOneArea.getStyle().fontColor;
 			resAreaStyle.up = mgScr.mgVar.responseOneArea.getStyle().up;
 			resAreaStyle.over = mgScr.mgVar.responseOneArea.getStyle().over;
@@ -238,17 +235,19 @@ public class GenerateDisplayWin {
 
 	public void setDialogueLabels() {
 		if (mgScr.mgVar.dialogueLabel != null && mgScr.mgVar.conscientia.isUseAltFont()) {
-			// for some reason 24 is bigger than 28???
-			LabelStyle dls = new LabelStyle(mgScr.mgVar.skin.getFont("whiners_font_24"), Color.WHITE);
-			mgScr.mgVar.dialogueLabel.setStyle(dls);
-			mgScr.mgVar.npcDialogueLabel.setStyle(dls);
+			LabelStyle ls = mgScr.loadingUtils.getLabelStyle(28);
+			mgScr.mgVar.dialogueLabel.setStyle(ls);
+			mgScr.mgVar.npcDialogueLabel.setStyle(ls);
 		} else if (mgScr.mgVar.dialogueLabel != null) {
 			LabelStyle dls = new LabelStyle(mgScr.mgVar.skin.getFont("Amerika_Sans_28"), Color.WHITE);
 			mgScr.mgVar.dialogueLabel.setStyle(dls);
 			mgScr.mgVar.npcDialogueLabel.setStyle(dls);
 		} else if (mgScr.mgVar.conscientia.isUseAltFont()) {
-			mgScr.mgVar.dialogueLabel = new Label("", mgScr.mgVar.skin, "whiners_default");
-			mgScr.mgVar.npcDialogueLabel = new Label("", mgScr.mgVar.skin, "whiners_default");
+			LabelStyle ls = mgScr.loadingUtils.getLabelStyle(28);
+			mgScr.mgVar.dialogueLabel = new Label("", mgScr.mgVar.skin);
+			mgScr.mgVar.dialogueLabel.setStyle(ls);
+			mgScr.mgVar.npcDialogueLabel = new Label("", mgScr.mgVar.skin);
+			mgScr.mgVar.npcDialogueLabel.setStyle(ls);
 		} else {
 			mgScr.mgVar.dialogueLabel = new Label("", mgScr.mgVar.skin);
 			mgScr.mgVar.npcDialogueLabel = new Label("", mgScr.mgVar.skin);
@@ -274,8 +273,10 @@ public class GenerateDisplayWin {
 
 				// NPC name
 				TextButton npcArea;
-				if (mgScr.getConscientia().isUseAltFont())
-					npcArea = new TextButton(mgScr.mgVar.dialogue.getCurrentNPC().getName(), mgScr.mgVar.skin,"whiners_npcArea");
+				if (mgScr.getConscientia().isUseAltFont()) {
+					npcArea = new TextButton(mgScr.mgVar.dialogue.getCurrentNPC().getName(), mgScr.mgVar.skin);
+					npcArea.setStyle(mgScr.loadingUtils.getTextButtonStyle("npcArea"));
+				}
 				else
 					npcArea = new TextButton(mgScr.mgVar.dialogue.getCurrentNPC().getName(), mgScr.mgVar.skin,
 						"npcArea");
@@ -331,6 +332,7 @@ public class GenerateDisplayWin {
 				// plays click sound
 				mgScr.mgVar.soundManager.playSFX(SoundManager.SFX_CLICK_POSITIVE);
 				mgScr.mgVar.gameState = mgScr.PAUSED;
+
 				mgScr.mgVar.pauseMenu = new PauseMenu(mgScr.mgVar.skin, mgScr.mgVar.mgScr);
 				mgScr.mgVar.stagePause.addActor(mgScr.mgVar.pauseMenu.getPauseWindow());
 				mgScr.mgVar.stagePause.addActor(mgScr.mgVar.pauseMenu.getUnpauseButton());
@@ -362,8 +364,10 @@ public class GenerateDisplayWin {
 
 	public TextButton createFightButton(float w, float h, boolean activate) {
 		final TextButton fightButton;
-		if (mgScr.getConscientia().isUseAltFont())
-			fightButton = new TextButton("", mgScr.mgVar.skin,"whiners_npcArea");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			fightButton = new TextButton("", mgScr.mgVar.skin);
+			fightButton.setStyle(mgScr.loadingUtils.getTextButtonStyle("npcArea"));
+		}
 		else
 			fightButton = new TextButton("", mgScr.mgVar.skin,"npcArea");
 
@@ -485,7 +489,7 @@ public class GenerateDisplayWin {
 					mapWin.add(new TextButton("/\\", mgScr.mgVar.skin, "no_bg"))
 							.size(mapWin.getWidth() / 2, mapWin.getHeight() / 2).fill().expand().grow();
 				else if (i == 9 && j == 0)
-					mapWin.add(new TextButton("U", mgScr.mgVar.skin, "whiners_no_bg"))
+					mapWin.add(new TextButton("U", mgScr.mgVar.skin, "open_sans_no_bg"))
 							.size(mapWin.getWidth() / 2, mapWin.getHeight() / 2).fill().expand().grow();
 				else if (addBlank)
 					mapWin.add(new TextButton(" ", mgScr.mgVar.skin, "no_bg"))
@@ -519,8 +523,10 @@ public class GenerateDisplayWin {
 
 		// resume button
 		final TextButton resume;
-		if (mgScr.mgVar.conscientia.isUseAltFont())
-			resume = new TextButton("Resume", mgScr.mgVar.skin, "whiners_default");
+		if (mgScr.mgVar.conscientia.isUseAltFont()) {
+			resume = new TextButton("Resume", mgScr.mgVar.skin);
+			resume.setStyle(mgScr.loadingUtils.getTextButtonStyle("default"));
+		}
 		else
 			resume = new TextButton("Resume", mgScr.mgVar.skin);
 		resume.addListener(new ClickListener() {
@@ -534,8 +540,10 @@ public class GenerateDisplayWin {
 		});
 
 		final TextButton back;
-		if (mgScr.mgVar.conscientia.isUseAltFont())
-			back = new TextButton("Prev", mgScr.mgVar.skin, "whiners_default");
+		if (mgScr.mgVar.conscientia.isUseAltFont()) {
+			back = new TextButton("Prev", mgScr.mgVar.skin);
+			back.setStyle(mgScr.loadingUtils.getTextButtonStyle("default"));
+		}
 		else
 			back = new TextButton("Prev", mgScr.mgVar.skin);
 		back.addListener(new ClickListener() {

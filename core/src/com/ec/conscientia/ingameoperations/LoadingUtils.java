@@ -3,16 +3,22 @@ package com.ec.conscientia.ingameoperations;
 import java.util.ArrayList;
 
 import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.NinePatch;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
+import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.scenes.scene2d.Touchable;
+import com.badlogic.gdx.scenes.scene2d.ui.Button;
+import com.badlogic.gdx.scenes.scene2d.ui.CheckBox;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.List;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
+import com.badlogic.gdx.scenes.scene2d.ui.TextField;
 import com.badlogic.gdx.scenes.scene2d.ui.Window;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.ec.conscientia.SoundManager;
@@ -131,8 +137,10 @@ public class LoadingUtils {
 	public List<Location> getMapList(String areaName, ArrayList<Location> tempList) {
 		final List<Location> list;
 
-		if (mgScr.mgVar.conscientia.isUseAltFont())
-			list = new List<Location>(mgScr.mgVar.skin, "whiners_no_bg");
+		if (mgScr.mgVar.conscientia.isUseAltFont()) {
+			list = new List<Location>(mgScr.mgVar.skin);
+			list.setStyle(mgScr.loadingUtils.getListStyle("no_bg"));
+		}
 		else
 			list = new List<Location>(mgScr.mgVar.skin, "no_bg");
 
@@ -279,5 +287,75 @@ public class LoadingUtils {
 		mgScr.mgVar.stageError.addActor(popupWin);
 		// sets the stage as the input processor
 		Gdx.input.setInputProcessor(mgScr.mgVar.stageError);
+	}
+
+	public BitmapFont generateFont(int size){
+		// for alternative font
+		FreeTypeFontGenerator generator = new FreeTypeFontGenerator(Gdx.files.internal("Skin/OpenSans-Regular.ttf"));
+		FreeTypeFontGenerator.FreeTypeFontParameter parameter = new FreeTypeFontGenerator.FreeTypeFontParameter();
+		parameter.size = size;
+		BitmapFont font = generator.generateFont(parameter);
+		generator.dispose();
+
+		return font;
+	}
+
+	public Label.LabelStyle getLabelStyle(int size) {
+		Label.LabelStyle ls = new Label.LabelStyle(mgScr.mgVar.skin.get(Label.LabelStyle.class));
+		if (size == 24)
+			ls.font = mgScr.mgVar.skin.getFont("open_sans_font_24");
+		else
+			ls.font = mgScr.mgVar.skin.getFont("open_sans_font_28");
+		ls.fontColor = Color.WHITE;
+		return ls;
+	}
+
+	public TextButton.TextButtonStyle getTextButtonStyle(String type) {
+		TextButton.TextButtonStyle tbs = new TextButton.TextButtonStyle(mgScr.mgVar.skin.get(TextButton.TextButtonStyle.class));
+
+		switch (type) {
+			case "npcArea":
+			case "default":
+				tbs.font = mgScr.mgVar.skin.getFont("open_sans_font_24");
+				break;
+		}
+
+		return tbs;
+	}
+
+	public TextField.TextFieldStyle getTextFieldStyle(String type) {
+		TextField.TextFieldStyle tfs = new TextField.TextFieldStyle(mgScr.mgVar.skin.get(TextField.TextFieldStyle.class));
+
+		switch (type) {
+			case "npcArea":
+				tfs.font = mgScr.mgVar.skin.getFont("open_sans_font_24");
+				break;
+		}
+
+		return tfs;
+	}
+
+	public List.ListStyle getListStyle(String type) {
+		List.ListStyle ls = new List.ListStyle(mgScr.mgVar.skin.get(List.ListStyle.class));
+
+		switch (type){
+			case "no_bg":
+				ls.font = mgScr.mgVar.skin.getFont("open_sans_font_24");
+				break;
+		}
+
+		return ls;
+	}
+
+	public CheckBox.CheckBoxStyle getCheckBoxStyle(String type) {
+		CheckBox.CheckBoxStyle bs = new CheckBox.CheckBoxStyle(mgScr.mgVar.skin.get(CheckBox.CheckBoxStyle.class));
+
+		switch(type){
+			case "default":
+				bs.font = mgScr.mgVar.skin.getFont("open_sans_font_24");
+				break;
+		}
+
+		return bs;
 	}
 }

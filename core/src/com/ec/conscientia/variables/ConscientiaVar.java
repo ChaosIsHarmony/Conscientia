@@ -6,11 +6,6 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.ec.conscientia.ingameoperations.TriggeredEvents;
 
 public class ConscientiaVar {
-	public ConscientiaVar() {
-		persistentItemsAndEvents = new ArrayList<Integer>();
-		sb = new SpriteBatch();
-	}
-
 	public SpriteBatch sb;
 
 	public int currentSavedGameNum;
@@ -25,4 +20,8 @@ public class ConscientiaVar {
 	// TRIGGERED EVENTS
 	public TriggeredEvents triggeredEvents;
 
+	public ConscientiaVar() {
+		persistentItemsAndEvents = new ArrayList<Integer>();
+		sb = new SpriteBatch();
+	}
 }

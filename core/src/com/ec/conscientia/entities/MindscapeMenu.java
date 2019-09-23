@@ -44,8 +44,10 @@ public class MindscapeMenu {
 		final ImageButtonStyle imgMindscapeNPCBS = new ImageButtonStyle();
 		final ImageButton mindscapeNPCImgAreaButton = new ImageButton(imgMindscapeNPCBS);
 		final Label mindscapeNPCVersionLabel;
-		if (mgScr.getConscientia().isUseAltFont())
-			mindscapeNPCVersionLabel = new Label("", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			mindscapeNPCVersionLabel = new Label("", skin);
+			mindscapeNPCVersionLabel.setStyle(mgScr.loadingUtils.getLabelStyle(24));
+		}
 		else
 			mindscapeNPCVersionLabel = new Label("", skin);
 
@@ -58,8 +60,10 @@ public class MindscapeMenu {
 
 		// text explanation area
 		final Label textExplanationArea;
-		if (mgScr.getConscientia().isUseAltFont())
-			textExplanationArea = new Label("", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			textExplanationArea = new Label("", skin);
+			textExplanationArea.setStyle(mgScr.loadingUtils.getLabelStyle(24));
+		}
 		else
 			textExplanationArea = new Label("", skin);
 		textExplanationArea.setWrap(true);
@@ -75,8 +79,10 @@ public class MindscapeMenu {
 		mindscapeNPCs.setDisabled(true);
 
 		final List<MindscapeNPC> list;
-		if (mgScr.getConscientia().isUseAltFont())
-			list = new List<MindscapeNPC>(skin, "whiners_no_bg");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			list = new List<MindscapeNPC>(skin);
+			list.setStyle(mgScr.loadingUtils.getListStyle("no_bg"));
+		}
 		else
 			list = new List<MindscapeNPC>(skin, "no_bg");
 		ArrayList<MindscapeNPC> tempList = new ArrayList<MindscapeNPC>();
@@ -110,8 +116,10 @@ public class MindscapeMenu {
 
 		// back button
 		final TextButton back;
-		if (mgScr.getConscientia().isUseAltFont())
-			back = new TextButton("Back", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			back = new TextButton("Back", skin);
+			back.setStyle(mgScr.loadingUtils.getTextButtonStyle("default"));
+		}
 		else
 			back = new TextButton("Back", skin);
 		back.addListener(new ClickListener() {
@@ -123,8 +131,10 @@ public class MindscapeMenu {
 		});
 		// resume button
 		final TextButton talk;
-		if (mgScr.getConscientia().isUseAltFont())
-			talk = new TextButton("Meditate", skin, "whiners_default");
+		if (mgScr.getConscientia().isUseAltFont()) {
+			talk = new TextButton("Meditate", skin);
+			talk.setStyle(mgScr.loadingUtils.getTextButtonStyle("default"));
+		}
 		else
 			talk = new TextButton("Meditate", skin);
 		talk.addListener(new ClickListener() {

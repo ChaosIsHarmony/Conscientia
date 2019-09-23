@@ -127,5 +127,4 @@ public class MainGameVar {
 	// list
 	public boolean isSelected = false;
 	public String selectedAreaName = "";
-
 }

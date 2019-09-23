@@ -237,5 +237,4 @@ public class EndCreditsScreen implements Screen {
 		stage.dispose();
 		skin.dispose();
 	}
-
 }

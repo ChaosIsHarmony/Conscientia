@@ -12,13 +12,6 @@ com.badlogic.gdx.graphics.g2d.BitmapFont: {
 	Breathe_Fire_50: {
 		file: Breathe_Fire_50.fnt
 	}
-	whiners_font_24: {
-		file: TNR_24.fnt
-	}
-	whiners_font_28: {
-		file: TNR_28.fnt
-	}
-	
 }
 com.badlogic.gdx.graphics.Color: {
 	black: {
@@ -70,12 +63,6 @@ com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
 		checkboxOff: background
 		font: Amerika_Sans_28
 	}
-	
-	whiners_default: {
-		checkboxOn: scrollBar
-		checkboxOff: background
-		font: whiners_font_24
-	}
 }
 com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
 	default-horizontal: {
@@ -87,15 +74,11 @@ com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
 	default: {
 		font: Amerika_Sans_28
 	}
-	
-	whiners_default: {
-		font: whiners_font_24
-	}
-	
+
 	mediumFont: {
 		font: Breathe_Fire_36
 	}
-	
+
 	bigFont: {
 		font: Breathe_Fire_50
 	}
@@ -105,12 +88,12 @@ com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
 		background: LocationArea
 		vScrollKnob: scrollBar
 	}
-	
+
 	no_bg: {
 		background: bg_clear
 		vScrollKnob: scrollBar
 	}
-	
+
 	no_bg_no_bar: {
 		background: bg_clear
 	}
@@ -125,17 +108,7 @@ com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
 		down: LocationAreaDown
 		over: LocationAreaOver
 	}
-	
-	whiners_default: {
-		font: whiners_font_24
-		fontColor: light_gray
-		downFontColor: red
-		overFontColor: white
-		up: LocationArea
-		down: LocationAreaDown
-		over: LocationAreaOver
-	}
-	
+
 	big: {
 		font: Breathe_Fire_50
 		fontColor: light_gray
@@ -145,7 +118,7 @@ com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
 		down: LocationAreaDown
 		over: LocationAreaOver
 	}
-	
+
 	small: {
 		font: Amerika_Sans_24
 		fontColor: light_gray
@@ -155,57 +128,30 @@ com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
 		down: LocationAreaDown
 		over: LocationAreaOver
 	}
-	
-	whiners_small: {
-		font: whiners_font_28
-		fontColor: light_gray
-		downFontColor: red
-		overFontColor: white
-		up: LocationArea
-		down: LocationAreaDown
-		over: LocationAreaOver
-	}
-	
+
 	resArea: {
 		font: Amerika_Sans_24
 		fontColor: white
 		up: ResponseAreaUp
 	}
-	
-	whiners_resArea: {
-		font: Amerika_Sans_28
-		fontColor: white
-		up: ResponseAreaUp
-	}
-	
+
 	locArea: {
 		font: Breathe_Fire_50
 		fontColor: white
 		up: LocationArea
 	}
-	
+
 	npcArea: {
 		font: Amerika_Sans_28
 		fontColor: white
 		up: LocationArea
 	}
-	
-	whiners_npcArea: {
-		font: whiners_font_24
-		fontColor: white
-		up: LocationArea
-	}
-	
+
 	no_bg: {
 		font: Amerika_Sans_24
 		fontColor: white
 	}
-	
-	whiners_no_bg: {
-		font: whiners_font_28
-		fontColor: white
-	}
-	
+
 	map_bg: {
 		font: Amerika_Sans_28
 		fontColor: gray
@@ -221,138 +167,81 @@ com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
 		fontColor: white
 		background: LocationArea
 	}
-	
-	whiners_default: {
-		font: whiners_font_24
-		fontColor: white
-		background: LocationArea
-	}
-	
+
 	title: {
 		font: Breathe_Fire_50
 		fontColor: white
 		background: LocationArea
 	}
-	
+
 	title_small: {
 		font: Breathe_Fire_36
 		fontColor: white
 		background: LocationArea
 	}
-	
+
 	loadArea: {
 		font: Breathe_Fire_50
 		fontColor: white
 		background: LocationArea
 	}
-	
+
 	locArea: {
 		font: Breathe_Fire_50
 		fontColor: white
 		background: LocationArea
 	}
-	
+
 	npcArea: {
 		font: Amerika_Sans_28
 		fontColor: white
 		background: LocationArea
 	}
-	
-	whiners_npcArea: {
-		font: whiners_font_24
-		fontColor: white
-		background: LocationArea
-	}
-	
+
 	diaArea: {
 		font: Amerika_Sans_28
 		fontColor: white
 		background: LocationArea
 	}
-	
-	whiners_diaArea: {
-		font: whiners_font_24
-		fontColor: white
-		background: LocationArea
-	}
-	
+
 	resArea: {
 		font: Amerika_Sans_24
 		fontColor: white
 		background: ResponseAreaUp
 	}
-	
-	whiners_resArea: {
-		font: whiners_font_28
-		fontColor: white
-		background: ResponseAreaUp
-	}
-	
+
 	big: {
 		font: Amerika_Sans_24
 		fontColor: white
 		background: LocationArea
 	}
-	
-	whiners_big: {
-		font: whiners_font_28
-		fontColor: white
-		background: LocationArea
-	}
-	
+
 	no_bg: {
 		font: Amerika_Sans_24
 		fontColor: white
 		background: bg_clear
 	}
-	
-	whiners_no_bg: {
-		font: whiners_font_28
-		fontColor: white
-		background: bg_clear
-	}
 }
 com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
-	default: { 
+	default: {
 		fontColorUnselected: white
 		selection: scrollBar
 		fontColorSelected: black
-		font: Amerika_Sans_28 
+		font: Amerika_Sans_28
 	}
-	
-	whiners_default: { 
+
+	no_bg: {
 		fontColorUnselected: white
 		selection: scrollBar
 		fontColorSelected: black
-		font: whiners_font_24 
+		font: Amerika_Sans_28
 	}
-	
-	no_bg: { 
-		fontColorUnselected: white
-		selection: scrollBar
-		fontColorSelected: black
-		font: Amerika_Sans_28 
-	}
-	
-	whiners_no_bg: { 
-		fontColorUnselected: white
-		selection: scrollBar
-		fontColorSelected: black
-		font: whiners_font_24
-	}
-	
-	no_bg_no_select: { 
+
+	no_bg_no_select: {
 		fontColorUnselected: white
 		selection: bg_clear
 		fontColorSelected: white
-		font: Amerika_Sans_28 
-	}
-	
-	whiners_no_bg_no_select: { 
-		fontColorUnselected: white
-		selection: bg_clear
-		fontColorSelected: white
-		font: whiners_font_24 
+		font: Amerika_Sans_28
 	}
 }
 com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
@@ -370,35 +259,20 @@ com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
 		background: LocationArea
 		titleFont: Breathe_Fire_36
 	}
-		
+
 	smallTitle: {
 		background: LocationArea
 		titleFont: Amerika_Sans_24
 	}
-	
-	whiners_smallTitle: {
-		background: LocationArea
-		titleFont: whiners_font_28
-	}
-		
+
 	no_bg: {
 		background: bg_clear
 		titleFont: Amerika_Sans_24
 	}
-	
-	whiners_no_bg: {
-		background: bg_clear
-		titleFont: whiners_font_28
-	}
-	
+
 	border_bg_alpha: {
 		background: LocationAreaAlpha
 		titleFont: Amerika_Sans_24
-	}
-	
-	whiners_border_bg_alpha: {
-		background: LocationAreaAlpha
-		titleFont: whiners_font_28
 	}
 }
 com.badlogic.gdx.scenes.scene2d.ui.Tree$TreeStyle: {

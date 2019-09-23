@@ -12,8 +12,10 @@ import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Pixmap;
 import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.scenes.scene2d.Touchable;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
@@ -98,6 +100,10 @@ public class MainGameScreen implements Screen {
         mgVar.stagePause = new Stage(viewport, batch);
         mgVar.stageCombat = new Stage(viewport, batch);
         mgVar.skin = new Skin(Gdx.files.internal("Skin/ConscientiaSkin.json"));
+        BitmapFont openSansFont_24 = loadingUtils.generateFont(24);
+        BitmapFont openSansFont_28 = loadingUtils.generateFont(28);
+        mgVar.skin.add("open_sans_font_24", openSansFont_24, BitmapFont.class);
+        mgVar.skin.add("open_sans_font_28", openSansFont_28, BitmapFont.class);
         camera.position.set(viewport.getScreenWidth() / 2, viewport.getScreenHeight() / 2, 0);
 
         // new game
