@@ -230,7 +230,7 @@ HYDRARGYRUM KEEP
 	
 	[/MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0003!DESCRIPTION!]
 		||
-		*Alone... and yet, something... some invisible presence begins to inundate the area. A perpetual slithering and constricting limits movement - not physically, rather the very desire to move slowly vanishing...*
+		*Alone... and yet, something... some invisible presence begins to inundate the area. A perpetual slithering, constriction limits movement - not physically, rather the very desire to move slowly vanishes...*
 		(A#...){A:0,MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0004!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!HYDRARGYRUM KEEP!0.0003!DESCRIPTION!/]
 	
@@ -1577,7 +1577,7 @@ Jer Memory
 	
 	[/MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0001!DESCRIPTION!]
 		||
-		*Robbed of sight as we are, blind we are not. Our ally, the deft oarsman, heeds not the illusions of the eyes, guided instead by the wailing winds. He listens Nature's song, to the waves echoing off the seabed's crusty fingers, off the stony claws reaching out from the waters and threatening to drag us under to the destruction of the Falseflesh.*
+		*Robbed of sight as we are, blind we are not. Our ally, the deft oarsman Vovkos, heeds not the illusions of the eyes, guided instead by the wailing winds. He now listens to Nature's song, to the waves echoing off the seabed's crusty fingers. He and he alone hears the wailing warnings off those stony claws that reach out from the watery depths to drag us under, down to the destruction of the Falseflesh!*
 		(A#...){A:0,MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0002!DESCRIPTION!}
 	[MIND!PALACE OF MEMORY!ISLE OF THE WYRM!0.0001!DESCRIPTION!/]
 
@@ -2448,7 +2448,7 @@ CAITO
 
 	[/MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.003!CAITO!]
 		||
-		*"Of all the senseless lies you have poisoned our ears with, at last one truth escapes your wicked lips!"*
+		*"All the senseless lies you've poisoned our ears with, and now, at last, a single truth escapes your wicked lips!"*
 		(A#"..."){A:0,MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.0030!CAITO!}
 	[MIND!PALACE OF MEMORY!TEMPLE OF THE VOICE!2.003!CAITO!/]
 

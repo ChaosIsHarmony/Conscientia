@@ -32,7 +32,7 @@ ATELIER
 
 	[/MIND!NETHER EDGE!ATELIER!1.X002!DESCRIPTION!]
 		|@:MIND!NETHER EDGE!ATELIER!2.000!DESCRIPTION!|
-		*Suddenly, other sounds begins to stir in the darkness all around her. Footsteps echo across a stone floor, the grinding sound of metal on rock, a resonance of caressed glass.*
+		*Suddenly, other sounds begin to stir in the darkness all around her. Footsteps echo across a stone floor, the grinding sound of metal on rock, a resonance of caressed glass.*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!9999.X0019!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!1.X002!DESCRIPTION!/]
 

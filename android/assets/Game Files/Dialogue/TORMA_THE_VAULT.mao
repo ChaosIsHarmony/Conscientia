@@ -2,16 +2,91 @@ _____________________________________________________________
 DISSENT'S REMORSE
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!]
 		||
-		*Ormenos awakens in a lightless, silent location. In truth, it is hard to tell if he is actually awake, given the absolute darkness. But the excruciating headache he is suffering makes it quite clear this is the realm of the Falseflesh.
-		
-		He knows full well that his actions have led him to his current locus.	The insubordinate mage's clear propensity for rabble-rousing and dissent brings to mind other lifetimes once lived, and forgotten, but important nonetheless. He feels powerless; yet despite all his rage he is still just a rat in a cage. His mind wanders, to greener pastures and the unfinished exploits of his imagination.
-		
-		And as his mind slowly evanesces, the Trueflesh also slowly seeps out and into its next chapter...*
-		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+		*Eyes open but drink in no light. Ears perk but take in no sound. Weightless, Ormenos feels nothing. Desperate, he sticks out what he thinks must be his tongue, only to discover it complete absent of taste.*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.001!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!DESCRIPTION!/]
-	
-	
-	
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.001!DESCRIPTION!]
+		||
+		*Panic sets in. For what is a man but his cumulative sensory experience? Thoughts arise only in response to stimuli and now he has been cut off from the source of all stimuli. Many times has he seen it performed, the Severance, but never did he realize how cruel it actually was.*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.002!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.001!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.002!DESCRIPTION!]
+		||
+		*He quickly reflects on the bizarre circumstances that led him to his current locus. Each decision he made, each action taken, they all seemed so very unlike him. Discipline was so deeply entrenched within him, he thought it impossible to deviate. But now...*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X003!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.002!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X003!DESCRIPTION!]
+		|@:ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.004!DESCRIPTION!|
+		*Awareness dawns, casting an even darker shadow over the pitiable mage's trouble thoughts.*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X0004!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X003!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.004!DESCRIPTION!]
+		||
+		*Images burst to life from the utter darkness that consumed him, myriad demons come to rip his sanity to shreds. Claws dig deep into his Self, pulling with the unstoppable force of hope lost.*
+		(A#It's not your fault, Ormenos!){A:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!}
+		(B#This isn't madness; accept the truth; transcend it.){B:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!}
+		(C#All is as it should be.){C:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!}
+		(D#Your ship sinks, Brother! But mine yet floats... Thus part our fates.){D:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.040!DESCRIPTION!}
+		(E#This is the result of your weakness. Pitiful.){E:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.050!DESCRIPTION!}
+		(F#Happy hallucinating, amigo!){F:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.060!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.004!DESCRIPTION!/]
+
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!]
+		||
+		**
+		(A#Dream){A:0,MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!]
+		||
+		**
+		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!]
+		||
+		**
+		(A#Dream){A:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.040!DESCRIPTION!]
+		||
+		**
+		(A#Dream){A:0,MIND!THE BOOK OF TORMA!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.040!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.050!DESCRIPTION!]
+		||
+		**
+		(A#Dream){A:0,MIND!THE BOOK OF WUFLIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.050!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.060!DESCRIPTION!]
+		||
+		**
+		(A#Dream){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.060!DESCRIPTION!/]
+
+
+
+ORMENOS
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!ORMENOS!]
+		|@:ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.000!ORMENOS!|
+		*"Lady Midnight... comes for me at last..."*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X9999!ORMENOS!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!ORMENOS!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.000!ORMENOS!]
+		||
+		*"...?"*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X9999!ORMENOS!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.000!ORMENOS!/]
+
 _____________________________________________________________
 SOUL STASIS CELL
 >>>Owns Book of Torma (2003)<<<
@@ -975,6 +1050,12 @@ ________________________________________________________________________
 FIGHTING WORDS
 ________________________________________________________________________
 NPC SWITCHERS
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X0004!DESCRIPTION!]
+		|#npcSwitch:4|
+		*ORMENOS*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X0004!DESCRIPTION!/]
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1204!DESCRIPTION!]
 		|#npcSwitch:1204|
 		*COGITO*
@@ -1010,3 +1091,9 @@ NPC SWITCHERS
 		*DESCRIPTION FROM GATE KEEPER*
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X9999!MIND SEER!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X9999!ORMENOS!]
+		|#npcSwitch:9999|
+		*DESCRIPTION FROM ORMENOS*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X9999!ORMENOS!/]
