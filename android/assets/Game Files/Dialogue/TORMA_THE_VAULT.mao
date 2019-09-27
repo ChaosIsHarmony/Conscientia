@@ -26,7 +26,7 @@ DISSENT'S REMORSE
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.004!DESCRIPTION!]
 		||
-		*Images burst to life from the utter darkness that consumed him, myriad demons come to rip his sanity to shreds. Claws dig deep into his Self, pulling with the unstoppable force of hope lost.*
+		*Images burst to life from the utter darkness that consumed him - scenes from his past. Every memory, both forgotten and remembered, desired and truly lived, they all come back in an instant to be infinitely relived in that singular moment, the very moment before they unravel, splitting into a tapestry unwoven. These fissures soon give birth to myriad demons - the shadowborn hordes come to rip his sanity to shreds. Claws dig deep into his Self, pulling with the unstoppable force of hope lost.*
 		(A#It's not your fault, Ormenos!){A:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!}
 		(B#This isn't madness; accept the truth; transcend it.){B:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!}
 		(C#All is as it should be.){C:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!}
@@ -38,54 +38,79 @@ DISSENT'S REMORSE
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!]
 		||
-		**
-		(A#Dream){A:0,MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!}
+		*Warmth. Comfort. Rare feelings for him as of late. The countless tattered threads spin gently, weaving a supple statue of smiling face - a final happiness before the decimation of dying mind.*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!]
+		||
+		*The mage's demons then sever the threads and all connections to this plane. The Self simply watches from above, removed from the maelstrom of causality. Distance between the Self and what was the mage Ormenos grows, consciousness now flowing onward to the next shell...*
+		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!]
 		||
 		**
-		(A#Dream){A:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!]
 		||
 		**
-		(A#Dream){A:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
+		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.040!DESCRIPTION!]
 		||
 		**
-		(A#Dream){A:0,MIND!THE BOOK OF TORMA!THE BEGINNING!0.X000!DESCRIPTION!}
+		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.040!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.050!DESCRIPTION!]
 		||
 		**
-		(A#Dream){A:0,MIND!THE BOOK OF WUFLIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.050!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.060!DESCRIPTION!]
 		||
 		**
-		(A#Dream){A:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.X000!DESCRIPTION!}
+		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.060!DESCRIPTION!/]
 
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!]
+		||
+		*~ac*
+		(A#DIP){A:0,MIND!THE BOOK OF BIRACUL!THE BEGINNING!0.X000!DESCRIPTION!}
+		(B#TRU){B:0,MIND!THE BOOK OF RIKHARR!THE BEGINNING!0.X000!DESCRIPTION!}
+		(C#NEU){C:0,MIND!THE BOOK OF THETIAN!THE BEGINNING!0.X000!DESCRIPTION!}
+		(D#SUR){D:0,MIND!THE BOOK OF TORMA!THE BEGINNING!0.000!DESCRIPTION!}
+		(E#TYR){E:0,MIND!THE BOOK OF WULFIAS!THE BEGINNING!0.X000!DESCRIPTION!}
+		(F#LOO){F:0,MIND!THE BOOK OF EIDOS!THE BEGINNING!0.000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!/]
 
 
 ORMENOS
-	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!ORMENOS!]
-		|@:ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.000!ORMENOS!|
-		*"Lady Midnight... comes for me at last..."*
-		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X9999!ORMENOS!}
-	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.X000!ORMENOS!/]
-
-	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.000!ORMENOS!]
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.000!ORMENOS!]
 		||
-		*"...?"*
+		*"Lady Midnight... comes for us at last..."*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.001!ORMENOS!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.000!ORMENOS!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.001!ORMENOS!]
+		||
+		*"Freedom... ever the illusion... cast by her shadow..."*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.002!ORMENOS!}
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.001!ORMENOS!/]
+
+	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.002!ORMENOS!]
+		||
+		*"Respite... found only in death... suffering's end."*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!9999.X9999!ORMENOS!}
-	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.000!ORMENOS!/]
+	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.002!ORMENOS!/]
+
+
+
 
 _____________________________________________________________
 SOUL STASIS CELL
