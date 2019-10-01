@@ -26,7 +26,7 @@ DISSENT'S REMORSE
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!0.004!DESCRIPTION!]
 		||
-		*Images burst to life from the utter darkness that consumed him - scenes from his past. Every memory, both forgotten and remembered, desired and truly lived, they all come back in an instant to be infinitely relived in that singular moment, the very moment before they unravel, splitting into a tapestry unwoven. These fissures soon give birth to myriad demons - the shadowborn hordes come to rip his sanity to shreds. Claws dig deep into his Self, pulling with the unstoppable force of hope lost.*
+		*Images burst to life from the utter darkness that consumed him - scenes from his past. Every memory, both forgotten and remembered, desired and truly lived, they all come back in an instant to be infinitely relived in that singular moment. Myriad lives spun together only to unravel, an impossible tapestry unwoven. The space between the threads soon birth a thousand demons - the shadowborn hordes come to rip his sanity to shreds. Claws dig deep into his Self, pulling with the unstoppable force of hope forever lost.*
 		(A#It's not your fault, Ormenos!){A:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!}
 		(B#This isn't madness; accept the truth; transcend it.){B:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!}
 		(C#All is as it should be.){C:1,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!}
@@ -38,44 +38,44 @@ DISSENT'S REMORSE
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!]
 		||
-		*Warmth. Comfort. Rare feelings for him as of late. The countless tattered threads spin gently, weaving a supple statue of smiling face - a final happiness before the decimation of dying mind.*
+		*Warmth. Comfort. Rare feelings for him as of late. The countless tattered threads spin gently, weaving a supple statue of smiling face - a final happiness before the decimation of a dying mind.*
 		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.010!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!]
 		||
-		*The mage's demons then sever the threads and all connections to this plane. The Self simply watches from above, removed from the maelstrom of causality. Distance between the Self and what was the mage Ormenos grows, consciousness now flowing onward to the next shell...*
+		*The mage's demons then sever the threads, and with them, all connections to this plane. The Self simply watches from above, removed from the maelstrom of causality. Distance between the Self and what was the mage Ormenos grows. Consciousness now flows onward to the next shell...*
 		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!]
 		||
-		**
-		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
+		*Confusion. Suspicion. The mage's Self seems to have the spark of insight - a final epiphany before the decimation of a dying mind.*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.020!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!]
 		||
-		**
-		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
+		*Resignation. Desolation. The mage's Self fights no more - a final despair before the decimation of a dying mind.*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.030!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.040!DESCRIPTION!]
 		||
-		**
-		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
+		*Surprise. Dismay. The mage's Self sees his path - if only he could have seen it sooner...*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.040!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.050!DESCRIPTION!]
 		||
-		**
-		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
+		*Shame. Terror. The mage's Self cowers - a final humiliation before the decimation of a dying mind.*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.050!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.060!DESCRIPTION!]
 		||
-		**
-		(A#Dream){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!}
+		*Shock. Curiosity. The mage's Self envisions its metamorphosis into the universe's most beautiful winged creature, feathers bursting forth from every pore...*
+		(A#...){A:0,ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!DISSENT'S REMORSE!1.060!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!DISSENT'S REMORSE!2.000!DESCRIPTION!]
@@ -120,17 +120,17 @@ SOUL STASIS CELL
 		*If you're reading this, you have broken the game, you bastard. Alert the idiots who made it so they can attempt to fix it.*
 		(A#End){A:0,END GAME!END GAME!END GAME!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X000!DESCRIPTION!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X0000!DESCRIPTION!]
 		||
 		*MULTICHECKER*
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X0000!DESCRIPTION!/]
-	
-	
-		
+
+
+???		
 post-first interrogation
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X001!DESCRIPTION!]
 		||
