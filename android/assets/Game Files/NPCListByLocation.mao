@@ -110,7 +110,7 @@
 
 	[/THE VAULT]
 		[/DISSENT'S REMORSE]
-			|9999,|
+			|4,9999,|
 		[DISSENT'S REMORSE/]
 		
 		[/SOUL STASIS CELL]
