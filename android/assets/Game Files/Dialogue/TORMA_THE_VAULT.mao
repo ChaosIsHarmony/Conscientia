@@ -175,28 +175,30 @@ post-first interrogation
 		Ormenos looks up to see Brother Mind Seer hovering above him, only now realizing he is laid out on the floor. Though worry and fear contorted his savior's features in their callous tug-of-war, the Mind Seer soon breathes a sigh of relief as he sees the spark of life has returned to his comrade's eyes. Crisis averted, the young man immediately begins to make urgent inquiries into the cause of such a risky exit from the Mind-Loom.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1203!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X0010!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0011!DESCRIPTION!]
 		||
-		*Unable to contain his urge to note all the eventful occurrences, the junior Thought-Weaver hastily pens his observations in his ever-present notebook. His pen dances a violent, twisting routine upon the page, liquid thoughts soon filling the space between the borders.*
+		*Unable to contain his urge to record the bizarre events that just unfolded, the junior Thought-Weaver hastily pens fresh observations in his ever-present notebook. The pen dances a violent, twisting routine upon the page, liquid thoughts soon filling the space between the borders. The tip grips the page right on the threshold of tearing through it. The resulting half-scratches from the interaction of pen and paper add a counterpoint to the enraptured author's near-maniacal giggling.
+		
+		The mage then flips the page with such speed and deftness that the ink dries instantly, giving free rein to continue his rhapsodic scribbling.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0012!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0011!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0012!DESCRIPTION!]
 		||
-		*Ormenos silently observes this process until the Mind Seer realizes the intensity of his inky fugue exceeds the modest standards of the Enclave. Slightly embarrassed, the youthful acolyte bows his head and makes for the cloudstone, leaving the Senior Thought-Weaver alone to contemplate the implications of his unusual encounter in the Mind-Loom.*
+		*Ormenos silently observes this process, yet overcome with his inauspicious exit from the Mind-Loom. Before long he realizes he no longer hears the cackling pen and scratching laughter, both now replaced by the macabre march of an anxious heart. His breathing stutters trying to keep pace, skipping beats, stopping abruptly. All he can see is a single eye, locked on him, staring straight through his Trueflesh...*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0013!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0012!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0013!DESCRIPTION!]
 		||
-		*The aged mage takes one more look at the impossibly old specimen suspended within the emerald preservation fluid. Torma, the Wayfarer, or is she best called the Prophetess? The Eidos? A Thought-Weaver as skilled as Ormenos should never have been found when in the Mind-Loom - was this not why he was assigned to this task? What deviled Techne had she used to locate him? Or could she have had some ill-gotten assistance?*
+		*Suddenly, he is back in the Stasis Cell, standing, hand gripping the glassy prison that houses the Wayfarer. Their eyes lock, only for an instant. Impossible as he knows it must be, he clearly sees her green eyes peering right into his own. No. He will not believe it. In the centuries since her capture, she has not once opened her eyes. But now they appear to... be closed. Right. Of course they are. Thoughts and feelings from a fabricated reality, just the psychotic delusions of a cursed mind; he knows it to be true. It has to be...*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0014!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0013!DESCRIPTION!/]
-
+???
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0014!DESCRIPTION!]
 		||
-		*Perhaps time will tell, he muses. Or perhaps the Choir of Archons might shed some light on the topic. Either way, there is nothing for him to do here. So he steps upon the cloudstone and rises up toward the Warden's Conduit.*
+		*Work has consumed him for far too long, the burning desire to be the one to solve the puzzle, to find the Thought Wheel of the Beginning. And now he knows: it was in Kabu all along, that far-off desert disaster of Biraculian hypocrisy. Just one more dive and he could confirm his suspicions. But now this... Perhaps the Choir of Archons will shed some light on the topic - he is due to report within the hour. This he thinks as he steps upon the cloudstone and rises up toward the Warden's Conduit.*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0014!DESCRIPTION!/]
 
