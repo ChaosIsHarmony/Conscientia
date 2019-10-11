@@ -321,7 +321,7 @@ post-second interrogation
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0027!DESCRIPTION!]
 		||
-		*With the gentle quiet of an approaching tidal wave, this dangerous thought matures, threatening to overwhelm Ormenos, if not outright destroy him. But he is now more sure of this fact than ever.*
+		*With the gentle quiet of an approaching tidal wave, this dangerous thought matures, threatening to overwhelm Ormenos - if not outright destroy him. But he is now more sure of this fact than ever.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0028!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0027!DESCRIPTION!/]
 
@@ -337,11 +337,11 @@ post-second interrogation
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0029!DESCRIPTION!/]
 
-???
+
 out as torma CG
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.001!DESCRIPTION!]
 		||
-		*Torma awakens from a slumber meant to be eternal. Hands move commanded by her thoughts, and yet they feel foreign, as though she were manipulating the strings on a marionette. These strange limbs soon get caught in a tangle of tubes above. They feel their way down to some bizarre work of artifice, attached to what must be her head. This device seems to have taken root, digging its myriad tendrils deep within her skull; its removal will not be without pain...*
+		*Torma awakens from a slumber meant to be eternal. Hands move commanded by her thoughts, and yet they feel foreign, not hers, as though she were merely manipulating the strings of a marionette made in her image. These strange limbs soon get caught in a tangle of tubes above. They feel their way down to some bizarre work of artifice, attached to what must be her head. This device seems to have taken root, digging its myriad tendrils deep within her skull; its removal will not be without pain...*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.002!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.001!DESCRIPTION!/]
 
@@ -389,7 +389,7 @@ out as torma CG
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.009!DESCRIPTION!]
 		||
-		*She freezes, taking a moment to become accustomed to the incessant throbbing. Soon, though, she drags herself up on to all fours, and only after several excruciating maneuvers, finally manages to stand.*
+		*She freezes, taking a moment to become accustomed to the incessant throbbing. Soon, she drags herself up on all fours, only after several excruciating maneuvers, finally managing to stand.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.010!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.009!DESCRIPTION!/]
 ???
