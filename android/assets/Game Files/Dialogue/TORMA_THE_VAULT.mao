@@ -297,7 +297,7 @@ post-second interrogation
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0023!DESCRIPTION!]
 		||
-		*He knows full well the Enclave's safety vanished along with his ignorance. However, he now knows the exact location of the Thought Wheel of the Beginning - his one advantage. Perhaps he can beat them to it... If only he can make it there first, then he can strengthen himself against not only the Enclave, but against the nameless terrors of the Void.*
+		*He knows full well the Enclave's safety just vanished along with his ignorance. However, he now knows the exact location of the Thought Wheel of the Beginning; whereas, the Choir does not - his one advantage. Perhaps he can beat them to it... If only he can make it there first, then he can strengthen himself against not only the Enclave, but against the nameless adversary of the Void.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0024!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0023!DESCRIPTION!/]
 
@@ -309,15 +309,33 @@ post-second interrogation
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0025!DESCRIPTION!]
 		||
-		*He feels its truth before the thought even fully forms. He must run. Now! Time is of the essence! Each moment wasted signals a downtick in his chances for survival.*
+		*He feels its truth before the thought even fully forms.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0026!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0025!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0026!DESCRIPTION!]
 		||
-		*And so he runs. Runs to his cell in the Halls of the Adepti, to collect what little he has left...*
-		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X000!DESCRIPTION!}
+		*Run away now.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0027!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0026!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0027!DESCRIPTION!]
+		||
+		*With the gentle quiet of an approaching tidal wave, this dangerous thought matures, threatening to overwhelm Ormenos, if not outright destroy him. But he is now more sure of this fact than ever.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0028!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0027!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0028!DESCRIPTION!]
+		||
+		*If he fails to escape now, he is doomed.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0029!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0028!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0029!DESCRIPTION!]
+		||
+		*And so he runs. He runs with the twisted lunacy of awareness all the way to his cell in the Halls of the Adepti. There he will collect what little he has left and then...*
+		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!ORMENOS' CELL!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!10.0029!DESCRIPTION!/]
 
 ???
 out as torma CG
