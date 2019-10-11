@@ -341,59 +341,73 @@ post-second interrogation
 out as torma CG
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.001!DESCRIPTION!]
 		||
-		*Torma awakens as if from a slumber meant to be eternal. She feels upon her head some bizarre work of artifice; this device seems to have taken root in her brain and that its removal will not be without pain...
-		
-		Only after this though does she notice that she is suspended within some viscous, emerald fluid. At first she panics, bashing her fists into the glass, taking deep gulps of the fluid into her lungs only to realize that there is no cause for alarm. She has no troubles breathing whatsoever. She regains her composure.*
+		*Torma awakens from a slumber meant to be eternal. Hands move commanded by her thoughts, and yet they feel foreign, as though she were manipulating the strings on a marionette. These strange limbs soon get caught in a tangle of tubes above. They feel their way down to some bizarre work of artifice, attached to what must be her head. This device seems to have taken root, digging its myriad tendrils deep within her skull; its removal will not be without pain...*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.002!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.002!DESCRIPTION!]
 		||
-		*Suddenly, there is a cataclysmic perturbation that jars her container, making it shake uncontrollably until it inevitably topples to the ground, cracking the glass and spreading the fluid across the floor along with Torma's limp body. 
-		
-		She tries to move, yet finds her muscles unresponsive. It has been so long since she had commanded a physical shell that she had forgotten how to issue commands.*
-		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.X003!DESCRIPTION!}
+		*Graver still, she now just notices her form is suspended within some viscous, emerald fluid. Panic seizes her by the throat, sending her untamed limbs into a violent frenzy bashing against the glass. Though she tries to hold her breath, she soon drinks deeply of the fluid, causing it to flood into her lungs.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.003!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.002!DESCRIPTION!/]
 
-	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.X003!DESCRIPTION!]
-		|@:ENCLAVE!THE VAULT!SOUL STASIS CELL!30.004!DESCRIPTION!|
-		*Without warning, a voice rings out, within Torma's head...*
-		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1204!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.X003!DESCRIPTION!/]
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.003!DESCRIPTION!]
+		||
+		*Though anxious beyond words, the facts do well to quell her apprehension, for she breathes in the liquid as though it were air. No harm befalls her and soon exhaustion stills her frenzied limbs.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.004!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.003!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.004!DESCRIPTION!]
 		||
-		*Immediately thereafter, an intense shock travels up her spine, drawing Torma's attention to the fact that she is attached to the apparatus via a veritable ganglion of tubes and metallic tentacles. Though certainly startling, the shock is painless, and in fact, slightly euphoric.*
+		*Then, a cataclysmic perturbation jars her glassy prison, making it shake uncontrollably. It sways violently, fracturing under the stress. Soon, the unit even topples to the ground, shattering the glass and spilling the fluid across the floor. Thousands of Tormas lie sprawled on the ground, now shivering and coughing, reflecting among the shards of her broken container.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.005!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.004!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.005!DESCRIPTION!]
 		||
-		*Torma grips her fingers tightly into a fist, then releasing them. She appears to have regained control of her body. Then, slowly tearing the bizarre artifact from her head, she wails in agony; for along with it, she drags swathes of her scalp and hair off, causing blood to stream down her face from the holes where the device was linked.*
-		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.006!DESCRIPTION!}
+		*She collects her awareness from among the illusions into a single Falseflesh and tries to move. Her muscles are yet unresponsive to her conscious thought. It has been so long since she has commanded a physical shell that she has nearly forgotten how to issue commands.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.X006!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.005!DESCRIPTION!/]
 
-	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.006!DESCRIPTION!]
-		||
-		*Taking a moment to become accustomed to the incessant throbbing, she drags herself up on to all fours; and only after several excruciating maneuvers, she finally manages to stand. *
-		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.007!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.006!DESCRIPTION!/]
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.X006!DESCRIPTION!]
+		|@:ENCLAVE!THE VAULT!SOUL STASIS CELL!30.007!DESCRIPTION!|
+		*Without warning, a voice resounds from within her mind...*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1204!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.X006!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.007!DESCRIPTION!]
+		||
+		*The veritable ganglion of tubes and metallic tentacles attaching the apparatus to her glows intensely, though she feels no heat through it. Immediately thereafter, an intense shock travels up her spine. Though certainly startling, the shock is painless, and in fact, slightly euphoric.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.008!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.007!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.008!DESCRIPTION!]
+		||
+		*Torma's fingers spasm as she slowly grips them into a tight a fist. Success attained, she then releases them. Then, she commands her hands to grip the bizarre artifact on her head. Then, to remove it. Only after she has completely divorced herself from the object does she realize her Falseflesh wails in agony - for how long it had been doing so, she cannot say. Looking down at the device she witnesses bloody swathes of her scalp and hair yet attached to it. Likewise, blood trickles down her face from the broken interface between her and the machine.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.009!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.008!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.009!DESCRIPTION!]
+		||
+		*She freezes, taking a moment to become accustomed to the incessant throbbing. Soon, though, she drags herself up on to all fours, and only after several excruciating maneuvers, finally manages to stand.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.010!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.009!DESCRIPTION!/]
+???
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.010!DESCRIPTION!]
 		||
 		*There she waits, blood flow transforming from geyser to but a babbling brook, and from brook to drought-stricken creek.
 		
 		Torma gathers her focus. Softly at first, but then gaining in clarity, she hears an almost divine music beckoning her, exhorting her to hasten her pace.*
-		(A#Follow the call){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.008!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.007!DESCRIPTION!/]
+		(A#Follow the call){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.011!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.010!DESCRIPTION!/]
 
-	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.008!DESCRIPTION!]
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.012!DESCRIPTION!]
 		||
 		*Walking to the exit she spots an inert cloudstone, silent and still, ready to respond to the call of a bearer of Glyphs. Though no mage is she, Torma instinctively commands the Vanquished relic she so abhors, for this music calls to her more strongly now than any prejudice she may hold.
 		
 		Quickly, she climbs upon the cloudstone and wills it upwards, towards the source of the ethereal melody.*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.008!DESCRIPTION!/]
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.012!DESCRIPTION!/]
 
 
 out as ormenos CG
