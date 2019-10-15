@@ -341,7 +341,7 @@ post-second interrogation
 out as torma CG
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.001!DESCRIPTION!]
 		||
-		*Torma awakens from a slumber meant to be eternal. Hands move commanded by her thoughts, and yet they feel foreign, not hers, as though she were merely manipulating the strings of a marionette made in her image. These strange limbs soon get caught in a tangle of tubes above. They feel their way down to some bizarre work of artifice, attached to what must be her head. This device seems to have taken root, digging its myriad tendrils deep within her skull; its removal will not be without pain...*
+		*Torma awakens from a slumber meant to be eternal. Hands move commanded by her thoughts, and yet they feel foreign, not hers, as though she were merely manipulating the strings of a marionette made in her image. These strange limbs soon get caught in a tangle of tubes above. They feel their way down to some bizarre work of artifice attached to what must be her head. This device seems to have taken root, digging its myriad tendrils deep within her skull; its removal will not be without pain...*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.002!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.001!DESCRIPTION!/]
 
@@ -383,21 +383,19 @@ out as torma CG
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.008!DESCRIPTION!]
 		||
-		*Torma's fingers spasm as she slowly grips them into a tight a fist. Success attained, she then releases them. Then, she commands her hands to grip the bizarre artifact on her head. Then, to remove it. Only after she has completely divorced herself from the object does she realize her Falseflesh wails in agony - for how long it had been doing so, she cannot say. Looking down at the device she witnesses bloody swathes of her scalp and hair yet attached to it. Likewise, blood trickles down her face from the broken interface between her and the machine.*
+		*Torma's fingers spasm as she slowly grips them into a tight a fist. Success attained, she then releases them. Then, she commands her hands to grip the bizarre artifact atop her head. Then, to remove it. Only after completely divorcing herself from the object does she realize her Falseflesh wails in agony - for how long it had been doing so, she cannot say. Looking down at the device she witnesses bloody swathes of her scalp and hair yet attached to it. Thin streams of blood frame her crying mouth, tracing a path from the broken interface between her and the machine.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.009!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.008!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.009!DESCRIPTION!]
 		||
-		*She freezes, taking a moment to become accustomed to the incessant throbbing. Soon, she drags herself up on all fours, only after several excruciating maneuvers, finally managing to stand.*
+		*She freezes, taking a moment to become accustomed to the incessant throbbing. Soon, she drags herself up on all fours, and only after several excruciating maneuvers, finally manages to stand.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.010!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.009!DESCRIPTION!/]
-???
+
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.010!DESCRIPTION!]
 		||
-		*There she waits, blood flow transforming from geyser to but a babbling brook, and from brook to drought-stricken creek.
-		
-		Torma gathers her focus. Softly at first, but then gaining in clarity, she hears an almost divine music beckoning her, exhorting her to hasten her pace.*
+		*Blood-crusted features crackle as her lips curl into a triumphant smile. But when the crackling stops, her ears reveal a faint angelic echo - or echoes, perhaps. Torma gathers her focus. Softly at first, but then gaining in clarity, she seems to hear an almost divine music beckoning her, exhorting her to hasten her pace.*
 		(A#Follow the call){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.010!DESCRIPTION!/]
 
@@ -413,57 +411,67 @@ out as torma CG
 out as ormenos CG
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.001!DESCRIPTION!]
 		||
-		*Ormenos awakens as if from a slumber meant to be eternal. He feels upon his head a Mind-Loom; the device seems to have taken root in his brain and that its removal will not be painless...
-		
-		Only after this though does he notice that he is suspended within the same viscous, emerald fluid all Enclavean specimens are preserved in. At first he panics, bashing his fists into the glass, taking deep gulps of the fluid into his lungs only to realize that there is no cause for alarm. He has no troubles breathing whatsoever. Slowly regaining his composure, he realizes he should have known as much, but the shock from being the specimen rather than the Thought-Weaver was genuine indeed.*
+		*Ormenos awakens from a slumber meant to be eternal. Hands move commanded by his thoughts, and yet they feel foreign, not his, as though he were merely manipulating the strings of a marionette crafted in his image. These strange limbs soon get caught in a tangle of tubes above. They feel their way down to some bizarre work of artifice attached to what must be his head. A Mind-Loom, but not the end he is familiar with. This device seems to have taken root, digging its myriad tendrils deep within his skull; its removal will not be without pain...*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.002!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.002!DESCRIPTION!]
-		||
-		*Suddenly, there is a cataclysmic perturbation that jars his container, making it shake uncontrollably until it inevitably topples to the ground, cracking the glass and spreading the fluid across the floor along with Ormenos' limp body. 
-		
-		He tries to move, yet finds his muscles unresponsive. He hopes that his muscles have not atrophied during his internment, for centuries could have passed for all he knew.*
-		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X003!DESCRIPTION!}
+		||		
+		*Graver still, he finally notices the viscous, emerald fluid encompassing his form. Panic tries to take hold, but Ormenos knows all too well the function of this liquid prison. He has seen it thousands of times before, though never once been in it - 'had' never once been in it.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.003!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.002!DESCRIPTION!/]
 
-	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X003!DESCRIPTION!]
-		|@:ENCLAVE!THE VAULT!SOUL STASIS CELL!40.004!DESCRIPTION!|
-		*Without warning, a voice rings out, within the paralyzed mage's head...*
-		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1204!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X003!DESCRIPTION!/]
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.003!DESCRIPTION!]
+		||		
+		*He breathes in the fluid in deep breaths, seeking to calm any residual tension with evidence of the fluid's safety. Mind centered he can begin to enact his escape plan - an odd benefit of his paranoia having allowed him to prepare one a decade ago when he first came to the Vault.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.004!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.003!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.004!DESCRIPTION!]
 		||
-		*Immediately thereafter, an intense shock travels up his spine, drawing Ormenos' attention to the fact that he is attached to the apparatus via a veritable ganglion of tubes and metallic tentacles. Though certainly startling, the shock is painless, and in fact, slightly euphoric.*
-		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.005!DESCRIPTION!}
+		*Suddenly, a cataclysmic perturbation jars his glassy prison, making it shake uncontrollably. It sways violently, fracturing under the stress. Soon, the unit even topples to the ground, shattering the glass and spilling the fluid across the floor. Thousands of Ormenos lie sprawled on the ground, now shivering and coughing, reflecting among the shards of his broken container.
+		
+		He tries to move, yet finds his muscles unresponsive. He hopes his muscles have not atrophied during his internment - centuries could have already passed since he was locked away for all he knew.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X005!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.004!DESCRIPTION!/]
 
-	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.005!DESCRIPTION!]
-		||
-		*The mage grips his fingers tightly into a fist, then releasing them. He appears to have regained control of his body. Then, slowly tearing the Mind-Loom from his head, he wails in agony; for along with it, he drags swathes of his scalp and hair off, causing blood to stream down his face from the holes where the device was linked.*
-		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.006!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.005!DESCRIPTION!/]
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X005!DESCRIPTION!]
+		|@:ENCLAVE!THE VAULT!SOUL STASIS CELL!40.006!DESCRIPTION!|
+		*Without warning, a voice rings out, within the paralyzed mage's head...*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!9999.X1204!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.X005!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.006!DESCRIPTION!]
 		||
-		*Taking a moment to become accustomed to the incessant throbbing, he drags himself up on to all fours; and only after several excruciating maneuvers, he finally manages to stand. *
+		*The veritable ganglion of tubes and metallic tentacles attaching the apparatus to him glows intensely, though he feels no heat through it. Immediately thereafter, an intense shock travels up his spine. Though certainly startling, the shock is painless, and in fact, slightly euphoric.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.007!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.006!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.007!DESCRIPTION!]
 		||
-		*There he waits, blood flow transforming from geyser to but a babbling brook, and from brook to drought-stricken creek.
-		
-		Gathering his focus, he realizes that he must flee from this hellish prison. But how can he avoid the detection of the Choir? Perhaps the current tremors are enough to occupy their attention, while Ormenos slips away.*
+		*Ormenos' fingers spasm as he slowly grips them into a tight a fist. Success attained, he then releases them. Then, he commands his hands to grip the bizarre artifact atop his head. Then, to remove it. Only after completely divorcing himself from the Mind-Loom does he realize his Falseflesh wails in agony - for how long it had been doing so, he cannot say. Looking down at the device he witnesses bloody swathes of his scalp and hair yet attached to it. Thin streams of blood frame his crying mouth, tracing a path from the broken interface between him and the machine.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.008!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.007!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.008!DESCRIPTION!]
 		||
-		*Ormenos calls a cloudstone and boards it with great haste. He knows he must act quickly if he wants to escape.*
-		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
+		*He freezes, taking a moment to become accustomed to the incessant throbbing. Soon, he drags himself up on all fours, and only after several excruciating maneuvers, finally manages to stand.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.009!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.008!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.009!DESCRIPTION!]
+		||
+		*Blood-crusted features crackle as his lips curl into a triumphant smile. Phase one of his escape was somewhat easier than he had anticipated, but now came the hard part - and waiting would only make it harder. Besides, a cracked stasis tube would not long remain undiscovered.*
+		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!40.010!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.009!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!40.010!DESCRIPTION!]
+		||
+		*Stumbling toward the cell's exit, Ormenos hastily calls a cloudstone. Time to press his advantage, the one he has always fights hard to keep: he will strike while the enemy is under a false impression.
+		
+		The cloudstone arrives. He mounts and cautiously moves toward the Warden's Conduit.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!40.010!DESCRIPTION!/]
 
 
 
@@ -729,92 +737,174 @@ WARDEN'S CONDUIT
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!/]
 
-	
-	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X001!DESCRIPTION!]
-		|@:ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0010!DESCRIPTION!|
-		*The cloudstone slows to a crawl as it reaches the central hub of the hive-like dungeon. Images of current and former interrogations dance across the black glasses ensconced in the walls. All things said and done in the Vault must pass through the filter of the Gate Keeper.
-		
-		Ormenos turns to find that the jocular Gate Keeper is gliding towards him, greeting him with her usual matronly smile. Yet, he is likewise very much aware that behind this superficial layer of affability lies an unseen and almost undetectable vigilance. If Ormenos had not so regularly dealt with the hidden intentions of others, it might well go unnoticed even to him.
-		
-		In truth, words can only be exchanged with this shrewd elder if done so with extreme caution...*
+???
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!DESCRIPTION!]
+		||
+		*The cloudstone slows to a crawl as it reaches the central hub of the hive-like dungeon. Images of current and former interrogations dance across the black glasses ensconced in the walls. All things said and done in the Vault must pass through the filter of the Gate Keeper.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0010!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0010!DESCRIPTION!]
+		||
+		*Ormenos turns to find that the jocular Gate Keeper is gliding towards him, greeting him with her usual matronly smile. Yet, he is likewise very much aware that behind this superficial layer of affability lies an unseen and almost undetectable vigilance. If Ormenos had not so regularly dealt with the hidden intentions of others, it might well go unnoticed even to him.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0011!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0010!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0011!DESCRIPTION!]
+		|@:ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0012!DESCRIPTION!|
+		*In truth, words can only be exchanged with this shrewd elder if done so with extreme caution...*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9999.X1201!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X001!DESCRIPTION!/]
-	
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0011!DESCRIPTION!/]
+
 >>>Trolled Gate Keeper (2100)<<<
-	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0010!DESCRIPTION!]
-		|^2100:ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!DESCRIPTION!|
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0012!DESCRIPTION!]
+		|^2100:ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!DESCRIPTION!|
 		*The acrid aftertaste of the Gate Keeper's words sour the Inquisitor's mind as he makes his ways up the spiraling staircase leading to the First Sphere of the Enclavean underhalls.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X000!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0010!DESCRIPTION!/]
-	
-	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!DESCRIPTION!]
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0012!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!DESCRIPTION!]
 		||
 		*The Gate Keeper storms off, fuming with utter frustration. Meanwhile, the Inquisitor's mind reels in confusion at the bizarre conversation as he makes his ways up the spiraling staircase leading to the First Sphere of the Enclavean underhalls.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X000!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!DESCRIPTION!/]
-	
-	
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!DESCRIPTION!/]
+
+
 Ormenos pre-second interrogation
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.001!DESCRIPTION!]
 		||
-		*The last step of the spiral stair reached, Ormenos surveys the Warden's Conduit. He notice the conspicuous absence of one of the two things promised by the name; for although this remains a conduit to all other areas of the Vault, there is no warden here acting as the gate keeper. It is forbidden by the Order to practice interrogation and mind-diving without her supervision, thus Ormenos knows further progress would be more than frowned upon...*
+		*The last step of the spiral stair brings Ormenos to the Warden's Conduit. Yet, he notices the conspicuous absence of one of the two things promised by the name, for although this remains a conduit to all other areas of the Vault, no warden lurks about to act as gate keeper. By Order law, it is expressly forbidden to engage in all interrogation and mind-diving excursions without the warden's supervision. But, given the Choir's restriction on further dives, perhaps this absence is actually in Ormenos' favor...*
 		(A#Do as the rules demand and leave){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0012!DESCRIPTION!}
 		(C#Wait to see if the Gate Keeper comes back){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0010!DESCRIPTION!}
 		(E#Go to see Torma anyway){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.001!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0010!DESCRIPTION!]
 		||
-		*Ormenos sits upon cushion to await the return of Sister Gate Keeper, but wait as he may, she does not come back. Hours pass and there is still no sign of her, nor anyone for that matter. Ormenos then muses on all the possible causes for such a strange and unexpected occurrence. However, he is ultimately clueless as to what bizarre sequence of events could have triggered the current outcome.*
+		*Cautious and cowed by years of obsequiousness to the Choir, Ormenos sits upon cushion to await the return of Sister Gate Keeper. He stares at the shifting images upon the glass panes, the myriad specimens floating in their glassy prisons. He searches for the Wayfarer, left to right, up and down, but fails.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00100!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0010!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00100!DESCRIPTION!]
+		||
+		*Odd, perhaps there were to many and he accidentally skipped over it. He tries again this time noticing the location of the nearest neighbors to her cell. Between them an anomalous darkened pane displays an unending void, quite dissimilar to the vibrant images upon all other panes. It must be the Wayfarer's stasis cell, he reasons, but why is it alone reticent to give a view of her room...*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00101!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00100!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00101!DESCRIPTION!]
+		||
+		*Could Torma have discovered a way to manipulate the artifacts in her cell? Impossible. But then again, her locating Ormenos was also something he had thought impossible previously...*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00102!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00101!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00102!DESCRIPTION!]
+		||
+		*Suddenly, light returns to the pane. Images of the Wayfarer floating peacefully in her cell are conjured up from the cell's eye. All appears to be as it should be. But why then the temporary glitch?*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00103!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00102!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00103!DESCRIPTION!]
+		||
+		*He scrutinizes the shifting images, searching for evidence of irregularity. He looks to the Wayfarer, but her bobbing form conforms to his expectations. What of lighting? No, it too is consistent, nary a flicker disturbing the shadows. He searches and searches, until he notices a shadow growing near the entrance - for only an instant - and then it vanishes. He looks closer and waits. It again appears and disappears as before. He waits, and again it happens.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00104!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00103!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00104!DESCRIPTION!]
+		||
+		*A loop.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00105!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00104!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00105!DESCRIPTION!]
+		||
+		*Someone - or something - has tampered with the cell's eye.*
+		(A#Do as the rules demand and leave){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0012!DESCRIPTION!}
+		(C#Wait a little longer for the warden){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00106!DESCRIPTION!}
+		(E#Go to investigate Torma's cell){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0011!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00105!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00106!DESCRIPTION!]
+		||
+		*Wait as he may, the warden does not return. Hours pass and there is still no sign of her, nor anyone for that matter. Ormenos then muses on all the possible causes for such a strange and unexpected occurrence. However, he is ultimately clueless as to what bizarre sequence of events could have triggered the current outcome.*
 		(A#Do as the rules demand and leave){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0012!DESCRIPTION!}
 		(B#Go to see Torma anyway){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0011!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0010!DESCRIPTION!/]
-	
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.00106!DESCRIPTION!/]
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0011!DESCRIPTION!]
 		||
-		*Despite the uncompromising severity of the consequences, Ormenos is stunned to realize that he is willing to risk it all just for another cup full of knowledge. And thus, mounting the cloudstone, he makes his way to the Wayfarer's cell, for what he knows will be the last time.*
+		*Despite the uncompromising severity of the consequences, Ormenos is stunned to realize he is actually willing to risk it all just for another taste of knowledge. Though, perhaps it is not that surprising that a mage of the Order fears ignorance more than the Choir. And thus, mounting the cloudstone, he makes his way to the Wayfarer's cell for what he knows will be the last time.*
 		(A#...){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.X0000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0011!DESCRIPTION!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0012!DESCRIPTION!]
 		||
-		*Ultimately deciding to subjugate his will to that of the Order's, Ormenos accepts his fate as cog in a machine of greater purpose than he alone could aspire to. Thus, as if in a trance, he begins to make his way back to his quarters in the Halls of the Adepti...*
+		*Ultimately deciding to subjugate his will to that of the Order's, Ormenos accepts his fate as a mere cog in the machine of greater purpose - for does not the group always achieve more than the individual? Yes, this is why he must kill his Self and fall in line. Only then can true order come about, and only order can lead to true Discipline. Indeed, this is all for the good of the Order, and the future of Humanity!
+		
+		Thus, his shoulders hunch and his head sags, as he obediently slinks back to his quarters in the Halls of the Adepti...*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!10.0012!DESCRIPTION!/]
-	
+
 
 out as torma CG
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!30.001!DESCRIPTION!]
 		||
-		*That cataclysm which obliterated Torma's prison seems to have had a similar effect upon this area. Documents and Thought-Weaving paraphernalia lie scattered and shattered upon the floor, making Torma's barefooted walk across rather perilous and fraught with sharp pains. 
-		
-		She looks around for a possible path of egress and spots a spiraling stair leading upward into uncertainty. Just then, the heavenly singing resounds once more, with an ever greater urgency and an ever intensifying pull. 
-		
-		The agony of this Voice causes Torma's consciousness to wane, almost as though being dragged back to the Void...*
-		(A#Follow the call){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
+		*The cataclysm seems to have had far-reaching effects indeed. Cracked pains of dark glass mirror each other on both floor and wall, infinitely reflecting their darkness within the myriad shattered shards. The furniture is charred and splintering from their unfortunate proximity to the shattered light crystals. The few robust light crystals that remain flicker wildly, cracks in their surfaces acting as silent promises of future destruction. Soon, they too will explode, leaving the room both utterly dark and utterly devastated.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!30.002!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!30.001!DESCRIPTION!/]
-	
-	
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!30.002!DESCRIPTION!]
+		||
+		*She looks for an escape. Light flickers near a door. This crystal too will soon break completely. A dangerous gamble, but a necessary one if she is to make it out alive.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!30.003!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!30.002!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!30.003!DESCRIPTION!]
+		||
+		*Soon the angelic choir from before crescendos, causing an exquisite agony. Torma's consciousness wanes.*
+		(A#Follow the call){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!30.003!DESCRIPTION!/]
+
+
 out as ormenos CG
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.001!DESCRIPTION!]
 		||
-		*That cataclysm which obliterated Ormenos' prison seems to have had a similar effect upon this area. Documents and Thought-Weaving paraphernalia lie scattered and shattered upon the floor, making the ex-Enclavean's barefooted walk across rather perilous and fraught with sharp pains. 
-		
-		He looks around for his path of egress and spots the spiraling stair leading upward into uncertainty - whether freedom or doom awaits him at the end of this passage, there is only one way for him to find out.
-		
-		So he grits his teeth and presses forward, forcing his reluctant muscles to propel his Falseflesh onward and upward...*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
+		*The cataclysm seems to have had far-reaching effects indeed. Cracked pains of dark glass mirror each other on both floor and wall, infinitely reflecting their darkness within the myriad shattered shards. The furniture is charred and splintering from their unfortunate proximity to the shattered light crystals. The few robust light crystals that remain flicker wildly, cracks in their surfaces acting as silent promises of future destruction. Soon, they too will explode, leaving the room both utterly dark and utterly devastated.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.002!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.001!DESCRIPTION!/]
 
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.002!DESCRIPTION!]
+		||
+		*This is not at all what he expected. His plans seem a good companion to the ruined chamber he now walks...*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.003!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.002!DESCRIPTION!/]
 
-	
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.003!DESCRIPTION!]
+		||
+		*But he has come this far. If he quits now, he guarantees failure. However, if he proceeds, there is a chance he may yet succeed.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.004!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.003!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.004!DESCRIPTION!]
+		||
+		*He looks around for the door to the spiraling stair, his path to freedom. A light flickers, briefly banishing the shadows consuming the door. This crystal too will soon break completely. A dangerous gamble, but a necessary one if he is to make it out alive.*
+		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.005!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.004!DESCRIPTION!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.005!DESCRIPTION!]
+		||
+		*And thus, he grits his teeth and presses forward, forcing his reluctant muscles to propel his Falseflesh onward and upward...*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.005!DESCRIPTION!/]
+
+
+???
 GATE KEEPER
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.000!GATE KEEPER!]
 		||
 		*"Trouble in paradise, Brother Inquisitor?"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.000!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!GATE KEEPER!]
 		||
 		*"Your looking somewhat paler than usual..."*
@@ -825,7 +915,7 @@ GATE KEEPER
 		(E#"Well, you look just as obese and withered as usual."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!}
 		(F#"You're..."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0016!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!GATE KEEPER!]
 		||
 		*"Oh? Were you able to succeed where generations of elite magi have failed?"*
@@ -833,19 +923,19 @@ GATE KEEPER
 		(B#"Likely, but it came at a cost."){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0022!GATE KEEPER!}
 		(E#"I was, you coy swine."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0012!GATE KEEPER!]
 		||
 		*"Oh? Well the Wayfarer case is one which would have even tied the Phrygian ropemakers in knots - the fact that her arrival even predates mine is a clear testament to the difficulty of the task."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00120!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0012!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00120!GATE KEEPER!]
 		||
 		*"And I've certainly seen her break more than a few Mind-Looms - with the minds still in them..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00121!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00120!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00121!GATE KEEPER!]
 		||
 		*"I don't suppose you'll be added to the list of her victims, that is unless she has already found you in there..."*
@@ -853,7 +943,7 @@ GATE KEEPER
 		(B#"Victims? What more do you know about this?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
 		(C#"I suppose that would be bad news indeed."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00121!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!GATE KEEPER!]
 		||
 		*"Certainly! The last time I saw a Thought-Weaver with that look on their face, it was because of Torma's curse..."*
@@ -861,13 +951,13 @@ GATE KEEPER
 		(C#"I see."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0023!GATE KEEPER!}
 		(D#"I would like to avoid curses if at all possible..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0014!GATE KEEPER!]
 		||
 		*"Kind words, Brother Inquisitor!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00140!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0014!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00140!GATE KEEPER!]
 		||
 		*"But on an administrative note, I was wondering if you could tell me more about your irregular exodus from the Mind-Loom..."*
@@ -875,13 +965,13 @@ GATE KEEPER
 		(D#"Fascinating, I was actually wondering what you knew about such irregularities..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
 		(E#"I have nothing to say."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00140!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!]
 		||
 		*"Well, now that's not very nice, Brother Inquisitor!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00150!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00150!GATE KEEPER!]
 		||
 		*"But I'll chalk it up to the stress from your irregular exodus from the Mind-Loom..."*
@@ -889,32 +979,32 @@ GATE KEEPER
 		(D#"Yes, stress... Having made the discovery of a lifetime is truly taxing..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00240!GATE KEEPER!}
 		(E#"Chalk it up to your unhealthy lifestyle, pig."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00250!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00150!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0016!GATE KEEPER!]
 		||
 		*"Well, yes of course, I knew that!"*
 		(F#"..."){F:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00160!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0016!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00160!GATE KEEPER!]
 		||
 		*"But its rare that I make such errors, so instead of humiliating me, you could have let it slide, you know..."*
 		(F#"...it's."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0026!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00160!GATE KEEPER!/]
-	
-	
+
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0021!GATE KEEPER!]
 		||
 		*"Is that so? I'm sure the Choir would love to hear all about it!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00210!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0021!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00210!GATE KEEPER!]
 		||
 		*"It's especially good considering this is about the time most Thought-Weavers start to feel the effects of prolonged exposure to the Wayfarer's mind..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00211!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00210!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00211!GATE KEEPER!]
 		||
 		*"I'm just so glad you were never afflicted by this curse..."*
@@ -922,31 +1012,31 @@ GATE KEEPER
 		(B#"Curse? What more do you know about this?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
 		(E#"The curse afflicting me is your halitosis, you old witch."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00211!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!]
 		||
 		*"Indeed it has affected others!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!]
 		||
 		*"Usually affected magi spiral into an ever-deepening pit of madness soon after the Wayfarer senses them in the Mindscape."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00214!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00214!GATE KEEPER!]
 		||
 		*"Naturally, those Thought-Weavers were prematurely retired and left under my 'permanent' care in one of the many chambers down here."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00215!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00214!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00215!GATE KEEPER!]
 		||
 		*"I truly hope it's not too late for you, Brother; the fate of such magi is tragic indeed..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.000!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00215!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0022!GATE KEEPER!]
 		||
 		*"A cost? Then you too have fallen to the curse of the Wayfarer?"*
@@ -954,50 +1044,50 @@ GATE KEEPER
 		(B#"Curse? What more do you know about this?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
 		(C#"It's possible, I guess."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0022!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!]
 		||
 		*"What do I know about that? Oh not much, just that... well..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0023!GATE KEEPER!]
 		||
 		*"Indeed! It's quite the sight to behold!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0023!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!]
 		||
 		*"Well, I certainly hope not, Brother Inquisitor! Magi afflicted by the curse always meet such tragic fates!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00231!GATE KEEPER!]
 		||
 		*"This is terrible new indeed, Brother Inquisitor! Magi afflicted by the curse always meet such tragic fates!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00231!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!]
 		||
 		*"Oh, I wouldn't know how to avoid it, but don't worry, as it only affects some magi... the ones who are 'found' by Torma in the Void."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!/]
-	
-	
+
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00240!GATE KEEPER!]
 		||
 		*"Is that so? I'm sure the Choir would love to hear all about it!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00241!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00240!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00241!GATE KEEPER!]
 		||
 		*"It's especially good considering this is about the time most Thought-Weavers start to feel the effects of prolonged exposure to the Wayfarer's mind..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00242!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00241!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00242!GATE KEEPER!]
 		||
 		*"I'm just so glad you were never afflicted by this curse..."*
@@ -1005,108 +1095,108 @@ GATE KEEPER
 		(D#"Curse? What more do you know about this?!"){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!}
 		(E#"The curse afflicting me is your halitosis, you old witch."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00242!GATE KEEPER!/]
-	
-	
-	
+
+
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!]
 		||
 		*"Is that so? Well, I sure hope it has nothing to do with Torma 'finding' you in the Void, because that spells tragedy for all the magi who it has happened to..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00250!GATE KEEPER!]
 		||
 		*"You're certainly charming today, aren't you?"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00251!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00250!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00251!GATE KEEPER!]
 		||
 		*"Well, considering you were likely 'found' by the Wayfarer in the Void and will ultimately spend the rest of your crazed existence being probed by your peers, I feel that the last laugh will be mine..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.000!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00251!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0026!GATE KEEPER!]
 		||
 		*"Theirs... I mean there's no need to keep correcting me, Brother!"*
 		(F#"..."){F:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00260!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0026!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00260!GATE KEEPER!]
 		||
 		*"I would hope that you're listening to the content rather then checking for errors constantly!"*
 		(F#"Than! By Roostor's Comb, you're making this to easy!"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00261!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00260!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00261!GATE KEEPER!]
 		||
 		*"Too!"*
 		(F#"Huh?"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00262!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00261!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00262!GATE KEEPER!]
 		||
 		*"You said 'to' easy!"*
 		(F#"No, I didn't."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00263!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00262!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00263!GATE KEEPER!]
 		||
 		*"By Biracul's balls, you most certainly did!"*
 		(F#"So this is the ugly face of senility... Praise be to Roostor."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00264!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00263!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00264!GATE KEEPER!]
 		||
 		*"You aggravating, little Kharr-spawn!"*
 		(F#"..."){F:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00265!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00264!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00265!GATE KEEPER!]
 		||
 		*"I can't wait for the day the Choir 'retires' you!"*
 		(F#"..."){F:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00266!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00265!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00266!GATE KEEPER!]
 		||
 		*"I'll make sure to take real 'good' care of you down here!"*
 		(F#"Look, whatever happens to this body, will have no affect on me, old one."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00267!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00266!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00267!GATE KEEPER!]
 		||
 		*"We shall see, Inquisitor... The signs of the Wayfarer's affects on your psyche are showing themselves..."*
 		(F#"Your to dense too get it... Also, 'effects'."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00268!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00267!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00268!GATE KEEPER!]
 		||
 		*"'You're too dense to get it'!"*
 		(F#"Day one - goal of trolling random old person a wild success."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00269!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00268!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00269!GATE KEEPER!]
 		||
 		*"I can't take this anymore!"*
 		(F#"Later, sucka! Stalphos out!"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9990.X2100!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00269!GATE KEEPER!/]
-			
-		
+
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.000!GATE KEEPER!]
 		||
 		*"In any case, get on over to the Choir of Archons, Brother."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.001!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.000!GATE KEEPER!/]
-	
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.001!GATE KEEPER!]
 		||
 		*"I'm sure they're dying to hear what you've uncovered..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9999.X9999!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.001!GATE KEEPER!/]
-	
 
-	
+
+
 
 ________________________________________________________________________
 EVENT WRITERS
