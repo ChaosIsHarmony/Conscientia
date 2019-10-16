@@ -117,7 +117,7 @@ world? When rains come, turn your scorn
 from the clouds towards your decaying house!
 All things are as they should be!"
 
-- The Biraculian Verses: U 0-1
+- The Biraculian Verses: Y 0-1
 [13/]
 
 [/14]
@@ -133,7 +133,7 @@ Awareness alone reveals the stairway to Heaven!"
 opening! To the Great Awakening! Through her 
 actions, all is born!"
 
-- The Biraculian Verses: R 0-0
+- The Biraculian Verses: U 0-0
 [15/]
 
 [/16]
@@ -141,7 +141,7 @@ actions, all is born!"
 and one to decimate the mind.
 Beware the Emerald spawn, my child!"
 
-- The Biraculian Verses: I 1-0
+- The Biraculian Verses: O 1-0
 [16/]
 
 [/17]
@@ -149,7 +149,7 @@ Beware the Emerald spawn, my child!"
 Pure are the deeds that do not fester!
 You are as I am, and I as you."
 
-- The Biraculian Verses: S 0-1
+- The Biraculian Verses: R 0-1
 [17/]
 
 [/18]
@@ -166,5 +166,24 @@ of the Ataraxia can I make amends.
 Join with me children! To rebuild
 that which It stole from us!"
 
-- The Biraculian Verses: T 0-0
+- The Biraculian Verses: S 0-0
 [19/]
+
+[/20]
+"The truth-blind give insight
+with every word they say.
+Only, perhaps it is not the insight
+they believe it to be."
+
+- The Biraculian Verses: I 0-1
+[20/]
+
+[/21]
+"And as it began, so too does it end.
+Conscientia reigns eternal,
+with Its unblinking eye!
+Both Devil and God,
+this is the Lord we've chosen!"
+
+- The Biraculian Verses: T 1-0
+[21/]

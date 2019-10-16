@@ -13,7 +13,7 @@ public class CommonVar {
 	public static final int BIR = 0, EID = 1, RIK = 2, THE = 3, TOR = 4, WUL = 5;
 
 	// File IO
-	public final static int SAVE_FILE = 0, NPC_FILE = 1, UNI_FILE = 3, NUM_BIRACULIAN_VERSES = 20;
+	public final static int SAVE_FILE = 0, NPC_FILE = 1, UNI_FILE = 3, NUM_BIRACULIAN_VERSES = 22;
 
 	// Persistent across playthroughs
 	public final static int[] persistentAcquirables = new int[] {

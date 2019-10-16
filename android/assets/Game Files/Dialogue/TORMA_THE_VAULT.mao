@@ -399,13 +399,13 @@ out as torma CG
 		(A#Follow the call){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!30.011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.010!DESCRIPTION!/]
 
-	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.012!DESCRIPTION!]
+	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!30.011!DESCRIPTION!]
 		||
 		*Walking to the exit she spots an inert cloudstone, silent and still, ready to respond to the call of a bearer of Glyphs. Though no mage is she, Torma instinctively commands the Vanquished relic she so abhors, for this music calls to her more strongly now than any prejudice she may hold.
 		
 		Quickly, she climbs upon the cloudstone and wills it upwards, towards the source of the ethereal melody.*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
-	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.012!DESCRIPTION!/]
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!30.011!DESCRIPTION!/]
 
 
 out as ormenos CG
@@ -621,7 +621,7 @@ MIND SEER
 		||
 		*"...Gremlins then, is it...?"*
 		(F#"Yes! They're as real as you are dense!"){F:1,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.00463!MIND SEER!}
-	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.00462MIND SEER!/]
+	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.00462!MIND SEER!/]
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.00463!MIND SEER!]
 		||
@@ -737,25 +737,25 @@ WARDEN'S CONDUIT
 		(A#CHECKER){A:0,NO ADDRESS}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!/]
 
-???
+
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!DESCRIPTION!]
 		||
-		*The cloudstone slows to a crawl as it reaches the central hub of the hive-like dungeon. Images of current and former interrogations dance across the black glasses ensconced in the walls. All things said and done in the Vault must pass through the filter of the Gate Keeper.*
+		*The cloudstone slows to a crawl as it reaches the central hub of the hive-like dungeon. Images of current and former interrogations dance across the black panes ensconced in the walls. All things said and done in the Vault must pass through the filter of the Order's Gate Keeper.*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0010!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0010!DESCRIPTION!]
 		||
-		*Ormenos turns to find that the jocular Gate Keeper is gliding towards him, greeting him with her usual matronly smile. Yet, he is likewise very much aware that behind this superficial layer of affability lies an unseen and almost undetectable vigilance. If Ormenos had not so regularly dealt with the hidden intentions of others, it might well go unnoticed even to him.*
+		*And as if summoned by merely thinking of her, Ormenos turns to find the jocular Gate Keeper gliding towards him, greeting him with her usual matronly smile. Yet, he is likewise very much aware that behind this superficial layer of affability lies an unseen and almost undetectable vigilance - the feminine mirror of his own tendencies.*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0011!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0010!DESCRIPTION!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0011!DESCRIPTION!]
 		|@:ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0012!DESCRIPTION!|
-		*In truth, words can only be exchanged with this shrewd elder if done so with extreme caution...*
+		*He must proceed with caution if he is to exchange words with this shrewd elder...*
 		(A#...){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9999.X1201!DESCRIPTION!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0011!DESCRIPTION!/]
-
+???
 >>>Trolled Gate Keeper (2100)<<<
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X0012!DESCRIPTION!]
 		|^2100:ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!DESCRIPTION!|
@@ -897,7 +897,7 @@ out as ormenos CG
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!40.005!DESCRIPTION!/]
 
 
-???
+
 GATE KEEPER
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.000!GATE KEEPER!]
 		||
@@ -908,48 +908,60 @@ GATE KEEPER
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!GATE KEEPER!]
 		||
 		*"Your looking somewhat paler than usual..."*
-		(A#"Never been better! Great progress has been made!"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!GATE KEEPER!}
+		(A#"Pale? Why we made great progress - history, even - today!"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!GATE KEEPER!}
 		(B#"There was a mishap with the Wayfarer."){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0012!GATE KEEPER!}
 		(C#"Is that so?"){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!GATE KEEPER!}
 		(D#"We cannot all be blessed with the unerring beauty of Sister Gate Keeper..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0014!GATE KEEPER!}
-		(E#"Well, you look just as obese and withered as usual."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!}
-		(F#"You're..."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0016!GATE KEEPER!}
+		(E#"Well, you look just as grotesque and withered as usual."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!}
+		(F#"'You're'..."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0016!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.001!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!GATE KEEPER!]
 		||
-		*"Oh? Were you able to succeed where generations of elite magi have failed?"*
-		(A#"Indeed, I believe I have found what we're looking for!"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0021!GATE KEEPER!}
+		*"Oh? Were you able to succeed where generations of elite magi have failed? How telling of your great genius, Brother!"*
+		(A#"Indeed, I've even found the last thread of Torma's memories!"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0021!GATE KEEPER!}
 		(B#"Likely, but it came at a cost."){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0022!GATE KEEPER!}
-		(E#"I was, you coy swine."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!}
+		(E#"I did. Now if only my support crew in the Conduit weren't so useless..."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0011!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0012!GATE KEEPER!]
 		||
-		*"Oh? Well the Wayfarer case is one which would have even tied the Phrygian ropemakers in knots - the fact that her arrival even predates mine is a clear testament to the difficulty of the task."*
+		*"Oh? Well the Wayfarer case is one that would have even tied the Phrygian ropemakers in knots - the fact that her arrival predates our oldest member by centuries is a clear testament to the difficulty of the task."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00120!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0012!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00120!GATE KEEPER!]
 		||
-		*"And I've certainly seen her break more than a few Mind-Looms - with the minds still in them..."*
+		*"And I've certainly seen her break more than a few Mind-Looms..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00121!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00120!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00121!GATE KEEPER!]
 		||
-		*"I don't suppose you'll be added to the list of her victims, that is unless she has already found you in there..."*
-		(A#"So this has happened to others?"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0021!GATE KEEPER!}
-		(B#"Victims? What more do you know about this?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
-		(C#"I suppose that would be bad news indeed."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!GATE KEEPER!}
+		*"...with the minds still in them, that is."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00122!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00121!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00122!GATE KEEPER!]
+		||
+		*"Though, I don't suppose someone as skilled as yourself will be added to her list of victims..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00123!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00122!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00123!GATE KEEPER!]
+		||
+		*"...That is unless she has already found you in there..."*
+		(A#"So this has happened to others?"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!}
+		(B#"Victims? What more do you know about this?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
+		(C#"I suppose that'd be bad news indeed."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00123!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!GATE KEEPER!]
 		||
-		*"Certainly! The last time I saw a Thought-Weaver with that look on their face, it was because of Torma's curse..."*
-		(B#"Curse? What more do you know about this?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
+		*"Certainly! The last time I saw a Thought-Weaver with that look on their face, it was because of Torma's 'curse'..."*
+		(B#"Superstitions unbecoming of an Enclavean, Sister. What actually happened?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00221!GATE KEEPER!}
 		(C#"I see."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0023!GATE KEEPER!}
-		(D#"I would like to avoid curses if at all possible..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!}
+		(D#"I'd rather avoid any curses, if at all possible..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0013!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0014!GATE KEEPER!]
@@ -960,11 +972,35 @@ GATE KEEPER
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00140!GATE KEEPER!]
 		||
-		*"But on an administrative note, I was wondering if you could tell me more about your irregular exodus from the Mind-Loom..."*
-		(C#"Basically, the Wayfarer found me."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00231!GATE KEEPER!}
-		(D#"Fascinating, I was actually wondering what you knew about such irregularities..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
-		(E#"I have nothing to say."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
+		*"But on an administrative note, I was wondering if you'd care to elucidate your irregular exodus from the Mind-Loom today..."*
+		(C#"Oh, well, the Wayfarer found me."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00231!GATE KEEPER!}
+		(D#"Alas, I cannot! In fact, I wondered if you knew about such irregularities..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00141!GATE KEEPER!}
+		(E#"No."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00140!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00141!GATE KEEPER!]
+		||
+		*"Oh, I know little of such irregularities..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00142!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00141!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00142!GATE KEEPER!]
+		||
+		*"Though, I have certainly seen the Wayfarer break more than a few Mind-Looms..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00143!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00142!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00143!GATE KEEPER!]
+		||
+		*"...with the minds still in them."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00144!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00143!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00144!GATE KEEPER!]
+		||
+		*"However, I quite doubt someone as skilled as yourself will be added to her list of victims..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00123!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00144!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0015!GATE KEEPER!]
 		||
@@ -975,9 +1011,9 @@ GATE KEEPER
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00150!GATE KEEPER!]
 		||
 		*"But I'll chalk it up to the stress from your irregular exodus from the Mind-Loom..."*
-		(A#"What more can you tell me about this?"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0021!GATE KEEPER!}
-		(D#"Yes, stress... Having made the discovery of a lifetime is truly taxing..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00240!GATE KEEPER!}
-		(E#"Chalk it up to your unhealthy lifestyle, pig."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00250!GATE KEEPER!}
+		(A#"What more can you tell me about this?"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!}
+		(D#"Yes, stress... Having made the discovery of the century is truly taxing..."){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00241!GATE KEEPER!}
+		(E#"Chalk it up to your unhealthy lifestyle, pig."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00150!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0016!GATE KEEPER!]
@@ -988,8 +1024,8 @@ GATE KEEPER
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00160!GATE KEEPER!]
 		||
-		*"But its rare that I make such errors, so instead of humiliating me, you could have let it slide, you know..."*
-		(F#"...it's."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0026!GATE KEEPER!}
+		*"But its rare that I make such errors, so instead of humiliating me, you could've just let it slide, you know..."*
+		(F#"...'it's'."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0026!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00160!GATE KEEPER!/]
 
 
@@ -1007,49 +1043,67 @@ GATE KEEPER
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00211!GATE KEEPER!]
 		||
-		*"I'm just so glad you were never afflicted by this curse..."*
-		(A#"So this has happened to others?"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!}
-		(B#"Curse? What more do you know about this?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
-		(E#"The curse afflicting me is your halitosis, you old witch."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
+		*"I'm just so glad you were never afflicted by this... well, 'curse'..."*
+		(A#"...then the Wayfarer also found the others?"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!}
+		(B#"Superstitions unbecoming of an Enclavean, Sister. What actually happened?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00221!GATE KEEPER!}
+		(E#"The only curse afflicting me is you."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00211!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!]
 		||
-		*"Indeed it has affected others!"*
+		*"Oh, dear... so you're not so unique after all... What a pity!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!]
 		||
-		*"Usually affected magi spiral into an ever-deepening pit of madness soon after the Wayfarer senses them in the Mindscape."*
+		*"And indeed, the curse has befallen others! Usually affected magi spiral into an ever-deepening pit of madness soon after the Wayfarer senses them in the Mindscape."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00214!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00214!GATE KEEPER!]
 		||
-		*"Naturally, those Thought-Weavers were prematurely retired and left under my 'permanent' care in one of the many chambers down here."*
+		*"Naturally, those Thought-Weavers were retired and left under my 'permanent' care. They now spend their days in one of the many chambers down here..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00215!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00214!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00215!GATE KEEPER!]
 		||
-		*"I truly hope it's not too late for you, Brother; the fate of such magi is tragic indeed..."*
+		*"Oh, but I truly hope it's not too late for you, Brother; the fate of such magi is tragic indeed..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.000!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00215!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0022!GATE KEEPER!]
 		||
-		*"A cost? Then you too have fallen to the curse of the Wayfarer?"*
-		(A#"So this has happened to others?"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!}
-		(B#"Curse? What more do you know about this?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
-		(C#"It's possible, I guess."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!}
+		*"A cost? You don't say..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0022!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!]
 		||
-		*"What do I know about that? Oh not much, just that... well..."*
-		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
+		*"Then even the prodigy Ormenos has fallen to the 'curse' of the Wayfarer?"*
+		(A#"...then the Wayfarer also found the others?"){A:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00212!GATE KEEPER!}
+		(B#"Superstitions unbecoming of an Enclavean, Sister. What actually happened?"){B:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00221!GATE KEEPER!}
+		(C#"It's possible, I guess."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00221!GATE KEEPER!]
+		||
+		*"Such perfect wisdom! That you now know all that is and is not possible... How humbling your humility is, Brother..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00222!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00221!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00222!GATE KEEPER!]
+		||
+		*"Inexplicable phenomena abound, and 'curse' is merely the word we use to describe just such an inexplicable truth."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00223!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00222!GATE KEEPER!/]
+
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00223!GATE KEEPER!]
+		||
+		*"Besides, disbelief does not alter reality... Oh, this 'curse' is very real..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00223!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0023!GATE KEEPER!]
 		||
@@ -1059,78 +1113,81 @@ GATE KEEPER
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!]
 		||
-		*"Well, I certainly hope not, Brother Inquisitor! Magi afflicted by the curse always meet such tragic fates!"*
+		*"Well, I certainly hope not, Brother Inquisitor! This is the mother of all curses..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00231!GATE KEEPER!]
 		||
-		*"This is terrible new indeed, Brother Inquisitor! Magi afflicted by the curse always meet such tragic fates!"*
+		*"Found you? What terrible news, Brother Inquisitor! Magi afflicted by the curse always meet such tragic fates!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00231!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!]
 		||
-		*"Oh, I wouldn't know how to avoid it, but don't worry, as it only affects some magi... the ones who are 'found' by Torma in the Void."*
-		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
+		*"Oh, I wouldn't know how to avoid this one, but don't worry, as the curse only befalls some magi..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00240!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!/]
-
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00240!GATE KEEPER!]
 		||
-		*"Is that so? I'm sure the Choir would love to hear all about it!"*
-		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00241!GATE KEEPER!}
+		*"Only the ones who are 'found' by Torma in the Void, really..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00240!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00241!GATE KEEPER!]
 		||
-		*"It's especially good considering this is about the time most Thought-Weavers start to feel the effects of prolonged exposure to the Wayfarer's mind..."*
+		*"Is that so? I'm sure the Choir would love to hear all about it!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00242!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00241!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00242!GATE KEEPER!]
 		||
-		*"I'm just so glad you were never afflicted by this curse..."*
-		(C#"I don't think I was, at least."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!}
-		(D#"Curse? What more do you know about this?!"){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0024!GATE KEEPER!}
-		(E#"The curse afflicting me is your halitosis, you old witch."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
+		*"It's especially good considering this is about the time most Thought-Weavers start to feel the effects of prolonged exposure to the Wayfarer's mind..."*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00243!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00242!GATE KEEPER!/]
 
-
+	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00243!GATE KEEPER!]
+		||
+		*"I'm just so glad you were never afflicted by this curse..."*
+		(C#"I don't think I was, at least."){C:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00230!GATE KEEPER!}
+		(D#"Curse? What more do you know about this?!"){D:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00220!GATE KEEPER!}
+		(E#"The only curse afflicting me is you."){E:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!}
+	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00243!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!]
 		||
-		*"Is that so? Well, I sure hope it has nothing to do with Torma 'finding' you in the Void, because that spells tragedy for all the magi who it has happened to..."*
-		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00213!GATE KEEPER!}
+		*"...You're certainly charming today, aren't you?"*
+		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00250!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0025!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00250!GATE KEEPER!]
 		||
-		*"You're certainly charming today, aren't you?"*
+		*"Well, considering you were likely 'found' by the Wayfarer in the Void and will ultimately spend the rest of your crazed existence being probed by your peers..."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00251!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00250!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00251!GATE KEEPER!]
 		||
-		*"Well, considering you were likely 'found' by the Wayfarer in the Void and will ultimately spend the rest of your crazed existence being probed by your peers, I feel that the last laugh will be mine..."*
+		*"...Oh, dear... have I said too much?"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.000!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00251!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0026!GATE KEEPER!]
 		||
-		*"Theirs... I mean there's no need to keep correcting me, Brother!"*
+		*"Theirs... I mean there's! There's no need to keep correcting me, Brother!"*
 		(F#"..."){F:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00260!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.0026!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00260!GATE KEEPER!]
 		||
-		*"I would hope that you're listening to the content rather then checking for errors constantly!"*
-		(F#"Than! By Roostor's Comb, you're making this to easy!"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00261!GATE KEEPER!}
+		*"I'd hope that you're listening to the content rather then checking for errors constantly!"*
+		(F#"'Than'! By Roostor's Comb, you're making this to easy!"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00261!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00260!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00261!GATE KEEPER!]
 		||
-		*"Too!"*
+		*"'Too'!"*
 		(F#"Huh?"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00262!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00261!GATE KEEPER!/]
 
@@ -1161,7 +1218,7 @@ GATE KEEPER
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00266!GATE KEEPER!]
 		||
 		*"I'll make sure to take real 'good' care of you down here!"*
-		(F#"Look, whatever happens to this body, will have no affect on me, old one."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00267!GATE KEEPER!}
+		(F#"Methinks you'll 'expire' before I 'retire', Methuselah..."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00267!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00266!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00267!GATE KEEPER!]
@@ -1172,20 +1229,20 @@ GATE KEEPER
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00268!GATE KEEPER!]
 		||
-		*"'You're too dense to get it'!"*
-		(F#"Day one - goal of trolling random old person a wild success."){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00269!GATE KEEPER!}
+		*"No, 'You're' 'too' dense to get it!"*
+		(F#"Day one - goal of trolling random old person, a wild success!"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00269!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00268!GATE KEEPER!/]
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00269!GATE KEEPER!]
 		||
 		*"I can't take this anymore!"*
-		(F#"Later, sucka! Stalphos out!"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9990.X2100!GATE KEEPER!}
+		(F#"Can't take the heat? From my Stalphos BURN!"){F:1,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!9990.X2100!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.00269!GATE KEEPER!/]
 
 
 	[/ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.000!GATE KEEPER!]
 		||
-		*"In any case, get on over to the Choir of Archons, Brother."*
+		*"At any rate, perhaps it's best you run along now and go report to the Choir of Archons."*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.001!GATE KEEPER!}
 	[ENCLAVE!THE VAULT!WARDEN'S CONDUIT!1.000!GATE KEEPER!/]
 
