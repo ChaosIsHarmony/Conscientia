@@ -72,11 +72,11 @@ Virgin run
 		(B#Use the cloudstone to ascend to the Second Sphere){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!0.0018!DESCRIPTION!/]
 
-???
+
 one event
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!0.002!DESCRIPTION!]
 		||
-		*His cloudstone arrives, again bringing him to the art interweaving two vastly different eras. Likewise is he returned to his duties as a mage of the Order of the Enclave. Yet, temptation to remain truant is not altogether absent, as the desire to use the cloudstone once more crosses his consciousness. However, after all this time in absentia, perhaps it is best to complete his appointed tasks after all. Then again...*
+		*The wandering mage's cloudstone arrives, bringing him once more to the aesthetic convergence of two vastly different eras. Likewise is he returned to his duties as a mage of the Order of the Enclave. Yet, temptation to remain truant is not altogether absent, as the desire to use the cloudstone once more competes for attention. However, after all this time in absentia, perhaps it is best to complete his appointed tasks after all. Then again...*
 		(A#Enter the Nave and report to the Archons){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 		(B#Use the cloudstone to ascend to the Second Sphere){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!0.002!DESCRIPTION!/]
@@ -85,9 +85,9 @@ one event
 two events
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!0.003!DESCRIPTION!]
 		||
-		*His cloudstone arrives, again bringing him to the art interweaving two vastly different eras. He is also returned to his duties as a mage of the Order of the Enclave. Yet, temptation to remain truant is not altogether absent, as the desire to use the cloudstone once more crosses his consciousness. Though an undeniable sense of duty likewise pulls him towards the massive doors of the Hall of Reckoning. Never before has he tempted fate so boldly; never before has he flagrantly disregarded the tasks set out for him by the Choir.
+		*The wandering mage's cloudstone arrives, bringing him once more to the aesthetic confluence of two vastly different eras. Likewise is he returned to his duties as a mage of the Order of the Enclave. Yet, temptation to remain truant is not altogether absent, as the desire to use the cloudstone still competes for his attention. This desire's dutiful rival tempers the impulse, compelling him towards the massive doors of the Hall of Reckoning. Never before has he tempted fate so boldly; never before has he so flagrantly disregarded the tasks set out for him by the Choir.
 		
-		His newfound freedom of will is at the same time exciting and terrifying; for he knows the consequences will be severe if he continues to court his whims.*
+		His newfound freedom of will is at the same time exciting and terrifying, for he knows the consequences will be severe if he continues to court his whims. Life was much simpler when the choice was clear, when there was no choice but to obey.*
 		(A#Enter the Nave and report to the Archons){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!DESCRIPTION!}
 		(B#Use the cloudstone to ascend to the Second Sphere){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!0.003!DESCRIPTION!/]
@@ -96,7 +96,7 @@ two events
 Told to stop by Choir of Archons and heard Khlutt's outburst
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!10.001!DESCRIPTION!]
 		||
-		*Ormenos exits the Hall of Reckoning, the cyclone of emotions only now hitting. Years of his tenure in the Order were spent on the Wayfarer case; he had accomplished what none other could and pinpointed the memory pathway leading to the Thought Wheel of the Beginning; and now...*
+		*Ormenos exits the Hall of Reckoning, the maelstrom of emotions only now forming their portal to chaos. Years of his tenure in the Order were spent on the Wayfarer case. In that time, he had accomplished what no other Thought-weaver could and pinpointed the memory pathway leading to the Thought Wheel of the Beginning. But now...*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0010!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.001!DESCRIPTION!/]
 
@@ -108,16 +108,40 @@ Told to stop by Choir of Archons and heard Khlutt's outburst
 
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0011!DESCRIPTION!]
 		||
-		*The Choir seems to believe his role in this play is over; the curtain has descended. But why do they not wish for him to accompany Brother Entropy Stayer? Has Ormenos not done all they had commanded?*
+		*The Choir seems to believe his role in this play is over; the curtain has descended on a forgettable performance. But why do they not wish for him to accompany Brother Entropy Stayer? Has Ormenos not done all they had commanded? Has he not loyally set aside his will for the good of the Order? Does he not deserve this honor?*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0012!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0011!DESCRIPTION!/]
 
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0012!DESCRIPTION!]
 		||
-		*The sullen mage begins to shift his feet towards his quarters to rest, for did the Choir not command him to rest? But a delinquent though then crosses his consciousness: what if he were to go back to the Vault... to see the Wayfarer one last time? The Choir merely demanded that he perform no further dives via the Mind-Loom; certainly, looking one last time upon the subject of Ormenos' interrogations once more before her disposal would not spark the ire of the Enclavean leaders...*
+		*But the sparks of his anger find no tinder, dying just as soon as they are born. The Choir has thoroughly rid him of heretical leanings. Thus, the sullen mage begins to shift his feet towards his quarters to rest, for the Choir commanded him to rest, did they not? Yes, he should return.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0013!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0012!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0013!DESCRIPTION!]
+		||
+		*Just then, a slightly delinquent thought attempts to breach the surface of his consciousness...*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0014!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0013!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0014!DESCRIPTION!]
+		||
+		*...What if he were to go back to the Vault?*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0015!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0014!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0015!DESCRIPTION!]
+		||
+		*To see the Wayfarer one last time?*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0016!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0015!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0016!DESCRIPTION!]
+		||
+		*The Choir merely demanded that he perform no further dives via the Mind-Loom; certainly, looking one last time upon the subject of his lengthy interrogations before her disposal would not spark the ire of the Enclavean leaders...*
 		(A#Go back and see the Wayfarer one last time){A:0,ENCLAVE!THE VAULT!WARDEN'S CONDUIT!0.X000!DESCRIPTION!}
 		(B#Return to quarters to rest){B:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!9990.X2019!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0012!DESCRIPTION!/]
+	[ENCLAVE!UNDERHALLS!FIRST SPHERE!10.0016!DESCRIPTION!/]
 
 
 
@@ -132,7 +156,7 @@ SECOND SPHERE
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!/]
 
 
-
+???
 Virgin run
 >>>Experienced the Second Sphere (2061)<<<
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X001!DESCRIPTION!]
