@@ -100,7 +100,7 @@
 		[FIRST SPHERE/]
 		
 		[/SECOND SPHERE]
-			|9999,|
+			|4,9999,|
 		[SECOND SPHERE/]
 		
 		[/THIRD SPHERE]

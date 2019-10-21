@@ -12,7 +12,7 @@ Virgin run
 >>>Experienced the first sphere (2060)<<<
 	[/ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X001!DESCRIPTION!]
 		|^2060:ENCLAVE!UNDERHALLS!FIRST SPHERE!0.0018!DESCRIPTION!|
-		*Echoing footsteps fill the lonely underhalls, their source none but Ormenos himself. Though the mage fancies himself a solitary one, it has been long since he has walked the halls alone. Eyes widen as though standing at an epiphany's precipitous edge. They now look upon the myriad bas reliefs familiarity has made strange. It seems that only in the sobering company of solitude does he finally notice the bizarre juxtaposition of exquisite Vanquished artistry with the lackluster Thiudan attempts at imitation.*
+		*Echoing footsteps fill the lonely underhalls, their source none but Ormenos himself. Though the mage fancies himself a solitary one, it has been long since he has walked the halls alone. Eyes widen as though standing at an epiphany's precipitous edge. They now look upon the myriad bas-reliefs familiarity has made strange. It seems that only in the sobering company of solitude does he finally notice the bizarre juxtaposition of exquisite Vanquished artistry with the lackluster Thiudan attempts at imitation.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!9990.X2060!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X001!DESCRIPTION!/]
 
@@ -156,70 +156,129 @@ SECOND SPHERE
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!/]
 
 
-???
+
 Virgin run
 >>>Experienced the Second Sphere (2061)<<<
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X001!DESCRIPTION!]
-		|^2061:ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00110!DESCRIPTION!|
-		*Ormenos' cloudstone docks at its destination: the Second Sphere. This area hosts no grandiose halls as the First Sphere below did. In truth, there is naught but a solitary room, though a colossal one at that.*
+		|^2061:ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00150!DESCRIPTION!|
+		*The cloudstone gently docks in the alcove entrance to the Second Sphere. The area hosts no grandiose halls as the First Sphere below did, just a single, solitary chamber - though a colossal one at that.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!9990.X2061!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X001!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0010!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00100!DESCRIPTION!]
 		||
-		*Here the gilded bas-reliefs are primarily of Thiudan make. These works seem to depict a mass exodus into the current locus, led by the Sylvan Architect - a veritable giant with legs as long as the trunks of a mature Muninn and arms of equal magnitude. But this is merely the mythology of a confused proto-Enclave, unevolved and unaware, or at least such has been borne out by the tireless research of the scholarly magi at the Enclave.*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0011!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0010!DESCRIPTION!/]
+		*Here the gilded bas-reliefs are exclusively of Thiudan make, though they overlay earlier Vanquished works. Ormenos takes a moment to pontificate to a hypothetical new recruit on why he can tell this little known fact about the art here. He gestures at the space between two reliefs, urging the imaginary initiate to examine it closer.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00101!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00100!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0011!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00101!DESCRIPTION!]
 		||
-		*In one of the many panels, they appear to be installing the numerous Thought Wheels of the Enclave. In another, they are setting up the apiary that is the Vault, with its infinity of Soul Stasis and Containment cells. Others depict the magnificent Archives with its majestic Muninn, then just a sapling. But finally Ormenos' eyes fall upon a curious sight, something he had never noticed before: the creation of a massive workshop beneath the Archives, where the giant Sylvan Architect appears to have installed himself, taking root in a gargantuan throne cast of the finest silver.*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0012!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0011!DESCRIPTION!/]
+		*Soon, he is pointing and staring at the chipped corner, hidden by an overhanging piece of the relief.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00102!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00101!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0012!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00102!DESCRIPTION!]
 		||
-		*The curious mage cannot help but speculate at the deeper meaning behind such evocative products of the imagination.*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0013!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0012!DESCRIPTION!/]
+		*Closer, he urges, closer.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00103!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00102!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0013!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00103!DESCRIPTION!]
 		||
-		*Returning to his present circumstances, Ormenos now ponders where he might venture.*
-		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!}
-		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0013!DESCRIPTION!/]
+		*He imagines the spark of recognition igniting the fire of Awareness within the recruit. There it is, clear evidence of a more ancient and more perfect work laid bare by the premature crumbling of the inferior piece. Time may have conquered the work of Thiudan hands, but not even the efforts of Time and the Thiuda combined have erased the Vanquished masterpiece beneath.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X00104!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00103!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00110!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X00104!DESCRIPTION!]
+		|@:ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00105!DESCRIPTION!|
+		*Though it is but a few forgotten Glyphs, their understated designs scream of Vanquished sophistication. This spot and others together reveal bits and pieces of the history of the subterranean edifice the Enclaveans now occupy. They likely point at the building's original purpose, though there are too few recognizable Glyphs to be certain of this thesis.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!9999.X0004!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X00104!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00105!DESCRIPTION!]
 		||
-		*Ormenos has returned to the mythological depictions of the giant Sylvan Architect and his grand exodus. He remains confused at the prospect of any taking such fantasies seriously, yet maintains a latent sense of dread that there may be a kernel of truth lurking among the lies...
-		
-		Nevertheless, he must press onward and decide where to go.*
-		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!}
-		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00110!DESCRIPTION!/]
+		*Ormenos nervously darts his gaze hither and thither; ears scan left and right. Both sensors hope to find his unintentional vocalization of the imaginary lecture audible to the art and shadows alone.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00106!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00105!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00106!DESCRIPTION!]
+		||
+		*Sight reveals no unwanted auditors, and sound reports no undesired bystanders. He finds himself solely in solitude's company.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00107!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00106!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00107!DESCRIPTION!]
+		||
+		*An audible sigh signals relief and gratitude for his great fortune. Tension vanishing from an overworked body, he slumps against the lone undecorated wall. Had anyone witnessed his little monologue, they might think him mad. This he cannot afford - not when he is about to make the announcement of the century. No, he needs his reputation intact, until he is well on his way to Kabu, to the Thought Wheel of the Beginning. He will discover what lay at the core of the Great Awakening. He will have it no other way.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00108!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00107!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00108!DESCRIPTION!]
+		||
+		*At the sound of approaching footsteps, the mage straightens from his slouching posture and tries to look as dignified as he can. He sees two sisters exiting the Archives and walking toward the cloudstone. They greet him with a nod and he replies. But as soon as they vanish into the alcove and up towards the Third Sphere, Ormenos' eyes widen. He only now remembers the Archives and the Path of Discipline are nearby; likely the two most visited areas of the Enclave barring the Halls of the Adepti. That he was alone during his imaginary lecture was nothing short of miraculous. If he believed in fairy tales, he may even say it was predestined...*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00109!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00108!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00109!DESCRIPTION!]
+		||
+		*No. He decides to move on, lest he break into yet another disastrous act of self-lecturing.*
+		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!}
+		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00109!DESCRIPTION!/]
+
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00150!DESCRIPTION!]
+		||
+		*Ormenos has returned to the Second Sphere. The bas-reliefs he ignored before repay the favor. But rather than lecture on what lies beneath the Thiudan works, this time he examines the works themselves. The ancient reliefs, to the best of his knowledge, depict a mass exodus into the current locus. The myriad magi entering the courtyard are led by the Sylvan Architect, the 'Biracul of the Enclave' members of the Order facetiously call him.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00151!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00150!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00151!DESCRIPTION!]
+		||
+		*Ormenos never really has understood why the Enclave's forebearers would fabricate such a bizarre and clearly impossible origin myth. How could they have ever expected the world's finest scholars to swallow the tale of the Sylvan Architect? Not even a child would believe a giant with legs as long as the trunks of a mature Muninn and arms of equal magnitude would be traveling the land collecting the broken fragments of the fallen Thiuda. This has to be merely the mythology of a confused proto-Enclave, unevolved and unaware. This has been borne out time and again by the tireless research of generations of Enclaveans.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00152!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00151!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00152!DESCRIPTION!]
+		||
+		*Ormenos then looks to one of the many panels where the magi now appear to be installing the numerous Thought Wheels of the Enclave - their total number uncertain even to this day. In another, they are setting up the apiary Vault, with its infinity of Soul Stasis and Containment cells. Others depict the magnificent Archives with its majestic master Muninn, then just a sapling but utterly imposing despite its youth.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00153!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00152!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00153!DESCRIPTION!]
+		||
+		*Finally, his vision settles upon a curious sight, something he had never noticed before - or perhaps had merely forgotten. Here, the relief details the creation of a massive workshop beneath the Archives. In it, the Sylvan Architect appears to have taken root in a gargantuan throne cast of the finest silver.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00154!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00153!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00154!DESCRIPTION!]
+		||
+		*The curious mage cannot help but speculate at the deeper meaning behind such evocative products of the imagination. However, he quickly halts any attempts at lecturing invisible acolytes, lest his natural impulse to give voice to his silent thoughts give him an undeserved reputation for lunacy.*
+		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!}
+		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00154!DESCRIPTION!/]
+???
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!]
 		||
 		*There are few options of which to avail himself. In fact, there are but two areas to which he could direct his feet on this level: the Archives and the Path of Discipline. Where he ultimately will go simply depends on whether he would like to spend his truancy attempting to master a Glyph in the notoriously difficult Path of Discipline or to augment his Awareness through exploration of the veritably endless knowledge contained within the Archives.*
-		(A#Use the cloudstone){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!}
+		(A#Use the cloudstone){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!}
 		(B#Enter the Archives){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 		(C#Go to the Path of Discipline){C:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X000!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!/]
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!]
 		||
 		*The cloudstone in ascent will lead to Enclave's entrance, as well as the Halls of the Adepti, where Ormenos might go for a meal, or a chat with fellow magi, or perhaps even a rest in his sleeping cell. Descending would shuttle him to his duties at the Nave in presenting his findings to the Choir of Archons.*
-		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!}
+		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!}
 		(B#Ascend to the Third Sphere){B:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
 		(C#Descend to the First Sphere){C:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X000!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!/]
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!/]
 
 
 one event
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.002!DESCRIPTION!]
 		||
-		*Ormenos' cloudstone docks at its destination: the Second Sphere. The bas-reliefs show their frozen frames of time locked in an unchanging and untrue past, their characters' icy stares fixed on their meek observers.*
+		*Ormenos has returned to the Second Sphere and to its mythological depictions of the giant Sylvan Architect and his grand exodus. He remains confused at the prospect of any taking such fantasies seriously, yet maintains a latent sense of dread that there may be a kernel of truth lurking among the lies... The bas-reliefs show their frozen frames of time locked in an unchanging and untrue past, their characters' icy stares fixed on their meek observers.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0020!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.002!DESCRIPTION!/]
 
@@ -229,6 +288,15 @@ one event
 		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!}
 		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0020!DESCRIPTION!/]
+
+
+
+ORMENOS
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.000!ORMENOS!]
+		||
+		*"...And if you wish to be immortalized among the Patrons of the Third Sphere, then you'd do well to remember never to allow mere speculation sway you!"*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!9999.X9999!ORMENOS!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.000!ORMENOS!/]
 
 
 
@@ -395,7 +463,7 @@ EVENT WRITERS
 	[ENCLAVE!UNDERHALLS!FIRST SPHERE!9990.X2060!DESCRIPTION!/]
 
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!9990.X2061!DESCRIPTION!]
-		|2061:ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0010!DESCRIPTION!|
+		|2061:ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00100!DESCRIPTION!|
 		*EVENT WRITER -  Experienced the Second Sphere*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!9990.X2061!DESCRIPTION!/]
@@ -413,3 +481,14 @@ ________________________________________________________________________
 FIGHTING WORDS
 ________________________________________________________________________
 NPC SWITCHERS
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!9999.X0004!DESCRIPTION!]
+		|#npcSwitch:4|
+		*ORMENOS*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!9999.X0004!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!9999.X9999!ORMENOS!]
+		|#npcSwitch:9999|
+		*DESCRIPTION FROM ORMENOS*
+		(A#SWITCHER){A:0,NO ADDRESS}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!9999.X9999!ORMENOS!/]
