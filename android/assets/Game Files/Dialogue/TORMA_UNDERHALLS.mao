@@ -257,10 +257,13 @@ Virgin run
 		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!}
 		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.00154!DESCRIPTION!/]
-???
+
+
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!]
 		||
-		*There are few options of which to avail himself. In fact, there are but two areas to which he could direct his feet on this level: the Archives and the Path of Discipline. Where he ultimately will go simply depends on whether he would like to spend his truancy attempting to master a Glyph in the notoriously difficult Path of Discipline or to augment his Awareness through exploration of the veritably endless knowledge contained within the Archives.*
+		*Though only two paths lead from this area, they lead to the two largest areas of the Enclave. To his left, the halls lead to the Path of Discipline, a fickle route that leads to great wisdom but that few have ever completed. To his right, the Archives, more massive than all the other areas combined. But that is how it should be and he knows it. For what is a scholar without tomes to record thought? And who have greater reason to remember than the magi of the Order? None since the Thiuda have attempted such a bold and lofty venture. The Enclave will recover the lost arts of the Vanquished, not just for themselves, but for the future of humanity itself.
+		
+		The mage breathes heavily with excitement, primed to renew his quest for knowledge.*
 		(A#Use the cloudstone){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!}
 		(B#Enter the Archives){B:0,ENCLAVE!ARCHIVES!MATHETIA!0.X000!DESCRIPTION!}
 		(C#Go to the Path of Discipline){C:0,ENCLAVE!THE PATH OF DISCIPLINE!EDGE OF IGNORANCE!0.X000!DESCRIPTION!}
@@ -268,7 +271,7 @@ Virgin run
 
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!]
 		||
-		*The cloudstone in ascent will lead to Enclave's entrance, as well as the Halls of the Adepti, where Ormenos might go for a meal, or a chat with fellow magi, or perhaps even a rest in his sleeping cell. Descending would shuttle him to his duties at the Nave in presenting his findings to the Choir of Archons.*
+		*The cloudstone in ascent will lead to Enclave's entrance, and beside it, the Halls of the Adepti. There, Ormenos often goes for a meal, or a chat with fellow magi, or on occasion even a rest in his sleeping cell. Descent, back to the First Sphere, would shuttle him to his duties at the Nave where he would present his findings to the Choir of Archons.*
 		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!}
 		(B#Ascend to the Third Sphere){B:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!}
 		(C#Descend to the First Sphere){C:0,ENCLAVE!UNDERHALLS!FIRST SPHERE!0.X000!DESCRIPTION!}
@@ -278,16 +281,34 @@ Virgin run
 one event
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.002!DESCRIPTION!]
 		||
-		*Ormenos has returned to the Second Sphere and to its mythological depictions of the giant Sylvan Architect and his grand exodus. He remains confused at the prospect of any taking such fantasies seriously, yet maintains a latent sense of dread that there may be a kernel of truth lurking among the lies... The bas-reliefs show their frozen frames of time locked in an unchanging and untrue past, their characters' icy stares fixed on their meek observers.*
+		*Ormenos has returned to the Second Sphere and to its mythological depictions of the giant Sylvan Architect and the grand exodus he purportedly led. The veteran mage remains confused at the prospect of any taking such fantasies seriously.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0020!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.002!DESCRIPTION!/]
 
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0020!DESCRIPTION!]
 		||
-		*With a cold shiver, Ormenos returns to his Falseflesh. Though the ripples of his ancestors' actions cause distortions even in his own time, he realizes that if he is to do something about it in the present, then he should not perseverate in obsessing with the past. Thus he decides where to venture next.*
+		*And yet a latent sense of dread assails him, dragging reason into shadowy ignorance. If there were even a kernel of truth lurking among the lies...*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0021!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0020!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0021!DESCRIPTION!]
+		||
+		*But, then again, there is no sense in idle speculation.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0022!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0021!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0022!DESCRIPTION!]
+		||
+		*Ormenos turns to move, coming face-to-face with the hoary bas-reliefs covering the walls. Those frozen frames of time stay forever locked in a past both unchanging and untrue, while their motionless characters' icy gazes stay forever fixed on those that would observe them.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0023!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0022!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0023!DESCRIPTION!]
+		||
+		*Waves of hair-raising shivers crawl up his back, returning Ormenos to his Falseflesh. Though the ever-undulating ripples of his ancestors' past actions distort even his own time, he realizes that if he is to affect the present, then he can spare no more time for the past.*
 		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!}
 		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0020!DESCRIPTION!/]
+	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0023!DESCRIPTION!/]
 
 
 
@@ -310,66 +331,99 @@ THIRD SPHERE
 	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X000!DESCRIPTION!/]
 
 
-
+???
 Virgin run
 >>>Experienced the Third Sphere (2062)<<<
 	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X001!DESCRIPTION!]
-		|^2062:ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0012!DESCRIPTION!|
-		*Ormenos' cloudstone arrives at the great foyer of the Enclave. Light pours in through the stained glass windows flanking the colossal, meticulously carved wooden doors exiting the compound. These windows of the Patrons represent the humble achievements of the centuries of magi who had devoted their lives to knowledge and to the Order.*
+		|^2062:ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0015!DESCRIPTION!|
+		*The cloudstone softly docks at its alcove in the Third Sphere, bringing Ormenos to the Enclave's grand foyer. Colorful beams of light pour in through stained glass windows. These provide a radiant frame to the colossal set of wooden doors exiting the compound. Most windows host the image a rare magi elevated to the rank of Patron, but a few remain yet vacant.
+		
+		Having one's image impressed upon a Patron window is the ultimate accolade. All magi of the Order yearn for such a distinction from the very day they ascend from acolyte to full member. Here, brothers and sisters of old are immortalized and venerated for their utter devotion to knowledge, and to the Order.*
 		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!9990.X2062!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.X001!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0010!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00100!DESCRIPTION!]
 		||
-		*Among the honored is Brother Ramachu, canonized for his tireless research of Farcasters and Nearcasters, work that has led the Enclavean Order closer and closer to the rediscovery of their use. 
-		
-		Then of course, Sister Maris and her relentless pursuit of medical Techne, which has guaranteed the health of magi for generations. 
-		
-		There too is Brother Castor, discoverer of the Huginn tree, his contributions having enabled the Order to pursue the potential for the long-lost art of writing Glyphs - unthinkable just decades ago!
-		
-		And many others, too many brothers and sisters and too many important contributions to the way of Discipline. Here the magi are not bound by the Awareness of Biracul, but rather they dissect it and understand its inner workings.*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0011!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0010!DESCRIPTION!/]
+		*Among the honored is Brother Ramachu, canonized for his tireless research of Casters both Far and Near, work that has led the Enclavean Order closer and closer to the rediscovery of their actual use.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00101!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00100!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0011!DESCRIPTION!]
-		||	
-		*But for now, in order to not let the progress of the past turn into the decadence of the present, Ormenos must move on.*
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00101!DESCRIPTION!]
+		||
+		*Then, of course, there is Sister Maris and her relentless pursuit of medical Techne, eradicating all strains of numerous viruses, including the original vanquisher itself, the Sa'ma of the Great Awakening.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00102!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00101!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00102!DESCRIPTION!]
+		||
+		*And neighboring her is Brother Castor, discoverer of the Huginn tree. His contributions have enabled the Order to pursue the potential for the long-lost art of writing Glyphs - unthinkable mere decades ago!*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00103!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00102!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00103!DESCRIPTION!]
+		||
+		*But those honored are few. The unremembered, the ones who try as they may but still could not achieve greatness, their tragedy goes unsung by the Choir...*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00104!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00103!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00104!DESCRIPTION!]
+		||
+		*Ormenos freezes, paralyzed by the unthinkable thoughts bubbling up within his tired mind. If the Choir had heard his last thought, he would be in the Vault within the hour. His Discipline is slipping.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00105!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00104!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00105!DESCRIPTION!]
+		||
+		*He soon retraces his thoughts, amending the flaws. The Patrons, honored as they should be. The Choir, wise in honoring them. In truth, these very windows must be a promise to the forgotten. For even the mighty Vanquished are now just fading memories, their heroes lost to Entropy's insatiable hunger. And as such, even the Patrons will join their forgotten brothers and sisters in Chaos' belly someday.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00106!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00105!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00106!DESCRIPTION!]
+		||
+		*All is as it should be.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00107!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00106!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00107!DESCRIPTION!]
+		||
+		*He contents himself with the correction, finalizing it with a firm admonition that to avoid letting past progress turn into present decadence, he must move forward.*
 		(A#Exit the Enclave through the large wooden doors){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X000!DESCRIPTION!}
 		(B#Enter the Halls of the Adepti){B:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!}
 		(C#Use the cloudstone to descend to the Second Sphere){C:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0011!DESCRIPTION!/]
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00107!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0012!DESCRIPTION!]
-		||
-		*Ormenos is once more subject to the gaze of his saintly predecessors and the gentle light they cast. Briefly looking up, he notices one of the windows has a slight crack spidering its way through Sister Rosenth's melancholy visage. The first and last of the Prime Archons, she set the Enclave on its current trajectory establishing the Choir and its oligarchic rule.*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0013!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0012!DESCRIPTION!/]
-
-	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0013!DESCRIPTION!]
-		||
-		*But this crack is the punishment of time, a warning that no work of humanity's can escape entropy's grasp. And for a brief moment, a flash, Ormenos feels an overwhelming sense of despair, a realization that he is fighting an invincible enemy in an impossible battle.*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0014!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0013!DESCRIPTION!/]
-
-	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0014!DESCRIPTION!]
-		||
-		*There is no hope.*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0015!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0014!DESCRIPTION!/]
-
+???
 	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0015!DESCRIPTION!]
 		||
-		*But the sharp sting of concentrated light burning through the stained glass assaults his eyes, causing him to tear his gaze away from the Patrons' deathly cold stares.*
-		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0016!DESCRIPTION!}
+		*Ormenos is once more subject to the gaze of his saintly predecessors and the gentle light they cast. Briefly looking up, he notices one of the windows has a slight crack spidering its way through Sister Rosenth's melancholy visage. The first and last of the Prime Archons, she set the Enclave on its current trajectory establishing the Choir and its oligarchic rule.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00151!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0015!DESCRIPTION!/]
 
-	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0016!DESCRIPTION!]
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00151!DESCRIPTION!]
+		||
+		*But this crack is the punishment of time, a warning that no work of humanity's can escape entropy's grasp. And for a brief moment, a flash, Ormenos feels an overwhelming sense of despair, a realization that he is fighting an invincible enemy in an impossible battle.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00152!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00151!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00152!DESCRIPTION!]
+		||
+		*There is no hope.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00153!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00152!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00153!DESCRIPTION!]
+		||
+		*But the sharp sting of concentrated light burning through the stained glass assaults his eyes, causing him to tear his gaze away from the Patrons' deathly cold stares.*
+		(A#...){A:0,ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00154!DESCRIPTION!}
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00153!DESCRIPTION!/]
+
+	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00154!DESCRIPTION!]
 		||
 		*And in so doing, the insight is gone and he cannot remember for the life of him what so violently unnerved him.*
 		(A#Exit the Enclave through the large wooden doors){A:0,ENCLAVE!THE THRESHOLD!STONE CIRCLE!0.X000!DESCRIPTION!}
 		(B#Enter the Halls of the Adepti){B:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X000!DESCRIPTION!}
 		(C#Use the cloudstone to descend to the Second Sphere){C:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.X000!DESCRIPTION!}
-	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0016!DESCRIPTION!/]
+	[ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00154!DESCRIPTION!/]
 
 
 one event
@@ -469,7 +523,7 @@ EVENT WRITERS
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!9990.X2061!DESCRIPTION!/]
 
 	[/ENCLAVE!UNDERHALLS!THIRD SPHERE!9990.X2062!DESCRIPTION!]
-		|2062:ENCLAVE!UNDERHALLS!THIRD SPHERE!0.0010!DESCRIPTION!|
+		|2062:ENCLAVE!UNDERHALLS!THIRD SPHERE!0.00100!DESCRIPTION!|
 		*EVENT WRITER -  Experienced the Third Sphere*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!UNDERHALLS!THIRD SPHERE!9990.X2062!DESCRIPTION!/]
