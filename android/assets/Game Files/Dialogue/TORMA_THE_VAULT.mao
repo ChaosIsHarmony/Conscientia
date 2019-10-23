@@ -571,7 +571,7 @@ MIND SEER
 
 	[/ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0034!MIND SEER!]
 		||
-		*"A small mistake?! Is your life worth so little, brother?!"*
+		*"A small mistake?! Is your life worth so little, Brother?!"*
 		(A#"..."){A:0,ENCLAVE!THE VAULT!SOUL STASIS CELL!0.00340!MIND SEER!}
 	[ENCLAVE!THE VAULT!SOUL STASIS CELL!0.0034!MIND SEER!/]
 

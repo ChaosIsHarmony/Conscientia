@@ -1096,7 +1096,7 @@ went directly to the nave
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.000220!CHOIR OF ARCHONS!]
 		||
-		*"Other brothers and sisters of cycles past had mentioned such 'occurrences'..."*
+		*"Other Brothers and Sisters of cycles past had mentioned such 'occurrences'..."*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.000221!CHOIR OF ARCHONS!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.000220!CHOIR OF ARCHONS!/]
 
@@ -1508,7 +1508,7 @@ Jinn slayer stuff
 JINN SLAYER
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!JINN SLAYER!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.001!JINN SLAYER!|
-		*"Brothers and sisters of the Enclave! The Choir of Archons has hidden from us the true nature of our Order for far too long!"*
+		*"Brothers and Sisters of the Enclave! The Choir of Archons has hidden from us the true nature of our Order for far too long!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X000!JINN SLAYER!/]
 
@@ -1526,7 +1526,7 @@ JINN SLAYER
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.003!JINN SLAYER!]
 		||
-		*"Brothers and sisters, we have been manipulated... by none other than the Sylvan Architect himself!"*
+		*"Brothers and Sisters, we have been manipulated... by none other than the Sylvan Architect himself!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!0.0030!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.003!JINN SLAYER!/]
 
@@ -1580,7 +1580,7 @@ JINN SLAYER
 
 	[/ENCLAVE!THE NAVE!HALL OF RECKONING!0.X008!JINN SLAYER!]
 		|@:ENCLAVE!THE NAVE!HALL OF RECKONING!0.009!JINN SLAYER!|
-		*"We Enforcers have seen firsthand the fates of many a brother and sister sinisterly twisted as the Choir tried to silence their curiosity!"*
+		*"We Enforcers have seen firsthand the fates of many a Brother and Sister sinisterly twisted as the Choir tried to silence their curiosity!"*
 		(A#"..."){A:0,ENCLAVE!THE NAVE!HALL OF RECKONING!9999.X1206!JINN SLAYER!}
 	[ENCLAVE!THE NAVE!HALL OF RECKONING!0.X008!JINN SLAYER!/]
 

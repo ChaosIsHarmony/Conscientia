@@ -10,7 +10,7 @@ CRYPT OF THE ARCHONS
 acq glyph of Prime Archon prev
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!DESCRIPTION!]
 		||
-		*Bones and sinew weave a new shell as they are rebuilt from the life-fire of the ether. Ormenos now stands upon a copper disk in a dusty chamber where he is confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries. Their scores of lines seem to fade away, gobbled up by the impenetrable murk at their backs.*
+		*Bones and sinew weave a new shell as they are rebuilt from the life-fire of the ether. Ormenos now stands upon a copper disk in a dusty chamber where he is confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean Brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries. Their scores of lines seem to fade away, gobbled up by the impenetrable murk at their backs.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!0.001!DESCRIPTION!/]
 
@@ -209,7 +209,7 @@ acq glyph of Prime Archon prev
 came in with Babel after confronting him with knowledge of Pr Ar
 	[/ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!DESCRIPTION!]
 		||
-		*Bones and sinew weave two shells as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper disk in a dusty chamber where the magi are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries. Their scores of lines seem to fade away, gobbled up by the impenetrable murk at their backs.*
+		*Bones and sinew weave two shells as they are rebuilt from the life-fire of the ether. Ormenos and the Prime Archon rematerialize upon a copper disk in a dusty chamber where the magi are confronted with the cold, glaring eyes of scores of Thiudan Neverborn. Though the Enclavean Brother has seen their ilk many times before, Ormenos remains unnerved by the motionless sentries. Their scores of lines seem to fade away, gobbled up by the impenetrable murk at their backs.*
 		(A#...){A:0,ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.0010!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!CRYPT OF THE ARCHONS!1.001!DESCRIPTION!/]
 
@@ -2146,7 +2146,7 @@ MIDNIGHT
 
 	[/ENCLAVE!ARCHIVES!MATHETIA!0.0241!MIDNIGHT!]
 		||
-		*"Insanity, it is, that even after cent'ries of existence, they're only known to those who seek 'em out - like yar humble sister, here..."*
+		*"Insanity, it is, that even after cent'ries of existence, they're only known to those who seek 'em out - like yar humble Sister, here..."*
 		(C#"That's great, but I think I should be going..."){C:1,ENCLAVE!ARCHIVES!MATHETIA!0.023!MIDNIGHT!}
 		(D#"Is there no way to stop them?!"){D:1,ENCLAVE!ARCHIVES!MATHETIA!0.0242!MIDNIGHT!}
 		(E#"Sometimes I think about performing a 'cleansing' of my own."){E:1,ENCLAVE!ARCHIVES!MATHETIA!0.025!MIDNIGHT!}
@@ -2665,7 +2665,7 @@ virgin run
 
 	[/ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014006!DESCRIPTION!]
 		||
-        *From his dives into Kaban brothers and even the Wayfarer, he has caught a glimpse of what could be...*
+        *From his dives into Kaban Brothers and even the Wayfarer, he has caught a glimpse of what could be...*
 		(A#...){A:0,ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014007!DESCRIPTION!}
 	[ENCLAVE!ARCHIVES!MUNINN GROVE!0.0014006!DESCRIPTION!/]
 
@@ -5236,13 +5236,13 @@ EVENT WRITERS
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2028!DESCRIPTION!]
 		|2028:ENCLAVE!ARCHIVES!MATHETIA!0.0011!DESCRIPTION!|
-		*EVENT WRITER - Ignored sister midnight*
+		*EVENT WRITER - Ignored Sister midnight*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2028!DESCRIPTION!/]
 	
 	[/ENCLAVE!ARCHIVES!MATHETIA!9990.X2029!MIDNIGHT!]
 		|2029:ENCLAVE!ARCHIVES!MATHETIA!9999.X9999!MIDNIGHT!|
-		*EVENT WRITER - Spoke w sister midnight*
+		*EVENT WRITER - Spoke w Sister midnight*
 		(A#WRITER){A:0,NO ADDRESS}
 	[ENCLAVE!ARCHIVES!MATHETIA!9990.X2029!MIDNIGHT!/]
 	

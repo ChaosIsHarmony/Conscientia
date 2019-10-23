@@ -683,7 +683,7 @@ JINN SLAYER
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0010!JINN SLAYER!]
 		||
-		*"Those malevolent pawns of the Masters who made Vault-dwellers of countless innocent brothers and sisters!"*
+		*"Those malevolent pawns of the Masters who made Vault-dwellers of countless innocent Brothers and Sisters!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.002!JINN SLAYER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0010!JINN SLAYER!/]
 
@@ -719,7 +719,7 @@ JINN SLAYER
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!JINN SLAYER!]
 		||
-		*"Honest eyes reveal a brother come late to our meeting..."*
+		*"Honest eyes reveal a Brother come late to our meeting..."*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.X008!JINN SLAYER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.007!JINN SLAYER!/]
 
@@ -787,13 +787,13 @@ JINN SLAYER
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0115!JINN SLAYER!]
 		||
-		*"You injure me, brother!"*
+		*"You injure me, Brother!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.01150!JINN SLAYER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0115!JINN SLAYER!/]
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.01150!JINN SLAYER!]
 		||
-		*"I stand before you as brother, not as Archon!"*
+		*"I stand before you as Brother, not as Archon!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.01151!JINN SLAYER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.01150!JINN SLAYER!/]
 
@@ -1061,7 +1061,7 @@ THETIAN
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0132!MIND SEER!]
 		||
-        *"No Thought-weaver wants to see a brother or sister - especially one of our own caste - on the other side of a Mind-Loom. So, please get to the Nave quickly!"*
+        *"No Thought-weaver wants to see a Brother or Sister - especially one of our own caste - on the other side of a Mind-Loom. So, please get to the Nave quickly!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!10.X000!MIND SEER!}
 	[ENCLAVE!HALLS OF THE ADEPTI!CALEFACTORY!0.0132!MIND SEER!/]
 
@@ -1661,7 +1661,7 @@ Virgin run
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!]
 		||
-		*He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose back story defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
+		*He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a Brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose back story defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X00101!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.00100!DESCRIPTION!/]
 
@@ -1721,7 +1721,7 @@ Met Cook Ding
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!]
 		||
-        *He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose back story defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
+        *He wipes the thin stream of drool escaping his lips and searches the room for an empty seat - easier to find a specific memory among the Wayfarer's chaotic sea of thoughts. As his eyes scan the room, he notices a Brother resting just outside the kitchen. One of the few magi specializing in something other than Techne - more of an honorary mage, perhaps - this is the man whose back story defies all logic, the man name Cook Ding. He is unique among their Order, for his mind is unlike the others: truly invisible to mindsight. Ones such as him are not found anywhere outside of Kabu - Unseen, they call it there. This added to the fact that his tales strain credulity in an already insane world and the result is a very fragmented picture of his past. A genuine mystery, that one.*
 		(A#...){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.X0021!DESCRIPTION!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!0.0020!DESCRIPTION!/]
 
@@ -2109,7 +2109,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.066!COOK DING!]
 		||
-		*"AHAHAHA! Tha' I'll be rembrin' ma brother; tha' I'll be rembrin'!"*
+		*"AHAHAHA! Tha' I'll be rembrin' ma Brother; tha' I'll be rembrin'!"*
 		(F#"TALLY HO!"){F:1,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.0222!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.066!COOK DING!/]
 
