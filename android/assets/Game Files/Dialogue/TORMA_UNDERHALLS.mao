@@ -306,8 +306,8 @@ one event
 	[/ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0023!DESCRIPTION!]
 		||
 		*Waves of hair-raising shivers crawl up his back, returning Ormenos to his Falseflesh. Though the ever-undulating ripples of his ancestors' past actions distort even his own time, he realizes that if he is to affect the present, then he can spare no more time for the past.*
-		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0014!DESCRIPTION!}
-		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0015!DESCRIPTION!}
+		(A#Somewhere on this level){A:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0016!DESCRIPTION!}
+		(B#Use the cloudstone){B:0,ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0017!DESCRIPTION!}
 	[ENCLAVE!UNDERHALLS!SECOND SPHERE!0.0023!DESCRIPTION!/]
 
 
