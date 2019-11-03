@@ -27,11 +27,21 @@ ______________
 ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!]
 		||
-		*Light, furious and intense, burns its way into slumbering eyes, lids flickering to modulate the brightness sleep kept from perception. Again? So ite seems, but Rikos is now used to his unscheduled bouts of sleep, though still not happy about them - or rather, not happy he cannot understand why they keep coming.
+		*The darkness begins to glow. Light burns with an intense fury, forcing its way into slumbering eyes. The two lids flicker erratically, a desperate attempt to temper the brilliance sleep kept from perception.*
 		
-		How long was he out for this time? Quiet footsteps and hushed words dully echo through myriad rows of tall bookshelves, a subtle mouldy musk permeates the stale air, and a massive, fiery clock of pure light illuminates it all... Clearly he is still in the Tacrivian Archives. Librarians and Magissari appear to have dwindled to isolated pockets, most near the cloudstones... Thus, <Evening Prayer Time> fast approaches.
+		*Again?*
 		
-		He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till dusk steals the light from day and the members of the <College of Magissari> will pray for the Shining One's peaceful rest.*
+		*So it seems, but Rikos is now used to these unscheduled bouts of sleep, though still not happy about them - or rather, not happy that he still has not discovered their trigger.*
+		
+		*How long was his little nap this time? A minute? An hour? Surely no longer than that.*
+		
+		*The last thing he remembers was reading Okum's final installment of Before the Fall. Perhaps having read in so many times before made it more of a lullaby than an exhilirating romp through time.*
+		
+		*Quiet footsteps and hushed words dully echo through myriad rows of tall bookshelves. A subtle moldy musk permeates the stale air. And perhaps most telling of all, a massive, fiery clock illuminates it all... Clearly he is still in the Tacrivian Archives. Librarians and Magissari appear to have dwindled to isolated pockets, most near the cloudstones...*
+		
+		*Of course, <Evening Prayer Time> must be fast approaching.*
+		
+		*He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till dusk steals the light from day and the members of the <College of Magissari> will pray for the Shining One's peaceful rest.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!/]
 

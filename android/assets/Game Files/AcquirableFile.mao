@@ -1132,11 +1132,11 @@ UNUSED???
 [87/]
 
 [/88]
-	*BEFORE THE FALL - I
+	*BEFORE THE FALL - I:III
 	
-	'Before the Fall - I'
+	'Before the Fall - I:III'
 	cr. Joffris of Okum*
-	@Before the Fall - I@
+	@Before the Fall - I:III@
 	$Tomes/Tome.jpg$
 	#	A dark winter's night creeps over the land, clawing its way westward with icy fingers, belching chill snow round the Dark Lord's keep. But tonight, winter ends for the Master of Night; all ends for him. Tonight, he faces the inevitability of his own demise. The world was too similar to how it had been, too many coincidences to be mere chance. He has known for a while now that his final night draws near, its end wrought by his own cursed hands.
 
@@ -1160,11 +1160,11 @@ UNUSED???
 [88/]
 
 [/89]
-	*BEFORE THE FALL - II
+	*BEFORE THE FALL - II:II
 	
-	'Before the Fall - II'
+	'Before the Fall - II:II'
 	cr. Joffris of Okum*
-	@Before the Fall - II@
+	@Before the Fall - II:II@
 	$Tomes/Tome.jpg$
 	#	The warrior's fame spreads far and wide. He is now known by numerous epithets - Darksbane, Nightslayer, and Hopebringer chief among them. He has conquered the evil besetting the kingdom and brought peace to the world, and these heroic deeds have earned him a place in the hearts of all folk.
 
@@ -1203,11 +1203,11 @@ UNUSED???
 
 
 [/90]
-	*BEFORE THE FALL - III
+	*BEFORE THE FALL - III:I
 	
-	'Before the Fall - III'
+	'Before the Fall - III:I'
 	cr. Joffris of Okum*
-	@Before the Fall - III@
+	@Before the Fall - III:I@
 	$Tomes/Tome.jpg$
 	#	Darkness. Undisturbed, unadulterated nothingness.
 	Silence. Unbroken, uninterrupted absence.
