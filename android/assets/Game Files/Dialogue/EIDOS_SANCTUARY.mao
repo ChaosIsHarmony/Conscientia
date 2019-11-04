@@ -860,7 +860,7 @@ ARCHIVES
 
 	[/KABU!SANCTUARY!ARCHIVES!0.001!DESCRIPTION!]
 		||
-		*Though the tree appears to dominate much of the space, the enormous size of the hall containing it slowly becomes apparent. The vaulted ceiling is unfathomably high, consumed by shadows at its peak. Between each support column, rows of aged, wooden shelves line the hall; they in turn are lined with the cracked and brittle remains of countless tomes. Arranged in concentric circles rippling outward from the tree are many long tables, benches and writing desks - no doubt placed here for the reading and copying of texts.*
+		*Though the tree appears to dominate much of the space, the enormous size of the hall containing it slowly becomes apparent. The vaulted ceiling is unfathomably high, consumed by shadows at its peak. Between each support column, rows of aged, wooden shelves line the hall; they in turn are lined with the cracked and brittle remains of countless tomes. Arranged in concentric circles, rippling outward from the tree, are many long tables, benches and writing desks - no doubt placed here for the reading and copying of texts.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.0010!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.001!DESCRIPTION!/]
     
@@ -998,7 +998,7 @@ ARCHIVES
 		||
 		*Beneath the blood of the creature, is part of an image. Wiping the blood and dust aside, she sees the faded traces of a fresco. Though aged and worn in places, it looks to be a stylized representation of the tree looming over her. Flecks of metallic reflections give the impression that it may once have been illuminated in silver, though it is hard to say for certain.
 		
-		Images of people seem to have also been traced, and though their relationship with the wooden giant is obscured, at least one individual seems to be walking from the tree bearing some kind of seedling - where to is impossible to determine.*
+		Images of people seem to have also been traced, and though their relationship with the wooden giant is unclear, at least one individual seems to be walking from the tree bearing some kind of seedling - where to is impossible to determine.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X1040!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!0.104!DESCRIPTION!/]
 
@@ -1058,7 +1058,7 @@ ARCHIVES
         |^12307:KABU!SANCTUARY!ARCHIVES!1.300!DESCRIPTION!|
         *Drawing nearer to the tree, she soon observes that some remains of a broken metal fixture in the floor have fused into the bark. It appears that the room was constructed with the plant in mind, but that the growth of the trunk had long since overwhelmed the fixture in its abandonment. 
 		
-		Eidos' eyes are drawn upward as they follow the massive trunk. Its branches stretch out to the vaulted ceiling and beyond as their growth seems to have been of sufficient force to crack through the stonework above in places. However, this must have happened ages before the current furnishings, as no fallen rubble litters the floor.*
+		Eidos' eyes are drawn upward as they follow the massive trunk. Its branches stretch out to the vaulted ceiling and beyond as their growth was of sufficient force to crack through the stonework above in places. However, this must have happened ages before the current furnishings, as no fallen rubble litters the floor.*
         (A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X301!DESCRIPTION!}
     [KABU!SANCTUARY!ARCHIVES!0.X300!DESCRIPTION!/]
 	
@@ -1086,7 +1086,7 @@ ARCHIVES
 >>>GOT RESSURECTION (17300)<<<
     [/KABU!SANCTUARY!ARCHIVES!0.X301!DESCRIPTION!]
         |^17300:KABU!SANCTUARY!ARCHIVES!0.301!DESCRIPTION!|
-        *The wood seems to have petrified, transforming into a pale gray rock fused with sparkling crystalline fragments. These quartz-like specks dot the tough bark and flesh of the tree, like a colorless, glassy pox. Perhaps more remarkable is that there are unmistakable wounds in the tree, as though it were struck with some kind of weapon or cutting tool. Dimly glowing emerald gashes in both trunk and root indicate how this plant may have been struck into oblivion.*
+        *The wood seems to have petrified, transforming into a pale gray rock fused with sparkling crystalline fragments. These quartz-like specks dot the tough bark and flesh of the tree, like a colorless, glassy pox. Perhaps more remarkable is that there are unmistakable wounds in the tree, as though it were struck with some kind of weapon or cutting tool. Dimly glowing emerald gashes - most superficial, but one thin and deep - in both trunk and root indicate how this plant may have been struck into oblivion.*
         (A#Investigate the bodies){A:0,KABU!SANCTUARY!ARCHIVES!0.101!DESCRIPTION!}
         (B#Leave the Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X200!DESCRIPTION!}
         (C#Search through the tomes){C:0,KABU!SANCTUARY!ARCHIVES!0.X2000!DESCRIPTION!}
@@ -1222,7 +1222,7 @@ ARCHIVES
 
 	[/KABU!SANCTUARY!ARCHIVES!10.0140!DESCRIPTION!]
 		||
-		*With each subsequent step, Eidos gains in proximity to the wash of green illumination. The light has a vivid quality to it; its softly pulsating glow seems to mimic the periodic breaths of some unnatural beast.
+		*With each subsequent step, Eidos gains in proximity to the wash of green illumination. The light has a vivid quality to it; its softly pulsating glow even seems to mimic the periodic breaths of some unnatural beast.
 		
 		Eidos inches ever closer until she reaches the mouth at the end of the corridor, pouring out into the next chamber.*
 		(A#...){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X000!DESCRIPTION!}
@@ -1958,15 +1958,21 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.000!FENRIR!]
 		||
-		*"Many have I in my hunger consumed. Some bore Glyphs, their living thoughts now into my Trueflesh carved."*
+		*"The my aid yours is..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.000!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!]
 		||
+		*"Many have I in my hunger consumed. Some bore Glyphs, their living thoughts now into my Trueflesh carved."*
+		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.0010!FENRIR!}
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!/]
+
+	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.0010!FENRIR!]
+		||
 		*"Though neither can I the Glyphs read nor write, a use these symbols cast as Sigils will for you have."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.002!FENRIR!}
-	[KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!/]
+	[KABU!SANCTUARY!AWAKENING CHAMBER!1.0010!FENRIR!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.002!FENRIR!]
 		||
@@ -3033,7 +3039,7 @@ LUIN'S CHAMBER
 		|^12001:KABU!SANCTUARY!LUIN'S CHAMBER!0.X009!DESCRIPTION!|
 		*Seeking the source of ethereal light, Eidos enters a tetrahedral chamber. Three sides angled in on each other make up the walls, tapering severely, high above. Reflective panels arranged on a grid cover all four surfaces like the scales of a silver serpent. The chamber itself is small, the width spanning but five paces outward from the center, though the ceiling might well be five times Eidos' height.
 		
-		Her gaze now set upon the middle of the room, she sees the emerald light pervading the area emanates from a crystal. The shimmering object is suspended midair as though in some invisible, viscous fluid. Beyond it, a familiar dark glass adorns the wall, embedded chest-high at one of the intersections to the myriad reflective tiles.*
+		Gaze now set upon the middle of the room, she sees the emerald light pervading the area emanates from a crystal. The shimmering object is suspended midair as though in some invisible, viscous fluid. Beyond it, a familiar dark glass adorns the wall, embedded chest-high at one of the intersections to the myriad reflective tiles.*
 		(A#Peer into the dark glass){A:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.X001!DESCRIPTION!}
 		(B#Return to the corpse-strewn Archive){B:0,KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!}
 		(C#Examine the green crystal){C:0,KABU!SANCTUARY!LUIN'S CHAMBER!0.900!DESCRIPTION!}
@@ -4301,7 +4307,7 @@ _____________________________________
 WINDING STAIR
 	[/KABU!SANCTUARY!WINDING STAIR!0.000!DESCRIPTION!]
 		||
-		*Emerging from the tunnel, Eidos steps onto a winding stairway. Finely cut black granite, embellished with marble accents, seems the material of choice. Yet, the dominant feature here is not the stair itself. Far more prominent a feature is nothingness. Even a cursory observation reveals the stairway's true nature as but a narrow strip winding around a vast column of empty space.*
+		*Emerging from the tunnel, Eidos steps onto a winding stairway. Finely cut black granite, embellished with marble accents, seems the material of choice. Yet, the dominant feature here is not the stair itself; far more prominent a feature is nothingness. Even a cursory observation reveals the stairway's true nature as but a narrow strip winding around a vast column of empty space.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.001!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.000!DESCRIPTION!/]
 
@@ -4315,13 +4321,13 @@ WINDING STAIR
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.002!DESCRIPTION!]
 		||
-		*Leaning over the railing and peering into the depths below, Eidos sees nothing but the spiraling stair disappearing into an inky void. So thick is the darkness, she feels she could float in it. Her suspicions feel confirmed as she observes the motes of dust floating alongside her, sparkling from their collisions with the light.*
+		*Leaning over the railing and peering into the depths below, Eidos sees nothing but the spiraling stair disappearing into an inky void. So thick is the darkness, she feels she could float in it. Her suspicions feel confirmed as she observes the motes of dust floating alongside her, sparkling from their collisions with the light. They begin to dance around her, this microcosm of false stars, whirling inwards towards her. She reaches a hand out to grab them, but they quickly scurry away, propelled by the wind of her motion.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.003!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.002!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.003!DESCRIPTION!]
 		||
-		*Searching skywards, she sees that all light here leaks in through an aperture at the top of this monolithic shaft - so high above as to appear equidistant from the terminus of the bottomless void below. Golden rays weave their way down the shaft with spindly arms scraping at the darkness, as though greedily searching for some stolen treasure. Yet, the darkness nips back at the shiny intruders, jealously guarding what it hides in the depths.*
+		*Searching skywards, she sees that all light here leaks in through an aperture at the top of this monolithic shaft - so high above as to appear equidistant from the terminus of the bottomless void below. Golden rays weave their way down the shaft with spindly arms scraping at the darkness, as though desperately searching for some stolen treasure. Yet, the darkness nips back at the shiny intruders, jealously guarding what it hides in the depths.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.004!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.003!DESCRIPTION!/]
 
