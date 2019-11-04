@@ -485,11 +485,12 @@ public class GenerateDisplayWin {
 						addBlank = false;
 					}
 				}
+
 				if (i == 8 && j == 0)
 					mapWin.add(new TextButton("/\\", mgScr.mgVar.skin, "no_bg"))
 							.size(mapWin.getWidth() / 2, mapWin.getHeight() / 2).fill().expand().grow();
 				else if (i == 9 && j == 0)
-					mapWin.add(new TextButton("U", mgScr.mgVar.skin, "open_sans_no_bg"))
+					mapWin.add(new TextButton("U", mgScr.mgVar.skin, "no_bg"))
 							.size(mapWin.getWidth() / 2, mapWin.getHeight() / 2).fill().expand().grow();
 				else if (addBlank)
 					mapWin.add(new TextButton(" ", mgScr.mgVar.skin, "no_bg"))

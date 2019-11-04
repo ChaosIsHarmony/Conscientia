@@ -164,6 +164,7 @@ public class PauseMenu {
 			}
 		});
 
+		// maps button
 		if (mgScr.mgVar.hasMaps) {
 			ImageButtonStyle imgmapBS = new ImageButtonStyle();
 			imgmapBS.up = new TextureRegionDrawable(
