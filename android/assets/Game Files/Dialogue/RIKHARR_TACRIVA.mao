@@ -28,135 +28,208 @@ ARCHIVES
 	[/KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!]
 		||
 		*The darkness begins to glow. Light burns with an intense fury, forcing its way into slumbering eyes. The two lids flicker erratically, a desperate attempt to temper the brilliance sleep kept from perception.*
-		
-		*Again?*
-		
-		*So it seems, but Rikos is now used to these unscheduled bouts of sleep, though still not happy about them - or rather, not happy that he still has not discovered their trigger.*
-		
-		*How long was his little nap this time? A minute? An hour? Surely no longer than that.*
-		
-		*The last thing he remembers was reading Okum's final installment of Before the Fall. Perhaps having read in so many times before made it more of a lullaby than an exhilirating romp through time.*
-		
-		*Quiet footsteps and hushed words dully echo through myriad rows of tall bookshelves. A subtle moldy musk permeates the stale air. And perhaps most telling of all, a massive, fiery clock illuminates it all... Clearly he is still in the Tacrivian Archives. Librarians and Magissari appear to have dwindled to isolated pockets, most near the cloudstones...*
-		
-		*Of course, <Evening Prayer Time> must be fast approaching.*
-		
-		*He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till dusk steals the light from day and the members of the <College of Magissari> will pray for the Shining One's peaceful rest.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!}
+		(A#Nothing to fear.){A:1,KAVU!TACRIVA!ARCHIVES!0.001001!DESCRIPTION!}
+		(C#...){C:1,KAVU!TACRIVA!ARCHIVES!0.00100!DESCRIPTION!}
+		(E#Wake up!){E:1,KAVU!TACRIVA!ARCHIVES!0.001001!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.X000!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.001001!DESCRIPTION!]
 		||
-		*Despite the irregularity with his sleep cycles, his reasoning abilities remain unimpaired. For now, at least. He shudders to think on the possibilities of a deteriorating condition. To be safe, a visit to the Alchemy Ward after <Evening Prayer Time> is order, maybe there are further tests to be done, though if the High Alchemist has not figured it out by now, perhaps little hope of resolution survives.
-		
-		Worse still are the inexplicable dreams. The physical he can tug, prod, or mould; he can test the limits, break them, and then try again, until he unveils any hidden secrets. His brain is a physical entity, an object of study. But dreams are unassaible in their airy fortress of thought. So real despite their fiction, he sometimes feels he has actually learned new things through them - an impossibility he would never rationally accept. Yet the fact remains that something beyond his control has forced its way into his life and he has no choice but to accept ignorance for the time being.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.001!DESCRIPTION!/]
+		*Not just dreams now but voices, too?*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00101!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.001001!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00100!DESCRIPTION!]
+		||
+		*Again?*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00101!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00100!DESCRIPTION!/]
+???
+	[/KAVU!TACRIVA!ARCHIVES!0.00101!DESCRIPTION!]
+		||
+		*So it seems, but Rikos is now used to these unscheduled bouts of sleep, though still not happy about them - or rather, not happy that he has failed to discover what triggers them.*
+		(B#You will learn.){B:1,KAVU!TACRIVA!ARCHIVES!0.001010!DESCRIPTION!}
+		(C#...){C:1,KAVU!TACRIVA!ARCHIVES!0.00102!DESCRIPTION!}
+		(D#...){D:1,KAVU!TACRIVA!ARCHIVES!0.001010!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00101!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00102!DESCRIPTION!]
+		||
+		*Did he dream again? Who of this time? Was it one of the ladies or the gentlemen? Try as he may, he fails to recall who it was this time.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00103!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00102!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00103!DESCRIPTION!]
+		||
+		*And how long was his little nap this time? A minute? An hour? Surely no longer than that. The last thing he remembers was reading Okum's final installment of Before the Fall. Perhaps repeated readings over the years has made it more of a lullaby than a tragic time-loop.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00104!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00103!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00104!DESCRIPTION!]
+		||
+		*But there he goes again, wandering through his imagination, forgetting a world exists beyond his own thoughts.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00105!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00104!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00105!DESCRIPTION!]
+		||
+		*Focus. Back to reality.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00106!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00105!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00106!DESCRIPTION!]
+		||
+		*Focus. Back to the senses.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00107!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00106!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00107!DESCRIPTION!]
+		||
+		*Quiet footsteps and hushed words dully echo through myriad rows of tall bookshelves until finally reaching his ears. A subtle moldy musk permeates the stale air, slowly climbing in through his nose. And perhaps most telling of all, a massive, fiery clock burns the hour into his eyes...*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00108!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00107!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00108!DESCRIPTION!]
+		||
+		*Clearly he is still in the Tacrivian Archives, though Librarians and Magissari appear to have dwindled to isolated pockets near the cloudstones...*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00109!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00108!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00109!DESCRIPTION!]
+		||
+		*Of course, <Evening Prayer Time> must be fast approaching. He too should make his way to the temple, for though Biracul may forgive tardiness the High Magissar would not be so lenient...*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00110!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00109!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00110!DESCRIPTION!]
+		||
+		*He looks high above at the spectral hands floating mid-air, where heatless flames project a massive clock. In this light-borne timepiece he finds the confirmation he seeks; ten ticks yet remain till dusk steals the light from day and the members of the <College of Magissari> will pray for the Shining One's peaceful rest.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00111!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00110!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00111!DESCRIPTION!]
+		||
+		*Despite the irregularity with his sleep cycles, his reasoning abilities remain unimpaired. For now, at least.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00112!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00112!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00113!DESCRIPTION!]
+		||
+		*He shudders to think on the possibilities of a deteriorating condition - Archive tomes tell of many a tragic Magissar's studies cut short due to an incurable illness. To be safe, a visit to the Alchemy Ward after <Evening Prayer Time> is order, maybe there are further tests to be done, though if the High Alchemist has not figured it out by now, perhaps little hope of resolution survives.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00114!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00113!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00114!DESCRIPTION!]
+		||
+		*Worse still are the inexplicable dreams. The physical he can tug, prod, or mold; he can test the limits, break them, and then try again, until he unveils any hidden secrets. His brain is a physical entity, an object of study, easy to dissect, to analyze. But his dreams are unassaible in their airy fortress of thought. So real despite their fiction that he sometimes feels he has actually learnedwhile in them - an impossibility he would never rationally accept. And yet the fact remains that something beyond his control has forced its way into his life, and he has no choice but to accept ignorance for the time being.*
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00115!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00114!DESCRIPTION!/]
+
+	[/KAVU!TACRIVA!ARCHIVES!0.00115!DESCRIPTION!]
+		||
+		*A thought creeps into consciousness, unbidden. A memory, but of what? Was it of his forgotten dream?*
+		(A#Let him forget.){A:1,KAVU!TACRIVA!ARCHIVES!0.0028!DESCRIPTION!}
+		(B#Let him remember.){B:1,KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!}
+		(C#Let sleeping dogs lie.){C:1,KAVU!TACRIVA!ARCHIVES!0.0028!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00115!DESCRIPTION!/]
+
 
 	[/KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!]
 		||
-		*A thought creeps into consciousness, unbidden. A memory, but of what?*
-		(A#Let him forget.){A:1,KAVU!TACRIVA!ARCHIVES!0.0038!DESCRIPTION!}
-		(B#Let him remember.){B:1,KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!}
-		(C#Let sleeping dogs lie.){C:1,KAVU!TACRIVA!ARCHIVES!0.0038!DESCRIPTION!}
+		*He focuses, aligning thought and will. What was it the night-Jinns would have him believe? What illusion did they just make him live through? It lingers hazily on the edge of forget, visible yet indiscernible.*
+		(A#He dreamt he was Biracul.){A:1,TACRIVA!ARCHIVES!0.X0021!DESCRIPTION!}
+		(B#He dreamt he was the Jinnwraith.){B:1,TACRIVA!ARCHIVES!0.X0022!DESCRIPTION!}
+		(C#He dreamt he was Thetian.){C:1,TACRIVA!ARCHIVES!0.X0023!DESCRIPTION!}
+		(D#He dreamt he was Torma.){D:1,TACRIVA!ARCHIVES!0.X0024!DESCRIPTION!}
+		(E#He dreamt he was Wulfias.){E:1,TACRIVA!ARCHIVES!0.X0025!DESCRIPTION!}
+		(F#He dreamt he was Eidos.){F:1,TACRIVA!ARCHIVES!0.X0026!DESCRIPTION!}
 	[KAVU!TACRIVA!ARCHIVES!0.002!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!]
-		||
-		*He focuses, aligning thought and will. What was it the night-Jinns would have him believe? What illusion did they just make him live through? It lingers hazily on the edge of forget, visible yet indiscernible.*
-		(A#He dreamt he was Biracul.){A:1,KAVU!TACRIVA!ARCHIVES!0.X0031!DESCRIPTION!}
-		(B#He dreamt he was the Jinnwraith.){B:1,KAVU!TACRIVA!ARCHIVES!0.X0032!DESCRIPTION!}
-		(C#He dreamt he was Thetian.){C:1,KAVU!TACRIVA!ARCHIVES!0.X0033!DESCRIPTION!}
-		(D#He dreamt he was Torma.){D:1,KAVU!TACRIVA!ARCHIVES!0.X0034!DESCRIPTION!}
-		(E#He dreamt he was Wulfias.){E:1,KAVU!TACRIVA!ARCHIVES!0.X0035!DESCRIPTION!}
-		(F#He dreamt he was Eidos.){F:1,KAVU!TACRIVA!ARCHIVES!0.X0036!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!/]
-
 >>>Rik vision of Biracul (3000)<<<
-	[/KAVU!TACRIVA!ARCHIVES!0.X0031!DESCRIPTION!]
-		|^3000:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
+	[/TACRIVA!ARCHIVES!0.X0021!DESCRIPTION!]
+		|^3000:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Yes! That blasphemous dream! To even dream of being the Shining One brought shame to his heart. He would need to absolve himself of this sin before <Evening Prayers>.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3000!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.X0031!DESCRIPTION!/]
+	[TACRIVA!ARCHIVES!0.X0021!DESCRIPTION!/]
 
 >>>Rik vision of Self (3001)<<<
-	[/KAVU!TACRIVA!ARCHIVES!0.X0032!DESCRIPTION!]
-		|^3001:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
+	[/TACRIVA!ARCHIVES!0.X0022!DESCRIPTION!]
+		|^3001:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Sleep brought to him once more terrible nightmares.
 		
 		A terrible black mirror revealed the Wastes beyond Heaven's Bridge, writhing with myriad draugnir like some terrible pox upon the Earth's skin. He looked through the glass out into the sea of pale demons and saw once who stood highest among them, death made flesh. Those empty eyes pierced a hole through his heart, erasing it from existence. He stared down at the emptiness in his chest and then again at his assailant only to realize the mirror now showed only his reflection.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3001!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.X0032!DESCRIPTION!/]
+	[TACRIVA!ARCHIVES!0.X0022!DESCRIPTION!/]
 
 >>>Rik vision of Thetian (3002)<<<
-	[/KAVU!TACRIVA!ARCHIVES!0.X0033!DESCRIPTION!]
-		|^3002:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
+	[/TACRIVA!ARCHIVES!0.X0023!DESCRIPTION!]
+		|^3002:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Vision of Thetian
 		
 		Death cults, Mortis, Jormungund - the Wyrm*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3002!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.X0033!DESCRIPTION!/]
+	[TACRIVA!ARCHIVES!0.X0023!DESCRIPTION!/]
 
 >>>Rik vision of Tormenos (3003)<<<
-	[/KAVU!TACRIVA!ARCHIVES!0.X0034!DESCRIPTION!]
-		|^3003:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
+	[/TACRIVA!ARCHIVES!0.X0024!DESCRIPTION!]
+		|^3003:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Vision of Tormenos
 		
 		Locked inside the Enclave, stolen memories, creation of Biracul, desolation of the Order*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3003!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.X0034!DESCRIPTION!/]
+	[TACRIVA!ARCHIVES!0.X0024!DESCRIPTION!/]
 
 >>>Rik vision of Wulfias (3004)<<<
-	[/KAVU!TACRIVA!ARCHIVES!0.X0035!DESCRIPTION!]
-		|^3004:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
+	[/TACRIVA!ARCHIVES!0.X0025!DESCRIPTION!]
+		|^3004:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Vision of Wulfias
 		
 		Sure, all young boys dream of becoming as powerful as the Heathen, but Rikos is only two winters shy of his third decade and should have long since forgotten such childish dreams. His final, hopeless battles that created the Wastes, his completion of the Wellspring to atone for his betrayal.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3004!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.X0035!DESCRIPTION!/]
+	[TACRIVA!ARCHIVES!0.X0025!DESCRIPTION!/]
 
 >>>Rik vision of Eidos (3005)<<<
-	[/KAVU!TACRIVA!ARCHIVES!0.X0036!DESCRIPTION!]
-		|^3005:KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!|
+	[/TACRIVA!ARCHIVES!0.X0026!DESCRIPTION!]
+		|^3005:KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!|
 		*Sleep brought to him bizarre visions of a little bird. She flew through a distant Kavu, very much like the home he knew, but also very different. She flew above the Jenowin Plain, now more a desert than the endless meadow he knew.*
 		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!9990.X3005!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.X0036!DESCRIPTION!/]
+	[TACRIVA!ARCHIVES!0.X0026!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!]
 		||
 		*This feels... familiar... A surreal sensation overcomes Rikos. Eyes seem to peer down at him through a dark mirror. Terror momentarily grips his Trueflesh, seemingly tearing it apart, ripping the very fabric of his being. He is stripped of all identity, divorced from individuality, tossed into the infinite.
 		
 		A flash of Awareness laced with agony unimaginable. And then...*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00370!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.0037!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.00270!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0027!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.00370!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.00270!DESCRIPTION!]
 		||
 		*All disappears. Thoughts. Memories. Gone. And Rikos gradually phases back into existences with nothing but the awareness that he had an epiphany, one so grand, so life-altering, so utterly thorough, but also, so impossible to recall. He is stupefied. Gradually forgetting even the impression the lost epiphany had, until all that remains is Rikos but with Awareness' seed firmly planted in his Trueflesh.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.010!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.00370!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00270!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.0038!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.0028!DESCRIPTION!]
 		||
 		*A stabbing pain shoots through his body with all the intensity of a meteorite abruptly ending its journey through space. A first. The pain, that is. A new piece of evidence in the curious case of Rikos of Dazil. Perhaps there will be a case study added to the Muninn's archive?*
-		(D#The pain subsides.){D:1,KAVU!TACRIVA!ARCHIVES!0.00380!DESCRIPTION!}
-		(E#The pain intensifies.){E:1,KAVU!TACRIVA!ARCHIVES!0.00381!DESCRIPTION!}
-		(F#The pain mutates? Hmm... Yes! Mutates!){F:1,KAVU!TACRIVA!ARCHIVES!0.00382!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.0038!DESCRIPTION!/]
+		(D#The pain subsides.){D:1,KAVU!TACRIVA!ARCHIVES!0.00280!DESCRIPTION!}
+		(E#The pain intensifies.){E:1,KAVU!TACRIVA!ARCHIVES!0.00281!DESCRIPTION!}
+		(F#The pain mutates? Hmm... Yes! Mutates!){F:1,KAVU!TACRIVA!ARCHIVES!0.00282!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0028!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.00380!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.00280!DESCRIPTION!]
 		||
 		*Pain from his bruised knees signal the dying of the pain that sent him crashing onto to them in the first place. Grabbing onto the table, he collects the tomes his fall scattered and then slowly picks himself up.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.00380!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00280!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.00381!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.00281!DESCRIPTION!]
 		||
 		*Waves of ever-increasing pain ripple through him. He turns his head to vomit, all that comes out is an inky fluid. A different kind of shock sends him crashing to his knees. The pain from the fall focuses his thoughts. Grabbing onto the table, he collects the tomes his fall scattered and then slowly picks himself up.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.00381!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00281!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.00382!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.00282!DESCRIPTION!]
 		||
 		*Waves of pain ripple through his gut, undulating, pulsating. The most bizarre sensations emerge from the chaos his innards face. These sensations are distinct, yet all add up to something grander, more magnificient than they could ever be in isolation, like pieces of some godly puzzle. The amalgamation of all these points to a single desire: to lay an egg.
 		
@@ -167,76 +240,76 @@ ARCHIVES
 		Feeling so utterly foolish, his cheeks redden to a hue that would make Old Hamlik jealous. But what else can he do? He has to get out of here and change his trousers. Discretely, silently. He moves his chair back to stand up and it screeches on the tile, etching ugly lines into it. Pushing on the table to stand up, it cracks in half causing everything on it to come crashing down in a delicious clang that resounds throughout the entire Archives.
 		
 		>>>WHAT HAPPENS NEXT, ELIOT??!?!<<<*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.00382!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00282!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.00383!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.00283!DESCRIPTION!]
 		||
 		*Another visit to the Alchemy Ward is now high on his list of priorities. And to make matters worse, he lost his train of thought. What was it he was trying to determine just now?
 		
 		Gone. The flame once snuffed can never be found again, it can only be replaced by a new flame.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.00383!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.00283!DESCRIPTION!/]
 
 
-	[/KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!]
 		||
 		*Truly, these sudden bouts of slumber have taken control of his life. Desperate to learn the reason behind them he has dug deep into the Archives - thankful he chose to be an Archivist, otherwise he would not have been able to. Alas, to no avail.
 		
 		He was confused, swimming in a sea of anxiety, unsure about the future.*
-		(A#Everything will be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!}
-		(B#Ignorance is unacceptable.){B:1,KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!}
-		(C#All is as it should be.){C:1,KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!/]
+		(A#Everything will be okay.){A:1,KAVU!TACRIVA!ARCHIVES!0.0031!DESCRIPTION!}
+		(B#Ignorance is unacceptable.){B:1,KAVU!TACRIVA!ARCHIVES!0.0032!DESCRIPTION!}
+		(C#All is as it should be.){C:1,KAVU!TACRIVA!ARCHIVES!0.0033!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!/]
 
 
-	[/KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.0031!DESCRIPTION!]
 		||
 		*The volumes surrounding him, meticulously copied by Magissari since Biracul first founded Kavu, provided the comfort he required. He knows the knowledge he seeks lies somewhere within the vast wealth of these tomes, and barring that, it would inevitably be somewhere in the Muninn itself, waiting to be found.
 		
 		The sudden appearance of a shadow on the ground before him stirs Rikos' attention.*
-		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!}
-		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!}
-		(F#A... parade approaches?){F:1,KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.0041!DESCRIPTION!/]
+		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!}
+		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!}
+		(F#A... parade approaches?){F:1,KAVU!TACRIVA!ARCHIVES!0.0036!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0031!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.0032!DESCRIPTION!]
 		||
 		*The books he used as pillows seem to glare back up at him, a reminder of why he is here, of why any of the Magissari are. Rikos feels a stab of shame at neglecting his duties.
 		
 		The sudden appearance of a shadow on the ground before him stirs Rikos' attention.*
-		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!}
-		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!}
-		(F#A... parade approaches?){F:1,KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.0042!DESCRIPTION!/]
+		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!}
+		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!}
+		(F#A... parade approaches?){F:1,KAVU!TACRIVA!ARCHIVES!0.0036!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0032!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.0033!DESCRIPTION!]
 		||
 		*The old adage passed down from Biracul himself. All was ever as it should be. How could it be otherwise?
 		
 		The sudden appearance of a shadow on the ground before him stirs Rikos' attention.*
-		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!}
-		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!}
-		(F#A... parade approaches?){F:1,KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.0043!DESCRIPTION!/]
+		(D#Danger lurks nearby.){D:1,KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!}
+		(E#Only fools jump at shadows.){E:1,KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!}
+		(F#A... parade approaches?){F:1,KAVU!TACRIVA!ARCHIVES!0.0036!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0033!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!]
 		||
 		*Rikos never had cause to be nervous before; he could always trust is his ability to reason through things, but these dreams have drawn out his deepest fears. He looked toward the shadow and simply saw a Magissar perusing the shelves of tomes nearby. A foreigner, clearly, given his peculiar cloak, a patchwork of reds from the darkest crimson to the weakest pink. A wide-brimmed hat hung from his neck, covering the width of his back, and then some.
 		
 		He saw no danger, just the need to go get some fresh air to clear his mind.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.010!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.0044!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0034!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!]
 		||
 		*Rikos never let arrogance cloud his judgment before, though his reasoning abilities were among the greatest the Archivist class had yet seen. He recognized the shadow as that of a person, almost immediately. Clearly a Magissar searching for some dusty tome to pore over. A quick glance revealed it was a Librarian of Tambulan descent, Radysar's eldest, if he was not mistaken.
 		
 		The Librarian waved and smiled at Rikos. His own smile and nod returned the greeting, but he knew he spent too long in the Archives; it was time to go get some fresh air.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.010!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.0045!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0035!DESCRIPTION!/]
 
-	[/KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.0036!DESCRIPTION!]
 		||
 		*A vision - that that does not adequately describe it, truly - waltzed before him. A marvellous spectacle of variegated plumage passed before him. Fowls of all kinds danced in choregraphed unison, cawing their hearts out as the processed through the air. Streamers and confetti shot out from papier mache canons, raining down on them as they marched off into the darkness.
 		
@@ -253,18 +326,18 @@ ARCHIVES
 		The poor bastard.
 		
 		Rikos pauses to reflect on what he just saw. Still maintaining an outward appearance of calm, he scans to see if any one else had witnessed the scene. He is alone in this section of the Archives. A rare but not unheard of occurence. He must have been pushing too hard lately, burning the candle at both ends. Apparently his sanity is threatening to unravel. He had to go get some fresh air.*
-		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.010!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.0046!DESCRIPTION!/]
+		(A#...){A:0,KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!}
+	[KAVU!TACRIVA!ARCHIVES!0.0036!DESCRIPTION!/]
 
 
 >>>Resurrected Muninn Tree (12307)<<<
-	[/KAVU!TACRIVA!ARCHIVES!0.010!DESCRIPTION!]
+	[/KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!]
 		|^12307:KAVU!TACRIVA!ARCHIVES!1.X000!DESCRIPTION!|
 		*He stands up and begins to walk toward the cloudstone, ready to go get some fresh air before <Evening Prayers>.
 		
 		A messenger comes in to tell him the news of his father's passing.*
 		(A#Return to Dazil){A:0,KAVU!TACRIVA!COURTYARD!1.X000!DESCRIPTION!}
-	[KAVU!TACRIVA!ARCHIVES!0.010!DESCRIPTION!/]
+	[KAVU!TACRIVA!ARCHIVES!0.X004!DESCRIPTION!/]
 
 >>>Acquired Famlicus (17902)<<<
 	[/KAVU!TACRIVA!ARCHIVES!1.X000!DESCRIPTION!]
@@ -338,7 +411,7 @@ ARCHIVES
 
 
 ______________
-AILING WARD
+ALCHEMY WARD
 	[/KAVU!TACRIVA!ALCHEMY WARD!19.200!DESCRIPTION!]
 		||
 		*WAKE up again in the Alchemy Ward. The High Magissar threatens to take away your Archivist access if it happens again.
@@ -419,37 +492,37 @@ ________________________________________________________________________
 ________________________________________________________________________
 EVENT WRITERS
 	[/KAVU!TACRIVA!ARCHIVES!9990.X3000!DESCRIPTION!]
-		|3000:KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!|
+		|3000:KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!|
 		*EVENT WRITER - Rik saw vision of Biracul*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KAVU!TACRIVA!ARCHIVES!9990.X3000!DESCRIPTION!/]
 
 	[/KAVU!TACRIVA!ARCHIVES!9990.X3001!DESCRIPTION!]
-		|3001:KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!|
+		|3001:KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!|
 		*EVENT WRITER - Rik saw vision of Self*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KAVU!TACRIVA!ARCHIVES!9990.X3001!DESCRIPTION!/]
 
 	[/KAVU!TACRIVA!ARCHIVES!9990.X3002!DESCRIPTION!]
-		|3002:KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!|
+		|3002:KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!|
 		*EVENT WRITER - Rik saw vision of Thetian*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KAVU!TACRIVA!ARCHIVES!9990.X3002!DESCRIPTION!/]
 
 	[/KAVU!TACRIVA!ARCHIVES!9990.X3003!DESCRIPTION!]
-		|3003:KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!|
+		|3003:KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!|
 		*EVENT WRITER - Rik saw vision of Tormenos*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KAVU!TACRIVA!ARCHIVES!9990.X3003!DESCRIPTION!/]
 
 	[/KAVU!TACRIVA!ARCHIVES!9990.X3004!DESCRIPTION!]
-		|3004:KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!|
+		|3004:KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!|
 		*EVENT WRITER - Rik saw vision of Wulfias*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KAVU!TACRIVA!ARCHIVES!9990.X3004!DESCRIPTION!/]
 
 	[/KAVU!TACRIVA!ARCHIVES!9990.X3005!DESCRIPTION!]
-		|3005:KAVU!TACRIVA!ARCHIVES!0.004!DESCRIPTION!|
+		|3005:KAVU!TACRIVA!ARCHIVES!0.003!DESCRIPTION!|
 		*EVENT WRITER - Rik saw vision of Eidos*
 		(A#WRITER){A:0,NO ADDRESS}
 	[KAVU!TACRIVA!ARCHIVES!9990.X3005!DESCRIPTION!/]

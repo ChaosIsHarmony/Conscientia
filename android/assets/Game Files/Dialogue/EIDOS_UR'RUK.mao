@@ -111,12 +111,6 @@ ALTAR OF THE VOID
 
 
 
-__________________________________
-AWAKENING
-	
-__________________________________	
-BANE OF THE ONE
-
 ______________________________
 CESS PIT
 >>>GAPA is told about NAKARA (16063)<<<
@@ -3443,9 +3437,6 @@ KAHIN
 
 
 
-__________________________________	
-LIMESTONE VAULT	
-
 ______________________________
 LIVING QUARTERS
 >>>Raced twins + not spoke to twins (multiple)<<<
@@ -4544,8 +4535,6 @@ GAPA
 
 
 __________________________________
-MINDLORE WHICH EATS ITSELF
-__________________________________
 PORTAL OF WISDOM
 >>>Helped the guards catch Dysmas (13115)<<<
 	[/KABU!UR'RUK!PORTAL OF WISDOM!0.X000!DESCRIPTION!]
@@ -4773,8 +4762,6 @@ DYSMAS
 
 
 
-___________________________________________________________
-RAVENS OF THE BURNING MIGHT
 ___________________________________________________________
 STONE CIRCLE
 	[/KABU!UR'RUK!STONE CIRCLE!0.X000!DESCRIPTION!]
@@ -5843,8 +5830,6 @@ GATHERING
 
 
 __________________________________
-THAT WHICH IS LIT BY A SHROUDED SUN
-__________________________________
 THE RED TOWER
 	[/KABU!UR'RUK!THE RED TOWER!0.X000!DESCRIPTION!]
 		||
@@ -5859,8 +5844,6 @@ THE RED TOWER
 
 
 
-__________________________________
-THE STRENGTHS ARE MY REWARD
 __________________________________
 THRONE ROOM
 >>>Defeated Ark (16012)<<<

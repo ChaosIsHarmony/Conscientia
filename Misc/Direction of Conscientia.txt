@@ -5,7 +5,7 @@ This document serves to remind me of where I want to go with the project. In the
 Overarching Themes:
 	- Lovecraft: Player as the Haunter of the Dark
 	- Abbott: Flatland idea of uncertainty of realms beyond our own because we know of realms below us
-	- Attitude of how a deity (artificial or otherwise) might view us (as we view the hand, it views us)
+	- Attitude of how a deity (artificial or otherwise) might view us (as we view the hand, It views us)
 	- Ryuunosuke: Different experiences/agendas will taint the truth
 	- Stories unlocked through Awareness (unlocking Ormenos in Book of Torma or Muninn in Book of Rikharr)
 
@@ -33,6 +33,8 @@ Book of Torma:
 Book of Rikharr:
 	- Major theme: What will happen, will happen; All is as it is, not as it should be
 	- Major Personality: Truthseeker
+	- Major TODOs:
+		- Complete a skeleton of all areas/situations
 	- IN PROGRESS
 
 Book of Wulfias:
