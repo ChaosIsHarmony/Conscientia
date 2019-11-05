@@ -17,7 +17,7 @@ leaving the antechamber
 		
 		She begins her climb. Step summing upon step, an apparently unending ascension skywards up the shaft of a large square tower tries Eidos' patience, stretching it to a hair's breadth. That she makes her way up is clear; that there is any reward in this climb remains a mystery.
 		
-		But as she presses on, the passage seems to get ever warmer, and in time, she reaches the top - evidenced by the now visible portal inviting her to exit the indifferent infinity of stairs.*
+		But as she presses on, the passage seems to get ever warmer, and in time, she reaches the top - evidenced by the now-visible portal inviting her to exit the indifferent infinity of stairs.*
 		(A#...){A:0,KABU!WILDERNESS!TACRIBA!0.X000!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.200!DESCRIPTION!/]
 	

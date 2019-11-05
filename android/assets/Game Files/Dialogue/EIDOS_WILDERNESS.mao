@@ -253,13 +253,13 @@ Virgin entrance
 		||
 		*To the northwest, the fissure faces a mountain range, its jagged peaks looming oppressively over the flat desert sprawled before it. The mountains have an unnatural feel to them; they do not grow from gradually emerging foothills, but rather, more closely resemble stalagmites slowly deposited from above, wishing to join their heaven-mirrored twins. Behind the nearest peak, the tip of a massive work of rectilinear architecture hints at an imposing structure beyond. Extending forth from the mountain's belly are arching supports bearing aqueducts - one reaching her current location and the other crawling eastward.
 		
-		Eidos' eye follows this eastbound aqueduct across the horizon as it leads to a distant settlement. Whatever buildings might lie within, though, are hidden by a high wall - save the shimmering silver spire thrusting through space like a silent threat to the gods. The spire disseminates reflected rays across the dry plain, as though it were the very sun's earthly ambassador.*
+		Eidos' eye follows this eastbound aqueduct across the horizon as it leads to a distant settlement. Whatever buildings might lie within, though, are hidden by a high wall - save the shimmering silver spire thrusting into the sky like a silent threat to the gods. The spire disseminates reflected rays across the dry plain, as though it were the very sun's earthly ambassador.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0001!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.0000!DESCRIPTION!/]
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.0001!DESCRIPTION!]
 		||	
-		*Past the towering spire, another architectural marvel spans a vast canyon. It appears to be a bridge of some sort. Lacking supports above or beneath it, it is as an image frozen in time.*
+		*Past the towering spire, another architectural marvel spans a vast canyon. It appears to be a bridge of some sort. Lacking supports above or beneath, it is as an image frozen in time.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0002!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.0001!DESCRIPTION!/]
 
@@ -271,7 +271,7 @@ Virgin entrance
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.0003!DESCRIPTION!]
 		||
-		*Save the bridge connecting the two walled-off settlements, the canyon is impassable, leaving the mountain source of the aqueduct and the silver tower as possible destinations. Perhaps attracted by the glittering sheen of silver or perhaps once more compelled, Eidos' feet are guided towards the spire.*
+		*Save the bridge connecting the two walled-off settlements, the canyon is impassable, leaving the mountain source of the aqueduct and the silver tower as possible destinations.*
 		(A#Walk towards the mountain){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X100!DESCRIPTION!}
 		(B#Make for the tower){B:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17000!DESCRIPTION!}
 		(C#Return to the Sanctuary){C:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
@@ -400,7 +400,7 @@ From Dazir
 		|^12304:KABU!WILDERNESS!JENOWIN PLAIN!0.101!DESCRIPTION!|
 		*She walks across the burning span of desert, one labored step after the next. Diminutive dust clouds dance with her feet at every step. Their combined masses join to form a wispy cape heralding her approach.
 		
-		Hours pass before she notices a mirror cloud rising off in the distance. Straining her eyes against the sun and dust, it is difficult to make anything out for certain among the shimmering waves of burning air. Perhaps it is a person moving its way towards her, or perhaps it is merely a shade born of heat and thirst.*
+		Hours pass before she notices a mirror cloud rising off in the distance. Straining her eyes against the sun and dust, it is difficult to make anything out for certain among the shimmering waves of burning air. Perhaps it is a person moving its way towards her, or perhaps it is merely a mirage born of heat and thirst.*
 		(A#Keep walking forward){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X120!DESCRIPTION!}
 		(B#Wait for the figure to approach){B:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X110!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X100!DESCRIPTION!/]
@@ -423,7 +423,7 @@ From Dazir
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X120!DESCRIPTION!]
 		|@:KABU!WILDERNESS!JENOWIN PLAIN!0.X900!DESCRIPTION!|
-		*Eidos strides with renewed vigor across the sand towards the flickering shape. As she draws nearer, she sees it is clearly no mirage. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Every stitch of thread, every scrap of cloth is dyed some shade of red. It walks with the aid of a large wooden staff and a wide-brimmed hat obscures its features.
+		*Eidos strides with renewed vigor across the sand towards the flickering shape. As she draws nearer, she sees it is clearly no mirage. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Every stitch of thread, every scrap of cloth is dyed some shade of red. It walks with the aid of a large wooden staff, and a wide-brimmed hat obscures its features.
 		
 		About ten strides from Eidos, it raises its head to look upon her.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17901!DESCRIPTION!}
@@ -447,7 +447,7 @@ From Dazir
 >>>Decided to go to Tambul in the desert (17000)<<<
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X7210!DESCRIPTION!]
 		|^17000:KABU!WILDERNESS!JENOWIN PLAIN!0.X7200!DESCRIPTION!|
-		*Eidos sets off across the desert plain toward the mountain township of Dazir. She does not look back, simply trudging forth.*
+		*Eidos sets off across the desert plain toward the Duskfang mountains, to the township of Dazir. She does not look back; she simply trudges forth.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!100.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X7210!DESCRIPTION!/]
 
@@ -480,7 +480,7 @@ To Tambul
 >>>Decided to go to Tambul in the desert (17000)<<<
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X7313!DESCRIPTION!]
 		|^17000:KABU!WILDERNESS!JENOWIN PLAIN!0.X72000!DESCRIPTION!|
-		*As the figure melts away off into the distance, Eidos turns to face her chosen destination. She sets off across the desert plain toward the mountain township of Dazir. She does not look back, simply trudging forth.*
+		*As the figure melts away off into the distance, Eidos turns to face her chosen destination. She sets off across the desert plain toward the Duskfang mountains, to the township of Dazir. She does not look back; she simply trudges forth.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!100.X000!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X7313!DESCRIPTION!/]
 
@@ -503,13 +503,13 @@ To Tambul
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.901!DESCRIPTION!]
 		||
-		*Eidos begins to walk, leaving the desert wayfarer in her past. Yet, she feels his ice-cold scrutiny as she departs, like a hawk eying some prairie vermin, more for sport than for food. She jerks her head around to look back and sees only the stranger's back as he walks towards the ruins whence she came...*
+		*Eidos begins to walk, leaving the desert wayfarer in her past. Yet, she feels his ice-cold scrutiny as she departs, like a hawk eyeing some prairie vermin, more for sport than for sustenance. She jerks her head around to look back and sees only the stranger's back as he walks towards the ruins whence she came...*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.7211!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.901!DESCRIPTION!/]
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.902!DESCRIPTION!]
 		||
-		*Eidos begins to walk, leaving the desert wayfarer in her past. Yet, she feels his ice-cold scrutiny as she departs, like a hawk eying some prairie vermin, more for sport than for food. She jerks her head around to look back and sees only the stranger's back as he walks towards the ruins whence she came... She is tired. Her mind rests as her feet drag her towards...*
+		*Eidos begins to walk, leaving the desert wayfarer in her past. Yet, she feels his ice-cold scrutiny as she departs, like a hawk eyeing some prairie vermin, more for sport than for sustenance. She jerks her head around to look back and sees only the stranger's back as he walks towards the ruins whence she came... She is tired. Her mind rests as her feet drag her towards...*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!0.000!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.902!DESCRIPTION!/]
 
@@ -653,7 +653,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.001000!FAMLICUS!]
 		||
-		*"Though, I'd advise that you enjoy these peaceful surroundings while you can... I fear your experiences in a township may leave you little more than disillusioned."*
+		*"Though, I'd advise that you enjoy these peaceful surroundings while you can... as I fear your experiences in a township may leave you little more than disillusioned."*
 		(A#"Disillusioned? How so?"){A:1,KABU!WILDERNESS!JENOWIN PLAIN!0.01000!FAMLICUS!}
 		(B#"Township? What's that?"){B:1,KABU!WILDERNESS!JENOWIN PLAIN!0.02000!FAMLICUS!}
 		(E#"I tire of this. Get to the point."){E:1,KABU!WILDERNESS!JENOWIN PLAIN!0.05000!FAMLICUS!}
@@ -712,7 +712,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.01000!FAMLICUS!]
 		||
-		*"Do you see the tower in the distance? Around it clings the township of Tambul. These folk are as farmers to the region of Kabu, and they stand in the middle of a dispute between two powerful allies."*
+		*"Well, do you see the tower off in the distance? Around it clings the township of Tambul. These folk are as farmers to the region of Kabu, and they stand in the middle of a dispute between two powerful allies."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.010000!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.01000!FAMLICUS!/]
 
@@ -724,7 +724,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.0100000!FAMLICUS!]
 		||
-		*"Not long ago, their agricultural efforts resulted in numerous deaths - but this poisoning is no mystery either! Their mage leader, Pakahron, once twisted and corrupted the nature of the crops. As such, his ambition has yielded a bitter harvest..."*
+		*"Not long ago, their agricultural efforts resulted in numerous deaths - oh, but this poisoning is no mystery either! Their mage leader, Pakahron, once twisted and corrupted the nature of the crops. As such, his ambition has yielded a bitter harvest..."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17006-1!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.0100000!FAMLICUS!/]
 
