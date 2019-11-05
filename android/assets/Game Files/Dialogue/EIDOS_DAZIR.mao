@@ -6408,7 +6408,7 @@ MAGE'S ABODE
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.000!DESCRIPTION!]
 		||
-		*Linen sheets tickling fingertips. Beads of sweat resting precariously on a forehead. A dozen tendrils of candle smoke weave their way into a nose. Two sticks chatter and echo as they gently knock against each other.*
+		*Linen sheets tickle fingertips. Beads of sweat rest precariously on a forehead. A dozen tendrils of candle smoke weave their way into a nose. Two sticks chatter and echo as they gently knock against each other.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!0.0000!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!0.000!DESCRIPTION!/]
 	
@@ -6438,7 +6438,7 @@ MAGE'S ABODE
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.001!DESCRIPTION!]
 		||
-		*Eidos' eyelids crack open, eyes failing to produce even a single tear of lubrication. From what the scattered light halos can tell her, she lies upon a bed, in a windowless room lit by the flickering of countless burning candles. Haze gives way to clarity. Rocking near her in a chair is an elderly woman, calmly and conscientiously knitting.*
+		*Eidos' eyelids crack open, eyes failing to produce even a single tear of lubrication. From what the scattered light halos can tell her, she lies upon a bed, in a windowless room lit by the flickering of countless burning candles. Haze gives way to clarity as her eyes begin to focus. Rocking near her in a chair is an elderly woman, calmly and conscientiously knitting.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!9990.X10000!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!0.001!DESCRIPTION!/]
 	
@@ -6495,19 +6495,19 @@ MAGE'S ABODE
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.0040!DESCRIPTION!]
 		||
-		*Alone and uncertain, Eidos renews her inspection of the room. The meager candles cast deep shadows across walls of white plaster, but provide enough light to gain a cursory understanding of the chamber's layout. The bed upon which she rests is finely carved and stained to a black-brown hue. The sheets and bedding are fresh, but the room, for all its finery, is bare bones and clearly meant for servants.*
+		*Alone and uncertain, Eidos renews her inspection of the room. The meager candles cast deep shadows across walls of white plaster, but provide enough light to gain a cursory understanding of the chamber's layout. The bed upon which she rests is finely carved and stained to a ebony hue. The sheets and bedding are fresh, but the room, for all its finery, is bare bones and clearly meant for servants.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!0.X0041!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!0.0040!DESCRIPTION!/]
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.X0041!DESCRIPTION!]
 		|@:KABU!DAZIR!MAGE'S ABODE!00.X001!DESCRIPTION!|
-		*Before Eidos can complete her survey, however, Rada returns, this time following another individual. A man dressed in fine, black silk and a feathered hat impatiently parades into the chamber. His mouth twisted in a perpetual scowl and his expression so full of self-importance it is a wonder he has room for eyes or a nose.*
+		*Before Eidos can complete her survey, however, Rada returns, this time following another individual. A man dressed in fine, black silk and a feathered hat impatiently parades into the chamber. With his mouth so twisted by a perpetual scowl and his expression so full of self-importance, it is a wonder he has room for eyes and a nose.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!9990.X10100!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!0.X0041!DESCRIPTION!/]
 	
 	[/KABU!DAZIR!MAGE'S ABODE!00.X001!DESCRIPTION!]
 		|@:KABU!DAZIR!MAGE'S ABODE!00.X003!DESCRIPTION!|
-		*At Eidos' words, Khaa's breath seems to cease. His eyes narrow before silently nodding for Eidos to continue.*
+		*At Eidos' words, Khaa's breath seems to cease. His eyes narrow before silently nodding for her to continue.*
 		(A#...){A:0,KABU!DAZIR!MAGE'S ABODE!9999.X8888!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!00.X001!DESCRIPTION!/]
 	
@@ -6946,13 +6946,13 @@ KHAA
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.1010!KHAA!]
 		||
-		*"Since the time of Ark, they have always made their way in the world with the violence of the Amethyst Jinn; even as we speak, they are preparing to march on our magnificent settlement!"*
+		*"Since the time of Ark, the Tacribians have always made their way in the world with the violence of the Amethyst Jinn. Why, even as we speak, they're preparing to march on our magnificent settlement!"*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.1011!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.1010!KHAA!/]
 
 	[/KABU!DAZIR!MAGE'S ABODE!0.1011!KHAA!]
 		||
-		*"All that stands between them and us are two Vanquished gates - mighty obstacles indeed, but I would prefer a more... permanent solution."*
+		*"All that stands between them and us are two Vanquished gates. Mighty obstacles though they may be, I'd prefer a more... permanent solution."*
 		(A#"For what reason would they do this?"){A:1,KABU!DAZIR!MAGE'S ABODE!0.102!KHAA!}
 		(B#"Why has Dazir drawn their attention?"){B:1,KABU!DAZIR!MAGE'S ABODE!0.202!KHAA!}
 		(E#"Why should I help you?"){E:1,KABU!DAZIR!MAGE'S ABODE!0.502!KHAA!}
@@ -7089,7 +7089,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1022!KHAA!]
 		||
-		*"Creatures now stalk its halls, water has ceased to flow to Tacriba, and the entrance has been sealed, leaving the Farcaster inside as the only point of access..."*
+		*"You see, deadly creatures now stalk its halls, water has ceased to flow to Tacriba, and the entrance has been sealed, leaving the Farcaster inside as the only point of access..."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.1023!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.1022!KHAA!/]
 	
@@ -7101,14 +7101,14 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1024!KHAA!]
 		||
-		*"The Farcaster Glyph has been lost since the Punishing Wars devastated Kabu a thousand some ought years ago. No records of its use or even any mention of its existence remain, save the seals themselves..."*
+		*"The Farcaster Glyph has been lost since the Punishing Wars devastated Kabu a thousand some aught years ago. No records of its use or even any mention of its existence remain, save the seals themselves..."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.1025!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.1024!KHAA!/]
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1025!KHAA!]
 		||
 		*"Yet a Farcaster user now stands before me - a gift from Biracul for my righteousness, no doubt."*
-		(A#"The Tacribians sound justified in their grievance."){A:1,KABU!DAZIR!MAGE'S ABODE!0.103!KHAA!}
+		(A#"No water? The Tacribians sound justified in their grievance."){A:1,KABU!DAZIR!MAGE'S ABODE!0.103!KHAA!}
 		(B#"How did the Wellspring become defiled?"){B:1,KABU!DAZIR!MAGE'S ABODE!0.203!KHAA!}
 		(E#"Perhaps I should help your enemies; they, at least, sound competent."){E:1,KABU!DAZIR!MAGE'S ABODE!0.503!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.1025!KHAA!/]
@@ -7214,7 +7214,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1030!KHAA!]
 		||
-		*"If they succeed in their assault, then none will remain with knowledge of how to maintain the Wellspring or its aqueducts."*
+		*"If they succeed in their assault, then none will remain with knowledge of how to maintain the Wellspring or its aqueducts. Without us, no Kaban will have water!"*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.1031!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.1030!KHAA!/]
 	
@@ -7367,7 +7367,7 @@ KHAA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1040!KHAA!]
 		||
-		*"Now listen closely for here is what you must do.."*
+		*"Now listen closely for here is what you must do."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.1041!KHAA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.1040!KHAA!/]
 	
@@ -7639,7 +7639,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.001!RADA!]
 		||
-		*"So, you're finally coming around... I feared we had lost you for good!"*
+		*"So, you're finally coming around... I feared we had lost you for good."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!0.X0010!RADA!}
 	[KABU!DAZIR!MAGE'S ABODE!0.001!RADA!/]
 	
@@ -7670,7 +7670,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1010!RADA!]
 		||
-		*"You should listen to old Rada; she's brought back many folk that have been Jinn-struck on the plain!"*
+		*"You should listen to old Rada; she's brought back many folk that have been Jinn-struck on the plain, after all!"*
 		(A#"Thank you for saving my life."){A:1,KABU!DAZIR!MAGE'S ABODE!0.102!RADA!}
 		(B#"Where am I?"){B:1,KABU!DAZIR!MAGE'S ABODE!0.202!RADA!}
 		(E#"Explain what happened to me."){E:1,KABU!DAZIR!MAGE'S ABODE!0.X502!RADA!}
@@ -7728,7 +7728,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1020!RADA!]
 		||
-		*"Tambul may be known for their courtesy but they don't have a monopoly on it."*
+		*"Tambul may be known for their courtesy, but they sure as Suyutis love goats don't have a monopoly on it!"*
 		(A#"Is there any way I can repay you?"){A:1,KABU!DAZIR!MAGE'S ABODE!0.103!RADA!}
 		(B#"What manner of lore have you mastered?"){B:1,KABU!DAZIR!MAGE'S ABODE!0.203!RADA!}
 		(E#"I'd like to depart now."){E:1,KABU!DAZIR!MAGE'S ABODE!0.503!RADA!}
@@ -7846,7 +7846,7 @@ RADA
 	
 	[/KABU!DAZIR!MAGE'S ABODE!0.1031!RADA!]
 		||
-		*"He told me to inform him soon as you'd come awake. Wait right here! I'll go summon him."*
+		*"He’ll probably see my thoughts, but maybe I should go fetch him, just in case. You wait here, dear."*
 		(A#"..."){A:0,KABU!DAZIR!MAGE'S ABODE!9999.X9999!RADA!}	
 	[KABU!DAZIR!MAGE'S ABODE!0.1031!RADA!/]
 
