@@ -387,13 +387,13 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.100!ASANSOR!]
 		||
-		*"If I have to explain Dazir to one more foreigner, I'll go as mad as a blood-starved Jinn!"*
+		*"If I have to explain Dazir to one more foreigner, I'll go as mad as an outhouse Jinn!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.1000!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.100!ASANSOR!/]
 	
 	[/KABU!DAZIR!ARBORETUM!0.1000!ASANSOR!]
 		||
-		*"Fine! Now pick up your ears boy; only gonna say this once!"*
+		*"Fine! Now pick up your ears, boy; only gonna say this once!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.1001!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.1000!ASANSOR!/]
 	
@@ -600,13 +600,13 @@ ASANSOR
 		
 	[/KABU!DAZIR!ARBORETUM!0.1012!ASANSOR!]
 		||
-		*"The lowest level is for the rank and file Dazirans who do much of the unmasterful labors - may be simple and dull-witted compared to the upper tiers, but I doubt the best of what the other towns have to offer is their equal!"*
+		*"The lowest tier is for the rank and file Dazirans who do much of the unmasterful labors - may be simple and dull-witted compared to the upper tiers, but I doubt the best of what the other towns have to offer is their equal!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.1013!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.1012!ASANSOR!/]
 	
 	[/KABU!DAZIR!ARBORETUM!0.1013!ASANSOR!]
 		||
-		*"The second level is for the Artisans of Dazir: those learned elite who are trained in unearthing and manipulating relics of the Vanquished."*
+		*"The second tier is for the Artisans of Dazir! Those learned elite who're trained in unearthing and manipulating relics of the Vanquished."*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.1014!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.1013!ASANSOR!/]
 	
