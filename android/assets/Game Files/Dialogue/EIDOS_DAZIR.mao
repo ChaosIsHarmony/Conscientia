@@ -42,7 +42,7 @@ ARBORETUM
 		|@:KABU!DAZIR!ARBORETUM!0.903!DESCRIPTION!|
 		*And finally Eidos sees that she is not alone. Staring wide-eyed at her is a leathery crone, still as a statue. The old woman leans upon a wooden cane, its gnarls and knots mirroring her age-worn frame.
 		
-		With a start, she shakes clear her self-imposed petrification; and with a surprising quickness in her step, scuttles briskly forward.*
+		With a start, she shakes clear her self-imposed petrification, and with a surprising quickness in her step, scuttles briskly forward.*
 		(A#...){A:0,KABU!DAZIR!ARBORETUM!9999.X0068!DESCRIPTION!}
 	[KABU!DAZIR!ARBORETUM!0.X901!DESCRIPTION!/]
 
@@ -7586,9 +7586,10 @@ kicked out
 	
 	[/KABU!DAZIR!MAGE'S ABODE!9.X100!KHAA!]
 		|@:KABU!DAZIR!MAGE'S ABODE!11.X000!KHAA!|
-		*"Allow me to show you the way to our Farcaster, that you may then hurry to fulfill your oath."*
+		*"Now allow me to show you the way to our Farcaster, that you may then hurry to fulfill your oath."*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!10.X000!DESCRIPTION!}
 	[KABU!DAZIR!MAGE'S ABODE!9.X100!KHAA!/]
+
 
 >>>Completed Khaa's mission (10105)<<<	
 	[/KABU!DAZIR!MAGE'S ABODE!11.X000!KHAA!]
