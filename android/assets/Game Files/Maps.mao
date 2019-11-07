@@ -45,7 +45,7 @@ MAPS
 	(CLOUDSTONE,5,false,1,1,3,4)
 	(GATES OF DAZIR,6,false,1,1,7,4)
 	(MAGE'S ABODE,7,false,1,1,4,2)
-	(SLUMS,8,false,1,1,4,5)
+	(THE SHADES,8,false,1,1,4,5)
 	(TEMPLE OF BIRACUL,9,false,1,1,5,5)
 	(WORKSHOP,10,false,1,1,4,3)
 	(WORKSHOP EXTERIOR,11,false,1,1,5,3)

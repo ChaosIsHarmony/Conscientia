@@ -513,9 +513,9 @@
 			|3,68,8888,9999,|
 		[MAGE'S ABODE/]
 
-		[/SLUMS]
+		[/THE SHADES]
 			|56,59,60,9999,|
-		[SLUMS/]
+		[THE SHADES/]
 		
 		[/TEMPLE OF BIRACUL]
 			|55,9999,|
@@ -1050,11 +1050,11 @@
 [MIND/]
 
 [/THIUDA]
-	[/SLUMS]
+	[/THE SHADES]
 		[/SLAVE PEN]
 			|9999,|
 		[SLAVE PEN/]
-	[SLUMS/]
+	[THE SHADES/]
 [THIUDA/]
 
 [/URUGH]

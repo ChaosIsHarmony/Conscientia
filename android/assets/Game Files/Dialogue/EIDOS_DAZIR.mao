@@ -4695,7 +4695,7 @@ ATRIUM
 		
 		Beyond the temple itself seems to be a somewhat more dilapidated area of town, with people of equal caliber loitering around the area.*
 		(A#Enter the Temple of Biracul){A:0,KABU!DAZIR!TEMPLE OF BIRACUL!0.X000!DESCRIPTION!}
-		(B#Enter the Slums){B:0,KABU!DAZIR!SLUMS!0.000!DESCRIPTION!}
+		(B#Enter the Slums){B:0,KABU!DAZIR!THE SHADES!0.000!DESCRIPTION!}
 		(C#Return to the Atrium){C:0,KABU!DAZIR!ATRIUM!0.000!DESCRIPTION!}
 	[KABU!DAZIR!ATRIUM!0.100!DESCRIPTION!/]	
 
@@ -7939,593 +7939,593 @@ RADA
 		
 
 _________________________________	
-SLUMS	
-	[/KABU!DAZIR!SLUMS!0.000!DESCRIPTION!]
+THE SHADES	
+	[/KABU!DAZIR!THE SHADES!0.000!DESCRIPTION!]
 		||
 		*Walking past the temple, Eidos is greeted by stagnant air, rank with the perfume of sewage. This area is carved directly from the mountain itself, keeping it walled-in on all sides save for the one opening towards the temple and the atrium. Shadows are thicker than their counterparts here, as the second tier acts as an impenetrable roof, finishing of the containment for this forgotten and unwanted segment of Dazir. The architecture here likewise lacks the sophistication of the rest of the township, with the exception of several prodigious pillars used to support the unfathomable weight of the second tier. The most luxurious houses are half-collapsed edifices with tattered rags acting as curtains. All the doors have either rusted off their hinges or broken off until little in the way of wood is left.
 		
 		Not many people walk about in this place, most choosing to simply hug their shins while murmuring half-hearted lamentations. Those who have the energy to walk around seem to be at loose ends.*
-		(A#Approach people to talk){A:0,KABU!DAZIR!SLUMS!0.X001!DESCRIPTION!}
+		(A#Approach people to talk){A:0,KABU!DAZIR!THE SHADES!0.X001!DESCRIPTION!}
 		(B#Return to the Atrium and the Temple){B:0,KABU!DAZIR!ATRIUM!0.100!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!0.000!DESCRIPTION!/]	
+	[KABU!DAZIR!THE SHADES!0.000!DESCRIPTION!/]	
 
 >>>Heard artisan's speech (10003)<<<<
-	[/KABU!DAZIR!SLUMS!0.X001!DESCRIPTION!]
-		|^10003:KABU!DAZIR!SLUMS!0.X002!DESCRIPTION!|
+	[/KABU!DAZIR!THE SHADES!0.X001!DESCRIPTION!]
+		|^10003:KABU!DAZIR!THE SHADES!0.X002!DESCRIPTION!|
 		*In the darkened, grimy streets it looks like many here keep to their own business - if pacing about aimlessly can be considered business. Some stumble about in an intoxicated state, while others stare at her with looks that are a noxious concoction of fear, lust and envy.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!0.X0010!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!0.X001!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!0.X0010!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!0.X001!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X0010!DESCRIPTION!]
-		|@:KABU!DAZIR!SLUMS!0.0011!DESCRIPTION!|
+	[/KABU!DAZIR!THE SHADES!0.X0010!DESCRIPTION!]
+		|@:KABU!DAZIR!THE SHADES!0.0011!DESCRIPTION!|
 		*However, after enough searching, Eidos finds that even here there are some who are willing to talk.*
-		(A#A filthy street urchin){A:0,KABU!DAZIR!SLUMS!9999.X0056!DESCRIPTION!}
-		(B#A pudgy, bleary-eyed man){B:0,KABU!DAZIR!SLUMS!9999.X0060!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!0.X0010!DESCRIPTION!/]
+		(A#A filthy street urchin){A:0,KABU!DAZIR!THE SHADES!9999.X0056!DESCRIPTION!}
+		(B#A pudgy, bleary-eyed man){B:0,KABU!DAZIR!THE SHADES!9999.X0060!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!0.X0010!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!0.0011!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!0.0011!DESCRIPTION!]
 		||
 		*The stagnant air is thick with the smell of sewage, vomit and Jinn-Liquor. Whoozy from the stench, Eidos peers through the haze and spots the top of the Temple not far away. Off to the north part of the slums, Eidos sees what appears to be a gathering of the destitute denizens of the area.*
-		(A#Explore the northern slums){A:0,KABU!DAZIR!SLUMS!9990.X10003!DESCRIPTION!}
+		(A#Explore the northern slums){A:0,KABU!DAZIR!THE SHADES!9990.X10003!DESCRIPTION!}
 		(B#Return to the Atrium and the Temple){B:0,KABU!DAZIR!ATRIUM!0.100!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!0.0011!DESCRIPTION!/]
+	[KABU!DAZIR!THE SHADES!0.0011!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X0012!DESCRIPTION!]
-		|@:KABU!DAZIR!SLUMS!0.0013!DESCRIPTION!|
+	[/KABU!DAZIR!THE SHADES!0.X0012!DESCRIPTION!]
+		|@:KABU!DAZIR!THE SHADES!0.0013!DESCRIPTION!|
 		*Eidos approaches the crowd, but is too short to see over their heads. Thus, she performs an ill-advised attempt at acrobatics and leaps up onto a crumbling wall, which remains miraculously intact - perhaps the buildings here are tougher than they look. From this vantage point she can see a turquoise-robed woman addressing the crowd. Cocking her ear towards the speaker, Eidos focuses all her energy on deciphering what she is saying.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!9999.X0059!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!0.X0012!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!9999.X0059!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!0.X0012!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!0.0013!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!0.0013!DESCRIPTION!]
 		||
 		*As Akara's final echoing words vanish, so too does the crowd. All now slink back to their crumbling abodes to lethargically gather their work gear. Of course, this means that Eidos too must now come down from her perch and... with that thought, the brick beneath her feet finally gives way, sending her gracelessly diving into a stack of empty crates.
 		
 		Picking herself up, she dusts off the debris and stands in place awkwardly wondering if anyone witnessed her fall.*
 		(A#Return to the Atrium and the Temple){A:0,KABU!DAZIR!ATRIUM!0.100!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!0.0013!DESCRIPTION!/]
+	[KABU!DAZIR!THE SHADES!0.0013!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X002!DESCRIPTION!]
-		|@:KABU!DAZIR!SLUMS!0.0020!DESCRIPTION!|
+	[/KABU!DAZIR!THE SHADES!0.X002!DESCRIPTION!]
+		|@:KABU!DAZIR!THE SHADES!0.0020!DESCRIPTION!|
 		*In the darkened, grimy streets it looks like many here keep to their own business - if pacing about aimlessly can be considered business. Some stumble about in an intoxicated state, while others stare at her with looks that are a noxious concoction of fear, lust and envy.
 		
 		However, after enough searching, Eidos finds that even here there are some who are willing to talk.*
-		(A#A filthy street urchin){A:0,KABU!DAZIR!SLUMS!9999.X0056!DESCRIPTION!}
-		(B#A pudgy, bleary-eyed man){B:0,KABU!DAZIR!SLUMS!9999.X0060!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!0.X002!DESCRIPTION!/]
+		(A#A filthy street urchin){A:0,KABU!DAZIR!THE SHADES!9999.X0056!DESCRIPTION!}
+		(B#A pudgy, bleary-eyed man){B:0,KABU!DAZIR!THE SHADES!9999.X0060!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!0.X002!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!0.0020!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!0.0020!DESCRIPTION!]
 		||
 		*The stagnant air is thick with the smell of sewage, vomit and Jinn-Liquor. Whoozy from the stench, Eidos peers through the haze and spots the top of the Temple not far away. The once crowded northern slums appear as desolate as any other part of the area, as all the downtrodden denizens must be hard at work strengthening the town's fortifications.*
-		(A#Approach people to talk){A:0,KABU!DAZIR!SLUMS!0.X002!DESCRIPTION!}
+		(A#Approach people to talk){A:0,KABU!DAZIR!THE SHADES!0.X002!DESCRIPTION!}
 		(B#Return to the Atrium and the Temple){B:0,KABU!DAZIR!ATRIUM!0.100!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!0.0020!DESCRIPTION!/]
+	[KABU!DAZIR!THE SHADES!0.0020!DESCRIPTION!/]
 
 killed someone in the area
-	[/KABU!DAZIR!SLUMS!0099.000!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!0099.000!DESCRIPTION!]
 		||
 		*As Eidos' victim falls into grime that coats everything in this filthy place, shouts from the Atrium herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.
 		
 		Confidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...*
-		(A#...){A:0,KABU!DAZIR!SLUMS!9992.X0003!KHAA!}
-	[KABU!DAZIR!SLUMS!0099.000!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!9992.X0003!KHAA!}
+	[KABU!DAZIR!THE SHADES!0099.000!DESCRIPTION!/]
 	
 khaa dead	
-	[/KABU!DAZIR!SLUMS!999.X000!DESCRIPTION!]
-		|^12302:KABU!DAZIR!SLUMS!999.100!DESCRIPTION!|
+	[/KABU!DAZIR!THE SHADES!999.X000!DESCRIPTION!]
+		|^12302:KABU!DAZIR!THE SHADES!999.100!DESCRIPTION!|
 		*The battle has taken its toll on Eidos. Having exerted her Falseflesh far beyond its limits, she drops to her knees, breath quickening until she loses all control. Guards pour in, several fearlessly stepping forward to restrain her. They soon realize, however, that her own body has already done them this favor. Now cruelly acting as ally to her enemies, her stiff muscles petrify her into a pitiful facsimile of a statue. Eidos can only watch helplessly while they bind her hands and feet as they would a hog.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!999.001!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.X000!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!999.001!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!999.X000!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!999.001!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!999.001!DESCRIPTION!]
 		||
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and perforate Eidos' Falseflesh. Stabbing until there is little left unstabbed, they leave her to join Khaa in his departure from the mortal coil. Little do they know...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.001!DESCRIPTION!/]
+	[KABU!DAZIR!THE SHADES!999.001!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!999.100!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!999.100!DESCRIPTION!]
 		||
 		*The battle has taken its toll on Eidos. Having exerted her Falseflesh far beyond its limits, she drops to her knees, breath quickening until she loses all control. Guards pour in, several fearlessly stepping forward to restrain her. They soon realize, however, that her own body has already done them this favor. Now cruelly acting as ally to her enemies, her stiff muscles petrify her into a pitiful facsimile of a statue. Eidos can only watch helplessly while they bind her hands and feet as they would a hog.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!999.101!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.100!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!999.101!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!999.100!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!999.101!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!999.101!DESCRIPTION!]
 		||	
 		*The guards inspect the body of the fallen mage and mournfully shake their heads in confirmation of his departure from the Falseflesh. Suddenly, they begin to gather around her and wordlessly, like a hive-minded machine, they pull back their spears and attempt to perforate Eidos' Falseflesh. But Luin disagrees with their plans and destroys their each spear upon impact.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!999.102!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.101!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!999.102!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!999.101!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!999.102!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!999.102!DESCRIPTION!]
 		||
 		*Not unresourceful in the least, they fetch a gray liquid they proceed to pour down her throat. It hardens almost instantaneously. Each passing moment fuels her insufferable anticipation of the end.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!999.103!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.102!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!999.103!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!999.102!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!999.103!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!999.103!DESCRIPTION!]
 		||
 		*Anticipation of when the air runs out.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!999.104!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.103!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!999.104!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!999.103!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!999.104!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!999.104!DESCRIPTION!]
 		||
 		*As asphyxiation gradually overcomes her will to persist, it relentlessly extracts what little life remains from her Falseflesh. With each excruciating bid for breath, her vision slowly blurs. Lines widen and distort, while shapes expand and merge.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!999.105!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.104!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!999.105!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!999.104!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!999.105!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!999.105!DESCRIPTION!]
 		||
 		*The plurality returning to its singularity.*
-		(A#...){A:0,KABU!DAZIR!SLUMS!999.106!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.105!DESCRIPTION!/]
+		(A#...){A:0,KABU!DAZIR!THE SHADES!999.106!DESCRIPTION!}
+	[KABU!DAZIR!THE SHADES!999.105!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!999.106!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!999.106!DESCRIPTION!]
 		||
 		*"Her malefactors look down at her, smug yet uncertain. With their mage dead, the acrid stench of panic permeates the air, though their pride keeps it from their faces. Then..."*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X999!DESCRIPTION!}
-	[KABU!DAZIR!SLUMS!999.106!DESCRIPTION!/]
+	[KABU!DAZIR!THE SHADES!999.106!DESCRIPTION!/]
 	
 	
 ARKARA
-	[/KABU!DAZIR!SLUMS!0.000!ARKARA!]
+	[/KABU!DAZIR!THE SHADES!0.000!ARKARA!]
 		||
 		*"...and thus, citizens of the lowest tier! Lend your ears to the decree of your mage-leader!"*
-		(A#"..."){A:1,KABU!DAZIR!SLUMS!0.001!ARKARA!}
-	[KABU!DAZIR!SLUMS!0.000!ARKARA!/]
+		(A#"..."){A:1,KABU!DAZIR!THE SHADES!0.001!ARKARA!}
+	[KABU!DAZIR!THE SHADES!0.000!ARKARA!/]
 	
-	[/KABU!DAZIR!SLUMS!0.001!ARKARA!]
+	[/KABU!DAZIR!THE SHADES!0.001!ARKARA!]
 		||
 		*"The impending assault of the savage illiterati from across the canyon weighs heavy upon our hearts! But we will do what we can to thwart their insidious efforts to eradicate the educated people of our homeland, for the glory of Dazir!"*
-		(A#"..."){A:1,KABU!DAZIR!SLUMS!0.002!ARKARA!}
-	[KABU!DAZIR!SLUMS!0.001!ARKARA!/]
+		(A#"..."){A:1,KABU!DAZIR!THE SHADES!0.002!ARKARA!}
+	[KABU!DAZIR!THE SHADES!0.001!ARKARA!/]
 	
-	[/KABU!DAZIR!SLUMS!0.002!ARKARA!]
+	[/KABU!DAZIR!THE SHADES!0.002!ARKARA!]
 		||
 		*"Let it be known that venerable Khaa has ordered all able-bodied workers of the lowest tier to begin immediate enhancements to the walls of Dazir!"*
-		(A#"..."){A:1,KABU!DAZIR!SLUMS!0.003!ARKARA!}
-	[KABU!DAZIR!SLUMS!0.002!ARKARA!/]
+		(A#"..."){A:1,KABU!DAZIR!THE SHADES!0.003!ARKARA!}
+	[KABU!DAZIR!THE SHADES!0.002!ARKARA!/]
 	
-	[/KABU!DAZIR!SLUMS!0.003!ARKARA!]
+	[/KABU!DAZIR!THE SHADES!0.003!ARKARA!]
 		||
 		*"A lengthy peace has left our barriers untested and inadequate. Therefore, upon your honor as workers of Dazir, you must ensure that we artisans can survive, that our mastery of Vanquished artifice will not vanish as the builders of our sacred Wellspring once did!"*
-		(A#"..."){A:1,KABU!DAZIR!SLUMS!0.004!ARKARA!}
-	[KABU!DAZIR!SLUMS!0.003!ARKARA!/]
+		(A#"..."){A:1,KABU!DAZIR!THE SHADES!0.004!ARKARA!}
+	[KABU!DAZIR!THE SHADES!0.003!ARKARA!/]
 	
-	[/KABU!DAZIR!SLUMS!0.004!ARKARA!]
+	[/KABU!DAZIR!THE SHADES!0.004!ARKARA!]
 		||
 		*"As a reward for the two must industrious among you, venerable Khaa has decreed that one will be advanced to the rank of Master Foreman, overseer of all workers of this tier! The other will receive an artisan's education and move to live in the upper tier among peers!"*
-		(A#"..."){A:1,KABU!DAZIR!SLUMS!0.005!ARKARA!}
-	[KABU!DAZIR!SLUMS!0.004!ARKARA!/]
+		(A#"..."){A:1,KABU!DAZIR!THE SHADES!0.005!ARKARA!}
+	[KABU!DAZIR!THE SHADES!0.004!ARKARA!/]
 	
-	[/KABU!DAZIR!SLUMS!0.005!ARKARA!]
+	[/KABU!DAZIR!THE SHADES!0.005!ARKARA!]
 		||
 		*"Now, go! Gather your implements, your supplies and gumption! We will imbue the walls with the strength of Ark, that they may hold against this new threat from the wastes!"*
-		(A#"..."){A:1,KABU!DAZIR!SLUMS!9999.X9999!ARKARA!}
-	[KABU!DAZIR!SLUMS!0.005!ARKARA!/]
+		(A#"..."){A:1,KABU!DAZIR!THE SHADES!9999.X9999!ARKARA!}
+	[KABU!DAZIR!THE SHADES!0.005!ARKARA!/]
 
 
 COZKUIN
-	[/KABU!DAZIR!SLUMS!0.000!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.000!COZKUIN!]
 		||
 		*"Hullo, foreigner! 'haps ya here to help us figh' the Tacribs?! They mean to invade us any day now!"*
-		(A#"I wish to help, but not through violence."){A:1,KABU!DAZIR!SLUMS!0.100!COZKUIN!}
-		(B#"What could one person do to stop an army?"){B:1,KABU!DAZIR!SLUMS!0.200!COZKUIN!}
-		(C#"No, I'm merely a traveler."){C:1,KABU!DAZIR!SLUMS!0.300!COZKUIN!}
-		(D#"Why should I?"){D:1,KABU!DAZIR!SLUMS!0.400!COZKUIN!}
-		(E#"Do you deserve to be helped?"){E:1,KABU!DAZIR!SLUMS!0.500!COZKUIN!}
-		(F#"I would, if I wasn't so busy fighting these damn gremlins!"){F:1,KABU!DAZIR!SLUMS!0.600!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.000!COZKUIN!/]
+		(A#"I wish to help, but not through violence."){A:1,KABU!DAZIR!THE SHADES!0.100!COZKUIN!}
+		(B#"What could one person do to stop an army?"){B:1,KABU!DAZIR!THE SHADES!0.200!COZKUIN!}
+		(C#"No, I'm merely a traveler."){C:1,KABU!DAZIR!THE SHADES!0.300!COZKUIN!}
+		(D#"Why should I?"){D:1,KABU!DAZIR!THE SHADES!0.400!COZKUIN!}
+		(E#"Do you deserve to be helped?"){E:1,KABU!DAZIR!THE SHADES!0.500!COZKUIN!}
+		(F#"I would, if I wasn't so busy fighting these damn gremlins!"){F:1,KABU!DAZIR!THE SHADES!0.600!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.000!COZKUIN!/]
 
 
-	[/KABU!DAZIR!SLUMS!0.100!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.100!COZKUIN!]
 		||
 		*"Wha' else could we do? I heard tha' the Tacribs are closer to animals than men, tha' they be touch'ed by the Jinns frem their time walkin' the Was'es and would as soon kill ya if ya e'en look'ed their way!"*
-		(A#"There must be a way to reason with them."){A:1,KABU!DAZIR!SLUMS!0.101!COZKUIN!}
-		(B#"Who would they listen to?"){B:1,KABU!DAZIR!SLUMS!0.201!COZKUIN!}
-		(E#"Then your people were fools to anger them."){E:1,KABU!DAZIR!SLUMS!0.X501!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.100!COZKUIN!/]
+		(A#"There must be a way to reason with them."){A:1,KABU!DAZIR!THE SHADES!0.101!COZKUIN!}
+		(B#"Who would they listen to?"){B:1,KABU!DAZIR!THE SHADES!0.201!COZKUIN!}
+		(E#"Then your people were fools to anger them."){E:1,KABU!DAZIR!THE SHADES!0.X501!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.100!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.200!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.200!COZKUIN!]
 		||
 		*"Biracul could! He'd blas' those barbarians to crumbs!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.2000!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.200!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.2000!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.200!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.2000!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.2000!COZKUIN!]
 		||
 		*"Did ya hear the story abou' wha' he did to Konki and Nerius, the twinned Jinns?!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.2001!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.2000!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.2001!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.2000!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.2001!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.2001!COZKUIN!]
 		||
 		*"'Amythes' demon, yer time has come!' Ka-POW! Jus' like tha'!"*
-		(A#"I'm not sure if force is best met with force."){A:1,KABU!DAZIR!SLUMS!0.101!COZKUIN!}
-		(B#"Biracul? Where is he now?"){B:1,KABU!DAZIR!SLUMS!0.201!COZKUIN!}
-		(C#"Maybe he could... but he isn't here."){C:1,KABU!DAZIR!SLUMS!0.301!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.2001!COZKUIN!/]
+		(A#"I'm not sure if force is best met with force."){A:1,KABU!DAZIR!THE SHADES!0.101!COZKUIN!}
+		(B#"Biracul? Where is he now?"){B:1,KABU!DAZIR!THE SHADES!0.201!COZKUIN!}
+		(C#"Maybe he could... but he isn't here."){C:1,KABU!DAZIR!THE SHADES!0.301!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.2001!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.300!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.300!COZKUIN!]
 		||
 		*"I guess yer righ'. Biracul's jus' a hero in a stery anyway, ain' he?"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.3000!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.300!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.3000!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.300!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.3000!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.3000!COZKUIN!]
 		||
 		*"No'ne can help us..."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.3000!COZKUIN!/]	
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.3000!COZKUIN!/]	
 	
-	[/KABU!DAZIR!SLUMS!0.400!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.400!COZKUIN!]
 		||
 		*"We don' have much, bu we'll award ya anythin' if ya can help us!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.4000!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.400!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.4000!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.400!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.4000!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.4000!COZKUIN!]
 		||
 		*"Ma paps has plen'y o' good tools, and I know ma mum would hand o'er her bes' stones!"*
-		(C#"Truthfully, I don't know how you could be helped."){C:1,KABU!DAZIR!SLUMS!0.3011!COZKUIN!}
-		(D#"Ha! Don't worry child. I'll give you all the help you deserve..."){D:1,KABU!DAZIR!SLUMS!0.X401!COZKUIN!}
-		(E#"Plague me not with your baubles, boy. I'll help you... if it suits me."){E:1,KABU!DAZIR!SLUMS!0.X501!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.4000!COZKUIN!/]
+		(C#"Truthfully, I don't know how you could be helped."){C:1,KABU!DAZIR!THE SHADES!0.3011!COZKUIN!}
+		(D#"Ha! Don't worry child. I'll give you all the help you deserve..."){D:1,KABU!DAZIR!THE SHADES!0.X401!COZKUIN!}
+		(E#"Plague me not with your baubles, boy. I'll help you... if it suits me."){E:1,KABU!DAZIR!THE SHADES!0.X501!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.4000!COZKUIN!/]
 
-	[/KABU!DAZIR!SLUMS!0.500!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.500!COZKUIN!]
 		||
 		*"Please! Ya have to! We've ne'er hur' anybody!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.5000!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.500!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.5000!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.500!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.5000!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.5000!COZKUIN!]
 		||
 		*"And the old folk say the warriors of the Dawn Fertress are goin' to harm us!"*
-		(A#"Then I'll try to speak with them about it."){A:1,KABU!DAZIR!SLUMS!0.101!COZKUIN!}
-		(D#"Let me consider the matter..."){D:1,KABU!DAZIR!SLUMS!0.X401!COZKUIN!}
-		(E#"No one is innocent, boy! Think on the sins of your people; your time is short."){E:1,KABU!DAZIR!SLUMS!0.X501!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.5000!COZKUIN!/]
+		(A#"Then I'll try to speak with them about it."){A:1,KABU!DAZIR!THE SHADES!0.101!COZKUIN!}
+		(D#"Let me consider the matter..."){D:1,KABU!DAZIR!THE SHADES!0.X401!COZKUIN!}
+		(E#"No one is innocent, boy! Think on the sins of your people; your time is short."){E:1,KABU!DAZIR!THE SHADES!0.X501!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.5000!COZKUIN!/]
 
-	[/KABU!DAZIR!SLUMS!0.600!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.600!COZKUIN!]
 		||
 		*"Gremlins?!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.6000!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.600!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.6000!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.600!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.6000!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.6000!COZKUIN!]
 		||
 		*"I've heard o' 'em in steries!"*
-		(F#"Well they're realer than you and me, kid!"){F:1,KABU!DAZIR!SLUMS!0.6001!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.6000!COZKUIN!/]
+		(F#"Well they're realer than you and me, kid!"){F:1,KABU!DAZIR!THE SHADES!0.6001!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.6000!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.6001!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.6001!COZKUIN!]
 		||
 		*"They say the trickster Famlaz could raise 'em up frem the ground to steal kids!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.6002!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.6001!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.6002!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.6001!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.6002!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.6002!COZKUIN!]
 		||
 		*"Bu' Biracul saved the kids and ran 'em monsters away... Don' tell me they're comin' back?!"*
-		(B#"Oh? Who is Biracul?"){B:1,KABU!DAZIR!SLUMS!0.201!COZKUIN!}
-		(E#"Indeed they are boy, and Biracul won't be here to save you this time..."){E:1,KABU!DAZIR!SLUMS!0.X501!COZKUIN!}
-		(F#"Count on it! It's as certain as your imminent doom!"){F:1,KABU!DAZIR!SLUMS!0.X601!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.6002!COZKUIN!/]
+		(B#"Oh? Who is Biracul?"){B:1,KABU!DAZIR!THE SHADES!0.201!COZKUIN!}
+		(E#"Indeed they are boy, and Biracul won't be here to save you this time..."){E:1,KABU!DAZIR!THE SHADES!0.X501!COZKUIN!}
+		(F#"Count on it! It's as certain as your imminent doom!"){F:1,KABU!DAZIR!THE SHADES!0.X601!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.6002!COZKUIN!/]
 	
 	
-	[/KABU!DAZIR!SLUMS!0.101!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.101!COZKUIN!]
 		||
 		*"Ya think so?!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.1010!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.101!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.1010!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.101!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.1010!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.1010!COZKUIN!]
 		||
 		*"I hope there's a way to convince 'em no' to kill us; don' wanna lose ma family!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X1011!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.1010!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X1011!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.1010!COZKUIN!/]
 		
-	[/KABU!DAZIR!SLUMS!0.X1011!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.X000!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!0.X1011!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.X000!COZKUIN!|
 		*"I sure wish Khaa were as strong as Ark, then we wouldn' ha'e to worry abou' the Tacribs."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.X1011!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.X1011!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.201!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.201!COZKUIN!]
 		||
 		*"Biracul was the mage who buil' Dazir!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.2010!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.201!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.2010!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.201!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.2010!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.2010!COZKUIN!]
 		||
 		*"They say he couldn' die, tha' he wen' into the Was'es, but tha' he'll also come back some day!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.2011!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.2010!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.2011!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.2010!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.2011!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.2011!COZKUIN!]
 		||
 		*"Don' ya pray to Biracul in yer hometown? Oh yeah! I should go to the temple an' pray!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X2012!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.2011!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X2012!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.2011!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X2012!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.X000!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!0.X2012!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.X000!COZKUIN!|
 		*"Bye, lady!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.X2012!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.X2012!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.301!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.301!COZKUIN!]
 		||
 		*"I guess yer righ'... Biracul's jus' a hero in a stery anyway, ain't he?"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X3010!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.301!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X3010!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.301!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X3010!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.001!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!0.X3010!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.001!COZKUIN!|
 		*"No'ne can help us..."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.X3010!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.X3010!COZKUIN!/]
 
-	[/KABU!DAZIR!SLUMS!0.3011!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!0.3011!COZKUIN!]
 		||
 		*"I guess yer righ'... 'Tis hopeless, like ma paps says."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X3010!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.3011!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X3010!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.3011!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X401!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.001!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!0.X401!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.001!COZKUIN!|
 		*"Gosh miss, I hope ya can help us!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.X401!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.X401!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X501!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.001!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!0.X501!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.001!COZKUIN!|
 		*"Whaaaaaaa! Mum, this bad lady is puttin' the Jinnfear in me!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.X501!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.X501!COZKUIN!/]
 
-	[/KABU!DAZIR!SLUMS!0.X601!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.X000!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!0.X601!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.X000!COZKUIN!|
 		*"Sure thin'! Thanks fer yer help, fereigner!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!0.X601!COZKUIN!/]	
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!0.X601!COZKUIN!/]	
 	
 	
-	[/KABU!DAZIR!SLUMS!1.X000!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.X001!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!1.X000!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.X001!COZKUIN!|
 		*" 'Biracul, Biracul, keep me frem the Jinn's influen...za."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!1.X000!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!1.X000!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!1.X001!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.X002!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!1.X001!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.X002!COZKUIN!|
 		*"Biracul, Biracul, lead me to the path of righ...ches'nu's."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!1.X001!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!1.X001!COZKUIN!/]
 	
-	[/KABU!DAZIR!SLUMS!1.X002!COZKUIN!]
-		|@:KABU!DAZIR!SLUMS!1.X000!COZKUIN!|
+	[/KABU!DAZIR!THE SHADES!1.X002!COZKUIN!]
+		|@:KABU!DAZIR!THE SHADES!1.X000!COZKUIN!|
 		*"Biracul, Biracul, may you...' ah, I ferget the res'."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!1.X002!COZKUIN!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!1.X002!COZKUIN!/]
 
-	[/KABU!DAZIR!SLUMS!1.001!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!1.001!COZKUIN!]
 		||
 		*-sniffle, sniffle, whimper-*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!}
-	[KABU!DAZIR!SLUMS!1.001!COZKUIN!/]	
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!}
+	[KABU!DAZIR!THE SHADES!1.001!COZKUIN!/]	
 	
 	
 
 GALIP
-	[/KABU!DAZIR!SLUMS!0.000!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.000!GALIP!]
 		||
 		*"No' tryin' to speak with Famlaz's tongue, bu' I wish tha' ma job gave me a house in the middle tier."*
-		(A#"Tell me more about your position in society."){A:1,KABU!DAZIR!SLUMS!0.100!GALIP!}
-		(B#"What's stopping you from moving?"){B:1,KABU!DAZIR!SLUMS!0.200!GALIP!}
-		(C#"I imagine most people feel this way."){C:1,KABU!DAZIR!SLUMS!0.300!GALIP!}
-		(D#"Perhaps I can help you... for a price."){D:1,KABU!DAZIR!SLUMS!0.400!GALIP!}
-		(E#"Wishing for a thing does not make it so."){E:1,KABU!DAZIR!SLUMS!0.500!GALIP!}
-		(F#"No, you don't!"){F:1,KABU!DAZIR!SLUMS!0.600!GALIP!}
-	[KABU!DAZIR!SLUMS!0.000!GALIP!/]
+		(A#"Tell me more about your position in society."){A:1,KABU!DAZIR!THE SHADES!0.100!GALIP!}
+		(B#"What's stopping you from moving?"){B:1,KABU!DAZIR!THE SHADES!0.200!GALIP!}
+		(C#"I imagine most people feel this way."){C:1,KABU!DAZIR!THE SHADES!0.300!GALIP!}
+		(D#"Perhaps I can help you... for a price."){D:1,KABU!DAZIR!THE SHADES!0.400!GALIP!}
+		(E#"Wishing for a thing does not make it so."){E:1,KABU!DAZIR!THE SHADES!0.500!GALIP!}
+		(F#"No, you don't!"){F:1,KABU!DAZIR!THE SHADES!0.600!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.000!GALIP!/]
 	
 	
-	[/KABU!DAZIR!SLUMS!0.100!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.100!GALIP!]
 		||
 		*"I'm a stone worker, a skilled profession, in the grand scheme o' thin's. Biracul be praised, I'm no lowly farmer er a draug-brained Tacrib."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.1000!GALIP!}
-	[KABU!DAZIR!SLUMS!0.100!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.1000!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.100!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.1000!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.1000!GALIP!]
 		||
 		*"Bu' I'm no' so skilled as the artisans who li'e in Dazir's middle tier."*
-		(A#"But aren't your skills just as important as theirs?"){A:1,KABU!DAZIR!SLUMS!0.101!GALIP!}
-		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
-		(E#"Strength is the only necessary skill."){E:1,KABU!DAZIR!SLUMS!0.501!GALIP!}
-	[KABU!DAZIR!SLUMS!0.1000!GALIP!/]
+		(A#"But aren't your skills just as important as theirs?"){A:1,KABU!DAZIR!THE SHADES!0.101!GALIP!}
+		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!THE SHADES!0.201!GALIP!}
+		(E#"Strength is the only necessary skill."){E:1,KABU!DAZIR!THE SHADES!0.501!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.1000!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.200!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.200!GALIP!]
 		||
 		*"I understand yer a sa'age frem the deser' and ya don' understand how ci'ilized people work. Bu' here in Dazir, folk are gif'ed the stuff they should ge' with their hard work and their own contributions to the town."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.2000!GALIP!}
-	[KABU!DAZIR!SLUMS!0.200!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.2000!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.200!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.2000!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.2000!GALIP!]
 		||
 		*"'Course, the artisans li'e abo'e the rest of us, being tha' they ha'e the bigges' skill o' all Kaban workers."*
-		(A#"What is it that makes you less important than them?"){A:1,KABU!DAZIR!SLUMS!0.101!GALIP!}
-		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
-		(C#"Then what are you complaining about?"){C:1,KABU!DAZIR!SLUMS!0.301!GALIP!}
-	[KABU!DAZIR!SLUMS!0.2000!GALIP!/]
+		(A#"What is it that makes you less important than them?"){A:1,KABU!DAZIR!THE SHADES!0.101!GALIP!}
+		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!THE SHADES!0.201!GALIP!}
+		(C#"Then what are you complaining about?"){C:1,KABU!DAZIR!THE SHADES!0.301!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.2000!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.300!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.300!GALIP!]
 		||
 		*"I understand yer a sa'age frem the deser' and ya don' understand how ci'ilized people work. Bu' here in Dazir, folk are gif'ed the stuff they should ge' with their hard work and their own contributions to the town."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.3000!GALIP!}
-	[KABU!DAZIR!SLUMS!0.300!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.3000!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.300!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.3000!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.3000!GALIP!]
 		||
 		*"Course, the artisans li'e abo'e the res' o' us, being tha' they ha'e the bigges' skill of all Kaban workers."*
-		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!SLUMS!0.201!GALIP!}
-		(C#"Then what are you complaining about?"){C:1,KABU!DAZIR!SLUMS!0.301!GALIP!}
-		(D#"If you have any useful information, I could speak highly of you to my friend Khaa..."){D:1,KABU!DAZIR!SLUMS!0.401!GALIP!}
-	[KABU!DAZIR!SLUMS!0.3000!GALIP!/]
+		(B#"Who judged this to be the best method of organizing society?"){B:1,KABU!DAZIR!THE SHADES!0.201!GALIP!}
+		(C#"Then what are you complaining about?"){C:1,KABU!DAZIR!THE SHADES!0.301!GALIP!}
+		(D#"If you have any useful information, I could speak highly of you to my friend Khaa..."){D:1,KABU!DAZIR!THE SHADES!0.401!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.3000!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.400!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.400!GALIP!]
 		||
 		*"Wha'? Wha' 'tis ya mean to do? How could a sa'age like ya help me?"*
-		(C#"If you don't want my help, why are you complaining?"){C:1,KABU!DAZIR!SLUMS!0.301!GALIP!}
-		(D#"I have Khaa's ear... Tell me something useful, and I'll see to it you're rewarded."){D:1,KABU!DAZIR!SLUMS!0.401!GALIP!}
-		(E#"The doors of opportunity are unlocked with the keys of strength."){E:1,KABU!DAZIR!SLUMS!0.501!GALIP!}
-	[KABU!DAZIR!SLUMS!0.400!GALIP!/]
+		(C#"If you don't want my help, why are you complaining?"){C:1,KABU!DAZIR!THE SHADES!0.301!GALIP!}
+		(D#"I have Khaa's ear... Tell me something useful, and I'll see to it you're rewarded."){D:1,KABU!DAZIR!THE SHADES!0.401!GALIP!}
+		(E#"The doors of opportunity are unlocked with the keys of strength."){E:1,KABU!DAZIR!THE SHADES!0.501!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.400!GALIP!/]
 
-	[/KABU!DAZIR!SLUMS!0.500!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.500!GALIP!]
 		||
 		*"I s'pose yer righ', fereigner..."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.5000!GALIP!}
-	[KABU!DAZIR!SLUMS!0.500!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.5000!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.500!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.5000!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.5000!GALIP!]
 		||
 		*"Bu' I'm only a stone worker. How can I climb the ranks withou' the higher learnin' o' the artisans?"*
-		(A#"Why does being an artisan make one superior?"){A:1,KABU!DAZIR!SLUMS!0.101!GALIP!}
-		(D#"I have Khaa's ear. Tell me something useful and I might help you."){D:1,KABU!DAZIR!SLUMS!0.401!GALIP!}
-		(E#"The doors of opportunity are unlocked with the keys of strength."){E:1,KABU!DAZIR!SLUMS!0.501!GALIP!}
-	[KABU!DAZIR!SLUMS!0.5000!GALIP!/]
+		(A#"Why does being an artisan make one superior?"){A:1,KABU!DAZIR!THE SHADES!0.101!GALIP!}
+		(D#"I have Khaa's ear. Tell me something useful and I might help you."){D:1,KABU!DAZIR!THE SHADES!0.401!GALIP!}
+		(E#"The doors of opportunity are unlocked with the keys of strength."){E:1,KABU!DAZIR!THE SHADES!0.501!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.5000!GALIP!/]
 
-	[/KABU!DAZIR!SLUMS!0.600!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.600!GALIP!]
 		||
 		*"...Ya know wha', I s'pose yer righ'!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.6000!GALIP!}
-	[KABU!DAZIR!SLUMS!0.600!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.6000!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.600!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.6000!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.6000!GALIP!]
 		||
 		*"When ya think abou' i', ma place is as a stone worker; I'm essential!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.6001!GALIP!}
-	[KABU!DAZIR!SLUMS!0.6000!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.6001!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.6000!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.6001!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.6001!GALIP!]
 		||
 		*"Jus' as we Dazirans are abo'e the Tambulans and Tacribs, so too are the artisans abo'e me."*
-		(F#"No they're not."){F:1,KABU!DAZIR!SLUMS!0.X601!GALIP!}
-	[KABU!DAZIR!SLUMS!0.6001!GALIP!/]	
+		(F#"No they're not."){F:1,KABU!DAZIR!THE SHADES!0.X601!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.6001!GALIP!/]	
 
 
-	[/KABU!DAZIR!SLUMS!0.101!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.101!GALIP!]
 		||
 		*"'Tis clear as Biracul is shinin' tha' the artisans are be'er 'cause o' their learnin'!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.1010!GALIP!}
-	[KABU!DAZIR!SLUMS!0.101!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.1010!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.101!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.1010!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.1010!GALIP!]
 		||
 		*"I should no've was'ed ma time tryin' to bring sigh' to a blind fereigner like ya."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X1011!GALIP!}
-	[KABU!DAZIR!SLUMS!0.1010!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X1011!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.1010!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X1011!GALIP!]
-		|@:KABU!DAZIR!SLUMS!1.000!GALIP!|
+	[/KABU!DAZIR!THE SHADES!0.X1011!GALIP!]
+		|@:KABU!DAZIR!THE SHADES!1.000!GALIP!|
 		*"Jinns take ya!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
-	[KABU!DAZIR!SLUMS!0.X1011!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.X1011!GALIP!/]
 
-	[/KABU!DAZIR!SLUMS!0.201!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.201!GALIP!]
 		||
 		*"Biracul likely said i' was to be so a long time ago."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.2010!GALIP!}
-	[KABU!DAZIR!SLUMS!0.201!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.2010!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.201!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.2010!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.2010!GALIP!]
 		||
 		*"Bu', who cares?! The ways o' the good are clear as Biracul is shinin' to good, hones' folk - doub' a Suyu'i goa'lo'er such as ya'll e'er understand."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X2011!GALIP!}
-	[KABU!DAZIR!SLUMS!0.2010!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X2011!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.2010!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X2011!GALIP!]
-		|@:KABU!DAZIR!SLUMS!1.000!GALIP!|
+	[/KABU!DAZIR!THE SHADES!0.X2011!GALIP!]
+		|@:KABU!DAZIR!THE SHADES!1.000!GALIP!|
 		*"Yar welcome to leave now."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
-	[KABU!DAZIR!SLUMS!0.X2011!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.X2011!GALIP!/]
 
-	[/KABU!DAZIR!SLUMS!0.301!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.301!GALIP!]
 		||
 		*"I told ya, I'm no' complainin'! I'm jus' wonderin' aloud!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.3010!GALIP!}
-	[KABU!DAZIR!SLUMS!0.301!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.3010!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.301!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.3010!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.3010!GALIP!]
 		||
 		*"Ne'er mind, fereigner. I'm finish'ed talkin' with ya!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X1011!GALIP!}
-	[KABU!DAZIR!SLUMS!0.3010!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X1011!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.3010!GALIP!/]
 
-	[/KABU!DAZIR!SLUMS!0.401!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.401!GALIP!]
 		||
 		*"Oh, ya could? Wull, in tha' case... I did see somethin' unusual recen'ly..."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.4010!GALIP!}
-	[KABU!DAZIR!SLUMS!0.401!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.4010!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.401!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.4010!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.4010!GALIP!]
 		||
 		*"Our Librarian, Quan'jo, has gone missin'... No'ne knows where he is, bu' I saw him wanderin' abou' on the path to the Valley o' Bones down in the Crescen' Canyon near Tambul; 'haps he can be found there..."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.4011!GALIP!}
-	[KABU!DAZIR!SLUMS!0.4010!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.4011!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.4010!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.4011!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.4011!GALIP!]
 		||
 		*"I would apprecia' wha'e'er word ya can pu' in fer me to Khaa!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X4012!GALIP!}
-	[KABU!DAZIR!SLUMS!0.4011!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X4012!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.4011!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X4012!GALIP!]
-		|@:KABU!DAZIR!SLUMS!1.001!GALIP!|
+	[/KABU!DAZIR!THE SHADES!0.X4012!GALIP!]
+		|@:KABU!DAZIR!THE SHADES!1.001!GALIP!|
 		*"Biracul be with ya, kind fereigner!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
-	[KABU!DAZIR!SLUMS!0.X4012!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.X4012!GALIP!/]
 
-	[/KABU!DAZIR!SLUMS!0.501!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.501!GALIP!]
 		||
 		*"So ya think I should strong-arm my betters?"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.5010!GALIP!}
-	[KABU!DAZIR!SLUMS!0.501!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.5010!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.501!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.5010!GALIP!]
+	[/KABU!DAZIR!THE SHADES!0.5010!GALIP!]
 		||
 		*"If I wan'ed the advice o' a blood-crazed sa'age, I would aks a Tacrib!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!0.X5011!GALIP!}
-	[KABU!DAZIR!SLUMS!0.5010!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!0.X5011!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.5010!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!0.X5011!GALIP!]
-		|@:KABU!DAZIR!SLUMS!1.000!GALIP!|
+	[/KABU!DAZIR!THE SHADES!0.X5011!GALIP!]
+		|@:KABU!DAZIR!THE SHADES!1.000!GALIP!|
 		*"Jinns take ya, ya Suyu'i goa'lo'er!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
-	[KABU!DAZIR!SLUMS!0.X5011!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.X5011!GALIP!/]
 
-	[/KABU!DAZIR!SLUMS!0.X601!GALIP!]
-		|@:KABU!DAZIR!SLUMS!1.006!GALIP!|
+	[/KABU!DAZIR!THE SHADES!0.X601!GALIP!]
+		|@:KABU!DAZIR!THE SHADES!1.006!GALIP!|
 		*"...ya think so?"*
-		(A#"No I don't! Hey this is fun, say something else!"){A:0,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
-	[KABU!DAZIR!SLUMS!0.X601!GALIP!/]
+		(A#"No I don't! Hey this is fun, say something else!"){A:0,KABU!DAZIR!THE SHADES!9999.X9999!GALIP!}
+	[KABU!DAZIR!THE SHADES!0.X601!GALIP!/]
 	
 	
-	[/KABU!DAZIR!SLUMS!1.000!GALIP!]
+	[/KABU!DAZIR!THE SHADES!1.000!GALIP!]
 		||
 		*"..."*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
-	[KABU!DAZIR!SLUMS!1.000!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!GALIP!}
+	[KABU!DAZIR!THE SHADES!1.000!GALIP!/]
 	
-	[/KABU!DAZIR!SLUMS!1.001!GALIP!]
+	[/KABU!DAZIR!THE SHADES!1.001!GALIP!]
 		||
 		*"Please don' ferget to tell Khaa abou' lil' ol' Galip! Biracul be with ya!"*
-		(A#"..."){A:0,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
-	[KABU!DAZIR!SLUMS!1.001!GALIP!/]
+		(A#"..."){A:0,KABU!DAZIR!THE SHADES!9999.X9999!GALIP!}
+	[KABU!DAZIR!THE SHADES!1.001!GALIP!/]
 
-	[/KABU!DAZIR!SLUMS!1.006!GALIP!]
+	[/KABU!DAZIR!THE SHADES!1.006!GALIP!]
 		||
 		*"..."*
-		(F#"No '...' didn't! Ha ha! Roostor be praised!"){F:1,KABU!DAZIR!SLUMS!9999.X9999!GALIP!}
-	[KABU!DAZIR!SLUMS!1.006!GALIP!/]	
+		(F#"No '...' didn't! Ha ha! Roostor be praised!"){F:1,KABU!DAZIR!THE SHADES!9999.X9999!GALIP!}
+	[KABU!DAZIR!THE SHADES!1.006!GALIP!/]	
 	
 	
 	
@@ -8920,32 +8920,32 @@ _________________________________________
 WORKSHOP		
 	[/KABU!DAZIR!WORKSHOP!0.000!DESCRIPTION!]
 		||
-		*Grinding wheels, saws, drills, and hammers all work away at stone, wood, metal and glass. Clinking and buzzing. Cracking and snapping. The bizarre percussive symphony moves along at a hypnotic pace, lulling Eidos' worker's spirit into a rhythmic frenzy. As music would make a person want to dance, so too does this instrumental song make Eidos want to work. It takes a great force of will to stop herself from rolling up her sleeves and joining in this industrial bacchanal.*
+		*Grinding wheels, saws, drills, and hammers all work away at stone, wood, metal and glass. Clinking and buzzing. Cracking and snapping. The bizarre percussive symphony moves along at a hypnotic pace, lulling Eidos' worker's spirit into a rhythmic frenzy. As music would make a person want to dance, so too does this instrumental make Eidos want to work. It takes a great force of will to stop herself from rolling up her sleeves and joining in the industrial bacchanal.*
 		(A#...){A:0,KABU!DAZIR!WORKSHOP!0.0000!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP!0.000!DESCRIPTION!/]
-	
+
 	[/KABU!DAZIR!WORKSHOP!0.0000!DESCRIPTION!]
 		||
-		*Looking around, Eidos notes that while some implements are wielded manually, larger equipment is compelled by driving wheels and complex gear arrangements, themselves turned by water spouting from numerous, variably-pressured fonts in the upper walls. Other rarer items seem to be crystal-driven and seem to be the most frighteningly powerful among the tools.*
+		*Looking around, Eidos notes that while some implements are wielded manually, larger equipment is compelled by driving wheels and complex gear arrangements, themselves turned by water spouting from numerous, variably-pressured fonts in the upper walls. Other rarer items seem to be crystal-driven and also seem to be the most frighteningly powerful among the tools.*
 		(A#...){A:0,KABU!DAZIR!WORKSHOP!0.0001!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP!0.0000!DESCRIPTION!/]
-	
+
 	[/KABU!DAZIR!WORKSHOP!0.0001!DESCRIPTION!]
 		||
-		*The entire area is abuzz with activity, as many people are in equal measures discussing, reading and drafting. It seems as though all of them wear clothing marked by distinctive turquoise accents - if not of that color in their entirety.*
+		*The entire area is abuzz with activity, as many people are in equal measures discussing, reading, crafting, and drafting. All wear clothing marked by distinctive turquoise accents - some even don frocks turquoise in their entirety.*
 		(A#Use the Cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
 		(B#Exit to the Workshop Exterior){B:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!}
 		(C#Approach people to talk){C:0,KABU!DAZIR!WORKSHOP!0.X001!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP!0.0001!DESCRIPTION!/]
-	
+
 	[/KABU!DAZIR!WORKSHOP!0.X001!DESCRIPTION!]
 		|@:KABU!DAZIR!WORKSHOP!0.001!DESCRIPTION!|
-		*While most the folk here are hard at work. Closer inspection reveals that a distinction exists between those wearing turquoise merely as arm bands and those donning similarly colored robes: those wearing robes appear to have a more supervisory role, as they generally are not engaged in any of the harder labor. 
+		*While most of the folk here are hard at work, closer inspection reveals that a distinction exists between those wearing turquoise merely as arm bands and those donning similarly colored robes: the former perform the hard labor; whereas, the latter appear to have a more supervisory role. 
 		
-		Two of these folk seem to be at loose ends, and as such, free to exchange words with Eidos.*
-		(A#A quick-eyed and restless fellow){A:0,KABU!DAZIR!WORKSHOP!9999.X0063!DESCRIPTION!}
+		Two among the crowd seem to be at loose ends, and as such, free to exchange words with Eidos.*
+		(A#Talk to the sharp-looking yet restless fellow){A:0,KABU!DAZIR!WORKSHOP!9999.X0063!DESCRIPTION!}
 		(B#Exit to the Workshop Exterior){B:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!}
-		(C#An elderly chap with a long white beard){C:0,KABU!DAZIR!WORKSHOP!9999.X0058!DESCRIPTION!}
+		(C#Talk to the elderly chap with a long white beard){C:0,KABU!DAZIR!WORKSHOP!9999.X0058!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP!0.X001!DESCRIPTION!/]
 	
 	[/KABU!DAZIR!WORKSHOP!0.001!DESCRIPTION!]
@@ -10083,11 +10083,11 @@ EVENT WRITERS
 		(A#WRITER){A:0,NO ADDRESS}
 	[KABU!DAZIR!ARTISANS' PLAZA!9990.X10002!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!9990.X10003!DESCRIPTION!]
-		|10003:KABU!DAZIR!SLUMS!0.X0012!DESCRIPTION!|
+	[/KABU!DAZIR!THE SHADES!9990.X10003!DESCRIPTION!]
+		|10003:KABU!DAZIR!THE SHADES!0.X0012!DESCRIPTION!|
 		*EVENT WRITER - Heard artisan's speech*
 		(A#WRITER){A:0,NO ADDRESS}
-	[KABU!DAZIR!SLUMS!9990.X10003!DESCRIPTION!/]
+	[KABU!DAZIR!THE SHADES!9990.X10003!DESCRIPTION!/]
 	
 	[/KABU!DAZIR!GATES OF DAZIR!9990.X10004!DESCRIPTION!]
 		|10004:KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!|
@@ -10362,11 +10362,11 @@ FIGHTING WORDS
 		(A#FIGHT){A:0,FIGHT}			
 	[KABU!DAZIR!MAGE'S ABODE!9992.X0003!KHAA!/]
 	
-	[/KABU!DAZIR!SLUMS!9992.X0003!KHAA!]
+	[/KABU!DAZIR!THE SHADES!9992.X0003!KHAA!]
 		||
 		**
 		(A#FIGHT){A:0,FIGHT}				
-	[KABU!DAZIR!SLUMS!9992.X0003!KHAA!/]
+	[KABU!DAZIR!THE SHADES!9992.X0003!KHAA!/]
 	
 	[/KABU!DAZIR!TEMPLE OF BIRACUL!9992.X0003!KHAA!]
 		||
@@ -10439,11 +10439,11 @@ NPC SWITCHERS
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!DAZIR!TEMPLE OF BIRACUL!9999.X0055!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!9999.X0056!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!9999.X0056!DESCRIPTION!]
 		|#npcSwitch:56|
 		*COZKUIN*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!DAZIR!SLUMS!9999.X0056!DESCRIPTION!/]	
+	[KABU!DAZIR!THE SHADES!9999.X0056!DESCRIPTION!/]	
 	
 	[/KABU!DAZIR!ATRIUM!9999.X0057!DESCRIPTION!]
 		|#npcSwitch:57|
@@ -10457,17 +10457,17 @@ NPC SWITCHERS
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!DAZIR!WORKSHOP!9999.X0058!DESCRIPTION!/]	
 	
-	[/KABU!DAZIR!SLUMS!9999.X0059!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!9999.X0059!DESCRIPTION!]
 		|#npcSwitch:59|
 		*ARKARA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!DAZIR!SLUMS!9999.X0059!DESCRIPTION!/]
+	[KABU!DAZIR!THE SHADES!9999.X0059!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!9999.X0060!DESCRIPTION!]
+	[/KABU!DAZIR!THE SHADES!9999.X0060!DESCRIPTION!]
 		|#npcSwitch:60|
 		*GALIP*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!DAZIR!SLUMS!9999.X0060!DESCRIPTION!/]
+	[KABU!DAZIR!THE SHADES!9999.X0060!DESCRIPTION!/]
 
 	[/KABU!DAZIR!ARTISANS' PLAZA!9999.X0061!DESCRIPTION!]
 		|#npcSwitch:61|
@@ -10541,11 +10541,11 @@ NPC SWITCHERS
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!DAZIR!MAGE'S ABODE!9999.X8888!DESCRIPTION!/]
 	
-	[/KABU!DAZIR!SLUMS!9999.X9999!ARKARA!]
+	[/KABU!DAZIR!THE SHADES!9999.X9999!ARKARA!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM ARKARA*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!DAZIR!SLUMS!9999.X9999!ARKARA!/]
+	[KABU!DAZIR!THE SHADES!9999.X9999!ARKARA!/]
 	
 	[/KABU!DAZIR!ARBORETUM!9999.X9999!ASANSOR!]
 		|#npcSwitch:9999|
@@ -10571,11 +10571,11 @@ NPC SWITCHERS
 		(A#SWITCHER){A:0,NO ADDRESS}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!9999.X9999!CETIN!/]
 	
-	[/KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!]
+	[/KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM COZKUIN*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!DAZIR!SLUMS!9999.X9999!COZKUIN!/]	
+	[KABU!DAZIR!THE SHADES!9999.X9999!COZKUIN!/]	
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!DIYGU!]
 		|#npcSwitch:9999|
@@ -10607,11 +10607,11 @@ NPC SWITCHERS
 		(A#SWITCHER){A:0,NO ADDRESS}		
 	[KABU!DAZIR!ARBORETUM!9999.X9999!FAMLICUS!/]	
 	
-	[/KABU!DAZIR!SLUMS!9999.X9999!GALIP!]
+	[/KABU!DAZIR!THE SHADES!9999.X9999!GALIP!]
 		|#npcSwitch:9999|
 		*DESCRIPTION FROM GALIP*
 		(A#SWITCHER){A:0,NO ADDRESS}
-	[KABU!DAZIR!SLUMS!9999.X9999!GALIP!/]
+	[KABU!DAZIR!THE SHADES!9999.X9999!GALIP!/]
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!9999.X9999!HAZAN!]
 		|#npcSwitch:9999|
