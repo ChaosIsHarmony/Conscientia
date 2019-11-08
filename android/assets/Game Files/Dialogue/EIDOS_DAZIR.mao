@@ -161,7 +161,7 @@ ARBORETUM
 
 	[/KABU!DAZIR!ARBORETUM!11.X900!DESCRIPTION!]
 		|@:KABU!DAZIR!ARBORETUM!11.000!DESCRIPTION!|
-		*Eidos feels the chill waters of the fountain as she stands upon the Daziran Farcaster. Water yet dripping from her foot bindings, she casts her gaze about the Arboretum. Nearby, she observes the decadent home of the mage-leader Khaa with its curious backdrop of steep mountain crags meeting the empty desert flats. The humble - though masterfully masoned - Archives hold their ground to the south. And finally, the floating Cloudstone lift and its unnecessary caretaker likewise remain where she left them. A place for everything and everything in its place.*
+		*Eidos feels the chill waters of the fountain as she stands upon the Daziran Farcaster. Water yet dripping from her foot bindings, she casts her gaze about the Arboretum. Nearby, she observes the decadent home of the mage-leader Khaa with its curious backdrop of steep mountain crags meeting the empty desert flats. The humble - though masterfully masoned - Archives hold their ground to the south. And finally, the floating cloudstone lift and its unnecessary caretaker likewise remain where she left them. A place for everything and everything in its place.*
 		(A#_Use the Sigil of Farcasting_){A:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
 		(B#Enter Khaa's Abode){B:0,KABU!DAZIR!MAGE'S ABODE!11.X000!DESCRIPTION!}
 		(C#Approach the floating platform){C:0,KABU!DAZIR!ARBORETUM!11.001!DESCRIPTION!}
@@ -301,7 +301,7 @@ khaa dead
 		||
 		*As Eidos reforms atop the Farcaster, a desolate silence uncharacteristic of this mountain township greets her. The stars stare down upon her, yet no lights from below illuminate the lower tiers. No signs of human habitation remain. No scents from cooking pots on the fire, no laughs from carefree children at play, not even the gentle croaking and chirping of night creatures can be heard in this utterly abandoned site.
 		
-		Looking about, Eidos notes that the Archives guard has abandoned his post and the old man by the lift has departed. The floating Cloudstone itself lies irreparably fragmented into a thousand pieces at the bottom of the shaft, hundreds of spans below this garden tier.*
+		Looking about, Eidos notes that the Archives guard has abandoned his post and the old man by the lift has departed. The floating cloudstone itself lies irreparably fragmented into a thousand pieces at the bottom of the shaft, hundreds of spans below this garden tier.*
 		(A#_Use the Sigil of Farcasting_){A:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
 		(B#Enter the Archives){B:0,KABU!DAZIR!ARCHIVES!0.X000!DESCRIPTION!}
 		(C#Enter Khaa's Abode){C:0,KABU!DAZIR!MAGE'S ABODE!0.X000!DESCRIPTION!}
@@ -447,7 +447,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.1009!ASANSOR!]
 		||
-		*"You can use this here Cloudstone to go to the other levels."*
+		*"You can use this here cloudstone to go to the other levels."*
 		(A#"Could you tell me about these other levels."){A:1,KABU!DAZIR!ARBORETUM!0.101!ASANSOR!}
 		(B#"What is this platform?"){B:1,KABU!DAZIR!ARBORETUM!0.200!ASANSOR!}
 		(E#"I don't take kindly to your derisive tone, old man."){E:1,KABU!DAZIR!ARBORETUM!0.500!ASANSOR!}
@@ -461,7 +461,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.2000!ASANSOR!]
 		||
-		*"Why it's a Cloudstone, you Jinn-struck, truth-blind nincompoop!"*
+		*"Why it's a cloudstone, you Jinn-struck, truth-blind nincompoop!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.2001!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.2000!ASANSOR!/]
 	
@@ -523,7 +523,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.4002!ASANSOR!]
 		||
-		*"This Cloudstone here will take you to where you need to go - and take you far away from me!"*
+		*"This cloudstone here will take you to where you need to go - and take you far away from me!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.4003!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.4002!ASANSOR!/]
 	
@@ -555,7 +555,7 @@ ASANSOR
 	
 	[/KABU!DAZIR!ARBORETUM!0.5002!ASANSOR!]
 		||
-		*"But tell me, boy, what's going to happen when they see the likes of this Cloudstone!?"*
+		*"But tell me, boy, what's going to happen when they see the likes of this cloudstone!?"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!0.5003!ASANSOR!}
 	[KABU!DAZIR!ARBORETUM!0.5002!ASANSOR!/]
 	
@@ -3630,7 +3630,7 @@ _____________________________________
 ARTISANS' PLAZA	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.000!DESCRIPTION!]
 		||
-		*All around Eidos is a bustling plaza. Dominating the area is a marble fountain several stories tall and well over one hundred paces in diameter. A number of conversing turquoise-clad pairs stroll around the fountain, while a few individuals sit upon the fountain's lip, seeking shade from the midday sun.*
+		*All around Eidos is a bustling plaza. Dominating the area is a marble fountain several stories tall and well over one hundred paces in diameter. A number of conversing turquoise-clad pairs stroll around the fountain, while a few individuals sit upon the fountain's lip and in its shade, seeking refuge from the midday sun.*
 		(A#...){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.X0000!DESCRIPTION!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.000!DESCRIPTION!/]
 	
@@ -3642,13 +3642,13 @@ ARTISANS' PLAZA
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.0001!DESCRIPTION!]
 		||
-		*One whole side of the area is open to the desert, allowing for a spectacular panoramic view of the desolate landscape - though to the south, constant dust cyclones kick up airborne sediment obscuring any distant landmarks. However, looking out from the mountains toward the east, a silver tower rejects the sun's rays, simultaneously inviting and forbidding perception with its blinding reflections. The township beneath it is barely visible amid the brilliance.*
+		*One whole side of the area is open to the desert, allowing for a spectacular panoramic view of the desolate landscape - though to the south, constant dust cyclones kick up airborne sediment obscuring any distant landmarks. However, looking out from the mountains toward the east, a silver tower rejects the sun's rays, at once inviting and forbidding perception with its blinding reflections. The township beneath it is barely visible amid the brilliance.*
 		(A#...){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.0002!DESCRIPTION!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.0001!DESCRIPTION!/]
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.0002!DESCRIPTION!]
 		||
-		*On the other side of this railed viewing area appears to be a luxurious residential area. Eidos can hear the sound of hammers striking stone and other, less identifiable sounds coming from the Workshop towards the Cloudstone.*
+		*Further along this railed viewing area appears to be a luxurious residential area. Eidos can hear the sound of hammers striking stone and other, less identifiable sounds coming from the Workshop towards the cloudstone.*
 		(A#...){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.0003!DESCRIPTION!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.0002!DESCRIPTION!/]
 	
@@ -3681,7 +3681,7 @@ already seen it
 		||
 		*Gazing out from the guard rail, Eidos sees across the desert plain as far as the barrier of dusty cyclones permit. While comfortable within the finely tiled and pillar-shaded plaza, the oppressive and deadly heat of the arid landscape seems picturesque.
 		
-		From here, Eidos can approach a luxurious residential area, or else return to the Workshop and the Cloudstone lift.*
+		From here, Eidos can approach a luxurious residential area, or else return to the Workshop and the cloudstone lift.*
 		(A#Walk towards the Workshop){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAZIR!ARTISANS' PLAZA!1.X000!DESCRIPTION!}
 		(C#Enter the Artisans' Mansion){C:0,KABU!DAZIR!ARTISANS' MANSION!0.000!DESCRIPTION!}
@@ -4283,7 +4283,7 @@ SERPIL
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.000!SERPIL!]
 		||
 		*"Have you come in search of the secrets of the Vanquished, foreigner?"* 
-		(A#"What can you tell me of the Vanquished?"){A:1,KABU!DAZIR!ARTISANS' PLAZA!0.001!SERPIL!}
+		(A#"The Vanquished? Do you know much of them?"){A:1,KABU!DAZIR!ARTISANS' PLAZA!0.001!SERPIL!}
 		(B#"What are these secrets you speak of?"){B:1,KABU!DAZIR!ARTISANS' PLAZA!0.001!SERPIL!}
 		(C#"I'm just wandering around town right now."){C:1,KABU!DAZIR!ARTISANS' PLAZA!0.002!SERPIL!}
 		(D#"Only if they are of value..."){D:1,KABU!DAZIR!ARTISANS' PLAZA!0.001!SERPIL!}
@@ -4439,13 +4439,13 @@ SERPIL
 
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.101!SERPIL!]
 		||
-		*"True, but I am convinced magi and townships across the world each hold some unique knowledge."*
+		*"True, but I'm convinced magi and townships across the world each hold some unique knowledge."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.1010!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.101!SERPIL!/]
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.1010!SERPIL!]
 		||
-		*"Sadly, it's all scattered about the four corners - and closely guarded to boot."*
+		*"Sadly, it's all scattered about in the six directions - and closely guarded to boot."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.1011!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.1010!SERPIL!/]
 	
@@ -4681,7 +4681,7 @@ ATRIUM
 		||
 		*The Atrium is hot and muggy through the mixing of the desert heat emanating from the walls and the sweat of the Daziran laborers. Though its perpetual shade under the awning of the upper tiers offers a silver lining.
 		
-		From here she can walk further into the lower living area towards the sandstone building where people are burning incense. Else, she can walk back to the Gates and the Cloudstone Lift nearby.*
+		From here she can walk further into the lower living area towards the sandstone building where people are burning incense. Else, she can walk back to the Gates and the cloudstone Lift nearby.*
 		(A#Approach the Temple of Biracul){A:0,KABU!DAZIR!ATRIUM!0.100!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAZIR!ATRIUM!0.X010!DESCRIPTION!}
 		(C#Approach the Gates){C:0,KABU!DAZIR!GATES OF DAZIR!0.500!DESCRIPTION!}
@@ -4703,7 +4703,7 @@ ATRIUM
 killed someone in the area
 	[/KABU!DAZIR!ATRIUM!0099.000!DESCRIPTION!]
 		||
-		*As Eidos' victim falls to the packed dirt of the Atrium grounds, shouts from the Cloudstone Lift herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape. 
+		*As Eidos' victim falls to the packed dirt of the Atrium grounds, shouts from the cloudstone Lift herald the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape. 
 		
 		Confidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...*
 		(A#...){A:0,KABU!DAZIR!ATRIUM!9992.X0003!KHAA!}			
@@ -5648,7 +5648,7 @@ CLOUDSTONE
 	[/KABU!DAZIR!CLOUDSTONE!0.003!DESCRIPTION!]
 		||
 		*The lift halts its descent and Eidos stands in the lowest level of Dazir. Unlike above, the floors here are made of plain dirt and dust, pounded soild by thousands of footfalls. The area here is decidedly darker, with wide, rough support structures and the town walls blocking much of the sunlight. Not far from here are the limits of the Daziran walls and its only gate to the outside world.*
-		(A#Use the Cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
+		(A#Use the cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
 		(B#Enter the Atrium){B:0,KABU!DAZIR!ATRIUM!0.000!DESCRIPTION!}
 		(C#Approach the Gates){C:0,KABU!DAZIR!GATES OF DAZIR!0.500!DESCRIPTION!}
 	[KABU!DAZIR!CLOUDSTONE!0.003!DESCRIPTION!/]
@@ -5747,7 +5747,7 @@ killed khaa or pak
 	[/KABU!DAZIR!GATES OF DAZIR!0.500!DESCRIPTION!]
 		||
 		*Eidos stares at the massive onyx slab acting as the gate of Dazir. It stands completely immobile, showing not even a hint of a reaction when Eidos approaches it. Nearby is nothing but a sign, simply stating: 'The Gates Shall Not Be Opened for Any Without Express Permission from our glorious mage-leader Khaa.'*
-		(A#Return to the Cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
+		(A#Return to the cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
 		(B#Enter the Atrium){B:0,KABU!DAZIR!ATRIUM!0.000!DESCRIPTION!}
 	[KABU!DAZIR!GATES OF DAZIR!0.500!DESCRIPTION!/]
 	
@@ -8920,7 +8920,7 @@ _________________________________________
 WORKSHOP		
 	[/KABU!DAZIR!WORKSHOP!0.000!DESCRIPTION!]
 		||
-		*Grinding wheels, saws, drills, and hammers all work away at stone, wood, metal and glass. Clinking and buzzing. Cracking and snapping. The bizarre percussive symphony moves along at a hypnotic pace, lulling Eidos' worker's spirit into a rhythmic frenzy. As music would make a person want to dance, so too does this instrumental make Eidos want to work. It takes a great force of will to stop herself from rolling up her sleeves and joining in the industrial bacchanal.*
+		*Grinding wheels, saws, drills, and hammers all work away at stone, wood, metal and glass. Clinking and buzzing. Cracking and snapping. The bizarre percussive symphony moves along at a hypnotic tempo, lulling the worker spirit into a frenzy. As music would make a person want to dance, so too does this instrumental make Eidos want to work. It takes a great force of will to stop herself from rolling up her sleeves and joining in the industrial bacchanal.*
 		(A#...){A:0,KABU!DAZIR!WORKSHOP!0.0000!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP!0.000!DESCRIPTION!/]
 
@@ -8932,15 +8932,15 @@ WORKSHOP
 
 	[/KABU!DAZIR!WORKSHOP!0.0001!DESCRIPTION!]
 		||
-		*The entire area is abuzz with activity, as many people are in equal measures discussing, reading, crafting, and drafting. All wear clothing marked by distinctive turquoise accents - some even don frocks turquoise in their entirety.*
-		(A#Use the Cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
+		*The entire area is abuzz with activity. Scores of people are in equal measure discussing, reading, crafting, and drafting. All wear clothing marked by distinctive turquoise accents - some even don frocks turquoise in their entirety.*
+		(A#Use the cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
 		(B#Exit to the Workshop Exterior){B:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!}
 		(C#Approach people to talk){C:0,KABU!DAZIR!WORKSHOP!0.X001!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP!0.0001!DESCRIPTION!/]
 
 	[/KABU!DAZIR!WORKSHOP!0.X001!DESCRIPTION!]
 		|@:KABU!DAZIR!WORKSHOP!0.001!DESCRIPTION!|
-		*While most of the folk here are hard at work, closer inspection reveals that a distinction exists between those wearing turquoise merely as arm bands and those donning similarly colored robes: the former perform the hard labor; whereas, the latter appear to have a more supervisory role. 
+		*While most of the folk here are hard at work, closer inspection reveals that a distinction exists between those wearing turquoise merely as arm bands and those in similarly colored robes: the former perform the hard labor; whereas, the latter appear to have a more supervisory role. 
 		
 		Two among the crowd seem to be at loose ends, and as such, free to exchange words with Eidos.*
 		(A#Talk to the sharp-looking yet restless fellow){A:0,KABU!DAZIR!WORKSHOP!9999.X0063!DESCRIPTION!}
@@ -8950,8 +8950,8 @@ WORKSHOP
 	
 	[/KABU!DAZIR!WORKSHOP!0.001!DESCRIPTION!]
 		||
-		*Having survived that conversation, Eidos scans the area, noting that most folk here seem completely absorbed in their work. Despite her presence, none seem to take much interest in her. The Cloudstone that serves as an access point to other levels is accessible from this room. However, there are evidently more areas on this level to explore outdoors.*
-		(A#Use the Cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
+		*Having survived the conversation, Eidos scans the area, noting that most folk here are still completely absorbed in their work. Despite her unexplained presence, none seem to take much interest in her. The cloudstone that serves as an access point to other levels is accessible from this room. However, there are evidently more areas on this level to explore outdoors.*
+		(A#Use the cloudstone){A:0,KABU!DAZIR!CLOUDSTONE!0.000!DESCRIPTION!}
 		(B#Exit to the Workshop Exterior){B:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!}
 		(C#Look for people to speak to){C:0,KABU!DAZIR!WORKSHOP!0.X001!DESCRIPTION!}
 	[KABU!DAZIR!WORKSHOP!0.001!DESCRIPTION!/]
@@ -8959,7 +8959,7 @@ WORKSHOP
 killed someone in the area
 	[/KABU!DAZIR!WORKSHOP!0099.000!DESCRIPTION!]
 		||
-		*As Eidos' victim falls to the dusty Workshop floor, the Cloudstone Lift drops from the area above, heralding the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.
+		*As Eidos' victim falls to the dusty Workshop floor, the cloudstone Lift drops from the area above, heralding the arrival of Khaa, mage of Dazir. His steely eyes stare down an aquiline nose at Eidos, like a raptor locking onto its prey. His face grows paradoxically more relaxed in the cruel scowl that gradually contorts his features, like old leather returning to a comfortable shape.
 		
 		Confidently, he strides towards her, not even a hint of surprise in his demeanor - this recent death clearly is no news to him. Without even a speck of wastefulness, of time and of movement alike, Khaa's thin frame draws up like a mantis poised to strike...*
 		(A#...){A:0,KABU!DAZIR!WORKSHOP!9992.X0003!KHAA!}
@@ -9025,7 +9025,7 @@ khaa dead
 BEHIYE	
 	[/KABU!DAZIR!WORKSHOP!0.000!BEHIYE!]
 		||
-		*"If you're wondering what an impressive artisan such as myself is doing with an abundance of leisure time, I assure you, I haven't been cursed by the despondent touch of the Obsidian Jinn..."*
+		*"If you're wondering what an impressive artisan such as myself is doing with an abundance of leisure time, then I assure you I haven't been cursed by the despondent touch of the Obsidian Jinn..."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.0000!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.000!BEHIYE!/]
 	
@@ -9062,7 +9062,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.0005!BEHIYE!]
 		||
-		*"I fear that my fellows may mistake such unindustrious behavior with torpescence!"*
+		*"But, I fear that my fellows may mistake such unindustrious behavior with torpescence!"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.0006!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.0005!BEHIYE!/]
 	
@@ -9085,7 +9085,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.1000!BEHIYE!]
 		||
-		*"It's we who determine their use for the good of the township, or their preservation for the use of future generations... For example, you can thank my predecessors for the Cloudstone lift that brought you here!"*
+		*"It's we who determine their use for the good of the township, or their preservation for the use of future generations... For example, you can thank my predecessors for the cloudstone lift that brought you here!"*
 		(A#"How are crystals used by your community?"){A:1,KABU!DAZIR!WORKSHOP!0.X101!BEHIYE!}
 		(B#"So what is it these crystals do?"){B:1,KABU!DAZIR!WORKSHOP!0.200!BEHIYE!}
 		(E#"What use are they to me?"){E:1,KABU!DAZIR!WORKSHOP!0.501!BEHIYE!}
@@ -9113,7 +9113,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.300!BEHIYE!]
 		||
-		*"Ha! Perhaps it isn't... that is, if you intend to live out in the Wasteland like a Jinn-licking Unseen! Pardon the curse."*
+		*"Ha! Perhaps it isn't... that is, if you intend to live out in the Wasteland like a Jinn-licking Unseen! Pardon the language."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.3000!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.300!BEHIYE!/]
 	
@@ -9127,7 +9127,7 @@ BEHIYE
 
 	[/KABU!DAZIR!WORKSHOP!0.400!BEHIYE!]
 		||
-		*"You're about as correct in that assumption as the Jinnwraith is harmless!"*
+		*"You're about as correct in that assumption as a Jinnwraith is harmless!"*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!0.4000!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.400!BEHIYE!/]
 	
@@ -9224,7 +9224,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.X3010!BEHIYE!]
 		|@:KABU!DAZIR!WORKSHOP!1.000!BEHIYE!|
-		*"For crystals lose all power out there - though none know why... Yes, not even Techne can work beyond the Dawn Fortress, they say and any further in humans lose the light of their very own mind-crystals..! Hmm..."*
+		*"For crystals lose all power out there - though none know why... Yes, not even Techne can work beyond the Dawn Fortress, they say, and any further in humans lose the light of their very own mind-crystals..! Hmm..."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!9999.X9999!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.X3010!BEHIYE!/]
 	
@@ -9600,19 +9600,31 @@ ___________________________________
 WORKSHOP EXTERIOR
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!]
 		||
-		*The heat outside the workshop is unbearable. A completely shadowless junkyard, this area appears to serve as a repository for excess materials. Piles of stone and wood litter the cobblestone floor, while great stacks of spooled twine are nestled firmly up against the workshop's exterior walls. But set apart from all miscellany is a great lattice of crystals. What at first appears to be the blinding reflection from the sun's unforgiving rays instead reveals itself to be the radiant energy housed within the crystals themselves. So bright, so resplendent are they, that Eidos cannot help but avert her tear-filled eyes from them. This lattice appears to be of great importance as it is both isolated from all other areas and boasts a contingent of nearly thirty guards around the perimeter.*
+		*The heat outside the workshop is unbearable. A completely shadowless junkyard, this area appears to serve as a repository for excess materials. Piles of stone and wood litter the cobblestone floor, while great stacks of spooled twine are nestled firmly up against the workshop's walls. Set apart from all miscellany, however, is a great lattice of crystals.
 		
-		*A great number of turquoise-robed people mill about the place, ordering other about with grand gestures and stern faces. Those commanded wear heavy work aprons with turquoise bands tied around their upper arms. Mindlessly they obey all orders, moving with a practiced efficiency well beyond the ordinary. Perfectly tuned, well-oiled cogs, they each perform their part flawlessly giving life to the machinery of Dazir.*
+		What at first appears to be the blinding reflection from the sun's unforgiving rays instead reveals itself to be the radiant energy housed within the crystals themselves. So bright, so resplendent are they, that Eidos cannot help but avert her tear-filled eyes from them. This lattice appears to be of great importance as it is both isolated from all other areas and boasts a contingent of nearly thirty guards around the perimeter.*
+		(A#...){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.001!DESCRIPTION!}
+	[KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!/]
+
+	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.001!DESCRIPTION!]
+		||
+		*A great number of turquoise-robed people mill about the place, ordering others about with grand gestures and stern faces. Those commanded wear heavy work aprons with turquoise bands tied around their upper arms. Mindlessly they obey all orders, moving with a practiced efficiency well beyond the ordinary. Perfectly tuned, well-oiled cogs, they each perform their part flawlessly, giving life to the machinery of Dazir.*
+		(A#...){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!0.002!DESCRIPTION!}
+	[KABU!DAZIR!WORKSHOP EXTERIOR!0.001!DESCRIPTION!/]
+
+	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.002!DESCRIPTION!]
+		||
+		*At the eastern edge of the junkyard, is a banister overlooking the Jenowin Plain. Several of the aproned workers appear to linger there, taking a rest from their back-breaking labor.
 		
-		*At the eastern edge of the junkyard, is a banister overlooking the Jenowin Plain. Several of the aproned workers appear to be here taking a rest from their back-breaking labor. Further north into town is a large plaza, speckled with thick, stone columns jutting out from the floor like the quills of a giant, rocky porcupine. At the center of the plaza is a decadent fountain of massive proportions, towering over the tops of the columns, reaching nearly to the topmost tier of the township.*
+		Further north into town is a large plaza, speckled with thick, stone columns jutting out from the floor like the quills of a giant, rocky porcupine. At the center of the plaza is a decadent fountain of massive proportions, towering over the tops of the columns, reaching nearly to the topmost tier of the township.*
 		(A#Enter the Workshop){A:0,KABU!DAZIR!WORKSHOP!0.000!DESCRIPTION!}
 		(B#Explore the Artisans' Plaza){B:0,KABU!DAZIR!ARTISANS' PLAZA!0.000!DESCRIPTION!}
 		(C#Approach people to talk){C:0,KABU!DAZIR!WORKSHOP EXTERIOR!1.X000!DESCRIPTION!}
-	[KABU!DAZIR!WORKSHOP EXTERIOR!0.000!DESCRIPTION!/]
-	
+	[KABU!DAZIR!WORKSHOP EXTERIOR!0.002!DESCRIPTION!/]
+
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!1.X000!DESCRIPTION!]
 		|@:KABU!DAZIR!WORKSHOP EXTERIOR!1.001!DESCRIPTION!|
-		*At Eidos' approach, only one of worker looks receptive to conversation, as all others continue their absent gaze out into the nothingness of the desert.*
+		*At Eidos' approach, the only worker who looks receptive to conversation, as all others continue their absent gaze out into the nothingness of the desert.*
 		(A#Speak to the smirking man with a dusty apron){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!9999.X0053!DESCRIPTION!}
 		(B#Explore the Artisans' Plaza){B:0,KABU!DAZIR!ARTISANS' PLAZA!0.000!DESCRIPTION!}
 		(C#Enter the Workshop){C:0,KABU!DAZIR!WORKSHOP!0.000!DESCRIPTION!}

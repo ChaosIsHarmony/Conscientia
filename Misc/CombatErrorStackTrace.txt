@@ -1,0 +1,21 @@
+java.lang.StringIndexOutOfBoundsException: 
+ 
+  at java.lang.String.substring (String.java:1926)
+ 
+  at com.ec.conscientia.filerw.Reader.getCombatDescription (Reader.java:832)
+ 
+  at com.ec.conscientia.entities.CombatMenu.satisfiesWinCondition (CombatMenu.java:865)
+ 
+  at com.ec.conscientia.entities.CombatMenu.update (CombatMenu.java:833)
+ 
+  at com.ec.conscientia.screens.MainGameScreen.render (MainGameScreen.java:364)
+ 
+  at com.badlogic.gdx.Game.render (Game.java:46)
+ 
+  at com.ec.conscientia.Conscientia.render (Conscientia.java:64)
+ 
+  at com.badlogic.gdx.backends.android.AndroidGraphics.onDrawFrame (AndroidGraphics.java:495)
+ 
+  at android.opengl.GLSurfaceView$GLThread.guardedRun (GLSurfaceView.java:1582)
+ 
+  at android.opengl.GLSurfaceView$GLThread.run (GLSurfaceView.java:1267)

@@ -247,8 +247,8 @@ public class CombatMenu {
 						case "KABU!DAZIR!MAGE'S ABODE!":
 							combatEndAddress = "KABU!DAZIR!MAGE'S ABODE!999.X000!DESCRIPTION!";
 							break;
-						case "KABU!DAZIR!SLUMS!":
-							combatEndAddress = "KABU!DAZIR!SLUMS!999.X000!DESCRIPTION!";
+						case "KABU!DAZIR!THE SHADES!":
+							combatEndAddress = "KABU!DAZIR!THE SHADES!999.X000!DESCRIPTION!";
 							break;
 						case "KABU!DAZIR!TEMPLE OF BIRACUL!":
 							combatEndAddress = "KABU!DAZIR!TEMPLE OF BIRACUL!999.X000!DESCRIPTION!";
@@ -352,8 +352,8 @@ public class CombatMenu {
 						case "KABU!DAZIR!MAGE'S ABODE!":
 							combatEndAddress = "KABU!DAZIR!MAGE'S ABODE!0099.000!DESCRIPTION!";
 							break;
-						case "KABU!DAZIR!SLUMS!":
-							combatEndAddress = "KABU!DAZIR!SLUMS!0099.000!DESCRIPTION!";
+						case "KABU!DAZIR!THE SHADES!":
+							combatEndAddress = "KABU!DAZIR!THE SHADES!0099.000!DESCRIPTION!";
 							break;
 						case "KABU!DAZIR!TEMPLE OF BIRACUL!":
 							combatEndAddress = "KABU!DAZIR!TEMPLE OF BIRACUL!0099.000!DESCRIPTION!";
