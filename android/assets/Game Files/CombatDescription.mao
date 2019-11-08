@@ -28,39 +28,43 @@ khaa
 	She can do nothing as Khaa casually summons forth an immolating Glyph. Beads of sweat form upon her brow and her temperature steadily rises, rises, soars. Suddenly, she feels all the organs in her body simultaneously ignite turning her into a human torch while her ghost is burned out of her.@
 [3/]
 
-famlicus
-[/6]
-	*--You consume him--*
+babel
+[/11]
+	*2:
+	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
+
+	Yet what seems too good to be true, often is. For the youthful Babel is not without his defenses.
+
+	Seemingly separating into dozens of different identical Falsefleshes, Babel confuses the blade of Vanargand momentarily. Is this a trick of the mind? To Ormenos' knowledge physical replication was an art forbidden by the Vanquished, but embraced by the Thiuda. However, it has been lost for centuries and not even at its acme was it ever capable of reproducing complex objects, let alone humans.
+
+	As Ormenos ponders this senseless trivia, Luin has already begun to attack the mage's scapegoats. Yet, what ultimately happens is unclear, for all Ormenos remembers before the world fades from existence is a single word.
+
+	"Dream."2*
+	*3:
+	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
+
+	Yet what seems too good to be true, often is. For the youthful Babel is not without his defenses.
+
+	Seemingly separating into dozens of different identical Falsefleshes, Babel confuses the blade of Vanargand momentarily. Is this a trick of the mind? To Ormenos' knowledge physical replication was an art forbidden by the Vanquished, but embraced by the Thiuda. However, it has been lost for centuries and not even at its acme was it ever capable of reproducing complex objects, let alone humans.
+
+	As Ormenos ponders this senseless trivia, Luin has already begun to attack the mage's scapegoats. Yet, what ultimately happens is unclear, for all Ormenos remembers before the world fades from existence is a single word.
+
+	"Dream."3*
+	*14:
+	Images of warping and putrefaction come to Ormenos' mind as of instinct. He visualizes the rotting innards of his current foe, attempting to manifest his desires beyond the jurisdiction of the Graylands.
+
+	And the mage standing before him, collapses into a writhing pile of grayish fluid. It screams in agony, whipping to and fro; then it laughs maniacally, only to start bubbling.
+
+	Yet, what ultimately happens is unclear, for all Ormenos remembers before the world fades from existence is a single word.
+
+	"Dream."14*
 	@
-	Eidos attempts to strike Famlicus, yet finds herself swinging at air. It's as though he were never there to begin with. She attacks once more only to repeat her initial frustration. 
-	
-	Mounting confusion, consuming desperation, dizzying perception. She spirals into a frenzied flurry, only to regain consciousness of her actions as she is battering her own head against the ground. 
-	
-	All Eidos sees before succumbing to her own violent attacks is the crimson-cloaked back of her foe as he calmly walks away from the scene of carnage.@
-[6/]
+	With nothing but rage as his weapon, Ormenos flings himself at Babel in a vain attempt to end the young mage. To his chagrin, it is only his own end which he elicits.
 
-mortis
-[/7]
-	*--You consume her--*
-	@She kills you@
-[7/]
+	Ormenos swings wildly at the illusory form of Babel only to find himself falling right through the projection. Yet, what ultimately happens is unclear, for all Ormenos remembers before the world fades from existence is a single word.
 
-conquistis-guernicus
-[/9]
-	*--You consume them--*
-	@They kill you@
-[9/]
-
-nargund
-[/10]
-	*--You consume him--*
-	@
-	Eidos throws all she has at Nargund, but to no avail. Nargund, unmoving, is unscathed. 
-	
-	Only then does Eidos realize she herself has not moved. Frozen in time, Nargund walks over to her and begins trimming her as though she were a bush or tree from the garden. Only to realize she in fact has grown roots and slowly her legs turn to wood. 
-	
-	Before the moment of exodus from her Falseflesh, she sprouts leaves and bears flowers of unparalleled beauty.@
-[10/]
+	"Dream."@
+[11/]
 
 adarin
 [/12]
@@ -1500,44 +1504,6 @@ ark
 
 
 BOOK OF TORMA
-babel
-[/11]
-	*2:
-	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This legendary blade was said to cut through even black crystals, the hardest known structures to the Vanquished. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
-	
-	Yet what seems too good to be true, often is. For the youthful Babel is not without his defenses.
-	
-	Seemingly separating into dozens of different identical Falsefleshes, Babel confuses the blade of Vanargand momentarily. Is this a trick of the mind? To Ormenos' knowledge physical replication was an art forbidden by the Vanquished, but embraced by the Thiuda. However, it has been lost for centuries and not even at its acme was it ever capable of reproducing complex objects, let alone humans.
-	
-	As Ormenos ponders this senseless trivia, Luin has already begun to attack the mage's scapegoats. Yet, what ultimately happens is unclear, for all Ormenos remembers before the world fades from existence is a single word.
-	
-	"Dream."2*
-	*3:
-	As if in a dream, Ormenos summons from the Graylands the ghelblade Luin. When he acquired such offensive power was beyond his reckoning; that he had, though, brought great peace to his mind. This entity now envelops Ormenos' Falseflesh, protecting him from all external blows. And, best of all, it moves of its own bloodlust, seeking to end the threat Ormenos now faces.
-	
-	Yet what seems too good to be true, often is. For the youthful Babel is not without his defenses.
-	
-	Seemingly separating into dozens of different identical Falsefleshes, Babel confuses the blade of Vanargand momentarily. Is this a trick of the mind? To Ormenos' knowledge physical replication was an art forbidden by the Vanquished, but embraced by the Thiuda. However, it has been lost for centuries and not even at its acme was it ever capable of reproducing complex objects, let alone humans.
-	
-	As Ormenos ponders this senseless trivia, Luin has already begun to attack the mage's scapegoats. Yet, what ultimately happens is unclear, for all Ormenos remembers before the world fades from existence is a single word.
-	
-	"Dream."3*
-	*14:
-	Images of warping and putrefaction come to Ormenos' mind as of instinct. He visualizes the rotting innards of his current foe, attempting to manifest his desires beyond the jurisdiction of the Graylands. 
-	
-	And the mage standing before him, collapses into a writhing pile of grayish fluid. It screams in agony, whipping to and fro; then it laughs maniacally, only to start bubbling.
-	
-	Yet, what ultimately happens is unclear, for all Ormenos remembers before the world fades from existence is a single word.
-	
-	"Dream."14*
-	@
-	With nothing but rage as his weapon, Ormenos flings himself at Babel in a vain attempt to end the young mage. To his chagrin, it is only his own end which he elicits.
-	
-	Ormenos swings wildly at the illusory form of Babel only to find himself falling right through the projection. Yet, what ultimately happens is unclear, for all Ormenos remembers before the world fades from existence is a single word.
-	
-	"Dream."@
-[11/]
-
 beast lord
 [/1200]
 	*2:

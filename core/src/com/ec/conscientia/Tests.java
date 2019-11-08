@@ -6,6 +6,7 @@ import java.util.HashMap;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.files.FileHandle;
 import com.ec.conscientia.dialogue.DialogueFileReaderWriter;
+import com.ec.conscientia.entities.Enemy;
 import com.ec.conscientia.entities.NPC;
 import com.ec.conscientia.filerw.FileIOManager;
 import com.ec.conscientia.screens.MainGameScreen;
@@ -57,8 +58,8 @@ public class Tests {
         FileHandle file;
 
         // populates list of files to check
-//        for (String str : fileNamesBoE)
-//            filesToCheck.add(str);
+        for (String str : fileNamesBoE)
+            filesToCheck.add(str);
         for (String str : fileNamesBoT)
             filesToCheck.add(str);
         // for (String str : fileNamesBoTh)
@@ -847,10 +848,12 @@ public class Tests {
         // try instantiating all npcs from the file
         for (int i : npcs) {
             try {
+                System.out.println("ID: " + i);
                 NPC noob = new NPC(i);
-            } catch (Exception e) {
-                System.out.println(i);
-            }
+                System.out.println(noob.getName() + " Instantiated");
+                checkCombat(noob);
+                System.out.println("Combat Tested");
+            } catch (Exception e) { }
         }
 
         // check to make sure all NPCs listed in the NPCListByLocation file exist
@@ -878,9 +881,12 @@ public class Tests {
         for (int i : nums) {
             try {
                 NPC noob = new NPC(i);
-            } catch (Exception e) {
-                System.out.println(i);
-            }
+            } catch (Exception e) { System.out.println("NPCListByLocation failure: " + i); }
         }
+    }
+
+    private void checkCombat(NPC npc) {
+        for (int i : npc.getCombatAbilities())
+            fileRW.reader.getCombatDescription(npc.getIDnum(), false, i);
     }
 }

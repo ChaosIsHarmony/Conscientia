@@ -20,8 +20,8 @@ android {
         applicationId "com.ec.conscientia"
         minSdkVersion 9
         targetSdkVersion 28
-        versionCode 77
-        versionName "3.4"
+        versionCode 78
+        versionName "3.4.1"
     }
     buildTypes {
         release {
