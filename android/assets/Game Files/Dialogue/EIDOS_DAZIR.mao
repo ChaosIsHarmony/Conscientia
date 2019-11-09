@@ -4325,7 +4325,7 @@ SERPIL
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.100!SERPIL!]
 		||
-		*"Our function is, or rather, was, to maintain the Wellspring and the aqueducts that supplied all of the townships with water."*
+		*"Our function is - or rather, was - to maintain the Wellspring and the aqueducts that supplied all of the townships with water."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.1000!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.100!SERPIL!/]
 	
@@ -4445,7 +4445,7 @@ SERPIL
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.1010!SERPIL!]
 		||
-		*"Sadly, it's all scattered about in the six directions - and closely guarded to boot."*
+		*"Sadly, it's all scattered about in the six directions - and jealously guarded at that."*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.1011!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.1010!SERPIL!/]
 	
@@ -4457,7 +4457,7 @@ SERPIL
 	
 	[/KABU!DAZIR!ARTISANS' PLAZA!0.1012!SERPIL!]
 		||
-		*"If only we could freely cross the Wasteland, oh the characters would meet! Magi in Jer, Zemes, Zhili or even Thiuda!"*
+		*"Oh, if only we could freely cross the Wasteland! Like a modern-day Torma! Oh, the characters we'd meet! Magi in Jer, Zemes, Zhili or even Thiuda!"*
 		(A#"..."){A:0,KABU!DAZIR!ARTISANS' PLAZA!0.X1013!SERPIL!}
 	[KABU!DAZIR!ARTISANS' PLAZA!0.1012!SERPIL!/]
 	
@@ -9224,7 +9224,7 @@ BEHIYE
 	
 	[/KABU!DAZIR!WORKSHOP!0.X3010!BEHIYE!]
 		|@:KABU!DAZIR!WORKSHOP!1.000!BEHIYE!|
-		*"For crystals lose all power out there - though none know why... Yes, not even Techne can work beyond the Dawn Fortress, they say, and any further in humans lose the light of their very own mind-crystals..! Hmm..."*
+		*"For crystals hold no power out there... Yes, not even Techne can work beyond the Dawn Fortress, they say, and venture any further in and humans lose the light of their very own mind-crystals..! Hmm..."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP!9999.X9999!BEHIYE!}
 	[KABU!DAZIR!WORKSHOP!0.X3010!BEHIYE!/]
 	
