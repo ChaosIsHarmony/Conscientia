@@ -90,7 +90,9 @@ GARDEN
 >>>Talked to Vanargand once (18999)<<<
 	[/MIND!NETHER EDGE!GARDEN!0.X0000!DESCRIPTION!]
 		|^18999:MIND!NETHER EDGE!GARDEN!1.X000!DESCRIPTION!|
-		*Unspeakable pain courses through Eidos' Self. Falseflesh melts away in the blue-hot fire of Awareness, and her Self is consumed in an ever-mounting sensation of unrelenting agony. As her entire Self becomes devoured in the flames, she loses all sense of individuality, all agency. Yet, this pain recedes as form and definition are lost, disappearing finally when all senses are lost.*
+		*Unspeakable pain courses through Eidos' Self. Her Falseflesh melts away in the blue-hot fire of Awareness, and her Self is thus consumed by an ever-mounting sensation of unrelenting agony. As her entire Self becomes devoured in the flames, she loses all sense of individuality, all agency.
+		
+		Yet, even this pain, intense and eternal as it may seem, soon recedes as form and definition are lost, disappearing completely when all senses are finally lost.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0001!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.X0000!DESCRIPTION!/]
 
@@ -98,16 +100,16 @@ GARDEN
 		||
 		*In the span of a thought or perhaps an eon, Eidos regains awareness of Self and surroundings. The subtle sound of water. A rush of vibrant colors. A perfume befitting nature.
 		
-		Standing atop a Farcaster seal, Eidos' Self is now amidst a forest clearing. Eyes see the glade is carpeted in lush, emerald grasses, nearly knee-high, but with an uncanny uniformity. A flowing stream wends its way among the gently swaying trees - invisible to sight, but the ears reveal as much. The earthy smells of soil, leaves and flowers drift through the air, a musky sweetness the result.
+		Standing atop a Farcaster seal, Eidos' Self is now amidst a forest clearing. Eyes see the glade is carpeted in lush, emerald grasses, nearly knee-high, but with an uncanny uniformity. A flowing stream wends its way among the gently swaying trees - invisible to sight, but the ears surmise its existence. The earthy smells of soil, leaves, and flowers drift through the air, a musky sweetness the result.
 		
-		But nature's design it is not, for it is all too perfect. Casting awareness skyward, eyes see a radiant crystal showering the surroundings with unnatural light, too pure, too distilled. The trees they bathe have subtle patterns, too regular to be chance.*
+		But nature's design it is not, for it is all too perfect. Casting awareness skyward, eyes see a radiant crystal showering the surroundings with unnatural light, too pure, too distilled. The trees they bathe have subtly repeating patterns, too regular to be chance.*
 		(A#Enter the false wilderness){A:0,MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!}
 		(B#Use the Farcaster){B:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0001!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!]
 		||
-		*Walking from the seal, looking all about, her Self takes in the details of the surroundings. Outside of this clearing trees grow wildly. Diminutive saplings are dwarfed and choked by old greatwoods. Trees felled by age lie rotting on the forest floor, giving rise to mushrooms, vines and crawling life. As her Self peers into the deeper parts of the wood, carpets of moss and leaves vanish into the encroaching darkness of the forest canopy.*
+		*Walking from the seal, looking all about, her Self takes in the details of the surroundings. Outside of this clearing, trees grow wildly. Diminutive saplings are dwarfed and choked by old greatwoods. Trees felled by age lie rotting on the forest floor, giving rise to mushrooms, vines and crawling life. As her Self peers into the deeper parts of the wood, carpets of moss and leaves vanish into the encroaching darkness of the forest canopy.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!/]
 
@@ -121,13 +123,13 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!]
 		||
-		*Her Self, in pursuing the sound's source, comes upon an elderly man tending to a cluster of bushes and shrubs. His tools bring forth unusual changes in the plants. Cutting a limb from one location, makes another grow elsewhere to replace it. Tying collections of twigs together results in fused branches, with flowers rapidly blossoming from their tips. Pruned branches are sometimes attached to other trunks or to the stems of neighboring growths. Otherwise, they fall to the ground where they rapidly wither, decay and rejoin the soil.*
+		*In pursuing the sound's source, her Self comes upon an elderly man tending to a cluster of bushes and shrubs. His tools bring forth unusual changes in the plants. Cutting a limb from one location, makes another grow elsewhere to replace it. Tying collections of twigs together results in fused branches, with flowers rapidly blossoming from their tips. Pruned branches are sometimes attached to other trunks or to the stems of neighboring growths. Otherwise, they fall to the ground where they rapidly wither, decay, and ultimately rejoin the soil.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.X0005!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!0.X0005!DESCRIPTION!]
 		|@:MIND!NETHER EDGE!GARDEN!0.0010!DESCRIPTION!|
-		*Despite significant alterations to the scenery, none of the plants are left looking artificial, nor as if they had been touched by the hand of man at all.*
+		*Despite significant alterations to the scenery, none of the plants are left looking overtly artificial, nor as if they had been touched by the hand of man at all.*
 		(A#Talk to gardener){A:0,MIND!NETHER EDGE!GARDEN!9999.X0010!DESCRIPTION!}
 		(B#Return to and use the Farcaster){B:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.X0005!DESCRIPTION!/]
@@ -299,7 +301,7 @@ Previously consumed by Fenrir
 
 	[/MIND!NETHER EDGE!GARDEN!00.00011!NARGUND!]
 		||
-		*"You're welcome to come and go through here, though I'll thank you for not disturbing my arrangements."*
+		*"You're welcome to come and go through here, though do avoid disturbing my arrangements."*
 		(A#"Your son doesn't remember me. Do you?"){A:1,MIND!NETHER EDGE!GARDEN!00.100!NARGUND!}
 		(B#"How is it that Fenrir consumed me and yet I still live?"){B:1,MIND!NETHER EDGE!GARDEN!00.200!NARGUND!}
 		(C#"You had me killed."){C:1,MIND!NETHER EDGE!GARDEN!00.300!NARGUND!}
@@ -426,7 +428,7 @@ virgin speech
 
 	[/MIND!NETHER EDGE!GARDEN!0.00011!NARGUND!]
 		||
-		*"You are welcome to come and go through here, though I will thank you for not disturbing my arrangements."*
+		*"You're welcome to come and go through here, though do avoid disturbing my arrangements."*
 		(A#"What are you doing?"){A:1,MIND!NETHER EDGE!GARDEN!0.100!NARGUND!}
 		(B#"What is this place?"){B:1,MIND!NETHER EDGE!GARDEN!0.200!NARGUND!}
 		(C#"I'll keep that in mind."){C:1,MIND!NETHER EDGE!GARDEN!0.300!NARGUND!}
