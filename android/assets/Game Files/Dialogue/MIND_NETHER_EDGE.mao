@@ -90,17 +90,17 @@ GARDEN
 >>>Talked to Vanargand once (18999)<<<
 	[/MIND!NETHER EDGE!GARDEN!0.X0000!DESCRIPTION!]
 		|^18999:MIND!NETHER EDGE!GARDEN!1.X000!DESCRIPTION!|
-		*Unspeakable pain courses through Eidos' Self. Her Falseflesh melts away in the blue-hot fire of Awareness, and her Self is thus consumed by an ever-mounting sensation of unrelenting agony. As her entire Self becomes devoured in the flames, she loses all sense of individuality, all agency.
+		*Unspeakable pain courses through Eidos' Self, her Falseflesh melting away in the blue-hot fire of Awareness. A thousand flakes of skin shoot off like fireworks in the six directions, while uncountable fibers of muscle unravel off into the void. And soon every last piece of her physical being loses cohesion, spreading out into infinity. All sense of individuality, all agency is lost, devoured in the flames.
 		
-		Yet, even this pain, intense and eternal as it may seem, soon recedes as form and definition are lost, disappearing completely when all senses are finally lost.*
+		Yet, even this pain, intense and eternal as it may seem, soon recedes as form and definition are lost, disappearing along with all perception.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0001!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.X0000!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!0.0001!DESCRIPTION!]
 		||
-		*In the span of a thought or perhaps an eon, Eidos regains awareness of Self and surroundings. The subtle sound of water. A rush of vibrant colors. A perfume befitting nature.
+		*In the span of a thought, a timeless eon, Eidos regains awareness of Self and surroundings. The subtle sound of water. A rush of vibrant colors. A perfume befitting nature.
 		
-		Standing atop a Farcaster seal, Eidos' Self is now amidst a forest clearing. Eyes see the glade is carpeted in lush, emerald grasses, nearly knee-high, but with an uncanny uniformity. A flowing stream wends its way among the gently swaying trees - invisible to sight, but the ears surmise its existence. The earthy smells of soil, leaves, and flowers drift through the air, a musky sweetness the result.
+		Standing atop a Farcaster seal, Eidos' Self is now within a forest clearing. Eyes see a glade carpeted in lush, emerald grasses, nearly knee-high, but with an uncanny uniformity. A flowing stream wends its way among the gently swaying trees - invisible to sight, but the ears surmise its existence. The earthy smells of soil, leaves, and flowers drift through the air, a musky sweetness the result.
 		
 		But nature's design it is not, for it is all too perfect. Casting awareness skyward, eyes see a radiant crystal showering the surroundings with unnatural light, too pure, too distilled. The trees they bathe have subtly repeating patterns, too regular to be chance.*
 		(A#Enter the false wilderness){A:0,MIND!NETHER EDGE!GARDEN!0.0002!DESCRIPTION!}
@@ -115,7 +115,7 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!0.0003!DESCRIPTION!]
 		||
-		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a diminutive waterfall not too far off. Dragonflies hover above lilies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
+		*Attention now turns from the trees to the babbling stream meandering through them. The gentle flow empties into a deep pool over a small waterfall not too far off. Dragonflies hover above lilies floating heedlessly at the waterside, while toads croak their atonal chorus on the rocky shore.
 		
 		But soon, another sound enters her Self's awareness: the rhythmic snipping of shears...*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!}
@@ -123,13 +123,13 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!]
 		||
-		*In pursuing the sound's source, her Self comes upon an elderly man tending to a cluster of bushes and shrubs. His tools bring forth unusual changes in the plants. Cutting a limb from one location, makes another grow elsewhere to replace it. Tying collections of twigs together results in fused branches, with flowers rapidly blossoming from their tips. Pruned branches are sometimes attached to other trunks or to the stems of neighboring growths. Otherwise, they fall to the ground where they rapidly wither, decay, and ultimately rejoin the soil.*
+		*In pursuit of the sound's source, her Self comes upon an elderly man tending to a cluster of bushes and shrubs. His tools bring forth unusual changes in the plants. Cutting a limb from one location, makes another grow elsewhere to replace it. Tying collections of twigs together results in fused branches, with flowers rapidly blossoming from their tips. Pruned branches are sometimes attached to other trunks or to the stems of neighboring growths. Otherwise, they fall to the ground where they rapidly wither, decay, and ultimately rejoin the soil.*
 		(A#...){A:0,MIND!NETHER EDGE!GARDEN!0.X0005!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.0004!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!GARDEN!0.X0005!DESCRIPTION!]
 		|@:MIND!NETHER EDGE!GARDEN!0.0010!DESCRIPTION!|
-		*Despite significant alterations to the scenery, none of the plants are left looking overtly artificial, nor as if they had been touched by the hand of man at all.*
+		*Despite the man's significant alterations to the scenery, none of the plants are left looking overtly artificial, nor as if they had been touched by the hand of man at all.*
 		(A#Talk to gardener){A:0,MIND!NETHER EDGE!GARDEN!9999.X0010!DESCRIPTION!}
 		(B#Return to and use the Farcaster){B:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
 	[MIND!NETHER EDGE!GARDEN!0.X0005!DESCRIPTION!/]
@@ -137,7 +137,9 @@ GARDEN
 
 	[/MIND!NETHER EDGE!GARDEN!0.0010!DESCRIPTION!]
 		||
-		*Nargund returns to his work signaling that it is time for his visitor to leave. While walking back toward the Farcaster, the scenery shifts. Any sense of familiarity has vanished in this ever-changing labyrinth of trees and shrubs. Though, surprisingly, the path is evident - indeed, innate - to her Self, remaining fixed in this maelstrom of growth.
+		*Nargund returns to his work signaling that it is time for his visitor to leave.
+		
+		While walking back to the Farcaster, the scenery shifts. Leaves spontaneously exchange places, and entire branches disappear. Even groups of trees vanish to the left and reappear to the right. Any sense of familiarity has vanished in this ever-changing labyrinth of trees and shrubs. Yet, even in spite of these chaotic transformations, the right path is always evident - indeed, innate - to her Self, remaining fixed in this maelstrom of growth.
 		
 		In short order, the Farcaster appears, waiting patiently in its lonely glade.*
 		(A#Return to and use the Farcaster){A:0,MIND!NETHER EDGE!GARDEN!9999.X9000!DESCRIPTION!}
