@@ -1394,17 +1394,19 @@ FARCASTER CHAMBER
 >>>Cage floor exploded (11420)<<<
 	[/KABU!WELLSPRING!FARCASTER CHAMBER!0.X000!DESCRIPTION!]
 		|^11420:KABU!WELLSPRING!FARCASTER CHAMBER!1.000!DESCRIPTION!|
-		*Bones and sinew weave a shell as they are rebuilt from the life-fire of the Nether Edge. When the light dies, Eidos is plunged into the murky shadows of a dimly lit chamber. She is immediately buffeted from all sides by gusts of wind, driving her from the metallic surface of the Farcaster seal. The gale appears to originate from the room's missing wall.
+		*Darkness flees with the advent of light. Pure, concentrated, nary a flicker as it rushes out from the Farcaster seal. The process inverts. Bones and sinew weave a shell, and skin rushes to complete her Falseflesh as Eidos is rebuilt from the life-fire of the Nether Edge. When the reintegration ends and the light dies, the murky shadows return and Eidos is plunged into their dark realm. She is immediately buffeted from all sides by short-lived gusts of wind, driving her from the metallic surface of the Farcaster seal. Her eyes grow accustomed to the chamber’s low light. Four walls shield half an octagonal chamber, the missing ones the source of the recent gales.
 		
-		Moving forward towards the opening and looking down, she sees tiny pinpoints of light, shimmering within the tenebrous surface below. They stare at her like myriad eyes watching her every move. Yet soon the illusion is dispelled, as Eidos notices their unnatural swaying motion, she sees the reflection for what it is. These are the light of the stars mischievously misguiding their observers into a reflecting pool. Canting her head skywards, she confirms her suspicions as she finds a band of sky snaking through the canopy of shadows overhead.*
+		Moving forward towards the opening and looking down, she sees tiny pinpoints of light, shimmering within the tenebrous surface below. They stare at her like the myriad eyes of curious yet shy onlookers hiding behind dark veils. Yet soon the illusion is dispelled. As Eidos notices their unnatural swaying motion, she sees the reflection for what it is. These are the light of the stars mischievously misguiding their observers into a reflecting pool. Canting her head skywards, she confirms her suspicions, finding a band of sky snaking through the canopy of shadows overhead.*
 		(A#...){A:0,KABU!WELLSPRING!FARCASTER CHAMBER!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!FARCASTER CHAMBER!0.X000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!FARCASTER CHAMBER!0.001!DESCRIPTION!]
 		||
-		*Her eyes adapt quickly to the starlight, and the shapes of her surroundings begin to reveal themselves. Eidos stands in a chamber much like the one in which she first awoke. However, the tiles here are cracked and broken all about.
+		*Her eyes adapt quickly to the meager starlight, and the shapes of her surroundings begin to reveal themselves. Eidos stands in a chamber much like the one in which she first awoke. The tiles here may be cracked and broken all about, and the walls may be barren and devoid of all decoration, but the material, and structure are identical to what she witnessed in the Sanctuary.
 		
-		This is not all that has been ruined, however. The chamber itself has been ripped open by some ancient cataclysm. The three walls around her give way to an immense ravine. However, there is a doorway in this chamber, opposite the ravine, leading deeper into the Wellspring.*
+		Staring out beyond the missing walls, Eidos soon sees that this room is not the only victim of entropy’s greed; in fact, the building housing the chamber itself has likewise been ripped open by some ancient cataclysm. An immense ravine cuts through the building like a killing blow from Heaven’s sword.
+		
+		Behind her, a door but ten paces away breaks the continuity of the walls and leads deeper into the Wellspring.*
 		(A#Enter the adjacent room){A:0,KABU!WELLSPRING!THE CAGE!0.X000!DESCRIPTION!}
 		(B#_Use the Sigil of Farcasting_){B:0,MIND!NETHER EDGE!GARDEN!9990.X12007!DESCRIPTION!}
 		(C#Approach the ravine){C:0,KABU!WELLSPRING!RAVINE!0.X000!DESCRIPTION!}
@@ -2724,7 +2726,9 @@ RAVINE
 >>>Received Glyph of Wulfias (10106)<<<
 	[/KABU!WELLSPRING!RAVINE!0.X000!DESCRIPTION!]
 		|^10106:KABU!WELLSPRING!RAVINE!0.010!DESCRIPTION!|
-		*Eidos approaches the edge of the ruined chamber now staring out over the ravine. Her robes are whipped about by a mischievous wind. Her eyes, now fully adjusted to the meager starlight above, spot the reflective surface of another rockface at the far side of this expansive ravine.
+		*Eidos approaches the edge of the ruined chamber now staring out over the ravine. A mischievous wind once more seeks to off-balance the intrepid explorer, but this time Eidos is prepared. She roots herself firmly and only her travel robe is whipped about.
+		
+		Her eyes, now fully adjusted to the lonely starlight above, spot the reflective surface of another rockface at the far side of this expansive ravine. Though too dark to tell for sure, she thinks she spots four more walls on the opposite side.
 		
 		Suddenly, Eidos feels an unfamiliar presence. Engraved into a smooth stone pedestal near her, a Glyph stares up at the starlit sky. However, she does not recognize the symbol - though perhaps at one time she did, it remains difficult to pin down memories of a foreign past.*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.001!DESCRIPTION!}
@@ -2752,7 +2756,9 @@ RAVINE
 	
 	[/KABU!WELLSPRING!RAVINE!0.010!DESCRIPTION!]
 		||
-		*Eidos approaches the edge of the ruined chamber now staring out over the ravine. Her robes are whipped about in a mischievous wind blowing with mounting ferocity.	Her eyes, having now fully adjusted to the meager starlight above, spot another rock face dotted with more rooms at the far side of this expansive ravine. A cable seems to connect this side of the chasm to the other.
+		*Eidos approaches the edge of the ruined chamber now staring out over the ravine. A mischievous wind once more seeks to off-balance the intrepid explorer, but this time Eidos is prepared. She roots herself firmly and only her travel robe is whipped about.
+		
+		Her eyes, now fully adjusted to the lonely starlight above, spot the reflective surface of another rockface at the far side of this expansive ravine. Though too dark to tell for sure, she thinks she spots four more walls on the opposite side.
 		
 		Looking down from the ledge, she observes a bridge spanning the chasm far below her current position, yet high above the star-speckled pool.*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.011!DESCRIPTION!}
@@ -2760,13 +2766,15 @@ RAVINE
 
 	[/KABU!WELLSPRING!RAVINE!0.011!DESCRIPTION!]
 		||
-		*Suddenly, Eidos feels a familiar presence. Engraved into a smooth stone pedestal near her, a Glyph stares up at the starlit sky. The image of a proud yet penitent mage flashes before her eyes. A single tear for Rikharr traces his cheek, falling to the cold metal of his throne. The deep spring beneath these ruins cries in sympathy, thus beginning the endless flow now within the Wellspring. The flame of life soon flares within the ancient edifice as the mage's own flame slowly dwindles, slowly wanes, soon becoming nothing but a thin stream of smoke. Very soon, all turns cold and still, as even the memory of the candle itself fades into oblivion...*
+		*Suddenly, Eidos feels a familiar presence. Engraved into a smooth stone pedestal near her, a Glyph gazes up at the starlit sky. She reaches to touch the pedestal and suddenly all thought becomes consumed in the fire of memory. Staring into the mirror of memory, the reflection of a proud yet penitent mage flashes before her eyes.
+		
+		A single tear for Rikharr traces his cheek, falling to the cold metal of his throne. The deep spring beneath these ruins cries in sympathy, thus beginning the endless flow now within the Wellspring. The flame of life soon flares within the ancient edifice as the mage's own flame slowly dwindles, slowly wanes, soon becoming nothing but a thin stream of smoke. Very soon, all turns cold and still, as even the memory of the candle itself fades into oblivion...*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.012!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.011!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!RAVINE!0.012!DESCRIPTION!]
 		||
-		*Eidos wipes the tears she only now realizes stream down her face. Remembering lives of the past that have yet to come, lives she must live, very much her own yet as foreign and as insubstantial as a dream*
+		*Eidos wipes the tears she only now realizes stream down her face. She remembers lives of the past that have yet to come, lives she must live, very much her own, and yet as foreign and as insubstantial as a dream.*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.013!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.012!DESCRIPTION!/]
 
@@ -2780,7 +2788,7 @@ RAVINE
 
 	[/KABU!WELLSPRING!RAVINE!0.100!DESCRIPTION!]
 		||
-		*The far side of the ravine burns a cold blue as the cloudstone springs to life. Responding to her will, the pedestal pulls a darkened stone from across the crevasse. Within mere minutes, the blue haze of the floating platform reaches the edge of the chamber, ready for Eidos to ride it across.*
+		*The far side of the ravine burns a cold violet as a cloudstone near it springs to life. Responding to her will, the pedestal pulls the glowing stone towards her. Slowly it crawls its way through the emptiness, and soon the violet haze of the floating platform reaches the edge of the chamber, ready for Eidos to ride it across.*
 		(A#Cross the ravine){A:0,KABU!WELLSPRING!RAVINE!0.101!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.100!DESCRIPTION!/]
 
@@ -2798,13 +2806,13 @@ RAVINE
 
 	[/KABU!WELLSPRING!RAVINE!0.103!DESCRIPTION!]
 		||
-		*Gripping the edge and peering over the side, she now sees the truly gargantuan extent of the rift's breadth and depth. So wide an arrow loosed across it would never reach the other side; so deep the arrow would pierce the water head first. The platform's slow pace likewise allows her to get a better view of the night sky above. As she deeply inhales the chill air, it feels as though time slows to a near halt, moments now measured only by the space between her own awestruck breaths.*
+		*Gripping the edge and peering over the side, she now sees the truly gargantuan extent of the rift's breadth and depth. So wide an arrow loosed across it would never reach the other side; so deep the arrow would pierce the water erect. The platform's slow pace likewise allows her to get a better view of the starry sky above. As she deeply inhales the chill night air, it feels as though time slows to a near halt, moments now measured only by the space between her own awestruck breaths.*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!0.104!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.103!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!RAVINE!0.104!DESCRIPTION!]
 		||
-		*But as all must, the moment passes, and Eidos sees that she has safely reached the other side. The landing on this side is much the same as the one she left behind. The entrance to another chamber warmly invites her in, as if an old friend.*
+		*But as all moments must, this moment of tranquility too passes, and Eidos sees that she has safely reached the other side. The landing on this side is much the same as the one she left behind. The entrance to another chamber warmly invites her in, as if an old friend.*
 		(A#Enter the chamber){A:0,KABU!WELLSPRING!SILVER SHRINE!0.000!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.104!DESCRIPTION!/]
 
