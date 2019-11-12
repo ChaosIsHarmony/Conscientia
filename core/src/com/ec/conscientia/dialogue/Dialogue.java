@@ -321,19 +321,24 @@ public class Dialogue {
 
 	// UPDATE METHODS: END //////////
 	public void initiateDialogue(NPC npc, String address) {
-		// initiates fileReaderWriter and sets relevant stats for the area
-		dialogueFileRW.setDialogueFile(address);
-		currentNpc = npc;
-		responses = new Response[6];
-		responsesOrdered = new Response[6];
-		currentAddress = (address.contains("!")) ? address : getCurrentAddress();
-		oldAddress = "";
-		currentNpcDialogue = "\n";
+		try {
+			// initiates fileReaderWriter and sets relevant stats for the area
+			dialogueFileRW.setDialogueFile(address);
+			currentNpc = npc;
+			responses = new Response[6];
+			responsesOrdered = new Response[6];
+			currentAddress = (address.contains("!")) ? address : getCurrentAddress();
+			oldAddress = "";
+			currentNpcDialogue = "\n";
 
-		// this update is necessary, otherwise won't do the appropriate event
-		// checking when going to a .X address after npcSwitching
-		// DO NOT DELETE!
-		update();
+			// this update is necessary, otherwise won't do the appropriate event
+			// checking when going to a .X address after npcSwitching
+			// DO NOT DELETE!
+			update();
+		} catch (Exception NullPointerException) {
+			// there's still a crash due to a NullPointerException happening here that I can't figure out
+			mgScr.loadingUtils.nullError("DIALOGUE_INITIATE: a_" + address + " | gca_" +getCurrentAddress());
+		}
 	}
 
 	public void endDialogue() {
@@ -397,8 +402,14 @@ public class Dialogue {
 			mgScr.getSoundManager().setFadeOut(true);
 			mgScr.setGameState(mgScr.END_GAME);
 		} else
-			// reinitiate dialogue with new address
-			initiateDialogue(currentNpc, currentNpc.getDialogueAddress(mgScr.getCurrentLocation()));
+			try {
+				// reinitiate dialogue with new address
+				initiateDialogue(currentNpc, currentNpc.getDialogueAddress(mgScr.getCurrentLocation()));
+			} catch (Exception NullPointerException) {
+				// there's still a crash due to a NullPointerException happening here that I can't figure out
+				mgScr.loadingUtils.nullError("DIALOGUE_INITIATE: npc_" + currentNpc.getName()
+						+ " | a_" + currentNpc.getDialogueAddress(mgScr.getCurrentLocation()));
+			}
 	}
 
 	// // getters and setters
