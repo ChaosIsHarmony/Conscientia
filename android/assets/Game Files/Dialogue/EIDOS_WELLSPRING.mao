@@ -165,7 +165,9 @@ virgin entrance
 
 	[/KABU!WELLSPRING!THE CAGE!0.001!DESCRIPTION!]
 		||
-		*The threshold transports Eidos into a dimly lit chamber. Sconces embedded in the walls bathe the room in soft, amber light, revealing finely carved support structures, their fluted columns and scrollwork aged by the damp winds silently creeping down the corridor in pursuit of Eidos. The room is dominated by a mechanical device, an open cage - though absent a lock - on a raised platform at the center of the room. Not far from where she stands, Eidos likewise spies a raised font, or stone pedestal of some sort.*
+		*The threshold transports her into a dimly lit chamber. Sconces embedded in the walls bathe the room in soft, amber light, revealing finely carved support structures. The fluted columns and scrollwork adorning the structures have been aged by the persistence of the damp winds, the same ones silently creeping down the corridor in pursuit of Eidos.
+
+		The room is dominated by a mechanical device, an open cage - though absent a lock - on a raised platform at the center of the room. Not far from where she stands, Eidos likewise spies a raised font, or stone pedestal of some sort.*
 		(A#Examine the stone pedestal){A:0,KABU!WELLSPRING!THE CAGE!0.X220!DESCRIPTION!}
 		(B#Approach the cage){B:0,KABU!WELLSPRING!THE CAGE!0.200!DESCRIPTION!}
 		(C#Return to the Farcaster){C:0,KABU!WELLSPRING!FARCASTER CHAMBER!0.X0000!DESCRIPTION!}
@@ -173,13 +175,13 @@ virgin entrance
 
 	[/KABU!WELLSPRING!THE CAGE!0.200!DESCRIPTION!]
 		||
-		*As Eidos approaches the cage, a visual distortion warps the space within the cage. The air shimmers and swirls, coalescing into a pale blue humanoid form. Balled up and floating mid air, it spins, limbs unfolding and eyelids opening. A pair of glowing eyes - as amber as the crystalline light within the room - peek out from beneath a crimson hood.*
+		*As Eidos approaches the cage, a visual distortion warps the space within. The air shimmers and swirls, coalescing into a pale, blue humanoid form. Balled up and floating mid air, it spins, limbs unfolding and eyelids opening, revealing a pair of glowing eyes - as amber as the crystalline light within the room - peeking out from beneath a crimson hood.*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!0.201!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!0.200!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THE CAGE!0.201!DESCRIPTION!]
 		||
-		*The elegant and terrifying form of a nearly naked woman now hovers before Eidos, suspended within the cage as if in water. The tendrils of her long, red hair snake and writhe about her head with uncanny slowness; what once appeared to be a hood atop her head, Eidos now sees as merely an extension of the creature's prehensile hair.*
+		*The elegant and terrifying form of a nearly naked woman now hovers midair, suspended within the cage as if in water. The tendrils of her long, red hair snake and writhe about with uncanny slowness. And what once appeared to be a hood atop her head, Eidos now sees as merely an extension of the creature's prehensile hair.*
 		(A#Examine the stone pedestal){A:0,KABU!WELLSPRING!THE CAGE!0.X220!DESCRIPTION!}
 		(B#Approach the woman){B:0,KABU!WELLSPRING!THE CAGE!0.210!DESCRIPTION!}
 		(C#Return to the Farcaster){C:0,KABU!WELLSPRING!FARCASTER CHAMBER!0.X0000!DESCRIPTION!}
@@ -187,13 +189,13 @@ virgin entrance
 
 	[/KABU!WELLSPRING!THE CAGE!0.210!DESCRIPTION!]
 		||
-		*At the mere thought of approach, the female reacts. The speed of the creature's movement increases. Its eyes glow with a richer, golden incandescence. Motes of light flicker within its pearlescent skin, floating in the creature as it floats in the cage. The ambient light within the room seems to wax as though overpowered and absorbed, the creature's luminescent intensity inversely mirroring it.*
+		*At the mere thought of approach, the female reacts. The speed of the creature's movement increases. Its eyes glow with a richer, golden incandescence. Motes of light flicker within its pearlescent skin, floating in the creature just as it floats in the cage. The ambient light within the room seems to wax as though overpowered and absorbed, the creature's luminescent intensity inversely mirroring it.*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!0.211!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!0.210!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THE CAGE!0.211!DESCRIPTION!]
 		||
-		*Eidos hears a voice, echoing within her mind. Faint and elusive, it more closely resembles the incomplete recollection of a melody than speech. She listens, carefully, seeking the pattern within the melody. She hears no words, only humming and buzzing, waves of emotion both consistent and unchanging.
+		*Eidos hears a voice, echoing within her mind. Faint and elusive, it more closely resembles the incomplete recollection of a melody than speech. She listens, carefully, seeking the pattern within the melody. She hears no words, only humming and buzzing, waves of emotion both consistent and evolving.
 		
 		Parsing the signs and signifiers, Eidos suddenly has a flash of insight: the creature does not speak; it simply emotes; and it appears to eagerly anticipate Eidos' approach...*
 		(A#Examine the stone pedestal){A:0,KABU!WELLSPRING!THE CAGE!0.X220!DESCRIPTION!}
@@ -204,7 +206,7 @@ virgin entrance
 >>>Received Glyph of Wulfias (10106)<<<
 	[/KABU!WELLSPRING!THE CAGE!0.X220!DESCRIPTION!]
 		|^10106:KABU!WELLSPRING!THE CAGE!0.2200!DESCRIPTION!|
-		*Embedded in the center of the pedestal, a shining, glossy crystal radiates soft amber light. At its core, Eidos spots a thin filament, a pulsating spark. She looks deeper; there she sees an image within the flickering spark. A dormant feminine figure, knees curled to her chest, reclines within an invisible barrier; her body is covered only by flowing locks of long, red hair.*
+		*Embedded in the center of the pedestal, a shining, glossy crystal radiates soft amber light. At its core, Eidos spots a thin filament, a pulsating light. She looks deeper; there she sees an image within the flickering spark. A dormant feminine figure, knees curled to her chest, reclines within an invisible barrier; her body is covered only by flowing locks of long, red hair.*
 		(A#Destroy the crystal){A:0,KABU!WELLSPRING!THE CAGE!0.250!DESCRIPTION!}
 		(B#Absorb the crystal){B:0,KABU!WELLSPRING!THE CAGE!9990.X11422!DESCRIPTION!}
 		(C#Return to the Farcaster){C:0,KABU!WELLSPRING!FARCASTER CHAMBER!0.X0000!DESCRIPTION!}
@@ -483,7 +485,7 @@ Absorbed and destroyed crystal
 subdue creature
 	[/KABU!WELLSPRING!THE CAGE!4.000!DESCRIPTION!]
 		||
-		*Eidos closes her eyes and puts her hand to the Sigil of Wulfias, and in so doing, the intellect within the crystal is laid bare. While its intent to protect this location is clear, the guardian's - or rather, the arclight's - thoughts remain unintelligible. The Sigil now activated, Eidos is shrouded in the cloak of Wulfias' identity, thus assuming the mantle of Wellspring Archon. The Arclight obsequiously bows to its master, only to then vanish into the nothing whence it emerged.*
+		*Eidos closes her eyes and puts her hand to the Sigil of Wulfias, and in so doing, the intellect within the crystal is laid bare. While its intent to protect this location is clear, the guardian's - or rather, the arclight's - thoughts remain unintelligible. The Sigil now activated, Eidos is shrouded in the cloak of Wulfias' identity, thus assuming the mantle of Wellspring Archon. The Arclight obsequiously bows to its master, only to then vanish into the void whence it emerged.*
 		(A#Destroy the crystal){A:0,KABU!WELLSPRING!THE CAGE!0.250!DESCRIPTION!}
 		(B#Absorb the crystal){B:0,KABU!WELLSPRING!THE CAGE!9990.X11422!DESCRIPTION!}
 		(C#Examine the cage){C:0,KABU!WELLSPRING!THE CAGE!4.100!DESCRIPTION!}
@@ -491,7 +493,7 @@ subdue creature
 
 	[/KABU!WELLSPRING!THE CAGE!4.100!DESCRIPTION!]
 		||
-		*Eidos can sense the mindshell that manipulates the device. It is a lift for accessing two other levels of the Wellspring - one above and one below.*
+		*Eidos stands within the cage. She can sense the mindshell that manipulates the device. It is a lift for accessing two other levels of the Wellspring - one above and one below.*
 		(A#Raise the cage to the upper level){A:0,KABU!WELLSPRING!THE CAGE!4.101!DESCRIPTION!}
 		(B#Lower it to the lower level){B:0,KABU!WELLSPRING!THE CAGE!4.201!DESCRIPTION!}
 		(C#Return to the Farcaster){C:0,KABU!WELLSPRING!FARCASTER CHAMBER!0.X0000!DESCRIPTION!}
@@ -505,7 +507,7 @@ subdue creature
 
 	[/KABU!WELLSPRING!THE CAGE!4.201!DESCRIPTION!]
 		||
-		*The merest will to descend is answered by the bodiless presence within the crystal, and Eidos is nearly thrown from her feet by the sudden movement of the cage as it begins to sink into the darkness below...*
+		*The merest thought of descent is answered by the bodiless presence within the crystal controlling the cage, and Eidos is nearly thrown from her feet by the sudden movement as it begins to sink into the darkness below...*
 		(A#...){A:0,KABU!WELLSPRING!THE CAGE!9990.X11423!DESCRIPTION!}
 	[KABU!WELLSPRING!THE CAGE!4.201!DESCRIPTION!/]
 
@@ -2676,13 +2678,15 @@ MURAL ROOM
 >>>Seen the mural room (11439)<<<
 	[/KABU!WELLSPRING!MURAL ROOM!0.X000!DESCRIPTION!]
 		|^11439:KABU!WELLSPRING!MURAL ROOM!1.000!DESCRIPTION!|
-		*As the cage travels further up the shaft, the darkness slowly gives way to a dim yet variegated glow. When the contraption is pulled passed the lip of the floor above, Eidos witnesses its source. Innumerable crystalline pieces adorn the walls, each one glowing dimly like an everlasting candle flame. The illumination distracts, however, from the true nature of this rainbow mosaic; for the crystals upon three walls are arranged in what looks to be a collection of smaller images, seeming to relate a series of grand events. While the character and detail of the happenings differs, they appear to have been committed to stone at the same time and by a single artist. The stark contrast of the one wall standing completely barren, naked of glass and light, then seems to suggest that it awaits a history yet to come.*
+		*As the cage travels further up the shaft, the darkness slowly gives way to a dim yet variegated glow. When the contraption is pulled passed the lip of the floor above, Eidos witnesses its source. Innumerable crystalline pieces adorn the walls, each one glowing dimly like an everlasting candle flame.
+		
+		The illumination distracts, however, from the true nature of this rainbow mosaic; for crystals upon three of the four walls are arranged in what looks to be a collection of smaller images, seeming to relate a series of grand events. While the character and detail of the happenings differs, they appear to have been committed to stone at the same time and by a single artist. The stark contrast of the one wall standing completely devoid of glass and light, then seems to suggest that it awaits a history yet to come.*
 		(A#...){A:0,KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!0.X000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!]
 		||
-		*The first wall shows a number of folk standing in worship about a circle of stones at whose center is a massive tree. The branches of this great white oak host leaves of a vibrant emerald green. Looking closely, Eidos sees that this wall is framed in a matching border of twisting, leafy vines. A blue clad figure is depicted in its branches bearing a halo or sun-like object in upraised hands.
+		*The first wall shows a number of folk standing in worship about a circle of stones at whose center is a massive tree. The branches of this great white Muninn host leaves of a vibrant emerald green. Looking closely, Eidos sees that this wall is framed in a matching border of twisting, leafy vines. A blue clad figure sits in its branches, bearing a halo or sun-like object in upraised hands.
 		
 		Another image upon the wall depicts three individuals following a gray-hooded figure into a range of mountains. They are followed by two hulking beasts a story tall and twice as long, skinned in plates of shimmering sapphire.
 		
@@ -2692,29 +2696,35 @@ MURAL ROOM
 
 	[/KABU!WELLSPRING!MURAL ROOM!0.002!DESCRIPTION!]
 		||
-		*The second wall's first image shows a male figure displaying a vibrant emerald spear with many people knelt before him, hands widespread in stances of adoration and awe. The blade of the weapon shines brighter than the skulls and bones littered across the ground.
+		*The second wall's first image shows a proud woman displaying a vibrant emerald spear with many people knelt before her, hands widespread in stances of adoration and awe. The blade of the weapon shines brightly, revealing several skulls and bones littered across the ground.
 		
 		The same individual is shown atop a mountain in battle with one of the hulking, sapphire beasts from the first mural. The result of the combat is clear, with the emerald blade drawing rubies from the beast's defeated husk.
 		
-		In the final vignette, gouts of yellow smoke seem to belch forth from its mouth, striking many bystanders dead while the hero's fate remains ambiguous. However, the leaves of the border look to have withered to a barely luminescent imperial topaz.*
+		In the final vignette, gouts of yellow smoke seem to belch forth from its mouth, striking many bystanders dead while the heroine's fate remains ambiguous. However, the leaves of the border look to have withered to a barely luminescent imperial topaz.*
 		(A#...){A:0,KABU!WELLSPRING!MURAL ROOM!0.003!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!0.002!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!MURAL ROOM!0.003!DESCRIPTION!]
 		||
-		*The third wall depicts a new wielder of the emerald weapon, this one clearly feminine, yet undeniably imposing. She is locked in combat with a monstrous thing, painted as a horrific fusion of human and animal features, with pale diamond skin bathed in onyx flame. It seems that in response to this struggle, the vines that make up the border are being consumed by the dark fire radiating from within the abomination.
+		*The third wall continues the heroine’s saga. She is locked in combat with a monstrous thing, painted as a horrific fusion of human and animal features, with pale diamond skin bathed in onyx flame. It seems that in response to this struggle, the vines that make up the border are being consumed by the dark fire radiating from within the abomination.
 		
-		Wreathed around this scene is a larger conflict between armed warriors and a horde of emaciated horrors, looking more skeletal than human, and illustrated in brutal detail with all the visceral imagery of war. A gold flecked tower is drawn in a state of collapse, while obsidian wolves and crows feast upon the corpses of the dead. It seems as though the female champion and her nemesis descend into a pitch abyss at the bottom of a canyon, just below a leviathanic bridge.
+		Wreathed around this scene is a larger conflict between armed warriors and a horde of emaciated horrors, looking more skeletal than human, and illustrated in brutal detail with all the visceral imagery of war. A gold flecked tower is drawn in a state of collapse, falling into a canyon. Nearby, obsidian wolves and crows feast upon the corpses of the dead. It seems as though the female champion and her nemesis follow the golden tower into a pitch abyss at the bottom of a canyon, just below a leviathanic bridge.
 		
-		However, paradoxically, the final image upon the wall depicts both the hero and the monster still alive. The lower third of the image shows the adversary in a chamber deep beneath the earth, superimposed over a black void, chained and imprisoned. The heroine is drawn with her weapon over her shoulder, walking into a desert that fades into the face of the barren stone wall.*
-		(A#Return to the floor below){A:0,KABU!WELLSPRING!MURAL ROOM!9990.X11439!DESCRIPTION!}
+		However, paradoxically, the final image upon the wall depicts both the heroine and the monster still alive. The lower third of the image shows the adversary in a chamber deep beneath the earth, superimposed over a black void, chained and imprisoned. The heroine is drawn with her weapon over her shoulder, walking into a desert that fades into the face of the barren stone wall.*
+		(A#Return to the floor below){A:0,KABU!WELLSPRING!MURAL ROOM!0.004!DESCRIPTION!}
 		(B#Examine the murals once more){B:0,KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!0.003!DESCRIPTION!/]
+
+	[/KABU!WELLSPRING!MURAL ROOM!0.004!DESCRIPTION!]
+		||
+		*Eidos steps towards the cage, ready to descend to the lower levels.*
+		(A#Descend){A:0,KABU!WELLSPRING!MURAL ROOM!9990.X11439!DESCRIPTION!}
+	[KABU!WELLSPRING!MURAL ROOM!0.004!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!MURAL ROOM!1.000!DESCRIPTION!]
 		||
 		*The chain rattles and the mechanism clangs as it hauls the cage back into the confines of the Mural Room. The dim multicolored light is as it was, flickering across visions of past events.*
-		(A#Return to the floor below){A:0,KABU!WELLSPRING!MURAL ROOM!9990.X11439!DESCRIPTION!}
+		(A#Return to the floor below){A:0,KABU!WELLSPRING!MURAL ROOM!0.004!DESCRIPTION!}
 		(B#Examine the murals){B:0,KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!1.000!DESCRIPTION!/]
 
@@ -2820,7 +2830,7 @@ RAVINE
 back from silver throne
 	[/KABU!WELLSPRING!RAVINE!5.000!DESCRIPTION!]
 		||
-		*Eidos soars across the crevasse, this time fully turning her attention to the sights below. The distance between her and that of the pooled water below is staggering. Were it not for the stars reflected upon its rippling, glassy surface, Eidos would see nothing but an endless void...*
+		*Soon she is soaring across the expanse, but this time fully turning her attention to the sights below. The downward distance between her and that of the pooled water is staggering. Were it not for the stars reflected upon its rippling, glassy surface, Eidos would see nothing but an endless void.*
 		(A#...){A:0,KABU!WELLSPRING!RAVINE!5.001!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!5.000!DESCRIPTION!/]
 
@@ -4534,13 +4544,13 @@ SANCTUM OF GURGADON
 >>>Seen Gurgadon's chamber (11504)<<<
 	[/KABU!WELLSPRING!SANCTUM OF GURGADON!0.X000!DESCRIPTION!]
 		|^11504:KABU!WELLSPRING!SANCTUM OF GURGADON!1.000!DESCRIPTION!|
-		*As Eidos reaches the end of the passage, the sporadic reflections of metallic sheen sparkle at her arrival. She now stands in a chamber built up of a great many walls rising around her in the shape of an irregular orb. Each wall appears to be a five-sided surface, though thick clouds of incense smoke make their exact number difficult to determine. Here too, stars peek through small cracks in the ceiling, but the rays are diffused by the stale incense vapors.*
+		*As Eidos reaches the end of the passage, the sporadic reflections of metallic sheen sparkle at her arrival. She now stands in a chamber built up of a great many walls rising around her in the shape of an irregular orb. Each wall appears to be a five-sided surface, though thick clouds of incense smoke make their exact number difficult to determine. Here too, stars peek through small cracks in the ceiling, but the rays are diffused by the stale smoky vapors.*
 		(A#...){A:0,KABU!WELLSPRING!SANCTUM OF GURGADON!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GURGADON!0.X000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!SANCTUM OF GURGADON!0.001!DESCRIPTION!]
 		||
-		*Searching through the haze, Eidos observes that the smoke is the old exhalation of five braziers in each of the floor's corners, only the slightest hint of red within them to hint at their dying embers. They surround a great mass at the chamber's center, a heap of material indistinct in the gloom. Traced white chalk patterns adorn the floor as in the Silver Shrine whence she came, yet the lack of luminescence renders them dull and lifeless by comparison.*
+		*Searching through the haze, Eidos observes that the smoke arises from the past exhalations of five braziers, one in each of the floor's corners. Only the slightest hint of red abides within them to hint at their dying embers. They surround a great mass at the chamber's center, a heap of material indistinct in the gloom. Traced white chalk patterns adorn the floor, as they did in the Silver Shrine whence she came, yet the relative lack of luminescence renders them dull and lifeless by comparison.*
 		(A#...){A:0,KABU!WELLSPRING!SANCTUM OF GURGADON!0.002!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GURGADON!0.001!DESCRIPTION!/]
 
@@ -4552,7 +4562,7 @@ SANCTUM OF GURGADON
 
 	[/KABU!WELLSPRING!SANCTUM OF GURGADON!0.003!DESCRIPTION!]
 		||
-		*At last, Eidos reaches the center of the room, just as her eyes adjust to the murky haze. What light does shine into this chamber is reflected off the lightly dusted, massive cobalt mound in front of her.*
+		*At last, Eidos reaches the center of the room, just as her eyes adjust to the murky haze. What light does shine into this chamber is reflected off the lightly dusted, massive cobalt mound resting before her.*
 		(A#Examine the mound){A:0,KABU!WELLSPRING!SANCTUM OF GURGADON!9990.X11502!DESCRIPTION!}
 		(B#Leave){B:0,KABU!WELLSPRING!SANCTUM OF GURGADON!9990.X11504!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GURGADON!0.003!DESCRIPTION!/]
@@ -4566,7 +4576,7 @@ SANCTUM OF GURGADON
 
 	[/KABU!WELLSPRING!SANCTUM OF GURGADON!0.101!DESCRIPTION!]
 		||
-		*Eidos begins to circle the body, noticing numerous gashes marring the corpse's metal carapace. While the chamber is too dark to look inside the wounds with any semblance of clarity, it appears that the cobalt plating is not hollow but an armored skin protecting something inorganic within. She walks for minutes until finally coming back around to what must have been its gargantuan head. Here a puncture wound piercing it from jaw to crown leaks a cerulean ichor, still wet to the touch...*		
+		*Composure regained, Eidos begins to circle the body, noticing numerous dimly glowing, green gashes marring the corpse's metal carapace. While the chamber is too dark to look inside the wounds with any semblance of clarity, it appears that the cobalt plating is not hollow but an armored skin protecting something inorganic within. She walks for minutes until finally coming back around to what must have been its gargantuan head. Here a puncture wound piercing it from jaw to crown leaks a cerulean ichor, still wet to the touch...*		
 		(A#...){A:0,KABU!WELLSPRING!SANCTUM OF GURGADON!0.X102!DESCRIPTION!}
 	[KABU!WELLSPRING!SANCTUM OF GURGADON!0.101!DESCRIPTION!/]
 
@@ -4675,13 +4685,13 @@ ______________________________
 SILVER SHRINE
 	[/KABU!WELLSPRING!SILVER SHRINE!0.000!DESCRIPTION!]
 		||
-		*No crystalline lights appear to illuminate this space either. Instead, what aid Eidos' strained eyes do receive bleeds in from gashes in the domed ceiling far above, exposing patches of starlight burned in the midnight sky. While the stars were fireflies in the great abyss of the Ravine, here their power seems magnified. The ambient glow seems to coalesce around a shining silver chair, as though it wore a shroud woven from spiraling flecks of mist and light.*
+		*Light appears to be in short supply. What little aid Eidos' strained eyes do receive bleeds in from large gashes in the domed ceiling far above. However, those exposed patches of starlight burned in the midnight sky rain down enough of their bounty to make out the shapes and sizes of all objects within the chamber. While the stars were myriad fireflies in the great abyss of the Ravine, here their power is blurred, distorted, and yet unified. Their ambient glow seems to coalesce around a shining silver throne, as though it wore a shroud woven from spiraling flecks of mist and light.*
 		(A#...){A:0,KABU!WELLSPRING!SILVER SHRINE!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!SILVER SHRINE!0.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!SILVER SHRINE!0.001!DESCRIPTION!]
 		||
-		*This room is a strange concoction of ruin and ritual, accident and artifice. Her steps emit cracking sounds as though walking on eggshells and it is not difficult to see why; looking down, Eidos notes that the floor was once made of titanic slabs of stone, yet all have been shattered. Cracks spread out like spiderwebs from focused wounds in the ground.
+		*This room is a strange concoction of ruin and ritual, accident and artifice. The floor gently crackles with her every step as though eggshells lined her path. Looking down, Eidos notes that the floor was once made of titanic slabs of stone, each perhaps twice as wide as she is tall and half again as long, yet all are now shattered. Cracks spread out like spiderwebs from focused wounds in the slabs.
 		
 		Gaze again shifting skywards, Eidos observes that the many dark panes of the ceiling mirror the ground in their destruction. Nearly all are marred by countless fractures streaking across their surfaces like sparks frozen in time.*
 		(A#...){A:0,KABU!WELLSPRING!SILVER SHRINE!0.002!DESCRIPTION!}
@@ -4689,7 +4699,7 @@ SILVER SHRINE
 
 	[/KABU!WELLSPRING!SILVER SHRINE!0.002!DESCRIPTION!]
 		||
-		*Yet, the room's utter ruin stands in stark opposition to its centerpiece. The metallic throne abates the encroaching pandemonium, a defiant rock standing amid crashing waves of entropy. It is surrounded by clay vessels of water, eight in number. From these eight points white chalk radiates outward, marking a spiraling pathway through the chamber. The line connects each impact point to the central throne, octagons within squares within circles surrounding each point. Unlit candles have been placed along this path and the smell of incense still lingers in the air.
+		*Yet, the room's utter ruin stands in stark opposition to its centerpiece. The metallic throne abates the encroaching pandemonium, a defiant rock standing amid the crashing waves of entropy. It is surrounded by clay vessels of water, eight in number. From these eight points, white chalk radiates outward, marking a spiraling pathway through the chamber. The line connects each impact point to the central throne, octagons within squares within circles surrounding each point. Unlit candles have been placed along this path and the smell of incense still lingers in the air.
 		
 		The perfection and symmetry given to these tracings battle Nature's tendency toward anarchy, serving as an imposition of order upon chaos, stability upon uncertainty.*
 		(A#...){A:0,KABU!WELLSPRING!SILVER SHRINE!0.003!DESCRIPTION!}
@@ -4705,17 +4715,15 @@ SILVER SHRINE
 
 	[/KABU!WELLSPRING!SILVER SHRINE!0.X100!DESCRIPTION!]
 		|@:KABU!WELLSPRING!SILVER SHRINE!0.200!DESCRIPTION!|
-		*Eidos carefully steps across the cracking surface and over the designs, momentarily darkening the shimmering glow of reflected starlight as though she were a storm cloud blotting out the sun. The silvered throne appears to blur as she draws nearer and clarity eludes her vision despite conquering physical distance. The surface appears to have been melted, as if it had once been exposed to intense heat - perhaps entropy truly does leave none unscathed.
+		*Eidos carefully steps across the cracking surface and over the designs, momentarily darkening the shimmering glow of reflected starlight as though she were a storm cloud blotting out the sun. The silvered throne appears to blur as she draws nearer and clarity eludes her vision despite conquering physical distance. The surface appears to have melted slightly, as if it had once been exposed to intense heat.
 		
-		An irresistible urge to sit upon the chair emerges; without understanding why, she sits. All about her, a lingering whisper echoes, yet she does not feel the vibrations of a physical sound. The whisper crescendos through the power of mechanisms unseen until language emerges.*
+		An irresistible urge to sit upon the chair emerges, and without understanding why, she sits. All about her, a lingering whisper echoes, yet she does not feel the vibrations of a physical sound. The whisper crescendos through the power of mechanisms unseen until language emerges.*
 		(A#...){A:0,KABU!WELLSPRING!SILVER SHRINE!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!SILVER SHRINE!0.X100!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!SILVER SHRINE!0.200!DESCRIPTION!]
 		||
-		*Looking to the left, Eidos sees a metal gate, composed of thousands of interlocking plates like the scales of a forged serpent. It may once have been a mechanical marvel, but it now stands immobile, frozen in time and laying bare its secrets. The semi-circular tunnel beyond it is wide enough to fit fifty men abreast.
-		
-		The other gate is of similar composition. However, this one is sealed shut.*
+		*Looking to the left, Eidos sees a metal gate, composed of thousands of interlocking plates like the scales of a forged serpent. It may once have been a mechanical marvel, but it now stands immobile, frozen in time and laying bare its secrets. The semi-circular tunnel beyond it is wide enough to fit fifty men abreast. Its twin is of similar composition, but unlock its candid brother, this gate is sealed shut.*
 		(A#Enter the open gate){A:0,KABU!WELLSPRING!SILVER SHRINE!0.201!DESCRIPTION!}
 		(B#Go back across the Ravine){B:0,KABU!WELLSPRING!RAVINE!5.000!DESCRIPTION!}
 	[KABU!WELLSPRING!SILVER SHRINE!0.200!DESCRIPTION!/]
@@ -4738,22 +4746,28 @@ SILVER SHRINE
 FATHOM
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!WELLSPRING!SILVER SHRINE!0.X000!FATHOM!]
-		|^12303:KABU!WELLSPRING!SILVER SHRINE!0.000!FATHOM!|
-		*"Nole lanipahoi. Atied Memri geknol noosarki ei dyloy. Hadeirtalav on sasatil. Meiiv nengnosdi tuvahait ej nekotieto nyodi."*
-		(A#"..."){A:0,KABU!WELLSPRING!SILVER SHRINE!9999.X9999!FATHOM!}
-	[KABU!WELLSPRING!SILVER SHRINE!0.X000!FATHOM!/]
-
-	[/KABU!WELLSPRING!SILVER SHRINE!0.000!FATHOM!]
-		||
-		*"Wulfias. As Archon reckoned. The stored memory unreadable is. All strength lost is. Gurgadon the Mover unmade is.. Only Gulganna lives..."*
+		|^12303:KABU!WELLSPRING!SILVER SHRINE!1.000!FATHOM!|
+		*"onWulfiaskuarchonohreckish. onvadohnashleerish. onfuokarrohvanish. onGurgadonugokohnashshonzhaiish.. onGulgannawahidhvashonzhaiish..."*
 		(A#"..."){A:0,KABU!WELLSPRING!SILVER SHRINE!0.001!FATHOM!}
-	[KABU!WELLSPRING!SILVER SHRINE!0.000!FATHOM!/]
+	[KABU!WELLSPRING!SILVER SHRINE!0.X000!FATHOM!/]
 
 	[/KABU!WELLSPRING!SILVER SHRINE!0.001!FATHOM!]
 		||
-		*"Might.. spent... Sleep comes.. Further reckonings... unfathoma..."*
+		*"onkarroh.. vanish... ibdormohsuoh.. ibnashreckish.. sohdormish..."*
 		(A#"..."){A:0,KABU!WELLSPRING!SILVER SHRINE!9999.X9999!FATHOM!}
 	[KABU!WELLSPRING!SILVER SHRINE!0.001!FATHOM!/]
+
+	[/KABU!WELLSPRING!SILVER SHRINE!1.000!FATHOM!]
+		||
+		*"Wulfias. As Archon reckoned. The stored memory unreadable is. All strength lost is. Gurgadon the Mover unmade is.. Only Gulganna lives..."*
+		(A#"..."){A:0,KABU!WELLSPRING!SILVER SHRINE!1.001!FATHOM!}
+	[KABU!WELLSPRING!SILVER SHRINE!1.000!FATHOM!/]
+
+	[/KABU!WELLSPRING!SILVER SHRINE!1.001!FATHOM!]
+		||
+		*"Might.. spent... Sleep comes.. Further reckonings... unfathoma..."*
+		(A#"..."){A:0,KABU!WELLSPRING!SILVER SHRINE!9999.X9999!FATHOM!}
+	[KABU!WELLSPRING!SILVER SHRINE!1.001!FATHOM!/]
 
 
 
