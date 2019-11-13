@@ -1744,7 +1744,9 @@ GATE OF THE HEATHEN
 >>>You open the flood gate (11414)<<<
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!0.X000!DESCRIPTION!]
 		|^11414:KABU!WELLSPRING!GATE OF THE HEATHEN!0.000!DESCRIPTION!|
-		*The fruits of death's labor reach full bloom in this entry and Eidos finds herself looking upon the festering shells of what once were the Wellspring's operators, their desecrated corpses a testament to their failure to escape this cursed place. The chamber had clearly served as the point of entrance and egress from the Wellspring. However, the archway leading out hosts not the empty space of a door, but rather an unmoving, massive and shadowy rock.
+		*Here, the fruits of death's labor reach full bloom. Eidos finds herself looking upon the festering fragments of what once were the Wellspring's operators, their desecrated corpses a testament to their failure to escape this cursed place.
+		
+		This chamber had clearly served as the point of entry and egress from the Wellspring. However, the archway leading out hosts not the empty space of a door, but rather a massive and immobile slab of shadowy rock.
 		
 		Two accessible chambers are visible from here. One is a room filled with tomes, parchments, tables and writing tools. The other is almost certainly a place of worship.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!SCRIPTORIUM!0.X000!DESCRIPTION!}
@@ -1754,7 +1756,9 @@ GATE OF THE HEATHEN
 
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!0.000!DESCRIPTION!]
 		||
-		*The fruits of death's labor reach full bloom in this entry and Eidos finds herself looking upon the festering shells of what once were the Wellspring's operators, their desecrated corpses a testament to their failure to escape this cursed place. This room once more serves as the point of entrance and egress from the Wellspring. The foreboding archway is now unobstructed, revealing the sneaky fingers of the sun as they attempt to choke the life out of the shadows.
+		*Here, the fruits of death's labor reach full bloom. Eidos finds herself looking upon the festering fragments of what once were the Wellspring's operators, their desecrated corpses a testament to their failure to escape this cursed place.
+		
+		The foreboding archway is now unobstructed, revealing the sneaky fingers of the sun as they attempt to choke the life out of the shadows.
 		
 		Two other chambers are visible from here. One is a room filled with tomes, parchments, tables and writing tools. The other is likely a place of worship.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!SCRIPTORIUM!0.X000!DESCRIPTION!}
@@ -1765,7 +1769,7 @@ GATE OF THE HEATHEN
 >>>Killed clockwork crows (11434)<<<
 	[/KABU!WELLSPRING!GATE OF THE HEATHEN!0.X001!DESCRIPTION!]
 		|^11434:KABU!WELLSPRING!GATE OF THE HEATHEN!0.001!DESCRIPTION!|
-		*The dark rock preventing any hope of escape from the Wellspring is wholly unlike the limestone that makes up the environment around her. It seems to be a solid, monolithic chunk of onyx. No abrasions mar its smooth face, yet bloody streaks from the clawing fingers of the desperate make for gory accents upon its shiny surface.
+		*The dark rock preventing any hope of escape from the Wellspring is wholly unlike the limestone that makes up the environment around her. It seems to be a solid, monolithic chunk of onyx. No abrasions mar its smooth face, yet bloody streaks from the clawing fingers of desperate victims make for gory accents upon its shiny surface.
 		
 		Bodies piled in a chaotic heap before the unforgiving barrier look as if the folk were crawling over one another in a hopeless struggle to retreat even as they were torn to pieces by some unknown Wellspring horror that perhaps yet lurks in its depths. Each body is rent with countless lacerations, as if clawed apart by something distinctly inhuman.*
 		(A#Enter the Scriptorium){A:0,KABU!WELLSPRING!SCRIPTORIUM!0.X000!DESCRIPTION!}
@@ -2522,7 +2526,9 @@ LIVING QUARTERS
 >>>Acquired Khaa's excavation tome (11435)<<<
 	[/KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!]
 		|^11435:KABU!WELLSPRING!LIVING QUARTERS!0.100!DESCRIPTION!|
-		*Guided solely by her probing hands and feet, Eidos enters the silent darkness of this new chamber - though the sour stench of rotting meat certainly offers further clues of what to expect. Errant streams of subdued light give the three doors of this room an icy glow. The lack of lighting within the chamber becomes apparent when her eyes grow attuned to the shadows. What the darkness once concealed is a living area in complete chaos. Bedding, chairs, tables, bunks and tomes have been scattered across the floor. Walking becomes difficult as a great number of the bunkbeds themselves have been ripped from the walls and splintered into an impossible puzzle.*
+		*Guided solely by her probing hands and feet, Eidos enters the silent darkness of this new chamber - though the sour stench of rotting meat certainly offers further clues of what to expect.
+		
+		Errant streams of subdued light give the three doors of this room an icy glow. The lack of lighting within the chamber, however, forces her eyes to grow attuned to the shadows. What the darkness once concealed is a living area in complete disarray. Bedding, chairs, tables, bunks and tomes have been scattered across the floor. Walking becomes difficult as a great number of the bunks themselves have been ripped from the walls and splintered into puzzles impossible to reassemble.*
 		(A#...){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!/]
 
@@ -2534,7 +2540,7 @@ LIVING QUARTERS
 
 	[/KABU!WELLSPRING!LIVING QUARTERS!0.002!DESCRIPTION!]
 		||
-		*Eidos quickly reconfirms the room's three exits by their pale blue haze before continuing her exploration - best to know where to run if whatever did this comes back. Beyond corpses and disarray, she sees a surprisingly unperturbed desk. A great many papers and documents lay atop, their paper corpses littering the surface of the desk.*
+		*Eidos quickly reconfirms the room's three exits by their pale blue haze before continuing her exploration - best to know where to run if whatever did this comes back. Among the corpses and chaos, she sees a surprisingly unperturbed desk. A great many papers and documents lay atop, their paper corpses littering the surface of the desk.*
 		(A#Examine the bodies){A:0,KABU!WELLSPRING!LIVING QUARTERS!1.X000!DESCRIPTION!}
 		(B#Leave this room){B:0,KABU!WELLSPRING!LIVING QUARTERS!1.002!DESCRIPTION!}
 		(C#Look through the documents){C:0,KABU!WELLSPRING!LIVING QUARTERS!9990.X11435!DESCRIPTION!}
@@ -2562,7 +2568,7 @@ LIVING QUARTERS
 >>>Acquired Khaa's excavation tome (11435)<<<
 	[/KABU!WELLSPRING!LIVING QUARTERS!1.X000!DESCRIPTION!]
 		|^11435:KABU!WELLSPRING!LIVING QUARTERS!1.001!DESCRIPTION!|
-		*Most folk here don turquoise robes - with post-facto accents of blood. Clean cuts suggest a sharp blade and precise angles indicate a skilled hand. The lacerations are too numerous and too deep to have been caused by a human weapon, looking more as though they were inflicted by some grotesque, shadowy creature. Eidos notices many of the wounds were inflicted upon their backs and sides, as though they were in retreat when cut down.*
+		*Most folk here don robes slashed and crusted with blood. Clean cuts suggest a sharp blade, and precise angles indicate a skilled hand. The lacerations are too numerous and too deep to have been caused by a human weapon, looking more as though they were inflicted by some grotesque, shadowy creature. Eidos notices many of the wounds were inflicted upon their backs and sides, as though they were in retreat when cut down.*
 		(A#Leave this room){A:0,KABU!WELLSPRING!LIVING QUARTERS!1.002!DESCRIPTION!}
 		(B#Look through the documents){B:0,KABU!WELLSPRING!LIVING QUARTERS!9990.X11435!DESCRIPTION!}
 	[KABU!WELLSPRING!LIVING QUARTERS!1.X000!DESCRIPTION!/]
@@ -2583,7 +2589,7 @@ LIVING QUARTERS
 
 	[/KABU!WELLSPRING!LIVING QUARTERS!1.003!DESCRIPTION!]
 		||
-		*Among the documents, Eidos discovers something interesting regarding Khaa's recent excavations. Merely by reading it, she commits it to memory.*
+		*Among the documents, Eidos discovers something interesting regarding Khaa's recent excavations. Merely by looking at it, she commits it to memory.*
 		(A#Examine the bodies){A:0,KABU!WELLSPRING!LIVING QUARTERS!1.X000!DESCRIPTION!}
 		(B#Leave this room){B:0,KABU!WELLSPRING!LIVING QUARTERS!1.002!DESCRIPTION!}
 	[KABU!WELLSPRING!LIVING QUARTERS!1.003!DESCRIPTION!/]
@@ -2822,7 +2828,7 @@ RAVINE
 
 	[/KABU!WELLSPRING!RAVINE!0.104!DESCRIPTION!]
 		||
-		*But as all moments must, this moment of tranquility too passes, and Eidos sees that she has safely reached the other side. The landing on this side is much the same as the one she left behind. The entrance to another chamber warmly invites her in, as if an old friend.*
+		*But as all moments must, this moment of tranquility too passes, and Eidos sees that she has safely reached the other side. The landing on this side is much the same as the one she left behind. The entrance to another chamber warmly invites her in, like an old friend.*
 		(A#Enter the chamber){A:0,KABU!WELLSPRING!SILVER SHRINE!0.000!DESCRIPTION!}
 	[KABU!WELLSPRING!RAVINE!0.104!DESCRIPTION!/]
 
@@ -4785,7 +4791,7 @@ TEMPLE
 
 	[/KABU!WELLSPRING!TEMPLE!0.001!DESCRIPTION!]
 		||
-		*Two chambers lead from here and both are identified by simple wooden placards placed above the door frames. One of them reads "Living Quarters", the other "Gates of the Heathen". Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the air.*
+		*Two chambers lead from here and both are identified by simple wooden placards placed above the door frames. One of them reads 'Living Quarters', the other 'Gates of the Heathen'. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the air.*
 		(A#Walk into the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!502.000!DESCRIPTION!}
 		(B#Enter the Gate area){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.000!DESCRIPTION!}
 		(C#Examine the altar and statues){C:0,KABU!WELLSPRING!TEMPLE!1.X000!DESCRIPTION!}
@@ -4805,14 +4811,14 @@ TEMPLE
 
 	[/KABU!WELLSPRING!TEMPLE!1.001!DESCRIPTION!]
 		||
-		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid - which, given its rank smell, is likely organic and rotting.*
+		*The area seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid, emanating a rather rank odor.*
 		(A#Walk into the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!502.000!DESCRIPTION!}
 		(B#Enter the Gate area){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.000!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!1.001!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!TEMPLE!1.002!DESCRIPTION!]
 		||
-		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid - which, given its rank smell, is likely organic and rotting.*
+		*The area seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid, emanating a rather rank odor.*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!1.0020!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!1.002!DESCRIPTION!/]
 
@@ -4826,7 +4832,7 @@ TEMPLE
 
 	[/KABU!WELLSPRING!TEMPLE!1.003!DESCRIPTION!]
 		||
-		*The environment seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid - which, given its rank smell, is likely organic and rotting.*
+		*The area seems to have seen recent use, as evidenced by the pristine bands of clothing the avian figures don. Closer inspection reveals that the altar bears two wide and shallow bowls of offering. One is filled with water, the other with a dark, reddish-brown liquid, emanating a rather rank odor.*
 		(A#...){A:0,KABU!WELLSPRING!TEMPLE!1.0030!DESCRIPTION!}
 	[KABU!WELLSPRING!TEMPLE!1.003!DESCRIPTION!/]
 
