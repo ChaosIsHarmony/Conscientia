@@ -50,7 +50,7 @@ ______________________________
 BRIDGE
 	[/KABU!WELLSPRING!BRIDGE!0.000!DESCRIPTION!]
 		||
-		*Walking from the corridor, Eidos steps out into a vast fracture in the earth. She stands at the edge of a great ravine. Huge rock formations tower overhead, and beyond them is a star-studded sky. While cold winds blow all about, the dominant sound is that of water coursing across stone.
+		*Walking from the corridor, Eidos steps out into a vast fracture in the earth. Huge rock formations tower overhead, and beyond them is a star-studded sky. While cold winds blow all about, the dominant sound is that of water coursing across stone.
 		
 		Directly across the ravine is another cliff face, some hundred paces away. A massive stone bridge connects the distant sides; built of large and roughly hewn granite stones, it is a thing of no great beauty. However, it seems sturdy and well-maintained, if nothing else.*
 		(A#Traverse the bridge){A:0,KABU!WELLSPRING!BRIDGE!0.X001!DESCRIPTION!}
@@ -118,7 +118,7 @@ from chamber of bones
 Chased by crows
 	[/KABU!WELLSPRING!BRIDGE!502.000!DESCRIPTION!]
 		||
-		*Bolting through the corridor, Eidos emerges into a vast fracture in the earth. She stands at the edge of a great ravine. Huge rock formations tower overhead, and beyond them is a star-studded sky. While cold winds blow all about, the dominant sound is that of water running across stone.*
+		*Bolting through the corridor, Eidos emerges into a vast fracture in the earth. Huge rock formations tower overhead, and beyond them is a star-studded sky. While cold winds blow all about, the dominant sound is that of water running across stone.*
 		(A#...){A:0,KABU!WELLSPRING!BRIDGE!502.001!DESCRIPTION!}
 	[KABU!WELLSPRING!BRIDGE!502.000!DESCRIPTION!/]
 
@@ -533,7 +533,7 @@ CHAMBER OF BONES
 
 	[/KABU!WELLSPRING!CHAMBER OF BONES!0.002!DESCRIPTION!]
 		||
-		*As she walks forward, it becomes clear that this chamber is larger than it at first appeared, further wings extend from all sides; yet only two of these are of any note. The first, directly ahead, is a separate room, illuminated by a different species of light, pale white in color; the other is to the side and is significantly dimmed; all others are obstructed by mounds of excavated rock and the tools that moved them.
+		*As she walks forward, it becomes clear that this chamber is larger than it at first appeared. Further wings extend from all sides; yet only two of these are of any note. The first, directly ahead, is a separate room, illuminated by a different species of light, pale white in color; the other is to the side and is significantly dimmed; all others are obstructed by mounds of excavated rock and the tools that moved them.
 		
 		Peeking into the near lightless wing, the recent excavation adequately explains its dim state; skull-lamps having been displaced and scattered throughout a lengthy tunnel, carved deep into the bedrock. Pickaxes and shovels litter the ground, while some human remains have been rather unceremoniously moved to wooden bins. Turning her attention to the pale room, all she can make out are the outlines of two bulky statues flanking either side of a doorway further into darkness.*
 		(A#Enter the pale room){A:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.000!DESCRIPTION!}
@@ -2692,7 +2692,7 @@ MURAL ROOM
 		|^11439:KABU!WELLSPRING!MURAL ROOM!1.000!DESCRIPTION!|
 		*As the cage travels further up the shaft, the darkness slowly gives way to a dim yet variegated glow. When the contraption is pulled passed the lip of the floor above, Eidos witnesses its source. Innumerable crystalline pieces adorn the walls, each one glowing dimly like an everlasting candle flame.
 		
-		The illumination distracts, however, from the true nature of this rainbow mosaic; for crystals upon three of the four walls are arranged in what looks to be a collection of smaller images, seeming to relate a series of grand events. While the character and detail of the happenings differs, they appear to have been committed to stone at the same time and by a single artist. The stark contrast of the one wall standing completely devoid of glass and light, then seems to suggest that it awaits a history yet to come.*
+		The illumination distracts, however, from the true nature of this rainbow mosaic; crystals upon three of the four walls are arranged in what looks to be a collection of smaller images, seeming to relate a series of grand events. While the character and detail of the happenings differs, they appear to have been committed to stone at the same time and by a single artist. The stark contrast of the one wall standing completely devoid of glass and light seems to await a history yet to come.*
 		(A#...){A:0,KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!0.X000!DESCRIPTION!/]
 
@@ -2708,7 +2708,7 @@ MURAL ROOM
 
 	[/KABU!WELLSPRING!MURAL ROOM!0.002!DESCRIPTION!]
 		||
-		*The second wall's first image shows a proud woman displaying a vibrant emerald spear with many people knelt before her, hands widespread in stances of adoration and awe. The blade of the weapon shines brightly, revealing several skulls and bones littered across the ground.
+		*The second wall's first image shows a proud woman displaying a vibrant emerald spear with many people knelt before her, hands widespread in stances of adoration and awe. The blade of the weapon shines brightly, reflecting off of several skulls and bones littered across the ground.
 		
 		The same individual is shown atop a mountain in battle with one of the hulking, sapphire beasts from the first mural. The result of the combat is clear, with the emerald blade drawing rubies from the beast's defeated husk.
 		
@@ -2718,11 +2718,11 @@ MURAL ROOM
 
 	[/KABU!WELLSPRING!MURAL ROOM!0.003!DESCRIPTION!]
 		||
-		*The third wall continues the heroine’s saga. She is locked in combat with a monstrous thing, painted as a horrific fusion of human and animal features, with pale diamond skin bathed in onyx flame. It seems that in response to this struggle, the vines that make up the border are being consumed by the dark fire radiating from within the abomination.
+		*The third wall continues the heroine’s saga. She is locked in combat with a monstrous thing, painted as a horrific fusion of human and animal features, with pale diamond skin bathed in onyx flame. It seems that in response to this struggle, the vines that make up the border are being consumed by the dark fire radiating from the abomination.
 		
-		Wreathed around this scene is a larger conflict between armed warriors and a horde of emaciated horrors, looking more skeletal than human, and illustrated in brutal detail with all the visceral imagery of war. A gold flecked tower is drawn in a state of collapse, falling into a canyon. Nearby, obsidian wolves and crows feast upon the corpses of the dead. It seems as though the female champion and her nemesis follow the golden tower into a pitch abyss at the bottom of a canyon, just below a leviathanic bridge.
+		Wreathed around this scene is a larger conflict between armed warriors and a horde of emaciated horrors, looking more skeletal than human. Everything is illustrated in brutal detail with all the visceral imagery of war. A gold flecked tower is drawn in a state of collapse, falling into a canyon. Nearby, obsidian wolves and crows feast upon the corpses of the dead. It seems as though the female champion and her nemesis follow the golden tower, all of them falling into a pitch abyss at the bottom of a canyon, just below a leviathanic bridge.
 		
-		However, paradoxically, the final image upon the wall depicts both the heroine and the monster still alive. The lower third of the image shows the adversary in a chamber deep beneath the earth, superimposed over a black void, chained and imprisoned. The heroine is drawn with her weapon over her shoulder, walking into a desert that fades into the face of the barren stone wall.*
+		However, the final image upon the wall depicts both the heroine and the monster still alive. The lower third of the image shows the adversary in a chamber deep beneath the earth, superimposed over a black void, chained and imprisoned. The heroine is shown with her weapon over her shoulder, walking into a desert that fades into the face of the barren stone wall.*
 		(A#Return to the floor below){A:0,KABU!WELLSPRING!MURAL ROOM!0.004!DESCRIPTION!}
 		(B#Examine the murals once more){B:0,KABU!WELLSPRING!MURAL ROOM!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!MURAL ROOM!0.003!DESCRIPTION!/]
@@ -4673,18 +4673,18 @@ SCRIPTORIUM
 
 	[/KABU!WELLSPRING!SCRIPTORIUM!0.000!DESCRIPTION!]
 		||
-		*Eidos enters a room punctuated by broken desks, victims of the recent rubble shower from the spontaneous destruction of the floor above it. Aside from detritus, the place is strewn with tomes, parchment, pens and quills - or at least the remains of such items. This place looks to be dedicated to reading and copying the many volumes that line the shelves along the walls.
+		*Eidos enters a room punctuated by broken desks, victims of the recent rubble shower from the spontaneous destruction of the floor above it. Aside from detritus, the place is strewn with tomes, parchment, pens and quills - or at least the remains of such items. This place looks to be dedicated to reading and copying of the many volumes that line the shelves along the walls.
 		
-		Two chambers lead from here, both identified by simple wooden placards placed above their corresponding door frames. One of them reads 'Living Quarters', the other claiming 'Gates of the Heathen' as its name. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the entire area.*
+		Two chambers lead from here, both identified by simple wooden placards placed above their corresponding door frames. One of them reads 'Living Quarters', the other claiming 'Gate of the Heathen' as its name. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the entire area.*
 		(A#Enter the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
 		(B#Proceed to the Gates){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
 	[KABU!WELLSPRING!SCRIPTORIUM!0.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!SCRIPTORIUM!1.000!DESCRIPTION!]
 		||
-		*Eidos stands in a room filled with tomes, parchment, pens and quills. This place looks to be dedicated to reading and copying the many volumes that line the shelves along the walls.
+		*Eidos stands in a room filled with tomes, parchment, pens and quills. This place looks to be dedicated to reading and copying of the many volumes that line the shelves along the walls.
 		
-		Two chambers lead from here, both identified by simple wooden placards placed above their corresponding door frames. One of them reads 'Living Quarters', the other claiming 'Gates of the Heathen' as its name. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the entire area.*
+		Two chambers lead from here, both identified by simple wooden placards placed above their corresponding door frames. One of them reads 'Living Quarters', the other claiming 'Gate of the Heathen' as its name. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the entire area.*
 		(A#Enter the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
 		(B#Proceed to the Gates){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!0.X000!DESCRIPTION!}
 		(C#Take the lift up one floor){C:0,KABU!WELLSPRING!THE CAGE!4.100!DESCRIPTION!}
@@ -4797,7 +4797,7 @@ TEMPLE
 
 	[/KABU!WELLSPRING!TEMPLE!0.001!DESCRIPTION!]
 		||
-		*Two chambers lead from here and both are identified by simple wooden placards placed above the door frames. One of them reads 'Living Quarters', the other 'Gates of the Heathen'. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the air.*
+		*Two chambers lead from here and both are identified by simple wooden placards placed above the door frames. One of them reads 'Living Quarters', the other 'Gate of the Heathen'. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the air.*
 		(A#Walk into the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!502.000!DESCRIPTION!}
 		(B#Enter the Gate area){B:0,KABU!WELLSPRING!GATE OF THE HEATHEN!502.000!DESCRIPTION!}
 		(C#Examine the altar and statues){C:0,KABU!WELLSPRING!TEMPLE!1.X000!DESCRIPTION!}
