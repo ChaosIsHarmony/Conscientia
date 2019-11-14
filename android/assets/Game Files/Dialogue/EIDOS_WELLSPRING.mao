@@ -4671,7 +4671,7 @@ SCRIPTORIUM
 
 	[/KABU!WELLSPRING!SCRIPTORIUM!0.000!DESCRIPTION!]
 		||
-		*Eidos enters a room punctuated by broken desks, victims of the recent rubble shower from the spontaneous destruction of the floor above it. Aside from detritus, the place is strewn with tomes, parchment, pens and quills - or at least the remains of such items. This place looks to be dedicated to reading and copying of the many volumes that line the shelves along the walls.
+		*Eidos enters a room punctuated by broken desks, victims of the recent rubble shower from the spontaneous destruction of the floor above it. Aside from detritus, the place is strewn with tomes, parchment, pens and quills - or at least the remains of such items. Likely, this place is dedicated to reading and copying the many volumes that line the shelves along the walls.
 		
 		Two chambers lead from here, both identified by simple wooden placards placed above their corresponding door frames. One of them reads 'Living Quarters', the other claiming 'Gate of the Heathen' as its name. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the entire area.*
 		(A#Enter the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
@@ -4680,7 +4680,7 @@ SCRIPTORIUM
 
 	[/KABU!WELLSPRING!SCRIPTORIUM!1.000!DESCRIPTION!]
 		||
-		*Eidos stands in a room filled with tomes, parchment, pens and quills. This place looks to be dedicated to reading and copying of the many volumes that line the shelves along the walls.
+		*Eidos stands in a room filled with tomes, parchment, pens and quills, and is likely dedicated to reading and copying the many volumes that line the shelves along the walls.
 		
 		Two chambers lead from here, both identified by simple wooden placards placed above their corresponding door frames. One of them reads 'Living Quarters', the other claiming 'Gate of the Heathen' as its name. Though the contents of these halls are difficult to determine from this location, a faint smell of rotting meat permeates the entire area.*
 		(A#Enter the Living Quarters){A:0,KABU!WELLSPRING!LIVING QUARTERS!0.X000!DESCRIPTION!}
