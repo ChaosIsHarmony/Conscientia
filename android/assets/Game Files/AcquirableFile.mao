@@ -266,9 +266,9 @@ _________TOMES_________
 	
 	Something must be done to halt the madness of Khaa. While sycophants like Falitan may lick that old vulture's boots, I was right in my suspicion that this excavation will be the end of us all!
 	
-	Even as we desecrated the Chamber of Bones, our success was 'blessed' by the Ruby Jinn. Neverborn creatures bearing the mark of Famlicus were unearthed as we penetrated a path into the underhalls of the Wellspring. 
+	Even as we desecrated the Chamber of Bones, our success was 'blessed' by the Ruby Jinn. Neverborn creatures bearing the mark of Famlicus were unearthed as we dug a path into the underhalls of the Wellspring. 
 	
-	Now I know the smoldering eyes look upon us from the accursed temple. If Khaa ever does sit upon the rumored Throne of the lower levels, I have no doubt that only desolation awaits.
+	Now I know who sees through the smoldering eyes that look upon us from the accursed temple! If Khaa ever does sit upon the rumored Throne of the lower levels, I have no doubt that only desolation awaits.
 	
 	I hope to return home as soon as Khaa's weekly inspection concludes. It will be good to be among my loved ones again. Would that the Shining One have shone His light upon the shadows blinding Khaa, so that I would never have been tasked with this lunacy!
 	
