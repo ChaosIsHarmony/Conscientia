@@ -606,15 +606,13 @@ ________________________________
 CHANTRY OF THE MARTYR
 	[/KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.000!DESCRIPTION!]
 		||
-		*Eidos stands at the threshold of a chamber that at first appearance claims to be some sort of shrine. The room is but a few strides in length, of an unimaginative rectangular dimension and bare but for two marble statues standing on either side of a simply carved rectangular door, opposite the entrance. Simple as simple can be.*
+		*Eidos stands at the threshold of a chamber that at first appearance claims to be some sort of shrine. The room is but a few strides in length, of an unimaginative rectangular dimension, and bare but for two marble statues standing on either side of a simply carved rectangular door, opposite the entrance. Simple as simple can be.*
 		(A#...){A:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.0000!DESCRIPTION!}
 	[KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.0000!DESCRIPTION!]
 		||
-		*Light softly emanates from the statues, as though reflecting the light of a full moon cast from above; yet a glance skyward confirms that the ceiling is solid, and lateral glances show it to be utterly windowless.
-		
-		The two figures stand opposite one another as though peering at their own reflections; within the illusory mirror, identical women dressed for war, each nearly twice as tall as Eidos, lock eyes in front of an unobstructed doorway. Both have a hand resting upon the pommel of their giant swords, while the other is raised toward Eidos, palm facing outwards. They wear expressionless faces, making it impossible to tell if these are gestures of salutation, intimidation, or caution.*
+		*Light softly emanates from the statues, as though reflecting the light of a full moon; yet a glance skyward confirms that the ceiling is solid, and lateral glances show it to be utterly windowless. The two figures stand opposite one another as though peering at their own reflections. Within the illusory mirror, identical women dressed for war, each nearly twice as tall as Eidos, lock eyes in front of an unobstructed doorway. Both have a hand resting upon the pommel of their giant swords, while the other is raised toward Eidos, palm facing outwards. They wear expressionless faces, making it impossible to tell if these are gestures of salutation, intimidation, or caution.*
 		(A#Return to the Chamber of Bones){A:0,KABU!WELLSPRING!CHAMBER OF BONES!1.000!DESCRIPTION!}
 		(B#Approach the statues){B:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.X001!DESCRIPTION!}
 	[KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.0000!DESCRIPTION!/]
@@ -622,7 +620,7 @@ CHANTRY OF THE MARTYR
 >>>Have Hidden Mind (12304)<<<
 	[/KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.X001!DESCRIPTION!]
 		|^12304:KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.001!DESCRIPTION!|
-		*Eidos walks forward, meeting the icy gaze of the statues. Immediately, they begin to wake from their slumber, dropping the cloaks of dust that time has placed upon their shoulders. With the barest whisper of a noise, their outstretched palms lower to grip the hilts of their swords. The warrior figures swiftly - albeit inelegantly - move their sandaled feet towards Eidos, as they raise their massive blades on high.*
+		*Eidos walks forward, meeting the statues' icy gaze. Immediately, they begin to wake from their slumber, dropping the cloaks of dust that time has placed upon their shoulders. With the barest whisper of a noise, their outstretched palms lower to grip the hilts of their swords. The warrior figures swiftly - albeit inelegantly - move their sandaled feet towards Eidos, as they raise their massive blades on high.*
 		(A#Retreat to the Chamber of Bones){A:0,KABU!WELLSPRING!CHAMBER OF BONES!1.000!DESCRIPTION!}
 		(B#Stand and fight){B:0,KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.X002!DESCRIPTION!}
 	[KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.X001!DESCRIPTION!/]
@@ -644,7 +642,7 @@ CHANTRY OF THE MARTYR
 
 	[/KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.002!DESCRIPTION!]
 		||
-		*In a sudden burst of motion, the marble warriors bring their lustrous swords down, converging upon Eidos. The instant before impact, Eidos can feel her skin harden as Luin responds to her mortal danger. The heavy swords send sparks flying as they scrape down her shielded Falseflesh. But the pressure is too great, the force too energetic, and she is sent violently ejected from the room...*
+		*In a sudden burst of motion, the marble warriors bring their lustrous swords down, converging upon Eidos. The instant before impact, Eidos can feel her skin harden as Luin responds to her mortal danger. The heavy swords send sparks flying as they scrape down her shielded Falseflesh. But the pressure is too great, the force too energetic, and she is violently ejected from the room...*
 		(A#...){A:0,KABU!WELLSPRING!CHAMBER OF BONES!1.500!DESCRIPTION!}
 	[KABU!WELLSPRING!CHANTRY OF THE MARTYR!0.002!DESCRIPTION!/]
 	
@@ -1340,32 +1338,32 @@ ________________________________
 EXCAVATION
 	[/KABU!WELLSPRING!EXCAVATION!0.000!DESCRIPTION!]
 		||
-		*Eidos is clearly reticent to enter the cramped site, as the mephitic fumes oozing out from the passage launch a coordinated assault on her lungs and nose. She is forced into an excruciating cycle of gasping and dry heaving. Yet a decision made is an action taken and she crosses the threshold.*
+		*Eidos is clearly reticent to enter the cramped site, as the mephitic fumes oozing out from the passage launch a coordinated assault on her lungs and nose. Soon, she is forced into an excruciating cycle of gasping and dry heaving. Yet, a decision made is an action taken, and thus, she crosses the threshold.*
 		(A#...){A:0,KABU!WELLSPRING!EXCAVATION!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!EXCAVATION!0.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!EXCAVATION!0.001!DESCRIPTION!]
 		||	
-		*She is grateful that the fetid tunnel is at least well illuminated. It seems this vault is indebted to the burial room for the skull-lanterns which keep the shadows at bay. Taken from their resting places, they are now made to rest upon staves driven into loosened rubble piles on the floor.*
+		*She is grateful that the fetid tunnel is at least well illuminated. It seems this vault is indebted to the burial room for the skull-lanterns keeping the shadows at bay. Taken from their resting places, they are now made to rest upon staves driven into loosened rubble piles on the floor.*
 		(A#...){A:0,KABU!WELLSPRING!EXCAVATION!0.002!DESCRIPTION!}
 	[KABU!WELLSPRING!EXCAVATION!0.001!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!EXCAVATION!0.002!DESCRIPTION!]
 		||	
-		*No more than twenty paces in, the tunnel widens into an irregularly shaped chamber, bulging here and narrowing there, but never less than fifty paces wide. Nets line the ceiling to catch larger pieces of rubble before someone's head would have broken their fall. Crates and shelves, scattered tools and oddly even a desk, account for most of the contents of the room, though its other holdings are rather bizarre.
+		*No more than twenty paces in, the tunnel widens into an irregularly shaped chamber, bulging here and narrowing there, but never less than fifty paces wide. Nets line the ceiling to catch larger pieces of rubble before someone's head would have broken their fall. Crates and shelves, scattered tools and oddly even a desk, account for most of the contents of the room, though its other holdings are certainly more interesting.
 		
-		A number of statues have been left in alcoves that combine avian and human features. Not those things again! Other areas hold fragments of darkened glasses, or perhaps crystal, of various shapes and sizes.
+		A number of statues have been left in alcoves that combine avian and human features. Other areas hold fragments of darkened glasses, or perhaps crystal, of various shapes and sizes.
 		
-		The wooden desk in the center of the room appears to have been hauled from elsewhere - no mean feat, given its awkward dimensions and hefty feel. Upon it are parchments newly written, made legible by a skull left nearby, its flameless yet burning eye casting long shadows across the room.*
+		The wooden desk in the center of the room appears to have been hauled from elsewhere - no mean feat, given its awkward dimensions and hefty look. Upon it are parchments newly written, made legible by a skull left nearby, its flameless yet burning eye casting long shadows across the room.*
 		(A#...){A:0,KABU!WELLSPRING!EXCAVATION!0.X003!DESCRIPTION!}
 	[KABU!WELLSPRING!EXCAVATION!0.002!DESCRIPTION!/]
 
 >>>Acquired tome about crows (11433)<<<
 	[/KABU!WELLSPRING!EXCAVATION!0.X003!DESCRIPTION!]
 		|^11433:KABU!WELLSPRING!EXCAVATION!0.003!DESCRIPTION!|
-		*Yet another tunnel exits opposite the one Eidos entered, leading further into the earth. Peering in, she sees that it is simply a crumbling stairwell leading down towards the sound of water. Advancing ten paces or so, the way ahead terminates, broken and ruined, as though the staircase had been simply torn in two. A ways below the broken path appears to be a landing of sorts - the continuation of the staircase. Beside it, a precipitous drop hugs the edge of a tenebrous subterranean lake.
+		*Yet another tunnel exits opposite the one Eidos entered, leading further into the earth. Peering in, she sees that it is simply a crumbling stairwell leading down towards the sound of water. Advancing ten paces or so, the way ahead terminates, broken and ruined, as though the staircase had been simply torn in two. A ways below the broken path appears to be a landing of sorts, and further still, the continuation of the staircase. Beside it, a precipitous drop hugs the edge of a tenebrous subterranean lake.
 		
-		Eidos notices large wooden fragments scattered about on the landing below. They appear to have been ladders at one point, all hastily destroyed. Though jumping down to the landing is more than feasible, if she does, it will likely be impossible to climb back up, the slick, moss-covered rock.*
+		Eidos notices large wooden fragments scattered about on the landing below. They appear to have been ladders at one point, all hastily destroyed. Though jumping down to the landing would prove quite simple, if she does, it will likely be impossible to climb back up, the slick, moss-covered rock.*
 		(A#Enter the Chamber of Bones){A:0,KABU!WELLSPRING!CHAMBER OF BONES!2.000!DESCRIPTION!}
 		(B#Descend the ruined path){B:0,KABU!WELLSPRING!EXCAVATION!9990.X11424!DESCRIPTION!}
 		(C#Read the writings upon the table){C:0,KABU!WELLSPRING!EXCAVATION!9990.X11433!DESCRIPTION!}
@@ -1383,7 +1381,7 @@ EXCAVATION
 
 	[/KABU!WELLSPRING!EXCAVATION!0.100!DESCRIPTION!]
 		||
-		*Eidos finds something among the writing. The guardians of the Wellspring appear to have been catalogued prior to the catastrophe. At a mere glance she commits it to memory.*
+		*Eidos finds something among the writing. A man appears to have been composing a letter before tragedy struck. At a mere glance she commits it to memory.*
 		(A#Enter the Chamber of Bones){A:0,KABU!WELLSPRING!CHAMBER OF BONES!2.000!DESCRIPTION!}
 		(B#Descend the ruined path){B:0,KABU!WELLSPRING!EXCAVATION!9990.X11424!DESCRIPTION!}
 	[KABU!WELLSPRING!EXCAVATION!0.100!DESCRIPTION!/]
