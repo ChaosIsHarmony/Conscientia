@@ -2487,7 +2487,7 @@ trial stuff
 >>>Met Heyar (15005)<<<
 	[/KABU!DAWN FORTRESS!COURTYARD!90.X000!DESCRIPTION!]
 		|^15005:KABU!DAWN FORTRESS!COURTYARD!91.000!DESCRIPTION!|
-		*Eidos awakens. Hands and feet bound, the coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. She is inside a cage in the middle of a dust-covered courtyard with high sandstone walls for as far as the eye can see. Not far from her, a lanky man reclines in one of the corners. 
+		*Eidos awakens. Coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. As far as she can tell, she is now inside a cage in the middle of a dust-covered courtyard with high sandstone walls for as far as the eye can see.
 		
 		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of a great pyre.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!}
@@ -2510,7 +2510,7 @@ trial stuff
 >>>Learned Hidden Mind (12304)<<<
 	[/KABU!DAWN FORTRESS!COURTYARD!92.X000!DESCRIPTION!]
 		|^12304:KABU!DAWN FORTRESS!COURTYARD!92.000!DESCRIPTION!|
-		*A rhythmic pounding abruptly echoes throughout the courtyard. Eidos looks up to see a regimented procession advancing into the courtyard. Led by a cadre of drummers, a line of individuals walks towards a central dais led by the lean, muscular, yet ancient mage, with the stately, young Tacribian Librarian following close in train.
+		*A rhythmic pounding abruptly echoes throughout the courtyard. Eidos looks up to see a regimented procession advancing into the courtyard. Led by a cadre of drummers, a line of individuals walks towards a central dais led by a muscular, yet ancient mage, with a young but stately Librarian following close in train.
 		
 		The guard standing nearby turns and begins unlocking the cage. Before long, several guards reach in and take Eidos to kneel before the dais.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!92.X001!DESCRIPTION!}
@@ -2518,7 +2518,7 @@ trial stuff
 
 	[/KABU!DAWN FORTRESS!COURTYARD!92.000!DESCRIPTION!]
 		||
-		*A rhythmic pounding abruptly echoes throughout the courtyard. Eidos looks up to see a regimented procession advancing into the courtyard. Led by a cadre of drummers, a line of individuals walks towards a central dais led by the lean, muscular, yet ancient mage, with the stately, young Tacribian Librarian following close in train.
+		*A rhythmic pounding abruptly echoes throughout the courtyard. Eidos looks up to see a regimented procession advancing into the courtyard. Led by a cadre of drummers, a line of individuals walks towards a central dais led by a muscular, yet ancient mage, with a young but stately Librarian following close in train.
 		
 		The guard standing nearby turns and begins unlocking the cage. Before long, several guards reach in and take Eidos to kneel before the dais.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!92.X0010!DESCRIPTION!}
@@ -3343,13 +3343,19 @@ HEYAR
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!90.2011!HEYAR!]
 		||
-		*"All hope was lost! Their doom was at hand!!"*
-		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.2012!HEYAR!}
+		*"Naturally many suspected Khaa was behind this treachery..."*
+		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.20110!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.2011!HEYAR!/]
+	
+	[/KABU!DAWN FORTRESS!COURTYARD!90.20110!HEYAR!]
+		||
+		*"But with the Gate of Celestial judgment preventing the Tacribians from mob justice, they were forced to slake their thirst with the meager rations the Tambulans could afford to hand out - instead of with Daziran blood!"*
+		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.2012!HEYAR!}
+	[KABU!DAWN FORTRESS!COURTYARD!90.20110!HEYAR!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!90.2012!HEYAR!]
 		||
-		*"Naturally many suspected Khaa was behind this treachery."*
+		*"All hope was lost! Their doom was at hand!!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.2013!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.2012!HEYAR!/]
 	
@@ -3385,7 +3391,7 @@ HEYAR
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!90.2018!HEYAR!]
 		||
-		*"For you see, they had already given me my daily skin of water and intended to give me no more until the morrow! Ha ha! Splendid!"*
+		*"For you see, they had already given me my daily skin of water, and intended to give me no more until the morrow! Ha ha! Splendid!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X9999!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.2018!HEYAR!/]
 

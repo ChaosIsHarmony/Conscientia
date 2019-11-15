@@ -18,7 +18,11 @@ AQUEDUCT
 knows about mission or has been to dawn fortress
 	[/KABU!WELLSPRING!AQUEDUCT!1.000!DESCRIPTION!]
 		||
-		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day. Squinting against the sun, she looks up at the sky through a pane of carefully polished glass. She surmises she is now atop an aqueduct and likely headed for the parched Dawn Fortress whose water she now delivers personally. After only a few moments, she realizes this structure is clearly not meant for human transport, just as her head collides with the stony sides of the tubes, bringing an unwanted bout of sleep...*
+		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
+		
+		Squinting her eyes against the sun, she looks up at the sky through a pane of carefully polished glass. She quickly surmises she is now atop an aqueduct and is likely headed for the parched Dawn Fortress—whose water she now delivers personally.
+		
+		After only a few moments, she realizes this structure is clearly not meant for human transport, just as her head collides with the stony sides of the tubes, bringing an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!AQUEDUCT!9990.X11417-1!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!1.000!DESCRIPTION!/]
 
@@ -774,13 +778,17 @@ From falling
 From Excavation
 	[/KABU!WELLSPRING!DEEP LAKE!10.000!DESCRIPTION!]
 		||
-		*Eidos leaps down onto the landing, crushing damp vegetation beneath her weight. The innocent flora is not without recourse, however, as moisture within oozes out, propelling Eidos' feet in random directions. The result, of course, is a date with the rocky ground. There she sits, pain crawling up her tender rump, through her spine and showering out across her entire body in intense sparks of agony. Whatever the consequences of her descent, she has the last laugh as she rises, injured but unbroken, triumphant in arriving at her desired destination. She leaves the question as to whether or not it was worth it for later consideration.*
+		*Eidos leaps down onto the landing, crushing the damp vegetation beneath her weight; the innocent flora is not without recourse, however. The destructive pressure wrings all moisture from the plants, propelling Eidos' feet in random directions. The result, of course, is an intimate encounter with the rocky ground.
+		
+		Fallen, she sits, pain crawling up her tender rump through her spine and showering out across her entire body in intense sparks of agony. Whatever the consequences of her descent, she has the last laugh as she rises, injured but unbroken, triumphant in arriving at her desired destination. She leaves the question as to whether or not it was worth it for later consideration.*
 		(A#...){A:0,KABU!WELLSPRING!DEEP LAKE!10.001!DESCRIPTION!}
 	[KABU!WELLSPRING!DEEP LAKE!10.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!DEEP LAKE!10.001!DESCRIPTION!]
 		||
-		*Eidos now stands a story or two above the edge of a great underground lake. Out on the dark water, she hears the sounds of an invisible oar furtively paddling - though the darkness has consumed any vestige of its operator. Straight ahead, a massive dam rises from the lake, barring passage to the water that impatiently laps up against it. Off to the right, a warm amber glow hints at a crystal on one end of the barrier. To the left, a path extends downward, hugging the cliff face as it leads to a great archway near the opposite end of the bridge.*
+		*Eidos then surveys the surroundings. She now stands a story or two above the edge of a great underground lake. Out on the dark water, she hears the sounds of an invisible oar furtively paddling - though the darkness has consumed any visual vestige of its operator.
+		
+		Straight ahead, a massive dam rises from the lake, barring passage to the water that impatiently laps up against it. At the rightmost extreme of the dam, a warm amber glow hints at a crystal. To the left, a path extends downward, hugging the cliff face as it leads to a great archway near the opposite end of the bridge.*
 		(A#Go down the path and through the archway){A:0,KABU!WELLSPRING!THRONE ROOM!9990.X11416!DESCRIPTION!}
 		(F#Go for a refreshing swim?){F:1,KABU!WELLSPRING!DEEP LAKE!10.X002!DESCRIPTION!}
 	[KABU!WELLSPRING!DEEP LAKE!10.001!DESCRIPTION!/]
@@ -1730,13 +1738,15 @@ chased by quangjo
 Damn lowered
 	[/KABU!WELLSPRING!FLOOD GATE!100.000!DESCRIPTION!]
 		||
-		*Eidos emerges near the bottom of a massive canyon or mountain fissure, though it can be seen only dimly by a band of faintly twinkling stars in a distant, forgotten sky. Water violently courses through the opened dam, its bulk no longer repressed by the hands of man. Eidos carefully steps nearer towards the edge to get a better look, but the splashing water has made the path treacherously slippery. She falls for Nature's trap, slipping down and slamming into the baleful rapids.*
+		*Eidos exits through the archway, her path dimly lit by a band of faintly twinkling stars in a distant, forgotten sky. Water now violently courses through the opened dam, its bulk no longer repressed by the schemes of man.
+		
+		Eidos cautiously nears the edge to get a better look, but the splashing water has made the path treacherously slippery. She falls for Nature's trap, slipping down and slamming into the baleful rapids.*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!100.001!DESCRIPTION!}
 	[KABU!WELLSPRING!FLOOD GATE!100.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!FLOOD GATE!100.001!DESCRIPTION!]
 		||
-		*Thus, Nature's ill-placed vengeance on mankind is sated...*
+		*Thus, Nature's vengeance on mankind is sated...*
 		(A#...){A:0,KABU!WELLSPRING!AQUEDUCT!0.X000!DESCRIPTION!}
 	[KABU!WELLSPRING!FLOOD GATE!100.001!DESCRIPTION!/]
 
@@ -4757,7 +4767,7 @@ FATHOM
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!WELLSPRING!SILVER SHRINE!0.X000!FATHOM!]
 		|^12303:KABU!WELLSPRING!SILVER SHRINE!1.000!FATHOM!|
-		*"onWulfiaskuarchonohreckish. onvadohnashleerish. onfuokarrohvanish. onGurgadonugokohnashshonzhaiish.. onGulgannawahidhvashonzhaiish..."*
+		*"...onWulfiaskuArchonohreckish. onvadohnashleerish. onfuokarrohvanish. onGurgadonugokohnashshonzhaiish.. onGulganna.. wahidhvashonzhaiish..."*
 		(A#"..."){A:0,KABU!WELLSPRING!SILVER SHRINE!0.001!FATHOM!}
 	[KABU!WELLSPRING!SILVER SHRINE!0.X000!FATHOM!/]
 
@@ -4769,7 +4779,7 @@ FATHOM
 
 	[/KABU!WELLSPRING!SILVER SHRINE!1.000!FATHOM!]
 		||
-		*"Wulfias. As Archon reckoned. The stored memory unreadable is. All strength lost is. Gurgadon the Mover unmade is.. Only Gulganna lives..."*
+		*"...Wulfias. As Archon reckoned. The stored memory unreadable is. All strength lost is. Gurgadon the Mover unmade is.. Only Gulganna.. lives..."*
 		(A#"..."){A:0,KABU!WELLSPRING!SILVER SHRINE!1.001!FATHOM!}
 	[KABU!WELLSPRING!SILVER SHRINE!1.000!FATHOM!/]
 
@@ -4931,26 +4941,30 @@ THRONE ROOM
 Entrance sans Quangjo
 	[/KABU!WELLSPRING!THRONE ROOM!0.000!DESCRIPTION!]
 		||
-		*Eidos enters a pitch darkness. As she proceeds, the echoes from her footsteps clicking on the tiled floor betray the vast size of this chamber. But soon, shadows are exiled to the realm of memory as countless lights in the floor and ceiling spring to life. The reflective black dome above her head, the walls of dark granite, and intricately carved designs in a lattice of forbidden geometries all reveal themselves to her now light-shocked, teary eyes.*
+		*Eidos enters a pitch darkness. As she proceeds, the echoes from her footsteps clicking on the tiled floor betray the immensity of the chamber. Ten paces in, the shadows are exiled to the realm of memory as countless lights in the floor and ceiling spring to life. The reflective black dome above her, the walls of dark granite, and the intricately carved designs in a lattice of forbidden geometries all reveal themselves to her light-shocked eyes.*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.001!DESCRIPTION!]
 		||
-		*Wiping the tears from her eyes, Eidos tries to take it all in. But she is somewhat overwhelmed by the grandeur of the place. For a moment, she even feels at a loss, as though she could lose her very Self just from being here...*
+		*Wiping the tears from her sensitive eyes, Eidos tries to take it all in. But she is somewhat overwhelmed by the grandeur of the place. For a moment, she even feels at a loss, as though she could lose her very Self just from being here...*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!0.002!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.001!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.002!DESCRIPTION!]
 		||
-		*But before long, the spell is broken and she regains her bearings. Examining the dome, she soon sees large panes of black glass filling in the spaces between the stonework, all trimmed and gilded in a silvery metal. At the opposite end of the chamber, an enormous and robust door blocks passage with its overlapping metallic scales. The dominant feature of the chamber, however, is the high-backed, silver throne that seemingly grows right out of the floor's center.*
+		*But before long, the spell is broken and she regains her bearings. Examining the dome, she focuses on the large panes of black glass filling in the spaces between the stonework, all trimmed and gilded in a silvery metal. They share a strong resemblance to the ones she encountered in the Sanctuary.
+		
+		At the opposite end of the chamber, an enormous and robust door blocks passage with its overlapping metallic scales. The dominant feature of the chamber, however, is the high-backed, silver throne that appears to grow right out of the floor's center.*
 		(A#Sit in the chair){A:0,KABU!WELLSPRING!THRONE ROOM!0.X50!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.002!DESCRIPTION!/]
 
 >>>Received Glyph of Wulfias (10106)<<<
 	[/KABU!WELLSPRING!THRONE ROOM!0.X50!DESCRIPTION!]
 		|^10106:KABU!WELLSPRING!THRONE ROOM!0.500!DESCRIPTION!|
-		*Eidos sits upon the throne. To her right, a small stone column rises from the floor. It is lined and laced with strands of liquid silver.
+		*She approaches the chair. Dragging a finger across the grooves in the armrest, she begins to circle the throne. It has a beauty both flamboyant and austere; just as a silver ingot may shine and sparkle, yet is still simply a hunk of metal, so too does this throne walk the line between simplicity and extravagance.
+		
+		After she completes her round,Eidos sits upon the throne. To her right, a small stone column rises from the floor. It is lined and laced with strands of liquid silver.
 		
 		Then, the emanation of a thought pulses from the contraption. A sense of expectation fills Eidos' mind... An expectation she, unfortunately, cannot fulfill. And as such, she rises from the chair and the stone column recedes.*
 		(A#Exit to Deep Lake){A:0,KABU!WELLSPRING!DEEP LAKE!10.500!DESCRIPTION!}
@@ -4959,13 +4973,15 @@ Entrance sans Quangjo
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.500!DESCRIPTION!]
 		||
-		*Eidos sits in the chair. All about her, the dark glass panels springs to life, showing myriad scattered images, flowing one from the next. The panel directly in front of her shows the body of water she witnessed on her way here.*
+		*She approaches the chair. Dragging a finger across the grooves in the armrest, she begins to circle the throne. It has a beauty both flamboyant and austere; just as a silver ingot may shine and sparkle, yet is still simply a hunk of metal, so too does this throne walk the line between simplicity and extravagance.
+		
+		After she completes her round, Eidos sits in the chair. All about her, the dark glass panels springs to life, showing myriad scattered images, flowing one from the next. However, the panel directly in front of her remains fixed on a single image, frozen in time. This panel shows the body of water she witnessed on her way here.*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!0.X5000!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.500!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5000!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Suddenly, a small stone column rises from the floor to her right. The column is lined and laced with strands of liquid silver.	Then, the emanation of a thought pulses from the contraption. A sense of expectation fills Eidos' mind and a voice rings out...*
+		*Suddenly, a small stone column rises from the floor to her right. The column is lined and laced with strands of liquid silver, gently rippling on the surface. Then, the emanation of a thought pulses out from the contraption. A sense of expectation fills Eidos' mind and a choir of a thousand voices rings out...*
 		(A#Begin){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5000!DESCRIPTION!/]
 
@@ -4989,14 +5005,18 @@ else
 Purify + Auto-Release
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5010!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Displayed upon the brilliant pane, the dam lowers and releases the water. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct. However, soon a different sound sound from above draws her gaze upward. Descending from the ceiling, a cloudstone reveals a passage skyward.*
+		*Displayed upon the brilliant pane, the dam lowers and finally releases the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.
+		
+		However, soon a different sound sound from above draws her gaze upward. Descending from the ceiling, a cloudstone reveals a passage skyward.*
 		(B#Step atop the cloudstone){B:0,KABU!WELLSPRING!THRONE ROOM!0.5040!DESCRIPTION!}
 		(C#Sit and speak to Fathom){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5010!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5020!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Displayed upon the brilliant pane, the dam lowers and releases the water. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct. However, soon a different sound sound from above draws her gaze upward. Descending from the ceiling, a cloudstone reveals a passage skyward.*
+		*Displayed upon the brilliant pane, the dam lowers and finally releases the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.
+		
+		However, soon a different sound sound from above draws her gaze upward. Descending from the ceiling, a cloudstone reveals a passage skyward.*
 		(B#Step atop the cloudstone){B:0,KABU!WELLSPRING!THRONE ROOM!0.5040!DESCRIPTION!}
 		(C#Sit again upon the throne){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5020!DESCRIPTION!/]
@@ -5019,14 +5039,14 @@ Purify + Auto-Release
 Released poison water
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5011!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Displayed upon the brilliant pane, the dam lowers and releases the water. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.*
+		*Displayed upon the brilliant pane, the dam lowers and finally releases the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.*
 		(A#Go to watch the water drain){A:0,KABU!WELLSPRING!FLOOD GATE!90.X000!DESCRIPTION!}
 		(C#Sit and speak to Fathom){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5011!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5021!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Displayed upon the brilliant pane, the dam lowers and releases the water. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.*
+		*Displayed upon the brilliant pane, the dam lowers and finally releases the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.*
 		(B#Go to watch the water drain){B:0,KABU!WELLSPRING!FLOOD GATE!90.X000!DESCRIPTION!}
 		(C#Sit again upon the throne){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5021!DESCRIPTION!/]
@@ -5266,21 +5286,21 @@ Eidos Solo
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!WELLSPRING!THRONE ROOM!0.X0000!FATHOM!]
 		|^12303:KABU!WELLSPRING!THRONE ROOM!1.000!FATHOM!|
-		*"Nole Vadhom. Puhuja Velsprin Memri."*
+		*"onVadhomdheishohWellspringvatohzha. onWulfiaskuArchonohreckish."*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!0.X001!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X0000!FATHOM!/]
 
 >>>Acquire Glyph of Purification (11100)<<<
 	[/KABU!WELLSPRING!THRONE ROOM!0.X001!FATHOM!]
 		|^11100:KABU!WELLSPRING!THRONE ROOM!0.0011!FATHOM!|
-		*"Neded assaan on nutnutlikaa, metvastoit jovat laanpakai lazuojel virtausulo."*
+		*"onmordhohspirishshuiohrrai. onvadohulgrrifbozWulfiasuiCorroeohlaikish. ultomaluishtorra'spirohgulgaish. onfuogulgaohboznashdormish. onitamohtomaluish."*
 		(A#Send forth an unknown command){A:0,KABU!WELLSPRING!THRONE ROOM!9990.X11414-1!FATHOM!}
 		(B#Rise from the throne){B:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X001!FATHOM!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.0011!FATHOM!]
 		||
-		*"Neded assaan on nutnutlikaa, metvastoit jovat laanpakai lazuojel virtausulo. Kyt Glyfen fer stutuspuhdi astpuhdi nasnantarj."*
+		*"onmordhohspirishshuiohrrai. onvadohkaisaulgrrifbozWulfiasuiCorroeohlaikish. ultomaluishtorra'spirohgulgaish. onfuogulgaohboznashdormish. onitamohtomaluish."*
 		(A#Send forth an unknown command){A:0,KABU!WELLSPRING!THRONE ROOM!9990.X11414-1!FATHOM!}
 		(B#Command using the Glyph of Purification){B:0,KABU!WELLSPRING!THRONE ROOM!9990.X11413-1!FATHOM!}
 		(C#Rise from the throne){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
@@ -5288,13 +5308,13 @@ Eidos Solo
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.X101!FATHOM!]
 		|@:KABU!WELLSPRING!THRONE ROOM!4.X000!FATHOM!|
-		*"Metvastato ovat nyt ututperuu."*
+		*"ondheseohArchonvareckish. ibshuiohcorroevafangish."*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X101!FATHOM!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.X102!FATHOM!]
 		|@:KABU!WELLSPRING!THRONE ROOM!4.X000!FATHOM!|
-		*"Metvastato ovat nyt ututperuu. Jasus jsaska."*
+		*"ondheseohArchonvareckish. ibshuiohzhiliaish. ibshuiohnashcorroevafangish."*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X102!FATHOM!/]
 
@@ -5336,7 +5356,7 @@ Eidos Solo
 
 	[/KABU!WELLSPRING!THRONE ROOM!4.X000!FATHOM!]
 		|^11503:KABU!WELLSPRING!THRONE ROOM!4.000!FATHOM!|
-		*"Nole Gulgna. Pavauta tumin minut thralldom."*
+		*"onGulgannawapishporrtohatrras. tashibporrtohdhakaish."*
 		(A#Rise from the throne){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
 		(B#Send forth an unknown command){B:0,KABU!WELLSPRING!THRONE ROOM!9990.X11412-1!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!4.X000!FATHOM!/]
@@ -5357,7 +5377,7 @@ Eidos Solo
 
 	[/KABU!WELLSPRING!THRONE ROOM!4.X100!FATHOM!]
 		|@:KABU!WELLSPRING!THRONE ROOM!5.000!FATHOM!|
-		*"Jetonu se koitarn."*
+		*"ondheseohArchonvareckish. ibporrtohGulgannavadhakaish."*
 		(A#Rise from the throne){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!4.X100!FATHOM!/]
 
@@ -5370,7 +5390,7 @@ Eidos Solo
 
 	[/KABU!WELLSPRING!THRONE ROOM!5.000!FATHOM!]
 		||
-		*"En voi dhaet touj."*
+		*"onnashdheseohArchonvareckish. onkarrohVadhomvanashcapashishrekish."*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!5.000!FATHOM!/]
 
