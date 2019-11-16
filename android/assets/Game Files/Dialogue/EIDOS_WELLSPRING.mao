@@ -11,7 +11,11 @@ AQUEDUCT
 
 	[/KABU!WELLSPRING!AQUEDUCT!0.000!DESCRIPTION!]
 		||
-		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day. Squinting against the sun, she looks up at the sky through a pane of carefully polished glass. She determines she is now atop an aqueduct - a structure clearly not meant for human transport. Her head collides with the stony sides of the tubes and brings an unwanted bout of sleep.*
+		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
+		
+		Squinting against the sun, she looks up at the sky through a pane of carefully polished glass. She determines she is now atop an aqueduct - a structure clearly not meant for human transport.
+		
+		Her head collides with the stony sides of the tubes, bringing on an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!AQUEDUCT!9990.X11417-1!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!0.000!DESCRIPTION!/]
 
@@ -22,28 +26,40 @@ knows about mission or has been to dawn fortress
 		
 		Squinting her eyes against the sun, she looks up at the sky through a pane of carefully polished glass. She quickly surmises she is now atop an aqueduct and is likely headed for the parched Dawn Fortress—whose water she now delivers personally.
 		
-		After only a few moments, she realizes this structure is clearly not meant for human transport, just as her head collides with the stony sides of the tubes, bringing an unwanted bout of dreamless sleep...*
+		After only a few moments, she realizes this structure is clearly not meant for human transport - just as her head collides with the stony sides of the tubes. The impact brings with it an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!AQUEDUCT!9990.X11417-1!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!1.000!DESCRIPTION!/]
 
 khlutt dead
 	[/KABU!WELLSPRING!AQUEDUCT!2.000!DESCRIPTION!]
 		||
-		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway before finally emerging into the light of day. Squinting against the sun, she looks up at the sky through a pane of glass, surmising she is now atop an aqueduct. She likewise concludes her destination must be the parched Dawn Fortress, and now here she is delivering their missing water personally - though Khlutt is no longer around to thank her. However, this aqueduct was clearly not meant for human transport, as her head collides with the hard sides of the tubes and brings an unwanted bout of sleep.*
+		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
+		
+		Squinting against the sun, she looks up at the sky through a pane of glass, surmising she is now atop an aqueduct. She likewise concludes her destination must be the parched Dawn Fortress, and now here she is delivering their missing water personally - though Khlutt is no longer around to thank her.
+		
+		However, this aqueduct was clearly not meant for human transport. Her head soon collides with the hard sides of the tubes, bringing on an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!9990.X11414-101!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!2.000!DESCRIPTION!/]
 
 logira dead
 	[/KABU!WELLSPRING!AQUEDUCT!3.000!DESCRIPTION!]
 		||
-		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway before finally emerging into the light of day. Squinting against the sun, she looks up at the sky through a pane of glass, surmising she is now atop an aqueduct. She likewise concludes her destination must be the parched Dawn Fortress, and now here she is delivering their missing water personally - though Logira is no longer around to thank her. However, this aqueduct was clearly not meant for human transport, as her head collides with the hard sides of the tubes and brings an unwanted bout of sleep.*
+		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
+		
+		Squinting against the sun, she looks up at the sky through a pane of glass, surmising she is now atop an aqueduct. She likewise concludes her destination must be the parched Dawn Fortress, and now here she is delivering their missing water personally - though Logira is no longer around to thank her.
+		
+		However, this aqueduct was clearly not meant for human transport. Her head soon collides with the hard sides of the tubes, bringing on an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!9990.X11414-101!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!3.000!DESCRIPTION!/]
 	
 khlutt knows about star bridge
 	[/KABU!WELLSPRING!AQUEDUCT!4.000!DESCRIPTION!]
 		||
-		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day. Squinting against the sun, she looks up at the sky through a pane of carefully polished glass. She surmises she is now atop an aqueduct and likely headed for the parched Dawn Fortress whose water she now delivers personally. After only a few moments, she realizes this structure is clearly not meant for human transport, just as her head collides with the stony sides of the tubes, bringing an unwanted bout of sleep...*
+		*In and out of consciousness, Eidos feels her body being jostled around violently through a dark and narrow passageway. Only a short time seems to elapse before she finally emerges into the light of day.
+		
+		Squinting against the sun, she looks up at the sky through a pane of carefully polished glass. She surmises she is now atop an aqueduct and likely headed for the parched Dawn Fortress whose water she now delivers personally.
+		
+		After only a few moments, she realizes this structure is clearly not meant for human transport - just as her head collides with the stony sides of the tubes. The impact brings with it an unwanted bout of dreamless sleep...*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!9990.X11414-101!DESCRIPTION!}
 	[KABU!WELLSPRING!AQUEDUCT!4.000!DESCRIPTION!/]
 
@@ -778,7 +794,7 @@ From falling
 From Excavation
 	[/KABU!WELLSPRING!DEEP LAKE!10.000!DESCRIPTION!]
 		||
-		*Eidos leaps down onto the landing, crushing the damp vegetation beneath her weight; the innocent flora is not without recourse, however. The destructive pressure wrings all moisture from the plants, propelling Eidos' feet in random directions. The result, of course, is an intimate encounter with the rocky ground.
+		*Eidos leaps down onto the landing, crushing the damp vegetation beneath her weight. The innocent flora is not without recourse, however, for the destructive pressure wrings all moisture from the plants, propelling Eidos’ feet in random directions. The result, naturally, is an intimate encounter with the rocky ground.
 		
 		Fallen, she sits, pain crawling up her tender rump through her spine and showering out across her entire body in intense sparks of agony. Whatever the consequences of her descent, she has the last laugh as she rises, injured but unbroken, triumphant in arriving at her desired destination. She leaves the question as to whether or not it was worth it for later consideration.*
 		(A#...){A:0,KABU!WELLSPRING!DEEP LAKE!10.001!DESCRIPTION!}
@@ -1740,15 +1756,9 @@ Damn lowered
 		||
 		*Eidos exits through the archway, her path dimly lit by a band of faintly twinkling stars in a distant, forgotten sky. Water now violently courses through the opened dam, its bulk no longer repressed by the schemes of man.
 		
-		Eidos cautiously nears the edge to get a better look, but the splashing water has made the path treacherously slippery. She falls for Nature's trap, slipping down and slamming into the baleful rapids.*
-		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!100.001!DESCRIPTION!}
-	[KABU!WELLSPRING!FLOOD GATE!100.000!DESCRIPTION!/]
-
-	[/KABU!WELLSPRING!FLOOD GATE!100.001!DESCRIPTION!]
-		||
-		*Thus, Nature's vengeance on mankind is sated...*
+		Eidos cautiously nears the edge to get a better look, but the alliance of splashing water and the mossy hordes has made the path treacherously slippery. She falls for Nature's trap, slipping down and slamming into the baleful rapids.*
 		(A#...){A:0,KABU!WELLSPRING!AQUEDUCT!0.X000!DESCRIPTION!}
-	[KABU!WELLSPRING!FLOOD GATE!100.001!DESCRIPTION!/]
+	[KABU!WELLSPRING!FLOOD GATE!100.000!DESCRIPTION!/]
 
 
 
@@ -4941,13 +4951,13 @@ THRONE ROOM
 Entrance sans Quangjo
 	[/KABU!WELLSPRING!THRONE ROOM!0.000!DESCRIPTION!]
 		||
-		*Eidos enters a pitch darkness. As she proceeds, the echoes from her footsteps clicking on the tiled floor betray the immensity of the chamber. Ten paces in, the shadows are exiled to the realm of memory as countless lights in the floor and ceiling spring to life. The reflective black dome above her, the walls of dark granite, and the intricately carved designs in a lattice of forbidden geometries all reveal themselves to her light-shocked eyes.*
+		*Eidos enters a pitch darkness. As she proceeds, the echoes from her footsteps clicking on the tiled floor betray the immensity of the chamber. Ten paces in, all shadows are exiled to the realm of memory as countless lights in the floor and ceiling spring to life. The reflective black dome above her, the walls of dark granite, the intricately carved designs in a lattice of forbidden geometries, all of these reveal themselves to her light-shocked eyes.*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!0.001!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.000!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.001!DESCRIPTION!]
 		||
-		*Wiping the tears from her sensitive eyes, Eidos tries to take it all in. But she is somewhat overwhelmed by the grandeur of the place. For a moment, she even feels at a loss, as though she could lose her very Self just from being here...*
+		*Rubbing the tears away, Eidos tries to take it all in. But she is somewhat overwhelmed by the grandeur of the place. For a moment, she even feels at a loss, as though she could lose her very Self just from being here...*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!0.002!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.001!DESCRIPTION!/]
 
@@ -4975,7 +4985,7 @@ Entrance sans Quangjo
 		||
 		*She approaches the chair. Dragging a finger across the grooves in the armrest, she begins to circle the throne. It has a beauty both flamboyant and austere; just as a silver ingot may shine and sparkle, yet is still simply a hunk of metal, so too does this throne walk the line between simplicity and extravagance.
 		
-		After she completes her round, Eidos sits in the chair. All about her, the dark glass panels springs to life, showing myriad scattered images, flowing one from the next. However, the panel directly in front of her remains fixed on a single image, frozen in time. This panel shows the body of water she witnessed on her way here.*
+		After she completes her round, Eidos sits in the chair. All about her, the dark glass panels spring to life, displaying myriad scattered images, flowing one from the next. However, the panel directly in front of her remains fixed on a single image, frozen in time. This panel shows the body of water she witnessed on her way here.*
 		(A#...){A:0,KABU!WELLSPRING!THRONE ROOM!0.X5000!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.500!DESCRIPTION!/]
 
@@ -5005,18 +5015,18 @@ else
 Purify + Auto-Release
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5010!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Displayed upon the brilliant pane, the dam lowers and finally releases the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.
+		*The one frozen image from the panels revives as a great rumble stirs Eidos’ innards. Thereupon, the dam lowers, finally releasing the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.
 		
-		However, soon a different sound sound from above draws her gaze upward. Descending from the ceiling, a cloudstone reveals a passage skyward.*
+		However, soon a different sound from above draws her gaze upward. From the ceiling, a descending cloudstone reveals a passage skyward.*
 		(B#Step atop the cloudstone){B:0,KABU!WELLSPRING!THRONE ROOM!0.5040!DESCRIPTION!}
 		(C#Sit and speak to Fathom){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5010!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5020!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Displayed upon the brilliant pane, the dam lowers and finally releases the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.
+		*The one frozen image from the panels revives as a great rumble stirs Eidos’ innards. Thereupon, the dam lowers, finally releasing the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.
 		
-		However, soon a different sound sound from above draws her gaze upward. Descending from the ceiling, a cloudstone reveals a passage skyward.*
+		However, soon a different sound from above draws her gaze upward. From the ceiling, a descending cloudstone reveals a passage skyward.*
 		(B#Step atop the cloudstone){B:0,KABU!WELLSPRING!THRONE ROOM!0.5040!DESCRIPTION!}
 		(C#Sit again upon the throne){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5020!DESCRIPTION!/]
@@ -5039,14 +5049,14 @@ Purify + Auto-Release
 Released poison water
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5011!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Displayed upon the brilliant pane, the dam lowers and finally releases the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.*
+		*The one frozen image from the panels revives as a great rumble stirs Eidos’ innards. Thereupon, the dam lowers, finally releasing the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.*
 		(A#Go to watch the water drain){A:0,KABU!WELLSPRING!FLOOD GATE!90.X000!DESCRIPTION!}
 		(C#Sit and speak to Fathom){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5011!DESCRIPTION!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!0.X5021!DESCRIPTION!]
 		|@:KABU!WELLSPRING!THRONE ROOM!0.X501!DESCRIPTION!|
-		*Displayed upon the brilliant pane, the dam lowers and finally releases the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.*
+		*The one frozen image from the panels revives as a great rumble stirs Eidos’ innards. Thereupon, the dam lowers, finally releasing the water it so dutifully kept at bay. The sound of rushing water echoes from outside and into the Throne Room, confirming the underground lake now rages forward into the aqueduct.*
 		(B#Go to watch the water drain){B:0,KABU!WELLSPRING!FLOOD GATE!90.X000!DESCRIPTION!}
 		(C#Sit again upon the throne){C:0,KABU!WELLSPRING!THRONE ROOM!9999.X0501!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!0.X5021!DESCRIPTION!/]

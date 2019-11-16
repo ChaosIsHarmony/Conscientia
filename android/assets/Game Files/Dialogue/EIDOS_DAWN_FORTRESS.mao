@@ -2489,7 +2489,7 @@ trial stuff
 		|^15005:KABU!DAWN FORTRESS!COURTYARD!91.000!DESCRIPTION!|
 		*Eidos awakens. Coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. As far as she can tell, she is now inside a cage in the middle of a dust-covered courtyard with high sandstone walls for as far as the eye can see.
 		
-		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of a great pyre.*
+		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of the great pyres.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.X000!DESCRIPTION!/]
 	
@@ -2497,7 +2497,7 @@ trial stuff
 		||
 		*Eidos awakens. Hands and feet bound, the coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. She is inside the cage in the middle of the Dawn Fortress courtyard. Not far from her, the familiar form of Heyar reclines in one of the corners. 
 		
-		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of a great pyre.*
+		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of the great pyres.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!91.000!DESCRIPTION!/]	
 	
@@ -2510,7 +2510,7 @@ trial stuff
 >>>Learned Hidden Mind (12304)<<<
 	[/KABU!DAWN FORTRESS!COURTYARD!92.X000!DESCRIPTION!]
 		|^12304:KABU!DAWN FORTRESS!COURTYARD!92.000!DESCRIPTION!|
-		*A rhythmic pounding abruptly echoes throughout the courtyard. Eidos looks up to see a regimented procession advancing into the courtyard. Led by a cadre of drummers, a line of individuals walks towards a central dais led by a muscular, yet ancient mage, with a young but stately Librarian following close in train.
+		*A rhythmic pounding abruptly echoes throughout the courtyard. Eidos looks up to see a regimented procession advancing into the courtyard. Led by a cadre of drummers, a line of individuals walks towards a central dais. At the line’s head is a muscular, yet ancient man, with a young but stately lady following close in train.
 		
 		The guard standing nearby turns and begins unlocking the cage. Before long, several guards reach in and take Eidos to kneel before the dais.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!92.X001!DESCRIPTION!}
@@ -2518,7 +2518,7 @@ trial stuff
 
 	[/KABU!DAWN FORTRESS!COURTYARD!92.000!DESCRIPTION!]
 		||
-		*A rhythmic pounding abruptly echoes throughout the courtyard. Eidos looks up to see a regimented procession advancing into the courtyard. Led by a cadre of drummers, a line of individuals walks towards a central dais led by a muscular, yet ancient mage, with a young but stately Librarian following close in train.
+		*A rhythmic pounding abruptly echoes throughout the courtyard. Eidos looks up to see a regimented procession advancing into the courtyard. Led by a cadre of drummers, a line of individuals walks towards a central dais. At the line’s head is a muscular, yet ancient man, with a young but stately lady following close in train.
 		
 		The guard standing nearby turns and begins unlocking the cage. Before long, several guards reach in and take Eidos to kneel before the dais.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!92.X0010!DESCRIPTION!}
@@ -2526,7 +2526,7 @@ trial stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!92.X001!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!COURTYARD!93.X000!DESCRIPTION!|
-		*The man and his attendants sit upon the platform as the woman approaches Eidos. She takes a place standing close by and slowly, she reaches out a hand, placing it upon the crown of Eidos' head. The drumming ceases, and the man begins to speak.*
+		*The old man and his attendants sit upon the platform as the woman approaches Eidos. She takes a place standing close by and slowly, she reaches out a hand, placing it upon the crown of Eidos' head. The drumming ceases, and the man begins to speak.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X0014!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!92.X001!DESCRIPTION!/]
 	
@@ -2555,7 +2555,7 @@ trial stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!93.001!DESCRIPTION!]
 		||
-		*As the words leave Eidos' lips, a sudden, stabbing pain rents her mind.*
+		*As the words leave Eidos' lips, a sudden, stabbing pain cracks open her mind.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!93.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!93.001!DESCRIPTION!/]
 	
@@ -2591,7 +2591,7 @@ trial stuff
 
 	[/KABU!DAWN FORTRESS!COURTYARD!94.000!DESCRIPTION!]
 		||
-		*Khlutt nods his head. The drummers strike their instruments and the sound heralds the opening of the great gate behind them. The guards unlock the cage behind her and bring out a bound Heyar. The two are led wordlessly to the threshold, the ponderous drumming of Khlutt's attendants the only sound breaking the otherwise solemnly silent atmosphere.
+		*Khlutt nods his head. The drummers strike their instruments and the sound heralds the opening of the great gate behind them. The guards unlock the cage behind her, extracting a bound Heyar from it. The two are led wordlessly to the threshold, the ponderous drumming of Khlutt's attendants the only sound breaking the otherwise solemnly silent atmosphere.
 		
 		The black iron gates reluctantly open with a metallic yawn as the two prisoners arrive. Soon, Eidos and Heyar's bonds are removed and they are thrust out onto the burning sands at spearpoint. The gate begins to close begrudgingly, groans of iron on iron voicing its complaints...*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X000!DESCRIPTION!}
