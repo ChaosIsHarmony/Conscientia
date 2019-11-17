@@ -2947,20 +2947,20 @@ exiled
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.003!DESCRIPTION!]
 		||
-		*As Eidos and Heyar shake hands, she can feel the Daziran scholar's sweaty palm quiver with anticipation. His grin grows so wide it seems as though his face might split in half. Eidos withdraws her sweat-soaked hand, the faint look of revulsion on her face, sculpted by instinct. But Heyar, swimming in his blissful obliviousness, has already crouched to examine the gray stones peaking out from beneath the sand, seeming to have utterly forgotten about his new companion.*
+		*As Eidos and Heyar shake hands, she can feel the Daziran scholar's sweaty palm quiver with anticipation. His grin grows so wide it seems as though his face might split in half. Eidos withdraws her sweat-soaked hand, the faint look of revulsion on her face sculpted by instinct. But Heyar, swimming in his blissful obliviousness, has already crouched to examine the gray stones peeking out from beneath the sand, seeming to have utterly forgotten about his new companion.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X004!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.003!DESCRIPTION!/]
 
 >>>Killed Heyar (16023)<<<
 	[/KABU!WASTELAND!GATES OF DAWN!0.X004!DESCRIPTION!]
 		|^16023:KABU!WASTELAND!GATES OF DAWN!0.0045!DESCRIPTION!|
-		*Eidos looks once more at the gates, and they simply return her gaze with their Cyclopean stare. Locked in this battle of wills for an instant eternity, Eidos budges before the gate, conceding that this path is now closed to her. Thus, she turns her attention to the Wasteland now breathing at her back.*
+		*Eidos looks once more at the gates, and they simply return her gaze with their Cyclopean stare, locked in this battle of wills for an eternal instant. But Eidos budges before the gate, conceding that this path is now closed to her. Thus, she turns her attention to the Wasteland now breathing at her back.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.0041!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.X004!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.0041!DESCRIPTION!]
 		||
-		*All about her is a landscape of utter desolation. Out in the Wastes, life lost the battle long ago and not even the bones of animals or the husks of plants remain to prove there ever was a struggle. The ground beneath her feet is a parched mosaic of cobbled gray stone, consumed by the dusty wastes where it leads. The blistering heat, distorting the air all about, makes it difficult to distinguish distant features of the land despite the clear, pale sky. Even still, two landmarks manage to catch her eye...*
+		*All about her is a landscape of utter desolation. Out in the Wastes, life lost the battle long ago and not even the bones of animals or the husks of plants remain to prove there was ever a struggle. The ground beneath her feet is a parched mosaic of cobbled gray stone, consumed by the dusty wastes where it leads. The blistering heat, distorting the air all about, makes it difficult to distinguish distant features of the land despite the clear, pale sky. Even still, two landmarks manage to catch her eye...*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.0042!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.0041!DESCRIPTION!/]
 
