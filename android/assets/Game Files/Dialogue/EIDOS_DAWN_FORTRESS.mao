@@ -2487,7 +2487,7 @@ trial stuff
 >>>Met Heyar (15005)<<<
 	[/KABU!DAWN FORTRESS!COURTYARD!90.X000!DESCRIPTION!]
 		|^15005:KABU!DAWN FORTRESS!COURTYARD!91.000!DESCRIPTION!|
-		*Eidos awakens. Coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. As far as she can tell, she is now inside a cage in the middle of a dust-covered courtyard with high sandstone walls for as far as the eye can see.
+		*Eidos awakens. She jerks into motion, but coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. As far as she can tell, she is now inside a cage in the middle of a dust-covered courtyard with high sandstone walls for as far as the eye can see.
 		
 		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of the great pyres.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!}
@@ -2495,7 +2495,7 @@ trial stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!91.000!DESCRIPTION!]
 		||
-		*Eidos awakens. Hands and feet bound, the coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. She is inside the cage in the middle of the Dawn Fortress courtyard. Not far from her, the familiar form of Heyar reclines in one of the corners. 
+		*Eidos awakens. She jerks into motion, but coarse ropes leave painful abrasions as they mercilessly writhe around her wrists and ankles. As far as she can tell, she is now inside a cage in the middle of the Dawn Fortress courtyard. Not far from her, the familiar form of Heyar reclines in one of the corners. 
 		
 		All around, the pungent smell of burning flesh permeates the air. Dead bodies are lined up about the courtyard, their hapless handlers just as dead of spirit as the bodies they throw into the fires. The only perceptible signs of life in this city of the walking dead come in the form of ritual incantations and solemn dirges from around the violent and unrelenting roar of the great pyres.*
 		(A#...){A:0,KABU!DAWN FORTRESS!COURTYARD!90.X0010!DESCRIPTION!}
@@ -2591,9 +2591,9 @@ trial stuff
 
 	[/KABU!DAWN FORTRESS!COURTYARD!94.000!DESCRIPTION!]
 		||
-		*Khlutt nods his head. The drummers strike their instruments and the sound heralds the opening of the great gate behind them. The guards unlock the cage behind her, extracting a bound Heyar from it. The two are led wordlessly to the threshold, the ponderous drumming of Khlutt's attendants the only sound breaking the otherwise solemnly silent atmosphere.
+		*Khlutt nods his head and turns to leave. The drummers strike their instruments, as a guard unlocks the cage behind her, extracting a bound Heyar from it. The two are led wordlessly to the threshold, the ponderous drumming of Khlutt's attendants the only sound breaking the otherwise solemn silence.
 		
-		The black iron gates reluctantly open with a metallic yawn as the two prisoners arrive. Soon, Eidos and Heyar's bonds are removed and they are thrust out onto the burning sands at spearpoint. The gate begins to close begrudgingly, groans of iron on iron voicing its complaints...*
+		The black iron gates reluctantly open with a metallic yawn. When the two prisoners arrive at the gates’ threshold, their bonds are untied and they are thrust out onto the burning sands at spearpoint. The gates begin to close begrudgingly, groans of iron on iron voicing its complaints...*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!COURTYARD!94.000!DESCRIPTION!/]
 
@@ -3128,7 +3128,7 @@ HEYAR
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!90.1000!HEYAR!]
 		||
-		*"As to why I'm here, well my crime was trespassing in the fortress Archives without permission... and for my troubles I am to be exiled to the Wasteland! Ha ha!"*
+		*"As to why I'm here, well my crime was trespassing in the fortress Archives without permission... and for my troubles, I am to be exiled to the Wasteland! Ha ha!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.1001!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.1000!HEYAR!/]
 	
@@ -3337,7 +3337,7 @@ HEYAR
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!90.2010!HEYAR!]
 		||
-		*"For the past few weeks, the folk of the Dawn Fortress have been on the brink of thirst, because the Wellspring aqueduct supplying this place ceased to give forth water."*
+		*"For the past few weeks, the folk of the Dawn Fortress have been on the brink of thirst, because the Wellspring aqueduct supplying this place grew dry, and its flow unflowy!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.2011!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.2010!HEYAR!/]
 	
@@ -3361,7 +3361,7 @@ HEYAR
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!90.2013!HEYAR!]
 		||
-		*"But then, as their Trueflesh began tugging at the frayed tatters of the False, here came a torrent of fresh water, bearing their supposed salvation along with a strange, half-drowned outlander..."*
+		*"But then, as their Trueflesh began tugging at the frayed tatters of the False, as they prepared for the final march into the Grays! Out of nowhere came a torrent of fresh water, bearing their supposed salvation along with a strange, half-drowned outlander..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!90.2014!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.2013!HEYAR!/]
 	
@@ -4344,13 +4344,13 @@ trial
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!95.002!KHLUTT!]
 		||
-		*"We are the last children of Biracul!"*
+		*"We are the last true children of Biracul!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!95.003!KHLUTT!}	
 	[KABU!DAWN FORTRESS!COURTYARD!95.002!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!95.003!KHLUTT!]
 		||
-		*"Let us send this message into the void as our forbearers did in the days of Ark!"*
+		*"Let us send this message into the void as our forebearers did in the days of Ark!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X9999!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!95.003!KHLUTT!/]
 	
@@ -4370,13 +4370,13 @@ have hidden mind, but did wellspring stuff
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.002!KHLUTT!]
 		||
-		*"We are the last children of Biracul!"*
+		*"We are the last true children of Biracul!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.003!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!96.002!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!96.003!KHLUTT!]
 		||
-		*"Let us send this message into the void as our forbearers in the days of Ark!"*
+		*"Let us send this message into the void as our forebearers in the days of Ark!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!96.X004!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!96.003!KHLUTT!/]
 	
