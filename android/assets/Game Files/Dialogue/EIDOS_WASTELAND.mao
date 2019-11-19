@@ -1539,15 +1539,15 @@ not in exile OR exile -heyar
 		||
 		*Rounding a bend, the canyon widens out, setting her vision free for an unfathomable expanse in the six directions.
 		
-		Far off in the distance, the dying afternoon sun glares at her reflection in a leviathanic bridge as it slithers the span of the canyon in an uninterrupted arcing motion. The bridge appears to be made of scales of polished mirrors and miraculously lacks any and all supports.
+		Far off in the distance, the dying afternoon sun reflects off a leviathanic bridge as it slithers the span of the canyon in an uninterrupted arcing motion. Thousands of interlocking plates, shiny as polished mirrors, coat the bridge like some kind of enormous metallic serpent. Perhaps most stunning, however, is that the structure miraculously lacks any and all supports. It simply rests there as though suspended from the sky itself.
 		
-		While its western side is adorned with a shining silvered spire, the eastern termination is adorned in ruin. The remains of a golden sister tower have toppled to the canyon floor below the beastial bridge.*
+		While the canyon’s western side hosts the brilliant splendor of a shining silvered spire, the eastern termination is host only to the ruined stump of its kin. The remains of the golden sister tower have long since toppled to the canyon floor, far below the bestial bridge.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!0.00002!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.00001!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.00002!DESCRIPTION!]
 		||
-		*Looking across the gorge, far below the bridge, Eidos spies a series of caves honeycombing the far cliff face and a mountain of white piled on a ledge halfway down to the canyon floor, but both lie well beyond her reach...*
+		*Looking across the gorge, Eidos spies a series of caves honeycombing the far cliff face and a mountain of white piled on a ledge halfway down to the canyon floor, but both lie well beyond her reach...*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!0.00003!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.00002!DESCRIPTION!/]
 
@@ -1640,19 +1640,19 @@ not in exile OR exile -heyar
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.001!DESCRIPTION!]
 		||
-		*The shrine is a stump of dark granite, its blackened surface a contrast to the rusty sandstone native to the area. Nestled into three hollows carved in its surface are three distinct objects.*
+		*The shrine is a stump of dark granite, its glistening black surface a contrast to the rusty sandstone native to the area. From its center, a gentle stream of water flows out and down the stone itself. Nestled into three hollows, carved just above the water’s exit, are three distinct objects.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!0.0010!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.001!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.0010!DESCRIPTION!]
 		||
-		*The first is an oval carved in marble of the purest white, veins of greater white snaking through it. A simply hewn, but richly crafted black granite disk is embedded within the oval. A woman in flowing robes with sword and raised hand are depicted with such care as if to suggest she could step from the piece at any moment. The eyes in particular seem filled with life, intellect and foreboding.*
+		*The first is an oval carved in marble of the purest white, veins of coppery green snaking through it. A simply hewn, but richly crafted black granite disk is embedded within the oval. And upon the disk, a woman in flowing robes with green spear and raised hand are depicted with such care as if to suggest she could step from the piece at any moment. The eyes in particular seem filled with life, intellect and foreboding.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!0.0011!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.0010!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.0011!DESCRIPTION!]
 		||
-		*In a second hollow, a wooden plate sits propped up on its edge. Not only is it humble but also seemingly grotesque in its crudeness. It is whittled from worm-gnawed timber and its eating surface is painted with black tar.*
+		*In the second hollow, a wooden plate sits propped up on its edge. Both crude and grotesque, it is whittled from worm-gnawed timber and its eating surface is painted with a black tar.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!0.X0012!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.0011!DESCRIPTION!/]
 
@@ -1763,13 +1763,13 @@ exiled + heyar
 		
 		Far off in the distance, the dying afternoon sun reflects off a leviathanic bridge as it slithers the span of the canyon in an uninterrupted arcing motion. Thousands of interlocking plates, shiny as polished mirrors, coat the bridge like some kind of enormous metallic serpent. Perhaps most stunning, however, is that the structure miraculously lacks any and all supports. It simply rests there as though suspended from the sky itself.
 		
-		While its western side is adorned with a shining silvered spire, the eastern termination is adorned in ruin. The remains of a golden sister tower have toppled to the canyon floor below the bestial bridge.*
+		While the canyon’s western side hosts the brilliant splendor of a shining silvered spire, the eastern termination is host only to the ruined stump of its kin. The remains of the golden sister tower have long since toppled to the canyon floor, far below the bestial bridge.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!2.003!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!2.002!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!2.003!DESCRIPTION!]
 		||
-		*Looking across the gorge, far below the bridge, Eidos spies a series of caves honeycombing the far cliff face and a mountain of white piled on a ledge halfway down to the canyon floor, but both lie well beyond her reach...*
+		*Looking across the gorge, Eidos spies a series of caves honeycombing the far cliff face and a mountain of white piled on a ledge halfway down to the canyon floor, but both lie well beyond her reach...*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!2.004!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!2.003!DESCRIPTION!/]
 
@@ -1826,19 +1826,19 @@ exiled + heyar
 >>>Killed Karra (14500)<<<
 	[/KABU!WASTELAND!CRESCENT CANYON!2.X100!DESCRIPTION!]
 		|^14500:KABU!WASTELAND!CRESCENT CANYON!2.X011!DESCRIPTION!|
-		*The shrine is a stump of dark granite, its blackened surface a contrast to the rusty sandstone native to the area. Nestled into three hollows carved in its surface are three distinct objects.*
+		*The shrine is a stump of dark granite, its glistening black surface a contrast to the rusty sandstone native to the area. From its center, a gentle stream of water flows out and down the stone itself. Nestled into three hollows, carved just above the water’s exit, are three distinct objects.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!2.1010!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!2.X100!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!2.1010!DESCRIPTION!]
 		||
-		*The first is an oval carved in marble of the purest white, veins of greater white snaking through it. A simply hewn, but richly crafted black granite disk is embedded within the oval. A woman in flowing robes with green spear and raised hand are depicted with such care as if to suggest she could step from the piece at any moment. The eyes in particular seem filled with life, intellect and foreboding.*
+		*The first is an oval carved in marble of the purest white, veins of coppery green snaking through it. A simply hewn, but richly crafted black granite disk is embedded within the oval. And upon the disk, a woman in flowing robes with green spear and raised hand are depicted with such care as if to suggest she could step from the piece at any moment. The eyes in particular seem filled with life, intellect and foreboding.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!2.1011!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!2.1010!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!2.1011!DESCRIPTION!]
 		||
-		*In the second hollow, a wooden plate sits propped up on its edge. Not only is it humble but also seemingly grotesque in its crudeness. It is whittled from worm-gnawed timber and its eating surface is painted with black tar.*
+		*In the second hollow, a wooden plate sits propped up on its edge. Both crude and grotesque, it is whittled from worm-gnawed timber and its eating surface is painted with a black tar.*
 		(A#...){A:0,KABU!WASTELAND!CRESCENT CANYON!2.X1012!DESCRIPTION!}
 	[KABU!WASTELAND!CRESCENT CANYON!2.1011!DESCRIPTION!/]
 
@@ -2228,19 +2228,19 @@ HEYAR
 KARRA
 	[/KABU!WASTELAND!CRESCENT CANYON!0.000!KARRA!]
 		||
-		*"The Waste is but a path and I am a mere traveler on that path! I'll not fear the Unseen of the Waste for their deaths brin' glory to the brothers of Biracul!"*
+		*"The Waste is but a path and I am a mere traveler on that path! I'll not fear the Unseen of the Waste, for their deaths brin' glory to the brothers of Biracul!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.0000!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.000!KARRA!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.0000!KARRA!]
 		||
-		*"I'll rejoice at the sight of the draugnir for they test the sisters of Ark!"*
+		*"I'll rejoice at the sight of the draugnir, for they test the sisters of Ark!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.0001!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.0000!KARRA!/]
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.0001!KARRA!]
 		||
-		*"I'll not turn away from the Jinns of the desert for they're flames, catchin' the Eye that gives sight to the One!"*
+		*"I'll not turn away from the Jinns of the desert, for they're flames, catchin' the Eye that gives sight to the One!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.0002!KARRA!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.0001!KARRA!/]
 
@@ -2911,7 +2911,7 @@ left of own accord
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.0000!DESCRIPTION!]
 		||
-		*All about her is a landscape of utter desolation. Out in the Wastes, life lost the battle long ago and not even the bones of animals or the husks of plants remain to prove there ever was a struggle. The ground beneath her feet is a parched mosaic of cobbled gray stone, consumed by the dusty wastes where it leads. The blistering heat, distorting the air all about, makes it difficult to distinguish distant features of the land despite the clear, pale sky. Even still, two landmarks manage to catch her eye...*
+		*All about her is a landscape of lifeless desolation, dust and sand, dusty sand, and nothing but. Out in the Wastes, life lost the battle long ago and not even the bones of animals or the husks of plants remain to prove there ever was a struggle. The ground beneath her feet is a parched mosaic of cobbled gray stone, consumed by the dusty wastes where it leads. The blistering heat, distorting the air all about, makes it difficult to distinguish distant features of the land despite the clear, pale sky. Even still, two landmarks manage to catch her eye...*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.0001!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.0000!DESCRIPTION!/]
 
@@ -2919,7 +2919,7 @@ left of own accord
 		||
 		*To the east, opposite the Kaban townships, she sees a wavering spire, seeming to melt in and out of view from the heat of the intervening sands, almost as though its very existence were uncertain.
 		
-		To the southwest is a more obscure feature. A blackened, reflective surface seems to alternate between stealing light and casting it back into the desert. It has the look of a distant pool of dark water, though brief moments of clarity show that it is unwavering and eerily still.*
+		To the southwest is a more inscrutable feature. A blackened yet reflective surface seems to alternate between stealing light and casting it back out into the desert. It has the look of a distant pool of dark water, though brief moments of clarity show that it is eerily still.*
 		(A#Head southwest to the Obsidian Ruin){A:0,KABU!WASTELAND!OBSIDIAN RUIN!0.000!DESCRIPTION!}
 		(B#Go east towards the building){B:0,KABU!WASTELAND!LAND'S END!0.000!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.0001!DESCRIPTION!/]
@@ -2934,7 +2934,7 @@ exiled
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.X002!DESCRIPTION!]
 		|@:KABU!WASTELAND!GATES OF DAWN!0.X003!DESCRIPTION!|
-		*All about her is a landscape of lifeless desolation, and as Eidos takes in the severity of her situation, Heyar turns to look at her, a jubilant smile spread across his face. Wringing his hands with pent-up excitement, he addresses her.*
+		*All about her is a landscape of lifeless desolation, dust and sand, dusty sand, and nothing but. As Eidos takes in the severity of her situation, Heyar turns to look at her, a jubilant smile spread across his face. Wringing his hands with pent-up excitement, he addresses her.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!9999.X0207!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.X002!DESCRIPTION!/]
 
@@ -2947,7 +2947,7 @@ exiled
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.003!DESCRIPTION!]
 		||
-		*As Eidos and Heyar shake hands, she can feel the Daziran scholar's sweaty palm quiver with anticipation. His grin grows so wide it seems as though his face might split in half. Eidos withdraws her sweat-soaked hand, the faint look of revulsion on her face sculpted by instinct. But Heyar, swimming in his blissful obliviousness, has already crouched to examine the gray stones peeking out from beneath the sand, seeming to have utterly forgotten about his new companion.*
+		*As Eidos and Heyar shake hands, she can feel the Daziran scholar's sweaty palm quiver with anticipation. His grin grows so wide it seems as though his face might tear in half. Eidos withdraws her sweat-soaked hand, the faint look of revulsion on her face sculpted by instinct. But Heyar, swimming in his blissful obliviousness, has already crouched to examine the gray stones peeking out from beneath the sand, seeming to have utterly forgotten about his new companion.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X004!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.003!DESCRIPTION!/]
 
@@ -2960,7 +2960,7 @@ exiled
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.0041!DESCRIPTION!]
 		||
-		*All about her is a landscape of utter desolation. Out in the Wastes, life lost the battle long ago, and not even the bones of animals or the husks of plants remain to prove there was ever a struggle. The ground near the gate is a parched mosaic of cobbled gray stone, gradually consumed by dust and sand. The blistering heat, distorting the air all about, makes it difficult to distinguish distant features of the land despite the clear, pale sky. Even still, two landmarks manage to catch her eye.*
+		*Out in the Wastes, life lost the battle long ago, and not even the bones of animals or the husks of plants remain to prove there was ever a struggle at all. The ground near the gate is a parched mosaic of cobbled gray stone, gradually consumed by dust and sand. Deeper into the Wastes, the blistering heat distorts the air all about, making it difficult to distinguish distant features of the land despite the clear, pale sky. Even still, two landmarks manage to catch her eye.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.0042!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.0041!DESCRIPTION!/]
 
@@ -2968,7 +2968,7 @@ exiled
 		||
 		*To the east, opposite the Kaban townships, she sees a wavering spire, seeming to melt in and out of view from the heat of the intervening sands, almost as though its very existence were uncertain.
 		
-		To the southwest is a more obscure feature. A blackened, reflective surface seems to alternate between stealing light and casting it back into the desert. It has the look of a distant pool of dark water, though brief moments of clarity show that it is unwavering and eerily still.*
+		To the southwest is a more inscrutable feature. A blackened yet reflective surface seems to alternate between stealing light and casting it back out into the desert. It has the look of a distant pool of dark water, though brief moments of clarity show that it is eerily still.*
 		(A#Head southwest to the Obsidian Ruin){A:0,KABU!WASTELAND!OBSIDIAN RUIN!0.000!DESCRIPTION!}
 		(B#Go towards the building){B:0,KABU!WASTELAND!LAND'S END!0.000!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.0042!DESCRIPTION!/]
@@ -3368,7 +3368,7 @@ ________________________________
 OBSIDIAN RUIN
 	[/KABU!WASTELAND!OBSIDIAN RUIN!0.000!DESCRIPTION!]
 		||
-		*Eidos trudges across the cracked earth of the Wastes, white dust blowing all about. Slowly, the shining pool of darkness she aims for draws closer, though her increasing proximity does little in revealing its true nature. Indeed, it is not until she is nearly upon the site that she can see it for the stone it is, rather than the tenebrous liquid it purported to be.*
+		*Eidos trudges across the cracked earth of the Wastes, white dust blowing all about. Slowly, the shining pool of darkness she aims for draws closer, though her increasing proximity does little to reveal its true nature. Indeed, it is not until she is nearly upon the site that she can see it for the stone it is, rather than the tenebrous liquid it purported to be.*
 		(A#...){A:0,KABU!WASTELAND!OBSIDIAN RUIN!0.001!DESCRIPTION!}
 	[KABU!WASTELAND!OBSIDIAN RUIN!0.000!DESCRIPTION!/]
 
@@ -3423,7 +3423,7 @@ Obsidian Vision stuff
 
 	[/KABU!WASTELAND!OBSIDIAN RUIN!0.100!DESCRIPTION!]
 		||
-		*Turning towards a cracked column, Eidos looks upon burning yellow eyes. The beast is a wolf, though the darkness of its fur nearly renders the predator invisible to her eye. A low growl escapes its throat and its lips peel back in a snarl, revealing pearly fangs studded in ruby droplets. The menacing noise rumbles like distant thunder, vibrating blood and drool as they stream down into its matted fur.*
+		*Turning towards a cracked column, Eidos looks upon a pair of burning yellow eyes. The beast is a wolf, though the darkness of its fur nearly renders the predator invisible to her eye. A guttural growl escapes its throat and its lips peel back in a snarl, revealing pearly fangs studded in ruby droplets. The menacing noise rumbles like distant thunder, vibrating blood and drool as they stream down into its matted fur.*
 		(B#Ignore the creature){B:1,KABU!WASTELAND!OBSIDIAN RUIN!1.X020!DESCRIPTION!}
 		(D#Retreat back up the stairs){D:1,KABU!WASTELAND!OBSIDIAN RUIN!1.010!DESCRIPTION!}
 		(E#Attack the wolf){E:1,KABU!WASTELAND!OBSIDIAN RUIN!1.X030!DESCRIPTION!}
