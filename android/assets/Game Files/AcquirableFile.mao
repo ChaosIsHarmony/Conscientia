@@ -561,7 +561,7 @@ _________TOMES_________
 	
 	Third and last will come the Libation. But do not be deceived! Sip not from that charnel cup of silver, or you will have made a pact with the accursed Famlaz and be banished to the Crimson Field beyond the Graylands.
 	
-	Rather, with the Three Trials overcome, you will drink deep of the Living Chalice and abide forever in the home of Our Lady!#
+	Rather, with the Three Trials overcome, you will drink deep of the Living Chalice and abide forever in the home of Our Lady, keeping faithful watch over the Enemy until her return!#
 [64/]
 
 [/65]

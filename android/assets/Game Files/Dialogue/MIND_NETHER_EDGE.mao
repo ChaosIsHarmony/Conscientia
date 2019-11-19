@@ -8,13 +8,13 @@ ATELIER
 
 	[/MIND!NETHER EDGE!ATELIER!0.001!DESCRIPTION!]
 		||
-		*A memory of hearing comes, and she knows the use of ears and their connection to her - yet, she feels no ears. Suddenly, a muffled sound in the darkness. This noise brings about greater awareness and more questions still. She wonders... how long had her mind been submerged in this sensory deprivation?*
+		*A memory of hearing comes, and she knows the use of ears and their connection to her - yet, she feels no ears of her own. Suddenly, a muffled sound in the darkness. This noise brings about greater awareness and more questions still. She wonders... Just how long had her mind been submerged in this sensory deprivation?*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!0.X002!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!0.001!DESCRIPTION!/]
 
 	[/MIND!NETHER EDGE!ATELIER!0.X002!DESCRIPTION!]
 		|@:MIND!NETHER EDGE!ATELIER!1.000!DESCRIPTION!|
-		*Then comes a memory of time, that universal heartbeat, and she finds her own heartbeat absent. Each moment, marked only by the auditory experience and her contemplation of it, passes both swiftly and slowly. Her attention focuses on the sound. Warped tones soon sharpen into something comprehensible... a man's voice.*
+		*Then comes a memory of time, that universal heartbeat - the her own heartbeat is absent. Each moment, marked only by the auditory experience and her contemplation of it, passes both swiftly and slowly. Her attention focuses on the sound. Warped tones soon sharpen into something comprehensible... a man's voice.*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!9999.X0019!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!0.X002!DESCRIPTION!/]
 
@@ -26,7 +26,7 @@ ATELIER
 
 	[/MIND!NETHER EDGE!ATELIER!1.001!DESCRIPTION!]
 		||
-		*Eidos tries to move, but feels no body. She attempts to speak, but only the memory of her voice remains...*
+		*Her Self tries to move, but feels no body. She attempts to speak, but only the memory of her voice remains...*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!1.X002!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!1.001!DESCRIPTION!/]
 
@@ -46,31 +46,31 @@ ATELIER
 VANARGAND
 	[/MIND!NETHER EDGE!ATELIER!0.X000!VANARGAND!]
 		||
-		*"Little remains of Eidos' soul. Curious... The corrupting and deleterious effects of nullstone should have been accounted for!"*
+		*"Little remains of Eidos' soul. Curious... The corrupting and deleterious effects of nullstone should have been accounted for."*
 		(A#"..."){A:0,MIND!NETHER EDGE!ATELIER!0.X001!VANARGAND!}
 	[MIND!NETHER EDGE!ATELIER!0.X000!VANARGAND!/]
 
 	[/MIND!NETHER EDGE!ATELIER!0.X001!VANARGAND!]
 		|@:MIND!NETHER EDGE!ATELIER!1.000!VANARGAND!|
-		*"Perhaps I am to blame... Was this really wrought by my daughter's twisted hand?"*
+		*"Perhaps I'm to blame... My daughter's twisted hand..."*
 		(A#"..."){A:0,MIND!NETHER EDGE!ATELIER!9999.X9999!VANARGAND!}
 	[MIND!NETHER EDGE!ATELIER!0.X001!VANARGAND!/]
 
 	[/MIND!NETHER EDGE!ATELIER!1.000!VANARGAND!]
 		||
-		*"Can you yet hear me, Viracocha? Or are you lost behind the Door of Night?"*
+		*"Can you yet hear me, Viracocha? Or are you too lost behind the Door of Night?"*
 		(A#"..."){A:0,MIND!NETHER EDGE!ATELIER!1.001!VANARGAND!}
 	[MIND!NETHER EDGE!ATELIER!1.000!VANARGAND!/]
 
 	[/MIND!NETHER EDGE!ATELIER!1.001!VANARGAND!]
 		||
-		*"Your child failed to achieve either of our ends... and thus it is that we must accept our fates."*
+		*"Your child failed to achieve either of our ends... we have lost. Conscientia has beaten us."*
 		(A#"..."){A:0,MIND!NETHER EDGE!ATELIER!1.002!VANARGAND!}
 	[MIND!NETHER EDGE!ATELIER!1.001!VANARGAND!/]
 
 	[/MIND!NETHER EDGE!ATELIER!1.002!VANARGAND!]
 		||
-		*"Now we sink ever further into the oblivion Conscientia promises."*
+		*"All is as it should be."*
 		(A#"..."){A:0,MIND!NETHER EDGE!ATELIER!9999.X9999!VANARGAND!}
 	[MIND!NETHER EDGE!ATELIER!1.002!VANARGAND!/]
 
