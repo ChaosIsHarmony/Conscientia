@@ -2,7 +2,7 @@ ________________________________
 ATELIER
 	[/MIND!NETHER EDGE!ATELIER!0.X000!DESCRIPTION!]
 		||
-		*Streams of thoughts, ideas, perceptions - remembered, not truly felt - flood Eidos' mind. They converge into a single large flow, bringing with it an awareness of Self. Eidos' Self thus 'is' again, though she now feels nothing...*
+		*Streams of thoughts, ideas, perceptions - remembered, not truly felt - flood her Self's mind. They converge into a single large flow, bringing with it an awareness of Self. Eidos' Self thus 'is' again, though she now feels nothing...*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!0.001!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!0.X000!DESCRIPTION!/]
 
@@ -32,7 +32,7 @@ ATELIER
 
 	[/MIND!NETHER EDGE!ATELIER!1.X002!DESCRIPTION!]
 		|@:MIND!NETHER EDGE!ATELIER!2.000!DESCRIPTION!|
-		*Suddenly, other sounds begin to stir in the darkness all around her. Footsteps echo across a stone floor, the grinding sound of metal on rock, a resonance of caressed glass.*
+		*Suddenly, other sounds begin to stir in the darkness all around her. Quick, decisive footsteps echo across a stone floor, the grinding sound of metal on rock, a resonance of caressed glass.*
 		(A#...){A:0,MIND!NETHER EDGE!ATELIER!9999.X0019!DESCRIPTION!}
 	[MIND!NETHER EDGE!ATELIER!1.X002!DESCRIPTION!/]
 
@@ -58,7 +58,7 @@ VANARGAND
 
 	[/MIND!NETHER EDGE!ATELIER!1.000!VANARGAND!]
 		||
-		*"Can you yet hear me, Viracocha? Or are you too lost behind the Door of Night?"*
+		*"Can you yet hear me, Viracocha? Or are you also lost behind the Door of Night?"*
 		(A#"..."){A:0,MIND!NETHER EDGE!ATELIER!1.001!VANARGAND!}
 	[MIND!NETHER EDGE!ATELIER!1.000!VANARGAND!/]
 
