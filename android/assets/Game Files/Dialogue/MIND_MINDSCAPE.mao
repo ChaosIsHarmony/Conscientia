@@ -1304,11 +1304,13 @@ ________________________________
 GRAYLANDS
 	[/MIND!MINDSCAPE!GRAYLANDS!0000.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GRAYLANDS!0.X000!DESCRIPTION!|
-		*The Self awakens from the dream, trying to remember what just transpired. As far as it can tell, when it brought the Thought of Introspection to mind, the world about it melted away. The shapes of its surroundings faded into void. The blackness became all-consuming until it nullified the senses. Then, only oblivion remained.
+		*The Self awakens from the dream. It tries to remember. As far as it can tell, the world simply melted away. Shapes faded. Senses waned. Colors unified. Then, only oblivion remained.
 		
-		But the nothingness soon gives way to form. The mind's eye sees the darkness, inverting it. Dark becomes light; opaque becomes clear. The Self then begins to perceive objects around it. As it reaches out to these apparitions, they begin to take on greater resolution and to gain in clarity.
+		But the nothingness soon gives way to form. The mind's eye sees the darkness, inverting it. Dark becomes light; opaque becomes clear; and the Self begins to perceive shadows. As it reaches out to these apparitions, they gain in clarity. Their edges leak out, staining the surroundings, casting everything but the shadows themselves in a uniform grayness.
 		
-		The Self then begins walking, its footless steps silently falling upon a dull, colorless surface. The surrounding space takes on an identically devoid hue, until a distant horizon becomes barely perceptible. Shapes begin to distinguish themselves from the ether, and soon enough, blurred forms and amorphous masses abound. After some time, the Self recognizes these shapes as trees.*
+		The Self then begins walking, its footless steps silently falling upon a dull surface. The surrounding space and its identical hue, crack open as a distant horizon becomes barely perceptible. The steps continue their muted march.
+		
+		In the space of a thought, the Self has reached the distant horizon. Shapes begin to distinguish themselves from the ether, and soon enough, blurred forms and amorphous masses abound. After some time, the Self recognizes these shapes as trees.*
 		(A#...){A:0,MIND!MINDSCAPE!GRAYLANDS!9990.X19004!DESCRIPTION!}
 	[MIND!MINDSCAPE!GRAYLANDS!0000.X000!DESCRIPTION!/]
 
@@ -1341,7 +1343,7 @@ MULTICHECKER
 Torma + Adarin convo	
 	[/MIND!MINDSCAPE!GRAYLANDS!5.X000!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!GRAYLANDS!5.X100!DESCRIPTION!|
-		*As this Self walks into the Graylands upon the reflective surface of the floor, its silent footsteps begin to acquire sound, a dull monotonous thud, at an unwavering marching tempo. Deeper into the grayness do the footsteps penetrate, until this Self hears the sounds of a mirror gait, slow in its approach.
+		*As this Self walks into the Graylands upon the colorless surface of the floor, its silent footsteps begin to acquire sound, a dull monotonous thud, at an unwavering marching tempo. Deeper into the grayness do the footsteps penetrate, until this Self hears the echoes of a mirror gait, slow in its approach.
 		
 		As the Awareness of this presence dawns, its form and appellation become known. Thus, this Self realizes its form, Adarin, Beast Lord of the Enforcer caste. The Enclave, a memory, when from remains unclear in this timeless realm, but all memory can only be perceived in the present.*
 		(A#...){A:0,MIND!MINDSCAPE!GRAYLANDS!9999.X1200!DESCRIPTION!}
@@ -2859,9 +2861,9 @@ ________________________________
 MISTY WOOD
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.000!DESCRIPTION!]
 		||
-		*As the Self walks on, it appears to tread the mossy earth of a dark wood, though a misty veil hides the ground from greater scrutiny. But its phantom footfalls displace the supple undergrowth, leaving no need for visual confirmation.
+		*A memory of touch rejoins the foot to the mind. Like a flint’s spark in the darkness, the foot appears and disappears upon contact with the floor. The Self now treads the mossy earth of a dark wood, though a misty veil hides the ground from greater scrutiny. Phantom footfalls displace the supple undergrowth as they carry the Self deeper into forest.
 		
-		As the world comes into focus, the Self gains awareness of something else, something stalking from within the mist.*
+		Soon a new awareness, something else walks these woods, something stalking from within the mist.*
 		(A#Approach the presence){A:1,MIND!MINDSCAPE!MISTY WOOD!0000.X001!DESCRIPTION!}
 		(B#Observe the entity){B:1,MIND!MINDSCAPE!MISTY WOOD!0000.X002!DESCRIPTION!}
 		(C#Hide){C:1,MIND!MINDSCAPE!MISTY WOOD!0000.X003!DESCRIPTION!}
@@ -2872,31 +2874,33 @@ MISTY WOOD
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X001!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
-		*Turning about, the Self calmly walks toward its pursuer. As the shape approaches, the mist dissipates revealing the entity to be a black wolf. The creature lopes towards the Self and speaks.*
+		*Turning about, the Self calmly walks toward its pursuer. A collection of white mists eddy in an inverted spiral, darkening as they spin. The mass skulks toward the Self, bristling hairs sprouting from its surface, pearly claws and fangs emerging from the darkness. Eyes open, circular yellow flames, burning with hunger.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0000.X001!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X002!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
-		*Turning about, the Self immediately gazes upon its pursuer. As the shape approaches, the mist dissipates revealing the entity to be a black wolf. The creature lopes towards the Self and speaks.*
+		*Turning about, the Self immediately gazes upon its pursuer. A collection of white mists eddy in an inverted spiral, darkening as they spin. The mass skulks toward the Self, bristling hairs sprouting from its surface, pearly claws and fangs emerging from the darkness. Eyes open, circular yellow flames, burning with hunger.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0000.X002!DESCRIPTION!/]	
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X003!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
-		*The Self looks about, but with uncanny awareness knows that none of the trees will be sufficient to conceal its presence. Thus, turning about, the Self looks upon its pursuer. The entity is a black wolf. The creature lopes towards the Self and speaks.*
+		*The Self looks about, but with uncanny awareness knows that none of the trees will be sufficient to conceal its presence. Thus, turning about, the Self looks upon its pursuer.
+		
+		A collection of white mists eddy in an inverted spiral, darkening as they spin. The mass skulks toward the Self, bristling hairs sprouting from its surface, pearly claws and fangs emerging from the darkness. Eyes open, circular yellow flames, burning with hunger.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0000.X003!DESCRIPTION!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X004!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0000.000!DESCRIPTION!|
-		*The Self compels its mind to wake from this fugue. As the forest dissolves into a gray void, it catches a glimpse of its pursuer: a sooty wolf.*
+		*The Self compels its mind to wake from this nightmare fugue. Everything around it shatters like a broken mirror, and the images they reflected all fade from memory...*
 		(A#...){A:0,MIND!MINDSCAPE!LEAVE!0.000!END!}
 	[MIND!MINDSCAPE!MISTY WOOD!0000.X004!DESCRIPTION!/]	
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0000.X005!DESCRIPTION!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!0001.X000!DESCRIPTION!|
-		*Turning about, the Self immediately confronts its attacker. As the shape approaches, the mist dissipates revealing the entity to be an inky wolf. The creature lopes towards the Self and speaks.*
+		*Turning about, the Self immediately confronts its attacker. A collection of white mists eddy in an inverted spiral, darkening as they spin. The mass skulks toward the Self, bristling hairs sprouting from its surface, pearly claws and fangs emerging from the darkness. Eyes open, circular yellow flames, burning with hunger.*
 		(A#...){A:0,MIND!MINDSCAPE!MISTY WOOD!9999.X0000!DESCRIPTION!}
 	[MIND!MINDSCAPE!MISTY WOOD!0000.X005!DESCRIPTION!/]
 
@@ -3039,7 +3043,7 @@ FENNY
 		*"The way to my home you have found. Does this your hunger to know of me fill?"*
 		(A#"Why do we meet here, Fenrir?"){A:1,MIND!MINDSCAPE!MISTY WOOD!0.X100!FENRIR!}
 		(B#"What is this place?"){B:1,MIND!MINDSCAPE!MISTY WOOD!0.X200!FENRIR!}
-		(C#"I do not hunger."){C:1,MIND!MINDSCAPE!MISTY WOOD!0.X300!FENRIR!}
+		(C#"I have no such hunger."){C:1,MIND!MINDSCAPE!MISTY WOOD!0.X300!FENRIR!}
 		(D#"And what of your hunger?"){D:1,MIND!MINDSCAPE!MISTY WOOD!0.X400!FENRIR!}
 		(E#"Now I look upon your true shape."){E:1,MIND!MINDSCAPE!MISTY WOOD!0.X500!FENRIR!}
 		(F#"It might be hunger, but it's probably just gas."){F:1,MIND!MINDSCAPE!MISTY WOOD!0.X600!FENRIR!}
