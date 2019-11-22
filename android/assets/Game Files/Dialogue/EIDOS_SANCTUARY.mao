@@ -1415,7 +1415,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!]
 		||
-		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass embedded chest-high into a wall likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze injects shivers into every fiber of her being, trapping her in an eternal instant of gloom and despair.
+		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass embedded chest-high into a wall likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze injects shivers into every fiber of her being.
 		
 		Yet cold feet soon break the spell, drawing her attention to the floor. The metallic platform she now stands upon seems to sap her body's warmth - showing no signs of stopping.*
 		(A#Approach one of the doors){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!}
