@@ -1958,7 +1958,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!1.000!FENRIR!]
 		||
-		*"The my aid yours is..."*
+		*"Then my aid yours is..."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!1.001!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!1.000!FENRIR!/]
 
@@ -1991,7 +1991,7 @@ FENRIR
 		*"Your truth speak! What reason have you to the Awakening Chamber leave?"*
 		(A#"To meet and understand others."){A:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
 		(B#"To seek and know the truth."){B:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
-		(C#"To exist is enough; leaving is immaterial."){C:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
+		(C#"No reason in particular; leaving is immaterial."){C:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
 		(D#"To live without fear."){D:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
 		(E#"To exceed my limits."){E:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.005!FENRIR!}
 		(F#"To uncover the gremlin conspiracy!"){F:2,KABU!SANCTUARY!AWAKENING CHAMBER!1.0050!FENRIR!}
@@ -4475,7 +4475,7 @@ WINDING STAIR
 >>>Eidos sees the DKR vision (12407)<<<	
 	[/KABU!SANCTUARY!WINDING STAIR!05.000!DESCRIPTION!]
 		||
-		*Eidos leaps from the stairs. The mark of bravery? Insanity? or... Awareness? Her hands reach out for the landing as she nears it, but it is indeed much too distant, and soon it seems to rise upwards, towards the ceiling and away from her desperate hands.*
+		*Eidos leaps from the stairs. The mark of bravery? Insanity? Or... Awareness? Her hands reach out for the landing as she nears it, but it is indeed much too distant, and soon it seems to rise upwards, towards the ceiling and away from her desperate hands.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!05.001!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.000!DESCRIPTION!/]
 
