@@ -1237,7 +1237,9 @@ ARCHIVES
 	
 	[/KABU!SANCTUARY!ARCHIVES!10.0142!DESCRIPTION!]
 		||
-		*The hallway leading to Luin's Chamber is darkened, now with the crystal's light consumed. Eidos continues further down the passage walking what seems to be an infinite distance, only to arrive right back where she started...*
+		*The hallway leading to Luin's Chamber is darkened, now with the crystal's light consumed. Eidos continues further down the passage walking what seems to be an infinite distance, only to arrive right back where she started...
+		
+		Suddenly, she hears an echoless giggle, utterly innocent, utterly pure, utterly honest in its desire for violence. Then, silence.*
 		(A#...){A:0,KABU!SANCTUARY!ARCHIVES!0.X110!DESCRIPTION!}
 	[KABU!SANCTUARY!ARCHIVES!10.0142!DESCRIPTION!/]
 
@@ -2059,7 +2061,7 @@ FENRIR
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!2.0030!FENRIR!]
 		||
-		*"In mind and thought unwavering, though in aim malleable. Path unknown, possibilities boundless, you proceed."*
+		*"In indifference unwavering, though in aim malleable. Path unknown, possibilities boundless, you proceed."*
 		(A#"..."){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!3.X000!FENRIR!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!2.0030!FENRIR!/]
 
@@ -4313,9 +4315,9 @@ WINDING STAIR
 
 	[/KABU!SANCTUARY!WINDING STAIR!0.001!DESCRIPTION!]
 		||
-		*The air here is dry and stale, unperturbed long enough for it to stratify by density. The thickest clusters at the bottom eat away all intrusions of light. A thin layer of dust coating the stairs suggests that Eidos' newly added footsteps are the first to disrupt the balance in quite some time.
+		*The air here is dry and stale, unperturbed long enough to stratify by density. The thickest of it clusters at the bottom, eating away all intrusions of light.
 		
-		Though the steps may not have seen any recent use, they are in a state far from disrepair. Brushing away a swath of the dust with her hand, Eidos sees the floors have been carefully polished, showing no cracks, no threat of crumbling. It is as though they were only recently crafted. Rich marble veins of geometric designs carve their way through this landing, though only humble shapes adorn the individual steps leading to and from it.*
+		A thin layer of dust coating the stairs suggests that Eidos' newly added footsteps are the first to disrupt the balance in quite some time. Though the steps may not have seen any recent use, they are in a state far from disrepair. Brushing away a swath of the dust with her hand, Eidos sees the floors have been carefully polished, showing no cracks, no threat of crumbling. It is as though they were only recently crafted. Rich marble veins of geometric designs carve their way through this landing, though only humble shapes adorn the individual steps leading to and from it.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!0.002!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!0.001!DESCRIPTION!/]
 
@@ -4391,7 +4393,7 @@ WINDING STAIR
 
 	[/KABU!SANCTUARY!WINDING STAIR!01.002!DESCRIPTION!]
 		||
-		*Turning her attention once more to the stairwell, she sees that her progress has been thwarted. The stairs beyond this point have crumbled away - though given the pristine condition of the steps she took to get here, sabotage seems a likelier cause than age. And while there is another landing far beyond, one continuing the theoretical spiral trajectory, the gap is far too vast for any reasonable person to consider leaping to it...*
+		*Turning her attention once more to the stairwell, she sees that her progress has been thwarted. The stairs beyond this point have crumbled away, sabotage a likelier cause than age given the pristine condition of the stairs. And while there is another landing far beyond, one continuing the theoretical spiral trajectory into the abyss, the gap is far too wide for any reasonable person to consider leaping to it...*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!01.003!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!01.002!DESCRIPTION!/]
 
@@ -4475,7 +4477,9 @@ WINDING STAIR
 >>>Eidos sees the DKR vision (12407)<<<	
 	[/KABU!SANCTUARY!WINDING STAIR!05.000!DESCRIPTION!]
 		||
-		*Eidos leaps from the stairs. The mark of bravery? Insanity? Or... Awareness? Her hands reach out for the landing as she nears it, but it is indeed much too distant, and soon it seems to rise upwards, towards the ceiling and away from her desperate hands.*
+		*Her arms swing back and forth, preparing her body for the jump. Her legs coordinate their squat with the swing. And soon, she leaps. The mark of bravery? Insanity? Or... Awareness?
+		
+		Her hands reach out for the landing as she nears it, but it is indeed much too distant, and soon it seems to rise upwards, towards the ceiling and away from her desperate hands.*
 		(A#...){A:0,KABU!SANCTUARY!WINDING STAIR!05.001!DESCRIPTION!}
 	[KABU!SANCTUARY!WINDING STAIR!05.000!DESCRIPTION!/]
 
