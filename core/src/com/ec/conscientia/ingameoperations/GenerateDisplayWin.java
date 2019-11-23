@@ -272,16 +272,23 @@ public class GenerateDisplayWin {
 						mgScr.mgVar.NPCdialogueArea.getHeight());
 
 				// NPC name
-				TextButton npcArea;
-				if (mgScr.getConscientia().isUseAltFont()) {
-					npcArea = new TextButton(mgScr.mgVar.dialogue.getCurrentNPC().getName(), mgScr.mgVar.skin);
-					npcArea.setStyle(mgScr.loadingUtils.getTextButtonStyle("npcArea"));
+				TextButton npcArea = null;
+				// getting a NullPointerException her
+				try {
+					String npc_name = mgScr.mgVar.dialogue.getCurrentNPC().getName();
+					if (mgScr.getConscientia().isUseAltFont()) {
+						npcArea = new TextButton(npc_name, mgScr.mgVar.skin);
+						npcArea.setStyle(mgScr.loadingUtils.getTextButtonStyle("npcArea"));
+					} else
+						npcArea = new TextButton(npc_name, mgScr.mgVar.skin,
+								"npcArea");
+					npcArea.align(Align.center);
+					npcArea.setTouchable(Touchable.disabled);
+				} catch (Exception NullPointerException) {
+					// there's still a crash due to a NullPointerException happening here that I can't figure out
+					mgScr.loadingUtils.nullError("DIALOGUE_WIN-NPC_NULL: npc_" + mgScr.mgVar.currentNPC
+							+ " | loc_" + mgScr.getCurrentLocation());
 				}
-				else
-					npcArea = new TextButton(mgScr.mgVar.dialogue.getCurrentNPC().getName(), mgScr.mgVar.skin,
-						"npcArea");
-				npcArea.align(Align.center);
-				npcArea.setTouchable(Touchable.disabled);
 
 				// NPC avatar
 				Window avatarWindow = new Window("", mgScr.mgVar.skin, "no_bg");
