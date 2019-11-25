@@ -61,14 +61,14 @@ Crystal unchanged
 >>>Acquired resurrection (17300)<<<	
 	[/KABU!SANCTUARY!ANTECHAMBER!1.X003!DESCRIPTION!]
 		|^17300:KABU!SANCTUARY!ANTECHAMBER!1.003!DESCRIPTION!|
-		*The crystal is as it seemed: inert and devoid of any energy. It was likely used to power the portcullis mechanism, given its proximity to the gate. But dead it is and so it shall remain, as Eidos lacks the means to revive it.*
+		*The crystal is as it seemed - devoid of any energy. It was likely used to power the portcullis mechanism, given its proximity to the gate. But dead it is and so it shall remain, as Eidos lacks the means to revive it.*
 		(A#Return attention to the room){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
 		(F#Break crystal){F:2,KABU!SANCTUARY!ANTECHAMBER!1.X005!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.X003!DESCRIPTION!/]
 	
 	[/KABU!SANCTUARY!ANTECHAMBER!1.003!DESCRIPTION!]
 		||
-		*The crystal is as it appears: inert, devoid of any energy. It is likely used to power the portcullis mechanism, given its proximity to the gate. But dead it is and so it shall remain, unless... 
+		*The crystal is as it appears - devoid of any energy. It is likely used to power the portcullis mechanism, given its proximity to the gate. But dead it is and so it shall remain, unless... 
 		
 		Just then, the sparks of Awareness shower down upon the kindling of possibility. The memory of Resurrection reignites, its brand seared into her very Trueflesh. Quickly gaining in clarity, she soon perfectly recalls the way to reach the crystal's mind.*
 		(A#Return attention to the room){A:0,KABU!SANCTUARY!ANTECHAMBER!0.X000!DESCRIPTION!}
@@ -90,7 +90,7 @@ Crystal unchanged
 >>>Revived portcullis crystal (12404)<<<
 	[/KABU!SANCTUARY!ANTECHAMBER!1.X005!DESCRIPTION!]
 		|^12404:KABU!SANCTUARY!ANTECHAMBER!1.X0050!DESCRIPTION!|
-		*Collecting a loosened stone from the ground, Eidos maniacally bashes the crystal in its casing. A violent crack signals success as the casing begins to spit shards of crystal in the six directions. Ephemeral as it may be, the crystalline shards cascade floorward in gorgeous fashion - a lovely facsimile of fireworks.*
+		*Collecting a loosened stone from the ground, Eidos maniacally bashes the crystal in its casing. A violent crack signals success as the casing begins to spit shards of crystal in the six directions. Ephemeral as it may be, the crystalline fragments cascade floorward in gorgeous fashion - a lovely facsimile of fireworks.*
 		(B#...){B:0,KABU!SANCTUARY!ANTECHAMBER!9990.X12405-1!DESCRIPTION!}
 	[KABU!SANCTUARY!ANTECHAMBER!1.X005!DESCRIPTION!/]
 
@@ -1494,7 +1494,7 @@ AWAKENING CHAMBER
 		||
 		*Though her eyes see only a mundane symbol of copulating lines birthing the symmetrical patterns of a Glyph, the resonating Sigil she carries with her reveals its meaning - Discipline.
 		
-		As soon as this knowledge dawns within her, the mural's impression on her changes. The hooded figures turn their heads toward her, looking upon Eidos with frenzied expectation. Suddenly, the door and mural fade from view, revealing before her a chamber shrouded in a smoky veil of deep blue light, its source yet unclear.*
+		As soon as this knowledge dawns within her, the mural's impression on her changes. The hooded figures turn their heads toward her, looking upon Eidos with expectant eyes. Suddenly, the door and mural fade from view, revealing before her a chamber shrouded in a smoky veil of deep blue light, its source yet unclear.*
 		(A#Pass through the door){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X12004!DESCRIPTION!}
 		(B#Examine the other door){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X040!DESCRIPTION!}
 		(C#Peer into the dark glass){C:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!}
@@ -3853,7 +3853,7 @@ MATHETIA
 
 	[/KABU!SANCTUARY!MATHETIA!0.000!DESCRIPTION!]
 		||
-		*Stepping across the threshold, Eidos finds herself in a room wholly unlike the one she just left. The simple geometry of the previous area looks primitive compared to the dizzying array of shapes that now confront her. Lines and curves intersect to form intricate, extra-dimensional patterns that lace all surfaces.
+		*Stepping across the threshold, Eidos finds herself in a room wholly unlike the one she just left. The simple geometry of the previous area looks primitive in comparison to the dizzying array of shapes that now confront her. Lines and curves intersect to form intricate, extra-dimensional patterns that lace all surfaces.
 		
 		Staring at any given surface gives the impression of standing between two mirrors and looking off into their simulated infinities. But this effect is true from all angles Eidos seems to choose, and perhaps from every possible angle.*
 		(A#...){A:0,KABU!SANCTUARY!MATHETIA!0.0000!DESCRIPTION!}
@@ -3867,9 +3867,9 @@ MATHETIA
 
 	[/KABU!SANCTUARY!MATHETIA!0.0001!DESCRIPTION!]
 		||
-		*Eidos' eyes next fall upon the elliptical table dominating the middle of the room. Unfathomably dark, yet polished to the point of reflecting light - even from under the thick layers of dust upon it. The table is surrounded by a number of smooth, black, lacquered chairs.
+		*Eidos' eyes next fall upon the elliptical table dominating the middle of the room. Unfathomably dark, yet somehow polished to the point of reflection - even from under the thick layers of dust upon it. A number of smooth, lacquered chairs surround the abyssal table, all impeccably aligned with a perfect mirror's symmetry.
 		
-		Then she sees it, the blue haze’s source. A spherical, blue crystal has been placed upon a simple and unpolished jade stand, near the edge of the table. It is as dissimilar to the room as a shadow is to the light that casts it, just a warped and distorted echo introduced by foreign elements into a forbidden plane.*
+		Then she sees it - the blue haze's source. A spherical crystal has been placed upon a simple and unpolished jade stand, near the edge of the table. It is as dissimilar to the room as a shadow is to the light that casts it, a warped and distorted echo introduced by foreign elements into a forbidden plane.*
 		(A#Examine the crystal){A:0,KABU!SANCTUARY!MATHETIA!0.001!DESCRIPTION!}
 		(B#Return to the Awakening Chamber){B:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X011!DESCRIPTION!}
 	[KABU!SANCTUARY!MATHETIA!0.0001!DESCRIPTION!/]
@@ -3877,13 +3877,13 @@ MATHETIA
 
 	[/KABU!SANCTUARY!MATHETIA!0.001!DESCRIPTION!]
 		||
-		*Eidos reaches out and collects the crystal in her hand. It trembles in her loose grip, threatening to fall; she grips more firmly. The resonance persists, gently at first but ever gaining in intensity, until finally a vision coalesces at its center. The vision links with Eidos and soon becomes her simulated reality. As though looking through the eyes of another, Eidos sees memories - not her own making yet still distinctly hers somehow.*
+		*Eidos reaches out and collects the crystal in her hand. It trembles in her loose grip, threatening to fall. She grips more firmly, careful not to break it. The resonance persists, gently at first but ever gaining in intensity, until finally a vision coalesces at its center. The vision links with Eidos and soon becomes her assumed reality. Through the eyes of another, Eidos remembers - not memories of her own making, yet still distinctly hers somehow.*
 		(A#...){A:0,KABU!SANCTUARY!MATHETIA!0.002!DESCRIPTION!}
 	[KABU!SANCTUARY!MATHETIA!0.001!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!MATHETIA!0.002!DESCRIPTION!]
 		||
-		*A gathering of robed figures. A journey across a lifeless landscape. A dark, crimson tower painted in blood, imposing over abandoned streets. Draugnir. A void darker than night. Imprisonment in this spherical jail. And...*
+		*A gathering of robed figures. Two giant beasts wrapped in a violet glow. Death. Bodies. Thetian. A frantic flight from the Enclave. To Kabu. To the Thought Wheel of the Beginning. A journey across a lifeless landscape. A dark, crimson tower painted in blood, imposing over abandoned streets. Draugnir. A void darker than night. Imprisonment in this spherical jail. And...*
 		(A#...){A:0,KABU!SANCTUARY!MATHETIA!0.003!DESCRIPTION!}
 	[KABU!SANCTUARY!MATHETIA!0.002!DESCRIPTION!/]
 
@@ -3899,7 +3899,7 @@ MATHETIA
 		||
 		*Instinct becomes will, will then becoming thought. An image slowly forms, burning out lines from the void. A circle manifests, weaving an intricate tapestry of lines, never crossing, as they traverse dimensions linking paths among them. And soon, the Glyph is fully formed, completing the reaction.
 		
-		Without knowing why, Eidos calls Fenrir’s Glyph to mind. And without knowing how, the shining object in her hand dims as it begins to inject its contents into her Trueflesh, light waning until it vanishes completely.
+		Without knowing why, Eidos calls Fenrir's Glyph to mind. And without knowing how, the shining object in her hand dims as it begins to inject its contents into her Trueflesh, light waning until it vanishes completely.
 		
 		The emptied husk of crystal soon slips from her hand, crashing to the ground and cracking into perfectly equal blue slivers. But Eidos is too preoccupied with the surges of conflicting emotions now present within her mind. They seek to disrupt like unrelenting waves crashing against stubborn cliffs...*
 		(A#...){A:0,KABU!SANCTUARY!MATHETIA!0.X005!DESCRIPTION!}
