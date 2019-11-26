@@ -1339,7 +1339,7 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!00.010!DESCRIPTION!]
 		||
-		*Her eyes strain against the ambient light, distorted outlines sharpening into shapes, colors dividing and separating. At last, clarity replaces ambiguity and she is free to observe her surroundings for the first time, searching for hints of something... really, anything but the obvious solitude confronting her.*
+		*Her eyes strain against the ambient light, distorted outlines sharpening into shapes, colors dividing and multiplying. At last, clarity replaces ambiguity and she is free to observe her surroundings for the first time, searching for hints of something... really, anything but the obvious solitude confronting her.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9990.X2050!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!00.010!DESCRIPTION!/]
 
@@ -1411,13 +1411,13 @@ AWAKENING CHAMBER
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0100!DESCRIPTION!]
 		||
-		*The stone walls are all richly decorated with murals and symbols, nary an inch of naked stone remaining. One such mural depicts sculpted trees draped in crimson flowers. The trees line a path where people stroll and fountains spray endless streams of water. Though these features suggest a private garden, others distract from this impression. A wolf, a crow, and a serpent skulk furtively in and among the foliage, hidden in plain sight from the oblivious eyes of those who willfully ignore them.*
+		*The stone walls are all richly decorated with murals and symbols, nary an inch of naked stone remaining. One such mural depicts sculpted trees draped in crimson flowers. The trees line a path where people stroll and fountains spray their endless streams. Though these features suggest a private garden, others distract from this impression. A wolf, a crow, and a serpent skulk furtively in and among the foliage, hidden in plain sight from the oblivious eyes of those who willfully ignore them.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.0100!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.0101!DESCRIPTION!]
 		||
-		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass embedded chest-high into a wall likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze injects shivers into every fiber of her being.
+		*These images span several walls unbroken, except at three points. Two doors, directly opposite one another, interrupt the murals, one painted an immaculate white, the other a murky indigo. A dark glass, embedded chest-high into a wall, likewise stabs a pitch black hole into the continuity of the murals; its unnerving gaze injects shivers into every fiber of her being.
 		
 		Yet cold feet soon break the spell, drawing her attention to the floor. The metallic platform she now stands upon seems to sap her body's warmth - showing no signs of stopping.*
 		(A#Approach one of the doors){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.030!DESCRIPTION!}
@@ -1527,13 +1527,13 @@ AWAKENING CHAMBER
 		|^12900:KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!|
 		*Her eyes catch an anomaly, and immediately gravitate towards it. It came from the chest-high glass, the disturbing one. But now, the twinkle of reflecting light off the dark glass seems benign, inviting even. It draws her ever nearer, each step further erasing her initial apprehension.	Though it looks like a hole pierced in space, the circular pane offers no view of what lies beyond. Peering in, she only sees the dim, visual echo of her own youthful visage.
 		
-		Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon her warping image is replaced with an unsettling apparition...*
+		Suddenly, her reflection seems to distort, like the smoke of a flame just snuffed. Soon, her warping image is replaced with an unsettling apparition...*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!0.X051!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X050!DESCRIPTION!/]
 
 	[/KABU!SANCTUARY!AWAKENING CHAMBER!0.X051!DESCRIPTION!]
 		|@:KABU!SANCTUARY!AWAKENING CHAMBER!0.X052!DESCRIPTION!|
-		*Bristling hairs of the darkest gray and the deepest black outline the form of a lurking wolf. Its yellow eyes seem somehow darker than the emptiness from which they emerge.*
+		*Bristling hairs of the darkest gray and the deepest black outline the form of a lurking wolf, its yellow eyes somehow darker than the emptiness from which they emerge.*
 		(A#...){A:0,KABU!SANCTUARY!AWAKENING CHAMBER!9999.X0000!DESCRIPTION!}
 	[KABU!SANCTUARY!AWAKENING CHAMBER!0.X051!DESCRIPTION!/]
 
