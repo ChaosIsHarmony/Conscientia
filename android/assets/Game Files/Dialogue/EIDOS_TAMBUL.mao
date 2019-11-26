@@ -1552,11 +1552,11 @@ ATRIUM
 virgin entrance
 	[/KABU!TAMBUL!ATRIUM!0.000!DESCRIPTION!]
 		||
-		*The heavy wood grates against the desert sand as the gates to Tambul close. Before Eidos is a large courtyard bustling with activity. Contrary to what the towering walls and mighty gates suggest, there is a scant and ill-equipped military presence.
+		*The heavy wood grates against the desert sand as the gates to Tambul close. Before Eidos is a large courtyard bustling with activity. Contrary to what the towering walls and mighty gates suggest, though, there is a scant and ill-equipped military presence.
 		
-		For the most part, the life of the townsfolk dominates this environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicenter of all activity is a large, marble sculpture - a depiction of an unnamed hero slaying an unnamed beast.
+		For the most part, the life of the townsfolk dominates this environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicenter of all activity is a large, marble sculpture - some depiction of an unnamed hero slaying an unnamed beast.
 		
-		Many within proximity to the gates take notice of Eidos. Some pretend to go about their business while cautiously drawing near to regard her, but none approach. One of them in particular, a red-haired young girl, stands staring for a moment, only to then run off down the street with great urgency.*
+		Many within proximity to the gates take notice of Eidos. Some pretend to go about their business while cautiously drawing near to regard her, but none approach. One of them in particular, a youthful, red-headed girl, stands staring for a moment, only to then run off down the street with great urgency.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!0.100!DESCRIPTION!}
 		(B#Explore the Atrium){B:0,KABU!TAMBUL!ATRIUM!0.X200!DESCRIPTION!}
 		(C#Leave this town){C:0,KABU!TAMBUL!ATRIUM!0.X001!DESCRIPTION!}
@@ -2754,13 +2754,13 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.1000!NIYOOSH!]
 		||
-		*"No that we aren't welcomin' of foreign folk, mind you! It's just hard to get here!"*
+		*"Not that we aren't welcomin' of foreign folk, mind you! It's just hard to get here!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.1000!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.1001!NIYOOSH!]
 		||
-        *"The only thing you'll find here is boredom and sand!"*
+        *"And besides, the only thing you'll find here is boredom and sand!"*
    		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.1001!NIYOOSH!/]
 
@@ -3162,7 +3162,7 @@ Maybe NIYOOSH should disappear after this?????
 	[/KABU!TAMBUL!ATRIUM!1.0000!NIYOOSH!]
 		||
 		*"So, tell me, you been to the Dawn Fortress lately?"*
-		(A#"Maybe, I'm not sure."){A:1,KABU!TAMBUL!ATRIUM!1.001!NIYOOSH!}
+		(A#"Probably not, though I'm not sure."){A:1,KABU!TAMBUL!ATRIUM!1.001!NIYOOSH!}
 		(B#"Yes, I have."){B:1,KABU!TAMBUL!ATRIUM!1.100!NIYOOSH!}
 		(D#"Why do you ask?"){D:1,KABU!TAMBUL!ATRIUM!1.005!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.0000!NIYOOSH!/]
@@ -5587,7 +5587,7 @@ virgin entrance
 	
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!]
 		||
-		*Then, through the heat-born distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking their roofs above the walls. The blinding, silver spire Eidos chases, juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
+		*Then, through the heat-born distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking their roofs above the walls. The blinding spire Eidos chases juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X0002!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!/]
 
@@ -5598,7 +5598,7 @@ virgin entrance
 		
 		Yet at her arrival, the helmeted visages of two watchmen appear atop the wall. They study her closely, inquiring about her intentions with their gazes.
 		
-		However, Eidos then looks west, noticing for the first time the deep ruts of a road leading to another settlement, nestled into the foot of the mountains. Eastward, leads along the city walls in the direction of the silver spire and a distant canyon beyond.*
+		Weighing her options, Eidos looks west, noticing for the first time the deep ruts of a road leading to another settlement, nestled into the foot of the mountains. Eastward, leads along the city walls in the direction of the silver spire and a distant canyon beyond.*
 		(A#Go west to the other settlement){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the city walls to the tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
 		(C#Enter the township){C:0,KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!}
@@ -5610,7 +5610,7 @@ virgin entrance
 		
 		Yet at her arrival, the helmeted visages of two watchmen appear atop the wall. They study her closely, inquiring about her intentions with their gazes.
 
-		However, Eidos looks west, noticing the deep ruts of the road leading to Dazir, nestled into the foot of the mountains. Eastward, leads along the city walls in the direction of the silver spire and a distant canyon beyond.*
+		Weighing her options, Eidos looks west, noticing the deep ruts of the road leading to Dazir, nestled into the foot of the mountains. Eastward, leads along the city walls in the direction of the silver spire and a distant canyon beyond.*
 		(A#Go west to Dazir){A:0,KABU!DAZIR!GATES OF DAZIR!0.X000!DESCRIPTION!}
 		(B#Go east along the city walls to the Moon Tower){B:0,KABU!TAMBUL!MOON TOWER!10.000!DESCRIPTION!}
 		(C#Enter the township){C:0,KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!}
@@ -5618,7 +5618,7 @@ virgin entrance
 
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!]
 		|@:KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!|
-		*At her approach, the gates immediately begin to grate the earth beneath their feet, opening with a raspy moan. A handful of spearmen stand within, but do not block her passage. Hails from neither the guards atop the walls nor those within them ask her name or purpose, though all present watch Eidos with attentive stares as she passes through the gates.*
+		*At her approach, the gates immediately begin to grate the earth beneath their feet, opening with a raspy moan. A handful of spearmen stand within, but do not block her passage. Neither the guards atop the walls nor those within them ask her name or purpose, though all present watch Eidos with attentive stares as she passes through the gates.*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!0.X000!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!/]	
 

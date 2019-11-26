@@ -398,16 +398,16 @@ From Dazir
 >>>Learned hidden mind (12304)<<<
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X100!DESCRIPTION!]
 		|^12304:KABU!WILDERNESS!JENOWIN PLAIN!0.101!DESCRIPTION!|
-		*She walks across the burning span of desert, one labored step after the next. Diminutive dust clouds dance with her feet at every step. Their combined masses join to form a wispy cape heralding her approach.
+		*She stumbles across the burning span of desert, one labored step after the next. Diminutive dust clouds dance to the rhythm of her footfalls, and eventually all join to form a wispy cape heralding her approach.
 		
-		Hours pass before she notices a mirror cloud rising off in the distance. Straining her eyes against the sun and dust, it is difficult to make anything out for certain among the shimmering waves of burning air. Perhaps it is a person moving its way towards her, or perhaps it is merely a mirage born of heat and thirst.*
+		Hours pass before she notices a mirror cloud rising off in the distance. Straining her eyes against the dust and sun, it is difficult to make anything out for certain among the shimmering waves of burning air. Perhaps it is a person moving its way towards her, or perhaps it is merely a mirage born of heat and thirst.*
 		(A#Keep walking forward){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X120!DESCRIPTION!}
 		(B#Wait for the figure to approach){B:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X110!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.X100!DESCRIPTION!/]
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.101!DESCRIPTION!]
 		||
-		*Eidos walks across the burning span of desert, one labored step after the next. Following what feels like centuries, she notices movement up ahead. Straining her eyes against the sun and dust, it is difficult to make anything out for certain among the shimmering waves of burning air. Perhaps it is a person moving its way towards her, or perhaps it is merely a shade born of heat and thirst.*
+		*Eidos walks across the burning span of desert, one labored step after the next. An eternity seems to pass before she notices movement up ahead. Straining her eyes against the dust and sun, it is difficult to make anything out for certain among the shimmering waves of burning air. Perhaps it is a person moving its way towards her, or perhaps it is merely a shade born of heat and thirst.*
 		(A#Approach the stranger){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X120!DESCRIPTION!}
 		(B#Wait for the figure to approach){B:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X110!DESCRIPTION!}
 		(C#_Use Hidden Mind Techne_){C:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17900-2!DESCRIPTION!}
@@ -1647,7 +1647,7 @@ from sanc
 
 	[/KABU!WILDERNESS!TACRIBA!0.002!DESCRIPTION!]
 		||
-		*Eidos comes once more to the ruins of Tacriba. Abandoned and forgotten, it shares the fate of all who dared exist. The eldritch illumination of the false stone dome still gives a hazy impression that the city itself is but a memory - devoid of substance, absent physicality. The ground still pretends to be some monstrous mouth agape in a perpetual howl, baring jagged teeth that dimly shimmer in the meager light.
+		*Eidos comes once more to the ruins of Tacriba. Abandoned and forgotten, it shares the fate of all who dared exist. The eldritch illumination of the false stone dome still gives a hazy impression that the city itself is but a memory. The ground still pretends to be some monstrous mouth agape in a perpetual howl, baring jagged teeth that dimly shimmer in the meager light.
 		
 		Nothing new here in this graveyard for memories.*
 		(A#Go to the Jenowin Plain){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X000!DESCRIPTION!}
