@@ -1452,7 +1452,7 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1131!RADAN!]
 		||
-		*"But our transformation as Unseen was absolute and rendered us invisible to their magesight."*
+		*"But our transformation as Unseen was absolute and rendered us invisible to their Truesight."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.114!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1131!RADAN!/]
 
@@ -3096,7 +3096,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.3004!KAHIN!]
 		||
-		*"The magi of Kabu removed our connection to the link and blinded their magesight to our mind's eye. Yet still, we live on as we always will!"* 
+		*"The magi of Kabu removed our connection to the link and blinded their Truesight to our minds. Yet still, we live on as we always will!"* 
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.3005!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.3004!KAHIN!/]
 
@@ -3140,7 +3140,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.4003!KAHIN!]
 		||
-		*"The magi of Kabu removed our connection to the link and thus blinded their magesight to our minds. The Trueflesh is lost to us, yet still we live on, as we always will!"*
+		*"The magi of Kabu removed our connection to the link and thus blinded their Truesight to our minds. The Trueflesh is lost to us, yet still we live on, as we always will!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.4004!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.4003!KAHIN!/]
 
@@ -3178,7 +3178,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.5002!KAHIN!]
 		||
-		*"The magi of Kabu removed our connection to the link and blinded their sight through our mind's eye. Yet still, we live on as ever we have."*
+		*"The magi of Kabu removed our connection to the link and blinded their truesight to our minds. Yet still, we live on as ever we have."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.5003!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.5002!KAHIN!/]
 
@@ -3216,7 +3216,7 @@ KAHIN
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.6002!KAHIN!]
 		||
-		*"The magi of Kabu removed our connection to the link and blinded their magesight to our mind's eye. Yet still, we live on as we always will."*
+		*"The magi of Kabu removed our connection to the link and blinded their Truesight to our minds. Yet still, we live on as we always will."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.6003!KAHIN!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.6002!KAHIN!/]
 
@@ -5012,7 +5012,7 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.1010!SAMESH!]
 		||
-		*"I wonder what it is that this place is doing to them, honestly. If only I could take them to a mage to work his magesight..."*
+		*"I wonder what it is that this place is doing to them, honestly. If only I could take them to a mage to work his Truesight..."*
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.X1011!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!0.1010!SAMESH!/]
 
@@ -5054,7 +5054,7 @@ SAMESH
 
 	[/KABU!UR'RUK!STONE CIRCLE!0.501!SAMESH!]
 		||
-		*"I suppose I am... It's my fault that they were born in Ur'Ruk. I just wonder what it is that this place is doing to them. If only a mage could use their magesight..."* 
+		*"I suppose I am... It's my fault that they were born in Ur'Ruk. I just wonder what it is that this place is doing to them. If only a mage could use their Truesight..."* 
 		(A#"..."){A:0,KABU!UR'RUK!STONE CIRCLE!0.X5010!SAMESH!}
 	[KABU!UR'RUK!STONE CIRCLE!0.501!SAMESH!/]
 

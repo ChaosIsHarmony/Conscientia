@@ -4928,7 +4928,7 @@ KHLUTT
 >>>Have Hidden Mind (12304)<<<
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.X0010!KHLUTT!]
 		|^12304:KABU!DAWN FORTRESS!MAGE'S ABODE!0.005!KHLUTT!|
-		*"Be silent. My magesight will speak your true intentions for you."*
+		*"Be silent. My Truesight will speak your true intentions for you."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.X0011!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.X0010!KHLUTT!/]
 
@@ -4948,7 +4948,7 @@ KHLUTT
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.0050!KHLUTT!]
 		||
-		*"Be silent. My magesight will speak your true intentions for you."*
+		*"Be silent. My Truesight will speak your true intentions for you."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.X0011!KHLUTT!}
 		(D#_Use Hidden Mind Techne_){D:1,KABU!DAWN FORTRESS!MAGE'S ABODE!10.000!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.0050!KHLUTT!/]
@@ -5631,13 +5631,13 @@ Have an agreement w Khaa
 >>>Have Hidden Mind (12304)<<<
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!9.X001!KHLUTT!]
 		|^12304:KABU!DAWN FORTRESS!MAGE'S ABODE!9.0010!KHLUTT!|
-		*"Be silent. My magesight will speak your true intentions for you."*
+		*"Be silent. My Truesight will speak your true intentions for you."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!9.002!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!9.X001!KHLUTT!/]
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!9.0010!KHLUTT!]
 		||
-		*"Be silent. My magesight will speak your true intentions for you."*
+		*"Be silent. My Truesight will speak your true intentions for you."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!9.002!KHLUTT!}
 		(D#_Use Hidden Mind Techne_){D:1,KABU!DAWN FORTRESS!MAGE'S ABODE!10.000!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!9.0010!KHLUTT!/]

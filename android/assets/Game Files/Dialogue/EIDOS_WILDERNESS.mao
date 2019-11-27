@@ -415,7 +415,7 @@ From Dazir
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.X110!DESCRIPTION!]
 		|@:KABU!WILDERNESS!JENOWIN PLAIN!0.X900!DESCRIPTION!|
-		*As the flickering shape draws nearer, Eidos sees that it is clearly no mirage. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Every stitch of thread, every scrap of cloth is dyed some shade of red. It walks with the aid of a large wooden staff and a wide-brimmed hat obscures its features.
+		*As the flickering shape draws nearer, Eidos sees that it is clearly no mirage. The figure is dressed in dusty robes, patched and mended so many times that the original fabric is hard to discern. Every stitch of thread, every scrap of cloth is dyed some shade of red. It walks with the aid of a large wooden staff, and a wide-brimmed hat obscures its features.
 		
 		About ten strides from Eidos, it raises its head to look upon her.*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!9990.X17901!DESCRIPTION!}

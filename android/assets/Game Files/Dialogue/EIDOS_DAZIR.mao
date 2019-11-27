@@ -1188,7 +1188,7 @@ KHAA
 	
 	[/KABU!DAZIR!ARBORETUM!00.7001!KHAA!]
 		||
-		*"How is it that you rebuff my magesight?!"*
+		*"How is it that you rebuff my Truesight?!"*
 		(A#"..."){A:0,KABU!DAZIR!ARBORETUM!00.7002!KHAA!}
 	[KABU!DAZIR!ARBORETUM!00.7001!KHAA!/]
 	
@@ -9758,7 +9758,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.3000!CETIN!]
 		||
-		*"Surely you know of the accursed Unseen, whose warped minds cannot be subjected to the mystic eye of magesight?"*
+		*"Surely you know of the accursed Unseen, whose warped minds cannot be subjected to the mystic eye of Truesight?"*
 		(B#"Not entirely. How is it that some minds are resistant to Techne?"){B:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.201!CETIN!}
 		(C#"I know of them now."){C:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.301!CETIN!}
 		(D#"Of course I know of them, and despise them as much as you..."){D:1,KABU!DAZIR!WORKSHOP EXTERIOR!0.401!CETIN!}
@@ -9861,7 +9861,7 @@ CETIN
 	
 	[/KABU!DAZIR!WORKSHOP EXTERIOR!0.X3010!CETIN!]
 		|@:KABU!DAZIR!WORKSHOP EXTERIOR!0.402!CETIN!|
-		*"Any you meet that cannot be touched by magesight are Unseen and are best avoided... or destroyed."*
+		*"Any you meet that cannot be touched by Truesight are Unseen and are best avoided... or destroyed."*
 		(A#"..."){A:0,KABU!DAZIR!WORKSHOP EXTERIOR!9999.X9999!CETIN!}
 	[KABU!DAZIR!WORKSHOP EXTERIOR!0.X3010!CETIN!/]
 	

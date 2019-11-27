@@ -1554,9 +1554,9 @@ virgin entrance
 		||
 		*The heavy wood grates against the desert sand as the gates to Tambul close. Before Eidos is a large courtyard bustling with activity. Contrary to what the towering walls and mighty gates suggest, though, there is a scant and ill-equipped military presence.
 		
-		For the most part, the life of the townsfolk dominates this environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicenter of all activity is a large, marble sculpture - some depiction of an unnamed hero slaying an unnamed beast.
+		For the most part, the life of the townsfolk dominates the environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicenter of all activity is a large, marble sculpture - some depiction of an unnamed hero slaying an unnamed beast.
 		
-		Many within proximity to the gates take notice of Eidos. Some pretend to go about their business while cautiously drawing near to regard her, but none approach. One of them in particular, a youthful, red-headed girl, stands staring for a moment, only to then run off down the street with great urgency.*
+		Many within proximity to the gates take notice of Eidos. Some pretend to go about their business while cautiously drawing nearer to regard her, but none approach overtly. One of them in particular, a youthful, red-headed girl, stands staring for a moment, only to then run off down the street with great urgency.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!0.100!DESCRIPTION!}
 		(B#Explore the Atrium){B:0,KABU!TAMBUL!ATRIUM!0.X200!DESCRIPTION!}
 		(C#Leave this town){C:0,KABU!TAMBUL!ATRIUM!0.X001!DESCRIPTION!}
@@ -3991,7 +3991,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.121!NIYOOSH!]
 		||
-        *"And here I thought he was just channelin' his inner idiot to come up with nonsense. Turns out the joke's on me! Oh, well, guess we can all be Vanargands, eh?"*
+        *"And here I thought he was just channelin' his inner idiot to come up with nonsense. Turns out the joke's on me! Oh, well, guess we can't all be Vanargands, eh?"*
         (B#"Well, why don't people travel to Kabu?"){B:1,KABU!TAMBUL!ATRIUM!5.122!NIYOOSH!}
         (C#"So I take it there are no inns, then."){C:1,KABU!TAMBUL!ATRIUM!5.130!NIYOOSH!}
         (D#"I guess 'village idiot' is a now shared title, then..."){D:1,KABU!TAMBUL!ATRIUM!5.140!NIYOOSH!}
@@ -4435,7 +4435,7 @@ PAKAHRON
 	
 	[/KABU!TAMBUL!ATRIUM!0.1010!PAKAHRON!]
 		||
-		*"You wouldn't mind if I used my magesight to look into the nature of your visit here, would you?"*
+		*"You wouldn't mind if I used my Truesight to look into the nature of your visit here, would you?"*
 		(A#"You may proceed."){A:1,KABU!TAMBUL!ATRIUM!3.X000!PAKAHRON!}
 		(B#"Is this necessary?"){B:1,KABU!TAMBUL!ATRIUM!0.102!PAKAHRON!}
 		(E#"So peace comes at the cost of privacy?"){E:1,KABU!TAMBUL!ATRIUM!0.X502!PAKAHRON!}
@@ -4457,7 +4457,7 @@ PAKAHRON
 	
 	[/KABU!TAMBUL!ATRIUM!0.3010!PAKAHRON!]
 		||
-		*"You wouldn't mind if I used my magesight to look into the nature of your visit here, would you?"*
+		*"You wouldn't mind if I used my Truesight to look into the nature of your visit here, would you?"*
 		(B#"Proceed, verify my integrity if you must."){B:1,KABU!TAMBUL!ATRIUM!3.X000!PAKAHRON!}
 		(C#"Could you use this power to destroy my mind?"){C:1,KABU!TAMBUL!ATRIUM!0.X302!PAKAHRON!}
 		(D#"But! But... what of my right to privacy?!"){D:1,KABU!TAMBUL!ATRIUM!0.X402!PAKAHRON!}
@@ -4477,7 +4477,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ATRIUM!0.4011!PAKAHRON!]
 		||
-		*"Therefore, I must insist on using my magesight to ascertain your unfiltered intentions in our township."*
+		*"Therefore, I must insist on using my Truesight to ascertain your unfiltered intentions in our township."*
 		(C#"Could you use this power to destroy my mind?"){C:1,KABU!TAMBUL!ATRIUM!0.X302!PAKAHRON!}
 		(D#"Respect every individual's rights... except for the foreigner's."){D:1,KABU!TAMBUL!ATRIUM!0.X402!PAKAHRON!}
 		(E#"Why read my thoughts if you really are so tolerant?"){E:1,KABU!TAMBUL!ATRIUM!0.X502!PAKAHRON!}
@@ -4491,7 +4491,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ATRIUM!0.5010!PAKAHRON!]
 		||
-		*"That said, in light of recent troubles, I cannot afford to take any chances. As such, I ask that you allow me to use my magesight to ascertain your unfiltered intentions in our township."*
+		*"That said, in light of recent troubles, I cannot afford to take any chances. As such, I ask that you allow me to use my Truesight to ascertain your unfiltered intentions in our township."*
 		(A#"Is this necessary?"){A:1,KABU!TAMBUL!ATRIUM!0.102!PAKAHRON!}
 		(D#"So forfeit any right to privacy and let you invade my mind? Tolerant indeed..."){D:1,KABU!TAMBUL!ATRIUM!0.X402!PAKAHRON!}
 		(E#"Hypocrisy. Tolerant people do not discriminate against strangers."){E:1,KABU!TAMBUL!ATRIUM!0.X502!PAKAHRON!}
@@ -4561,15 +4561,15 @@ PAKAHRON
 >>>Have Hidden Mind (12304)<<<
 	[/KABU!TAMBUL!ATRIUM!0.X302!PAKAHRON!]
 		|^12304:KABU!TAMBUL!ATRIUM!0.302!PAKAHRON!|
-		*"Admittedly it would be within my power to alter your mind. However, you needn't fear, as I've sworn an oath in Biracul's name to only use my abilities for reading thoughts, and only when given permission to do so."*
-		(B#"Then you may use your magesight."){B:1,KABU!TAMBUL!ATRIUM!3.X000!PAKAHRON!}
+		*"Admittedly, it would be within my power to alter your mind. However, you needn't fear, as I've sworn an oath in Biracul's name to only use my abilities for reading thoughts, and only when given permission to do so."*
+		(B#"Then you may use your Truesight."){B:1,KABU!TAMBUL!ATRIUM!3.X000!PAKAHRON!}
 		(C#"I must decline."){C:1,KABU!TAMBUL!ATRIUM!0.303!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.X302!PAKAHRON!/]
 
 	[/KABU!TAMBUL!ATRIUM!0.302!PAKAHRON!]
 		||
 		*"Admittedly it would be within my power to alter your mind. However, you needn't fear, as I've sworn an oath in Biracul's name to only use my abilities for reading thoughts, and only when given permission to do so."*
-		(B#"Then you may use your magesight."){B:1,KABU!TAMBUL!ATRIUM!3.X000!PAKAHRON!}
+		(B#"Then you may use your Truesight."){B:1,KABU!TAMBUL!ATRIUM!3.X000!PAKAHRON!}
 		(C#"I must decline."){C:1,KABU!TAMBUL!ATRIUM!0.303!PAKAHRON!}
 		(D#_Use Hidden Mind Techne_){D:1,KABU!TAMBUL!ATRIUM!10.000!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.302!PAKAHRON!/]
@@ -4578,14 +4578,14 @@ PAKAHRON
 	[/KABU!TAMBUL!ATRIUM!0.X322!PAKAHRON!]
 		|^12304:KABU!TAMBUL!ATRIUM!0.322!PAKAHRON!|
 		*"Admittedly it would be within my power to alter your mind. However, you needn't fear, as I've sworn an oath in Biracul's name to only use my abilities for reading thoughts, and only when given permission to do so."*
-		(B#"Then you may use your magesight."){B:1,KABU!TAMBUL!ATRIUM!3.X020!PAKAHRON!}
+		(B#"Then you may use your Truesight."){B:1,KABU!TAMBUL!ATRIUM!3.X020!PAKAHRON!}
 		(C#"I must decline."){C:1,KABU!TAMBUL!ATRIUM!0.303!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.X322!PAKAHRON!/]	
 	
 	[/KABU!TAMBUL!ATRIUM!0.322!PAKAHRON!]
 		||
 		*"Admittedly it would be within my power to alter your mind. However, you needn't fear, as I've sworn an oath in Biracul's name to only use my abilities for reading thoughts, and only when given permission to do so."*
-		(B#"Then you may use your magesight."){B:1,KABU!TAMBUL!ATRIUM!3.X020!PAKAHRON!}
+		(B#"Then you may use your Truesight."){B:1,KABU!TAMBUL!ATRIUM!3.X020!PAKAHRON!}
 		(C#"I must decline."){C:1,KABU!TAMBUL!ATRIUM!0.303!PAKAHRON!}
 		(D#_Use Hidden Mind Techne_){D:1,KABU!TAMBUL!ATRIUM!10.000!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!0.322!PAKAHRON!/]	
@@ -4884,7 +4884,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.0001!PAKAHRON!]
 		||
-		*"But how peculiar... The structure of your mind, it's... unlike any I've witnessed before."*
+		*"But how peculiar... The structure of it, it's... unlike any I've witnessed before."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.0002!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.0001!PAKAHRON!/]
 
@@ -4938,7 +4938,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.024!PAKAHRON!]
 		||
-		*"Though, who is to say it was an erasure? It almost seems as though there were no memories to begin with."* 
+		*"Though, it doesn't resemble an erasure. It almost seems as though there were no memories to begin with..."* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.0240!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.024!PAKAHRON!/]
 
@@ -5147,7 +5147,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.4011!PAKAHRON!]
 		||
-		*"As magi, we avail ourselves of a Techne referred to as 'magesight', enabling us to better understand our people and each other through direct contact with their minds."*
+		*"As magi, we avail ourselves of a Techne referred to as 'Truesight', enabling us to better understand our people and each other through direct contact with their minds."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.4012!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.4011!PAKAHRON!/]
 
@@ -5309,7 +5309,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.203!PAKAHRON!]
 		||
-		*"Heavens, no! In Biracul's name, we are all guilty in some way or another!"* 
+		*"Heavens, no! In Biracul's name, we're all guilty in some way or another!"* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!3.2030!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!3.203!PAKAHRON!/]
 
@@ -5581,7 +5581,7 @@ Initial encounter with Tambul
 virgin entrance
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0000!DESCRIPTION!]
 		||
-		*Eidos shuffles her feet over the cracked, peeling skin of the earth, while cloudless skies offer no shelter from the sweltering heat of the sun. Water flows through these flats like wisdom from an idiot and appears to have done so for centuries. No fauna, no flora, not even a dried out tumbleweed in sight.*
+		*Eidos shuffles her feet over the cracked, peeling skin of the earth, while cloudless skies offer no shelter from the sweltering heat of the sun. Water flows through these flats like wisdom from an idiot - and appears to have done so for centuries. No fauna, no flora, not even a dried out tumbleweed in sight.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.0000!DESCRIPTION!/]
 	
@@ -5618,7 +5618,7 @@ virgin entrance
 
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!]
 		|@:KABU!TAMBUL!GATES OF TAMBUL!0.X000!DESCRIPTION!|
-		*At her approach, the gates immediately begin to grate the earth beneath their feet, opening with a raspy moan. A handful of spearmen stand within, but do not block her passage. Neither the guards atop the walls nor those within them ask her name or purpose, though all present watch Eidos with attentive stares as she passes through the gates.*
+		*At her approach, the gates immediately begin to grate the earth beneath their feet, opening with a raspy moan. A handful of spearmen stand at the entrance, but do not block her passage. Neither the guards atop the walls nor those within them ask her name or purpose, though all present watch Eidos with attentive stares as she passes through the gates.*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!0.X000!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.X001!DESCRIPTION!/]	
 
