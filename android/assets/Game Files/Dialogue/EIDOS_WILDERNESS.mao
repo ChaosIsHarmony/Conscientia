@@ -473,7 +473,7 @@ To Tambul
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.7312!DESCRIPTION!]
 		||
-		*And then simply walks right past Eidos, just as though she were not there at all. Neither mere indifference, nor a simple case of scornful neglect, rather it is perhaps best described as complete and utter ignorance. The square perceives not the cube occluded in a buried third dimension, on a plane below or above its awareness; likewise is Eidos wholly beyond this desert wayfarer's perception...*
+		*And then simply walks right past Eidos, just as though she were not there at all. Neither mere indifference, nor a simple case of scornful neglect, rather it is perhaps best described as complete and utter ignorance. The square perceives not the cube occluded in a buried third dimension, on a plane above its awareness; likewise is Eidos wholly beyond this desert wayfarer's perception...*
 		(A#...){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.X7313!DESCRIPTION!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.7312!DESCRIPTION!/]
 

@@ -1554,7 +1554,7 @@ virgin entrance
 		||
 		*The heavy wood grates against the desert sand as the gates to Tambul close. Before Eidos is a large courtyard bustling with activity. Contrary to what the towering walls and mighty gates suggest, though, there is a scant and ill-equipped military presence.
 		
-		For the most part, the life of the townsfolk dominates the environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicenter of all activity is a large, marble sculpture - some depiction of an unnamed hero slaying an unnamed beast.
+		For the most part, the life of the townsfolk dominates the environs. Market merchants peddle wares; men pull carts transporting foodstuffs; women haul buckets of water and sacks of soil; children play, running about with great frivolity; older folk engage in lively conversation; and at the epicenter of all activity is a large, marble sculpture - some depiction of an unnamed hero slaying an unusual beast.
 		
 		Many within proximity to the gates take notice of Eidos. Some pretend to go about their business while cautiously drawing nearer to regard her, but none approach overtly. One of them in particular, a youthful, red-headed girl, stands staring for a moment, only to then run off down the street with great urgency.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!0.100!DESCRIPTION!}
@@ -1637,7 +1637,7 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 >>>Not welcome in Tambul (13900)<<<
 	[/KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!]
 		|^13900:KABU!TAMBUL!ATRIUM!11.001!DESCRIPTION!|
-		*The center of the Atrium is dominated by a large statue, cool mist rising from jets of water spraying at its feet. Upon closer inspection, what was thought to be marble turns out to be some kind of metal. It has the appearance of iron or steel but is white in color. Remarkably, it lacks any sign of corrosion, despite its proximity to water. The metal bends and twists, depicting an armored hero combating a fantastical creature - a strange fusion of serpent, lion, bird and other unfamiliar creatures.
+		*The center of the Atrium is dominated by a large statue, cool mist rising from jets of water spraying at its feet. Upon closer inspection, what looked to be marble turns out to be some kind of metal - iron or steel, but white in hue. Remarkably, it lacks any sign of corrosion, despite its proximity to water. The metal bends and twists, depicting an armored hero combating a fantastical creature - a strange fusion of serpent, lion, and bird, among other unfamiliar creatures.
 		
 		This statue seems to serve as a gathering place and most people around here seem engaged in lively conversation. However, a good number seem to merely be countering the midday heat with the misty coolness of the fountain.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!11.X201!DESCRIPTION!}
@@ -1790,7 +1790,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!0.1000!ABLAH!]
 		||
-		*"Oh, I'm sure most in Kabu are baffled by your appearance - perhaps even the ol' mage himself!"*
+		*"Oh, I'm sure most in Kabu are baffled by your appearance - perhaps even the ol' mage-leader himself!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.1001!ABLAH!}	
 	[KABU!TAMBUL!ATRIUM!0.1000!ABLAH!/]
 	
@@ -3236,7 +3236,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!1.401!NIYOOSH!]
 		||
-		*"Well, screw me sideways with a toothpick! Pardon the language. I really gotta go tell our mage-leader!"*
+		*"Well, screw me sideways with a toothpick! Pardon the language. I really gotta go tell our mage!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!1.401!NIYOOSH!/]
 
@@ -4384,7 +4384,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ATRIUM!0.300!PAKAHRON!]
 		||
-		*"A noble aspiration! However, these are uncertain times... and as the mage-leader of this township, I must determine whether your words are at odds with your thoughts."*
+		*"A noble aspiration! However, these are uncertain times... and as the leader of this township, I must determine whether your words are at odds with your thoughts."*
 		(B#"I'm uncertain of who I am or how I came to be here."){B:1,KABU!TAMBUL!ATRIUM!0.201!PAKAHRON!}
 		(C#"My words and thoughts align; no harm do I intend."){C:1,KABU!TAMBUL!ATRIUM!0.301!PAKAHRON!}
 		(D#"Is it through your mage powers that you command your subjects..?"){D:1,KABU!TAMBUL!ATRIUM!0.401!PAKAHRON!}
@@ -5095,7 +5095,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.1010!PAKAHRON!]
 		||
-		*"You see, the mage-leader of Tacriba has announced a declaration of war with Dazir."*
+		*"You see, the mage of Tacriba has announced a declaration of war with Dazir."*
 		(A#"Can there be no reconciliation?"){A:1,KABU!TAMBUL!ATRIUM!3.102!PAKAHRON!}
 		(B#"Why is this happening?"){B:1,KABU!TAMBUL!ATRIUM!3.202!PAKAHRON!}
 		(E#"What kind of threat do these Tacribians pose?"){E:1,KABU!TAMBUL!ATRIUM!3.502!PAKAHRON!}
@@ -5193,7 +5193,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!3.6010!PAKAHRON!]
 		||
-		*"You see, the mage-leader of Tacriba has announced a declaration of war with Dazir."*
+		*"You see, the mage of Tacriba has announced a declaration of war with Dazir."*
 		(A#"Can there be no reconciliation?"){A:1,KABU!TAMBUL!ATRIUM!3.102!PAKAHRON!}
 		(B#"Why is this happening?"){B:1,KABU!TAMBUL!ATRIUM!3.202!PAKAHRON!}
 		(F#"The poor fools. The only real enemy is the gremlin menace."){F:1,KABU!TAMBUL!ATRIUM!3.602!PAKAHRON!}
@@ -5587,7 +5587,7 @@ virgin entrance
 	
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!]
 		||
-		*Then, through the heat-born distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking their roofs above the walls. The blinding spire Eidos chases juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
+		*Then, through the heat-born distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking the tips their roofs above the walls. The blinding spire Eidos chases juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X0002!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!/]
 
@@ -6923,7 +6923,7 @@ read about Redgrain
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.101!NOURI!]
 		||
-		*"Then, you entered the Moon Tower and stole the mage-leaders private documents?!"*
+		*"Then, you entered the Moon Tower and stole the mage-leader's private documents?!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!2.1010!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!2.101!NOURI!/]
 
