@@ -9174,7 +9174,9 @@ ______________________________
 RESIDENCE DISTRICT
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!]
 		||
-		*Eidos enters a veritable forest of multi-tiered buildings, spreading out before her as far as the eye can see. She runs her hand along the rough surface of their walls, as layered bricks peek out from cracks in the adobe. Though mostly monochromatic and uniform, the residences distinguish themselves by simple yet colorful placards framing what could well be names and occupations. Dary, Loremaster. Dysron, Cultivator. Kagesh, Guardian. But then, she reaches one with the name defaced. Scratched through with a single line, Zebh, Cultivator was once written upon it.*
+		*Eidos enters a veritable forest of multi-tiered buildings, its depth unknowable from here. Walking among the houses, she runs her hand along the rough surface of their walls, fingers catching where layered bricks peek out from cracks in the adobe.
+		
+		Though mostly monochromatic and uniform, the residences distinguish themselves by simple yet colorful placards framing what could well be names and occupations. Dary, Loremaster. Dysron, Cultivator. Kagesh, Guardian. But then, she reaches one with the name defaced. Scratched through with a single line, Zebh, Cultivator was once written upon it.*
 		(A#...){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.001!DESCRIPTION!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!/]
 
@@ -9266,7 +9268,7 @@ found Redgrain tome and Akkeber gone
 >>>Archives explosion (13801)<<<
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X003!DESCRIPTION!]
 		|^13801:KABU!TAMBUL!RESIDENCE DISTRICT!0.0030!DESCRIPTION!|
-		*She recalls that to the west is the hustle and bustle of the Atrium. Further east, the silver spire looms over Tambul like a derisive overseer, glowering with unseen eyes. And to the north, a building unlike the others in both hue and architecture peeks above the tops of the residences. The building appears as though honeycombed with light or reflections thereof, but only on its northern side.*
+		*Nearby she spots a building similar in shape and construction to the Temple. People enter and exit freely, many carrying leatherbound tomes to and from it. Then, to the west is the hustle and bustle of the Atrium. Further east, the silver spire looms over Tambul like a derisive overseer, glowering with unseen eyes. And to the north, a building unlike the others in both hue and architecture peeks above the tops of the residences. The building appears as though honeycombed with light or reflections thereof, but only on its northern side.*
 		(A#Enter the Hydroponic Farm){A:0,KABU!TAMBUL!HYDROPONIC FARM!0.000!DESCRIPTION!}
 		(B#Enter the Archives){B:0,KABU!TAMBUL!ARCHIVES!0.X000!DESCRIPTION!}
 		(C#Go towards the silver spire){C:0,KABU!TAMBUL!MOON KEEP!0.000!DESCRIPTION!}
@@ -9361,7 +9363,7 @@ AKKEBER
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.001!AKKEBER!]
 		||
 		*"First, came ol' Famlaz, dread Jinnking of red,
-		Lies dripping, oozing from his brain-filled head.
+		Lies dripping - oozing! - from his brain-filled head.
 		Pay attention! Listen now! Listen well!
 		His squawking bird-voice with effect most fell!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.002!AKKEBER!}
@@ -9390,7 +9392,7 @@ AKKEBER
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.004!AKKEBER!]
 		||
-		*"Call our names, fools! Konki and Nerius,
+		*"Call our names, fools! Konki and Nerius!
 		Twinned Jinns and brothers most nefarious!
 		First, we will strike and smash, then whip and lash!
 		We will dispose of you like so much trash!"*
@@ -9433,7 +9435,7 @@ AKKEBER
 		*"Yes! Sister Midnight, neither found nor sought, 
 		Her most wicked weapon, her silent thought.
 		No respite in sleep! Just nightmares galore!
-		Beckon ye enter through Night's charnel door."*
+		Beckon ye enter through Night's charnel door!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.0071!AKKEBER!}
 		(B#Leave){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.0070!AKKEBER!/]
@@ -9509,7 +9511,7 @@ AKKEBER
 	
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.1000!AKKEBER!]
 		||
-		*"As beautiful as she is strange. As captivating as she is wild. Who is this untamed creature of the desert that stands before me? Me! Lowly, lonely master poet laureate Akkeber. Speak to me your name, wonderful you."*
+		*"As beautiful as she is strange. As captivating as she is wild. Who is this untamed creature of the desert that stands before me? Me! Lonely, lowly master poet laureate Akkeber. Speak to me your name, wonderful you."*
 		(A#"My name is Eidos."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}
 		(B#"Sure, but only after you tell me what it's based on."){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}	
 		(C#"Are you listening to me?"){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!0.101!AKKEBER!}
@@ -9550,7 +9552,7 @@ AKKEBER
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X1014!AKKEBER!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.102!AKKEBER!|
-		*"My next oeuvre - my magnum opus! - will be dedicated to you and only you!"*
+		*"My next oeuvre - my magnum opus! - will be dedicated to you and you alone!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X1014!AKKEBER!/]
 
@@ -9588,7 +9590,7 @@ AKKEBER
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X1031!AKKEBER!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.104!AKKEBER!|
 		*"Love deeper than a Suyuti's for their goat,
-		Want to memorize your every inch by rote!"*
+		Want to memorize your every bit by rote!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X1031!AKKEBER!/]
 
@@ -10602,7 +10604,7 @@ TEMPLE
 	
 	[/KABU!TAMBUL!TEMPLE OF BIRACUL!0.0000!DESCRIPTION!]
 		||
-		*Turning her attention to the walls, Eidos notes that the dark sandstone of the temple miraculously seems carved from a monolithic block. Stairways and upper areas around the perimeter have been fashioned, seemingly as an afterthought. All masonry and supports are meticulously crafted and the entire layout designed with expert ability.*
+		*Turning her attention to the walls, Eidos notes that the dark sandstone of the temple miraculously seems carved from a monolithic block. Stairways and upper areas around the perimeter have been fashioned from the lighter stone materials prevalent in its neighboring structures, by all appearances as an afterthought. However, all masonry and supports here are meticulously crafted and the entire layout designed with expert ability.*
 		(A#...){A:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.0001!DESCRIPTION!}
 	[KABU!TAMBUL!TEMPLE OF BIRACUL!0.0000!DESCRIPTION!/]
 	
