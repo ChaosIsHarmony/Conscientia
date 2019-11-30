@@ -4,7 +4,7 @@ ______________
 ALCHEMY WARD
     [/KAVU!TACRIVA!ALCHEMY WARD!1.000!DESCRIPTION!]
 		||
-		*Rikos opens his eyes. The gentle oscillation of an amber illumination crystal bathe the surroundings in. Rikos has lived under the dome long enough to recognize the Alchemy Ward. He remembers the first time unwanted sleep found him; this very bed was where he awoke. This time was different, though. Memory fails him, like staring through a sheet of glass at the sun, he knows something is there, he just cannot quite see it.
+		*Rikos opens his eyes. The gentle oscillation of an amber illumination crystal bathe the surroundings in amber light. Rikos has lived under the dome long enough to recognize the Alchemy Ward. He remembers the first time unwanted sleep found him; this very bed was where he awoke. This time was different, though. Memory fails him, like staring through a sheet of glass at the sun, he knows something is there, he just cannot quite see it.
 		
 		Lazham makes a comment about how he is awake.
 		Hamdulah, the High Magissar of the Tacrivian Council of Magissari, tells Rikos how their guest picked him up in the Archives, how he helped the Alchemists.

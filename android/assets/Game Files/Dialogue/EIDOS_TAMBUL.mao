@@ -1637,9 +1637,9 @@ Customary Atrium entry after you have dealt with Pakahron peacefully.
 >>>Not welcome in Tambul (13900)<<<
 	[/KABU!TAMBUL!ATRIUM!11.X200!DESCRIPTION!]
 		|^13900:KABU!TAMBUL!ATRIUM!11.001!DESCRIPTION!|
-		*The center of the Atrium is dominated by a large statue, cool mist rising from jets of water spraying at its feet. Upon closer inspection, what looked to be marble turns out to be some kind of metal - iron or steel, but white in hue. Remarkably, it lacks any sign of corrosion, despite its proximity to water. The metal bends and twists, depicting an armored hero combating a fantastical creature - a strange fusion of serpent, lion, and bird, among other unfamiliar creatures.
+		*A large statue perched upon a fountain dominates the center of the Atrium. Eidos instantly gravitates towards the cool mist rising from jets of water spraying at its feet, hoping to offset the effects of the relentless sun. Upon closer inspection, what looked to be a statue of marble turns out to be some kind of metallic one instead - iron or steel, but white in hue. Remarkably, it lacks any sign of corrosion, despite its proximity to water. The metal bends and twists, depicting an armored hero locked in the throes of battle with a fantastical creature - some strange fusion of serpent, lion, and bird, and other unfamiliar creatures.
 		
-		This statue seems to serve as a gathering place and most people around here seem engaged in lively conversation. However, a good number seem to merely be countering the midday heat with the misty coolness of the fountain.*
+		This statue seems to serve as a gathering place and most people around here seem engaged in lively conversation. However, a good number seem to merely be countering the midday heat with the fountain's misty coolness.*
 		(A#Approach people to talk){A:0,KABU!TAMBUL!ATRIUM!11.X201!DESCRIPTION!}
 		(B#Return to the gates){B:0,KABU!TAMBUL!ATRIUM!0.X000!DESCRIPTION!}
 		(C#Go toward the Temple and the Residence District){C:0,KABU!TAMBUL!TEMPLE OF BIRACUL!0.X000!DESCRIPTION!}
@@ -9364,7 +9364,7 @@ AKKEBER
 		||
 		*"First, came ol' Famlaz, dread Jinnking of red,
 		Lies dripping - oozing! - from his brain-filled head.
-		Pay attention! Listen now! Listen well!
+		Pay attention! Listen now and listen well!
 		His squawking bird-voice with effect most fell!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.002!AKKEBER!}
 		(B#Leave){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
@@ -9373,9 +9373,9 @@ AKKEBER
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.002!AKKEBER!]
 		||
 		*"It is I, CAW! Famlicus, the Lord of Lies!
-		Scorpions and buzzards, all serve as my spies.
-		I turn the doting father 'gainst the son.
-		I concoct sweet despair for everyone!"*
+		Scorpions and buzzards, my myriad spies.
+		I turn the father 'gainst the son,
+		Concoct despair for everyone!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.003!AKKEBER!}
 		(B#Leave){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.002!AKKEBER!/]
@@ -9383,9 +9383,9 @@ AKKEBER
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.003!AKKEBER!]
 		||
 		*"Then came the brutal brothers Amethyst,
-		Whom you truly would do well to detest.
+		Whom you would do well to detest.
 		Most strong in body, yet quite weak in brain.
-		For gifts, they brought the people tears and pain!"*
+		For gifts, they brought man tears and pain!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.004!AKKEBER!}
 		(B#Leave){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.003!AKKEBER!/]
@@ -9394,8 +9394,8 @@ AKKEBER
 		||
 		*"Call our names, fools! Konki and Nerius!
 		Twinned Jinns and brothers most nefarious!
-		First, we will strike and smash, then whip and lash!
-		We will dispose of you like so much trash!"*
+		First, we strike and smash, then whip and lash!
+		We'll dispose of you like filthy trash!"*
 		(A#Keep listening){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.005!AKKEBER!}
 		(B#Leave){B:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.004!AKKEBER!/]
@@ -9570,7 +9570,7 @@ AKKEBER
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.X1021!AKKEBER!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!0.103!AKKEBER!|
-		*"Then, you and I shall craft a romance beyond any Wordsmith's reckoning! Our bodies the brushes, our fluids the ink!"*
+		*"Then, you and I shall craft a romance beyond any wordsmith's reckoning! Our bodies the brushes, our fluids the ink!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!AKKEBER!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!0.X1021!AKKEBER!/]
 
