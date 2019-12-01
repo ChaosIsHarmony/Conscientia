@@ -12,19 +12,19 @@ ARCHIVES
 
 	[/KABU!TAMBUL!ARCHIVES!0.000!DESCRIPTION!]
 		||
-		*The austerity of this building's exterior does not mislead; so without, so within. Before her is a single great hall, nearly unadorned and filled solely with shelves of tomes and rows of copying desks. While the vaulted ceiling is impressive, no intricate designs detail its supports.* 
+		*The austerity of this building's exterior does not mislead: as without, so within. Before her is a single great hall, nearly unadorned and filled solely with shelves of tomes and rows of copying desks. While the vaulted ceiling is impressive, no intricate designs detail its supports.* 
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.001!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.000!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!ARCHIVES!0.001!DESCRIPTION!]
 		||
-		*Yet even in spite of its aesthetic dearth, the beautiful, glowing tree at the Archives' center shrouds the room in a dreamlike haze. A bark of marble white covers its thick limbs; limbs which creep about the entirety of the Archives, stretching out across the space like an awakened sylvan giant. From cracks in its aged hide, bulbous crystalline protrusions glow with a pale, white incandescence, casting rays of light about the structure.*
+		*Yet even in spite of its aesthetic dearth, the pearly, glowing tree at the Archives' center shrouds the room in a dreamlike haze. A bark of marble white covers its thick limbs, limbs which creep about the entirety of the Archives, stretching out like some sylvan giant just waking from its lengthy slumber. From cracks in its aged hide, bulbous crystalline protrusions pulse with a pale, white incandescence, casting rays of light about the structure.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.002!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.001!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!ARCHIVES!0.002!DESCRIPTION!]
 		||
-		*The handful of individuals reading or copying texts are dwarfed by the arboreal behemoth, rendered seemingly insignificant in contrast.*
+		*The handful of individuals reading or copying texts are dwarfed by the arboreal behemoth, and rendered seemingly insignificant in contrast.*
 		(A#Explore the Archives){A:0,KABU!TAMBUL!ARCHIVES!0.X100!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!TAMBUL!ARCHIVES!0.X010!DESCRIPTION!}
 		(C#Return to the Residence District){C:0,KABU!TAMBUL!RESIDENCE DISTRICT!0.000!DESCRIPTION!}
@@ -32,7 +32,7 @@ ARCHIVES
 
 	[/KABU!TAMBUL!ARCHIVES!0.X010!DESCRIPTION!]
 		|@:KABU!TAMBUL!ARCHIVES!0.X000!DESCRIPTION!|
-		*Two people seem approachable: a grim-looking woman pacing the area, with the bearing of authority; and the other, in contrast, is a bright-eyed, younger woman, sitting before a stack of freshly minted leather-bound volumes.*
+		*Two people seem approachable: a grim-looking woman pacing the area with the bearing of authority; and the other, in contrast, is a bright-eyed, younger woman, sitting before a stack of freshly minted leather-bound volumes.*
 		(A#Talk to the bright-eyed copyist){A:0,KABU!TAMBUL!ARCHIVES!9999.X0105!DESCRIPTION!}
 		(B#Talk to the severe looking Librarian){B:0,KABU!TAMBUL!ARCHIVES!9999.X0106!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.X010!DESCRIPTION!/]	
@@ -66,20 +66,20 @@ find secret chamber
 	
 	[/KABU!TAMBUL!ARCHIVES!0.102!DESCRIPTION!]
 		||
-		*At first, it appears to be a stylistic representation of the massive tree dominating this very hall. Yet, there are a great number of differences both subtle and profane. In the faded fresco, the tree's roots are visible, seeming to sprout from the body of a woman interred beneath the tree. Red veins run through the roots, up the trunk and blossom forth from the branches as crimson leaves. These stand in contrast to the silvered foliage of the Archives' tree.*
+		*Her eyes lock onto one of the more intact murals. At first, it appears to be a stylistic representation of the massive tree dominating this very hall. Yet, there are a great number of differences both subtle and profane. In the faded fresco, the tree's roots are visible, seeming to sprout from the body of a woman interred beneath the tree. Red veins run through the roots, up the trunk, and blossom forth from the branches as crimson leaves. These stand in contrast to the silvered foliage of the Archives' tree.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.X103!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.102!DESCRIPTION!/]
 	
 >>>Learned Awareness glyph (12400)<<<
 	[/KABU!TAMBUL!ARCHIVES!0.X103!DESCRIPTION!]
 		|^12400:KABU!TAMBUL!ARCHIVES!0.200!DESCRIPTION!|
-		*Squinting and inferring from nearly invisible outlines, Eidos sees - or imagines - two crows: one near the roots, pecking at the corpse, and another perched high in the uppermost branches, staring at the viewer with its coal-black eyes. Above the lofty crow is a white circle, like a bleached halo beaming light down upon the scene.*
+		*Parsing and inferring from nearly invisible outlines, Eidos sees - or imagines - two crows: one near the roots, pecking at the corpse, and another perched high in the uppermost branches, staring at the viewer with its coal-black eyes. Above the lofty crow is a white circle, like a bleached halo beaming light down upon the scene.*
 		(A#Return to the entrance){A:0,KABU!TAMBUL!ARCHIVES!0.X000!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.X103!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!ARCHIVES!0.200!DESCRIPTION!]
 		||
-		*Squinting and inferring from nearly invisible outlines, Eidos sees - or imagines - two crows: one near the roots, pecking at the corpse, and another perched high in the uppermost branches, staring at the viewer with its coal-black eyes. Above the lofty crow is a white circle, like a bleached halo beaming light down upon the scene.*
+		*Parsing and inferring from nearly invisible outlines, Eidos sees - or imagines - two crows: one near the roots, pecking at the corpse, and another perched high in the uppermost branches, staring at the viewer with its coal-black eyes. Above the lofty crow is a white circle, like a bleached halo beaming light down upon the scene.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.201!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.200!DESCRIPTION!/]
 
@@ -116,7 +116,7 @@ read tomes
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!TAMBUL!ARCHIVES!0.X300!DESCRIPTION!]
 		|^12303:KABU!TAMBUL!ARCHIVES!0.X302!DESCRIPTION!|
-		*Eidos scrutinizes the tomes, both covers and bindings. She stares, perplexed, at the leather-bound volumes, much as an ape may gaze upon a masterpiece. And as they would be to the ape, likewise are the works indecipherable to her.*
+		*Eidos scrutinizes the tomes, both covers and bindings. She stares, perplexed, at the leatherbound volumes, much as a beast may gaze upon a masterpiece. And as they would be to the beast, likewise are the works indecipherable to her.*
 		(A#Return to the entrance){A:0,KABU!TAMBUL!ARCHIVES!0.X000!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.X300!DESCRIPTION!/]
 
@@ -873,7 +873,7 @@ KAGIN
 KALEKI
 	[/KABU!TAMBUL!ARCHIVES!0.000!KALEKI!]
 		||
-		*"Hello, traveler. I am Kaleki, Librarian of Tambul."*
+		*"Hello, traveler. I'm Kaleki, Librarian of Tambul."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.X001!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!0.000!KALEKI!/]
 	
@@ -956,7 +956,7 @@ KALEKI
 
 	[/KABU!TAMBUL!ARCHIVES!0.20030!KALEKI!]
 		||
-		*"You clearly have a soul, so we can assume you're not a Neverborn. But, not even the Emerald Architect himself was capable of creating a human - that's still firmly in the realm of fantasy."*
+		*"You clearly have a soul, so we can assume you're not a Neverborn. But, not even the Emerald Architect himself was capable of creating a homunculus, let alone a human - that's still firmly in the realm of fantasy."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.20031!KALEKI!}
 	[KABU!TAMBUL!ARCHIVES!0.20030!KALEKI!/]
 
