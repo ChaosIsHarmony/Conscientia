@@ -3847,7 +3847,7 @@ Quangjo thinks you're Eidos
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!0.502!QUANGJO!]
 		||
-		*"Mmm, yes, a Jinn-cursed stranger, disguised as a mage was It! It came to Dazir from out of the Jenowin Plain and sought sanctuary!"*
+		*"Mmm, yes, a jinncursed stranger, disguised as a mage was It! It came to Dazir from out of the Jenowin Plain and sought sanctuary!"*
 		(A#"..."){A:0,KABU!WELLSPRING!RUINED ARCHIVE!0.5020!QUANGJO!}
 	[KABU!WELLSPRING!RUINED ARCHIVE!0.502!QUANGJO!/]
 
@@ -4117,7 +4117,7 @@ Quangjo thinks you're Khaa
 
 	[/KABU!WELLSPRING!RUINED ARCHIVE!20.4001!QUANGJO!]
 		||
-		*"Master, I've not been idle here, no! I've discovered the Glyph of Purification! If you'd turn aside from your plan, if you didn't want to poison the Tacribian League, then I now have the means to remove the Jinnvenom, yes!"*
+		*"Master, I've not been idle here, no! I've discovered the Glyph of Purification! If you'd turn aside from your plan, if you didn't want to poison the Tacribian League, then I now have the means to remove the jinnvenom, yes!"*
 		(A#"Of course I won't kill the Tacribians. Cleanse the water!"){A:1,KABU!WELLSPRING!RUINED ARCHIVE!20.101!QUANGJO!}
 		(D#"I care not for your sentiment; carry out your mission and open the gate!"){D:1,KABU!WELLSPRING!RUINED ARCHIVE!20.401!QUANGJO!}
 		(E#"Do nothing! I'll take action myself, you incompetent fool."){E:1,KABU!WELLSPRING!RUINED ARCHIVE!20.501!QUANGJO!}
@@ -5275,7 +5275,7 @@ Quangjo is killed here
 Quangjo is murdering you
 	[/KABU!WELLSPRING!THRONE ROOM!50.000!DESCRIPTION!]
 		||
-		*Eidos manages to topple Quangjo to the ground causing him to bump his head on the Silver Throne, affording her an opportunity to make for the Flood Gate. This path may take her to safety and free her from the Jinn-crazed Librarian.*
+		*Eidos manages to topple Quangjo to the ground causing him to bump his head on the Silver Throne, affording her an opportunity to make for the Flood Gate. This path may take her to safety and free her from the jinncrazed Librarian.*
 		(A#...){A:0,KABU!WELLSPRING!FLOOD GATE!90.X000!DESCRIPTION!}
 	[KABU!WELLSPRING!THRONE ROOM!50.000!DESCRIPTION!/]
 

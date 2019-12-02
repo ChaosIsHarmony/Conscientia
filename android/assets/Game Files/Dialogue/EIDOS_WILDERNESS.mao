@@ -760,7 +760,7 @@ FAMLICUS INITIAL ENCOUNTER
 
 	[/KABU!WILDERNESS!JENOWIN PLAIN!0.040000!FAMLICUS!]
 		||
-		*"His obsession with forbidden Jinnlore has led to corrupted crops and neither his own people nor the other peoples of Kabu are aware of his blasphemy."*
+		*"His obsession with forbidden jinnlore has led to corrupted crops and neither his own people nor the other peoples of Kabu are aware of his blasphemy."*
 		(A#"..."){A:0,KABU!WILDERNESS!JENOWIN PLAIN!0.0400000!FAMLICUS!}
 	[KABU!WILDERNESS!JENOWIN PLAIN!0.040000!FAMLICUS!/]
 
@@ -1496,7 +1496,7 @@ DORUK
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.4001!DORUK!]
 		||
-		*"While Tacribs bleed like any other human, death at their hands is just as certain, and undoubtedly more cruel. You're just a Jinnlickin' fool if you try to fight either Neverborn or a Tacrib."*
+		*"While Tacribs bleed like any other human, death at their hands is just as certain, and undoubtedly more cruel. You're just a jinnlickin' fool if you try to fight either Neverborn or a Tacrib."*
 		(C#"You may be right. Perhaps I should leave."){C:1,KABU!WILDERNESS!MOUNTAIN PASS!0.X301!DORUK!}
 		(D#"I seek violence like I seek the plague. But, do tell me more of this region."){D:1,KABU!WILDERNESS!MOUNTAIN PASS!0.401!DORUK!}
 		(E#"Fear is for the spineless; it suits you."){E:1,KABU!WILDERNESS!MOUNTAIN PASS!0.501!DORUK!}
@@ -1530,7 +1530,7 @@ DORUK
 
 	[/KABU!WILDERNESS!MOUNTAIN PASS!0.6001!DORUK!]
 		||
-		*"If that gate ever opens, it's my task to inform Khaa himself, you rude Jinnspawn!"*
+		*"If that gate ever opens, it's my task to inform Khaa himself, you rude jinnspawn!"*
 		(A#"..."){A:0,KABU!WILDERNESS!MOUNTAIN PASS!0.6002!DORUK!}
 	[KABU!WILDERNESS!MOUNTAIN PASS!0.6001!DORUK!/]
 

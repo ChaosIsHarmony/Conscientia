@@ -326,7 +326,7 @@ DARY
 
 	[/KABU!TAMBUL!ARCHIVES!0.500!DARY!]
 		||
-		*"I imagine if you are a Jinn-kissing anti-intellectual, then it probably is!"*
+		*"I imagine if you're a jinnkissing anti-intellectual, then it probably is!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.5000!DARY!}
 	[KABU!TAMBUL!ARCHIVES!0.500!DARY!/]
 
@@ -720,7 +720,7 @@ ISMAT
 
 	[/KABU!TAMBUL!ARCHIVES!0.002!ISMAT!]
 		||
-		*"The world is chaotic; I mean, even that Jinnstruck 'Prophet' made more sense than this tragedy does!"*
+		*"The world is chaotic; I mean, even that jinnstruck 'Prophet' made more sense than this tragedy does!"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0020!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.002!ISMAT!/]
 	
@@ -764,7 +764,7 @@ ISMAT
 	
 	[/KABU!TAMBUL!ARCHIVES!0.0040!ISMAT!]
 		||
-		*"I'm just confused about the whole Jinn-kissing mess, y'know?"*
+		*"I'm just confused about the whole jinnkissing mess, y'know?"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.0041!ISMAT!}
 	[KABU!TAMBUL!ARCHIVES!0.0040!ISMAT!/]
 	
@@ -805,7 +805,7 @@ KAGIN
 
 	[/KABU!TAMBUL!ARCHIVES!0.X001!KAGIN!]
 		|@:KABU!TAMBUL!ARCHIVES!0.002!KAGIN!|
-		*"...I feel like a Jinnlover for saying this, but I'm glad it wasn't me in there..."*
+		*"...I feel like a jinnlover for saying this, but I'm glad it wasn't me in there..."*
 		(C#Leave){C:1,KABU!TAMBUL!ARCHIVES!9999.X9999!KAGIN!}
 		(D#...){D:1,KABU!TAMBUL!ARCHIVES!9999.X0118!KAGIN!}
 	[KABU!TAMBUL!ARCHIVES!0.X001!KAGIN!/]
@@ -1457,7 +1457,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.1000!PAKAHRON!]
 		||
-		*"No, Melinoe's hand did not move yours, Jinnspawn!"*
+		*"No, Melinoe's hand did not move yours, jinnspawn!"*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!0.1001!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.1000!PAKAHRON!/]
 
@@ -1475,7 +1475,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.1003!PAKAHRON!]
 		||
-		*"You'll soon have the opportunity to meet them, Jinnspawn..."*
+		*"You'll soon have the opportunity to meet them, jinnspawn..."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.1003!PAKAHRON!/]
 
@@ -1493,7 +1493,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.2001!PAKAHRON!]
 		||
-		*"By the time I'm finished, there will be no body of yours left to bury, Jinnspawn!"*
+		*"By the time I'm finished, there will be no body of yours left to bury, jinnspawn!"*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.2001!PAKAHRON!/]
 
@@ -1517,7 +1517,7 @@ PAKAHRON
 
 	[/KABU!TAMBUL!ARCHIVES!0.500!PAKAHRON!]
 		||
-		*"Then I will simply have to kill you an infinite number of times, Jinnspawn."*
+		*"Then I will simply have to kill you an infinite number of times, jinnspawn."*
 		(A#"..."){A:0,KABU!TAMBUL!ARCHIVES!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!ARCHIVES!0.500!PAKAHRON!/]
 
@@ -2060,7 +2060,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.1001!ABLAH!]
 		||
-		*"Unsullied by the burden of the mind, your nature is to destroy! To divide and conquer is your curse for Jinnworship!"*
+		*"Unsullied by the burden of the mind, your nature is to destroy! To divide and conquer is your curse for jinnworship!"*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.1002!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.1001!ABLAH!/]
 	
@@ -2124,7 +2124,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.3000!ABLAH!]
 		||
-		*"Even for a Tacribian, it would take blind rage or a Jinn-crazed mind to do what you accomplished without emotion or intellect!"*
+		*"Even for a Tacribian, it would take blind rage or a jinncrazed mind to do what you accomplished without emotion or intellect!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3000!ABLAH!/]
 	
@@ -2136,7 +2136,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.3002!ABLAH!]
 		||
-		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for Jinnworship."*
+		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.3003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.3002!ABLAH!/]
 	
@@ -2168,7 +2168,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.4000!ABLAH!]
 		||
-		*"Even for a Tacribian, it would take blind rage or a Jinn-crazed mind to do what you accomplished without emotion or intellect!"*
+		*"Even for a Tacribian, it would take blind rage or a jinncrazed mind to do what you accomplished without emotion or intellect!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4000!ABLAH!/]
 	
@@ -2180,7 +2180,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.4002!ABLAH!]
 		||
-		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for Jinnworship."*
+		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.4003!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.4002!ABLAH!/]
 	
@@ -2246,7 +2246,7 @@ ABLAH
 	
 	[/KABU!TAMBUL!ATRIUM!1.6000!ABLAH!]
 		||
-		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for Jinnworship."*
+		*"Unsullied by the burden of the mind, your nature is to destroy; to divide and conquer is your curse for jinnworship."*
 		(A#...){A:0,KABU!TAMBUL!ATRIUM!1.6001!ABLAH!}
 	[KABU!TAMBUL!ATRIUM!1.6000!ABLAH!/]
 	
@@ -2353,7 +2353,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!0.100!ARGHAVAN!]
 		||
-		*"My name's Arghavan - not that it's any of your Jinnlickin' business..."*
+		*"My name's Arghavan - not that it's any of your jinnlickin' business..."*
 		(A#"I thought I saw you run away to herald my arrival."){A:1,KABU!TAMBUL!ATRIUM!0.X101!ARGHAVAN!}
 		(B#"You seem to be a surly child."){B:1,KABU!TAMBUL!ATRIUM!0.X201!ARGHAVAN!}
 		(E#"It is now. Spy on me again and I'll cut out your tongue."){E:1,KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!}	
@@ -2361,7 +2361,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!0.200!ARGHAVAN!]
 		||
-		*"That isn't any of your Jinnlickin' business."*
+		*"That isn't any of your jinnlickin' business."*
 		(A#"I thought I saw you run away to herald my arrival."){A:1,KABU!TAMBUL!ATRIUM!0.X101!ARGHAVAN!}
 		(B#"You seem to be a surly child."){B:1,KABU!TAMBUL!ATRIUM!0.X201!ARGHAVAN!}
 		(D#"What other things have you reported to Pakahron?"){D:1,KABU!TAMBUL!ATRIUM!0.401!ARGHAVAN!}
@@ -2389,7 +2389,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!0.500!ARGHAVAN!]
 		||
-		*"You don't look half as dangerous as you do ugly, Jinnlicker!"*
+		*"You don't look half as dangerous as you do ugly, jinnlicker!"*
 		(A#"I thought I saw you run away to herald my arrival."){A:1,KABU!TAMBUL!ATRIUM!0.X101!ARGHAVAN!}
 		(D#"What other things have you reported to Pakahron?"){D:1,KABU!TAMBUL!ATRIUM!0.401!ARGHAVAN!}
 		(E#"Spy on me again and I'll cut out your tongue."){E:1,KABU!TAMBUL!ATRIUM!0.501!ARGHAVAN!}
@@ -2436,7 +2436,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!0.X4010!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!1.X000!ARGHAVAN!|
-		*"So just go jump into the Valley by yourself, Jinnlicker!"*
+		*"So just go jump into the Valley by yourself, jinnlicker!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!0.X4010!ARGHAVAN!/]
 	
@@ -2525,7 +2525,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!1.X300!ARGHAVAN!]
 		|@:KABU!TAMBUL!ATRIUM!3.000!ARGHAVAN!|
-		*"Then scram, Jinnlicker and don't waste my time!"*
+		*"Then scram, jinnlicker and don't waste my time!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9999.X9999!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.X300!ARGHAVAN!/]
 
@@ -2571,7 +2571,7 @@ ARGHAVAN
 	
 	[/KABU!TAMBUL!ATRIUM!1.600!ARGHAVAN!]
 		||
-		*"You..! You Jinn-cursed wench!"*
+		*"You..! You jinncursed wench!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!1.X6000!ARGHAVAN!}
 	[KABU!TAMBUL!ATRIUM!1.600!ARGHAVAN!/]
 	
@@ -2806,7 +2806,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.3000!NIYOOSH!]
 		||
-		*"You must be Jinnstruck, ha!"*
+		*"You must be jinnstruck, ha!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.3001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.3000!NIYOOSH!/]
 
@@ -2832,7 +2832,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.4000!NIYOOSH!]
 		||
-        *"Ha ha! By Biracul's beard, you must be as confused as those travelin' folk from years back! Came in a big floatin' contraption, filled with hot air, they said - pretty sure it was just some Jinnlickin' Vanquished trickery, though! Pardon my language."*
+        *"Ha ha! By Biracul's beard, you must be as confused as those travelin' folk from years back! Came in a big floatin' contraption, filled with hot air, they said - pretty sure it was just some jinnlickin' Vanquished trickery, though! Pardon my language."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.4000!NIYOOSH!/]
 
@@ -3055,7 +3055,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.6030!NIYOOSH!]
 		||
-        *"I think you've got a little bit of the rubied Jinn in you - just make sure you don't let it go too far, kid!"*
+        *"I think you've got a little bit of the Rubied Jinn in you - just make sure you don't let it go too far, kid!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6031!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6030!NIYOOSH!/]
 
@@ -3087,7 +3087,7 @@ NIYOOSH
 Maybe NIYOOSH should disappear after this?????
 	[/KABU!TAMBUL!ATRIUM!0.892!NIYOOSH!]
 		||
-		*"Now if you'll excuse me, I need to go tell Pakahron about that Jinnstruck Tacribian's plans!"*
+		*"Now if you'll excuse me, I need to go tell Pakahron about that jinnstruck Tacribian's plans!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.8920!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.892!NIYOOSH!/]
 	
@@ -3346,7 +3346,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!2.1011!NIYOOSH!]
 		||
-        *"I'm convinced the crusty ol' Jinnkisser is up to somethin'! Thousands of years and not once has the water ever stopped flowin'..."*
+        *"I'm convinced the crusty ol' jinnkisser is up to somethin'! Thousands of years and not once has the water ever stopped flowin'..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1012!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1011!NIYOOSH!/]
 
@@ -3358,7 +3358,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!2.401!NIYOOSH!]
 		||
-		*"I'd only be less surprised if you told me he was ol' Famlaz in disguise! That guileful Jinnkisser'll get what's comin' to him!"*
+		*"I'd only be less surprised if you told me he was ol' Famlaz in disguise! That guileful jinnkisser'll get what's comin' to him!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.401!NIYOOSH!/]
 	
@@ -3382,7 +3382,7 @@ Maybe NIYOOSH should disappear after this?????
 	
 	[/KABU!TAMBUL!ATRIUM!2.1021!NIYOOSH!]
 		||
-		*"Rumor has it, Khlutt belonged to a secret sect of Jinn-worshippin' magi, has all sorts of un-Biraculian powers and the like!"*
+		*"Rumor has it, Khlutt belonged to a secret sect of jinnworshippin' magi, has all sorts of un-Biraculian powers and the like!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!2.1022!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!2.1021!NIYOOSH!/]
 	
@@ -3585,7 +3585,7 @@ Maybe NIYOOSH should disappear after this?????
 	
 	[/KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!]
 		||
-		*"But maybe she did it after all, that Jinnkisser! Ha!"*
+		*"But maybe she did it after all, that jinnkisser! Ha!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.0122!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.0121!NIYOOSH!/]
 
@@ -3634,7 +3634,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.1000!NIYOOSH!]
 		||
-		*"That means that Jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
+		*"That means that jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.1001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.1000!NIYOOSH!/]
 
@@ -3688,7 +3688,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.3000!NIYOOSH!]
 		||
-		*"That means that Jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
+		*"That means that jinnkisser is still alive... He's gotta be older than Vanargand at this point..."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.3001!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.3000!NIYOOSH!/]
 
@@ -3746,7 +3746,7 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.5001!NIYOOSH!]
 		||
-		*"But maybe she did it after all, that Jinnkisser! Ha!"*
+		*"But maybe she did it after all, that jinnkisser! Ha!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.5002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.5001!NIYOOSH!/]
 
@@ -3785,7 +3785,7 @@ Maybe NIYOOSH should disappear after this?????
 	
 	[/KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!]
 		||
-		*"Archma... I mean, Kambesh knew it too when he exiled that Jinn-touched Ormenos."*
+		*"Archma... er, Kambesh knew it too when he exiled that jinntouched Ormenos."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.800!NIYOOSH!}	
 	[KABU!TAMBUL!ATRIUM!4.2010!NIYOOSH!/]	
 	
@@ -3803,13 +3803,13 @@ Maybe NIYOOSH should disappear after this?????
 
 	[/KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!]
 		||
-		*"Oh, all right, you little Jinnkisser! Listen up, now!"*
+		*"Oh, all right, you little jinnkisser! Listen up, now!"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.401!NIYOOSH!/]
 
 	[/KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!]
 		||
-        *"A Tambulan-born agent of Khaa has returned to this city - Dysmas, the chucklin' Jinnspawn. No tellin' what his purpose here is, but he's never to be trusted, you hear?"*
+        *"A Tambulan-born agent of Khaa has returned to this city - Dysmas, the chucklin' jinnspawn. No tellin' what his purpose here is, but he's never to be trusted, you hear?"*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!4.4011!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!4.4010!NIYOOSH!/]
 
@@ -4013,13 +4013,13 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!]
 		||
-        *"That famous 'Prophet' came with the airship years back, but those Jinnlickin' sons goats left him here! Not sure where that damned fellow wandered off to now, but all that Jinnstruck nonsense about great calamities ahead really shook some folks up. Kabu still hasn't really recovered from that, to be honest."*
+        *"That famous 'Prophet' came with the airship years back, but those jinnlickin' sons goats left him here! Not sure where that damned fellow wandered off to now, but all that jinnstruck nonsense about great calamities ahead really shook some folks up. Kabu still hasn't really recovered from that, to be honest."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.124!NIYOOSH!/]
 
     [/KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!]
 		||
-        *"But the last people to come before that was Archma... uh... Kambesh. And along with him that Jinn-touched horror, Ormenos - gotta say, I'm glad that one's dancing with the Jinns! What a creep he was..."*
+        *"But the last people to come before that was Archma... uh... Kambesh. And along with him that jinntouched horror, Ormenos - gotta say, I'm glad that one's dancing with the Jinns! What a creep he was..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.126!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.125!NIYOOSH!/]
 
@@ -4151,7 +4151,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!]
 		||
-        *"Maybe if this were Dazir, you'd have to worry about some backstabbin' Jinnkisser. Or if it were the Dawn Fortress you'd have to look out for draugs, but here..."*
+        *"Maybe if this were Dazir, you'd have to worry about some backstabbin' jinnkisser. Or if it were the Dawn Fortress you'd have to look out for draugs, but here..."*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!5.402!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.401!NIYOOSH!/]
 
@@ -4169,7 +4169,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!]
 		||
-        *"But look at me and my Jinnwhisperin' mouth! I should get back to work!"*
+        *"But look at me and my jinnwhisperin' mouth! I should get back to work!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.890!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.404!NIYOOSH!/]
 
@@ -4219,7 +4219,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.601!NIYOOSH!]
 		||
-        *"So go on! What's this red-tinged plot of yours, you little Jinnlickin' rascal you!"*
+        *"So go on! What's this red-tinged plot of yours, you little jinnlickin' rascal you!"*
         (F#"Well, you see, we'd... -wishper, whisper, whisper-"){F:1,KABU!TAMBUL!ATRIUM!5.602!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.601!NIYOOSH!/]
 
@@ -4231,7 +4231,7 @@ ask about the town
 
     [/KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!]
 		||
-        *"Why, yes you do! I'm not inside that Jinnstruck skull of yours! How else would I know what you meant when you said we could 'spice' this borin' dung heap up?"*
+        *"Why, yes you do! I'm not inside that jinnstruck skull of yours! How else would I know what you meant when you said we could 'spice' this borin' dung heap up?"*
         (F#"Okay, fine! All we've gotta do is... -hmmm, psst, cough, psst-"){F:1,KABU!TAMBUL!ATRIUM!5.604!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!5.603!NIYOOSH!/]
 
@@ -4841,7 +4841,7 @@ mifascul meeting in desert
 
 	[/KABU!TAMBUL!ATRIUM!1.5010!PAKAHRON!]
 		||
-		*"Mifas'cul has no monopoly on occult Techne, stranger. But I'm afraid you'll have to be the first to taste the punishment I've prepared for that foreigner Jinnspawn."* 
+		*"Mifas'cul has no monopoly on occult Techne, stranger. But I'm afraid you'll have to be the first to taste the punishment I've prepared for that foreigner jinnspawn."* 
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!9990.X13902!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!1.5010!PAKAHRON!/]
 
@@ -5522,7 +5522,7 @@ subsequent interactions
 
 	[/KABU!TAMBUL!ATRIUM!4.003!PAKAHRON!]
 		||
-		*"That does it! Guards! Escort this Jinn-loving outlander to the gates and lock them firmly behind her!"*
+		*"That does it! Guards! Escort this jinnloving outlander to the gates and lock them firmly behind her!"*
 		(E#Attack){E:2,KABU!TAMBUL!ATRIUM!9992.X0013!PAKAHRON!}
 		(F#Comply){F:2,KABU!TAMBUL!ATRIUM!9990.X13900-2!PAKAHRON!}
 	[KABU!TAMBUL!ATRIUM!4.003!PAKAHRON!/]
@@ -6484,7 +6484,7 @@ KAMBIN
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!2.1011!KAMBIN!]
 		||
-		*"Even if it ain't true, I remember my mother's strength of will; seems not even the Jinn-cursed Wastes could stop her! Ha!"*
+		*"Even if it ain't true, I remember my mother's strength of will; seems not even the jinncursed Wastes could stop her! Ha!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!2.1012!KAMBIN!}
 	[KABU!TAMBUL!HYDROPONIC FARM!2.1011!KAMBIN!/]
 
@@ -6773,7 +6773,7 @@ NOURI
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.101!NOURI!]
 		||
-		*"That Jinnlover still walks among us?! And you have his counsel?!"*
+		*"That jinnlover still walks among us?! And you have his counsel?!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!1.1010!NOURI!}
 	[KABU!TAMBUL!HYDROPONIC FARM!1.101!NOURI!/]
 
@@ -6843,7 +6843,7 @@ NOURI
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.501!NOURI!]
 		||
-		*"It is we who were deceived by that Jinntongued devil! But I will say no more."*
+		*"It is we who were deceived by that jinntongued devil! But I will say no more."*
 		(A#"You must answer for your crimes."){A:1,KABU!TAMBUL!HYDROPONIC FARM!1.102!NOURI!}
 		(D#"Kambin's suicide speaks for itself."){D:1,KABU!TAMBUL!HYDROPONIC FARM!1.4020!NOURI!}
 		(E#"You'll speak until I tell you to stop. Now who's this Mifas'cul?!"){E:1,KABU!TAMBUL!HYDROPONIC FARM!1.502!NOURI!}
@@ -6888,7 +6888,7 @@ NOURI
 	
 	[/KABU!TAMBUL!HYDROPONIC FARM!1.X4031!NOURI!]
 		|@:KABU!TAMBUL!HYDROPONIC FARM!3.000!NOURI!|
-		*"I wish Pakahron had never taken the 'help' of that Jinn-cursed Mifas'cul!"*
+		*"I wish Pakahron had never taken the 'help' of that jinncursed Mifas'cul!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!9999.X0013!NOURI!}			
 	[KABU!TAMBUL!HYDROPONIC FARM!1.X4031!NOURI!/]
 
@@ -7174,7 +7174,7 @@ this is needed or else it becomes a loop
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!4.001!PAKAHRON!]
 		||
-		*"I won't allow some Jinn-loving foreigner to hinder my research!"*
+		*"I won't allow some jinnloving foreigner to hinder my research!"*
 		(A#"..."){A:0,KABU!TAMBUL!HYDROPONIC FARM!2.002!PAKAHRON!}
 	[KABU!TAMBUL!HYDROPONIC FARM!4.001!PAKAHRON!/]
 
@@ -7221,7 +7221,7 @@ REBA
 
 	[/KABU!TAMBUL!HYDROPONIC FARM!0.2000!REBA!]
 		||
-		*"It makes me sick to think of all the Jinn-licking fools who sit happily chewing on these carrots, watered with my tears."*
+		*"It makes me sick to think of all the jinnlicking fools who sit happily chewing on these carrots, watered with my tears."*
 		(A#"Your life isn't pointless! You feed everyone with your work!"){A:1,KABU!TAMBUL!HYDROPONIC FARM!0.101!REBA!}
 		(B#"Why are you such a negative person?"){B:1,KABU!TAMBUL!HYDROPONIC FARM!0.X601!REBA!}
 		(C#"Perhaps."){C:1,KABU!TAMBUL!HYDROPONIC FARM!0.X601!REBA!}
@@ -7416,7 +7416,9 @@ _________________________________
 MOON KEEP
 	[/KABU!TAMBUL!MOON KEEP!0.000!DESCRIPTION!]
 		||
-		*Eidos walks towards the silver spire towering over the township of Tambul. From this vantage point, it is difficult to tell how this structure is built; it seems to be constructed of a number of interlocking plates, though there is no sign of rivets or welds - the seams are more aesthetic choice than pragmatic necessity. This brilliant spire stands in stark contrast to the fortification that surrounds it. Blocks of sandstone form a modest keep around the tower, with walls both thick and high. The gates leading from the residential area and into the keep stand open, implying all have access to it.*
+		*Eidos walks towards the silver spire towering over the township of Tambul. From this vantage point, it is difficult to tell how this structure is built. By all appearances, it is composed of a number of interlocking plates, though there are no signs of rivets or welds - the seams are more aesthetic choice than pragmatic necessity.
+		
+		This brilliant spire stands in stark contrast to the fortification that surrounds it. Blocks of sandstone form a modest keep around the tower, with walls both thick and high. The gates leading from the residential area and into the keep stand open, implying all have access to it.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!0.001!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.000!DESCRIPTION!/]
 
@@ -7440,7 +7442,7 @@ Gate stuff
 >>>Spoke w/ Brus about gate (13122)<<<
 	[/KABU!TAMBUL!MOON KEEP!0.X100!DESCRIPTION!]
 		|^13122:KABU!TAMBUL!MOON KEEP!1.X100!DESCRIPTION!|
-		*Walking through the keep structure, Eidos exits out into a courtyard permitting a panoramic view of the canyon. While the sight of this deep scar in the earth's skin is truly wondrous, it is eclipsed by the feat of unfathomable engineering spanning it - Heaven's Bridge, an oddly familiar name. Likely wrought by the same hands responsible for the Moon Tower, it too consists of perfectly interlocking metallic pieces, like scales on an impossibly large serpent. Stretching out across the chasm, it slithers through the air absent any support structures and yet miraculously solid and unmoving.
+		*Walking through the keep structure, Eidos exits out into a courtyard permitting a limited view of the canyon through a shimmering, open gate. While the sight of this deep scar in the earth's skin is truly wondrous, it is eclipsed by the feat of unfathomable engineering spanning it - Heaven's Bridge, an oddly familiar name. Likely wrought by the same hands responsible for the Moon Tower, it too consists of perfectly interlocking metallic pieces, like scales on an impossibly large serpent. Stretching out across the chasm, it slithers through the air absent any support structures and yet miraculously solid and unmoving.
 		
 		The sight is made even stranger by virtue of the massive archway hanging over the bridge entrance. There is some kind of visual distortion bending light at the threshold, as if there were a thin film of superheated air suspended between the metal pillars.
 		
@@ -7500,25 +7502,25 @@ Tower & Dysmas event
 		||
 		*Walking through the keep structure, Eidos finally comes to see the base of the tower. Up close, the staggering size of the tower is more evident than ever. So wide is it, that its circular base seems to draw a straight line in either direction where it meets the ground. So unfathomably tall is it, that its top appears to taper to a single point upwards into infinity.
 		
-		The closed front door is flanked by guards. Eidos sees no way to access the bridge from here, but soon she spies what appears to be a path leading around to the back of the tower.*
+		The tower, however, is less inviting than the keep, as its front door is closed and flanked by guards. Eidos sees no way to access the bridge from here, but soon spies what appears to be a path leading around to the back of the tower.*
 		(A#Return to the keep entrance){A:0,KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!}
 		(B#Explore the far side of the tower){B:0,KABU!TAMBUL!MOON KEEP!0.300!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.201!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!MOON KEEP!0.300!DESCRIPTION!]
 		||
-		*Circumnavigating the base for several minutes, Eidos notes that windows abound on this structure, giving it an unsettling semblance to a honeycomb - though all are too high to access. Within the span of a hundred paces, she stumbles upon a narrow stairway leading upwards. She climbs and climbs until she reaches a landing high above the keep's ramparts.
+		*Circumnavigating the base for several minutes, she notes the third or fourth stories begin to sprout hundreds of, giving it the unsettling semblance of a metallic honeycomb. Within the span of a hundred paces, she stumbles upon a narrow stairway leading upwards. She climbs and climbs until she reaches a landing atop the walls.
 		
 		Casting her gaze out over the canyon, she absorbs the wonders of the landscape both natural and artificial. To the east, a sprawling fortress stands between her and a black point melting into the horizon. To the north of the inky dot is a sea of sparkling white. To the south, nothing but dust and sand.
 		
-		A gentle breeze blows in from the west, cooling her sun-baked skin. Yet the air carries its characteristic lifeless scent.*
+		A gentle breeze blows in from the west, cooling her sun-baked skin and carrying with it the desert's lifeless scent.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!0.X301!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.300!DESCRIPTION!/]
 
 >>>Dysmas is slain (13112)<<<
 	[/KABU!TAMBUL!MOON KEEP!0.X301!DESCRIPTION!]
 		|^13112:KABU!TAMBUL!MOON KEEP!0.302!DESCRIPTION!|
-		*Breaking the serenity of the scene is the sound of somewhat muffled, scratching footsteps.*
+		*Disrupting the serenity of the scene is the sound of somewhat muffled, scratching footsteps.*
 		(A#Retreat to the entrance){A:0,KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!}
 		(B#Search for the source of the sound){B:0,KABU!TAMBUL!MOON KEEP!0.303!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.X301!DESCRIPTION!/]
@@ -7532,9 +7534,9 @@ dysmas is not present
 
 	[/KABU!TAMBUL!MOON KEEP!0.303!DESCRIPTION!]
 		||
-		*Eidos frantically looks left and then right, spotting nothing, as the wind howls by mockingly. Cocking an eyebrow, she decides to blame it on the mischievous wind.
+		*Eidos frantically hunts for the source to the left and then the right, spotting nothing, as the wind howls by mockingly. Cocking an eyebrow, she decides to blame it on the mischievous wind.
 		
-		With a sigh of relief she cranes her neck skywards and begins to rub out the tension. Only then does she notice that a rope dangles down from an opened window, wagging its tail excitedly as a man climbs towards the opening.*
+		With a sigh of relief, she cranes her neck and begins to rub out the tension. Only then does she notice that a rope dangles down from an opened window, wagging its tail excitedly as a man climbs towards the opening.*
 		(A#Call the guards){A:0,KABU!TAMBUL!MOON KEEP!0.313!DESCRIPTION!}
 		(B#Wait and see what happens){B:0,KABU!TAMBUL!MOON KEEP!0.X321!DESCRIPTION!}
 		(C#Climb up after him){C:0,KABU!TAMBUL!MOON KEEP!0.331!DESCRIPTION!}
@@ -7590,7 +7592,7 @@ dysmas is not present
 
 	[/KABU!TAMBUL!MOON KEEP!1.300!DESCRIPTION!]
 		||
-		*As the commotion settles down, she renews her inspection of the surroundings. To the southeast, still within the walls of Tambul, she sees a covered portion on the ramparts, standing in stark contrast to its naked neighbors. *
+		*As the commotion settles down, she renews her inspection of the surroundings. To the southeast, still within the walls of Tambul, she sees a covered portion on the ramparts, standing in stark contrast to its naked neighbors.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!1.3000!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!1.300!DESCRIPTION!/]
 
@@ -7603,7 +7605,7 @@ dysmas is not present
 
 	[/KABU!TAMBUL!MOON KEEP!1.3001!DESCRIPTION!]
 		||
-		*Blinking away the last few specks of the afterimage, Eidos stares down at the roof like a hawk eying its noon meal. Watching, waiting, expecting. She overreacts to the slightest sounds or visuals suggesting motion. Constantly vigilant..."*
+		*Blinking away the last few specks of the afterimage, Eidos stares down at the roof like a hawk eyeing its noon meal. Watching, waiting, expecting. She overreacts to the slightest sounds or visuals suggesting motion. Constantly vigilant..."*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!1.3002!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!1.3001!DESCRIPTION!/]
 
@@ -8139,7 +8141,7 @@ Pakahron shows up
 		||
 		*A door-like panel in the wall begins to fold in on itself, halving again and again until no door remains. Standing outside the portal is Tambul's mage-leader, Pakahron. In no mood to chat, he rushes in and scrutinizes the surroundings, easily surmising what Eidos has been up to. Now he appears as though he is in no mood to even let Eidos leave... He begins to move...*
 		(A#Try to persuade Pakahron to let you go){A:1,KABU!TAMBUL!MOON TOWER!0.901!DESCRIPTION!}
-		(E#Fight the goat-licking Jinnspawn!){E:1,KABU!TAMBUL!MOON TOWER!9992.X0013!PAKAHRON!}
+		(E#Fight the goat-licking jinnspawn!){E:1,KABU!TAMBUL!MOON TOWER!9992.X0013!PAKAHRON!}
 	[KABU!TAMBUL!MOON TOWER!0.900!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!MOON TOWER!0.901!DESCRIPTION!]
@@ -8523,13 +8525,15 @@ RAMPARTS
 
 	[/KABU!TAMBUL!RAMPARTS!0.001!DESCRIPTION!]
 		||
-		*The bloated corpse of a dead man lies there, wan and motionless. Though miraculously no death stench emanates from that direction, despite Eidos being down wind. Hung upon the walls are numerous concoctions, some bubbling absent fire, others constantly shifting color, but not a single normal one among them. The man attending the body is of middle years. He appears to be rubbing ointments and fluids on the cadaver. Large gashes made in the neck seem to indicating the body has been drained of blood prior to this treatment ritual.*
+		*The bloated corpse of a dead man lies there, wan and motionless. Though miraculously the stench of death is absent, despite Eidos being down wind. Hung upon the walls are numerous concoctions, some bubbling absent fire, others constantly shifting color, but not a single unremarkable one among them.
+		
+		The man attending the body is in his middle years. He appears to be rubbing ointments on and removing fluids from the cadaver. Large gashes made in the neck indicate the body has been drained of blood prior to this treatment ritual. Several corpses strung upside down over a vat at the far end of the area serve to confirm this suspicion.*
 		(A#...){A:0,KABU!TAMBUL!RAMPARTS!0.X002!DESCRIPTION!}
 	[KABU!TAMBUL!RAMPARTS!0.001!DESCRIPTION!/]
 
 	[/KABU!TAMBUL!RAMPARTS!0.X002!DESCRIPTION!]
 		|@:KABU!TAMBUL!RAMPARTS!0.003!DESCRIPTION!|
-		*Looking down from this vantage point, Eidos sees that these walls overlook another deathly sight: far below in the canyon lies a veritable mountain of bones. She can also make a pair of minuscule, fuzzy points near the pile and another one next to the grisly mound.*
+		*Looking down from this vantage point, Eidos sees that these walls overlook another ghastly sight, for in the canyon, far below, lies a veritable mountain of bones. She can also make a pair of minuscule, fuzzy points near the pile and another one next to the grisly mound.*
 		(A#Descend the stairs){A:0,KABU!TAMBUL!MOON KEEP!0.X100!DESCRIPTION!}
 		(B#Talk to the body preparer){B:0,KABU!TAMBUL!RAMPARTS!9999.X0116!DESCRIPTION!}
 	[KABU!TAMBUL!RAMPARTS!0.X002!DESCRIPTION!/]
@@ -8607,19 +8611,19 @@ Pakahron dead
 BOZ
 	[/KABU!TAMBUL!RAMPARTS!0.000!BOZ!]
 		||
-		*"What in the name of the Obsidian Jinn's black arse are you doing up here, outlander?"*
+		*"What in the name of the Obsidian Jinn's black arse are you doin' up here, outlander?"*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.001!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.000!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!0.001!BOZ!]
 		||
-		*"Don't tell me you've got a morbid taste for bodies or somethin'?"*
+		*"You some kind of necrophile? That means death-lover, in case you're as dumb as you look."*
 		(A#"I'm sorry if I offended you. I'm simply exploring."){A:1,KABU!TAMBUL!RAMPARTS!0.100!BOZ!}
 		(B#"What is this fascinating place?"){B:1,KABU!TAMBUL!RAMPARTS!0.200!BOZ!}
 		(C#"My wanderings have no purpose."){C:1,KABU!TAMBUL!RAMPARTS!0.300!BOZ!}
-		(D#"What do you do up here?"){D:1,KABU!TAMBUL!RAMPARTS!0.400!BOZ!}
-		(E#"If I did, there's little you could do about it."){E:1,KABU!TAMBUL!RAMPARTS!0.500!BOZ!}
-		(F#"Well, I wanted to be a necromancer, but that class wasn't available."){F:1,KABU!TAMBUL!RAMPARTS!0.600!BOZ!}
+		(D#"Yes, clever. Now tell me, what do you do up here?"){D:1,KABU!TAMBUL!RAMPARTS!0.400!BOZ!}
+		(E#"If I were, there's little you could do about it."){E:1,KABU!TAMBUL!RAMPARTS!0.500!BOZ!}
+		(F#"Did want to be a nec-romancer once, but my college didn't offer the major."){F:1,KABU!TAMBUL!RAMPARTS!0.600!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.001!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!0.100!BOZ!]
@@ -8704,7 +8708,7 @@ BOZ
 
 	[/KABU!TAMBUL!RAMPARTS!0.5001!BOZ!]
 		||
-		*"But in any case, there's no reason to get all Jinn-crazed 'bout this body."*
+		*"But in any case, there's no reason to get all jinncrazed 'bout this body."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.5002!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.5001!BOZ!/]
 
@@ -8718,7 +8722,7 @@ BOZ
 
 	[/KABU!TAMBUL!RAMPARTS!0.600!BOZ!]
 		||
-		*"Necromancer? Oh, wait a Jinnpickin' minute, so you hoped to find some kind of death magic here? Not gonna happen, sweet cheeks!"* 
+		*"Necromancer? Oh, wait a jinnpickin' minute, so you hoped to find some kind of death magic here? Not gonna happen, sweet cheeks!"* 
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.6000!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.600!BOZ!/]
 
@@ -8762,13 +8766,13 @@ BOZ
 
 	[/KABU!TAMBUL!RAMPARTS!0.301!BOZ!]
 		||
-		*"Lost? Well, let me be your tour guide then, not like I have a job or anythin'!"*
+		*"Lost? Well, let me be your tour guide then - it's not like I have a job or anythin'!"*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.3010!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.301!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!0.3010!BOZ!]
 		||
-		*"Right, so that big metal thin' is the Moon Tower, the main attraction of Tambul. And Tambul itself is the greatest and oldest of Kaban settlements, the very center of culture, life and prosperity in the region of Kabu."*
+		*"Right, so that big metal thin' is the Moon Tower, the main attraction of Tambul. And Tambul itself is the greatest and oldest of Kaban settlements, the very center of culture, life and prosperity in the Kabu region."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!0.3011!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!0.3010!BOZ!/]
 
@@ -8830,7 +8834,7 @@ second encounter
 	
 	[/KABU!TAMBUL!RAMPARTS!1.001!BOZ!]
 		||
-		*"What is it you want, outlander? Do you need some company from old Boz?"*
+		*"What is it you want, outlander? Don't tell me you need some company from old Boz?"*
 		(A#"You're quite an irreverent tender of the dead."){A:1,KABU!TAMBUL!RAMPARTS!9990.X13119-1!BOZ!}
 		(B#"Why do you throw bodies from the walls?"){B:1,KABU!TAMBUL!RAMPARTS!9990.X13119-2!BOZ!}
 		(D#"Why are those guards down there?"){D:1,KABU!TAMBUL!RAMPARTS!1.400!BOZ!}
@@ -8840,7 +8844,7 @@ second encounter
 
 	[/KABU!TAMBUL!RAMPARTS!1.100!BOZ!]
 		||
-		*"Irreverence is the whole Jinn-cursed point!"*
+		*"Irreverence is the whole jinncursed point!"*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!1.1000!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!1.100!BOZ!/]
 
@@ -8866,7 +8870,7 @@ second encounter
 
 	[/KABU!TAMBUL!RAMPARTS!1.2000!BOZ!]
 		||
-		*"I myself prepared Archmage Kambesh's body when folk demanded he be buried as one of them - a testament to how well he controlled the hearts and minds of the truth-blind."*
+		*"I myself prepared Kambesh's body when folk demanded he be buried as one of them - a testament to how well he controlled the hearts and minds of the truth-blind."*
 		(A#"Then why's that person down there mourning the dead?"){A:1,KABU!TAMBUL!RAMPARTS!1.101!BOZ!}
 		(B#"Do all the folk of Kabu practice this rite?"){B:1,KABU!TAMBUL!RAMPARTS!1.201!BOZ!}
 		(D#"Why not simply destroy the bodies?"){D:1,KABU!TAMBUL!RAMPARTS!1.401!BOZ!}
@@ -9032,13 +9036,13 @@ second encounter
 
 	[/KABU!TAMBUL!RAMPARTS!3.200!BOZ!]
 		||
-		*"...I guess you haven't met his co-worker, Reba."*
+		*"...I guess you haven't met this corpse's former co-worker, a Daziran named Reba."*
 		(A#"..."){A:0,KABU!TAMBUL!RAMPARTS!3.2000!BOZ!}
 	[KABU!TAMBUL!RAMPARTS!3.200!BOZ!/]
 
 	[/KABU!TAMBUL!RAMPARTS!3.2000!BOZ!]
 		||
-		*"Thank Biracul AND all the Jinns in the Graylands that she didn't choose to apprentice here, else I'd be the one tyin' a rope 'round my neck!"*
+		*"Thank Biracul - AND all the Jinns in the Graylands - that she didn't choose to apprentice here, else I'd be the one tyin' a rope 'round my neck!"*
 		(A#"I fear that I'm responsible."){A:1,KABU!TAMBUL!RAMPARTS!3.101!BOZ!}
 		(B#"Is suicide common here?"){B:1,KABU!TAMBUL!RAMPARTS!3.X201!BOZ!}
 		(C#"You really think it was Reba?"){C:1,KABU!TAMBUL!RAMPARTS!3.301!BOZ!}
@@ -9362,7 +9366,7 @@ AKKEBER
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!0.001!AKKEBER!]
 		||
-		*"First, came ol' Famlaz, dread Jinnking of red,
+		*"First, came ol' Famlaz, dread Jinn king of red,
 		Lies dripping - oozing! - from his brain-filled head.
 		Pay attention! Listen now and listen well!
 		His squawking bird-voice with effect most fell!"*
@@ -9883,7 +9887,7 @@ ENTEGHAD
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.2010!ENTEGHAD!]
 		||
-		*"Blood seeped out of their eyes, ears, mouths, even the pores in their skin! I for one suspect Jinncraft, I do."*
+		*"Blood seeped out of their eyes, ears, mouths, even the pores in their skin! I for one suspect jinncraft, I do."*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!1.X2011!ENTEGHAD!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.2010!ENTEGHAD!/]
 
@@ -9901,7 +9905,7 @@ ENTEGHAD
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.X4010!ENTEGHAD!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!2.X000!ENTEGHAD!|
-		*"And while I didn't see it personally, I heard that they all bled to death - blood seepin' out of their eyes, ears, mouths, even the pores in their skin! Ghastly. I suspect Jinncraft, I do."*
+		*"And while I didn't see it personally, I heard that they all bled to death - blood seepin' out of their eyes, ears, mouths, even the pores in their skin! Ghastly. I suspect jinncraft, I do."*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!ENTEGHAD!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.X4010!ENTEGHAD!/]
 
@@ -10211,7 +10215,7 @@ FARRIN
 	
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.002!FARRIN!]
 		||
-		*"Because of your Jinnwhispers, my sweet Kambin is dead!"*
+		*"Because of your jinnwhispers, my sweet Kambin is dead!"*
 		(A#"Farrin, I was attempting to help him."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.100!FARRIN!}
 		(B#"How did this happen?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.200!FARRIN!}
 		(C#"..."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X301!FARRIN!}
@@ -10223,7 +10227,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.100!FARRIN!]
 		||
-		*"He took his own life! What did you say to him, you Jinn-cursed foreigner!?"*
+		*"He took his own life! What did you say to him, you jinncursed foreigner!?"*
 		(A#"I asked about his nightmares."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X101!FARRIN!}
 		(B#"Suicide... How did he die?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X201!FARRIN!}
 		(E#"I rebuked him for his weakness."){E:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X501!FARRIN!}
@@ -10231,7 +10235,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.200!FARRIN!]
 		||
-		*"He took his own life! What did you say to him, you Jinn-cursed foreigner!?"*
+		*"He took his own life! What did you say to him, you jinncursed foreigner!?"*
 		(A#"I asked about his nightmares."){A:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X101!FARRIN!}
 		(B#"Suicide... How did he die?"){B:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X201!FARRIN!}
 		(C#"Nothing in particular."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X301!FARRIN!}
@@ -10239,7 +10243,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.400!FARRIN!]
 		||
-		*"You drove him to it! You must have used some foreign Techne to drive him to take his own life! What did you say to him, you Jinn-cursed foreigner?!"*
+		*"You drove him to it! You must have used some foreign Techne to drive him to take his own life! What did you say to him, you jinncursed foreigner?!"*
 		(C#"Nothing in particular."){C:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X301!FARRIN!}
 		(D#"It was your request! Blame yourself, not me."){D:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X401!FARRIN!}
 		(E#"I rebuked him for his weakness."){E:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X501!FARRIN!}
@@ -10247,7 +10251,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.600!FARRIN!]
 		||
-		*"He took his own life! What did you say to him, you Jinn-cursed foreigner!?"*
+		*"He took his own life! What did you say to him, you jinncursed foreigner!?"*
 		(F#"Perhaps the bombs I dropped were too potent for his mortal soul..."){F:1,KABU!TAMBUL!RESIDENCE DISTRICT!1.X601!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.600!FARRIN!/]
 
@@ -10291,7 +10295,7 @@ FARRIN
 
 	[/KABU!TAMBUL!RESIDENCE DISTRICT!1.X898!FARRIN!]
 		|@:KABU!TAMBUL!RESIDENCE DISTRICT!9992.X0109!FARRIN!|
-		*"Never approach me again, Jinn-loving scum!"*
+		*"Never approach me again, jinnloving scum!"*
 		(A#"..."){A:0,KABU!TAMBUL!RESIDENCE DISTRICT!9999.X9999!FARRIN!}
 	[KABU!TAMBUL!RESIDENCE DISTRICT!1.X898!FARRIN!/]
 

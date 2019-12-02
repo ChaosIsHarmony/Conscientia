@@ -1469,7 +1469,7 @@ ASSALA
 	
 	[/KABU!CANYON!VALLEY OF BONES!0.4012!ASSALA!]
 		||
-		*"I will have the name of your fallen comrade or you will dance with Jinns in the Graylands!"*
+		*"I'll have the name of your fallen comrade or you'll dance with Jinns in the Graylands!"*
 		(C#"Perhaps I shall depart."){C:1,KABU!CANYON!VALLEY OF BONES!9990.X14410-4!ASSALA!}
 		(D#"There are many whom Kambesh called 'friend'."){D:1,KABU!CANYON!VALLEY OF BONES!9990.X14404!ASSALA!}
 		(E#"Your ultimatums have no sway over me, weakling."){E:1,KABU!CANYON!VALLEY OF BONES!9990.X14405!ASSALA!}
@@ -1503,7 +1503,7 @@ ASSALA
 second encounter	
 	[/KABU!CANYON!VALLEY OF BONES!10.000!ASSALA!]
 		||
-		*"Do not tempt fate, you Jinn-loving outlander."*
+		*"Do not tempt fate, you jinnloving outlander."*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!10.001!ASSALA!}
 	[KABU!CANYON!VALLEY OF BONES!10.000!ASSALA!/]
 	
@@ -1612,7 +1612,7 @@ Ark reborn
 
 	[/KABU!CANYON!VALLEY OF BONES!77.X400!ASSALA!]
 		|@:KABU!CANYON!VALLEY OF BONES!77.X900!ASSALA!|
-		*"What Jinn-struck nonsense is this?"*
+		*"What jinnstruck nonsense is this?"*
 		(A#Draw Luin){A:0,KABU!CANYON!VALLEY OF BONES!9999.X9999!ASSALA!}	
 	[KABU!CANYON!VALLEY OF BONES!77.X400!ASSALA!/]
 
@@ -1902,7 +1902,7 @@ second encounter
 
 	[/KABU!CANYON!VALLEY OF BONES!10.500!HUBBIYH!]
 		||
-		*"You are brave... or more likely just a Jinn-struck fool."*
+		*"You are brave... or more likely just a jinnstruck fool."*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!10.501!HUBBIYH!}	
 	[KABU!CANYON!VALLEY OF BONES!10.500!HUBBIYH!/]
 	
@@ -1914,7 +1914,7 @@ second encounter
 	
 	[/KABU!CANYON!VALLEY OF BONES!10.600!HUBBIYH!]
 		||
-		*"You are brave to insult a Tacribian veteran... or more likely just a Jinn-struck fool."*
+		*"You are brave to insult a Tacribian veteran... or more likely just a jinnstruck fool."*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!10.101!HUBBIYH!}	
 	[KABU!CANYON!VALLEY OF BONES!10.600!HUBBIYH!/]
 
@@ -1976,7 +1976,7 @@ NADUB
 	[/KABU!CANYON!VALLEY OF BONES!0.X002!NADUB!]
 		|@:KABU!CANYON!VALLEY OF BONES!0.X003!NADUB!|
 		*"May your departed family join you in the One's Trueflesh!
-		Stay far from the Jinn-cursed Void of Thiudan make!"*
+		Stay far from the jinncursed Void of Thiudan make!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!9999.X9999!NADUB!}	
 	[KABU!CANYON!VALLEY OF BONES!0.X002!NADUB!/]
 

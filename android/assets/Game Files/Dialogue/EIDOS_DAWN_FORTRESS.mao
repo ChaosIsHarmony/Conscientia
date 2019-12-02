@@ -488,7 +488,7 @@ KHLUTT
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.100!KHLUTT!]
 		||
-		*"Crime? Irrelevant. Your Jinn-touched meddling now benefits us, and we intend to stop it before it ceases to do so."*
+		*"Crime? Irrelevant. Your jinntouched meddling now benefits us, and we intend to stop it before it ceases to do so."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!0.1000!KHLUTT!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.100!KHLUTT!/]
 	
@@ -603,7 +603,7 @@ KHLUTT
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.4010!KHLUTT!]
 		||
-		*"I will soon control the entire region, you Jinn-cursed fool!"*
+		*"I will soon control the entire region, you jinncursed fool!"*
 		(A#"You have no right to do this."){A:1,KABU!DAWN FORTRESS!ARCHIVES!0.101!KHLUTT!}
 		(C#"Do as you like; it makes no difference to me."){C:1,KABU!DAWN FORTRESS!ARCHIVES!0.301!KHLUTT!}
 		(D#"Oh, sagacious Khlutt! Teach me how to let my people die of thirst!"){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.1010!KHLUTT!}
@@ -918,7 +918,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.4020!LOGIRA!]
 		||
-		*"It is said that he met the Rubied Jinn on the road to Tacriba in the Jenowin plain. There he was given Glyphcraft to open a gate to the Graylands that would melt the foundations of the Sun Tower with Jinnfire!"*
+		*"It is said that he met the Rubied Jinn on the road to Tacriba in the Jenowin plain. There he was given Glyphcraft to open a gate to the Graylands that would melt the foundations of the Sun Tower with jinnfire!"*
 		(B#"What knowledge does the Wasteland hold?"){B:1,KABU!DAWN FORTRESS!ARCHIVES!0.203!LOGIRA!}
 		(D#"How did the Jinnwraith attain its power?"){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.403!LOGIRA!}
 		(E#"You are fools to let such power go unused."){E:1,KABU!DAWN FORTRESS!ARCHIVES!0.503!LOGIRA!}
@@ -932,7 +932,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.5020!LOGIRA!]
 		||
-		*"That's why I know first-hand how imperative it is that we not abandon our sacred charge to defend Kabu from the Jinn-cursed abominations that ooze from the Stilled Sand Crater."*
+		*"That's why I know first-hand how imperative it is that we not abandon our sacred charge to defend Kabu from the jinncursed abominations that ooze from the Stilled Sand Crater."*
 		(A#"Tell me more of the problems here."){A:1,KABU!DAWN FORTRESS!ARCHIVES!1.100!LOGIRA!}
 		(D#"I wish to become more powerful than these horrors."){D:1,KABU!DAWN FORTRESS!ARCHIVES!0.403!LOGIRA!}
 		(E#"You are fools to let such power go unused."){E:1,KABU!DAWN FORTRESS!ARCHIVES!0.503!LOGIRA!}
@@ -1038,7 +1038,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.10000!LOGIRA!]
 		||
-		*"While we accepted the role of fighting the fell Jinnspawn of the Wastes, we have always been resentful of our dependence on Dazir for water."*
+		*"While we accepted the role of fighting the fell jinnspawn of the Wastes, we have always been resentful of our dependence on Dazir for water."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!1.1001!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!1.10000!LOGIRA!/]
 	
@@ -1389,7 +1389,7 @@ khlutt is dead
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!10.300!LOGIRA!]
 		||
-		*"Argh! Jinn-cursed, outlander, I'll find out what I need to know for myself!"*
+		*"Argh! Jinncursed outlander, I'll find out what I need to know for myself!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!10.X301!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!10.300!LOGIRA!/]
 	
@@ -1442,7 +1442,7 @@ khlutt is dead
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!11.100!LOGIRA!]
 		||
-		*"No! If he is unwilling to negotiate with his own people, what makes you think he would hear the Jinn-whispered words of a foreigner?!"*
+		*"No! If he is unwilling to negotiate with his own people, what makes you think he would hear the jinnwhispered words of a foreigner?!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!11.101!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!11.100!LOGIRA!/]
 	
@@ -1560,7 +1560,7 @@ will not help
 
 	[/KABU!DAWN FORTRESS!ARCHIVES!13.001!LOGIRA!]
 		||
-		*"You may not have done this intentionally, but your Jinn-struck actions have messed everything up."*
+		*"You may not have done this intentionally, but your jinnstruck actions have messed everything up."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!13.002!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!13.001!LOGIRA!/]
 
@@ -1892,7 +1892,7 @@ CONVERSATION
 
 	[/KABU!DAWN FORTRESS!BARRACKS!0.001!DIYA!]
 		||
-		*"Look, Shen's disappearance is only the latest in a series of Jinn-born horrors!"*
+		*"Look, Shen's disappearance is only the latest in a series of jinnborn horrors!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!0.0010!DIYA!}
 	[KABU!DAWN FORTRESS!BARRACKS!0.001!DIYA!/]
 	
@@ -1910,7 +1910,7 @@ CONVERSATION
 		
 	[/KABU!DAWN FORTRESS!BARRACKS!0.X0012!DIYA!]
 		|@:KABU!DAWN FORTRESS!BARRACKS!2.000!DIYA!|
-		*"And if that's not enough, I myself heard voices and Jinnwhispers on the air some nights ago..."*
+		*"And if that's not enough, I myself heard voices and jinnwhispers on the air some nights ago..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!9999.X0213!DIYA!}	
 	[KABU!DAWN FORTRESS!BARRACKS!0.X0012!DIYA!/]
 
@@ -1934,7 +1934,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!1.000!IMAT!]
 		||
-		*"Neither of you Jinnlickers are going anywhere you're not instructed to go."*
+		*"Neither of you jinnlickers are going anywhere you're not instructed to go."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!1.001!IMAT!}
 	[KABU!DAWN FORTRESS!BARRACKS!1.000!IMAT!/]
 	
@@ -1982,7 +1982,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!2.002!DIYA!]
 		||
-		*"You've never seen the wraithglow of the Forest... I'd not even wish it on a Jinnlickin' Daziran!"*
+		*"You've never seen the wraithglow of the Forest... I'd not even wish it on a jinnlickin' Daziran!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!2.003!DIYA!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.002!DIYA!/]
 	
@@ -3276,7 +3276,7 @@ HEYAR
 
 	[/KABU!DAWN FORTRESS!COURTYARD!90.6001!HEYAR!]
 		||
-		*"You're as Jinn-struck as that itinerant Prophet, I dare say!"*
+		*"You're as jinnstruck as that itinerant Prophet, I dare say!"*
 		(F#"Though this is the first I've seen a talking rooster..."){F:1,KABU!DAWN FORTRESS!COURTYARD!90.601!HEYAR!}
 	[KABU!DAWN FORTRESS!COURTYARD!90.6001!HEYAR!/]
 
@@ -3997,7 +3997,7 @@ ISSAM
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!0.X2011!ISSAM!]
 		|@:KABU!DAWN FORTRESS!COURTYARD!0.X900!ISSAM!|
-		*"Now get out of here, Jinnslave!"*
+		*"Now get out of here, jinnslave!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!9999.X9999!ISSAM!}			
 	[KABU!DAWN FORTRESS!COURTYARD!0.X2011!ISSAM!/]		
 	
@@ -4051,7 +4051,7 @@ ISSAM
 	
 	[/KABU!DAWN FORTRESS!COURTYARD!0.5012!ISSAM!]
 		||
-		*"My spear begs to differ, Jinnslave..."*
+		*"My spear begs to differ, jinnslave..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!0.X5013!ISSAM!}
 	[KABU!DAWN FORTRESS!COURTYARD!0.5012!ISSAM!/]
 	
@@ -4216,7 +4216,7 @@ trial
 
 	[/KABU!DAWN FORTRESS!COURTYARD!92.000!KHLUTT!]
 		||
-		*"You have been borne to the Dawn Fortress on a torrent of corrupted water, and already, the Jinnvenom works its ruin in our Falseflesh."*
+		*"You have been borne to the Dawn Fortress on a torrent of corrupted water, and already, the jinnvenom works its ruin in our Falseflesh."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!COURTYARD!92.001!KHLUTT!}
 	[KABU!DAWN FORTRESS!COURTYARD!92.000!KHLUTT!/]
 	
@@ -5021,7 +5021,7 @@ begin convo
 
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.300!KHLUTT!]
 		||
-		*"We are not a rest stop for wandering vagrants, Jinnslave."*
+		*"We are not a rest stop for wandering vagrants, jinnslave."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.3000!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.300!KHLUTT!/]
 	
@@ -5508,7 +5508,7 @@ Have an agreement w/ Pakahron
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!1.1010!KHLUTT!]
 		||
-		*"That Jinn-loving Khaa will pay for his crimes with his life."*
+		*"That jinnloving Khaa will pay for his crimes with his life."*
 		(A#"This is not over; I will prevent this conflict!"){A:1,KABU!DAWN FORTRESS!MAGE'S ABODE!1.102!KHLUTT!}
 		(B#"Then I have learned all I can."){B:1,KABU!DAWN FORTRESS!MAGE'S ABODE!1.202!KHLUTT!}
 		(E#"Pray we never meet again!"){E:1,KABU!DAWN FORTRESS!MAGE'S ABODE!1.502!KHLUTT!}
@@ -5516,7 +5516,7 @@ Have an agreement w/ Pakahron
 
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!1.201!KHLUTT!]
 		||
-		*"Whether this was the result of accident or some Jinn-inspired design is immaterial to me."*
+		*"Whether this was the result of accident or some jinninspired design is immaterial to me."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!1.2010!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!1.201!KHLUTT!/]
 	
@@ -5575,7 +5575,7 @@ Have an agreement w/ Pakahron
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!1.X1020!KHLUTT!]
 		|@:KABU!DAWN FORTRESS!MAGE'S ABODE!11.000!KHLUTT!|
-		*"You will either have to kill that Jinnspawn Khaa or me to achieve that dream, strange one... or more likely, die in the attempt."*
+		*"You will either have to kill that jinnspawn Khaa or me to achieve that dream, strange one... or more likely, die in the attempt."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!9999.X9999!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!1.X1020!KHLUTT!/]
 
@@ -5611,7 +5611,7 @@ Have an agreement w/ Pakahron
 
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!1.502!KHLUTT!]
 		||
-		*"Again, mere words and Jinnwhispers, no substance."*
+		*"Again, mere words and jinnwhispers, no substance."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!1.5020!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!1.502!KHLUTT!/]
 	
@@ -5887,7 +5887,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.4002!CIRE!]
 		||
-		*"Despite having dealt with the Dazirans for years, he had no preparations for an event like this; and now, we might very well all perish because of his Jinn-licking ineptitude! Pardon my language."*
+		*"Despite having dealt with the Dazirans for years, he had no preparations for an event like this; and now, we might very well all perish because of his jinnlicking ineptitude! Pardon my language."*
 		(C#"You sound like you know what you are talking about."){C:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.301!CIRE!}
 		(D#"Are you suggesting he needs to be removed from power?"){D:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.401!CIRE!}
 		(E#"One who acts is stronger than one who complains about the actions of others."){E:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.501!CIRE!}
@@ -6137,7 +6137,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.1023!CIRE!]
 		||
-		*"I do not think this point is so difficult to understand; by Biracul's beard, even a Jinn-struck plains-dweller could see that it is self-evident."*
+		*"I do not think this point is so difficult to understand; by Biracul's beard, even a jinnstruck plains-dweller could see that it is self-evident."*
 		(A#"I hear nothing in your diatribe that elucidates Khlutt's mistakes."){A:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.200!CIRE!}
 		(B#"Are these even analogous situations?"){B:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.203!CIRE!}
 		(E#"A shame your words cannot become water: Tacriba would never thirst again."){E:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.503!CIRE!}
@@ -6263,7 +6263,7 @@ CIRE
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.5023!CIRE!]
 		||
-		*"I do not think this point is so difficult to understand; by Biracul's beard, even a Jinn-struck plains-dweller could see that it is self-evident."*
+		*"I do not think this point is so difficult to understand; by Biracul's beard, even a jinnstruck plains-dweller could see that it is self-evident."*
 		(A#"I hear nothing in your diatribe elucidate Khlutt's mistakes."){A:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.200!CIRE!}
 		(D#"Are these even analogous situations?"){D:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.203!CIRE!}
 		(E#"A shame your words cannot become water; Tacriba would never thirst again."){E:1,KABU!DAWN FORTRESS!PROVING GROUNDS!0.503!CIRE!}
@@ -6691,7 +6691,7 @@ FIDAN
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.X900!FIDAN!]
 		|@:KABU!DAWN FORTRESS!PROVING GROUNDS!0.X901!FIDAN!|
-		*"Put some backbone into, you limp-wristed Jinnlickers!"*
+		*"Put some backbone into, you limp-wristed jinnlickers!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9999.X9999!FIDAN!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.X900!FIDAN!/]
 	
@@ -6803,7 +6803,7 @@ YARMAK
 
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.500!YARMAK!]
 		||
-		*"Ha! Indeed, perhaps you should try, you Jinn-struck fool!"*
+		*"Ha! Indeed, perhaps you should try, you jinnstruck fool!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.5000!YARMAK!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.500!YARMAK!/]
 	
@@ -6980,7 +6980,7 @@ YARMAK
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.X6011!YARMAK!]
 		|@:KABU!DAWN FORTRESS!PROVING GROUNDS!0.899!YARMAK!|
-		*"Biracul smile upon you... even if you are Jinn-struck."*
+		*"Biracul smile upon you... even if you are jinnstruck."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9999.X9999!YARMAK!}		
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.X6011!YARMAK!/]
 	
@@ -7296,7 +7296,7 @@ MINAH
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.5001!MINAH!]
 		||
-		*"But Archmage Ark and her guardians carved death into the Jinn-cursed creature's bones and cast it back into the Graylands!"*
+		*"But Archmage Ark and her guardians carved death into the jinncursed creature's bones and cast it back into the Graylands!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.5002!MINAH!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.5001!MINAH!/]
 	
@@ -8685,7 +8685,7 @@ revived the Muninn tree
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!2.203!RUHI!]
 		||
-		*"Biracul will suck your Jinnvenom from my Trueflesh!"*
+		*"Biracul will suck your jinnvenom from my Trueflesh!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!1.X9990!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!2.203!RUHI!/]	
 

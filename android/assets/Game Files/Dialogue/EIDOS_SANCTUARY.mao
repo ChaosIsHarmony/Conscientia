@@ -794,7 +794,7 @@ LOGIRA
 	
 	[/KABU!SANCTUARY!ANTECHAMBER!0.1010!LOGIRA!]
 		||
-		*"Famlaz, Mifas'cul, Hamlik and myriad other Jinn-cursed pseudonyms all point to the same abomination!"*
+		*"Famlaz, Mifas'cul, Hamlik and myriad other jinncursed pseudonyms all point to the same abomination!"*
 		(A#"..."){A:0,KABU!SANCTUARY!ANTECHAMBER!0.1011!LOGIRA!}
 	[KABU!SANCTUARY!ANTECHAMBER!0.1010!LOGIRA!/]
 	

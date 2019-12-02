@@ -1889,7 +1889,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01110!COOK DING!]
 		||
-		*"So, I go' off tha' ship in Jer, where some looney Jinn worshippers caugh' me and took me to see a... a Wyrm, they call'd i'!"*
+		*"So, I go' off tha' ship in Jer, where some looney jinnworshippers caugh' me and took me to see a... a Wyrm, they call'd i'!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01111!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01110!COOK DING!/]
 
@@ -2030,7 +2030,7 @@ COOK DING
 
 	[/ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!]
 		||
-		*"Bu' tha' basterd would try ta score our gif's ta him and demand more fer him ta raise the Jinn-cursed score!"*
+		*"Bu' tha' basterd would try ta score our gif's ta him and demand more fer him ta raise the jinncursed score!"*
 		(A#"..."){A:0,ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01422!COOK DING!}
 	[ENCLAVE!HALLS OF THE ADEPTI!REFECTORY!1.01421!COOK DING!/]
 

@@ -485,7 +485,7 @@ ADARIK
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.1022!ADARIK!]
 		||
-		*"No, the wraithglow'll get you... Gets everyone, good men and Jinnspawn alike..."*
+		*"No, the wraithglow'll get you... Gets everyone, good men and jinnspawn alike..."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!0.1023!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.1022!ADARIK!/]
 
@@ -515,7 +515,7 @@ ADARIK
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.2021!ADARIK!]
 		||
-		*"You might be wondering why a Tacribian was exiled. Well, my guess is that it's probably because she never shuts up! Speaks as much as a Jinn-kissed Daziran, that one..."*
+		*"You might be wondering why a Tacribian was exiled. Well, my guess is that it's probably because she never shuts up! Speaks as much as a jinnkissed Daziran, that one..."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!0.2022!ADARIK!}
 	[KABU!WASTELAND!ARK'S BEACON!0.2021!ADARIK!/]
 
@@ -2029,7 +2029,7 @@ HEYAR
 
 	[/KABU!WASTELAND!CRESCENT CANYON!0.6000!HEYAR!]
 		||
-		*"Undying and deformed, pale-skinned humanoids abominations! The aborted remains of Jinnspawn!"*
+		*"Undying and deformed, pale-skinned humanoids abominations! The aborted remains of jinnspawn!"*
 		(A#"..."){A:0,KABU!WASTELAND!CRESCENT CANYON!0.6001!HEYAR!}
 	[KABU!WASTELAND!CRESCENT CANYON!0.6000!HEYAR!/]
 
@@ -5308,7 +5308,7 @@ __Re-living of Rikharr's Folly__
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.5018!DESCRIPTION!]
 		||
-		*The battle lasts but an instant. Yet, though a spark dies no sooner than it is born, to the spark it seems a lifetime has passed. Likewise to the fated enemies, the seemingly eternal battle ends only as Ark drives Luin through the Rikharr's bowels, pinning him to the bridge. Ark's Valvorthr leave her to rout the Jinn-cursed draugnir, now aimlessly wandering the dunes around the ruined Sun Tower.*
+		*The battle lasts but an instant. Yet, though a spark dies no sooner than it is born, to the spark it seems a lifetime has passed. Likewise to the fated enemies, the seemingly eternal battle ends only as Ark drives Luin through the Rikharr's bowels, pinning him to the bridge. Ark's Valvorthr leave her to rout the jinncursed draugnir, now aimlessly wandering the dunes around the ruined Sun Tower.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.5019!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.5018!DESCRIPTION!/]
 
