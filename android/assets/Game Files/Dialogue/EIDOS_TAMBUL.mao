@@ -40,7 +40,7 @@ ARCHIVES
 >>>Tambul Torma tome acquired (13800)<<<
 	[/KABU!TAMBUL!ARCHIVES!0.X100!DESCRIPTION!]
 		|^13800:KABU!TAMBUL!ARCHIVES!0.100!DESCRIPTION!|
-		*Eidos strolls around the Archives, from shelf to shelf and tome to tome. Yet, with so much of the space occupied by the tree, it seems as though there is a relative poverty of physical, written resources in this place. Many of the shelves lie empty and Eidos estimates that only roughly half the space is being filled with tomes.
+		*Eidos strolls around the Archives, from shelf to shelf and tome to tome. Yet, with so much of the space occupied by the tree, it seems as though there is a relative poverty of written resources in this place. Many of the shelves lie empty and Eidos estimates that only roughly half the space is being filled with tomes.
 		
 		During her exploration, she also finds hints of a storied past when the Archives were alive with decorations. The now all but barren walls, were clearly once painted with murals that have faded with the passage of time. Large swathes have been completely erased, but here and there a splash of color or a fleck of gilding betrays their former glory.*
 		(A#Search through the tomes){A:0,KABU!TAMBUL!ARCHIVES!0.X300!DESCRIPTION!}
@@ -50,7 +50,7 @@ ARCHIVES
 
 	[/KABU!TAMBUL!ARCHIVES!0.100!DESCRIPTION!]
 		||
-		*Eidos strolls around the Archives, from shelf to shelf and tome to tome. Yet, with so much of the space occupied by the tree, it seems as though there is a relative poverty of physical, written resources in this place. Many of the shelves lie empty and Eidos estimates that only roughly half the space is being filled with tomes. Having sifted through the tomes previously, she likewise knows that none are of any interest to her.
+		*Eidos strolls around the Archives, from shelf to shelf and tome to tome. Yet, with so much of the space occupied by the tree, it seems as though there is a relative poverty of written resources in this place. Many of the shelves lie empty and Eidos estimates that only roughly half the space is being filled with tomes. Having sifted through the tomes previously, she likewise knows that none are of any interest to her.
 		
 		During her exploration, she also finds hints of a storied past when the Archives were alive with decorations. The now all but barren walls, were clearly once painted with murals that have faded with the passage of time. Large swathes have been completely erased, but here and there a splash of color or a fleck of gilding betrays their former glory.*
 		(A#Return to the entrance){A:0,KABU!TAMBUL!ARCHIVES!0.X000!DESCRIPTION!}
@@ -66,7 +66,7 @@ find secret chamber
 	
 	[/KABU!TAMBUL!ARCHIVES!0.102!DESCRIPTION!]
 		||
-		*Her eyes lock onto one of the more intact murals. At first, it appears to be a stylistic representation of the massive tree dominating this very hall. Yet, there are a great number of differences both subtle and profane. In the faded fresco, the tree's roots are visible, seeming to sprout from the body of a woman interred beneath the tree. Red veins run through the roots, up the trunk, and blossom forth from the branches as crimson leaves. These stand in contrast to the silvered foliage of the Archives' tree.*
+		*Her eyes lock onto one of the more intact murals. At first, it appears to be a stylistic representation of the massive tree dominating this very hall. Yet, there are a great number of differences both subtle and profane. In the faded fresco, the tree's roots are visible, seeming to sprout from the body of a woman buried beneath the tree. Red veins run through the roots, up the trunk, and blossom forth from the branches as crimson leaves. These stand in contrast to the silvered foliage of the Archives' own tree.*
 		(A#...){A:0,KABU!TAMBUL!ARCHIVES!0.X103!DESCRIPTION!}
 	[KABU!TAMBUL!ARCHIVES!0.102!DESCRIPTION!/]
 	
@@ -7416,7 +7416,7 @@ _________________________________
 MOON KEEP
 	[/KABU!TAMBUL!MOON KEEP!0.000!DESCRIPTION!]
 		||
-		*Eidos walks towards the silver spire towering over the township of Tambul. From this vantage point, it is difficult to tell how this structure is built. By all appearances, it is composed of a number of interlocking plates, though there are no signs of rivets or welds - the seams are more aesthetic choice than pragmatic necessity.
+		*Eidos walks towards the silver spire towering over the township of Tambul. From this vantage point, it is difficult to tell how this structure was built. By all appearances, it is composed of a number of interlocking plates, though there are no signs of rivets or welds - the seams are more aesthetic choice than pragmatic necessity.
 		
 		This brilliant spire stands in stark contrast to the fortification that surrounds it. Blocks of sandstone form a modest keep around the tower, with walls both thick and high. The gates leading from the residential area and into the keep stand open, implying all have access to it.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!0.001!DESCRIPTION!}
@@ -7442,9 +7442,11 @@ Gate stuff
 >>>Spoke w/ Brus about gate (13122)<<<
 	[/KABU!TAMBUL!MOON KEEP!0.X100!DESCRIPTION!]
 		|^13122:KABU!TAMBUL!MOON KEEP!1.X100!DESCRIPTION!|
-		*Walking through the keep structure, Eidos exits out into a courtyard permitting a limited view of the canyon through a shimmering, open gate. While the sight of this deep scar in the earth's skin is truly wondrous, it is eclipsed by the feat of unfathomable engineering spanning it - Heaven's Bridge, an oddly familiar name. Likely wrought by the same hands responsible for the Moon Tower, it too consists of perfectly interlocking metallic pieces, like scales on an impossibly large serpent. Stretching out across the chasm, it slithers through the air absent any support structures and yet miraculously solid and unmoving.
+		*Walking through the keep structure, Eidos enters a courtyard. The shimmering, doorless gate here permits a limited view of the canyon. While the sight of this deep scar in the earth’s skin is truly breath-taking, it is eclipsed by the feat of unfathomable engineering spanning it, Heaven's Bridge.
 		
-		The sight is made even stranger by virtue of the massive archway hanging over the bridge entrance. There is some kind of visual distortion bending light at the threshold, as if there were a thin film of superheated air suspended between the metal pillars.
+		Likely wrought by the same hands responsible for the Moon Tower, this bridge too consists of perfectly interlocking metallic pieces, like scales on an impossibly large serpent. Stretching out across the chasm, it slithers through the air absent any support structures and yet miraculously remains solid and unmoving.
+		
+		The sight is made even stranger by virtue of the massive archway hanging over the bridge entrance. There is some kind of visual distortion bending light at the threshold, as if a thin film of superheated air hung suspended between the metal pillars.
 		
 		Eidos sees that the courtyard wraps around the tower and that there is a staircase leading to the top of the ramparts overlooking the canyon.*
 		(A#Return to the keep entrance){A:0,KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!}
@@ -7460,7 +7462,7 @@ Gate stuff
 
 	[/KABU!TAMBUL!MOON KEEP!0.X102!DESCRIPTION!]
 		|@:KABU!TAMBUL!MOON KEEP!0.X103!DESCRIPTION!|
-		*The guard picks up a loose stone from the ground and ceremoniously casts it through the distortion. It connects with the distortion, causing a violent reaction to take place. The rock dissolves from within leaving not even a single trace the thing had ever existed.*
+		*The guard quickly searches the ground for a loose stone and picks it up, only to then ceremoniously cast it through the distortion. It connects with the shimmering air, causing a violent reaction to take place. The rock dissolves from within, leaving not a single trace the thing had ever existed.*
 		(A#...){A:0,KABU!TAMBUL!MOON KEEP!9999.X0115!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.X102!DESCRIPTION!/]
 
@@ -7473,7 +7475,7 @@ Gate stuff
 
 	[/KABU!TAMBUL!MOON KEEP!0.103!DESCRIPTION!]
 		||
-		*Though a one-way trip it may be, perhaps it will perhaps be worth the journey.*
+		*Though a one-way trip it may be, perhaps it will be worth the journey.*
 		(A#Continue on to the Dawn Fortress){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.X000!DESCRIPTION!}
 	[KABU!TAMBUL!MOON KEEP!0.103!DESCRIPTION!/]
 
@@ -7500,7 +7502,7 @@ Tower & Dysmas event
 
 	[/KABU!TAMBUL!MOON KEEP!0.201!DESCRIPTION!]
 		||
-		*Walking through the keep structure, Eidos finally comes to see the base of the tower. Up close, the staggering size of the tower is more evident than ever. So wide is it, that its circular base seems to draw a straight line in either direction where it meets the ground. So unfathomably tall is it, that its top appears to taper to a single point upwards into infinity.
+		*Walking through the keep structure, Eidos finally comes to see the base of the tower. Up close, the staggering size of the tower is more evident than ever. So wide is it, that its circular base seems to draw a straight line in either direction. So unfathomably tall is it, that its top appears to taper to a single point upwards into infinity.
 		
 		The tower, however, is less inviting than the keep, as its front door is closed and flanked by guards. Eidos sees no way to access the bridge from here, but soon spies what appears to be a path leading around to the back of the tower.*
 		(A#Return to the keep entrance){A:0,KABU!TAMBUL!MOON KEEP!0.002!DESCRIPTION!}
@@ -7509,7 +7511,9 @@ Tower & Dysmas event
 
 	[/KABU!TAMBUL!MOON KEEP!0.300!DESCRIPTION!]
 		||
-		*Circumnavigating the base for several minutes, she notes the third or fourth stories begin to sprout hundreds of, giving it the unsettling semblance of a metallic honeycomb. Within the span of a hundred paces, she stumbles upon a narrow stairway leading upwards. She climbs and climbs until she reaches a landing atop the walls.
+		*Circumnavigating the base for several minutes, she notes the third or fourth stories begin to sprout hundreds of windows, giving it the unsettling semblance of a metallic honeycomb. Within the span of a hundred paces, she stumbles upon a narrow stairway leading up.
+		
+		She climbs and climbs until she reaches a landing atop the walls, and the vistas it affords.
 		
 		Casting her gaze out over the canyon, she absorbs the wonders of the landscape both natural and artificial. To the east, a sprawling fortress stands between her and a black point melting into the horizon. To the north of the inky dot is a sea of sparkling white. To the south, nothing but dust and sand.
 		
@@ -7744,7 +7748,7 @@ BRUS
 
 	[/KABU!TAMBUL!MOON KEEP!0.0013!BRUS!]
 		||
-		*"Pakahron made it abundantly clear to us that nothing gets in from the other side. So with that in mind, it's your call, lady."*
+		*"Pakahron made it abundantly clear to us that, even if Biracul himself came a-knocking, nothing gets in from the other side. So with that in mind, it's your call, lady."*
 		(A#"I still want to cross."){A:0,KABU!TAMBUL!MOON KEEP!9990.X13116!BRUS!}
 		(B#"I'll remain in Tambul, for now."){B:0,KABU!TAMBUL!MOON KEEP!0.X002!BRUS!}
 	[KABU!TAMBUL!MOON KEEP!0.0013!BRUS!/]
@@ -8525,9 +8529,11 @@ RAMPARTS
 
 	[/KABU!TAMBUL!RAMPARTS!0.001!DESCRIPTION!]
 		||
-		*The bloated corpse of a dead man lies there, wan and motionless. Though miraculously the stench of death is absent, despite Eidos being down wind. Hung upon the walls are numerous concoctions, some bubbling absent fire, others constantly shifting color, but not a single unremarkable one among them.
+		*The bloated corpse of a dead man lies there, wan and motionless. Though miraculously the stench of death is absent. Hung upon the walls are numerous concoctions, some bubbling absent fire, others constantly shifting color, but not a single unremarkable one among them.
 		
-		The man attending the body is in his middle years. He appears to be rubbing ointments on and removing fluids from the cadaver. Large gashes made in the neck indicate the body has been drained of blood prior to this treatment ritual. Several corpses strung upside down over a vat at the far end of the area serve to confirm this suspicion.*
+		The man attending the body is in his middle years. Heavyset and mustachioed, he looks more butcher than mortician. He performs his chores with the utmost precision and detachment, cleaning the cadaver and then rubbing ointments all over it.
+		
+		Large gashes made in the neck indicate the body has been drained of blood prior to this treatment ritual. Several corpses strung upside down over a vat at the far end of the area serve to confirm this suspicion.*
 		(A#...){A:0,KABU!TAMBUL!RAMPARTS!0.X002!DESCRIPTION!}
 	[KABU!TAMBUL!RAMPARTS!0.001!DESCRIPTION!/]
 
