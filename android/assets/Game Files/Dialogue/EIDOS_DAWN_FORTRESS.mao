@@ -5687,7 +5687,7 @@ ___________________________________
 PROVING GROUNDS
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.000!DESCRIPTION!]
 		||
-		*Eidos enters an area dominated by a large pit of cordoned-off sand. The Tacribian warriors here are seen thrusting blunt-ended spears at each other, dodging with practiced grace. The midday sun would broil their flesh were the pit not in the penumbra of a broken, yet nonetheless imposing, tower. Eidos notices that each soldier seems to keep their exertions brief. Training for but a few minutes before stopping to rest as they begin to perspire. A youthful and hearty child walks among them dispensing small measures of water.*
+		*Eidos enters an area dominated by a large pit of cordoned-off sand. The Tacribian warriors here are seen thrusting blunt-ended spears at each other, dodging with practiced grace. The midday sun would broil their flesh were the pit not in the penumbra of the broken, yet nonetheless imposing, tower. Eidos notices that each soldier seems to keep their exertions brief. Training for but a few minutes before stopping to rest as they begin to perspire. A youthful and hearty child walks among them dispensing small measures of water.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.X001!DESCRIPTION!}		
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.000!DESCRIPTION!/]
@@ -5705,7 +5705,7 @@ PROVING GROUNDS
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.0000!DESCRIPTION!]
 		||
-		*Eidos stands in the proving grounds of the Dawn Fortress. The sounds of bodies striking the sand and grunts of exertion ring loudly here. The mild stink of sweat is cleared by a light wind creeping over the walls. The eyes of many exhausted warriors lock upon her with glowers of suspicion, yet are quickly distracted when the water bearers reach them. Not even their battle-hardened faces are capable of masking their dire thirst.*
+		*Eidos stands in the proving grounds of the Dawn Fortress. The sounds of bodies striking the sand and grunts of exertion ring loudly from the pit itself. But from the sidelines, the eyes of many exhausted warriors lock upon her with glowers of suspicion. Yet these are quickly distracted when the water bearers finally reach them - not even their battle-hardened faces are capable of masking their dire thirst.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.X001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.0000!DESCRIPTION!/]	
@@ -7024,19 +7024,21 @@ SUN KEEP
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.001!DESCRIPTION!]
 		||
-		*As Eidos approaches the other side of Heaven's Bridge, she sees the shattered stump of a monolithic edifice. This miserable vestige of the past is all that remains of a structure that must have cast a great shadow over the bridge at one time. While the blackened and metled form that stands before her is now but a lowly ruin, gleaming flecks sparkling in the midday sunlight reveal the golden sheen that must have complemented the silver spire of Tambul off to the west.*
+		*As Eidos approaches the other side of Heaven's Bridge, she sees the shattered stump of what once must have been the Moon Tower's twin. This miserable vestige is all that remains of a structure that must have cast a great shadow over the bridge at one time. While the blackened and melted form that stands before her is now but a lowly ruin, gleaming flecks sparkling in the midday sunlight reveal the golden luster it once bore.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.0010!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.001!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.0010!DESCRIPTION!]
 		||
-		*As her footsteps bring her closer to singed remains, she sees that a sandstone keep has been constructed around it, in a similar fashion to the fortifications surrounding Tambul's Moon Tower. However, beyond this is a defensive fortification dwarfing the walls of the other Kaban settlements by several orders of magnitude. The fortress structure beyond is so vast, so incredibly expansive that Eidos cannot even ascertain its origin or terminus from this vantage point.*
+		*Her footsteps bring her closer to the singed remains, and she sees that a sandstone keep has been constructed around it, in a similar fashion to the fortifications surrounding Tambul's Moon Tower. However, beyond this is a defensive fortification dwarfing the walls of the other Kaban settlements by several orders of magnitude. The fortress structure beyond is so vast, so incredibly expansive that its edges seem to only begin where infinity ends.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.0010!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!]
 		||
-		*As she enters the keep proper, Eidos notices the Tacribian warriors eying her with dispassionate gazes, most seeming somewhat dismissive of her presence.	The stonework all around is competently cut and mortared, though the passage through the Keep here is narrow, apparently designed to trap invaders at a final choking point before stepping out onto the bridge. It looks as though there is but one way forward, yet the curving path prevents her from viewing its destination.*
+		*Finally entering the keep proper, Eidos notices the Tacribian warriors eyeing her with dispassionate gazes, most seeming somewhat dismissive of her presence. But these guards are very much aware of her arrival. They make no attempt to bar her entry, however - none more than they would stop a harmless lizard from crawling into the keep - and thus she proceeds.
+		
+		The stonework all around is competently cut and mortared, though the passage through the keep here is narrow - possibly designed to trap invaders at a final choking point before stepping out onto the bridge. It looks as though there is but one way forward, yet the curving path prevents her from viewing its destination.*
 		(A#Walk forward into the fortress){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9990.X15000!DESCRIPTION!}
 		(B#Examine the tower){B:0,KABU!DAWN FORTRESS!SUN KEEP!0.X0012!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!/]
@@ -7144,7 +7146,7 @@ khlutt killed
 MINAH
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.000!MINAH!]
 		||
-		*"Come here, foreigner! This is where you can make an offering to Ark, magelord of the victorious dead, and savior of the Valvorthr!"*
+		*"Come here, foreigner! This is where you can make an offering to Ark, Archmage of the victorious dead, and savior of the Valvorthr!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.0000!MINAH!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.000!MINAH!/]
 
@@ -7232,7 +7234,7 @@ MINAH
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.3001!MINAH!]
 		||
-		*"All who dwell here live in debt to those who first fought, bled and died under the banner of the Tacribian League!"*
+		*"All who dwell here live in debt to those who first fought, bled, and died under the banner of the Tacribian League!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.3002!MINAH!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.3001!MINAH!/]
 	
@@ -7880,15 +7882,25 @@ __________________________________
 TEMPLE
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.000!DESCRIPTION!]
 		||
-		*Walking within the stone structure, Eidos is met with a vision that defies her expectations. While the structure was austere brown stone, the interior is lined with white limestone and brilliant marble. The dome in which she stands is but the uppermost part of a vast temple structure that dwarfs any human with sheer magnitude of size. All is lit by a large aperture in the top of the dome that casts rays of sunlight down upon the room, refracted and scattered through numerous prisms. A bit of sun however is discourteously obstructed by the terminus of the Tacribian aqueduct, dry now, but Eidos can almost envision water cascading down from it.*
+		*Walking within the stone structure, Eidos is met with a vision that defies all expectations. While the structure was austere brown stone, the interior is lined with white limestone and brilliant marble. Several paths lead from as many doors toward a central hub, like spokes on a cart wheel. The voids between them expose the sloping floors beneath and reveals a recession into an infinitely deep spiral consumed by shadows at its depths. The dome in which she stands seems to be but the uppermost part of this impossibly large structure.
 		
-		*Though the temple is grandiose, it looks to be unfinished and unused. There are no decorations to speak of and seemingly no paraphernalia of worship. Sitting upon a large raised platform in the middle of the room is but a solitary stone chair, which seems to serve as the room's sole furnishing. Soon Eidos realizes the furniture is not the only scarce resource in the room; likewise it appears that not even a single human shadow haunts the temple.*
+		All is lit by a large aperture in the top of the dome that casts rays of sunlight down upon the room, refracted and scattered through numerous prisms. A bit of sun, however, is discourteously obstructed by the terminus of the Tacribian aqueduct, dry now, but Eidos can almost envision water cascading down from it.*
+		(A#...){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.001!DESCRIPTION!}
+	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.000!DESCRIPTION!/]
 
-		*Walking around the perimeter, Eidos notices there is a simple, but lengthy font of exceptional depth and a lone cleric lying prostrate before it. The font appears to have once been a source of water, but it is now thoroughly dessicated. The place is has all the crowding and moisture of a desert.*
+	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.001!DESCRIPTION!]
+		||
+		*Though the temple is grandiose, it looks to be unfinished and unused. There are no decorations to speak of and seemingly no paraphernalia of worship. Sitting upon a large raised platform in the middle of the room is but a solitary stone chair, which seems to serve as the room's sole furnishing. Soon Eidos realizes the furniture is not the only scarce resource in the room; likewise it appears that not even a single human shadow haunts the temple.*
+		(A#...){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.002!DESCRIPTION!}
+	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.001!DESCRIPTION!/]
+
+	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.002!DESCRIPTION!]
+		||
+		*Walking around the perimeter, Eidos notices there is a simple, but lengthy font of exceptional depth and a lone cleric lying prostrate before it. The font appears to have once been a source of water, but it is now thoroughly desiccated. The place is has all the crowding and moisture of a desert.*
 		(A#Talk to the cleric){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.X200!DESCRIPTION!}
 		(B#Leave the temple){B:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
 		(C#Examine the chair){C:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.X100!DESCRIPTION!}		
-	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.000!DESCRIPTION!/]
+	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.002!DESCRIPTION!/]
 
 >>>Glyph of Tongues<<<<	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.X100!DESCRIPTION!]
@@ -7983,7 +7995,7 @@ khlutt killed
 RUHI
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.000!RUHI!]
 		||
-		*"Greetings, stranger; and welcome to the house of the Shining One."*
+		*"Greetings, stranger, and welcome to Biracul's house."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.001!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.000!RUHI!/]
 	
