@@ -18,7 +18,7 @@ AMPHITHEATRE
 
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!0.001!DESCRIPTION!]
         ||
-		*The brutish grunts of exertion in the Proving Ground call her back to the stark reality of an empty theater. While this place is well-maintained, it is utterly forsaken, but for a solitary man of middle age, dutifully sweeping the area free of dust.*
+		*The brutish grunts of exertion from the nearby Proving Ground call her back to the stark reality of an empty theater. While this place is well-maintained, it is utterly forsaken, but for a solitary man of middle age, dutifully sweeping the area free of dust.*
         (A#Leave this area){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!4.000!DESCRIPTION!}
         (B#Talk to the old man){B:0,KABU!DAWN FORTRESS!AMPHITHEATRE!4.X002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!AMPHITHEATRE!0.001!DESCRIPTION!/]
@@ -8077,7 +8077,7 @@ RUHI
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.3000!RUHI!]
 		||
-		*"Many are they who are content to live on as though their life were an inexhaustible well."*
+		*"Many are those content to live on as though their life were an inexhaustible well."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.3001!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.3000!RUHI!/]
 	
@@ -8091,13 +8091,13 @@ RUHI
 
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.400!RUHI!]
 		||
-		*"No one foresees their own death, child; our eyes are so naturally dim that we cannot see that which clearly lies before us."*
+		*"No one foresees their own death, child; our eyes are so naturally dim that we cannot see that which so clearly lies before us."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4000!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.400!RUHI!/]
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4000!RUHI!]
 		||
-		*"Even if you find inexhaustible water, even if you defeat all your enemies, even if you outwit the wiles of the Jinns themselves, death is patiently waiting at the end of it all to rip your Trueflesh from the false!"*
+		*"Even if you find inexhaustible water, even if you defeat all your enemies, even if you outwit the wiles of the Jinns themselves, even then death is patiently waiting at the end of it all to rip your Trueflesh from the False!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4001!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4000!RUHI!/]
 	
@@ -8150,7 +8150,7 @@ RUHI
 
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.201!RUHI!]
 		||
-		*" 'The Many are but a part of the One. Our experience is but a shadow of the truth. The ant bears a grain of sand, but the nest is a mighty creature.'"*
+		*" 'The Many are but a part of the One. Our experience but a shadow of the truth. Though the ant bears a lone grain of sand, the nest is a mighty creature.' "*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.2010!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.201!RUHI!/]
 		
@@ -8771,25 +8771,27 @@ WALLS
 >>>Spoke w/ Fwayya (15007)<<<
 	[/KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!]
 		|^15007:KABU!DAWN FORTRESS!WALLS!0.0005!DESCRIPTION!|
-		*Ascending the stairway, Eidos alights atop the high walls of the Dawn Fortress. Looking out from the ramparts, the deathly visage of the Wasteland burns itself into her mind. The immediate area is unrelentingly bleak, with drifting dunes and blowing sand the dominant sights. However, the horizon promises some other land mass. A haze of shimmering light ripples upon the air.*
+		*Ascending the stairway, Eidos alights atop the high walls of the Dawn Fortress. Looking out from the ramparts, the deathly visage of the Wasteland burns itself into her mind. The immediate area is unrelentingly bleak, with drifting dunes and blowing sand the dominant sights. However, the horizon promises some other land mass.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.0000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0000!DESCRIPTION!]
 		||
-		*Barely revealed vistas swirl in and out of perception. Whether the ever-shifting shapes be structures, mountains or some other bizarre and twisted feature is impossible to determine - as fixing her gaze on a single point fails to coax the distant dancing visions to coalesce into a definitive form.*
+		*A haze of shimmering light ripples upon the air. Barely revealed vistas swirl in and out of perception. Whether the ever-shifting shapes be structures, mountains or some other bizarre and twisted feature is impossible to determine, as fixing her gaze on a single point fails to coax the distant dancing visions to coalesce into a definitive form.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.0001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0000!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0001!DESCRIPTION!]
 		||
-		*With a subtle shiver and a shake of her head, Eidos breaks the enthralling influence of the Wastes. Looking about, she notices that she is not alone here. An armed woman stands a short way off, her gaze spellbound to that uninviting expanse of land stretched out before them. However, her eyes are brimming with tragic purpose; they refuse to alter their course and will only ever be directed toward the northeast. A quick glance reveals that where this warrior's eyes fall great white pillars jut from the sands like skeletal fingers clawing their way free from a forced burial.*
+		*With a subtle shiver and a shake of her head, Eidos breaks the enthralling influence of the Wastes. Looking about, she notices that she is not alone here. An armed woman stands a short way off, her gaze spellbound to that uninviting expanse of land stretched out before them. However, her eyes are brimming with tragic purpose; they refuse to alter their course and will only ever be directed toward the northeast.
+		
+		Eidos turns her gaze to where this warrior's eyes fall. There, great white pillars jut from the sands like a thousand skeletal fingers clawing through their burial mound.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.0002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0001!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0002!DESCRIPTION!]
 		||
-		*Eidos soon brings her attention back to the woman herself. Hardened by sights unmentionable, tested by trials unbearable, yet retaining an unmistakable grace in spite of this. Eidos' eyes leave the foreground and sharpen their focus of what lies beyond the Wasteland-obsessed warrior: a passage of stairs toward the southern end of the wall leads down into the fortress wall itself.*
+		*But Eidos soon brings her attention back to the woman herself. Hardened by sights unmentionable, tested by trials unbearable, yet retaining an unmistakable grace in spite of this. Eidos' eyes leave the foreground and sharpen their focus of what lies beyond the Wasteland-obsessed warrior: a passage of stairs toward the southern end of the wall leads down into the fortress wall itself.*
 		(A#Descend the stairs to the Amphitheater){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
 		(B#Descend the stairs leading into the wall){B:0,KABU!DAWN FORTRESS!ARCHIVES!0.X000!DESCRIPTION!}
 		(C#Approach the woman to talk){C:0,KABU!DAWN FORTRESS!WALLS!0.X001!DESCRIPTION!}
@@ -8830,7 +8832,7 @@ WALLS
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0011!DESCRIPTION!]
 		||
-		*Fwayya at last turns around, nods sullenly and begins her descent toward the Amphitheater. Though her facade may be strong and independent, an innocent honesty betrays immeasurable sadness in her furrowed brow.*
+		*Fwayya at last turns around, nods sullenly and begins her descent toward the Amphitheater. Though her facade may be strong and independent, an innocent honesty betrays immeasurable sadness.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.100!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0011!DESCRIPTION!/]
 	
@@ -8902,13 +8904,13 @@ khlutt killed
 FWAYYA
 	[/KABU!DAWN FORTRESS!WALLS!0.000!FWAYYA!]
 		||
-		*"Greetings, outlander; I am Fwayya of the Tacribian League, bound by honor to Shariken Shen."*
+		*"I am Valvorthr Fwayya, bound by honor to Shariken Shen."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!WALLS!0.001!FWAYYA!}
 	[KABU!DAWN FORTRESS!WALLS!0.000!FWAYYA!/]
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.001!FWAYYA!]
 		||
-		*"Ark willing, I offer you my ear, that I may somehow aid you."*
+		*"Ark willing, I offer you my ear, that I may somehow aid you as a final service to Her name."*
 		(A#"Tell me about yourself."){A:1,KABU!DAWN FORTRESS!WALLS!0.100!FWAYYA!}
 		(B#"What are you doing?"){B:1,KABU!DAWN FORTRESS!WALLS!0.200!FWAYYA!}
 		(C#"I need nothing at this time."){C:1,KABU!DAWN FORTRESS!WALLS!0.300!FWAYYA!}
@@ -8960,7 +8962,7 @@ FWAYYA
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.3001!FWAYYA!]
 		||
-		*"For as my Shariken often said: 'We are all children of the Shining One'."*
+		*"For the good of the League and the future of Kabu."*
 		(C#"Good luck."){C:1,KABU!DAWN FORTRESS!WALLS!0.301!FWAYYA!}
 	[KABU!DAWN FORTRESS!WALLS!0.3001!FWAYYA!/]	
 
@@ -9025,13 +9027,13 @@ FWAYYA
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.1010!FWAYYA!]
 		||
-		*"But it is a duty to which many felt I was suited."*
+		*"But it's a duty to which many felt I was suited."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!WALLS!0.1011!FWAYYA!}
 	[KABU!DAWN FORTRESS!WALLS!0.1010!FWAYYA!/]
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.1011!FWAYYA!]
 		||
-		*"I only wish that I am not a disappointment to my comrades."*
+		*"I only wish that I don't disappoint my comrades."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!WALLS!0.X1012!FWAYYA!}
 	[KABU!DAWN FORTRESS!WALLS!0.1011!FWAYYA!/]	
 	

@@ -59,10 +59,10 @@ within the illusion."
 [6/]
 
 [/7]
-"The Many are but a part of the One; our 
-experience is but a shadow of the truth. 
-Recall that the ant bears but a grain of sand, 
-yet the nest is a mighty creature!"
+"The Many are but a part of the One.
+Our experience but a shadow of the truth.
+Though the ant bears a lone grain of sand,
+the nest is a mighty creature!"
 
 - The Biraculian Verses: N 0-1
 [7/]

@@ -2838,7 +2838,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.4001!NIYOOSH!]
 		||		
-        *"Well, in any case, they couldn't believe we had no gold, or coins, or whatever it was they wanted to trade for their trinkets. Good folk, they were, deep down. But savages ignorant of the Path of Awareness nonetheless. No offense."*
+        *"Well, in any case, they couldn't believe we had no gold, or coins, or whatever it was they wanted to trade for their trinkets. Good folk, they were, deep down. But savages, ignorant of the Path of Awareness nonetheless. No offense."*
 		(A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.4002!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.4001!NIYOOSH!/]
 
