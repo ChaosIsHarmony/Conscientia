@@ -10,9 +10,11 @@ AMPHITHEATRE
 
 	[/KABU!DAWN FORTRESS!AMPHITHEATRE!0.000!DESCRIPTION!]
         ||
-		*Eidos finds herself in an austere amphitheater nestled against the inner wall. Though perhaps the exact antithesis of ostentatious, it is no less remarkable for its impeccable architecture. A smooth, alabaster quarter-dome acts as the stage, a subtly translucent half-dome acting as the roof. Her footfalls echo from the stone surfaces all about, revealing the reasoning behind the placement of this structure. Surely whoever performed from the center of this stage would be clearly heard by the spectators all around. Scanning the vacant stone benches, she can almost see a dim afterimage of an enthralled audience, cheering in raucous ecstasy.
+		*Eidos finds herself in an austere amphitheater nestled against the inner wall. Though perhaps the exact antithesis of ostentatious, it is no less remarkable for its impeccable architecture. A smooth, alabaster quarter-dome acts as the stage, a subtly translucent half-dome acting as the roof.
 		
-		Though Tacribians are known for their bellicose nature, this area hints at their more gentle side - the sheath to their blade.*
+		Her footfalls echo from the stone surfaces all about, revealing the reasoning behind the placement of this structure. Surely a voice performing at the center of this stage would clearly reach all ears. Scanning the vacant stone benches, she can almost see a dim afterimage of an enthralled audience, cheering in raucous ecstasy.
+		
+		Though she knows Tacribians only for a bellicose nature, this area hints at a gentler side - the sheath to their sword.*
 		(A#...){A:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.001!DESCRIPTION!}
     [KABU!DAWN FORTRESS!AMPHITHEATRE!0.000!DESCRIPTION!/]
 
@@ -5687,16 +5689,16 @@ ___________________________________
 PROVING GROUNDS
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.000!DESCRIPTION!]
 		||
-		*Eidos enters an area dominated by a large pit of cordoned-off sand. The Tacribian warriors here are seen thrusting blunt-ended spears at each other, dodging with practiced grace. The midday sun would broil their flesh were the pit not in the penumbra of the broken, yet nonetheless imposing, tower. Eidos notices that each soldier seems to keep their exertions brief. Training for but a few minutes before stopping to rest as they begin to perspire. A youthful and hearty child walks among them dispensing small measures of water.*
+		*Eidos enters an area dominated by a large pit of cordoned-off sand. The Tacribian warriors here are seen thrusting blunt-ended spears at each other, dodging with practiced grace. The midday sun would broil their flesh were the pit not in the penumbra of the broken, yet nonetheless imposing, tower. The soldiers seems to keep their exertions brief. Training for but a few minutes before stopping to rest as they begin to perspire. A child walks among them dispensing small measures of water.*
 		(A#Leave this area){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!DESCRIPTION!}
 		(B#Approach people to talk){B:0,KABU!DAWN FORTRESS!PROVING GROUNDS!0.X001!DESCRIPTION!}		
 	[KABU!DAWN FORTRESS!PROVING GROUNDS!0.000!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!PROVING GROUNDS!0.001!DESCRIPTION!]
 		||
-		*The Proving Grounds naturally lead into what seems to be the central space of the Fortress complex, a large courtyard through which soldiers come and go and which serves as a defensive area behind a tremendous, black iron gate dwarfed by the unfathomably large bulwark in which it is embedded. 
+		*The Proving Grounds naturally lead into what seems to be the central space of the Fortress complex, this a large courtyard through which soldiers come and go. At the edge of the courtyard is a tremendous, black iron gate, which is in turn dwarfed by the unfathomably large bulwark in which it is embedded.
 		
-		However, looking away from the courtyard reveals an area that looks to be an amphitheater of some kind.*
+		However, looking away from the courtyard reveals an area that looks to be an amphitheater of some kind. Beside it, a massive dome sits beneath the end of the Tacribian aqueduct, drier than the desert sand surrounding it.*
 		(A#Go to the Courtyard){A:0,KABU!DAWN FORTRESS!COURTYARD!0.X000!DESCRIPTION!}
 		(B#Return to the Sun Keep){B:0,KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!}
 		(C#Enter the amphitheater){C:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
@@ -7024,28 +7026,30 @@ SUN KEEP
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.001!DESCRIPTION!]
 		||
-		*As Eidos approaches the other side of Heaven's Bridge, she sees the shattered stump of what once must have been the Moon Tower's twin. This miserable vestige is all that remains of a structure that must have cast a great shadow over the bridge at one time. While the blackened and melted form that stands before her is now but a lowly ruin, gleaming flecks sparkling in the midday sunlight reveal the golden luster it once bore.*
+		*Approaching the Tacribian side of Heaven's Bridge, Eidos sees the shattered stump of a structure that at one time must have cast a great shadow. In bygone eras, it was surely the Moon Tower's mirror image, but now all that remains is but a miserable vestige of a broken twin. While the blackened and melted form is at present but a lowly ruin, gleaming flecks sparkling in the midday sunlight reveal the golden luster it once bore.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.0010!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.001!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.0010!DESCRIPTION!]
 		||
-		*Her footsteps bring her closer to the singed remains, and she sees that a sandstone keep has been constructed around it, in a similar fashion to the fortifications surrounding Tambul's Moon Tower. However, beyond this is a defensive fortification dwarfing the walls of the other Kaban settlements by several orders of magnitude. The fortress structure beyond is so vast, so incredibly expansive that its edges seem to only begin where infinity ends.*
+		*Her footsteps bring her closer to the singed remains, and she notices that a sandstone keep has been constructed around it. However, beyond this humble keep is a defensive fortification dwarfing the walls of the other Kaban settlements by several orders of magnitude. The fortress structure beyond the bridge is so vast, so incredibly expansive that its northern and southern edges seem to only begin where infinity ends.*
 		(A#...){A:0,KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.0010!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!]
 		||
-		*Finally entering the keep proper, Eidos notices the Tacribian warriors eyeing her with dispassionate gazes, most seeming somewhat dismissive of her presence. But these guards are very much aware of her arrival. They make no attempt to bar her entry, however - none more than they would stop a harmless lizard from crawling into the keep - and thus she proceeds.
+		*Finally entering the keep proper, Eidos notices the Tacribian warriors eyeing her with dispassionate gazes, most seeming somewhat dismissive of her presence. They make no attempt to bar her entry.
 		
-		The stonework all around is competently cut and mortared, though the passage through the keep here is narrow - possibly designed to trap invaders at a final choking point before stepping out onto the bridge. It looks as though there is but one way forward, yet the curving path prevents her from viewing its destination.*
+		The stonework all around is competently cut and mortared, albeit rough and worn. The passage through the keep here is narrow - a final choking point before stepping out onto the bridge. It looks as though there is but one way forward, yet the curving path prevents her from viewing its destination.*
 		(A#Walk forward into the fortress){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9990.X15000!DESCRIPTION!}
 		(B#Examine the tower){B:0,KABU!DAWN FORTRESS!SUN KEEP!0.X0012!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!SUN KEEP!0.0011!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.X0012!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!SUN KEEP!0.0013!DESCRIPTION!|
-		*Eidos sees that human hands have bedecked the corpse of the tower in bizarre ornamentation. Spear points, arrow heads and knives have been driven into cracks in its blackened surface. Small alcoves have been hollowed out and filled with skillessly carved objects, cups and plates. Walking around the base, Eidos sees that there is an obscure shrine of some sort: a stone effigy of a vaguely feminine form clasping a jade sword. Standing in front of the shrine is an elderly woman looking at Eidos expectantly.*
+		*Eidos sees that human hands have bedecked the tower’s charred corpse with bizarre ornamentation. Spear points, arrow heads and knives have been driven into cracks in its blackened surface. Small alcoves have been hollowed out and filled with inelegantly carved objects, cups and plates.
+		
+		Walking around the base, Eidos sees that there is an obscure shrine of some sort: a stone effigy of a vaguely feminine form clasping a jade sword. Standing in front of the shrine is an elderly woman, her gaze expectantly locked on Eidos.*
 		(A#Walk forward into the fortress){A:0,KABU!DAWN FORTRESS!PROVING GROUNDS!9990.X15000!DESCRIPTION!}
 		(B#Speak to the woman){B:0,KABU!DAWN FORTRESS!SUN KEEP!9999.X0204!DESCRIPTION!}				
 	[KABU!DAWN FORTRESS!SUN KEEP!0.X0012!DESCRIPTION!/]	
@@ -7152,7 +7156,7 @@ MINAH
 
 	[/KABU!DAWN FORTRESS!SUN KEEP!0.0000!MINAH!]
 		||
-		*"Come and share communion with those that saved Kabu from the maw of the Wasteland in the dark of yesteryear."*
+		*"Come and share communion with those that saved Kabu from the greedy maw of the Wasteland in the dark of yesteryear."*
 		(A#"Is it appropriate for me to do so?"){A:1,KABU!DAWN FORTRESS!SUN KEEP!0.100!MINAH!}
 		(B#"What happened here?"){B:1,KABU!DAWN FORTRESS!SUN KEEP!0.200!MINAH!}
 		(C#"No, thank you."){C:1,KABU!DAWN FORTRESS!SUN KEEP!0.300!MINAH!}
@@ -7882,21 +7886,21 @@ __________________________________
 TEMPLE
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.000!DESCRIPTION!]
 		||
-		*Walking within the stone structure, Eidos is met with a vision that defies all expectations. While the structure was austere brown stone, the interior is lined with white limestone and brilliant marble. Several paths lead from as many doors toward a central hub, like spokes on a cart wheel. The voids between them expose the sloping floors beneath and reveals a recession into an infinitely deep spiral consumed by shadows at its depths. The dome in which she stands seems to be but the uppermost part of this impossibly large structure.
+		*Walking within the stone structure, Eidos is met with a vision that defies all expectations. While the exterior was a rough brown stone, the interior is lined with white limestone and brilliant marble. Several paths lead from as many doors toward a central hub, like spokes on a cart wheel. The voids between them expose the sloping floors beneath and reveals a recession into an infinitely deep spiral consumed by shadows at its depths. The dome in which she stands seems to be but the uppermost part of this inexplicable structure.
 		
-		All is lit by a large aperture in the top of the dome that casts rays of sunlight down upon the room, refracted and scattered through numerous prisms. A bit of sun, however, is discourteously obstructed by the terminus of the Tacribian aqueduct, dry now, but Eidos can almost envision water cascading down from it.*
+		All is lit by a large aperture in the top of the dome. The rays of sunlight showering down upon the room are refracted and scattered through numerous prisms, lighting the interior with a gentle glow. A bit of sun, however, is discourteously obstructed by the terminus of the Tacribian aqueduct - dry now, but Eidos can nearly envision water cascading down from it.*
 		(A#...){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.000!DESCRIPTION!/]
 
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.001!DESCRIPTION!]
 		||
-		*Though the temple is grandiose, it looks to be unfinished and unused. There are no decorations to speak of and seemingly no paraphernalia of worship. Sitting upon a large raised platform in the middle of the room is but a solitary stone chair, which seems to serve as the room's sole furnishing. Soon Eidos realizes the furniture is not the only scarce resource in the room; likewise it appears that not even a single human shadow haunts the temple.*
+		*Grandiose though the temple may be, it looks to be unfinished and unused. There are no decorations to speak of and seemingly no paraphernalia of worship, save one. Sitting upon a large raised platform in the middle of the room is a solitary stone chair, serving as the room’s sole furnishing. But furniture is not the only scarce resource in the room; likewise, as far as Eidos can tell, not even a single human shadow haunts the temple.*
 		(A#...){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.001!DESCRIPTION!/]
 
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.002!DESCRIPTION!]
 		||
-		*Walking around the perimeter, Eidos notices there is a simple, but lengthy font of exceptional depth and a lone cleric lying prostrate before it. The font appears to have once been a source of water, but it is now thoroughly desiccated. The place is has all the crowding and moisture of a desert.*
+		*Walking around the perimeter of the central hub, Eidos notices there is a simple, but lengthy font of exceptional depth and a lone cleric lying prostrate before it in the utter silence of stillness. The font appears to have once been full of water, but is now so dry it would make the Wastes jealous.*
 		(A#Talk to the cleric){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.X200!DESCRIPTION!}
 		(B#Leave the temple){B:0,KABU!DAWN FORTRESS!AMPHITHEATRE!0.X000!DESCRIPTION!}
 		(C#Examine the chair){C:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.X100!DESCRIPTION!}		
@@ -7923,7 +7927,7 @@ TEMPLE
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.X200!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.201!DESCRIPTION!|
-		*Eidos then approaches the cleric. At the clicking of Eidos feet upon the marble floor, the cleric slowly rises from his prostrated pose.*
+		*At the clicking of Eidos feet upon the marble floor, the cleric slowly rises.*
 		(A#...){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!9999.X0206!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.X200!DESCRIPTION!/]
 	
@@ -8091,13 +8095,13 @@ RUHI
 
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.400!RUHI!]
 		||
-		*"No one foresees their own death, child; our eyes are so naturally dim that we cannot see that which so clearly lies before us."*
+		*"No one foresees their own death, child; our eyes are so naturally dim that we cannot see what so clearly lies before us."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4000!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.400!RUHI!/]
 	
 	[/KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4000!RUHI!]
 		||
-		*"Even if you find inexhaustible water, even if you defeat all your enemies, even if you outwit the wiles of the Jinns themselves, even then death is patiently waiting at the end of it all to rip your Trueflesh from the False!"*
+		*"Even if we find inexhaustible water, even if we defeat all our enemies, even if we outwit the very Jinns themselves, even then death is patiently waiting at the end of it all to rip our Trueflesh from the False!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4001!RUHI!}
 	[KABU!DAWN FORTRESS!TEMPLE OF BIRACUL!0.4000!RUHI!/]
 	
@@ -8771,7 +8775,7 @@ WALLS
 >>>Spoke w/ Fwayya (15007)<<<
 	[/KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!]
 		|^15007:KABU!DAWN FORTRESS!WALLS!0.0005!DESCRIPTION!|
-		*Ascending the stairway, Eidos alights atop the high walls of the Dawn Fortress. Looking out from the ramparts, the deathly visage of the Wasteland burns itself into her mind. The immediate area is unrelentingly bleak, with drifting dunes and blowing sand the dominant sights. However, the horizon promises some other land mass.*
+		*Ascending the stairway, Eidos alights atop the high walls of the Dawn Fortress. Looking out from the ramparts, the deathly visage of the Wasteland sears itself into her mind. The immediate area is unrelentingly bleak, with drifting dunes and blowing sand the dominant sights. However, the distant horizon makes no promises of what lies at its edge; it even seems to be fading from view, from memory, and even from the very fabric of reality.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.0000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!/]
 	
@@ -8785,7 +8789,7 @@ WALLS
 		||
 		*With a subtle shiver and a shake of her head, Eidos breaks the enthralling influence of the Wastes. Looking about, she notices that she is not alone here. An armed woman stands a short way off, her gaze spellbound to that uninviting expanse of land stretched out before them. However, her eyes are brimming with tragic purpose; they refuse to alter their course and will only ever be directed toward the northeast.
 		
-		Eidos turns her gaze to where this warrior's eyes fall. There, great white pillars jut from the sands like a thousand skeletal fingers clawing through their burial mound.*
+		Eidos turns her gaze to where this warrior's eyes fall. There, pearly pillars jut from the sands like a thousand skeletal fingers clawing through their burial mounds.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.0002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0001!DESCRIPTION!/]
 	
@@ -8825,14 +8829,14 @@ WALLS
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.X0010!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!WALLS!0.0011!DESCRIPTION!|
-		*The conversation now over, both Eidos and Fwayya stare off into the distance. The winds howl at the fortress gates, while the sun roasts the horizon, and in between the sands shift peacefully from dune to wretched dune in the grip of lifelessness. The Tacribian warrior seems to be attracted and bound to the inimical Wastes by some unseen and irresistible force, surely more so than sanity would ever permit.*
+		*The conversation now over, both Eidos and Fwayya stare off into the distance in mirrored silences. The irreverent winds, however, loudly howl at the fortress gates, while the sun roasts the horizon, and in between them, the sands shift peacefully from dune to wretched dune in the grip of lifelessness. The Tacribian warrior seems to be attracted and bound to the inimical Wastes by some unseen and irresistible force, surely more so than sanity would ever permit.*
 		(A#Take a final look and then leave){A:0,KABU!DAWN FORTRESS!WALLS!0.100!DESCRIPTION!}
 		(B#Address Fwayya once more){B:0,KABU!DAWN FORTRESS!WALLS!9999.X0205!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.X0010!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.0011!DESCRIPTION!]
 		||
-		*Fwayya at last turns around, nods sullenly and begins her descent toward the Amphitheater. Though her facade may be strong and independent, an innocent honesty betrays immeasurable sadness.*
+		*Fwayya at last turns around, nods sullenly and begins her descent toward the Amphitheater. Though her facade may be strong and independent, the innocent honesty of her eyes betrays immeasurable sadness.*
 		(A#...){A:0,KABU!DAWN FORTRESS!WALLS!0.100!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!WALLS!0.0011!DESCRIPTION!/]
 	
@@ -8910,7 +8914,7 @@ FWAYYA
 	
 	[/KABU!DAWN FORTRESS!WALLS!0.001!FWAYYA!]
 		||
-		*"Ark willing, I offer you my ear, that I may somehow aid you as a final service to Her name."*
+		*"Ark willing, I offer you my ear, that I may somehow aid you as a final service in Her name."*
 		(A#"Tell me about yourself."){A:1,KABU!DAWN FORTRESS!WALLS!0.100!FWAYYA!}
 		(B#"What are you doing?"){B:1,KABU!DAWN FORTRESS!WALLS!0.200!FWAYYA!}
 		(C#"I need nothing at this time."){C:1,KABU!DAWN FORTRESS!WALLS!0.300!FWAYYA!}
