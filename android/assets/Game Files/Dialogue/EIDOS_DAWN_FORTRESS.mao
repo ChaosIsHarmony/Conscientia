@@ -263,9 +263,9 @@ ARCHIVES
 		|^15107:KABU!DAWN FORTRESS!ARCHIVES!10.X000!DESCRIPTION!|
 		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Black iron brackets house crystalline illuminators, though their meager light stretches well below the pinnacle of the vaulted ceiling high overhead. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
 		
-		The center of the chamber's floor is also marked by absence, a dirt-filled circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for an addition, structure or decoration that was left unfinished.
+		The center of the chamber's floor is also marked by absence, a dirt-filled circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for some structure or decoration that was left unfinished.
 		
-		Eidos' mucking about has aroused the attention of the Archive's sole occupant, a youthful lady with long, fiery hair tightly braided on top with the surplus cascading down upon her shoulders, framing her deep set eyes and prominent check bones. Her sharp countenance displays both a sense of ease as well as penetrating awareness.*
+		Eidos' entrance has aroused the attention of the Archive's sole occupant, a youthful lady with long, fiery hair tightly braided on top with the surplus cascading down upon her shoulders, framing her deep set eyes and prominent check bones. Her sharp countenance displays both a sense of ease as well as penetrating awareness.*
 		(A#Exit the Archives){A:0,KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!}
 		(B#Talk to the Librarian){B:0,KABU!DAWN FORTRESS!ARCHIVES!9999.X0201!DESCRIPTION!}
 		(C#Explore the Archives){C:0,KABU!DAWN FORTRESS!ARCHIVES!1.000!DESCRIPTION!}
@@ -310,7 +310,7 @@ killed khlutt and came in thru cave
 exploring
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.000!DESCRIPTION!]
 		||
-		*Looking around these adumbral Archives, Eidos sees that there is a sizable fresco painted upon the wall, opposite the front entrance. While it is impossible to determine its age for certain, the art here looks relatively fresh, with vibrant colors visible even in the modest amber light from the crystalline sconces.
+		*Looking around these adumbral Archives, Eidos sees that there is a sizable fresco painted upon the wall, opposite the front entrance. While it is impossible to determine its age for certain, the art here looks relatively fresh, with vibrant colors visible even in the modest amber light.
 		
 		The image is of an imposing silver tree with brilliant golden foliage. Its knotted roots are depicted as unfurling like white tendrils down into a tenebrous space beneath the earth. An army of hideous skeletal creatures appear to be assailing this structure, though they are held at bay by a woman wielding a spear painted in a shimmering metallic green.*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!1.001!DESCRIPTION!}
@@ -369,7 +369,7 @@ came in thru caves and talked to logira
 accepted her mission
 	[/KABU!DAWN FORTRESS!ARCHIVES!11.X000!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!ARCHIVES!0.X000!DESCRIPTION!|
-		*Eidos turns from the shadowy Archives and walks back into the adumbral passage whence she came. As she does so, she immediately hears the clanking of some hoary mechanism as it forces the panel of wall to begin sliding back into place behind her. 
+		*Eidos turns from the shadowy Archives and walks back into the narrow passage whence she came. As she does so, she immediately hears the clanking of some hoary mechanism as it forces the panel of wall to begin sliding back into place behind her. 
 		
 		Casting one final glance over her shoulder, her final view is of the fleeting silhouette Logira's face carves out in the amber light. As the portal completes its closure, Eidos is embraced by darkness once again. Her path set, there is nowhere to go now, but forward.*
 		(A#...){A:0,KABU!DAWN FORTRESS!CAVERN!11.000!DESCRIPTION!}
@@ -670,7 +670,7 @@ LOGIRA
 
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.000!LOGIRA!]
 		||
-		*"Greetings, outlander. I am Logira, Librarian of the Tacribian people, to aid is my life and will."*
+		*"Biracul bless you, outlander. I'm Logira, Librarian of the Tacribian people. To aid is my life and will."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!ARCHIVES!0.0000!LOGIRA!}
 	[KABU!DAWN FORTRESS!ARCHIVES!0.000!LOGIRA!/]
 	
@@ -1740,7 +1740,9 @@ BARRACKS
 >>>Heard barracks convo (15002)<<<
 	[/KABU!DAWN FORTRESS!BARRACKS!0.X000!DESCRIPTION!]
 		|^15002:KABU!DAWN FORTRESS!BARRACKS!2.X000!DESCRIPTION!|
-		*The midday sun desperately tries to creep in through thin surveillance apertures in walls, and is all but thwarted - theses barracks mirroring the reserved and guarded Tacribians who built them. A silent stillness rules over this place, as midday is no time for a warrior to be sleeping, it seems. However, in a far corner, there look to be three occupants engaged in conversation so quiet that Eidos failed to notice their presence until this very moment.*
+		*Myriad forgotten steps bring the two ladies to living quarters. Here, the midday sun desperately tries to creep in through thin surveillance slits in the walls, finding only limited success, as these barracks seem to mirror the reserved and guarded Tacribians who built them.
+		
+		A silent stillness rules over this place, as midday is no time for a warrior to be idle, it seems. However, in a far corner, there look to be three occupants engaged in conversation so quiet that Eidos failed to notice their presence until this very moment.*
 		(C#Leave this area){C:1,KABU!DAWN FORTRESS!BARRACKS!0.X002!DESCRIPTION!}
 		(D#Eavesdrop on the conversation){D:1,KABU!DAWN FORTRESS!BARRACKS!0.X001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!BARRACKS!0.X000!DESCRIPTION!/]
@@ -1870,7 +1872,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!0.000!XERK!]
 		||
-		*"So you're a deedscribe now, are you Imat? Perhaps Logira will have a challenger soon!"*
+		*"So you're a deedscribe now, are you, Imat? Perhaps Logira will have a challenger soon!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!0.X000!XERK!}
 	[KABU!DAWN FORTRESS!BARRACKS!0.000!XERK!/]
 	
@@ -1888,7 +1890,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!0.X001!IMAT!]
 		|@:KABU!DAWN FORTRESS!BARRACKS!1.000!IMAT!|
-		*"We are all of us worried about Shen. But there is nothing we can do for him."*
+		*"We're all worried about Shen. But there's nothing we can do for him now."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!9999.X0211!IMAT!}
 	[KABU!DAWN FORTRESS!BARRACKS!0.X001!IMAT!/]
 
@@ -1900,13 +1902,13 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!0.0010!DIYA!]
 		||
-		*"That draugnir Fwayya and her Shariken tracked from Land's End into the Salt Forest during her last circuit makes begs the question of how in Ark's name it got beyond the Beacon!"*
+		*"That draugnir Fwayya and her Shariken tracked from Land's End into the Salt Forest during her last circuit begs the question of how in Ark's name it got beyond the Beacon in the first place!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!0.0011!DIYA!}
 	[KABU!DAWN FORTRESS!BARRACKS!0.0010!DIYA!/]
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!0.0011!DIYA!]
 		||
-		*"And what's more, I hear Fwayya was nearly overcome by the wraithglow, but then Shen made the ultimate sacrifice to help her escape."*
+		*"And what's more, where they found it oughta be beyond the wraithglow, but Fwayya nearly fell to it - would've too if it hadn't been for Shen's sacrifice."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!0.X0012!DIYA!}	
 	[KABU!DAWN FORTRESS!BARRACKS!0.0011!DIYA!/]
 		
@@ -1918,7 +1920,7 @@ CONVERSATION
 
 	[/KABU!DAWN FORTRESS!BARRACKS!1.000!XERK!]
 		||
-		*"Ha! Voices! Don't let Khlutt hear you say that; he doesn't look favorably upon those who hit the Jinn-liquor during their watch."*
+		*"Ha! Voices! Don't let Khlutt hear you say that; he doesn't look favorably upon those who hit the Jinn-liquor while on watch."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!1.001!XERK!}
 	[KABU!DAWN FORTRESS!BARRACKS!1.000!XERK!/]
 	
@@ -1984,7 +1986,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!2.002!DIYA!]
 		||
-		*"You've never seen the wraithglow of the Forest... I'd not even wish it on a jinnlickin' Daziran!"*
+		*"Never seen the wraithglow of the Forest or what it does to a ranger... I'd not even wish it on a jinnlickin' Daziran!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!2.003!DIYA!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.002!DIYA!/]
 	
@@ -1996,13 +1998,13 @@ CONVERSATION
 
 	[/KABU!DAWN FORTRESS!BARRACKS!2.001!XERK!]
 		||
-		*"No, I haven't. But I have seen what a day's thirst can do to a strong Ranger within these walls!"*
+		*"No, I haven't. But I have seen what a day's thirst can do to a strong ranger within these walls!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!2.0010!XERK!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.001!XERK!/]	
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!2.0010!XERK!]
 		||
-		*"But, maybe you're right. Maybe all the draugnir are about to descend on us led by the Obsidian Jinn itself."*
+		*"But, maybe you're right. Maybe all the draugnir are about to descend on us led by the Obsidian Jinn herself."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!2.0011!XERK!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.0010!XERK!/]	
 	
@@ -2020,13 +2022,13 @@ CONVERSATION
 
 	[/KABU!DAWN FORTRESS!BARRACKS!2.000!IMAT!]
 		||
-		*"Both of you be as Melinoe!"*
+		*"Melinoe's silence for both of you!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!2.001!IMAT!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.000!IMAT!/]
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!2.001!IMAT!]
 		||
-		*"You have sworn your blood-oath to obey your mage!"*
+		*"You've sworn your blood-oath to obey your mage!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!2.X002!IMAT!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.001!IMAT!/]	
 	

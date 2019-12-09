@@ -180,7 +180,7 @@ _________GLYPHS_________
 
 _________TOMES_________
 [/50]
-	*THE ART OF COMBATO
+	*THE ART OF COMBAT
 	
 	'Theory of Combat'
 	cr. Drago Gulga of Turrok
