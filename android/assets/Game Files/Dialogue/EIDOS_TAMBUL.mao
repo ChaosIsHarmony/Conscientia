@@ -1772,7 +1772,7 @@ Pakahron dead
 ABLAH
 	[/KABU!TAMBUL!ATRIUM!0.000!ABLAH!]
 		||
-		*"You know what? I think you and this statue have something and common!"*
+		*"You know what? I think you and this statue have something in common!"*
 		(A#"Oh yeah? What would that be, friend?"){A:1,KABU!TAMBUL!ATRIUM!0.100!ABLAH!}
 		(B#"This should be interesting..."){B:1,KABU!TAMBUL!ATRIUM!0.200!ABLAH!}
 		(C#"If you say so."){C:1,KABU!TAMBUL!ATRIUM!0.300!ABLAH!}
