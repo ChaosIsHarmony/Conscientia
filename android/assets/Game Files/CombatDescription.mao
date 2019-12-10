@@ -108,7 +108,11 @@ khlutt
 	
 	His misdirected momentum casts his body to the floor, landing with a sickening splatter of bone-eating plasma. The Glyph he had conjured dissipates and Eidos is free to witness the spasming heap of melting flesh that was once such a formidable physical force quickly dissolve into nothing.14*
 	@
-	Khlutt's movements are inhuman, dodging every attack Eidos plans to use before she uses it with his careful positioning and smooth footwork. Before she realizes it, he is behind her. 
+	A Glyph appears beneath her, its blazing dark fire carving a void into the floor. Her memory of the Glyphs seems to flicker and then vanish in an instant.
+	
+	Khlutt soon blitzes toward her with inhuman speed and soon is upon her. Desperation takes hold and Eidos throws her fists wildly at the advancing mage. But any and all attacks appear to be futile before him. He moves lithely, dodging every attack Eidos plans to use before she can even use it, his careful positioning and smooth footwork the cause.
+	
+	In a flash, he is behind her.
 	
 	A mind-numbing fear fills her, followed immediately by a searing pain as her vertebrae lacerate her spinal cord. She collapses to the ground and sees only Khlutt's foot descend upon her one last time before leaving her Falseflesh.@
 [14/]

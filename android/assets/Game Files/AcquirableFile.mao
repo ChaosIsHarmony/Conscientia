@@ -187,7 +187,7 @@ _________TOMES_________
 	trans. Adarin of Kabu*
 	@On the Combat Arts@
 	$Tomes/Tome.jpg$
-	#The principles of combat have remained unchanged since the very dawn of humanity. Given that the first technique to land will have the first effect, it is imperative that our attack arrive before the enemy can react. This self-evident truth notwithstanding, we cannot forget that the force of our attack must also be considered. Thus, it is that under current methodology, we must first observe our opponent's stance to determine the speed with which he will strike; then we are to choose a response that is faster, yet that maximizes our power. 
+	#The principles of combat have remained unchanged since the very dawn of humanity. Given that the first technique to land will have the first effect, it is imperative that our attack arrive before the enemy can react. This self-evident truth notwithstanding, we cannot forget that the force of our attack must also be considered. Thus, it is that under our current methodology, we must first observe our opponent's stance to determine the speed with which he will strike; then we are to choose a response that is faster, yet that maximizes our power. 
 	
 	As an example, if our foe were to stand with their weapon at their hip, it would mean that they are about to strike with an attack of moderate speed and power. We must therefore act with a swift thrust to disrupt and intercept this strike, yielding a clean strike for us and a fatal miss for them. 
 	

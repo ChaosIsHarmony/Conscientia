@@ -261,9 +261,9 @@ ARCHIVES
 >>>Entered Archives normally + logira knows portcullis is open (15107)<<<	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.X0000!DESCRIPTION!]
 		|^15107:KABU!DAWN FORTRESS!ARCHIVES!10.X000!DESCRIPTION!|
-		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Black iron brackets house crystalline illuminators, though their meager light stretches well below the pinnacle of the vaulted ceiling high overhead. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
+		*Eidos now finds herself standing inside the Archives of the Dawn Fortress. Several black iron brackets house crystalline illuminators, though their meager light fades well below the hidden pinnacle of the vaulted ceiling. While a fair number of tomes line the shelves of this library, the dimensions of this space are far in excess of what would be required to hold such a humble quantity of work.
 		
-		The center of the chamber's floor is also marked by absence, a dirt-filled circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for some structure or decoration that was left unfinished.
+		The center of the chamber's floor is also marked by absence, a dirt-filled but otherwise empty, circular space having been fashioned into the stonework. Numerous milky crystals dot the earth within, all inert. It looks to be in preparation for some structure or decoration that was left unfinished.
 		
 		Eidos' entrance has aroused the attention of the Archive's sole occupant, a youthful lady with long, fiery hair tightly braided on top with the surplus cascading down upon her shoulders, framing her deep set eyes and prominent check bones. Her sharp countenance displays both a sense of ease as well as penetrating awareness.*
 		(A#Exit the Archives){A:0,KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!}
@@ -312,7 +312,7 @@ exploring
 		||
 		*Looking around these adumbral Archives, Eidos sees that there is a sizable fresco painted upon the wall, opposite the front entrance. While it is impossible to determine its age for certain, the art here looks relatively fresh, with vibrant colors visible even in the modest amber light.
 		
-		The image is of an imposing silver tree with brilliant golden foliage. Its knotted roots are depicted as unfurling like white tendrils down into a tenebrous space beneath the earth. An army of hideous skeletal creatures appear to be assailing this structure, though they are held at bay by a woman wielding a spear painted in a shimmering metallic green.*
+		The image is of an imposing silver tree with brilliant golden foliage. Its knotted roots are depicted as unfurling like white tendrils down into the tenebrous space beneath. An army of hideous skeletal creatures appear to be assailing the tree, though they are held at bay by a woman wielding a spear painted in a shimmering metallic green.*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!1.001!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!ARCHIVES!1.000!DESCRIPTION!/]
 
@@ -320,13 +320,15 @@ exploring
 		||
 		*Looking up the base of the majestic tree, Eidos notes three distinct animals among its branches: a serpent, a crow and, curiously, a wolf. Rays of metallic gold and red are seen radiating from the tree, as though it itself were casting divine light.
 		
-		Above this, Eidos sees one further image painted in an understated hand, as if in afterthought, incompletion, or, perhaps, obscurity: a disembodied eye that gazes down above all.*
+		Above this, Eidos sees one further image painted in an understated hand, as if an afterthought. Behind the scene a disembodied eye surveys all that is in and around the tree.*
 		(A#...){A:0,KABU!DAWN FORTRESS!ARCHIVES!1.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!ARCHIVES!1.001!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.002!DESCRIPTION!]
 		||
-		*Casual viewing turns to scrutiny as Eidos sees yet another feature: at the base of the fresco is a metallic protrusion. This anomaly could be Techne operated or mechanical switch of sorts, but more likely, it is a mere decoration. However, upon examining it, Eidos can feel the watchful eye of the Librarian. Her smoldering stare seeming to impart meaning more than should be possible in a mere look. It leaves no doubt that further tampering with the device will be met with... resistance, to say the least. Eidos feels compelled to cease her investigation of the switch for now and renews her exploration of the Archives.*
+		*Casual viewing turns to scrutiny as Eidos sees yet another feature: at the base of the fresco is a metallic protrusion.
+		
+		However, upon reaching to touch it, Eidos feels the watchful eye of the Librarian right behind her. Eidos turns to face Logira only to find a great distance yet between them, bridged by a smoldering stare. It leaves little doubt that further tampering with the device will be met with... resistance, to say the least. Eidos feels compelled to cease her investigation of the switch for now and renews her exploration of the Archives.*
 		(A#Leave the Archives){A:0,KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!}
 		(B#Talk to the Librarian){B:0,KABU!DAWN FORTRESS!ARCHIVES!9999.X0201!DESCRIPTION!}
 		(C#Search for tomes){C:0,KABU!DAWN FORTRESS!ARCHIVES!9990.X15106!DESCRIPTION!}
@@ -342,9 +344,9 @@ exploring
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!1.003!DESCRIPTION!]
 		||
-		*No more tomes here seem to her worth committing to memory, though from a cursory survey, it looks as though much of this Archives' work is concerned with details of religion, history and accounts of war. From them, Eidos gleans a conception of a folk at once resolute and lost. 
+		*No more tomes here seem to her worth committing to memory. From her cursory survey, however, it looks as though much of this Archives' work is concerned with the details of religion, history and accounts of war. These are the words of a folk both lost and resolute.
 		
-		Leafing through a few select tomes, Eidos notes that the religious texts speak of a removal from home, a loss of past and a confusion of meaning. Many of the prayers seem to belie a distinct sense of an unheeding and unsympathetic heaven. Salvation seems found in the tomes of warcraft, which speak of feats of heroism, cunning and fellowship in the face of sacrifice. Laced throughout, is a profound sense of resentment at a betrayal, which can never be forgiven.*
+		Leafing through a few select tomes, Eidos notes that the religious texts speak of a removal from home, a loss of past and a confusion of meaning. Many of the prayers seem to belie a distinct sense of an unheeding and unsympathetic heaven. Salvation seems found in the tomes of warcraft, which speak of feats of heroism, cunning, and fellowship in the face of sacrifice. Laced throughout, is a profound sense of resentment at a betrayal that can never be forgiven.*
 		(A#Leave the Archives){A:0,KABU!DAWN FORTRESS!WALLS!0.X000!DESCRIPTION!}
 		(B#Talk to Librarian){B:0,KABU!DAWN FORTRESS!ARCHIVES!9999.X0201!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!ARCHIVES!1.003!DESCRIPTION!/]
@@ -676,7 +678,7 @@ LOGIRA
 	
 	[/KABU!DAWN FORTRESS!ARCHIVES!0.0000!LOGIRA!]
 		||
-		*"Though I must admit, I find it puzzling that you would come to this fortress at such dire times."*
+		*"Though I must admit, I do find it puzzling that you would come to this fortress at such dire times."*
 		(A#"It's of your plight I wish to speak."){A:1,KABU!DAWN FORTRESS!ARCHIVES!1.100!LOGIRA!}
 		(B#"Knowledge is always worth pursuing."){B:1,KABU!DAWN FORTRESS!ARCHIVES!0.001!LOGIRA!}
 		(C#"I seem to have made a wrong turn somewhere."){C:1,KABU!DAWN FORTRESS!ARCHIVES!0.X300!LOGIRA!}
@@ -1740,7 +1742,7 @@ BARRACKS
 >>>Heard barracks convo (15002)<<<
 	[/KABU!DAWN FORTRESS!BARRACKS!0.X000!DESCRIPTION!]
 		|^15002:KABU!DAWN FORTRESS!BARRACKS!2.X000!DESCRIPTION!|
-		*Myriad forgotten steps bring the two ladies to living quarters. Here, the midday sun desperately tries to creep in through thin surveillance slits in the walls, finding only limited success, as these barracks seem to mirror the reserved and guarded Tacribians who built them.
+		*Myriad forgotten steps bring the her to living quarters. Here, the midday sun desperately tries to creep in through thin surveillance slits in the walls - though the persistent rays find only limited success, as these barracks seem to mirror the reserved and guarded Tacribians who built them.
 		
 		A silent stillness rules over this place, as midday is no time for a warrior to be idle, it seems. However, in a far corner, there look to be three occupants engaged in conversation so quiet that Eidos failed to notice their presence until this very moment.*
 		(C#Leave this area){C:1,KABU!DAWN FORTRESS!BARRACKS!0.X002!DESCRIPTION!}
@@ -1866,7 +1868,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!0.X000!IMAT!]
 		|@:KABU!DAWN FORTRESS!BARRACKS!0.001!IMAT!|
-		*"What would you expect? The Wastewinds are always as fell as Rikharr's stinking arse, this night or any other, from before the beginning."*
+		*"What would you expect? The Wastewinds are always as fell as Rikharr's stinking arse, these nights or any other, from before the beginning."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!9999.X0213!IMAT!}
 	[KABU!DAWN FORTRESS!BARRACKS!0.X000!IMAT!/]	
 	
@@ -1908,7 +1910,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!0.0011!DIYA!]
 		||
-		*"And what's more, where they found it oughta be beyond the wraithglow, but Fwayya nearly fell to it - would've too if it hadn't been for Shen's sacrifice."*
+		*"And what's more, where they found it oughta be beyond the wraithglow, but Fwayya nearly fell to it - would've too, if it hadn't been for Shen's sacrifice."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!0.X0012!DIYA!}	
 	[KABU!DAWN FORTRESS!BARRACKS!0.0011!DIYA!/]
 		
@@ -1992,7 +1994,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!2.003!DIYA!]
 		||
-		*"You've never been in view of the Stilled Sand Crater at Ark's Beacon and seen those wandering draugnir... staring back at you from across the fields of icesand with their void-consumed eyes..."*
+		*"You've never been in view of the Stilled Sand Crater at Ark's Beacon and seen those wandering draugnir... staring back at you from across the fields of icesand with their eyes, blacker than the Obsidian Ruin..."*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!9990.X15004!DIYA!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.003!DIYA!/]
 
@@ -2016,7 +2018,7 @@ CONVERSATION
 	
 	[/KABU!DAWN FORTRESS!BARRACKS!2.0012!XERK!]
 		||
-		*"Because if we don't take care of Dazir and the Wellspring soon, all the draugnir will find is a fortress full of parched corpses."*
+		*"Because if we don't take care of Dazir and the Wellspring soon, all the draugnir will find is a fortress full of parched corpses!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!BARRACKS!9999.X0212!XERK!}
 	[KABU!DAWN FORTRESS!BARRACKS!2.0012!XERK!/]	
 
@@ -4837,26 +4839,26 @@ __________________________________
 MAGE'S ABODE
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.000!DESCRIPTION!]
 		||
-		*Light pours in through long, narrow windows high on the western walls, like a dozen eyes peering in divine judgment. Beneath these windows, another set of eyes scornfully appraises Eidos from the shadows; eyes she cannot see, but whose vivisecting gaze she can most palpably feel. The light casts a curtain of brilliance, making it impossible for Eidos to determine who - or what - lurks in the wall's penumbra but fifty paces away.*
+		*Light pours in through long, narrow windows high on the western walls, like a dozen eyes peering down in divine judgment. Beneath these windows, another set of eyes scornfully appraises Eidos from the shadows - eyes she cannot see, but whose vivisecting gaze she can most palpably feel. She feels that these invisible eyes beckon her, though the curtain of brilliance the windows' light casts makes it impossible to determine who - or what - lurks in the wall's penumbra but fifty paces hence.*
 		(A#Approach the man){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.001!DESCRIPTION!}
 		(B#Leave the abode){B:0,KABU!DAWN FORTRESS!BARRACKS!0.X000!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.000!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.001!DESCRIPTION!]
 		||
-		*She begins to carve a path through the dust motes floating in the afternoon sun, getting ever closer to that motionless creature. Twenty paces off, the form comes into clearer focus: more an onyx statue than a human being, immobile, absolute, and intractable. Its oppressive aura is enough to make the brave cower and the belligerent docile.*
+		*She begins to carve a path through the dust motes floating in the afternoon sun, getting ever closer to that motionless creature. Twenty paces off, the form gains in clarity. More onyx statue than human being, it sits upon and elevated platform, immobile, absolute, and intractable. Its oppressive aura is enough to make the brave cowardly and the belligerent docile.*
 		(A#...){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.002!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.001!DESCRIPTION!/]
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.002!DESCRIPTION!]
 		||
-		*Within ten paces, it authoritatively raises a hand commanding her to stop. The shadowy figure now finally comes into focus. Lines sharpen and colors separate. Sitting there before her is a lean, muscular man of advancing years, his face etched with a perpetual scowl.*
+		*Within ten paces, it authoritatively raises a hand commanding her to stop. The shadowy figure now finally comes into focus. Lines sharpen and colors separate. Sitting there before her is a lean, somewhat muscular man of advancing years, his face etched with a perpetual scowl.*
 		(A#...){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.X003!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.002!DESCRIPTION!/]
 
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.X003!DESCRIPTION!]
 		|@:KABU!DAWN FORTRESS!MAGE'S ABODE!0.004!DESCRIPTION!|
-		*To say the man was unenthusiastic about her approach would be disingenuous. He simply glares at Eidos, calculating, assessing, planning. But after a lengthy silence and a domineering staredown, he deigns to speak...*
+		*To say the man was unenthusiastic about her approach would be to call the sun lukewarm. Though, for the moment, he simply glares at Eidos. Calculating. Assessing. Planning. But after a lengthy silence and a domineering staredown, he deigns to speak...*
 		(A#...){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!9999.X0014!DESCRIPTION!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.X003!DESCRIPTION!/]	
 	
@@ -4939,7 +4941,7 @@ KHLUTT
 >>>Accepted Pakahron's Mission (13105)<<<	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!0.X0011!KHLUTT!]
 		|^13105:KABU!DAWN FORTRESS!MAGE'S ABODE!0.006!KHLUTT!|
-		*"Resist, and I will cripple your Falseflesh along with the true..."*
+		*"Resist, and I will cripple your Falseflesh along with the True..."*
 		(A#...){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!0.009!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!0.X0011!KHLUTT!/]
 	
@@ -5673,7 +5675,7 @@ have hidden mind
 	
 	[/KABU!DAWN FORTRESS!MAGE'S ABODE!10.001!KHLUTT!]
 		||
-		*"You will do no harm here, you wretched follower of Ormenos!"*
+		*"You'd imitate Ormenos? Then be thorough and share his fate!"*
 		(A#"..."){A:0,KABU!DAWN FORTRESS!MAGE'S ABODE!9992.X0014!KHLUTT!}
 	[KABU!DAWN FORTRESS!MAGE'S ABODE!10.001!KHLUTT!/]
 
