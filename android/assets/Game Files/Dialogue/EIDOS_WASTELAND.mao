@@ -90,21 +90,23 @@ not in exile
 travel w/ Heyar OR not spoken yet + poisoning
 	[/KABU!WASTELAND!ARK'S BEACON!1.000!DESCRIPTION!]
 		||
-		*Alternating patches of sand and cracked earth seem to endlessly pass beneath Eidos' feet. The same barren sight after her myriad uncounted paces. Mouth agape, wanting to drool but incapable of producing even a drop of spittle, Eidos stares at the floor as her feet drag, kicking up meager clouds of dust and sand. But unrelenting winds sweep those clouds away and erase any footprints she may have left behind, leaving no evidence of her passage, no reminder of her existence.*
+		*Alternating patches of sand and cracked earth seem to endlessly pass beneath Eidos' feet. The same barren sights persist step after infinite step. Mouth agape, wanting to drool but incapable of producing even a drop of spittle, Eidos stares at the floor as her feet drag, kicking up meager clouds of dust and sand. But unrelenting winds sweep those clouds away and erase any footprints she may have left behind, leaving no evidence of her passage, no reminder of her existence.*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!1.001!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!1.000!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.001!DESCRIPTION!]
 		||
-		*A break in the howling winds, grants her eyes the freedom to look up and forward temporarily. The Wasteland spire grows nearer. From this vantage point, she now sees that it is but a small part of a broad, stout fortification, several hundred paces wide. This structure is built into the lip of a massive crater, stopping it up, and preventing the flow of anything in or out.*
+		*A break in the howling winds grants her eyes the freedom to look up and forward. The Wasteland spire grows nearer. From this vantage point, she now sees that it is but a small part of a broad, stout fortification, several hundred paces wide. This structure is built into the lip of a massive crater, stopping it up, and preventing the flow of anything in or out.*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!1.002!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!1.001!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.002!DESCRIPTION!]
 		||
-		*When near enough, she sees evidence of recent habitation - abandoned tents, bedrolls and ashy campfire remains, to name a few. Yet, nothing living remains in this lonely place. Bringing her attention to the wall whose shadow now envelops her, she notices that on either side, a stairway lead to the top of the fortress walls.
+		*When near enough, she sees evidence of recent habitation - abandoned tents, bedrolls, and ashy campfire remains, to name a few. Even a small water cistern sits nearby, though it is now as empty as the facilities it services. It seems the sole occupants of Ark’s Beacon are solitude and fading memories.
 		
-		Laughter shatters the solemn silence of the Wastes. Eidos turns to look and sees it's just Heyar, laughing at one of his own inane jokes.*
+		Bringing her attention to the wall whose shadow now envelops her, she notices that on either side, a stairway lead to the top of the fortress walls.
+		
+		Suddenly, laughter shatters the solemn silence of the Wastes, reminding Eidos she is not actually alone. She turns to find Heyar some twenty paces off, laughing at one of his own inane jokes.*
 		(A#Climb the stairs to the top of the wall){A:0,KABU!WASTELAND!ARK'S BEACON!1.100!DESCRIPTION!}
 		(B#Go to Land's End){B:0,KABU!WASTELAND!LAND'S END!2.000!DESCRIPTION!}
 		(C#Approach Heyar){C:0,KABU!WASTELAND!ARK'S BEACON!1.X500!DESCRIPTION!}
@@ -112,13 +114,13 @@ travel w/ Heyar OR not spoken yet + poisoning
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.100!DESCRIPTION!]
 		||
-		*Eidos climbs the stairs and mounts the battlements atop the wall; her climb rewarded with a curious sight...*
+		*Eidos climbs the stairs and mounts the battlements atop the wall, and her ascent is rewarded with a curious sight...*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!1.101!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!1.100!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.101!DESCRIPTION!]
 		||
-		*From the parapet upon which she stands, a massive stone ramp descends into the crater below. Kicking a pebble down towards the ramp, Eidos observes that it takes a second to reach the sloped surface, leading her to surmise that it is quite possible to survive the descent. However, noting the mirror-polished, slick surfaces of the wall, she likewise sees that it is equally impossible to climb back up. It would seem that the whole complex is designed to invite invaders from the crater to mount the ramp only to be rebuffed by its formidable walls.*
+		*From the parapet upon which she stands, a massive stone ramp descends into the crater below. She kicks a pebble down towards the ramp. A second later, it cracks against the sloped surface of the crater. The descent seems a simple task. However, given the smooth surfaces of the wall, a return ascent seems inversely proportional in its simplicity. With this setup, the whole complex appears to be designed to invite invaders from the crater to mount the ramp only to be rebuffed by its formidable walls.*
 		(A#...){A:0,KABU!WASTELAND!ARK'S BEACON!1.102!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!1.101!DESCRIPTION!/]
 
@@ -2982,20 +2984,20 @@ exiled
 killed khlutt prior to wellspring fuck up
 	[/KABU!WASTELAND!GATES OF DAWN!0.005!DESCRIPTION!]
 		||
-		*Two slits crack open in the unending darkness, light and its companion pain pouring through them. Eidos squints, trying to regulate the flow of her visual floodgates as she grows accustomed to her reawakening consciousness. She feels the rhythmic dance of her fingers, toes, limbs and body as blood pulsates through them. Aching muscles contract uneasily, fibers sliding against each other like rusted iron rods. But eventually she manages to pry herself from the ground, sitting, then kneeling.*
+		*Two slits split open an otherwise unbroken darkness, light and its companion pain forcing their way through. Eidos squints, trying to regulate the flow of her visual floodgates as she grows accustomed to her reawakening consciousness. She feels the rhythmic dance of her fingers, toes, limbs and body as blood pulsates through them. Aching muscles contract uneasily, fibers sliding against each other like rusted iron rods. But eventually she manages to pry herself from the ground, sitting, then kneeling.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X0051!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.005!DESCRIPTION!/]
 
 >>>Met Heyar (15005)<<<
 	[/KABU!WASTELAND!GATES OF DAWN!0.X0051!DESCRIPTION!]
 		|^15005:KABU!WASTELAND!GATES OF DAWN!0.0052!DESCRIPTION!|
-		*Suddenly, Eidos feels a gentle tap on her shoulder as though to get her attention. She spins violently towards the perceived threat, but her gaze is met with what can only be described as the antithesis of threatening: a terrified and scrawny fellow in a turquoise robe.*
+		*Suddenly, Eidos feels a gentle tap on her shoulder as though to get her attention. She spins violently towards the perceived threat, but her gaze is met with what can only be described as the antithesis of danger: a terrified and scrawny fellow in a turquoise robe.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X0053!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.X0051!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!GATES OF DAWN!0.0052!DESCRIPTION!]
 		||
-		*Suddenly, Eidos feels a gentle tap on her shoulder as though to get her attention. She spins violently towards the perceived threat, but her gaze is met with what can only be described as the antithesis of threatening: the scrawny Daziran scholar, Heyar.*
+		*Suddenly, Eidos feels a gentle tap on her shoulder as though to get her attention. She spins violently towards the perceived threat, but her gaze is met with what can only be described as the antithesis of danger: the scrawny Daziran scholar, Heyar.*
 		(A#...){A:0,KABU!WASTELAND!GATES OF DAWN!0.X0053!DESCRIPTION!}
 	[KABU!WASTELAND!GATES OF DAWN!0.0052!DESCRIPTION!/]
 
