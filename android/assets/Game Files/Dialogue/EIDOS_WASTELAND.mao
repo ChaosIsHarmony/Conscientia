@@ -150,7 +150,7 @@ travel w/ Heyar OR not spoken yet + poisoning
 		||
 		*Eidos makes for the wall to leave. Heyar is lost in thought lecturing himself while making grand gesticulations. 
 		
-		This is the end of their journey together. A tragic separation or a joyful release, or a false dichotomy.*
+		This is the end of their journey together. A tragic separation or a joyful release - or a false dichotomy?*
 		(A#Descend the ramp){A:0,KABU!WASTELAND!ARK'S BEACON!9990.X16005!DESCRIPTION!}
 	[KABU!WASTELAND!ARK'S BEACON!1.901!DESCRIPTION!/]
 
@@ -623,7 +623,7 @@ BISHRA
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.4000!BISHRA!]
 		||
-		*"But I'll put a shot through your eye when the wraithglow gets you. So worry not, you've my word of honor as one of Ark's Valvorthr: your death will be mercifully quick."*
+		*"But I'll put a shot through your eye when the wraithglow gets you. Your suffering will be brief; you've my word of honor as one of Ark's Valvorthr."*
 		(C#"I hope I can avoid that."){C:1,KABU!WASTELAND!ARK'S BEACON!0.X301!BISHRA!}
 		(D#"Are we enemies then?"){D:1,KABU!WASTELAND!ARK'S BEACON!0.X401!BISHRA!}
 		(E#"Then you have my word your death will be needlessly painful."){E:1,KABU!WASTELAND!ARK'S BEACON!0.X501!BISHRA!}
@@ -708,13 +708,13 @@ BISHRA
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.000!BISHRA!]
 		||
-		*"Speaking to you won't help me in my mission to defend the beacon - might just make it more difficult - so I won't be talking to you anymore."*
+		*"Speaking to you won't help me in my mission to defend the beacon - might just make it more difficult. Leave me, outlander."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!1.X001!BISHRA!}
 	[KABU!WASTELAND!ARK'S BEACON!1.000!BISHRA!/]
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.X001!BISHRA!]
 		|@:KABU!WASTELAND!ARK'S BEACON!2.X000!BISHRA!|
-		*"Ark guide you."*
+		*"Ark guide you to the Grays."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!9999.X9999!BISHRA!}
 	[KABU!WASTELAND!ARK'S BEACON!1.X001!BISHRA!/]
 
@@ -766,7 +766,7 @@ HEYAR
 
 	[/KABU!WASTELAND!ARK'S BEACON!0.1001!HEYAR!]
 		||
-		*"Such irony that Tacribians adore her to the point of deifying her, yet most don't realize she was originally from Dazir! That's why history is so important, so that..."*
+		*"Such irony that Tacribians adore her to the point of deification, yet most don't realize she was originally from Dazir! That's why history is so important, so that..."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!0.1002!HEYAR!}
 	[KABU!WASTELAND!ARK'S BEACON!0.1001!HEYAR!/]
 
@@ -845,7 +845,7 @@ HEYAR
 
 	[/KABU!WASTELAND!ARK'S BEACON!1.0000!HEYAR!]
 		||
-		*"Such irony that Tacribians adore her to the point of deifying her, yet most don't realize she was originally from Dazir! That's why history is so important, so that..."*
+		*"Such irony that Tacribians adore her to the point of deification, yet most don't realize she was originally from Dazir! That's why history is so important, so that..."*
 		(A#"..."){A:0,KABU!WASTELAND!ARK'S BEACON!1.0001!HEYAR!}
 	[KABU!WASTELAND!ARK'S BEACON!1.0000!HEYAR!/]
 
