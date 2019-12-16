@@ -1292,7 +1292,7 @@ CRATER'S EDGE
 
 	[/KABU!WASTELAND!CRATER'S EDGE!0.001!DESCRIPTION!]
 		||
-		*The sun's burning heat and the Wasteland shadows' chilling cold is noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a cliff of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
+		*The sun's burning heat and the Wasteland shadows' chilling cold are noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a cliff of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!0.002!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!0.001!DESCRIPTION!/]
 
@@ -5040,13 +5040,13 @@ STILLED SAND CRATER
 Came from the Dawn Fortress	
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.000!DESCRIPTION!]
 		||
-		*Eidos walks upon an inverse mirror, no reflections or definition reveal themselves in the rocky surface. Black does not suffice to describe its color; it is the absolute absence of color that defines its visual aspect. Only through her continual stumbles and falls into the dark dust does she know she walks upon solid stone - though to her it feels like perpetually falling into a void.*
+		*Descending the incline, the floor grays and then blackens, finally losing all color. And before she knows it, Eidos walks upon an inverse mirror, no light reflecting from this crater's sandy surface, nor any shapes defining themselves within it. A complete absence is all she sees. A bottomless pit. Yet, her continual stumbles and falls into the dark dust covering the floor reveal the hidden physicality to it - though visually and viscerally it still feels like perpetually falling into a void.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.0000!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.000!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.0000!DESCRIPTION!]
 		||
-		*Gripping a loose collection of powder, she lifts it for closer scrutiny. Of greater interest, though, turn out to be her own hands, as it appears that her palm and fingers are being eaten by countless worms. A terrible pain wracks her insides and it takes all Eidos' effort to hold back the bloody vomit promising to spew forth.*
+		*Gripping a loose collection of powder, she lifts it for closer scrutiny. The shards rake at her closed fist, yet draw no blood from the wounds they open. Unfurling her fingers, she stares at what appears to be a hole in the center of her palm. Of greater interest, though, are her own hands, as her palm and fingers are being eaten by countless milky worms. A terrible pain wracks her insides and it takes all Eidos' effort to hold back the bloody vomit promising to spew forth.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.0001!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.0000!DESCRIPTION!/]
 
@@ -5107,26 +5107,28 @@ Came from the Dawn Fortress
 +elixir/hidden mind
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.001!DESCRIPTION!]
 		||
-		*Eidos walks upon an inverse mirror, no reflections or definition reveal themselves in the rocky surface. Black does not suffice to describe its color; it is the absolute absence of color that defines its visual aspect. Only through her continual stumbles and falls into the dark dust does she know she walks upon solid stone - though to her it feels like perpetually falling into a void.*
+		*Descending the incline, the floor grays and then blackens, finally losing all color. And before she knows it, Eidos walks upon an inverse mirror, no light reflecting from this crater's sandy surface, nor any shapes defining themselves within it. A complete absence is all she sees. A bottomless pit. Yet, her continual stumbles and falls into the dark dust covering the floor reveal the hidden physicality to it - though visually and viscerally it still feels like perpetually falling into a void.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.0010!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.001!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.0010!DESCRIPTION!]
 		||
-		*Gripping a loose collection of powder, she lifts it for closer scrutiny. The shards rake at her closed fist, yet draw no blood from the wounds they open. Opening her grip, she stares at what appears to be a hole in the center of her palm. She violently turns her hand over to regard the back. The skin is pale, but otherwise undisturbed. Returning her gaze to the palm, the dark powder having dropped at her convulsions, the illusion is dispelled; only a palm remains.*
+		*Gripping a loose collection of powder, she lifts it for closer scrutiny. The shards rake at her closed fist, yet draw no blood from the wounds they open. Unfurling her fingers, she stares at what appears to be a hole in the center of her palm. Violently flipping her hand over to regard the back, she sees the skin is pale, but otherwise undisturbed. Turning the hand once more, her gaze falls on the palm. The dark powder is gone, dropped from her previous convulsion, and the illusion is dispelled; the hole is gone, and only a palm remains.*
 		(C#...){C:1,KABU!WASTELAND!STILLED SAND CRATER!1.0011!DESCRIPTION!}
 		(B#Grab another handful of powder){B:1,KABU!WASTELAND!STILLED SAND CRATER!1.00100!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.0010!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.00100!DESCRIPTION!]
 		||
-		*She goes for the dark powder again, this time scooping up a handful. There is a surprising continuity between the powder in her hand and the powder on the ground. Even knowing the trick, her eyes still see a hole piercing her flesh. Eidos wiggles her fingers, letting the grains shift in her hand, and ultimately pouring the powder from her hand back to the ground. The illusory hole in her hand appears to disappear, pale skin rapidly replacing it. As the last grain falls, Eidos dusts her hands off, a fine powder staining the wan skin with grayish trails.*
+		*She goes for the dark powder again, this time scooping up a handful. There is a surprising continuity between the powder in her hand and the powder on the ground. Even knowing the trick, her eyes still see a hole piercing her flesh.
+		
+		Eidos wiggles her fingers, letting the grains shift in her hand, and ultimately pouring the powder from her hand back to the ground. The illusory hole in her hand disappears, pale skin rapidly replacing it. As the last grain falls, Eidos dusts her hands off, but a fine powder yet clings to the wan skin, staining it with grayish trails.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.0011!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.00100!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.0011!DESCRIPTION!]
 		||
-		*Sudden movement garners her attention. Ambling off in the distance and gradually slipping into view are humanoid figures. Slow in their approach, their features are nearly impossible to distinguish other than as shadows dirtied by smears of white flesh. They roil and pulse like pustules bursting forth from the crater's black skin.*
+		*Sudden movement steals her attention from the dark powder. Ambling off in the distance and gradually slipping into view are thousands of humanoid figures. Slow in their approach, their features are nearly impossible to distinguish other than as swaying shadows dirtied by smears of white flesh. They roil and pulse like pustules bursting forth from the crater's black skin.*
 		(A#...){A:0,KABU!WASTELAND!STILLED SAND CRATER!1.0012!DESCRIPTION!}
 	[KABU!WASTELAND!STILLED SAND CRATER!1.0011!DESCRIPTION!/]
 
@@ -5145,7 +5147,7 @@ Came from the Dawn Fortress
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.0013!DESCRIPTION!]
 		||
-		*But Eidos does not react. She stands motionless, unsure of whether she is courageous, curious or simply resigned to whatever should be. She allows the procession of unholy abominations to march toward her, and soon, splinters of tooth and bone gnash all around her, as the draugnir drool their sooty fluids. The creatures circle around her like albino buzzards, eying a fresh corpse...*
+		*But Eidos does not react. She stands motionless, unsure of whether she is courageous, curious or simply resigned to whatever should be. She allows the procession of unholy abominations to march toward her, and soon, splinters of tooth and bone gnash all around her, as the draugnir drool their sooty fluids. The creatures circle around her like albino buzzards, eyeing a fresh corpse...*
 		(A#Warn them){A:1,KABU!WASTELAND!STILLED SAND CRATER!1.100!DESCRIPTION!}
 		(B#Calm them){B:1,KABU!WASTELAND!STILLED SAND CRATER!1.200!DESCRIPTION!}
 		(C#Do nothing){C:1,KABU!WASTELAND!STILLED SAND CRATER!1.300!DESCRIPTION!}
@@ -5173,7 +5175,7 @@ Came from the Dawn Fortress
 
 	[/KABU!WASTELAND!STILLED SAND CRATER!1.300!DESCRIPTION!]
 		||
-		*The draugnir stagger their circles, giving the impression of a rotating spiral, with Eidos as the unmoving center. Their furor increases, dancing to some perverse, inaudible beat. Yet they somehow seem utterly indifferent to Eidos... She senses no connection to these beings whatsoever. Indeed, her mind feels more isolated than ever, despite these beings' apparent desire to mirror her thoughts.*
+		*The draugnir stagger their circles, giving the impression of a rotating spiral, with Eidos as the unmoving center. Their furor increases, dancing to some perverse, inaudible beat. And yet, they still somehow seem utterly indifferent to Eidos... She senses no connection to these beings whatsoever. Indeed, her mind feels more isolated than ever, despite their apparent desire to mirror her thoughts.*
 		(B#Ask them for information){B:1,KABU!WASTELAND!STILLED SAND CRATER!1.201!DESCRIPTION!}
 		(C#Leave){C:1,KABU!WASTELAND!STILLED SAND CRATER!1.301!DESCRIPTION!}
 		(D#Command them to attack each other){D:1,KABU!WASTELAND!STILLED SAND CRATER!9990.X16004-1!DESCRIPTION!}
