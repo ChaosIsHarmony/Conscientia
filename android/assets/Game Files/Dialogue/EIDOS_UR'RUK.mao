@@ -1563,13 +1563,13 @@ virgin entrance
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.002!DESCRIPTION!]
 		||
-		*She feels helpless.*
+		*She feels helpless - as well she should.*
 		(A#...){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.003!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!0.002!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.003!DESCRIPTION!]
 		||
-		*A sudden urge to meditate wells up within her. Then morphing into the urge to sleep. Then into the urge to advance. Cyclically. Eternally. Locked in mutual gravitation of desire, pulling in different directions, ripping at her ghost. Until Eidos or that which acts through her stops the cycle.*
+		*A sudden urge to meditate wells up within her. Then morphing into the urge to sleep. Then into the urge to advance. Cyclically. Eternally. Locked in a mutual gravitation of desire, pulling in different directions, tugging at her Trueflesh. Until Eidos or that which acts through her stops the cycle.*
 		(A#Meditate){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.X100!DESCRIPTION!}
 		(B#Sleep){B:0,KABU!UR'RUK!GATES OF AWAKENING!0.500!DESCRIPTION!}
 		(C#Advance){C:0,KABU!UR'RUK!GATES OF AWAKENING!1.X000!DESCRIPTION!}
@@ -1597,7 +1597,7 @@ to mindscape
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.1002!DESCRIPTION!]
 		||
-		*It reverses and spin ever more intensely.*
+		*It soon reverses and spins ever more intensely.*
 		(A#...){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.1003!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!0.1002!DESCRIPTION!/]
 
@@ -1692,16 +1692,16 @@ will take you to the beginning of one of the other 5 books
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!1.000!DESCRIPTION!]
 		||
-		*While the city was barely visible from a distance, its cyclopean walls offer no hints of what might lie within. The high city walls themselves are in pristine condition, carved from forbidding granite stone and enmeshed throughout by twisting bands of shimmering metal. The interlocking stone plates are as scales of a gargantuan beast, girding an inner skin of steel.
+		*Eidos is soon enveloped by the shadow of cyclopean walls. These walls stand in stark contrast to the broken buildings they surround, for they are in pristine condition. No gaps, nor joints divide the surface, giving the impression that the walls were pulled up from the very ground they now stand upon, pinched into position by some godly hand. The stone is enmeshed throughout by twisting bands of shimmering metal. These steel bands are as the outlined scales of a gargantuan beast, girding an inner skin of stone.
 		
-		The walls, however, stand in stark contrast to the makeshift gate sealing the entry portal to the city. This gate, though sturdy, is foreign to the structure and is of much more humble artifice.*
+		The walls, however, are in alliance with a rather unlikely bedfellow. The sole opening in them is guarded by a makeshift gate that seals the entry portal to the city. The gate is as dissimilar to the walls as a Sentry is to a Warbeast. Like a cotton patch on a silk dress.*
 		(A#Go back to the Wasteland){A:0,KABU!WASTELAND!CRATER'S EDGE!10.X000!DESCRIPTION!}
 		(B#Call out){B:0,KABU!UR'RUK!GATES OF AWAKENING!1.001!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!1.000!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!1.001!DESCRIPTION!]
 		||
-		*At Eidos' call, the silhouette of a person appears briefly. It then turns around and whistles toward some unseen compatriot below, only to disappear back into the shadows. But before long, the gate begins to crack open, allowing barely enough space for a single person to slip through.*
+		*At Eidos' call, the silhouette of a person appears briefly. It turns around and whistles toward some unseen compatriot below, only to then melt back into the shadows. But before long, the gate begins to crack open, allowing barely enough space for a single person to slip through.*
 		(A#Pass through the gates){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.X000!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!1.001!DESCRIPTION!/]
 

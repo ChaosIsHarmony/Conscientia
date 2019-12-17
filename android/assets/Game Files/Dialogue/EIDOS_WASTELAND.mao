@@ -1292,13 +1292,17 @@ CRATER'S EDGE
 
 	[/KABU!WASTELAND!CRATER'S EDGE!0.001!DESCRIPTION!]
 		||
-		*The sun's burning heat and the Wasteland shadows' chilling cold are noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a cliff of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
+		*The sun's burning heat and the Wasteland shadows' chilling cold are noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a drop of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!0.002!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!0.001!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRATER'S EDGE!0.002!DESCRIPTION!]
 		||
-		*At the brink of this precipice to non-being, Eidos feels she stands in a place that is no place at all. In a place that denies existence. A narrow strip that sits between form and nothingness. Yet, her sense of thought and perception seems heightened. Scanning across the horizon toward the east, beyond the sea of colorless mist, she sees only the desolate flatlands spanning off into infinity. Turning south, her perception penetrates the murky gray haze and for once sees clearly the ruined towers of Ur'Ruk, vaguely aware that something within stares back at her...*
+		*At the brink of this precipice to non-being, Eidos feels she stands in a place that is no place at all. In a place that denies existence. A narrow strip that sits between form and nothingness. Yet, her sense of thought and perception seems heightened.
+		
+		Scanning across the horizon toward the east, beyond the sea of colorless mist, she sees only the desolate flatlands spanning off into infinity. Turning south, her perception penetrates the murky gray haze and for once sees clearly the ruined towers of Ur'Ruk.
+		
+		Suddenly, a very special tower soon draws her attention. Red as blood and remarkably intact, she stares at the tower, vaguely aware that something within returns her gaze.*
 		(A#Go to Ur'Ruk){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.X000!DESCRIPTION!}
 		(B#Descend into the Stilled Sand Crater){B:0,KABU!WASTELAND!STILLED SAND CRATER!0.X000!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!0.002!DESCRIPTION!/]
@@ -1319,13 +1323,17 @@ resolved Draug situation in crater + doubled army
 
 	[/KABU!WASTELAND!CRATER'S EDGE!1.002!DESCRIPTION!]
 		||
-		*The sun's burning heat and the Wasteland shadows' chilling cold is noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a cliff of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
+		*The sun's burning heat and the Wasteland shadows' chilling cold is noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a drop of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!1.003!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!1.002!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRATER'S EDGE!1.003!DESCRIPTION!]
 		||
-		*At the brink of this precipice to non-being, Eidos feels she stands in a place that is no place at all. In a place that denies existence. A narrow strip that sits between form and nothingness. Yet, her sense of thought and perception seems heightened. Scanning across the horizon toward the east, beyond the sea of colorless mist, she sees only the desolate flatlands spanning off into infinity. Turning south, her perception penetrates the murky gray haze and for once sees clearly the ruined towers of Ur'Ruk, vaguely aware that something within stares back at her...*
+		*At the brink of this precipice to non-being, Eidos feels she stands in a place that is no place at all. In a place that denies existence. A narrow strip that sits between form and nothingness. Yet, her sense of thought and perception seems heightened.
+		
+		Scanning across the horizon toward the east, beyond the sea of colorless mist, she sees only the desolate flatlands spanning off into infinity. Turning south, her perception penetrates the murky gray haze and for once sees clearly the ruined towers of Ur'Ruk.
+		
+		Suddenly, a very special tower soon draws her attention. Red as blood and remarkably intact, she stares at the tower, vaguely aware that something within stares back at her.*
 		(A#Go to Ur'Ruk){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.X000!DESCRIPTION!}
 		(B#Descend into the Stilled Sand Crater){B:0,KABU!WASTELAND!STILLED SAND CRATER!0.X000!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!1.003!DESCRIPTION!/]
@@ -1341,13 +1349,17 @@ from Ur'Ruk
 
 	[/KABU!WASTELAND!CRATER'S EDGE!10.001!DESCRIPTION!]
 		||
-		*The sun's burning heat and the Wasteland shadows' chilling cold is noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a cliff of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
+		*The sun's burning heat and the Wasteland shadows' chilling cold is noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a drop of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!10.002!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!10.001!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRATER'S EDGE!10.002!DESCRIPTION!]
 		||
-		*At the brink of this precipice to non-being, Eidos feels she stands in a place that is no place at all. In a place that denies existence. A narrow strip that sits between form and nothingness. Yet, her sense of thought and perception seems heightened. Scanning across the horizon toward the east, beyond the sea of colorless mist, she sees only the desolate flatlands spanning off into infinity. Turning south, her perception penetrates the murky gray haze and for once sees clearly the ruined towers of Ur'Ruk, vaguely aware that something within stares back at her...*
+		*At the brink of this precipice to non-being, Eidos feels she stands in a place that is no place at all. In a place that denies existence. A narrow strip that sits between form and nothingness. Yet, her sense of thought and perception seems heightened.
+		
+		Scanning across the horizon toward the east, beyond the sea of colorless mist, she sees only the desolate flatlands spanning off into infinity. Turning south, her perception penetrates the murky gray haze and for once sees clearly the ruined towers of Ur'Ruk. 
+		
+		Suddenly, a very special tower soon draws her attention. Red as blood and remarkably intact, she stares at the tower, vaguely aware that something within stares back at her.*
 		(A#Return to Ur'Ruk){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.X000!DESCRIPTION!}
 		(B#Descend into the Stilled Sand Crater){B:0,KABU!WASTELAND!STILLED SAND CRATER!0.X000!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!10.002!DESCRIPTION!/]
@@ -1366,13 +1378,17 @@ from Ur'Ruk
 
 	[/KABU!WASTELAND!CRATER'S EDGE!11.002!DESCRIPTION!]
 		||
-		*The sun's burning heat and the Wasteland shadows' chilling cold is noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a cliff of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
+		*The sun's burning heat and the Wasteland shadows' chilling cold is noticeably absent. All color has been replaced with a monochromatic veneer, blurring the lines and shadows that would otherwise define the boundaries between objects. Some fifty paces east is a drop of indeterminable height; the bottom remains shrouded by a thick blanket of colorless mist.*
 		(A#...){A:0,KABU!WASTELAND!CRATER'S EDGE!11.003!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!11.002!DESCRIPTION!/]
 
 	[/KABU!WASTELAND!CRATER'S EDGE!11.003!DESCRIPTION!]
 		||
-		*At the brink of this precipice to non-being, Eidos feels she stands in a place that is no place at all. In a place that denies existence. A narrow strip that sits between form and nothingness. Yet, her sense of thought and perception seems heightened. Scanning across the horizon toward the east, beyond the sea of colorless mist, she sees only the desolate flatlands spanning off into infinity. Turning south, her perception penetrates the murky gray haze and for once sees clearly the ruined towers of Ur'Ruk, vaguely aware that something within stares back at her...*
+		*At the brink of this precipice to non-being, Eidos feels she stands in a place that is no place at all. In a place that denies existence. A narrow strip that sits between form and nothingness. Yet, her sense of thought and perception seems heightened.
+		
+		Scanning across the horizon toward the east, beyond the sea of colorless mist, she sees only the desolate flatlands spanning off into infinity. Turning south, her perception penetrates the murky gray haze and for once sees clearly the ruined towers of Ur'Ruk.
+		
+		Suddenly, a very special tower soon draws her attention. Red as blood and remarkably intact, she stares at the tower, vaguely aware that something within returns her gaze.*
 		(A#Return to Ur'Ruk){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.X000!DESCRIPTION!}
 		(B#Descend into the Stilled Sand Crater){B:0,KABU!WASTELAND!STILLED SAND CRATER!0.X000!DESCRIPTION!}
 	[KABU!WASTELAND!CRATER'S EDGE!11.003!DESCRIPTION!/]
