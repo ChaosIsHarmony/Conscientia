@@ -2563,15 +2563,17 @@ HALL OF VANARGAND
 virgin entrance
 	[/KABU!UR'RUK!HALL OF VANARGAND!1.000!DESCRIPTION!]
 		||
-		*The makeshift gate closing behind her, Eidos now finds herself in a space that dwarfs its entrance by comparison. An azure-colored, domed ceiling arcs overhead, giving the impression of a fabricated sky, complete with clouds and birds in flight. Dully shining crystalline sconces adorn the walls, casting a light down upon the hall whose shade is akin to that of the awakening chamber.
+		*The makeshift gate closing behind her, Eidos now finds herself in a space that dwarfs its entrance by comparison. A domed ceiling arcs overhead. Its fading blue color gives the impression of a fabricated sky, complete with clouds and birds in flight. Dully shining crystalline sconces adorn the walls, and work hard to chase away the shadows.
 		
-		Casting her gaze about, Eidos sees countless statues irreparably scarred by the claws of time, their faceless skulls staring down at her from stone alcoves. Their angular and idealized forms are also reminiscent of those seen in the Sanctuary, but whatever artistry or feeling they may have once been imbued with has long since been devoured by the city's ruin.*
+		Some stubborn darkness yet remains, however, and countless statues now stare at her from their shadowy alcoves. Irreparably scarred from their war with time, all of the carvings are now faceless and most seem little more than amorphous stone pillars. A number of sharp edges hint at the angular and idealized forms they were born with, but whatever artistry or feeling they may have once been imbued with has long since been devoured by the city's ruin.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!1.X001!DESCRIPTION!}
 	[KABU!UR'RUK!HALL OF VANARGAND!1.000!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!1.X001!DESCRIPTION!]
 		|@:KABU!UR'RUK!HALL OF VANARGAND!0.X000!DESCRIPTION!|
-		*Standing like shadows in the amber light is a cadre of men, their cudgels imparting the sense that they are guardians, though their bearing belies their inexperience. A granite table stands as the centerpiece of the hall - though it appears to be entirely ceremonial, as there are none sitting at it save a stately lady gazing down upon Eidos from an elevated chair; beside her stands a young attendant.
+		*Standing along the edges of the hall, in imitation of the statues behind them, is a cadre of men. Their crudely cobbled cudgels impart the sense that they are guardians, though their bearing belies their inexperience. Likewise mirroring the stones they seek to mimic is the deathly pallor of their skin – a pallor with which she is now most personally acquainted.
+		
+		A granite table stands as the centerpiece of the hall - though it appears to be entirely ceremonial, as there are none sitting at it save a stately lady gazing down upon Eidos from an elevated chair. At her side, a lone attendant kneels.
 		
 		The leader beckons Eidos, firmly and matronly, without bothering to rise from her chair.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X0600!DESCRIPTION!}
@@ -2582,7 +2584,7 @@ spoke with Hazanna
 		|@:KABU!UR'RUK!HALL OF VANARGAND!0.X000!DESCRIPTION!|
 		*Eidos is in the main hall of Ur'Ruk. At one end of the hall is a makeshift gate, at the other is an adjacent room with a curious green structure visible inside. To her left appears to be another exit toward the streets of the city.
 		
-		The stately leader of the Ur'Rukians remains seated at her table, busy with work. None sit but her, though there is an attendant standing nearby.*
+		The stately leader of the Ur'Rukians remains seated at her table, busy with work. None sit but her, though there is an attendant kneeling nearby.*
 		(A#Leave the Hall){A:0,KABU!UR'RUK!HALL OF VANARGAND!2.X100!DESCRIPTION!}
 		(B#Address Hazanna){B:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X0600!DESCRIPTION!}
 		(C#Speak to Hazanna's attendant){C:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X0610!DESCRIPTION!}
@@ -2599,7 +2601,7 @@ spoke with Hazanna
 spoke with Hazanna + denied entry
 	[/KABU!UR'RUK!HALL OF VANARGAND!2.500!DESCRIPTION!]
 		||
-		*Before Eidos can react, the guards converge upon her from behind and cast a nest, entangling her entirely. They act with utmost speed and stealth in the perfect unison of a well-oiled machine.
+		*Before Eidos can react, the guards converge upon her from behind and cast a net, entangling her entirely. They act with utmost speed and stealth in the perfect unison of a well-oiled machine.
 		
 		This is the inevitable fate of the nail that sticks out: it is hammered down to conform or removed entirely and replaced with one more suitable. Perhaps this is the only way to survive in the Wastes.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!20.000!DESCRIPTION!}
@@ -2651,7 +2653,7 @@ tried to kill people
 HAZANNA
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.000!HAZANNA!]
 		||
-		*"The words you speak now must be careful ones, outsider."*
+		*"You will hold your tongue and speak only when given permission, outsider."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.001!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.000!HAZANNA!/]
 
@@ -2663,7 +2665,7 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.002!HAZANNA!]
 		||	
-		*"Do you mean to stay and be one of us? Or do you choose to depart and be one with Wasteland?"*
+		*"If you stay, you will assimilate, or you will depart immediately and be one with Wasteland. Which do you choose?"*
 		(A#"I wish to know more about your people."){A:1,KABU!UR'RUK!HALL OF VANARGAND!0.100!HAZANNA!}
 		(B#"I won't make a decision in haste."){B:1,KABU!UR'RUK!HALL OF VANARGAND!0.200!HAZANNA!}
 		(C#"If you command me to leave I will, else, I'll stay."){C:1,KABU!UR'RUK!HALL OF VANARGAND!0.300!HAZANNA!}
@@ -2739,7 +2741,7 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.3001!HAZANNA!]
 		||
-		*"I am whole and unified with the Form. So must you too become if you wish to remain."*
+		*"Aizos! Hazanna, your servant, is whole and unified with the Form! So too must the one before me become if she wishes to remain! As it pleases you, our Mother, the Mother of all Form!"*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.3002!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.3001!HAZANNA!/]
 
@@ -2747,7 +2749,7 @@ HAZANNA
 		||
 		*"Now answer. Will you be counted as a sister among us?"*
 		(B#"Such a commitment shouldn't be made in ignorance."){B:1,KABU!UR'RUK!HALL OF VANARGAND!0.201!HAZANNA!}
-		(C#"There's no reason for me to refuse."){C:1,KABU!UR'RUK!HALL OF VANARGAND!0.101!HAZANNA!}
+		(C#"No reason to refuse, I guess."){C:1,KABU!UR'RUK!HALL OF VANARGAND!0.101!HAZANNA!}
 		(D#"Hold on, now. Can't we discuss this like civilized folk?"){D:1,KABU!UR'RUK!HALL OF VANARGAND!9990.X16017!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.3002!HAZANNA!/]
 
@@ -2819,7 +2821,7 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.101!HAZANNA!]
 		||
-		*"I accept your submission, sister!"* 
+		*"Mother Aizos accepts your submission, sister!"* 
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.1010!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.101!HAZANNA!/]
 
@@ -2831,13 +2833,13 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.1011!HAZANNA!]
 		||
-		*"Your contribution to the well-being of your brothers and sisters begins now! You are to report to the Greenhouse, with haste."*
+		*"Your contribution to the well-being of your brothers and sisters begins now! Report to the Greenhouse, with haste."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.1012!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.1011!HAZANNA!/]
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.1012!HAZANNA!]
 		||
-		*"However, I must warn you that your acceptance is a serious oath."*
+		*"However, I warn you that your acceptance is a serious oath."*
 		(A#"..."){A:0,KABU!UR'RUK!HALL OF VANARGAND!0.1013!HAZANNA!}
 	[KABU!UR'RUK!HALL OF VANARGAND!0.1012!HAZANNA!/]
 
