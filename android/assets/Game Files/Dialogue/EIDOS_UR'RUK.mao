@@ -1569,7 +1569,7 @@ virgin entrance
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.003!DESCRIPTION!]
 		||
-		*A sudden urge to meditate wells up within her. Then morphing into the urge to sleep. Then into the urge to advance. Cyclically. Eternally. Locked in a mutual gravitation of desire, pulling in different directions, tugging at her Trueflesh. Until Eidos or that which acts through her stops the cycle.*
+		*A sudden urge to meditate wells up within her, then morphs into the urge to sleep, and then into the urge to advance. Cyclically. Eternally. Locked in a mutual gravitation of desire, pulling in different directions, tugging at her Trueflesh. Until Eidos or that which acts through her stops the cycle.*
 		(A#Meditate){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.X100!DESCRIPTION!}
 		(B#Sleep){B:0,KABU!UR'RUK!GATES OF AWAKENING!0.500!DESCRIPTION!}
 		(C#Advance){C:0,KABU!UR'RUK!GATES OF AWAKENING!1.X000!DESCRIPTION!}
@@ -1603,7 +1603,7 @@ to mindscape
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!0.1003!DESCRIPTION!]
 		||
-		*And in an instant, time flattens so that it is entirely visible from Eidos' vantage point, as if a sphere looked upon its flat reflection in a mirror. She sees it begin and end at the Red Tower, the endless spiral of existence, racing away from its origin by racing toward it.*
+		*And in an instant, time flattens so that it is entirely visible from Eidos' vantage point, as if a sphere looked upon its flat reflection in a mirror. She sees it begin and end at the Red Tower beyond those ghostly walls before her, the endless spiral of existence, racing away from its origin by racing toward it.*
 		(A#...){A:0,KABU!UR'RUK!GATES OF AWAKENING!0.1004!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!0.1003!DESCRIPTION!/]
 
@@ -1692,9 +1692,9 @@ will take you to the beginning of one of the other 5 books
 
 	[/KABU!UR'RUK!GATES OF AWAKENING!1.000!DESCRIPTION!]
 		||
-		*Eidos is soon enveloped by the shadow of cyclopean walls. These walls stand in stark contrast to the broken buildings they surround, for they are in pristine condition. No gaps, nor joints divide the surface, giving the impression that the walls were pulled up from the very ground they now stand upon, pinched into position by some godly hand. The stone is enmeshed throughout by twisting bands of shimmering metal. These steel bands are as the outlined scales of a gargantuan beast, girding an inner skin of stone.
+		*Eidos is soon enveloped by the shadow of cyclopean walls. These walls stand in stark contrast to the broken buildings they protect, for they are in pristine condition. No gaps, nor joints divide the surface, giving the impression that the walls were pulled up from the very ground they now stand upon, pinched into position by some godly hand. The surface is enmeshed throughout by twisting bands of shimmering metal, the outlined scales of a gargantuan beast, girding an inner skin of stone.
 		
-		The walls, however, are in alliance with a rather unlikely bedfellow. The sole opening in them is guarded by a makeshift gate that seals the entry portal to the city. The gate is as dissimilar to the walls as a Sentry is to a Warbeast. Like a cotton patch on a silk dress.*
+		The walls, however, are in alliance with a rather unlikely bedfellow. The sole opening in them is guarded by a makeshift gate that seals the entry portal to the city. The gate is as dissimilar to the walls as a Sentry is to a Warbeast. Like a buralp patch on a silk dress.*
 		(A#Go back to the Wasteland){A:0,KABU!WASTELAND!CRATER'S EDGE!10.X000!DESCRIPTION!}
 		(B#Call out){B:0,KABU!UR'RUK!GATES OF AWAKENING!1.001!DESCRIPTION!}
 	[KABU!UR'RUK!GATES OF AWAKENING!1.000!DESCRIPTION!/]
@@ -2563,7 +2563,7 @@ HALL OF VANARGAND
 virgin entrance
 	[/KABU!UR'RUK!HALL OF VANARGAND!1.000!DESCRIPTION!]
 		||
-		*The makeshift gate closing behind her, Eidos now finds herself in a space that dwarfs its entrance by comparison. A domed ceiling arcs overhead. Its fading blue color gives the impression of a fabricated sky, complete with clouds and birds in flight. Dully shining crystalline sconces adorn the walls, and work hard to chase away the shadows.
+		*The makeshift gate closing behind her, Eidos now finds herself in a space that dwarfs its entrance by comparison. A domed ceiling arcs overhead, its fading blue color giving the impression of a fabricated sky, complete with clouds and birds in flight. Dully shining crystalline sconces adorn the walls, and work hard to chase away the shadows.
 		
 		Some stubborn darkness yet remains, however, and countless statues now stare at her from their shadowy alcoves. Irreparably scarred from their war with time, all of the carvings are now faceless and most seem little more than amorphous stone pillars. A number of sharp edges hint at the angular and idealized forms they were born with, but whatever artistry or feeling they may have once been imbued with has long since been devoured by the city's ruin.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!1.X001!DESCRIPTION!}
@@ -2571,9 +2571,9 @@ virgin entrance
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!1.X001!DESCRIPTION!]
 		|@:KABU!UR'RUK!HALL OF VANARGAND!0.X000!DESCRIPTION!|
-		*Standing along the edges of the hall, in imitation of the statues behind them, is a cadre of men. Their crudely cobbled cudgels impart the sense that they are guardians, though their bearing belies their inexperience. Likewise mirroring the stones they seek to mimic is the deathly pallor of their skin – a pallor with which she is now most personally acquainted.
+		*Nearly invisible at first, she soon detects the first signs of life, for standing along the edges of the hall, in imitation of the statues behind them, is a cadre of men. Their crudely cobbled cudgels impart the sense that they are guardians, though their bearing belies their inexperience. Likewise mirroring the stones they seek to mimic is the deathly pallor of their skin – a pallor with which she is now most personally acquainted.
 		
-		A granite table stands as the centerpiece of the hall - though it appears to be entirely ceremonial, as there are none sitting at it save a stately lady gazing down upon Eidos from an elevated chair. At her side, a lone attendant kneels.
+		A granite table stands as the centerpiece of the hall - though it appears to be entirely ceremonial, as there are none sitting at it save a stately lady gazing down upon Eidos from on high. At her side, a lone attendant kneels.
 		
 		The leader beckons Eidos, firmly and matronly, without bothering to rise from her chair.*
 		(A#...){A:0,KABU!UR'RUK!HALL OF VANARGAND!9999.X0600!DESCRIPTION!}
@@ -2665,7 +2665,7 @@ HAZANNA
 
 	[/KABU!UR'RUK!HALL OF VANARGAND!0.002!HAZANNA!]
 		||	
-		*"If you stay, you will assimilate, or you will depart immediately and be one with Wasteland. Which do you choose?"*
+		*"If you stay, you will assimilate. Or you will depart immediately and be one with Wasteland. Which do you choose?"*
 		(A#"I wish to know more about your people."){A:1,KABU!UR'RUK!HALL OF VANARGAND!0.100!HAZANNA!}
 		(B#"I won't make a decision in haste."){B:1,KABU!UR'RUK!HALL OF VANARGAND!0.200!HAZANNA!}
 		(C#"If you command me to leave I will, else, I'll stay."){C:1,KABU!UR'RUK!HALL OF VANARGAND!0.300!HAZANNA!}
