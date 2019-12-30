@@ -937,7 +937,7 @@ EMERALD FONT
 >>>Spoke w/ Radan (16025)<<<
 	[/KABU!UR'RUK!EMERALD FONT!0.X000!DESCRIPTION!]
 		|^16025:KABU!UR'RUK!EMERALD FONT!0.050!DESCRIPTION!|
-		*Eidos steps into the decaying shell of a once proud structure. The gray light of the cloudless Wasteland sky filters through gaping holes in a high-vaulted ceiling, illuminating motes of dust that float through the air at glacial speeds.
+		*Eidos steps into the decaying shell of a once proud structure. Gray light from the cloudless Wasteland sky filters through gaping holes in the scant remains of a high-vaulted ceiling. These meager rays illuminate motes of dust as they float through the air at glacial speeds.
 		
 		It looks as though this place may once have mirrored the Hall of Vanargand, as it is similarly festooned with alcoves for statues. However, the statues within are completely unrecognizable, having been rendered into nothing but misshapen stumps of rock.*
 		(A#...){A:0,KABU!UR'RUK!EMERALD FONT!0.001!DESCRIPTION!}
@@ -945,13 +945,13 @@ EMERALD FONT
 
 	[/KABU!UR'RUK!EMERALD FONT!0.001!DESCRIPTION!]
 		||
-		*Prominent among the drab surroundings, a shimmering, emerald-green fountain stretches several stories high. Its sheen suggests metallic construction, but its resilience and lack of corrosion defies this conclusion. Rather, it looks to be cut from dimly luminescent jade and sculpted into the shape of some leafy, unfolding plant, caught between the worlds of nature and artifice. A small trickle of coppery water flows from its blossoms into a wide but shallow pool at its base.*
+		*Prominent among the drab surroundings, a shimmering, emerald-green fountain stretches several stories high. Its sheen suggests a metallic construction, but its resilience and lack of corrosion defy this conclusion. Rather, it looks to be cut from dimly luminescent jade and sculpted into the shape of some leafy, unfolding plant, caught between the worlds of nature and artifice. A small stream of coppery water trickles from its blossoms, staining the fountain's surface.*
 		(A#...){A:0,KABU!UR'RUK!EMERALD FONT!0.002!DESCRIPTION!}
 	[KABU!UR'RUK!EMERALD FONT!0.001!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.002!DESCRIPTION!]
 		||
-		*Her eyes follow this trickling water down to its destination. To her surprise, this visual excursion brings her to the elderly man sitting at the fountain’s edge, just in front of the coppery flow. In this room of fossilized inanimation, he seems almost an intruder, soon to be swept aside by the tide of oblivion—or if not, then assimilated into it.*
+		*Her eyes follow this sullied flow down to a wide yet shallow pool where its journey ends. To her surprise, this visual excursion likewise brings her to the elderly man sitting at the fountain’s edge, not too distant from the coppery flow. In this room of fossilized inanimation, he seems almost an intruder, soon to be swept aside by the tide of oblivion - or if not, then assimilated into it.*
 		(A#Talk to old man){A:0,KABU!UR'RUK!EMERALD FONT!1.X000!DESCRIPTION!}
 		(B#Examine the room){B:0,KABU!UR'RUK!EMERALD FONT!0.010!DESCRIPTION!}
 		(C#Leave){C:0,KABU!UR'RUK!EMERALD FONT!0.500!DESCRIPTION!}
@@ -1016,13 +1016,13 @@ Returned
 convo w/ Radan
 	[/KABU!UR'RUK!EMERALD FONT!1.X000!DESCRIPTION!]
 		|@:KABU!UR'RUK!EMERALD FONT!1.X001!DESCRIPTION!|
-		*As Eidos approaches the elderly man, he continues to stare off absently into space, yet it is clear he is aware of Eidos as he bends his ear in her direction.*
+		*As Eidos approaches the elderly man, he continues to stare off absently into space; yet he is clearly aware of her, as he bends his ear in her direction.*
 		(A#...){A:0,KABU!UR'RUK!EMERALD FONT!9999.X0605!DESCRIPTION!}
 	[KABU!UR'RUK!EMERALD FONT!1.X000!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!1.X001!DESCRIPTION!]
 		|@:KABU!UR'RUK!EMERALD FONT!1.900!DESCRIPTION!|
-		*Never facing her, the old man makes his demands. He has clearly been robbed of vision and for quite some time, given the naturalness with which he has replaced sight with sound.*
+		*Never facing her, the old man makes his demands. He has clearly been robbed of the light - and for quite some time at that, given the naturalness with which he has replaced sight with sound.*
 		(A#...){A:0,KABU!UR'RUK!EMERALD FONT!9999.X0605!DESCRIPTION!}
 	[KABU!UR'RUK!EMERALD FONT!1.X001!DESCRIPTION!/]
 
@@ -1107,7 +1107,7 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.001!RADAN!]
 		||
-		*"Well, now, foreigner, are you here to talk or to stare?"*
+		*"No plans to speak, foreigner? Just here to stare, are you?"*
 		(A#"Hello, I'm Eidos. A pleasure to make your acquaintance."){A:1,KABU!UR'RUK!EMERALD FONT!0.100!RADAN!}
 		(B#"My name is Eidos, but how did you know I was a foreigner?"){B:1,KABU!UR'RUK!EMERALD FONT!0.200!RADAN!}
 		(C#"..."){C:1,KABU!UR'RUK!EMERALD FONT!0.X300!RADAN!}
@@ -1234,7 +1234,7 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.102!RADAN!]
 		||
-		*"Thank you. None wish to be forgotten and I'm no exception."*
+		*"Thank you. None wish to be forgotten - not even us sinners."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1020!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.102!RADAN!/]
 	
@@ -1272,13 +1272,13 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.104!RADAN!]
 		||
-		*"After expulsion from our homes, we braved the journey through the Salt Forest with the aid of our Tacribian allies."*
+		*"Branded Unseen and expelled from our birthplace, we braved the journey through the Salt Forest with the aid of our Tacribian allies. The scant few who survived crawled their way here to Ur’Ruk."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1040!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.104!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1040!RADAN!]
 		||
-		*"Here we established a microcosm of the Biraculian system used since times immemorial and established a civilized society as best we could."*
+		*"Here we sought to establish a microcosm of the Biraculian system used since times immemorial and to establish a civilized society as best we could."*
 		(A#"..."){A:1,KABU!UR'RUK!EMERALD FONT!0.105!RADAN!}
 		(D#"I see why no one wants to listen; I now count myself among their numbers."){D:1,KABU!UR'RUK!EMERALD FONT!0.X501!RADAN!}
 		(E#"Your tale bores me; none will remember you."){E:1,KABU!UR'RUK!EMERALD FONT!0.X501!RADAN!}
@@ -1292,31 +1292,31 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1050!RADAN!]
 		||
-		*"When we arrived, he had already taken residence in the Red Tower."*
+		*"When we arrived, he had already taken residence in the Red Tower..."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.106!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1050!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.106!RADAN!]
 		||
-		*"But of all the exiled, I alone saw the inside and live to tell the tale."*
+		*"It was a vile den - one that I alone saw the inside of and live to tell."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1060!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.106!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1060!RADAN!]
 		||
-		*"Ormenos became obsessed with immortality and had been experimenting on draugnir prior to our arrival."*
+		*"Ormenos had become obsessed with immortality and had been experimenting on draugnir prior to our arrival."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1061!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1060!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1061!RADAN!]
 		||
-		*"Only Biracul could fathom how he managed to secure so many live draugnir to perform his questionable experiments on."*
+		*"Though, only Biracul knows how he managed to secure so many 'fresh' ones to perform his questionable experiments on."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.107!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1061!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.107!RADAN!]
 		||
-		*"Now I should mention that he took me on as an apprentice when he realized I had an inquisitive mind and a skillful hand."*
+		*"Now, I should mention that he took me on as an apprentice when he realized I had an inquisitive mind and a skillful hand."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1070!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.107!RADAN!/]
 
@@ -1330,55 +1330,61 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.108!RADAN!]
 		||
-		*"I learned so much from him. Oh, what blissful days those were. But all festivals must end."*
+		*"Oh, the wonders he showed me! Myriad tomes transcribed by the ghostly quills he had floating and bobbing through use of some obscure Techne... And the thousandfold secrets each tome held between its leathery covers!"*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1080!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.108!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1080!RADAN!]
 		||
-		*"By then, he had metamorphosed completely into a draug - physically, that is - yet by some miracle had maintained his own will."*
-		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1081!RADAN!}
+		*"What blissful days those were. But all festivals end."*
+		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.10800!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1080!RADAN!/]
+
+	[/KABU!UR'RUK!EMERALD FONT!0.10800!RADAN!]
+		||
+		*"Two years elapsed, and soon Ormenos stopped appearing among us. I alone bore witness to his hideous transformation into a draug - physically, that is - for by some miracle he had maintained his own will."*
+		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1081!RADAN!}
+	[KABU!UR'RUK!EMERALD FONT!0.10800!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1081!RADAN!]
 		||
-		*"He was convinced that he had reached the limits of his experiments with draugnir and had grown dissatisfied."*
+		*"He was convinced that he had reached the limits of his experiments with draugnir and had grown dissatisfied with his specimens, seeking to explore options he had to that point ignored."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1082!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1081!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1082!RADAN!]
 		||
-		*"And that's when he decided to continue his experiments using humans instead..."*
+		*"He decided to continue his experiments using humans instead..."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.109!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1082!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.109!RADAN!]
 		||
-		*"He took the first of his subjects surreptitiously - a beautiful young girl named Arkana."*
+		*"He took the first of his subjects in the deep of the night - a beautiful young girl named Arkana."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1090!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.109!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1090!RADAN!]
 		||
-		*"We awoke that morning to find her bed empty, no trace of a struggle, in fact the bed was neatly made. Of course, we all wondered what could've happened to her, but by sunset all we knew was that she'd utterly vanished."*
+		*"We awoke to find her bed empty, no trace of a struggle - in fact it was neatly made, even. All wondered what could've happened to her, and set out to scour the ruins immediately. But by sunset all we knew was that she'd utterly vanished."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1091!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1090!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1091!RADAN!]
 		||
-		*"That afternoon, after completing my duties in the greenhouse, I went to Ormenos' workshop as usual."*
+		*"The following afternoon, after completing my duties in the greenhouse, I went to Ormenos' workshop as usual."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.110!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1091!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.110!RADAN!]
 		||
-		*"But it had a new addition: a porcelain-skinned cadaver with the face carefully torn open, making it impossible to identify."*
+		*"But it had a new addition: a porcelain-skinned cadaver with the face's skin carefully peeled open."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1100!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.110!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1100!RADAN!]
 		||
-		*"The only thing I could tell for certain was that it wasn't a draugnir. Not simply because of the skin, but also because of the rust-colored blood that stained it."*
+		*"The only thing I could tell for certain was that it wasn’t a draugnir - because of the rust-colored stains."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1101!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1100!RADAN!/]
 
@@ -1392,19 +1398,19 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.111!RADAN!]
 		||
-		*"Then another tell-tale sign revealed itself when the new corpses began to rot, because, Eidos, draugnir corpses never rot."*
+		*"Then another tell-tale sign revealed itself when the new corpses began to rot. In the two years prior, I’d never seen a draugnir corpse rot."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1110!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.111!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1110!RADAN!]
 		||
-		*"So, Ormenos asked me to dispose of them in the Cess Pit over on the other side of this very fountain. And I obliged. I did so because I refused to see what reason so clearly confirmed."*
+		*"So, Ormenos asked me to dispose of them in the cess pit - the one over on there, on the other side of this very fountain. And I obliged. I did so because emotion blinded me to reason."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1111!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1110!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1111!RADAN!]
 		||
-		*"This happened on several occasions and terror gripped the citizens. They could only wonder who'd next be spirited away."*
+		*"This happened on several occasions and terror gripped my siblings in exile. They could only wonder who'd next be spirited away."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.112!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1111!RADAN!/]
 
@@ -1440,7 +1446,7 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.113!RADAN!]
 		||
-		*"We desperately tried to communicate with them, but they had no ears to listen, no eyes to see us. We were invisible, unseen."*
+		*"We desperately tried to communicate with them, but they had no ears to hear us, no eyes to see us. We were invisible, unseen."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1130!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.113!RADAN!/]
 
@@ -1452,13 +1458,13 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1131!RADAN!]
 		||
-		*"Whatever they were, though, they were clearly not human. Our transformation as Unseen was absolute and rendered us invisible to their Truesight."*
+		*"Whatever they were, though, they were clearly not human. Our transformation as Unseen was absolute; we were invisible to their Truesight."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.114!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1131!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.114!RADAN!]
 		||
-		*"One other oddity was how they navigated the city as though it were their very own house."*
+		*"One other oddity was how they navigated the city as though it were their home."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1140!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.114!RADAN!/]
 
@@ -1502,19 +1508,19 @@ RADAN
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1152!RADAN!]
 		||
-		*"I don't know why I never said anything. Maybe I just couldn't believe a man that in love with knowledge could be evil. I don't know."*
+		*"I don't know why I never said anything... No, I think I know exactly why. I just couldn’t believe a man that in love with knowledge could be evil."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.116!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1152!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.116!RADAN!]
 		||
-		*"But since that day, none here have had ears nor eyes for old Radan. I'm just a pariah, even among pariah."*
+		*"But since that day, none here have had ears nor eyes for old Radan. I'm just an Unseen, even among Unseen."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1160!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.116!RADAN!/]
 
 	[/KABU!UR'RUK!EMERALD FONT!0.1160!RADAN!]
 		||
-		*"I just wait here by the Cess Pit for the day I've the courage to cast myself in as I did with so many of my friends."*
+		*"I just sit here near the cess pit, waiting for the day I've the courage to cast myself in as I did with so many of my friends."*
 		(A#"..."){A:0,KABU!UR'RUK!EMERALD FONT!0.1161!RADAN!}
 	[KABU!UR'RUK!EMERALD FONT!0.1160!RADAN!/]
 
