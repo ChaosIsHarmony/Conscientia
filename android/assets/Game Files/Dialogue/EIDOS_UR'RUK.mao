@@ -3483,7 +3483,7 @@ virgin entrance
 raced twins
 	[/KABU!UR'RUK!LIVING QUARTERS!1.X500!DESCRIPTION!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.X000!DESCRIPTION!|
-		*Eidos dashes with all her might to the end of the hall, blasting past the two boys and leaving them to choke on her trail of desert dust.*
+		*Eidos dashes with all her might to the end of the square, blasting past the two boys and leaving them to choke on her trail of desert dust.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!DESCRIPTION!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.X500!DESCRIPTION!/]
 
@@ -3613,7 +3613,7 @@ ARKASH & BIRARKUL
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X001!ARKASH!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.002!ARKASH!|
-		*"Yeah, we've got green hair!"*
+		*"Yeah, green hair!"*
 		(A#"Do you like the color green?"){A:1,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!ARKASH!}
 		(B#"But you're unskilled conversationalists."){B:1,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!ARKASH!}
 		(C#"..."){C:1,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!ARKASH!}
@@ -3636,7 +3636,7 @@ ARKASH & BIRARKUL
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.002!ARKASH!]
 		||
-		*"Last one to the end of the hall is a jinnslave!"*
+		*"Last one to the end of the square is a jinnslave!"*
 		(A#"Play safely, boys! And have fun!"){A:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
 		(B#"Note to self, avoid talking to children."){B:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
 		(C#"..."){C:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
@@ -3655,7 +3655,7 @@ ARKASH & BIRARKUL
 race twins
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X003!BIRARKUL!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.004!BIRARKUL!|
-		*"Gee, lady! You're faster than you look! But you still can't play with us, because mom says outsiders hate us Unseen."*
+		*"Gee, lady! You're faster than you look! But you still can't play with us, because mom says outsiders hate us."*
 		(F#"We are all the children of Roostor, my dear boy!"){F:1,KABU!UR'RUK!LIVING QUARTERS!9999.X0603!BIRARKUL!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.X003!BIRARKUL!/]
 
