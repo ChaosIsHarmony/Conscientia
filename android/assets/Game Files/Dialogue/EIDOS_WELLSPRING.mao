@@ -5338,7 +5338,7 @@ Eidos Solo
 >>>Acquire Glyph of Purification (11100)<<<	
 	[/KABU!WELLSPRING!THRONE ROOM!1.X001!FATHOM!]
 		|^11100:KABU!WELLSPRING!THRONE ROOM!1.0011!FATHOM!|
-		*"Within the waters death lives. A memory, penned by Glyphs of Wulfias and Corruption. To save life, the water flow I stemmed. All Arclights and Clockwork Crows are awakened. Further harm halted."*
+		*"Within the waters death lives. A memory, penned by Glyphs of Wulfias and Corruption. To save life, the water flow I stemmed. All guardians are awakened. Further harm halted."*
 		(A#Release the water){A:0,KABU!WELLSPRING!THRONE ROOM!9990.X11414-3!FATHOM!}
 		(B#Rise from the throne){B:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!1.X001!FATHOM!/]
@@ -5416,7 +5416,7 @@ Eidos w/ Quangjo
 >>>Learned tongues glyph (12303)<<<
 	[/KABU!WELLSPRING!THRONE ROOM!10.X0000!FATHOM!]
 		|^12303:KABU!WELLSPRING!THRONE ROOM!10.000!FATHOM!|
-		*"Nole Vadhom. Puhuja Velsprin Memri."*
+		*"onVadhomdheishohWellspringvatohzha. onWulfiaskuArchonohreckish."*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!10.X001!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!10.X0000!FATHOM!/]
 
@@ -5428,20 +5428,20 @@ Eidos w/ Quangjo
 
 	[/KABU!WELLSPRING!THRONE ROOM!10.X001!FATHOM!]
 		|@:KABU!WELLSPRING!THRONE ROOM!14.000!FATHOM!|
-		*"Neded assaan on nutnutlikaa, metvastoit jovat laanpakai lazuojel virtausulo."*
+		*"onmordhohspirishshuiohrrai. onvadohkaisaulgrrifbozWulfiasuiCorroeohlaikish. ultomaluishtorra'spirohgulgaish. onfuogulgaohboznashdormish. onitamohtomaluish."*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X0069!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!10.X001!FATHOM!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!11.X001!FATHOM!]
 		|@:KABU!WELLSPRING!THRONE ROOM!14.001!FATHOM!|
-		*"Within the waters death lives. A memory, penned by Glyphs of Wulfias and Corruption. To save life, the water flow I stemmed. All Arclights and Clockwork Crows are awakened. Further harm halted."*
+		*"Within the waters death lives. A memory, penned by Glyphs of Wulfias and Corruption. To save life, the water flow I stemmed. All guardians are awakened. Further harm halted."*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X0069!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!11.X001!FATHOM!/]
 
 
 	[/KABU!WELLSPRING!THRONE ROOM!14.000!FATHOM!]
 		||
-		*"Nole Gulgna. Pavauta tumin minut thralldom."*
+		*"onGulgannawapishporrtohatrras. tashibporrtohdhakaish."*
 		(A#Rise from throne){A:0,KABU!WELLSPRING!THRONE ROOM!9999.X9999!FATHOM!}
 		(B#Send forth an unknown command){B:0,KABU!WELLSPRING!THRONE ROOM!9990.X11412-1!FATHOM!}
 	[KABU!WELLSPRING!THRONE ROOM!14.000!FATHOM!/]
@@ -5459,7 +5459,7 @@ QUANGJO
 >>>Quangjo is ordered to do nothing (11411)<<<
 	[/KABU!WELLSPRING!THRONE ROOM!10.X000!QUANGJO!]
 		|^11411:KABU!WELLSPRING!THRONE ROOM!10.0012!QUANGJO!|
-		*"Listen, Khaa! The Wellspring speaks to us, yes..."*
+		*"Listen, Master Khaa! The Wellspring speaks to us, yes..."*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!10.0000!QUANGJO!}
 	[KABU!WELLSPRING!THRONE ROOM!10.X000!QUANGJO!/]
 
@@ -5489,13 +5489,13 @@ QUANGJO
 
 	[/KABU!WELLSPRING!THRONE ROOM!10.0011!QUANGJO!]
 		||
-		*"Now Khaa, our work is clear. I must use the Glyph of Purification and atone for the wrongs we've committed..."*
+		*"Now mage-leader, our work is clear. I must use the Glyph of Purification and atone for the wrongs we've committed..."*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!10.X1000!QUANGJO!}
 	[KABU!WELLSPRING!THRONE ROOM!10.0011!QUANGJO!/]
 
 	[/KABU!WELLSPRING!THRONE ROOM!10.0012!QUANGJO!]
 		||
-		*"Listen, Khaa! The Wellspring speaks to us."*
+		*"Listen, Master Khaa! The Wellspring speaks to us."*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!10.0013!QUANGJO!}
 	[KABU!WELLSPRING!THRONE ROOM!10.0012!QUANGJO!/]
 
@@ -5525,7 +5525,7 @@ QUANGJO
 
 	[/KABU!WELLSPRING!THRONE ROOM!10.0017!QUANGJO!]
 		||
-		*"Now Khaa, our work is clear. I must use the Glyph of Purification and atone for the wrongs we've committed..."*
+		*"Now mage-leader, our work is clear. I must use the Glyph of Purification and atone for the wrongs we've committed..."*
 		(A#"I will allow it."){A:1,KABU!WELLSPRING!THRONE ROOM!9990.X11409!QUANGJO!}
 		(E#"I will not allow it."){E:1,KABU!WELLSPRING!THRONE ROOM!9990.X11410!QUANGJO!}
 	[KABU!WELLSPRING!THRONE ROOM!10.0017!QUANGJO!/]
@@ -5572,7 +5572,7 @@ QUANGJO
 
 	[/KABU!WELLSPRING!THRONE ROOM!10.5002!QUANGJO!]
 		||
-		*"Forgive me, Khaa. Mmm, I can't wait another lifetime for you to walk the Path of Awareness..."*
+		*"Forgive me, Master Khaa. Mmm, I can't wait another lifetime for you to walk the Path of Awareness..."*
 		(A#"..."){A:0,KABU!WELLSPRING!THRONE ROOM!10.5003!QUANGJO!}
 	[KABU!WELLSPRING!THRONE ROOM!10.5002!QUANGJO!/]
 

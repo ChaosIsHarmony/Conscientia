@@ -3071,14 +3071,14 @@ FENNY
 		*"Yet I do. Ever stalking this wood for my final prey, yet no satisfaction with an unseen prey can I find."*
 		(B#"How did you speak to me when we met in the Sanctuary?"){B:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 		(C#"I wish to return to my own world."){C:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
-		(D#"Yet you can leave at will."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(D#"But you can leave at will..."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X300!FENRIR!/]
 
 	[/MIND!MINDSCAPE!MISTY WOOD!0.X400!FENRIR!]
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!|
 		*"Ever stalking this wood for my final prey, yet no satisfaction with an unseen prey can I find."*
 		(C#"I wish to return to my own world."){C:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
-		(D#"Yet you can leave at will."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(D#"But you can leave at will..."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 		(E#"Hunting is not all you do... You also spy on me, I see."){E:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X400!FENRIR!/]
 
@@ -3086,7 +3086,7 @@ FENNY
 		|@:MIND!MINDSCAPE!MISTY WOOD!1.000!FENRIR!|
 		*"Does you the shape of your companion displease? In me a mere beast you see. Perhaps I may be, though within the Graylands dwells the final prey I stalk."*
 		(A#"I had felt myself alone since first awakening."){A:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
-		(D#"Yet you can leave at will."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
+		(D#"But you can leave at will..."){D:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 		(E#"How is it you spy on me?"){E:1,MIND!MINDSCAPE!MISTY WOOD!9999.X9999!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!0.X500!FENRIR!/]
 
@@ -3136,7 +3136,7 @@ FENNY
 
 	[/MIND!MINDSCAPE!MISTY WOOD!1.201!FENRIR!]
 		||
-		*"Here I abided long before you aware became."*
+		*"Here I abided long before your awareness woke."*
 		(A#"..."){A:0,MIND!MINDSCAPE!MISTY WOOD!1.X202!FENRIR!}
 	[MIND!MINDSCAPE!MISTY WOOD!1.201!FENRIR!/]
 

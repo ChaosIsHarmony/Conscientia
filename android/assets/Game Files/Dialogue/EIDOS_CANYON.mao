@@ -1618,7 +1618,7 @@ Ark reborn
 
 	[/KABU!CANYON!VALLEY OF BONES!77.X500!ASSALA!]
 		|@:KABU!CANYON!VALLEY OF BONES!77.X900!ASSALA!|
-		*"I will never call a Kharrloving outlander like you master! Now my spear demands an apology, fool!"*
+		*"I will never call a Kharrloving outlander like you master! Now my spear demands an apology!"*
 		(A#Draw Luin){A:0,KABU!CANYON!VALLEY OF BONES!9999.X9999!ASSALA!}	
 	[KABU!CANYON!VALLEY OF BONES!77.X500!ASSALA!/]
 
@@ -1630,7 +1630,7 @@ Ark reborn
 	
 	[/KABU!CANYON!VALLEY OF BONES!77.X900!ASSALA!]
 		|@:KABU!CANYON!VALLEY OF BONES!77.902!ASSALA!|
-		*"Then... the day has finally come... Archmage Ark, you have returned!"*
+		*"Then... the day has finally come... Archmage Ark, you have returned to us!"*
 		(A#"..."){A:0,KABU!CANYON!VALLEY OF BONES!9999.X0403!ASSALA!}	
 	[KABU!CANYON!VALLEY OF BONES!77.X900!ASSALA!/]	
 	

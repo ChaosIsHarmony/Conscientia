@@ -6163,7 +6163,7 @@ DYSMAS
 
 	[/KABU!DAZIR!GATES OF DAZIR!0.601!DYSMAS!]
 		||
-		*"Well, uh... Stalphos... it has certainly been a most 'peculiar' pleasure to make you acquaintance..."*
+		*"Well, uh... Stalphos... it has certainly been a most 'peculiar' pleasure to make your acquaintance..."*
 		(A#"..."){A:0,KABU!DAZIR!GATES OF DAZIR!0.6010!DYSMAS!}
 	[KABU!DAZIR!GATES OF DAZIR!0.601!DYSMAS!/]
 	

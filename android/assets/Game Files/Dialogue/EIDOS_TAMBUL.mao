@@ -3032,7 +3032,7 @@ NIYOOSH
 	[/KABU!TAMBUL!ATRIUM!0.6020!NIYOOSH!]
 		||
 		*"Well, your story certainly is interestin', and I'd be a ruby-tongued liar if I didn't share somethin' equally useful with you!"*
-		(F#"Don't stick you tongue in weird places! I learned that the hard way..."){F:1,KABU!TAMBUL!ATRIUM!0.6021!NIYOOSH!}
+		(F#"Don't stick your tongue in weird places! I learned that the hard way..."){F:1,KABU!TAMBUL!ATRIUM!0.6021!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.6020!NIYOOSH!/]
 	
 	[/KABU!TAMBUL!ATRIUM!0.6021!NIYOOSH!]
@@ -3049,7 +3049,7 @@ NIYOOSH
 
 	[/KABU!TAMBUL!ATRIUM!0.603!NIYOOSH!]
 		||
-		*"Ha ha! Biracul's beard, can you stay in character! Probably the best actress I've ever seen!"*
+		*"Ha ha! Biracul's beard, can you stay in character or what! Probably the best actress I've ever seen!"*
         (A#"..."){A:0,KABU!TAMBUL!ATRIUM!0.6030!NIYOOSH!}
 	[KABU!TAMBUL!ATRIUM!0.603!NIYOOSH!/]
 
@@ -5587,7 +5587,7 @@ virgin entrance
 	
 	[/KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!]
 		||
-		*Then, through the heat-born distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking the tips their roofs above the walls. The blinding spire Eidos chases juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
+		*Then, through the heat-born distortions clawing their way skyward, she spots a massive bulwark rising up from the ground. Hundreds of buildings hide behind these walls, shyly poking the tips their roofs above the ramparts. The blinding spire Eidos chases juts up near the fortress' seam with the canyon's edge; and beyond it, spanning the canyon, is a massive bridge that looks to be floating midair.*
 		(A#...){A:0,KABU!TAMBUL!GATES OF TAMBUL!0.X0002!DESCRIPTION!}
 	[KABU!TAMBUL!GATES OF TAMBUL!0.0001!DESCRIPTION!/]
 

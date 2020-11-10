@@ -33,8 +33,8 @@ TECHNICAL
 Programming by
 Eliot Corley
 
-Framework - LibGDX 
-http://libgdx.badlogicgames.com/
+Made in the Godot Game Engine
+https://godotengine.org/
 
 _______________________________________
 VISUAL
@@ -45,12 +45,8 @@ By Jove
 http://www.ulvhird.com
 
 OpenGameArt
-Pointers: part 5
-By yd
 Leather Black
 By Duion
-Flare Item Variation (60x60 Only)
-By Mumu
 4 Summoning Circles
 By Luke.RUSTLTD
 All modified by Eliot Corley
@@ -198,8 +194,7 @@ D.B.
 	
 
 GIMP
-LibGDX
-Eclipse
+Godot
 LMMS
 OpenGameArt.org
 

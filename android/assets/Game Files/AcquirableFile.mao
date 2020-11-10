@@ -236,7 +236,7 @@ _________TOMES_________
 	
 	Far across the Wasteland is the city of Ur'Ruk. The home of the Vanquished. There you will see temples to the Old Gods. But they are not temples of wood and stone. They are temples of nothingness. Only while standing in the grip of the void can one see the Self. All things distract from it. The Glyphs communicate thought, but thought is not the Self. For think about what defines a tome moreso than the medium that bears it. Gaze at a mirror, not into it; do not be deceived by the illusions of the Self that it shows upon its face. Look at the mirror itself and see that it remains unchanged by that which it reflects.
 	
-	Do not be misled by the the revelations of a false wisdom. For the the Self is not fed through the fire of the mind but rather by its smoke; unknown to us, the fire has already long since extinguished.#
+	Do not be misled by the revelations of a false wisdom. For the Self is not fed through the fire of the mind but rather by its smoke; unknown to us, the fire has already long since extinguished.#
 [53/]
 
 [/54]
@@ -343,7 +343,7 @@ _________TOMES_________
 	$Tomes/Tome.jpg$
 	#For this journey, my Jeran companion and I into the north ranged, of the fabled land of Thiuda in search. That this civilization once existed I was by adventures in my own native land already convinced. My time in the cultures of Jer acquainting spent, I thought prepared for whatever barbarity might us await. Here my account of the Desolation of the Heathen is. 
 	
-	To you I of the magi tell that their folk as slaves command, and of the townships that each other fight, like wild dogs for meat. I will you terrify with tales of eyeless child slave shamans, their foreheads with the the Emerald Architect's wretched Script carved and black speech defiling the Vanquished mouthing.
+	To you I of the magi tell that their folk as slaves command, and of the townships that each other fight, like wild dogs for meat. I will you terrify with tales of eyeless child slave shamans, their foreheads with the Emerald Architect's wretched Script carved and black speech defiling the Vanquished mouthing.
 	
 	You will silenced be by my search for the cave to the Graylands leading and my near death at the pale hands of Nifelheim, monsters womanly in body with the minds of ageless serpent-wolves. You will me beg cease before the horror of the sacrifices to rust-covered Hamlik is told: their blood and water and the doom it spells for Dazir in far off Kabu. All of these I shall, in the sight of Biracul, relate.#
 [59/]

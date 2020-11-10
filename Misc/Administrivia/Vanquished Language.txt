@@ -1,7 +1,5 @@
 VANQUISHED LANGUAGE
 
-
-
 BASICS
 	- Phonetics
 		- Voiced: l, b, m, n, v, z, zh (azure), d, dh (that), rr (perro), j, w, g
