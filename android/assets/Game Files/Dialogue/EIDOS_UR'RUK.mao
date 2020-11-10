@@ -3460,19 +3460,21 @@ LIVING QUARTERS
 virgin entrance
 	[/KABU!UR'RUK!LIVING QUARTERS!1.000!DESCRIPTION!]
 		||
-		*Eidos steps into the dusty streets of Ur'Ruk. Many of the large, monolithic paving slabs have been shattered by some long-forgotten cataclysm, their great width indicating that these roads once conducted the transit of great numbers of folk, animals or vehicles of some sort. Now it is populated by only a scant few souls walking about a residence area up ahead.*
+		*Eidos steps into the dusty streets of Ur'Ruk. Many of the large, monolithic paving slabs have been shattered by some long-forgotten cataclysm, the road they form stretching out indefinitely before her. Myriad broken buildings lining the road hint at a bustling and crowded city - or rather the memory thereof. Now the city is populated by only a scant few souls, some of whom seem to haunt a residential area up ahead.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!1.001!DESCRIPTION!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.000!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.001!DESCRIPTION!]
 		||
-		*Lining the streets are unrecognizable piles of stone rubble, gleaming with countless shards of sundered glass and crystal. But one structure can still be seen unaffected by waste and ruin: a blood-red spire. Though the dusty haze of the city corrupts her view, this crimson tower stands resolute and whole, like a watchful guard over a forlorn graveyard.*
+		*The buildings along the streets are motley piles of stone rubble, gleaming with countless shards of sundered glass and fractured crystal. Not a liveable building among them. But one structure, a mighty, blood-red spire far off in the distance, miraculously remains unaffected by the waste and ruin plaguing Ur'Ruk. Though the dusty haze of the city corrupts her view, the untouched crimson tower stands resolute and whole, like a watchful guard over a forlorn graveyard.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!1.X002!DESCRIPTION!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.001!DESCRIPTION!/]
 
 	[/KABU!UR'RUK!LIVING QUARTERS!1.X002!DESCRIPTION!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.X000!DESCRIPTION!|
-		*Not too far along the path, Eidos spies an area where much of the rubble has been cleared away to give rise to ramshackle living structures, which appear to house all of the citizens of Ur'Ruk. The building appears stable enough, its giant domed roof intact. Eidos enters and scans the area, noticing that only the exceedingly old and the truly young seem to be present at the moment. Of greater note, though, is that no walls exist to neatly divide the living spaces. Indeed, the Ur'Rukians seem to have a communal living arrangement in the extreme and likely lack an understanding of the concept of personal space and privacy...
+		*Not too far along the path, Eidos spies an area where much of the rubble has been cleared away to give rise to ramshackle living structures, cobbled together from gnarled pipes and weathered cloth.
+		
+		Eidos enters and scans the area. Only the exceedingly old and the uselessly young seem to be present at the moment. Of greater note, though, is that no walls exist to neatly divide the living spaces. Indeed, the Ur'Rukians seem to have a communal living arrangement in the extreme and likely lack an understanding of the concept of personal space and privacy...
 		
 		A suspicion that is confirmed when two boys with vibrant green hair start tugging at Eidos' garments inquisitively.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!DESCRIPTION!}
@@ -3481,7 +3483,7 @@ virgin entrance
 raced twins
 	[/KABU!UR'RUK!LIVING QUARTERS!1.X500!DESCRIPTION!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.X000!DESCRIPTION!|
-		*Eidos dashes with all her might to the end of the hall, blasting past the two boys and leaving them to choke on her trail of desert dust.*
+		*Eidos dashes with all her might to the end of the square, blasting past the two boys and leaving them to choke on her trail of desert dust.*
 		(A#...){A:0,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!DESCRIPTION!}
 	[KABU!UR'RUK!LIVING QUARTERS!1.X500!DESCRIPTION!/]
 
@@ -3611,7 +3613,7 @@ ARKASH & BIRARKUL
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X001!ARKASH!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.002!ARKASH!|
-		*"Yeah, we've got green hair!"*
+		*"Yeah, green hair!"*
 		(A#"Do you like the color green?"){A:1,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!ARKASH!}
 		(B#"But you're unskilled conversationalists."){B:1,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!ARKASH!}
 		(C#"..."){C:1,KABU!UR'RUK!LIVING QUARTERS!9999.X0604!ARKASH!}
@@ -3634,7 +3636,7 @@ ARKASH & BIRARKUL
 
 	[/KABU!UR'RUK!LIVING QUARTERS!0.002!ARKASH!]
 		||
-		*"Last one to the end of the hall is a jinnslave!"*
+		*"Last one to the end of the square is a jinnslave!"*
 		(A#"Play safely, boys! And have fun!"){A:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
 		(B#"Note to self, avoid talking to children."){B:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
 		(C#"..."){C:1,KABU!UR'RUK!LIVING QUARTERS!9990.X16016!ARKASH!}
@@ -3653,7 +3655,7 @@ ARKASH & BIRARKUL
 race twins
 	[/KABU!UR'RUK!LIVING QUARTERS!0.X003!BIRARKUL!]
 		|@:KABU!UR'RUK!LIVING QUARTERS!0.004!BIRARKUL!|
-		*"Gee, lady! You're faster than you look! But you still can't play with us, because mom says outsiders hate us Unseen."*
+		*"Gee, lady! You're faster than you look! But you still can't play with us, because mom says outsiders hate us."*
 		(F#"We are all the children of Roostor, my dear boy!"){F:1,KABU!UR'RUK!LIVING QUARTERS!9999.X0603!BIRARKUL!}
 	[KABU!UR'RUK!LIVING QUARTERS!0.X003!BIRARKUL!/]
 
